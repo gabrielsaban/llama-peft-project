@@ -2,8 +2,8 @@ import re
 import json
 from pathlib import Path
 
-RAW = Path("data/domain_corpus/raw")
-PROC = Path("data/domain_corpus/processed")
+RAW = Path("../data/domain_corpus/raw")
+PROC = Path("../data/domain_corpus/processed")
 PROC.mkdir(exist_ok=True, parents=True)
 
 def clean_text(t: str) -> str:

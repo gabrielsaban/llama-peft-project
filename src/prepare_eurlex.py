@@ -2,7 +2,7 @@ from datasets import load_dataset
 import json
 from pathlib import Path
 
-OUT_DIR = Path("data/lexglue")
+OUT_DIR = Path("../data/lexglue")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def main():
