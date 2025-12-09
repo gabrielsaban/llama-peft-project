@@ -1,0 +1,628 @@
+Case No: 2307383 / 2024
+EMPLOYMENT TRIBUNALS
+Claimant: Mr John Paul Harrop
+Respondent: IQ EQ Administration Services (UK) Ltd
+Heard at: London South Tribunal (by CVP)
+On: 26 and 27 August 2025
+Before: Employment Judge Richter
+REPRESENTATION:
+Claimant: Mr Smith (Solicitor)
+Respondent: Ms Moss (Counsel)
+JUDGMENT WITH REASONS
+The judgment of the Tribunal is as follows:
+The Claim Form
+1.1 On 1 October 2024 Mr Harrop presented to the Employment Tribunal an ET1
+claim form. IQ-EQ (a multinational Investment Services Company) were named
+as the respondents.
+1.2 On the form Mr Harrop identified the title of his employment as ‘Group Funds
+Adviser’ and at Question 5.1 identified that his employment with the respondent
+had ended on 17 April 2024. At Question 8.1 on the form, when asked to identify
+the type of claim the single box ‘I was unfairly dismissed’ was ticked. At
+Question 8.2 - within a body of narrative - Mr Harrop set out the claim (which
+he continued at Question 14) detailing the history of his employment with the
+Respondent and how he had come to be made redundant on 17 April 2024. He
+detailed how he had appealed that decision through the respondent’s internal
+processes which had finally concluded on 15 July 2024.
+1.3 Mr Harrop further detailed in those sections how shortly after the 15 July 2024
+decision had been made his wife had been diagnosed with breast cancer which
+1
+
+Case No: 2307383 / 2024
+had meant he had needed to concentrate on family matters and so was just
+now submitting the ET1.
+1.4 Attached with the ET1 was an ACAS early conciliation certificate which showed
+that ACAS had been notified by Mr Harrop on 24 September 2024 and
+conciliation had ended on 26 September 2024.
+1.5 The core then of Mr Harrop’s claim is that his dismissal was unfair. He asserts
+the ‘redundancy process’ conducted by the respondent was a sham and had
+been pre-determined. He claims that he was in truth dismissed to prevent him
+being entitled to the full benefit of the sale of shares were held in trust. The
+ultimate benefit to him may he believes be in the region of 10 million euros.
+1.6 The respondent denies Mr Harrop’s allegations. It maintains that his
+redundancy was necessary for legitimate business reasons and at all times a
+fair and proper procedure was followed to reach the conclusion that his
+dismissal had to occur. It denies that the process was in any way motivated or
+influenced by the potential equity in any share sale.
+1.7 These competing positions would then broadly would be the focus of
+determination at any final hearing but I am not called upon to decide them and
+I make no findings in relation to the merits or otherwise of the claim.
+Preliminary Issues
+2.1 Two days were originally identified for the final hearing of the claim to take place
+on 26 and 27 August 2025.
+2.2 On 27 June 2025 by a Case Management Order EJ Aspinall converted those
+dates to a public preliminary hearing to address a preliminary issue namely
+whether the Tribunal has jurisdiction to hear the claim, given – as it was
+expressed in the order - that:
+a) The effective date of termination was 17 April 2024
+b) The primary time limit (for presenting a claim) expired on 16 July 2024
+c) ACAS Early Conciliation commenced on 24 September 2024; and
+d) The claim was presented on 1 October 2024
+2.3 The parties have therefore prepared for the hearing in those terms and having
+confirmed that position with the parties at the outset, this has been a public
+2
+
+Case No: 2307383 / 2024
+preliminary hearing conducted in accordance with the Employment Tribunal
+Procedure Rule 52(1)(b) to determine preliminary issues.
+2.4 I have had regard to the following written material:
+Preliminary Hearing Bundle running to 116 pages
+Skeleton argument on behalf of the claimant
+Draft list of issues for full hearing on behalf of the claimant
+Claimant’s Timeline for preliminary hearing
+Claimant’s list of witnesses for preliminary hearing
+Claimant’s list of witnesses for the full hearing
+Claimant’s authorities bundle
+3x Medical letters on behalf of the Claimant
+5x Pages of emails and contract of employment on behalf of the Claimant
+1x Page of emails on behalf of the Claimant
+Respondent’s draft list of issues for preliminary hearing
+Respondent's skeleton argument for preliminary hearing
+Respondent authorities bundle
+5x emails provided by Respondent
+2.5 Yesterday (26 August 2025) I heard evidence from Mr Harrop and submissions
+from Mr Smith and Ms Moss in relation to the issue identified above and as to
+whether further preliminary issues, which had been identified in
+correspondence between the parties, namely whether a separate claim for
+‘Part-time Worker detriment’ was included in the originating process and if the
+Tribunal had jurisdiction to hear such a claim.
+The Law
+3.1 It is convenient at this point to set out certain aspects of the relevant law:
+s.111 of the Employment Rights Act 1996 (“ERA”), so far as is relevant,
+mandates that the Employment Tribunal shall not consider a complaint (of unfair
+dismissal) under this section unless it is presented to the tribunal
+a) before the end of the period of three months beginning with the
+effective date of termination; or
+3
+
+Case No: 2307383 / 2024
+b) within such further period as the tribunal considers reasonable in a
+case where it is satisfied that it was not reasonably practicable for the
+complaint to be presented before the end of that period of three months.
+s.97 ERA – sets out (as far as is relevant) that the Effective Date of Termination
+is:
+a) in relation to an employee whose contract of employment is
+terminated by notice, means the date on which the notice expires.
+s.95 ERA addresses dismissal and subsection 1(a) reads as follows:
+An employee is dismissed if, and only if,
+a) The contract under which he is employed is terminated by the
+employer (whether with or without notice).
+Effective Date of Termination
+4.1 Raised in argument before me is an issue as to dismissal and so more
+fundamentally the ‘Effective Date of Termination’ (“EDT”).
+4.2 The letter of dismissal – said to be due to redundancy – relied upon by the
+respondent is at pp.80 - 81of the bundle. It sets out that meetings with the
+claimant had occurred on 7 and 13 March and 2 April 2024 to discuss the
+situation. It noted that all alternatives to redundancy had been considered but
+ultimately it concluded that the respondent was:
+“… sorry to inform you that your position as Group Funds Advisor is
+redundant and that your employment will therefore terminate due to this
+redundancy. You are not required to work your notice and you will be paid in
+lieu of it, meaning that your termination date and last day of work is 17 April
+2024.”
+4.3 Attached to the letter was a financial statement which set out the payments due
+in respect of redundancy pay, notice pay – paid for a period of 6 months – and
+holiday pay. In total a figure in the region of £45,000 was determined which was
+to be paid to Mr Harrop.
+4
+
+Case No: 2307383 / 2024
+4.4 In argument on behalf of the claimant it is now submitted that the letter did not
+have the effect of terminating the contract. It is submitted that during 2023 Mr
+Harrop had agreed a contractual variation which placed his employment onto a
+‘12 month rolling contract’. Details of the discussions in respect of this aspect
+were provided in evidence by the claimant and email exchanges supporting this
+were provided to the Tribunal under separate cover.
+4.5 I have had regard to the emails but note that what is clear from them is that no
+formal document recording the full terms of any contractual variation was ever
+drawn up. The claimant asserts that this was deliberate action, with malign
+intent, on the part of the respondent to try and frustrate the already agreed
+variation of his contract.
+4.6 The ultimate submission made by Mr Smith however is that Mr Harrop had
+successfully varied his contract of employment which, by the time of
+discussions concerning any redundancy, was now of a ‘rolling nature’ every 12
+months. With that in mind Mr Smith submits that the 17 April 2024 is not
+accepted to be the EDT as it is said that the notice given in the letter sought to
+terminate a different contract which Mr Harrop was no longer employed under.
+4.7 It is right to observe that this is not a point that was ever raised by the claimant
+in the representations he made during the meetings concerning the redundancy
+process, or through the internal process of appealing that decision or indeed
+within the ET1 claim form. It is also right to observe that no evidence has been
+provided or submission made as to how this newly varied contract might be
+effectively terminated. Mr Smith makes no submission as to how the varied
+contract of employment was actually brought to an end. Nor does Mr Smith,
+when asked, make any submission as to when the claimant asserts that the
+EDT did occur in this case.
+4.8 The respondent denies that the contract was varied in the way described by the
+claimant. Of some interest the respondent does not rely upon the employment
+contract terminating on 31 January 2024 (which the original contract was
+expressed as doing) and it accepts that Mr Harrop remained employed and
+working until the 17th April 2024.
+4.9 The respondent submits however that it gave proper and effective notice of
+termination of any employment contract which Mr Harrop was employed under.
+5
+
+Case No: 2307383 / 2024
+It is submitted that Mr Harrop was paid in lieu of notice so if, for example, Mr
+Harrop genuinely believed he was entitled to 12 month’s notice (as opposed to
+6 months) because of any contractual variation than this ‘money claim’ is an
+issue he could have raised through the appeals process or brought as a claim
+within the ET1 form. In any event they contend such an issue does not affect
+the validity of the dismissal.
+4.10 In his evidence Mr Harrop accepted that he last worked for the Respondent on
+17 April 2024. He accepted that he understood that he was given this date as
+his EDT. He accepted that he had received the payments set out in the Financial
+Statements appended to the dismissal letter and he further explained that his
+wife had told him that the money had come into his accounts and he had
+effectively ‘banked the money’ whilst the internal appeal process continued in
+case a position was reached where he had to repay it.
+Findings and Conclusions on EDT
+4.11 I have looked with care through the correspondence brought to my attention
+within the bundle, in my view, this makes clear that Mr Harrop understood that
+his employment had been terminated on 17 April 2024. In his evidence Mr
+Harrop explained that he understood the Respondent’s appeal process was
+focussed on whether to maintain or overturn the decision which had been made
+to terminate his employment on 17 April 2024 and I am satisfied that was his
+understanding at the time.
+4.12 In my judgment I do not need to resolve any issue of contractual variation – I
+would not be in a position to do so in any event not having heard witnesses
+from the respondent.
+4.13 What I must determine is whether Mr Harrop was actually dismissed and if so
+when. I am reminded by Ms Moss that termination is a question of fact and law.
+I note the clear terms of the letter. It gives express notice that the claimant’s
+employment will terminate. It is also clear from the letter that it is said that the
+claimant’s position as Group Funds Adviser is made redundant. The wording is
+clear and unambiguous. It does not express itself as tied to any particular
+employment contact and I am satisfied that whatever the contractual position
+the letter was giving clear notice of termination of the claimant’s position. I then
+further note that payments were made to Mr Harrop in respect of the termination
+of his employment. I note the accepted position that Mr Harrop did not complete
+any further work for the Respondent after 17 April 2024. I note that throughout
+6
+
+Case No: 2307383 / 2024
+the correspondence in relation to his internal appeal and for the documentation
+prepared for the Employment Tribunal claim Mr Harrod has consistently
+referred to his employment as having being terminated. I can find no basis for
+saying that the claimant’s employment extended beyond the 17 April 2024 and
+I am therefore satisfied on the evidence and find as a fact that the EDT in this
+case was 17 April 2024.
+The Primary Time Limit - Was the claim presented in time?
+5.1 Given the EDT s.111 ERA requires that the ET1 claim form should have been
+presented by 16th July 2024. As set out above the claim form was presented on
+1st October 2024 around two and half months after the expiry of that primary
+time limit.
+5.2 I note that no involvement with ACAS took place during the period of the primary
+time limit so as to extend it. I find therefore as a fact that the claim was
+presented out of time.
+5.3 Two further considerations then arise for consideration:
+1. Is the tribunal satisfied that it was not reasonably practicable for the complaint
+to be presented within the primary time limit? and
+2. If it was not reasonably practicable, were the claims made within such further
+period as the tribunal considers reasonable?
+‘Reasonably practicable’ - Why the claim was not presented in time?
+6.1 Giving evidence Mr Harrop explained that he had not submitted the claim by 16
+July 2024 as his understanding was that he had three months to present a claim
+from the outcome of the final internal appeal hearing. He said that he had ‘heard
+about this from people’. He said he had thought ‘that the courts would want to
+see that you had done all you could to appeal’ the decision internally before
+7
+
+Case No: 2307383 / 2024
+bringing a claim and so that he had three months to bring a claim from the
+internal appeal decision.
+6.2 Mr Harrop gave further evidence that his wife had had been undergoing medical
+investigations in respect of suspected breast cancer as from around late June
+and the diagnosis he said was confirmed on 19 July 2024. He said that the
+focus of his life had at that point to be on his wife and children and he could not
+focus upon the ET1 until after his wife’s treatment had settled in around the
+middle of September 2024.
+6.3 When cross examined it was put to Mr Harrop that he had not submitted the
+claim within the primary time limit because he had assumed he had three
+months from the outcome of the appeal process and he agreed with this
+proposition. When asked who he had heard this from Mr Harrop said it was
+people he had been speaking to. He accepted that he had internet access and
+access to sources of advice but he said he did not believe he had researched
+the process of bringing an employment claim as he had expected the
+respondent to act ‘honourably’ in the internal appeal process and that he had
+heard that there was 3 months to bring a claim from the end of that process.
+6.4 In respect of Mr Harrop’s wife’s cancer diagnosis three medical letters have
+been produced by the claimant to the tribunal:
+- The first is dated 30 May 2024 and invites Mrs Harrop to a mammogram
+screening on 24 June 2024. Mr Harrop gave evidence that this
+appointment was prompted as his wife had herself detected a lump
+which was, as would be expected, greatly concerning.
+- The second letter is undated inviting Mrs Harrop for further testing on 11
+July 2024. Giving evidence Mr Harrop says that at this appointment he
+and his wife were told to ‘prepare for the worst’ and that they took this to
+mean a cancer diagnosis was likely.
+- The third letter is dated 19 July 2024 and gave a diagnosis of breast
+cancer. In the ET1 form and in his evidence in chief, as set out above,
+Mr Harrop detailed the effect of the diagnosis of cancer as meaning from
+that point on he had to focus upon his family to the exclusion of
+employment related issues. In re-examination Mr Harrop’s evidence
+varied slightly to detailed that his wife’s medical situation had had a
+devasting effect upon their family lives as from late June such that he
+could not attend to this employment issue.
+8
+
+Case No: 2307383 / 2024
+6.5 I have no doubt that the finding and diagnosis of Mrs Harrop’s condition would
+have had a significant impact on Mr Harrop and his family. I am entirely satisfied
+and find as a fact that that impact would naturally have escalated throughout
+the period set out above as the further testing was conducted and as a fear of
+cancer was replaced with diagnosis, prognosis and treatment. I have no doubt
+that from the point of diagnosis onwards it was reasonable for Mr Harrod to
+have focussed his immediate attention on his family life.
+6.6 The tribunal has every sympathy for the situation in which Mr Harrop and his
+family found themselves. What I must assess however is the impact that this
+medical dimension had upon Mr Harrod’s ability to present the claim form within
+the primary time limit given that he asserts that it did play a part in his inability
+to present the claim. In so doing I must note that sadly many people experience
+traumatic medical events which deeply affect them personally and their families.
+I have to observe however that often people are able to and do still attend to
+significant personal matters, including the filing of legal proceedings, whilst they
+personally are undergoing testing and even treatment for very serious
+conditions.
+6.7 Having heard the evidence I am not satisfied that the medial situation of Mr
+Harrop’s wife did play any significant part in preventing the presentation of the
+claim within the primary time limit. As acknowledged above whilst the period of
+investigation would no doubt have been a period of increasing stress and I keep
+in mind the extra burden that this would have placed upon Mr Harrop, it would
+not in my judgment have prevented Mr Harrop from filing the ET1 form in time.
+It is clear that this developing situation occurs at the end of the primary time
+limit and, in my view importantly, the actual confirmation of a diagnosis of breast
+cancer occurs after the time limit had already expired. Mr Harrop’s evidence in
+re-examination that the effect of the ongoing medical situation was such that he
+could not attend to matters as from late June is at odds with the narrative within
+the ET1 form and with his evidence in chief and cross examination I can not
+accept that it had such an all consuming impact at that relatively early stage of
+the process.
+6.8 As to the effect of the diagnosis and then treatment on Mr Harrop’s ability to file
+the claim form after the primary limitation period I make no finding.
+9
+
+Case No: 2307383 / 2024
+6.9 In any event the primary reason asserted by Mr Harrop for the failure to submit
+the claim form in time was his belief that the time limit expired at the conclusion
+of the internal appeal process. I am satisfied on the evidence I have heard and
+find as a fact that this was the reason that the claim form was not submitted in
+time. In simple terms Mr Harrop made a mistake as to when the claim should
+be presented and it is this error which prevented him from submitting the claim
+in time.
+Was it not reasonably practicable to present the claim in time?
+The Law
+6.10 I have been referred to several helpful authorities. I am reminded that the onus
+is on the claimant to prove that it was not reasonably practicable to bring the
+claim in time Porter v Bandridge Ltd [1978] ICR 943
+6.11 I remind myself that test is strict one in the sense that it requires the tribunal to
+focus on whether it was reasonably feasible for the claim to have been filed in
+time. I keep in mind though that this test should give a liberal interpretation in
+favour of the employee – Marks & Spencer v Williams-Ryan [2005] ICR
+1293.
+6.12 It is clear that a mistaken belief by an employee as to the proper time to exercise
+a right which they are aware of can render it ‘not reasonably practicable’ for a
+claim to have been presented in time if that belief is reasonably held.
+6.13 I note that what is reasonable must be considered in a case specific context.
+There are, for example, a wide variety of claimants who bring claims to the
+Employment Tribunal. Some have limited education and/or command of
+English and/or have no ready access to sources of assistance or advice. Other
+claimants however are different and are in different circumstances.
+6.15 In the Marks & Spencer case I note that a combination of advice by a citizens
+advice bureau to pursue an internal appeal combined with insufficient and
+misleading advice by the employer and stress upon the claimant from a teacher
+training course were sufficient to permit a finding that it was not reasonably
+practicable to present the claim in time and for there to be an extension of time
+(although it was felt on appeal that that was potentially a generous finding to
+the employee).
+10
+
+Case No: 2307383 / 2024
+6.14 A belief by a claimant that the internal appeals system had to be exhausted
+though is not necessarily sufficient to justify a finding that it was not reasonably
+practicable to present a complaint to a tribunal within the time limit. Such has
+long been established with Bodha v Hampshire Area Health Authority 1982
+ICR 200, EAT – being just one example.
+6.15 Ms Moss highlights Loweri Beck Services Limited v Patrick Brophy [2019]
+EWCA Civ 2490 where Underhill LJ VP set out at para 12(3)&(5):
+“If an employee misses the time limit because he or she is ignorant about
+the existence of a time limit, or mistaken about when it expires in their
+case, the question is whether that ignorance or mistake is reasonable. If
+it is, then it will have been reasonably practicable for them to bring the
+claim in time (see Wall’s Meat Co Ltd v Khan [1979] ICR 52); but it is
+important to note that in assessing whether ignorance or mistake are
+reasonable it is necessary to take into account any enquiries which the
+claimant or their adviser should have made.”
+And
+“The test of reasonable practicability is one of fact and not of law”
+Factual position
+7.1 I must consider then the factual situation in this case, Mr Harrop gave evidence
+that he was conducting the representations he made in respect of redundancy
+and through the internal appeal process and the submission of the ET1 claim
+form himself. I find as fact that this was the position.
+7.2 It is clear from the evidence that Mr Harrop is a successful businessman. When
+giving evidence he was articulate and intelligent. He gave evidence that as a
+professional businessman working in a large multinational business he is used
+to taking a methodical approach to complex issues. He accepted that he has
+been involved in HR issues at work and had sat on various hearings for HR
+matters. I do not of course regard any such experience as imputing any special
+knowledge to Mr Harrop, but I am satisfied that it would no doubt have provided
+at least some exposure to employment issues and an awareness of the
+necessity, even above his experience from business dealings, to ensure that
+the correct processes were followed.
+11
+
+Case No: 2307383 / 2024
+7.3 Mr Harrop accepted he had access to the internet and I am entirely satisfied
+that he would have been able to conduct his own personal research as to his
+employment rights without any difficulty.
+7.4 Importantly though Mr Harrop accepted that he had access to other sources of
+advice and I find as fact he did. Mr Harrop detailed in evidence that he was
+discussing his employment situation with a friend, who was an HR consultant,
+who was assisting him at the time. Mr Harrop was also professionally consulting
+from an early stage with Mr Smith. Mr Smith who appears to represent him at
+this hearing is a qualified solicitor practising in the areas of commercial law and
+non-contentious employment law. Mr Harrop references the fact that he was
+receiving his professional advice throughout his correspondence in connection
+with the redundancy appeal process and I am satisfied therefore that Mr Harrop
+had ready access to specialist advice and assistance.
+7.5 I am satisfied that Mr Harrop knew he had a right to bring a claim to the
+Employment Tribunal as again this is set out clearly within the correspondence
+during the internal process in connection with the proposed redundancy.
+7.6 Mr Harrop asserts that he believed he had three months for the end of internal
+appeal process because of what he had ‘heard from people’. He did not specify
+who he had heard this information from beyond it being ‘word of mouth’. Mr
+Harrop specifically said he did not ask the friend with an HR background who
+was providing him with assistance. Nor did he ask Mr Smith who he was paying
+to advise him and I am satisfied that he did not.
+7.7 A key consideration then at this stage is whether it was reasonable to have
+expected Mr Harrop to have sought information and advice as to the
+enforcement of his rights i.e. found out the correct time limit for presenting the
+claim?
+7.8 It is worth noting that it is argued by the claimant that the respondent in essence
+deliberately delayed the internal appeal process so that he was left with just two
+days left to run on the primary time limit after the notification of the final outcome
+of the appeal. It is submitted by Mr Smith that the respondent ‘gamed the
+system’ in this way. I note that no evidence of deliberate manipulation has been
+presented and I am satisfied that the material submitted within the bundle tends
+to show a thoughtful and considered internal appeal process. In any event
+whatever period of time the internal appeal process took misses the core
+question for the tribunal at this stage which must focus on the reasonableness
+of Mr Harrop’s ignorance of the correct time limit.
+12
+
+Case No: 2307383 / 2024
+7.9 Ms Moss highlights from the correspondence generated by the claimant during
+the redundancy and internal appeal process material which she says shows
+that Mr Harrop was not only aware of the right to present a claim to the
+Employment Tribunal (as set out above) but which demonstrates his ready
+access to professional advice and other sources of information and support. In
+particular she highlights:
+- At the first meeting to discuss potential redundancy on 7 March 2024 Mr
+Harrop at the end of the meeting commented that “This comes across as a ‘fait
+accompli’ given I was shut out 6-8 weeks ago (20th Jan). My lawyers can add
+to this based on the bigger puzzle.” Mr Harrop explained in evidence that this
+was a reference to Luxembourg lawyers who he had instructed in connection
+with the company shares issue.
+- At the second meeting on 13 March 2024 Mr Harrop provided a written
+statement in which he set out that he felt that there were grounds for
+‘constructive dismissal’ as from January 2024 and that he should remain
+employed until legal action in Luxembourg had resolved as otherwise he would
+‘commence action withing the UK courts’. Cross examined about this Mr Harrop
+explained that he was by now receiving professional advice although he was
+‘taking the lead’ on how to phrase things. He explained that this came from both
+the lawyers he had instructed in Luxembourg and from Mr Smith. Mr Harrop
+explained that he had a professional relationship with Mr Smith and was paying
+him to provide advice through this period albeit with a focus on the issue of
+shares held in trust.
+- At the final meeting on 2 April 2024 Mr Harrop provided a further script which in
+the concluding paragraph said: “Once redundancy is confirmed, my U.K.
+lawyers will commence legal proceedings against IQEQ for unfair and wrongful
+dismissal on the grounds of discrimination due to my part-time status”. Mr
+Harrop confirmed in evidence that this reference to a UK lawyer was to Mr
+Smith.
+7.8 Ms Moss further highlights that Mr Smith was copied in to email
+correspondence regarding the internal appeal process and that that
+documentation too refers to him having taken professional advice – see for
+example pages 83,84,85 and 96 of the bundle.
+Findings and Conclusion on ‘Reasonably practicable’
+13
+
+Case No: 2307383 / 2024
+8.1 Considering the factual position in my judgment I am satisfied that it was
+reasonable for Mr Harrop to have sought information and advice as the time for
+presentation of any complaint to the Employment Tribunal:
+1) I am satisfied that it is not difficult to find information about the correct primary
+time limit from even a cursory search of the internet. In my judgment, even with
+all that was occurring in Mr Harrop’s life during the period of the primary time
+limit (and even with particular regard to his wife’s developing illness) it was still
+in my judgement reasonable to expect Mr Harrop to have made some enquiry
+as to the time limit for bringing a claim. It is clear that he was well aware of the
+substantial impact that the termination of his employment may have. He was
+clearly actively involved in contesting the decision to make him redundant and
+was considering and drafting material to make submissions to contest the
+decision. A simple check of the internet would have revealed the correct
+information as to presentation within a matter of moments.
+2) Put another way, as a professional man used to dealing with complex business
+operations it was in my judgment unreasonable of him to simply accept and rely
+upon ‘word of mouth’ reports as to the time for bringing a claim. These reports,
+made by unspecified and seemingly unqualified individuals, were clearly
+objectively unsatisfactory when Mr Harrop was acutely aware of the importance
+of the substance matter.
+3) Whilst Mr Harrop in evidence says he had ‘faith’ in the internal appeal system,
+which it is said mitigates the necessity to have conducted research, this is not
+supported by the contemporaneous documentation. From the material
+submitted Mr Harrop was asserting during the internal process, as he does now,
+that the whole process was in fact pre-determined. This again supports my view
+that it was reasonable for Mr Harrop to have made some efforts to clarify the
+time limit for submission of an ET1, from independent and professional sources,
+given it appears he had at least in serious contemplation the possibility that his
+internal appeal would fail.
+4) It is also clear that Mr Harrop had ready access to professional advice. He had
+informal guidance from an HR professional and he had retained specialist legal
+advice. Whilst I accept he did not ask them for advice in connection with the
+time limit in my judgment it was reasonable for him to have done so. It is clear
+he readily had the means to seek even further specialist employment advice if
+they were unable to provide the required information. It is then in my judgment
+reasonable to have expected Mr Harrop to have made enquiries and sought
+advice as to the time limit for presentation of the ET1 claim form.
+14
+
+Case No: 2307383 / 2024
+8.2 Having considered the matter with great care and applying the test as I must I
+am satisfied, and I find as a fact, that it was reasonably practicable for Mr Harrop
+to have presented the complaint of unfair dismissal within the period of 3
+months from the effective date of his termination. It was reasonable to have
+expected him to have ascertained the correct time limit and had he done so he
+clearly could have complied with it even despite all that was occurring in his life
+at the time. Accordingly, despite the sympathy the tribunal has for the medical
+situation which faced Mr Harrop at the time, the complaint of unfair dismissal
+was submitted ‘out of time’ and this tribunal does not have jurisdiction to
+consider the complaint which must therefore be dismissed.
+Part Time Worker detriment
+9.1 One other matter has been raised at this hearing which it is agreed requires
+determination as a preliminary issue.
+9.2 Within the ET1 form Mr Harrop set out in the narrative of his claim how having
+negotiated a contractual variation during the course of 2023 – as I have set out
+above – it was then refused because it was said (in an email dated 20
+December 2023) no changes could be made at that stage of the investment
+cycle other than for those employed full time. Mr Harrop asserted that this
+discriminated against him as he was a part time worker.
+9.3 As set out above no separate claim was specifically identified at section 8.1 of
+the ET1 as being made under the Part-time Workers (Prevention of Less
+Favourable Treatment) Regulations 2000 (“The Regulations”).
+9.4 Within the ET3 response form the respondent set out that it was:
+‘unclear whether or not the Claimant intends to bring this as a separate
+claim to his unfair dismissal claim. The Claimant is called upon to clarify
+if he wishes to bring this as a separate claim and if so the Respondent
+requests further and better particulars of this claim including details of
+the alleged less favourable treatment and the comparator relied upon.’
+9.5 In correspondence with the Tribunal dated 9 Jan 2025 Mr Smith on behalf of
+the claimant set out the following:
+“We feel it is worth highlighting the significance of the Part-Time Worker
+element of Mr Harrop’s claim. Is it clear that Mr Harrop was treated less
+15
+
+Case No: 2307383 / 2024
+favourably because of his part-time status, as evidenced in the message
+from Mr Chris Marsden on 20th December 2023. Regulation 5 from Part-
+time Workers (Prevention of Less Favourable Treatment) Regulations
+2000 sets out the basis of such a claim. This states that a Part-time
+worker has the right not to be treated by his employer less favourably
+that the employer treats a comparable full-time worker (a) as regards
+the terms of his contact; or (b) by being subjected to any other detriment
+by any act, or deliberate failure to act, of his employer.”
+“In relation to the Respondent’s attempt to have this case considered to
+be time-barred, the test for extending time to raise a ‘less favourable
+claim’ is set out in Regulation 8(4) and says “A tribunal may consider any
+such complaint which is out of time if in all the circumstances of the case
+it considers that it is just and equitable to do so”.
+9.6 Despite that correspondence no application was ever made to amend the ET1
+form or to provide further details and none has been made to date. In addition
+the draft list of issues prepared by the claimant in respect of the final hearing
+and submitted for consideration at this hearing does not include any reference
+to issues in relation to a free standing ‘part time workers detriment’ claim.
+9.7 Ms Moss submits that any claim under the above regulations has not been
+properly particularised within the ET1. She sets out that in particular no actual
+comparator has been identified. The only individual mentioned is not employed
+in the same jurisdiction and could not properly be regarded as a comparator for
+the purposes of the regulations. Ms Moss draws my attention to the authority of
+Carl v University of Sheffield [2009] ICR 1286 where giving judgment Judge
+Peter Clake confirmed that for a complaint made under the regulations an
+actual and not a hypothetical comparator is required.
+9.10 Ms Moss further submits that the respondent has interpreted the comments
+made within the ET1 as part of the complaint made in respect of the unfairness
+of the dismissal and not as a free-standing claim. She says that the respondent
+would be prejudice by the inclusion of any such claim now as the witness
+statements and case material, which have all been prepared already for the
+final hearing, have not addressed this issue and considerable further evidence
+would be needed to address it. In any event Ms Moss submits that the claim at
+the moment remains too unclear to be responded to in any event.
+16
+
+Case No: 2307383 / 2024
+9.11 Mr Smith however asserts that the claim should be regarded as a free-standing
+complaint made within the ET1 form. He asserts that the substance of the
+complaint is obvious and that the claimant should not be prevented from
+pursuing this claim even if it is out of time, as the tribunal may consider a claim
+if it ‘just and equitable’ to do so. Mr Smith submits that this is a broader test than
+the application of the ‘reasonably practicable’ test in relation to the presentation
+of an unfair dismissal complaint.
+9.12 It is right to observe that Regulation 8(2) of the Regulations provides that an
+employment tribunal may consider a complaint which is presented before the
+end of the period of 3 months of (to paraphrase) the last example of
+unfavourable treatment. Regulation 8(3) of the Regulations provides that the
+Tribunal may consider any complaint brought outside of that time limit if it is just
+and equitable to do so.
+9.13 In respect of whether a tribunal might find it just and equitable to hear a claim
+Mr Smith provides a summary number of authorities which I have considered
+namely:
+Bexley Community Centre v Robertson [2003] IRLR 434
+British Coal Corporation v Keeble & others [1997] IRLR 336
+Abertawe Bro Morganwg University Local Health Board v Morgan [2018]
+ICR 1194
+9.14 I must determine first though if the ET1 does include a complaint brought under
+the Regulations. As set out I note that Mr Harrop drafted the ET1 himself, he is
+not a lawyer and as such a perfect standard of drafting is not required. What
+would be necessary in my judgment however is an articulation of the complaint,
+an identification of the detriment suffered and, given the decision in Carl
+referred to above, the identification of an actual comparator.
+Findings and Conclusions
+9.15 Looking at the ET1 and considering the submissions which have been made to
+me I find I can not say with any clarity what the complaint under the Regulations
+is said to be made here.
+17
+
+Case No: 2307383 / 2024
+9.16 It has been asserted in argument before me that Mr Harrop’s contract was
+actually varied during the course of negotiations in 2023. This it has been made
+clear is the Claimant’s position. In my judgment that argument as advanced
+does not correlate with the allegation made in the ET1 which appears to allege
+that the contractual variation was refused because of Mr Harrop’s status as a
+part time worker. It has not been explained how these two positions could be
+run in contradiction to each other and so it is unclear what the complaint is
+under the Regulations is and what the detriment suffered is said to have been.
+Further, it is clear no valid comparator is identified either in the ET1 nor has one
+been in the course of argument.
+9.17 Overall, for the reasons set out above, even accepting that Mr Harrop is not a
+lawyer, I am not satisfied that a freestanding complaint is made under the
+Regulations in the ET1 form which was submitted.
+9.18 Even if I am wrong in that conclusion I note that any such claim would again
+have been brought outside of the primary time limit. Would it be ‘just and
+equitable’ for the tribunal to hear the claim? This is clearly a broader test than
+the one of ‘reasonably practicable’ considered above but as a starting point I
+come back to consider the factual situation as I have set it out above in respect
+of the unfair dismissal claim.
+9.19 I then further identify that by the time Mr Harrop was drafting the ET1 form and
+during the course of preparation for this hearing he has had access to legal
+advice and assistance. He has had an ability to research the claim he was
+making and to seek to amend the claim form as invited to by the respondent at
+an early stage. I note the fact that the argument advanced now, that his contract
+was varied, is in contrast to the supposed basis for the claim which is sought to
+be brought. I have regard to the fact that the respondent would be prejudiced
+by having the expense of further preparation in order to address this new
+complaint if it were permitted to proceed. Whilst I have in mind that a refusal to
+permit such a claim to continue will deprive Mr Harrop of an opportunity to
+present a case on this aspect balancing all the factors I do not consider that it
+would be just and equitable to allow any complaint under the regulations to be
+brought.
+18

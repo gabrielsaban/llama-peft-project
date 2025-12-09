@@ -1,0 +1,312 @@
+Case: 6017336/2024
+EMPLOYMENT TRIBUNALS
+Claimant: Monika Dilniak
+Respondent: Whitbread Group PLC
+AT A PUBLIC PRELIMINARY HEARING
+Heard at: Leeds by CVP video conferencing On: 11th September 2025
+Before: Employment Judge Lancaster
+Representation
+Claimant: Miss M Martin, counsel
+Respondent: Mr A Powis, solicitor
+JUDGMENT
+The claim is out of time, but may proceed under section 123 (2) (b) of the Equality Act
+2010
+RESERVED DECISION
+WRITTEN REASONS
+1. At a hearing on 17th April 2025 Employment Judge Jones identified three preliminary
+issues for determination:
+1.1 When did the respondent agree to any adjustments, in 2024, which would have
+allowed the claimant to return to work?
+1.2 Why was there a delay, after 15 March 2024, to the return of the claimant to work?
+Was it as the respondent contends, because the claimant had requested not to
+return until 26 June 2024? Or was it as the claimant contends that, save for a
+period of annual leave, the respondent was responsible for delays in facilitating her
+return?
+1.3 If the former, was the claim presented within such further period as was just and
+equitable in all the circumstances? If the latter the 2024 claim is in time.
+2. At the start of this hearing I identified a further issue which requires to be addressed
+before I could, if applicable , deal with the question of extension of time limits:
+1
+
+Case: 6017336/2024
+2.1 What is the effect upon the limitation period of there being two ACAS early
+conciliation certificates?
+3. The only ACAS certificate number referenced on the claim form (ET1) is
+R203301/24/84. That relates to a period of early conciliation between 1st July and 12th
+August 2024.
+4. I am satisfied that that is the only reason why Judge Jones identifies this within his
+Case Management Order as “the relevant ACAS certificate”. Miss Martin, who was
+present on the last occasion, has confirmed that although Judge Jones was aware of
+an earlier certificate and that she set out the Claimant’s position that this related to a
+different matter, there was no detailed argument on the point, and certainly no
+determination made by Judge Jones.
+5. The first ACAS certificate is number R174361/24/02 and relates to a period of early
+conciliation between 7th and 17th March 2024. In the Response (ET3) it is pleaded that
+this is the operative certificate for the purpose for limitation.
+6. It is not contentious that there can be only one relevant certificate for the purposes of
+considering whether the statutory extension of time to allow for early conciliation
+applies: The Commissioners of HM Revenue and Customs v Serra Garau [2017] ICR
+1121.
+7. The requirement under section 18A (1) of the Employment Tribunals Act 1996 is that:
+“Before a person (“the prospective claimant”) presents an application to institute
+relevant proceedings relating to any mmatter,the prospective claimant must provide to
+ACAS prescribed information the prescribed manner about that matter.”
+8. “Matter” is not defined in the statute, but has been held to have a broad meaning, not
+to be the same as a “cause of action” or “claim” and to be capable of extend to events
+after the end of the conciliation period: cf Science Warehouse Ltd. V Mills [2015] 10
+WLUK 251 EAT and Compass Group UK & Ireland v Morgan [2017] ICR 73 EAT .
+9. Both parties rely on the Claimant’s email of 15th April 2024 where she says:
+“I will of course challenge this through ACAS Early conciliation and a possible
+employment tribunal if necessary.”
+10. Miss Martin submits that in context this can only relate specifically to the argument,
+advanced on behalf of the Claimant by her Trade Union representative but rejected by
+the Respondent, that her absence from August 2023 should be treated as a medical
+suspension and paid accordingly. She therefore says that, assuming that this proposed
+approach to ACAS was the initial entering into early conciliation on 7th May 2024, it is
+a separate matter to the later entry into conciliation on 1st July 2024 or the claim
+eventually submitted on 4th November 2024.
+11. I accept the Claimants evidence that she left the conduct of her complaint in the hands
+of her union representative, Mr Mawer at Unite. It therefore follows, however, that she
+does not actually know what Mr Mawer said to ACAS. It is though clear from the
+certificate issued on 17th May 2024, that he did properly identify that there was a
+2
+
+Case: 6017336/2024
+relevant matter existing between the parties whose names and addresses were
+notified in the prescribed manner.
+12. I also accept the Claimant’s evidence that Mr Mawer then told her that in his belief he
+needed to make a fresh application for early conciliation, which he did on 1st July 2024,
+on a “different ground”. Once again the Claimant was content to entrust things entirely
+to her union representative.
+13. Mr Powis submits that in reality this is the same matter, a part of the dispute between
+the parties as to the Claimant’s alleged entitlement to compensation or payment for the
+period when she says she was in fact fit to work but was not permitted to return.
+14. I unhesitatingly prefer Mr Powis’s submission on this point. The correspondence on
+both sides which contextualises the email of 15th April 2024 refers to the identified
+issue of needing to look at making reasonable adjustments within the relevant
+timeframe as precondition of the Claimant in fact being able to return to work. That
+alleged failure to make reasonable adjustments is the claim that was eventually
+brought. Within the ET1 the claimed disadvantage to the Claimant said to arise from
+the alleged provision, criterion or practice includes “she suffered substantial financial
+loss by the Respondent’s refusal to allow her to work”. Even more explicitly in the
+Schedule of Loss she claims for loss of earnings for the whole period when she says
+she was fit to work with reasonable adjustments. This is the same matter as that in
+respect of which she first intimated tribunal proceedings on 15th April 2024, even
+though the possible cause of action may be differently framed.
+15. It may well be an understandable misapprehension on the part of Mr Mawer, who it is
+said is not legally trained, to think the Claimant needed to enter a further period of
+early conciliation, but he was wrong. The initial certificate would also have covered
+subsequent events in respect of the allegedly continuing matter.
+16. The first preliminary issue identified by Judge Jones is to establish when the last act
+occurred in an alleged course of conduct extending over a period and from which the
+limitation period might begin to run for the purposes of bringing a claim in time within
+section 123 (3) (a) of the Equality Act 2010.
+17. The Respondent contends that this is 15th March 2024 (in reality this must be 18th
+March when the letter of that date was sent). The Claimant contends that it is 26th June
+2024 when she actually returned t work (though again I think the actual date is
+marginally incorrect and should be 25th June 2024).
+18. The claim is in respect of an alleged failure to make reasonable adjustments,
+alternatively a refusal to allow the Claimant to return to work. The date of the
+commencement of this alleged period of continuing conduct is not clear. In the ET1 it is
+stated that the Claimant had a doctor’s note saying she was fit to work from 4th August
+2023, only so long as she was not carrying suitcases. The date in the Schedule of
+Loss is said to be 4/3/23 (4th March 2023) but this may be a “typo” for 4/8/23. I can
+however see from the ET1 that there is reference to an earlier fit note expiring in March
+2023, before which date Occupational Health had certainly considered that she would
+not under any circumstances be able to return. In an email dated 28th March 2024 the
+Claimant asserts that she had been available for work since 6th March 2023. In an
+email dated 18th December 2023 Carmel Wylie from the Respondent’s HR department
+says that the Claimant’s last fit note expired in early August 2023 but that she had not
+3
+
+Case: 6017336/2024
+thereafter indicated that she was fit and able to carry out her substantive role as a
+receptionist.
+19. In any event, as was se out in Judge Jones’ Case Management Summary, at least in
+so far as it relates to the reasonable adjustments complaint, the test for assessing
+when time began to run will be (in accordance with sections 123 (3) (b) and (4) f he
+Equality Act 2010):
+“When did the respondent made a decision about the adjustments? Or, if no decision
+was made, when did the respondent acted inconsistently with making the decision? Or,
+if neither, when might the respondent reasonably have been expected to have made
+the adjustment?”
+20. As I understand it the Claimant’s case is that there was a point where she would have
+been fit to return to work with adjustments but that at some stage at or after the time
+when it would have been reasonable to make those adjustments it can be inferred that
+the Respondent had decided not to make those adjustments. I do not know, however,
+when precisely that is said to have been. A doctor’s note saying she was fit to work
+from 4th August 2023, only so long as she was not carrying suitcases, on the face of it
+implies that she would - with only a relatively minor adjustment to her duties - have
+been able to start to return to her full-time job Iin Scarborough at that time. I doubt that
+will in act have been the position. It appears that both reduced hours and a transfer to
+York would have been required before she could actually return to work.
+21. Evidentially this claim may, I think, therefore turn upon the acknowledgement from Ms
+Keaney (quoted in the ET1) that, at the latest, as at 16th November 2023 a transfer to
+York and reduced hours could by then be accommodated, but that there were
+concerns about identifying the extent of the other adjustments to be put in place. The
+case appears therefore be about an alleged unreasonable delay in implementation of
+that move to York and the agreement to cut her hours.
+22. At a welfare meeting held on 16th February 2024, as summarised in the letter of 15th
+March 2024, it appears that the Claimant had by then agreed that she was now fit to
+carry out a substantial number of the tasks associated with the receptionist’s role. I
+note that by this stage these are said to include “moving luggage, taking cases to and
+from luggage room” without the adjustment that had been proposed as at August 2023.
+23. In that letter the Respondent confirmed that the Claimant may now return to work at
+York Northwest Premier Inn, on 16 hours /2 days per week and acknowledged too that
+her only other proposed adjustments of a phased return increasing from 25 per cent of
+hours up to the new contractual hours of 16 over no more than 4 weeks (details to be
+agreed) and with no daily stripping of bedrooms or regular bedroom cleaning tasks
+would also be accommodated.
+24. The date of the return to work however remained to be confirmed. It was stated that
+the Claimant’s new manager, Sarah Keeney would contact her about her holidays
+accrued during her sickness absence and to agree the start date. On 19th March the
+Claimant queried Ms Keaney’s involvement as she, mistakenly, thought that she only
+managed York Blossom Street and was therefore confused at to the place she would
+be working even though it had been clearly stated to be at the Poppleton site. She also
+asked for clarification that her working days would still conform to a flexible working
+agreement to accommodate recovery time after her weekly medical appointments. On
+4
+
+Case: 6017336/2024
+27th March after apologising for the delay in replying, Mark Davidson confirmed both
+points raised and reiterated that Ms Kearney would be in touch to address both
+holidays and the start date. This would now, however, have to be after 2nd April
+because Ms Karney was now on annual leave. On 5th April Ms Kearney did contact the
+Claimnt to arrange a meeting.
+25. On 28th March 2024 the Claimant had requested of Mr Davidson that she be paid from
+6th March 2023. On 8th April she replied to Ms Kearney stating that she was away until
+15th April and referring to the email about pay. Ms Kearney referred this back- pay
+request again to Mr Davidson, as she did know what it referred to. Mr Davidson replied
+to the Claimant to 12th Aril 2024, again apologising for the delay which had been due to
+his being on annual leave. He referred the Claimnt to an email sent from Carmel Wylie
+to her union representative on 18th December 2023, rejecting the proposition that the
+Claimant was entitled to medical suspension pay. However, this email may well not
+have been received by Mr Mawer, as the email address used for him was not accurate.
+At this time Mr Davidson emphasised that the Claimnt should confirm her start date
+and working pattern with Ms Kearney” imminently” and that “we are looking forward to
+welcoming you back to Whitbread”.
+26. On 15th April 2024, that is immediately on the Claimant’s notified return date from
+holiday, Ms Kearne chased up the request to arrange a meeting date. On 16th April
+2024 the Claimant offered two dates, 29th April or 7th May and left it for Ms Kearney to
+decide. On 17th April Ms Kearney suggested 7th May and the Claimant immediately
+confirmed that “that sounds great”. Internal correspondence between Ms Kearney and
+HR shows that the later date was chosen because it was hoped that an outstanding
+queries about pay and holidays would have been resolved by then. On 15th April the
+Claimant had, of course, threatened to go to ACAS and then if necessary to an
+Employment Tribunal over the pay dispute. On 26th April 2024 Mr Davidson reiterated
+the Respondent’s position on not agreeing backpay, and once more stressed his hope
+that an imminent start date would be agree. Although Ms Kearney had chased up HR
+about the accrued holiday situation on 17th April and again on 7th May, the morning of
+the meeting, she had not had a definitive reply.
+27. At the meeting on 7th May 2024 no actual return to work date was confirmed because
+the Claimant wanted cnfirmation on the holiday position first, particularly as she would
+have liked to use up all her accrued holiday in one go before returning and not be
+stopping and starting. On 28th May 2024 Mr Davidson advised the Claimant that she
+had accrued 64 days holiday (based of course on her full time hours at Scarborough)
+but that the business could not accommodate her taking all of this at one time and that
+the maximum permitted leave under company policy would be two weeks. Although he
+did say in this letter that he wished the Claimant to confirm that she could start again
+on Friday 7th June 2024, I accept his evidence he intended this to mean week
+commencing t 7th June – the Respondent’ s working week runs Friday to Thursday –
+and not that she should actually come in on the Friday which was the day she
+underwent treatment. The Claimant did initially say that 7th June was inconvenient
+because of holiday, but I accept her evidence that she was also intending to remind
+the Respondent of her OH reports which recommended that her working pattern
+should avoid these days when she had regular medical appointments.
+28. In any event, on 6th June 2024 Mr Davidson confirmed the Claimant’s request to take 2
+weeks paid leave before resuming work on Tuesday 25th June and to be paid in lieu for
+the remaining accrued holiday. Such an agreement to be paid in this way other than on
+5
+
+Case: 6017336/2024
+termination could not, of course, have been enforced in the Tribunal. On 15th June
+2024 the Claimant therefore agreed with Ms Kearney that she would come in from
+10am until 2pm on 25th June22024,and the return to work arrangement were confirmed
+thereafter.
+29. Having regard to this chronology I conclude that the end of the period during which the
+Respondent may have failed in its duty to make reasonable adjustments ended, at the
+latest, on 18th March 2024.
+30. If time begins to run at the point where a decision is made not to do something, or
+when an act inconsistent with doing it occurs at a time when, if it were to be done, t
+could reasonably have been expected it have happened, then, conversely, time then
+ceases to run when that decision is reversed.
+31. The reversal of any decision not to make reasonable adjustments which ought still to
+have been made was when the contrary decision was clearly taken in the letter of 15th
+March 2024. Also from that point at every stage, as recorded in the correspondence,
+the Respondent was then acting entirely consistently with that decision to process the
+return to work as soon as reasonably practicable. And, indeed, the Claimant
+responded positively throughout referring to “good news” and “fantastic news”
+32. In answer to the second question posed by Judge Jones, I am satisfied that the reason
+for the delay between 18th March and 25th June 204 was due to the sorting out of the
+incidental logistical arrangements. The delay was not because of a further lack of
+commitment or failure to agree to the making of the necessary adjustments. Nor was it,
+as pleaded in the section 15 claim , because of a continuing “subsequent recovery
+from a flare-up in her multiple sclerosis”: the Claimant, as she acknowledged, had in
+fact by this time recovered sufficiently to return substantially to her duties Obviously
+some matters in respect of holiday entitlement might have been resolved more quickly
+if information had been processed earlier, but I do not find the overall length of the
+delay to have been unreasonable on the part f the Respondent. That is particularly
+having regard to the other commitments and work responsibilities of both Mr Davidson
+and Ms Kearney. It is not realistic to suggest that a more junior manager might have
+handled the Claimant’s return in all the circumstances. This was not a matter without
+complexities. Also the delay was to a large extent contributed to by the Claimant’s own
+personal circumstances and her, admittedly understandable, desire to resolve the
+collateral issues before returning.
+33. Applying my findings at paragraphs 2 to 15 above, time therefore expired on 17th June
+2024.The 10 days potentially added by reason of the stop-the -clock provisions under
+the first ACAS early conciliation certificate from 7th to 17th March would not extend time
+further. The claim issued on 4th November 2024 is accordingly some 4 ½ months out of
+time.
+34. The only remaining issue is therefore whether or not I should extend time under
+section 123 (2) (b) of the Equality Act 2010. I have a wide discretion as established on
+the authorities: particularly I note Abertawe Bro Morgannwg University Local Health
+Board v Morgan [2018] ICR 1194 and Miller and ors v Ministry of Justice and ors EAT
+0003.15 and Jones v Secretary of Sttae for Health and Social Care 2024 EAT 2
+35. I have already referred to the Claimant’s reliance on the advice of her trade union
+representative. I am also prepared to infer that her solicitors were unaware of the
+6
+
+Case: 6017336/2024
+earlier ACAS certificate and thought that with time beginning to run on the eventual
+return to work date (25th June 2024) and with an ACAS certificate for six weeks from
+1st July to 12th August the claim would be in time. As has been demonstrated by the
+fact that the issue has given rise to substantive argument in this hearing the matter is
+not glaringly obvious. I would, however, criticise the solicitors for not having at least
+adverted to the possibility that time had in fact begun to run from 18th March 2024. I
+note that the pleading jumps from the citing of the 15th March letter at paragraph 19 to
+the assertion in paragraph 20 that the Claimant eventually returned to work on 26th
+June 2024 with no analysis of the reasons for this delay, nor any attempt to formulate
+events within this discrete period as giving rise to a discrimination claim. The claim
+would still have been late even had they acted more promptly in the light of this
+possibility but not by so long I do not know when they were in fact instructed but I think
+t can be assumed it was after 17th June. This does not, therefore, appear to be a case
+where the solicitors have simply missed a deadline and might be liable in negligence.
+On any view, however, it is not in any way the personal responsibility of the Claimant
+that the claim was late.
+36. The delay is not insignificant given the short time limits in the tribunal, but it is not
+inordinately long. That is particularly so when it is borne in mind, in context, that the
+Claimant had been off work since December 2021, not actually signed of sick after
+August 2023 and that it had in the event taken some three months to facilitate her
+return even when adjustments had finally been agreed. This was a longstanding issue,
+that had already taken a significant time to resolve.
+37. Apart from the obvious prejudice of being denied the opportunity to defeat the claim by
+raising the out-of-time defence there would be no forensic disadvantage to the
+Respondent in having to defend it on the merits. The evidence will still be available to
+them.
+38. The Claimant has received the benefit of payment for a substantial amount of accrued
+holiday in lieu. Although, had she returned to work earlier on reduced hours that would
+necessarily have been on a lower salary, she had been without any income since
+August 2023, when (according to the ET1) statutory sick pay ran out. I am satisfied,
+having seen and heard he give evidence, that the Claimant is entirely genuine in
+having expressed her desire to return to work if at all possible. She is the exception to
+what is unfortunately the general rule in the experience of this Tribunal that someone
+who has been off work for such a substantial period is, in fact, unlikely ever to return.
+39. I therefore conclude that the balance of prejudice lies in favour of allowing the claim to
+proceed. She is somebody who is coping with a significant disability, as a result of
+which she has limited earning capacity. She has an arguable case that she has lost
+income as a result of a delay in implementing reasonable adjustments. She should not
+be deprived of any potential remedy where the Respondent is nonetheless perfectly
+able to defend that claim on its facts.
+EMPLOYMENT JUDGE LANCASTER
+DATE 19th September 2025
+7

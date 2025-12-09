@@ -1,0 +1,217 @@
+Case Number 6002757/2024
+EMPLOYMENT TRIBUNALS
+Heard at: Croydon (by video) On: 23 July 2024
+Claimant: Mr Sorin Radu
+Respondents: (1) London Borough of Hounslow
+(2) Mr Jefferson Nwokeoma
+(3) Mr Will Simpson
+Before: Employment Judge Fowell
+Representation:
+Claimant In Person
+Respondent Simon Harding of counsel
+JUDGMENT ON A PRELIMINARY ISSUE
+The application for interim relief is refused.
+REASONS
+Background
+1. By way of background, Mr Radu worked for the London Borough of Hounslow
+as an Information Communication Technology Security Officer / Cybersecurity
+Analyst. For the most part he was working at home. The Council say that he
+was dismissed on grounds of misconduct, because they believed he had been
+working from an overseas location, and from a country on their banned list. He
+1 of 7
+
+Case Number 6002757/2024
+says that he was dismissed because of whistleblowing allegations he had made,
+i.e. protected disclosures, which he had made from September 2023 onwards
+2. These written reasons are provided at the request of Mr Radu. As usual, some
+editing has taken place to avoid repetition or unnecessary detail and these
+written reasons stand as the final version.
+The appropriate test and approach
+3. In Al Qasimi v Robinson EAT 0283/17 the correct approach to such applications
+was described by Her Honour Judge Eady QC as follows:
+‘By its nature, the application had to be determined expeditiously and on a summary
+basis. The [tribunal] had to do the best it could with such material as the parties had
+been able to deploy at short notice and to make as good an assessment as it felt
+able. The employment judge also had to be careful to avoid making findings that
+might tie the hands of the [tribunal] ultimately charged with the final determination of
+the merits of the points raised. His task was thus very much an impressionistic
+one: to form a view as to how the matter looked, as to whether the claimant had a
+pretty good chance and was likely to make out her case, and to explain the
+conclusion reached on that basis; not in an over-formulistic way but giving the
+essential gist of his reasoning, sufficient to let the parties know why the application
+had succeeded or failed given the issues raised and the test that had to be applied.’
+[Emphasis added]
+4. This test of a ‘pretty good chance’ derives from Taplin v C, Shippam Limited
+[1978] ICR 1068. It has been considered more recently by the Employment
+Appeal Tribunal in Ministry of Justice v Sarfraz 2011 IRLR 562, EAT. There,
+Mr Justice Underhill (as he then was) commented that this form of words was not
+very obviously distinguishable from the formula ‘a reasonable chance of success’,
+which was rejected in that case. In his view, the message to be taken from Taplin
+was that ‘likely’ does not mean simply ‘more likely than not’ but connotes a
+significantly higher degree of likelihood, i.e. ‘something nearer to certainty than
+mere probability’.
+5. I emphasise that because the thrust of Mr Radu’s submissions today is that it was
+for the respondent to prove its case at his disciplinary hearing and to do so
+beyond reasonable doubt. That is not the appropriate test, and it is certainly not
+2 of 7
+
+Case Number 6002757/2024
+the appropriate test today, when the burden is on him to show this ‘pretty good
+chance’ of success overall.
+The evidence presented
+6. I was supplied with a bundle of documents from the respondent of 192 pages and
+one from Mr Radu of 92 pages, and I have the tribunal files on what appears to
+be four separate and very similar claims submitted by Mr Radu. The main claim,
+and the one I am dealing with today (6002757/2024) was submitted on 20 May
+2024.
+The essential facts
+7. The essential facts are these. In August 2023 Mr Radu made a request to work
+abroad, in Southeast Asia, for 6 weeks. That request was refused.
+8. The following month, on or about 27 September 2023, he raised a number of
+concerns. The first of these was about his line manager Mr Oni who had asked
+him to prepare a report on the state of the Council’s IT infrastructure and their
+‘patching schedule’. He described this in more detail in one of his subsequent
+claim forms i.e. that he had been told to conduct a ‘a Patch Audit Scan using
+only the plugins that addressed issues identified in an external audit conducted
+11 months prior, disregarding current concerns.’ His view was that this would
+create a misleading report for the Cabinet Office and was unethical and
+amounted to ‘a fabrication of evidence’.
+9. He also told Mr Simpson - the third respondent and Head of Digital Strategy –
+about his concerns. There are some online messages between the two of them
+[R/150] in which Mr Radu says that he did not want to generate reports in the
+way he was asked to, that it was ‘beyond borderline legal’ and described it as a
+felony. Mr Simpson responded that
+‘Talk of felony is a very poor reflection of your state of mind at the moment. We
+three will speak tomorrow.’
+10. That does at least show that Mr Radu was making an allegation, rightly or
+wrongly, that what he was being asked to do was unlawful.
+11. He also mentions another development that day. Ms Kim Steady, Head of
+Quality Assurance and Development, made a request to work remotely from
+3 of 7
+
+Case Number 6002757/2024
+Dubai in order to carry out recruitment of care workers there. That request was
+approved, although he says that working from Dubai was in breach of GDPR
+regulations. No doubt he felt that there were some double standards in allowing
+her request, but he does not appear to have raised any concern about that at
+the time.
+12. The final alleged disclosure was shortly before his dismissal. On 10 May 2024
+he sent a letter to the Council’s Chief Executive setting out or re-stating those
+earlier concerns.
+13. Mr Harding, for the respondent, submitted that these various allegations did not
+meet the test for a protected disclosure and were not made in the public interest,
+but that requires a more detailed examination than can be achieved at a short
+hearing of this sort, so I will proceed on the basis that those concerns were
+protected, and revealed some breach of a legal obligation by the Council, or at
+least that Mr Radu believed that they did.
+14. For completeness, in his most recent claim form, though not this one, Mr Radu
+mentioned another protected disclosure, on or about 11 November 2023, when
+he says that he mentioned to Mr Simpson and Mr Oni his concern about Ms
+Steady working in Dubai.
+15. Mr Radu explained that in late 2023 his mother in Romania became seriously ill
+and there was no other member of the family to look after her. So, in January
+2024 he asked to be able to work from Romania so he could go and make
+arrangements for her care. This time his request was granted. It is not clear
+how long he was in Romania or when he returned.
+16. However, during February, it appears from their email exchanges that Mr Oni
+began to have concerns about where that Mr Radu was, or at least about how
+much work he was doing. By then, he should have been back in the UK. Mr Oni
+emailed on Monday 26 February [R/38] to say that Mr Radu had not given any
+response about his whereabouts the previous Friday and told him to book a half-
+day’s leave to cover his absence. Mr Radu replied to defend himself from these
+criticisms. Mr Oni then emailed to say that from that week they would be having
+weekly 1-2-1 meetings. So, a Teams meeting was arranged for the next day.
+4 of 7
+
+Case Number 6002757/2024
+17. On the respondent’s case, when Mr Radu logged in to that meeting, he showed
+up as an ‘unauthorised guest’, something which indicated that he was out of the
+country. Shortly afterwards, on 4 March, he was suspended, for ‘working
+remotely overseas when not approved and from a country on the banned list.’
+18. Mr Radu then attended an investigation meeting on 14 March, held by Ms
+Steady. With her was a representative from HR and a technical adviser, for
+understandable reasons.
+19. She subsequently prepared an investigation report [R/77]. According to this, Mr
+Radu last accessed his laptop on the Council’s network on 9 February 2024,
+after which he had been using a virtual private network (VPN), something often
+used to conceal the user’s location. There was then a failure of the VPN on 19
+February, which indicated that Mr Radu was abroad. He was also believed to
+have been abroad on 28 February, when he showed up as an unauthorised
+guest, until on 4 March 2024 he came into Hounslow House for the investigation
+meeting.
+20. On 10 May 2024 Mr Radu sent his email to the Chief Executive [R/97]. In it, he
+complained about Ms Steady being given permission to work from Dubai, even
+though Dubai was on the banned list, whereas his own request had been
+refused. He went on to criticise the evidence presented against him in the
+investigation report, describing it, for example, as speculative and
+unprofessional. He did not, however, suggest that it had been manufactured, as
+he did at this hearing, let alone that this had been done because of his earlier
+disclosures.
+21. That was also the day of the disciplinary hearing, which was held with the second
+respondent, Mr Jefferson Nwokeoma (Assistant Director, Transport & Parking).
+The minutes show that he gave Mr Radu every opportunity to explain his
+whereabouts during the period in question and suggested that one way of
+clearing the matter up would be for Mr Radu to provide a copy of his passport.
+Mr Radu feels that whatever he provided would have led to further requests but
+that is rather speculative, and as Mr Harding points out, bank statements would
+normally show where someone was at the relevant time. Mr Nwokeoma was
+quite happy to accept a passport, on the basis that if it did not contain any stamps
+in the relevant period, they would accept that he was in the UK at the time.
+5 of 7
+
+Case Number 6002757/2024
+22. The minutes are revealing and show that Mr Nwokeoma made repeated efforts
+to persuade Mr Radu, stating at one point:
+This is a disciplinary hearing; this is not a game. This is a very, very serious matter.
+If you provide the required evidence to show that you were not abroad on the dates
+in question, the story ends.
+23. Then later:
+“We cannot prove conclusively beyond reasonable doubt that you were working in
+another country. At the same time, you’re unable to provide evidence that you didn’t
+visit these countries or that you were in the UK during the dates in question. Why
+would you withhold this evidence if you have it?
+24. Mr Radu’s response each time was that the evidence presented by the Council
+was not sufficient to prove the allegation, so why should he have to provide
+evidence? He was not to be moved on the point, saying several times that he
+would save the evidence for a court or tribunal.
+25. But the fact is that he has still not provided any such evidence.
+26. Mr Harding makes the point that if the Council were intent on dismissing Mr Radu
+over his whistleblowing allegations, why would they give him these opportunities
+to clear things up?
+27. Those points appear to me very persuasive. In addition, there is no suggestion
+in those minutes from Mr Radu that the evidence was fabricated, or that they
+related to those earlier allegations of wrongdoing.
+28. That is also the case with the appeal, which was lodged on the day of the
+dismissal, 16 May 2024. In Mr Radu’s bundle, he includes a series of exchanges
+over his grounds of appeal. He submitted them and (unusually) received a typed
+commentary on those points [C/30 onwards]. It is not clear from who. His
+grounds of appeal include that the investigation was biased, that the Council was
+placing the burden of proving things on him, that the claims were unfounded,
+and that the policy in question had not been published. He also makes the point
+(Ground 6) [C/33] that his email to the CEO was whistleblowing.
+29. In giving my oral reasons I had overlooked the reference to whistleblowing in this
+document, but still there is no suggestion there that the disciplinary allegations
+had been raised because of any disclosure, and of course they were sent on the
+6 of 7
+
+Case Number 6002757/2024
+same day as the disciplinary hearing. Overall, this is a very belated mention of
+whistleblowing.
+30. In all those circumstances I can see no real basis to infer any connection
+between the disciplinary action and the earlier disclosures, and the points made
+about the conduct of the disciplinary hearing strongly reinforce that view.
+Indeed, the fact that Mr Radu could easily have disproved the allegations, if
+untrue, and was given the opportunity to do so, seriously undermines his case,
+so much so that I have thought it appropriate to make a deposit order.
+31. In doing so I am mindful of the guidance given to Tribunals about exercising
+caution in such cases, and that whistleblowing claims are similar to
+discrimination cases in usually requiring a full consideration of all the facts, but
+it is difficult to understand how it can be said that the Council dismissed him over
+whistleblowing concerns in these circumstances, and by extension why they
+would have subjected him to any other detriment.
+32. The fairness or otherwise of the disciplinary process, and of the decision reached
+to dismiss, are not affected by that order.
+33. A further case management hearing will be arranged in due course.
+Employment Judge Fowell
+Date 23 July 2024
+7 of 7

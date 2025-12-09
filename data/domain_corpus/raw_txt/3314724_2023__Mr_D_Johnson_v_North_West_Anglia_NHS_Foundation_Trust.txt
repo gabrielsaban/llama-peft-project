@@ -1,0 +1,286 @@
+Case Number: 3314724/2023
+EMPLOYMENT TRIBUNALS
+Claimant: Mr David Johnson
+Respondent: North West Anglia NHS Foundation Trust
+Heard at: Cambridge (by video, in public)
+On: 13 February 2025
+Before: Employment Judge C H O’Rourke
+Appearances
+For the Claimant: Ms J Twomey - counsel
+For the Respondent: Ms C Jennings - counsel
+PRELIMINARY HEARING JUDGMENT
+The Claimant was an employee of the Respondent in the time period relevant to this
+claim.
+REASONS
+(Written reasons having been requested subject to Rule 62(3))
+Background and Issues
+1. The Claimant worked for the Respondent, as an orthopaedic surgeon, from 1
+June 2023 to the termination of his contract, with effect 3 August 2023.
+2. The Respondent considered him to be engaged as an agency worker and
+stated that due to ‘the (unspecified) serious nature of the allegations made
+against him.’, they were entitled to terminate his agency contract, on one
+week’s notice.
+3. This public preliminary hearing was listed to determine the Claimant’s
+employment status and accordingly the Tribunal’s jurisdiction to hear his claim
+of automatic unfair dismissal. An earlier costs application made by the
+Respondent was withdrawn.
+1 of 8
+
+Case Number: 3314724/2023
+The Law
+4. Section 230 of the Employment Rights Act 1996 (‘ERA’) provides that:
+(1) In this Act “employee” means an individual who has entered into or works
+under (or, where the employment has ceased, worked under) a contract of
+employment.
+(2) In this Act “contract of employment” means a contract of service or
+apprenticeship, whether express or implied, and (if it is express) whether
+oral or in writing.
+5. Both parties referred to a range of authorities, to which I shall refer, as I
+consider appropriate, below.
+The Evidence
+6. I heard evidence from the Claimant and also from a Ms Stacey Mackereth, a staff
+service manager with the Respondent, both of whom provided witness
+statements.
+7. The Claimant’s evidence can be summarised as follows:
+a. He applied for the role via an agency, completing application forms
+provided by them, but then subsequently completing further forms
+provided by the Respondent. He also completed the Respondent’s
+lengthy induction process, although he was not interviewed by them.
+b. He did not, in fact, start work until 15 June 2023, due to pre-arranged
+holiday commitments, for which period he was not paid.
+c. He entered directly into terms of engagement with the Respondent [68-
+83]. Despite that contract being titled ‘contract of engagement; for directly
+engaged temporary agency workers’, he considered himself to be an
+employee, as had been the case, he said, on previous locum
+appointments with other NHS trusts.
+d. He was paid directly by the Respondent (the Agency receiving a
+commission), via PAYE.
+e. It was not in dispute that to carry out his role, he was required to be fully
+integrated into the Respondent’s organisation, using their medical
+equipment and IT hardware and software.
+f. Nor was it in dispute that by virtue of the nature of his role and the
+regulatory requirements attached to it that it would have been impossible
+for him to have substituted another person if he was unable or unwilling to
+attend for work.
+g. He was provided an identity badge which stated that he was a ‘Locum
+Consultant Orthopaedic Surgeon’, with the Respondent’s title beneath.
+2 of 8
+
+Case Number: 3314724/2023
+(Miss Mackereth agreed this, less that she said that the Claimant’s title
+was not ‘Locum’, but ‘Agency’, although she had not seen the actual badge
+herself.)
+h. While his role was initially described as ‘8 to 6’, or ‘8.30 to 5.30’, he in fact
+worked shifts on a surgical rota. He said that once the shifts were
+allocated, the Respondent was obligated to maintain that offer and he was
+obliged to complete them: there therefore being ‘mutuality of obligation’.
+i. He accepted that his pay documents referred to ‘assignment number’,
+rather than ‘employee number’[84]. He agreed that (apart from overtime),
+employees at the Trust would not have to complete time sheets, as he did
+[85]. He also agreed that in the event that, on a shift, there was no work
+to do and that if he were to leave early, he could not bill for that time,
+whereas his employed colleagues would be paid, nonetheless, in such
+circumstances.
+j. He agreed that when he had concerns about his pay, he did raise these
+with the Agency, seeking their intercession with the Respondent but, he
+said, only because his previous attempts to do so with the Respondent
+were ignored [110].
+8. Ms Mackereth’s evidence can be summarised as follows:
+a. The Claimant was engaged to fill a short-term gap caused by a substantive
+vacancy, which was going through the recruitment process. The
+Respondent approached the Agency to fill this gap.
+b. It was the Agency’s responsibility to carry out initial vetting of the Claimant
+and to ensure his CV matched the Respondent’s requirements. He was
+not interviewed by the Respondent.
+c. She agreed that the Claimant was required to complete the Respondent’s
+induction process.
+d. The Claimant was not allocated a line manager but would have been
+expected to report to the Clinical Lead in his division, who would also sign
+off his timesheets. However, in practice, she agreed that several other
+persons actually signed his timesheets, perhaps deputising for the Clinical
+Lead, if absent or on holiday.
+e. While she accepted that there were various aspects of the contract that
+indicated a high degree of ‘control’ over the Claimant, in relation to
+‘devoting the whole’ of the Claimant’s time to the Respondent; holiday
+requests (clause 6.4) and the application of disciplinary and grievance
+procedures, she said that, in practice, these clauses were not enforced.
+She could not explain why such clauses were in the contract, if not relevant
+to the Claimant. She said that the only Trust policies and procedures
+referred to in the contract that did apply to the Claimant was the Trust’s
+Resolution/Grievance policy but accepted that this had not been explained
+to the Claimant. She also agreed, in cross-examination that the assertion
+in her statement as to only the grievance policy applying to the Claimant
+3 of 8
+
+Case Number: 3314724/2023
+was ‘maybe wrong’, as it was clear that other policies, such as use of the
+intranet (clause 2.6), health and safety (2.7), GDPR and conflicts of
+interest did apply to him. She also agreed that references to a ‘line
+manager’ in the contract did not apply to the Claimant. When asked to
+explain ‘why so many terms were inapplicable’ she said that she ‘couldn’t’.
+f. She agreed that the Claimant could have been directed to other duties, or
+had his role varied. It was obvious that he had to comply with directions
+given to him; treat the patients allocated to him and use the theatres
+provided to him.
+g. She agreed that once shifts were allocated to the Claimant, he was
+expected to work them, and the Respondent was obliged to honour those
+shifts.
+Submissions
+9. On behalf of the Respondent, Ms Jennings made the following submissions:
+a. She referred to her skeleton argument as to the law, in particular Ready
+Mixed Concrete (South East) Ltd v Minister of Pensions and National
+Insurance [1968] 1 All ER 433 EWHC which refers to the well-known
+criteria for a contract of service: providing a worker’s own work and skill; a
+sufficient degree of control by the employer and the other provisions of the
+contract being consistent with a contract of service.
+b. The ‘whole picture’ should be looked at, to include the context of the
+arrangement; the degree of personal service; the degree of control; the
+existence of a mutual obligation; the ‘reality’ of the situation and the true
+intentions of the parties (Montgomery v Johnson Underwood Ltd
+[2001] EWCA ICR 819).
+c. Relevant factors for consideration are as follows:
+i. The Respondent did not interview the Claimant, or even speak to
+him before he was assigned, which would be unthinkable for such
+a senior person, who was to become an employee.
+ii. This was a short-term arrangement to fill a gap in a substantive
+post.
+iii. It cannot be realistic that the Claimant, as a clearly intelligent man,
+thought that he was an employee.
+iv. The ‘elephant in the room’ is the contract, in which, she had to
+accept, there were elements indicating employment status, leading
+to the unusual situation where, instead of relying on the contract,
+the Respondent is obliged to argue as to the reality of the
+relationship. In this case, the contract did not reflect the reality of
+the situation. While it may appear misleading currently this was not
+the case for the Claimant, at the time.
+4 of 8
+
+Case Number: 3314724/2023
+v. The references to ‘line manager’ are, in effect, a ‘red herring’, as
+the Claimant neither had a line manager, nor complained of the lack
+of one.
+vi. The nature of the appointment dictates the allocation of shifts; the
+use of the Respondent’s equipment and the degree of control
+exercised over the Claimant.
+vii. The Claimant could not bill for any sick leave he needed to take, in
+comparison to employed colleagues who would be able to take
+advantage of the NHS’s relatively generous sick pay provision.
+viii. If the Claimant did not work his shifts, there was nothing the
+Respondent could do about it, apart from terminating the contract.
+If that issue were determinative, then nobody could be a worker.
+ix. He was treated differently from his colleagues, by his pay
+arrangements and badge title.
+x. The requirement for him to complete time sheets and the variance
+in hours worked each week rules against employment status.
+xi. He was responsible for his own registration and CPD.
+d. The Claimant knew the reality of the situation, for which he was paid a
+premium. His tax and NI arrangements are irrelevant
+10. On behalf of the Claimant, Ms Twomey made the following submissions:
+a. What is agreed is that there is a written contract between the parties, which
+sets out the terms of the arrangement between them.
+b. To be clear as to the Claimant’s case: he is not saying that he was a
+permanent employee but accepts that he was on a temporary contract.
+c. Employees are also introduced to employers by agencies, who then earn
+commission. Merely being introduced by an agency does not make that
+person an ‘agency worker’, as described by the Respondent. The Agency
+was not supplying his work to the Respondent. The title of the contract
+does not therefore assist the Respondent, but instead they have ‘stuck a
+label’ onto to what is, in fact, a contract of employment.
+d. There is nothing in this case to indicate that the Claimant was ‘self-
+employed’. His reference to being ‘self-employed or through D Johnson
+Orthopaedics Ltd’ on his declaration of interests’ form [48] was just that, a
+declaration of interest, but on this occasion, he was neither self-employed,
+nor being paid or contracted via this company.
+e. There clearly was a mutuality of obligation, as stated in clause 4.1 and as
+admitted by the Respondent’s witness. There’s no requirement for there
+to be set hours of work.
+5 of 8
+
+Case Number: 3314724/2023
+f. The Respondent’s witness’ suggestion that clauses in the contract would
+not be enforced against the Claimant, or were not operated ‘in practice’,
+or were not the ‘reality’ is untenable and unsupported by corroborative
+evidence. The witness’ evidence is hypothetical. This is not some small
+employer, but an NHS Trust, who can be expected to draft a contract
+without such now admitted flaws. Nor does the contract, as many such
+contracts would, specifically exclude the possibility of it being a contract of
+employment.
+g. A very high degree of control and absolute personal service and
+integration were indispensable to the Claimant’s role, and a hospital could
+not function otherwise.
+h. The length of the contract is not determinative, nor is the lack of an
+interview, which may also have applied to short-term employees.
+i. As to being line-managed, it is the Claimant’s evidence that Ms Garnett
+was his line manager and it is only today, for the first time that it is apparent
+to him that the Respondent did not think he was subject to line
+management.
+Conclusions
+11. The start point in my consideration is the contract and reliant on MOD HQ
+Defence Dental Service v Kettle UKEAT/0308/06, I have considered that
+detailed document and find that it is, having looked at the facts, the exclusive
+record of the parties’ agreement. As that case stated:
+‘… there may be a carefully prepared contract, appropriate to the circumstances
+of the parties, made available by one party to the other at the start of their
+relationship and signed without question. In such a case a Tribunal will no doubt
+readily conclude that it was the intention of the parties, objectively ascertained,
+that all the terms of the contract should be contained in it.”
+And I find that to be the case here.
+12. If the interpretation of clauses from that contract are open to question, then, the
+Respondent having drafted it, the contra proferentem doctrine applies, with any
+such ambiguity being interpreted in the Claimant’s favour.
+13. I consider the following factors as a ‘given’ in circumstances such as this case:
+a. Control: it would be inconceivable that the Claimant could have carried out
+his role without a very high degree of control, which was clearly the case
+here.
+b. Substitution: As effectively accepted by both parties, substitution was
+impossible in this case.
+c. Integration: Again, the same principle applies.
+6 of 8
+
+Case Number: 3314724/2023
+d. Use of employer’s equipment: again, unavoidable.
+14. It seems to me that in these circumstances the Respondent wishes to have ‘the
+best of both worlds’ – to have a highly qualified and experienced surgeon working
+for them, subject to many terms and conditions that would normally apply to an
+employee, but instead labelled as a ‘worker’ and therefore avoiding the perceived
+constrictions of an employment relationship.
+15. There was nothing to indicate to me (apart from vague assurances from the
+Respondent’s witness) that if the Respondent wished to enforce any of the terms
+of the contract referred to, there was anything to stop them doing so.
+16. As indicated by the contract and as accepted by the Respondent’s witness, there
+was mutuality of obligation, which is the sine qua non of an employment
+relationship.
+17. It may be that in circumstances where an employer, for good reasons, has no
+option but to exercise strict control over a worker; to oblige him to use only the
+employer’s equipment and IT; to absolutely prohibit substitution and to require
+almost total integration, that then the only valid relationship is one of employment,
+particularly so, in this case, when there is mutuality of obligation.
+18. The reality of this contract, therefore, is that it was one of either short-term or
+fixed-term employment, regardless of how it is titled. The Claimant was
+presented with a contract, into which he had no input and therefore had to ‘take
+it or leave it’. His evidence is that nonetheless he regarded himself as an
+employee and I can see, from both the wording of the contract and the nature of
+his working relationship with the Respondent and based on his experience of
+previous locum work (on occasions up to six months in length), how he could
+conclude that. I don’t consider that factors such as completing time sheets (many
+employees are paid by the hour); not being interviewed (a consequence of being
+introduced by an agency and being a short-term employee, rather than being an
+agency worker); not being line managed (the Claimant thought he was and was
+not disabused of that until this hearing); not being offered full NHS sick pay
+(although he was eligible under the contract for SSP) (which, again, could have
+been due to the short-term nature of his engagement) and not being provided set
+hours of work are determinative of a worker, as opposed to an employee
+relationship.
+7 of 8
+
+Case Number: 3314724/2023
+Judgment
+19. For these reasons, therefore, I find that the Claimant was an employee of the
+Respondent at the relevant time and that accordingly the Tribunal has jurisdiction
+to hear his claim of automatic unfair dismissal.
+Approved By:
+____________________
+Employment Judge O’Rourke
+14 February 2025
+Sent to the parties on:
+8/3/2025
