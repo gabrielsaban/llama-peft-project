@@ -52,5 +52,6 @@
   - currently running without divergence
 
 overall: full pipeline (data → tokenizer → model → LoRA → Trainer) is working end-to-end.
+ 
+## 09/12/2025
 
-## 20-11-2025
