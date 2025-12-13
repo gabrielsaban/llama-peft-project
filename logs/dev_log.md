@@ -53,9 +53,6 @@
 
 overall: full pipeline (data → tokenizer → model → LoRA → Trainer) is working end-to-end.
 
-
-
-
 ## 09/12/2025
 
 - clarified corpus design for **Layer A** (UK Employment Tribunal decisions):
@@ -121,3 +118,53 @@ overall: full pipeline (data → tokenizer → model → LoRA → Trainer) is wo
       - set a sensible `source` tag (e.g. `"uk_employment_tribunal"`), and possibly keep metadata hooks for case_id / year if we want it later
 
 overall: today’s work essentially built **Layer A ingestion** skeleton: we can (when ready) scrape ~5k+ tribunal decisions, convert them into cleaned text, and adapt `prepare_domain_corpus.py` to turn them into a domain corpus jsonl for intrinsic LM evaluation and fine-tuning. next concrete step is to refactor `prepare_domain_corpus.py` to target `raw_txt`, preserve basic metadata, and generate `corpus.jsonl` + `corpus_stats.json` on the new employment-law data.
+
+## 13/12/2025
+
+- **completed large-scale ingestion for layer a (tribunal decisions):**
+    - ran `scraper_downloader.py` end-to-end on the filtered gov.uk employment tribunal search (post-2020, substantive jurisdictions only)
+    - successfully downloaded **~5,000 tribunal decision PDFs** into `data/domain_corpus/raw_pdfs/`
+    - no significant scraping failures observed beyond expected duplicates / missing assets
+    - download rate stable with polite delay; no blocking encountered
+- **bulk conversion of layer a PDFs → cleaned text:**
+    - ran `pdf_to_txt.py` across the full tribunal batch
+    - applied existing boilerplate removal, hyphen repair, admin footer trimming, and whitespace normalisation
+    - **discarded very short outputs** (<300 characters) to remove:
+        - pure orders with no reasons
+        - corrupted or empty PDFs
+        - metadata-only documents
+    - retained only substantive judgments with meaningful reasoning
+    - resulting corpus is now suitable for intrinsic LM training and evaluation
+- **layer a status:**
+    - tribunal corpus is now effectively “frozen” pending final pass through `prepare_domain_corpus.py`
+    - next step for layer a will be:
+        - refactor `prepare_domain_corpus.py` to target `raw_txt/`
+        - assign a stable source tag (e.g. `"uk_employment_tribunal"`)
+        - generate `corpus.jsonl` + `corpus_stats.json`
+        - create intrinsic train/val/test splits at document level
+- **layer b corpus curation (doctrine + guidance):**
+    - compiled a curated list of **authoritative employment-law doctrine sources**, split into distinct sub-collections:
+        - **ACAS guidance PDFs** (practical interpretation used by tribunals)
+        - **ACAS Codes of Practice** (statutory relevance)
+        - **House of Commons Library briefings** (doctrinal summaries and context)
+        - **gov.uk employment law topic pages** (statutory rights explanations and thresholds)
+    - these sources were selected because they:
+        - reflect how employment law is interpreted and applied in practice
+        - are frequently cited or relied upon in tribunal reasoning
+        - provide a complementary signal to raw tribunal judgments (cleaner, expository text)
+- **layer b ingestion approach:**
+    - all layer b documents were **downloaded manually** to ensure:
+        - source quality
+        - topical relevance
+        - avoidance of irrelevant boilerplate or duplicated content
+    - documents are currently stored in structured subdirectories (e.g. `acas_guides/`, `codes/`, `doctrine/`, `govuk/`)
+    - next step will be to implement:
+        - lightweight converters for each format type (PDF-based vs HTML-derived)
+        - reuse of the existing text normalisation logic where appropriate
+        - integration into `prepare_domain_corpus.py` with distinct source tags per sub-collection
+- **overall state at end of day:**
+    - layer a (tribunal decisions): **fully ingested and cleaned at scale**
+    - layer b (doctrine/guidance): **curated and staged for text conversion**
+    - domain corpus is now the main remaining blocker before:
+        - domain LM training
+        - lora vs qlora comparisons on intrinsic perplexity
