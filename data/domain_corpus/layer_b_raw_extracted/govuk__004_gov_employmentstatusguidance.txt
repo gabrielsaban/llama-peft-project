@@ -1,0 +1,926 @@
+Department for Department for
+Business & Trade Business, Energy
+& Industrial Strategy
+Employment status and
+employment rights: guidance
+for HR professionals, legal
+professionals and other groups
+Updated 30 August 2024
+Section 1: Guidance overview
+Section 2: Introduction to employment status
+Section 3: Key factors in determining employment status
+Section 4: Special circumstances and developments in the labour market
+Section 5: Case studies and sectoral examples
+Section 6: Further resources
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where
+otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-governmentlicence/version/3 or write to the Information Policy Team, The National Archives, Kew, London
+TW9 4DU, or email: psi@nationalarchives.gov.uk.
+Where we have identified any third party copyright information you will need to obtain
+permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/employmentstatus-and-employment-rights/employment-status-and-employment-rights-guidance-for-hrprofessionals-legal-professionals-and-other-groups
+
+Section 1: Guidance overview
+Employment status affects everyone who works. Areas such as pay, leave
+and working conditions can all depend on employment status.
+People with different employment statuses have different rights set out in
+law. The rights are designed to protect individuals. Most of the rights are
+compulsory, and normally can’t be signed away.
+Clarity around individuals’ and employers’ (or engagers – a person or
+business who engages self-employed individuals for work) rights and
+responsibilities at work supports empowerment for working people and
+certainty between competing businesses.
+There are 2 separate pieces of guidance tailored for:
+individuals (https://www.gov.uk/government/publications/employment-status-andemployment-rights/employment-status-and-rights-support-for-individuals) to help
+them understand their employment status so that they know their rights,
+can have informed discussions with their employer about them, and can
+take steps to claim them and have them enforced where necessary
+employers or engagers
+(https://www.gov.uk/government/publications/employment-status-andemployment-rights/employment-status-and-rights-checklist-for-employers-andother-engagers) to help them understand individuals’ employment status so
+they comply with the law, helping ensure individuals receive the rights
+they are entitled to, and to avoid unnecessary disputes and associated
+costs
+This detailed guidance aims to help HR professionals, legal
+professionals and other groups to advise employers, engagers and
+individuals about the law and how to comply with it.
+The purpose of this guidance is to bring additional clarity to employment
+status. Clarity around individuals’ and employers’ employment rights and
+responsibilities at work is an important part of a well-functioning and fair
+labour market.
+Using this guidance
+The territorial scope of this guidance is Great Britain (England, Scotland and
+Wales) as employment law is devolved in Northern Ireland.
+For Northern Ireland guidance, visit:
+
+Employment status for individuals
+(https://www.nidirect.gov.uk/articles/employment-status)
+Employment status for business
+(https://www.nibusinessinfo.co.uk/content/employment-status)
+Courts and employment tribunals decide employment status based on the
+law, and the case law for employment status constantly evolves as new
+cases and appeals are heard and new precedents are set. This guidance
+will continue to be updated to reflect future, significant changes in the law.
+This guidance does not impose any legal obligations. It does not change the
+law. Only a Court or employment tribunal (https://www.gov.uk/employmenttribunals/taking-a-case-to-an-employment-tribunal) can make a final decision on
+employment status for employment rights purposes. This guidance does not
+and cannot provide definitive answers to individual queries. It is not
+intended to be relied upon as a substitute for seeking advice on specific
+circumstances, as each employment relationship will be very fact specific.
+For specific queries, individuals or employers may wish to seek advice from
+Acas. While Acas cannot provide a determination of employment status in
+specific cases, they can explain relevant law and provide free, impartial, and
+confidential advice on your options. The Acas website is at:
+0300 123 1100, open Monday to Friday, 8am to 6pm.
+This guidance does not apply to tax status as there is a separate
+employment status system for tax, which determines an individual’s tax
+status (https://www.gov.uk/guidance/check-employment-status-for-tax). In tax,
+there are 2 categories of employment status; employed and self-employed,
+whereas employment status for employment rights also has a ‘worker’
+status in between the self-employed and employed statuses. This means
+the systems are not interchangeable, and so a determination of employment
+status for employment rights will not necessarily apply for tax.
+Section 2: Introduction to employment
+status
+What is employment status?
+Employment status is relevant in all working relationships, it defines the
+minimum rights and responsibilities for individuals and employers or
+
+engagers in the workplace, covering areas such as pay, leave and working
+conditions (see Table 1: Employment rights eligibility for more details about
+statutory employment rights). These protections have been set out or
+developed in law to ensure individuals are protected from unfair practices.
+Employment status is not just a matter of what a contract (whether oral or
+in writing) states; it is determined by the reality of the working relationship
+between employer and individual, taking account of all the circumstances
+including the purpose of employment legislation. The written contract is just
+one part of that assessment.
+Although there are countless different working relationships that individuals
+and businesses can agree to, the law reduces these into 1 of 3 main types
+of status for employment rights. However, there are special provisions for
+other groups of workers such as agency workers, see section 4 for further
+details. The 3 main types of employment status are:
+an employee who has the most rights and responsibilities
+a worker – sometimes referred to as ‘limb (b) workers’ who have fewer
+rights and obligations. The aim of the limb (b) worker status is to extend
+the coverage of certain employment rights to a wider group of individuals
+than just employees, protecting a larger number of individuals who are in
+dependent working relationships but are not employees.
+a self-employed person who has the least protection but also tends to
+have fewer personal obligations and have significant flexibility in their
+work and/or delivers a service to a customer or client as part of a
+business or professional undertaking
+The following is a more detailed description of each status:
+Employees
+This status reflects greater certainty over where, when and how work is
+carried out. The individual would likely work regularly and be paid for
+completing those hours of work. Employees tend to be individuals in
+permanent full-time or part-time work but can also, in some circumstances,
+include individuals on casual contracts (such as fixed term and/or zero
+hours (see Section 6)). Employees are generally entitled to the full suite of
+employment rights – the relevant statutory rights are explained in the
+Employment rights section, subject to qualifying periods. However, there is
+also discretion for employers to provide additional contractual benefits to
+employees. For example, an employer could provide paternity leave of 2
+months which is well above the statutory entitlement of 2 weeks paternity
+leave.
+Employees also benefit from and are bound by other common law rights
+and obligations. Both statutory and common law rights and obligations
+(body of law formed by the decisions from Courts and tribunals) are implied
+into a contract of employment and cannot be overridden by the terms of the
+
+employment contract. For example, notice periods, even if contractually
+agreed, are subject to a statutory minimum.
+Compared to other employment statuses, there are more obligations
+between an employer and an employee. For example, employers have the
+right to be informed by a certain point if one of their employees is intending
+to take maternity/paternity/adoption leave or return to their job after the
+leave has been taken. While employers in most cases have the obligation to
+provide work and remunerate accordingly.
+Workers (limb (b) workers)
+Individuals in this category are less likely to be working in permanent, fulltime employment with a single employing organisation. They are more likely
+to have more casual and flexible working relationships often involving
+multiple and sometimes rival employers. Limb (b) workers are entitled to
+core statutory employment rights but have increased freedom in how much,
+where and when they work. All limb (b) worker rights are rights from day 1,
+where limb (b) workers do not need continuous service or qualifying periods
+to accrue their rights reflecting their more flexible relationship to their
+employer(s). However, as with the employee status, there is also discretion
+for employers to provide additional contractual statutory benefits beyond the
+legal minimum to limb (b) workers, for example, paying above the National
+Minimum Wage or National Living Wage.
+The limb (b) worker and employer(s) relationship should expect to have
+more flexibility over how, where and when work is done compared to the
+employee status but limb (b) workers are generally required to do the work
+themselves and only have a limited right to send someone else. This status
+still requires employers to provide individuals with a core set of employment
+protections. Many individuals enjoy the increased freedom that this status
+can provide in their work including balancing their work with other
+commitments whilst still benefiting from core protections.
+Self-employed
+Self-employed individuals should expect to have the most flexibility and
+control over how, if and when they work and are generally able to send
+someone else to do the work without significant restrictions. It is a category
+for those who run and manage their own business or work, often best
+understood as individuals in business for themselves. Generally, selfemployed individuals have no statutory employment rights but are entitled to
+some health and safety protections/obligations as well as anti-discrimination
+rights when they are contracted by a customer or client.
+For an employer or engager, it is important to understand that the status of
+an individual they employ or engage is not simply a matter of choice. The
+status is determined by the real nature of the working relationship, not what
+an employer or engager chooses to call it. Therefore, simply calling
+someone ‘self-employed’, or putting that term in writing in a contract, does
+not necessarily mean that the individual will legally be classed as selfemployed. If the relationship in reality is that of a limb (b) worker or
+employee, then the individual is entitled to limb (b) worker or employee
+rights regardless of what it says in their contract. Deliberate
+misclassification of employment status should not be used to deny
+employees or workers employment rights and protections they are entitled
+to. If you need advice on the employment status of individuals you employ
+or engage, or who you intend to employee or engage, see the checklist for
+employers (https://www.gov.uk/government/publications/employment-status-andemployment-rights/employment-status-and-rights-checklist-for-employers-and-otherengagers).
+Employment rights
+Employment rights and protections are set out by law and employers must
+not avoid them. Employment rights and protections vary between the
+different statuses, and some have qualifying periods.
+There are some statutory rights which an employee gets after working
+continuously for a period of time – this is called continuity of service.
+Establishing sufficient continuity of service is essential to access those
+employee rights that have a qualifying period such as the right not to be
+unfairly dismissed and the right to a statutory redundancy payment. Even if
+a person does not work every week, a Court can sometimes find that their
+relationship with their employer continues so that there is an umbrella
+contract or over-arching contract covering a particular period of time which
+means there is continuity of service. There are some detailed parts of the
+law that may mean continuous service is maintained, for example if there
+has been a temporary cessation of work. See continuous employment
+(https://www.gov.uk/continuous-employment-what-it-is) for further information.
+Table 1: Employment rights eligibility
+A. Worker / employee rights
+Statutory right / protection Employee Limb (b) Qualifying
+worker period
+Unlawful deductions from wages Yes Yes Day 1
+National Minimum Wage/National Yes Yes Day 1
+Living Wage
+Paid holidays Yes Yes Day 1
+Right to be accompanied at a Yes Yes Day 1
+grievance/disciplinary hearing
+Whistleblowing Yes Yes Day 1
+
+Statutory right / protection Employee Limb (b) Qualifying
+worker period
+Discrimination, other prohibited Yes Yes Day 1
+conduct under the Equality Act 2010
+and reasonable adjustments*
+Equal treatment for part-time Yes Yes Day 1
+workers
+Protection from detriment for trade Yes Yes Day 1
+union membership*
+Itemised pay slip Yes Yes Day 1
+Written particulars of employment Yes Yes Day 1
+Protection from detriment in certain Yes Yes Day 1
+health and safety cases
+Workplace pension scheme* Yes Yes Day 1
+Right to join a trade union and to Yes Yes Day 1
+participate in trade union activities*
+B. Employee rights day 1
+Statutory right / protection Employee Limb (b) Qualifying
+worker period
+Maternity leave and adoption Yes No Day 1
+leave
+Statutory bereavement leave Yes No Day 1
+Time off various activities and Yes No Day 1
+duties (paid and unpaid)
+Equal treatment for fixed-term Yes No Day 1
+contract staff
+Unfair dismissal (for certain Yes No Day 1
+automatically unfair reasons)
+Breach of contract Yes No Day 1
+
+Statutory right / protection Employee Limb (b) Qualifying
+worker period
+Statutory Sick Pay* Yes may be Day 1
+entitled
+C. Employee rights with qualifying period
+Statutory right / protection Employee Limb (b) Qualifying
+worker period
+Minimum period of statutory notice Yes No 1 Month
+Medical suspension pay Yes No 1 Month
+Guaranteed pay Yes No 1 Month
+Shared parental leave and Yes No 26 Weeks
+Paternity leave
+Right to request flexible working Yes No 26 Weeks
+Right to request time off for study Yes No 26 Weeks
+or training
+Adoption pay, Shared Parental Yes may be 26 Weeks
+pay, Paternity pay, Maternity pay entitled
+and Parental Bereavement pay*
+Unpaid parental leave Yes No 1 Year
+Unfair dismissal (ordinary) Yes No 2 Years
+Written reasons for dismissal (in Yes No 2 Years
+most cases)
+Statutory redundancy pay Yes No 2 Years
+*Further information on employment rights and statutory payments that
+have similar, but different eligibility criteria is available in the next sections.
+Discrimination, other prohibited conduct under the Equality Act 2010
+and reasonable adjustments
+The Equality Act 2010 protects those in “employment” (which for this
+purpose comprise employees, limb (b) workers and some self-employed
+people) from unlawful conduct such as discrimination, harassment and
+
+victimisation that applies to protected characteristics. The protected
+characteristics are: age, disability, gender reassignment, marriage and civil
+partnership, pregnancy and maternity, race, religion or belief, sex and
+sexual orientation. The Equality Act applies to individuals who have an
+employment contract, an apprenticeship contract, or a contract to personally
+do work. The Equality Act employment protections also extend to a variety
+of wider work relationships beyond employment, such as job applicants and
+former employees, contract workers, police officers, partners, barristers and
+advocates, public office holders and those seeking or undertaking
+vocational training. Protections do not extend to volunteers. Read more
+about discrimination and your rights (https://www.gov.uk/discrimination-yourrights).
+Individuals who are covered by the Equality Act 2010 and are subject to
+discrimination or any other unlawful conduct can make a claim in an
+employment tribunal.
+Workplace pension scheme
+An employer must automatically enrol employees and limb (b) workers into
+a workplace pension scheme and make contributions to their pension if all
+of the following apply: you are aged between 22 and State Pension age,
+you earn at least £10,000 per year for that employer and you usually
+(‘ordinarily’) work in the UK. Read more about joining a workplace pension
+(https://www.gov.uk/workplace-pensions/joining-a-workplace-pension).
+Right to join a trade union and to participate in trade union activities
+It is automatically unfair for an employer to dismiss an employee on the
+grounds of trade union membership or for participating in union activities at
+an appropriate time. It is also against the law to refuse to recruit a person as
+a limb (b) worker or employee because the person is a member of a trade
+union. Employers must not subject a limb (b) worker or employee to
+detriment for the purposes of preventing, deterring or penalising trade union
+membership or participation in union activities at an appropriate time. Read
+more about joining a trade union (https://www.gov.uk/join-trade-union).
+Statutory payments
+All employees (and in limited cases some limb (b) workers) are eligible for
+Statutory Maternity Pay, Shared Parental Pay, Paternity Pay, Adoption Pay,
+Parental Bereavement Pay and Statutory Sick Pay as long as they also
+meet other qualifying criteria and earn on average above the Lower
+Earnings Limit (£123 a week before tax).
+Whether an individual can get these rights is determined by reference to
+criteria set out under the Social Security Contributions and Benefits Act
+1992 and by reference to other relevant legislation. Whether a potential
+employer is an employer for Statutory Maternity Pay, Shared Parental Pay,
+Paternity Pay, Adoption Pay, Parental Bereavement Pay or Statutory Sick
+Pay purposes is linked to their obligation to pay secondary Class 1 National
+Insurance Contributions, rather than the employment rights framework.
+
+Other related guidance
+Statutory maternity pay (https://www.gov.uk/employers-maternity-pay-leave)
+Shared parental pay (https://www.gov.uk/shared-parental-leave-and-pay)
+Paternity pay (https://www.gov.uk/paternity-pay-leave)
+Adoption pay (https://www.gov.uk/adoption-pay-leave)
+Parental bereavement pay (https://www.gov.uk/parental-bereavement-payleave/what-you-can-get)
+Statutory sick pay (https://www.gov.uk/employers-sick-pay/eligibility-and-formssp1), with more detailed guidance for different types of workers
+(https://www.gov.uk/guidance/statutory-sick-pay-how-different-employment-typesaffect-what-you-pay).
+Other employment frameworks and entitlements
+The employment status framework for tax and National Insurance is
+separate to the employment rights framework and comprises 2 categories:
+employee and self-employed. Whether an individual is classed as an
+employee or self-employed for tax purposes affects the tax and National
+Insurance they pay and how they pay them, and the individual’s entitlement
+to some social security benefits. Employment status for tax is a matter of
+fact (as it is for employment rights and protections) and is not a choice for
+the individual or their engager. This means that the facts and circumstances
+of the engagement determine what employment status an individual has,
+rather than a decision by themselves or their engager to assign them a
+specific employment status, or belief that they have a particular status. In
+the majority of circumstances, employment status for tax purposes is clear
+and simple to establish, but in situations where it is more complex, HMRC
+has detailed guidance for individuals and employers (https://www.gov.uk/hmrcinternal-manuals/employment-status-manual). Tax and National Insurance
+legislation also requires that some engagements are treated as employment
+for tax purposes where there is not a contract of employment between the
+individual and the recipient of their services. This includes office holders,
+such as company directors, and, where certain conditions are met, workers
+supplied by agencies or working through Personal Service Companies. You
+can use HMRC’s free online Check employment status for tax (CEST) tool
+(https://www.gov.uk/guidance/check-employment-status-for-tax) to find out if an
+individual should be classed as employed or self-employed for tax
+purposes.
+The employment status framework for Universal Credit is also separate to
+the employment rights framework and generally follows the definitions for
+tax and National Insurance, comprising 2 categories: employee and selfemployed. The main difference between Universal Credit and the treatment
+
+of tax and National Insurance is that where a claimant operates through a
+company in a position comparable to a sole trader or, one of a small number
+of partners (i.e. they are the sole owner of the company or one of a small
+number of shareholders) they are treated as self-employed in the same way
+as someone trading without a company structure. Find out more about
+Universal credit for self-employed claimants
+(https://www.gov.uk/government/publications/universal-credit-and-self-employmentquick-guide/universal-credit-and-self-employment-quick-guide).
+Maternity Allowance is a benefit intended for those who cannot get Statutory
+Maternity Pay, such as the low paid and the self-employed. Entitlement to
+Maternity Allowance is dependent on satisfying qualifying conditions. For
+self-employed women this involves being registered as self-employed with
+HMRC according to their rules for at least 26 weeks in the 66 weeks
+immediately preceding the expected week of birth. The amount of Maternity
+Allowance received by self-employed women is dependent upon the
+number of class 2 National Insurance contributions paid for those same 66
+weeks. Self-employed women who have paid 13 weeks of Class 2 National
+Insurance contributions in the 66-week period are treated as having
+sufficient earnings to entitle them to the standard rate. Find out more about
+Maternity allowance (https://www.gov.uk/maternity-allowance).
+Section 3: Key factors in determining
+employment status
+Employment status will be mainly governed by the reality of the relationship
+between the individual and the organisation. The absence of a written
+contract or the fact that a contract between the 2 may specify a particular
+status is not conclusive if that does not correspond to what happens in
+reality.
+The Employment Rights Act 1996 sets out most of the employment rights
+and protections in Great Britain. In the Employment Rights Act 1996,
+Section 230 (https://www.legislation.gov.uk/ukpga/1996/18/section/230), both
+employee and worker are defined in the legislation. An employee also
+comes under part (a) of the definition of worker and is sometimes referred to
+as ‘limb (a)’, as they work under a contract of employment. Contract of
+employment means a contract of service or apprenticeship, whether
+express or implied, and (if it is express) whether oral or in writing. Part (b) of
+the worker definition, ‘a limb (b) worker’ covers a person who works under
+any other contract whereby the individual undertakes the work or performs
+services personally and the other party to the contract is not a client or
+customer of any profession or business carried on by the individual.
+
+Based on the legislation and case law, it is easiest to consider for the
+purposes of employment law that there are 3 employment statuses in Great
+Britain:
+1. Employee: where it can be determined that a contract of employment
+exists. Employees are entitled to all employment rights subject, where
+appropriate, to qualifying periods and sometimes other qualifying criteria.
+2. Limb (b) worker: where it can be determined that any other contract by
+which the individual performs work or services personally for someone else
+(unless the individual is working on a genuinely self-employed basis for a
+client or customer) exists. Limb (b) workers are entitled to core day 1
+statutory employment rights.
+3. Self-employed – not defined in the legislation but best understood as
+people who carry on a profession or business on their own account and
+enter into contracts with clients or customers to provide work or services for
+them and/or are not obliged to do the work they contract to personally.
+The Courts have considered many different cases and there are a number
+of principles to be applied. This guidance helps to set those principles out.
+This has ensured the legislation’s intention is upheld whilst maintaining the
+flexibility of the Courts to adapt to modern working practices.
+Many of the same factors will be considered when determining if someone
+is an employee or a limb (b) worker, but with a higher threshold for an
+employee. The weighting of each factor will vary depending on the
+relationship in question and is a judgement based on the whole picture of
+the individual case. This allows the Courts to assess the reality of the
+relationship between the individual and the employer. The Courts will also
+consider Parliament’s intention in enacting employment legislation – namely
+to protect those who are dependent on an employer for their livelihood.
+Employee status
+Over time the Courts have developed a range of tests to identify whether an
+individual is an employee. The following requirements must be satisfied in
+order for an individual to be an employee:
+personal service – the employee has to do the work themselves (there
+may be a limited right to send someone else). For example, an employee
+on a 9-5pm contract, who is expected to turn up every day and carry out
+work for their employer would satisfy this test. On the other hand, if the
+individual can send anyone else in their place (with no restrictions) that
+will not be personal service and the individual will not be an employee.
+However, even if there is a contractual right to provide a substitute but the
+
+parties have no intention of relying on it and/or it does not reflect how the
+agreement works in practice, this does not prevent personal service from
+being established
+control – the employer is in control of the employee. Control is best
+understood as how much freedom the individual has to decide for
+themselves over how, where, and when the work is done. Factors to
+consider can include who gives out the work, who specifies how, where
+and when it is to be done, who sets the rate of pay for each assignment,
+who provides the equipment, or whether the individual has to wear a
+uniform or specific branding. Day to day control of work is not a
+requirement, but the employer must have ultimate control by retaining a
+right to give instructions and for the employee to follow them (provided
+they were reasonable) or be at risk of disciplinary actions up to and
+including dismissal
+mutuality of obligation – is a special kind of two-way responsibility –
+this will be present during any period when the employer must provide
+work and the employee must do the work provided. An individual is not an
+employee during periods when they are not working if there is no
+commitment to accept further work which may be offered
+Limb (b) worker status
+The following requirements must be satisfied in order for an individual to be
+a limb (b) worker:
+any contract (not a contract of employment) whereby an individual
+undertakes to perform work or services for the other party. A contract may
+be oral or in writing but in order for there to be a contract there must be
+an exchange of consideration, for example, each party must provide
+something of value to the other party such as the work or service being
+exchanged for wages
+personal service – mirrors the test for employee, that is, does the worker
+have to carry out the work themselves. Furthermore, a person may still be
+a limb (b) worker if they have a limited or occasional right to provide a
+substitute. On the other hand, an unlimited and unrestricted right to
+substitution that is exercised for this test would strengthen arguments for
+the self-employed status
+is the person working as part of their own professional or business
+undertaking and the other party to the contract is a client or
+customer? The nature of the contract must be that the relationship
+between the parties is not between an independent business and an
+independent client/customer as that would imply the individual is selfemployed. Factors that may be relevant are the degree of control
+exercised by the employer. This might include, whether the way in which
+
+the service is provided is very tightly defined and controlled by the
+employer, whether the individual provides the service in their own name
+or the name of the business the individual is working for, who benefits
+from customer loyalty and goodwill generated by the provision of the
+service, who sets the rate of pay, who does the client pay, what financial
+risk does the individual take, the exclusivity of the engagement (does the
+individual work with other clients/customers) and its typical duration, what
+equipment the worker supplies and/or the level of risk undertaken by the
+worker.
+Ultimately, Parliament’s intention in enacting employment legislation
+recognised that employees and limb (b) workers were in a vulnerable
+position with their employers and required statutory protection. The greater
+the degree of control exercised by the employer over the work or services
+performed by the individual concerned the more likely the person is to be an
+employee or a limb (b) worker.
+Other factors that may be relevant to employees, limb
+(b) workers and the self-employed
+Terms and conditions of the contract
+Employment status is not just a matter of what the contract (whether oral or
+in writing) states or the type of contract you are on (for example permanent,
+zero-hours, casual or agency); it is determined by the reality of the working
+relationship between the employer and the individual. It takes account of all
+the circumstances including the purpose of employment legislation, of which
+the written contract (if there is one) is just one aspect.
+Even if an employer attempts to create a different employment status
+through the terms of the contract, if this does not reflect the reality of the
+agreement, this does not change the legal employment status of the
+individual which depends solely on the true reality of the relationship. Any
+terms which aim to exclude/limit employment rights of individual(s) by
+seeking to avoid employee or limb (b) worker status are of no effect and will
+be disregarded by the Courts.
+Example
+An individual enters a contract with their employer to perform work
+where they are described as ‘self-employed’. This contract may have a
+clause which removes one of the key principles for satisfying the
+employee status e.g. a clause providing that the employer does not
+have to offer any work and then individual does not have to accept any
+work (a mutuality of obligation clause). If this does not reflect the reality
+
+of the relationship and there is in fact mutuality of obligation, then the
+individual may well be an employee even though the contract stated the
+individual was self-employed.
+Financial risk
+In general terms, the greater the financial risk (for example, purchasing
+assets to use or only being paid if the work is successfully completed) the
+more likely that this will be consistent with self-employment. However, the
+absence of financial risk doesn’t automatically mean the person is an
+employee or a limb (b) worker.
+Example
+An individual pays to undertake their own professional accounting
+qualifications with the ambition of operating their own accountancy firm,
+collecting payment for work completed for different clients. In this
+circumstance, as the individual paid for their own exams in order to train
+and practice accountancy (rather than it being paid for by the employer)
+the individual undertook some financial risk. This factor could be used to
+strengthen arguments to self-employment, if other factors were also
+consistent with this employment status.
+Integral to the organisation
+In certain circumstances, integration to the organisation can be a factor
+consistent with employee or limb (b) worker status. Examples of this can
+include that the individuals assist other members of a team, are part of a
+management structure or are subject to company disciplinary procedures.
+The existence of these factors can point towards limb (b) worker or
+employee status. However, their absence is not fatal to establishing
+employee or limb (b) worker status, particularly where it is part of a
+calculated position by the employer to avoid worker status.
+Example
+An individual has a manager in the business they complete work for that
+allocates them work. The individual is also able to advise and assist
+other members of a team in the business and is subject to the company
+disciplinary procedures and other procedures and policies. This
+integration into the organisation could be used to support factors of an
+employee or limb (b) worker relationship to their employer.
+Equipment
+While not necessarily decisive on its own, evidence that the engager
+provides the mandatory equipment necessary to do the job (such as
+
+clothing, tools) can be a pointer towards employee or limb (b) worker status.
+Example
+Television salesmen were being supplied with cars by their employer
+and the use of employer equipment was a relevant factor in determining
+their employee status in a Court case.
+How the individual is paid
+An individual that is paid by reference to their output or profit share rather
+than hourly wage or annual salary is more likely to be consistent with selfemployed status. However, it is also possible for an employee or other
+worker to be paid by reference to their output (such as pieces produced, or
+tasks performed).
+Example
+An office worker is paid £15 an hour for their role as a receptionist,
+completing on average 20 hours of work a week. As the individual is
+paid for their time, as opposed to output, this factor is likely to be
+consistent with a limb (b) worker or employee employment status.
+Exclusivity of the arrangement
+This concerns an individual’s ability to work with other rival businesses. In
+general terms, the more exclusive the arrangement, the more likely that this
+would be consistent with employee status. Exclusivity may also be a pointer
+to limb (b) worker status, but as limb (b) workers often have more flexibility
+in working for different (and sometimes rival) organisations it would not be
+decisive.
+Example
+A consultant works for a number of different organisations, with varying
+clients each week. This factor makes it more likely the individual may be
+self-employed.
+Example
+An individual provides their services as a driver through a number of
+different apps. They are free to choose which app to use to obtain work,
+but the way in which they provide the service through each app is tightly
+constrained by the relevant app. While the freedom to work for rival
+
+businesses may point towards self-employment, the level of control to
+which the individual is subject when working through any app may point
+towards limb (b) worker status.
+Genuinely in business on your own account
+Is best understood as running your own business and is often linked to
+other factors such as providing or using your own equipment, having
+financial risk in your work and/or whether you had a pre-existing business. If
+the individual provides or uses their own equipment, has financial risk in
+their work and/or had a pre-existing independent business, the individual
+may be more likely to be self-employed. However, the presence of any of
+these factors including a pre-existing business is not fatal to a person being
+either a worker or an employee. It will depend on an assessment of all the
+circumstances.
+Example
+A painter supplies their own paint and brushes, has direct relations with
+their clients/customers and negotiates the rate of pay for each individual
+customer. These factors make it more likely the individual is genuinely in
+business on their own account and self-employed.
+Section 4: Special circumstances and
+developments in the labour market
+Gig economy
+New forms of work have emerged in the so-called ‘digital / gig / platform /
+crowd’ economies. Recent court cases have shown that the purpose of
+employment law is to protect those working for others and regardless of
+whether you work in the gig economy, if you satisfy the tests around
+employee or limb (b) worker status you will be entitled to the corresponding
+statutory employment rights and protections (as described in the
+Employment rights table. The example below provides an example of how
+control can be exerted by an employer (or engager) in a digital setting via
+an app. The control in the example would be enough to satisfy the limb (b)
+worker status, providing other factors were also consistent.
+
+Example of control via an app
+the engager restricts communication between the passenger and the
+driver to the minimum necessary to perform the particular trip and
+takes active steps to prevent drivers from establishing any
+relationship with a passenger capable of extending beyond an
+individual ride
+the remuneration paid to drivers for the work they do is fixed by the
+engager and the drivers have no say in it (other than by choosing
+when and how much to work). The engager fixes its own “service fee”
+which it deducts from the fares paid to drivers. The notional freedom
+to charge a passenger less than the fare set by engager is of no
+possible benefit to drivers as any discount offered would come
+entirely out of the driver’s pocket
+the contractual terms on which drivers perform their services are
+dictated by the engager
+although drivers have the freedom to choose when to work, once a
+driver has logged onto the engager’s app, a driver’s choice about
+whether to accept requests for rides is constrained by the engager
+the engager exercises a significant degree of control over the way in
+which drivers deliver their services (vets the type of car and uses the
+technology to exercise control over the drivers)
+Where an individual is a limb (b) worker or an employee, in all
+circumstances their employer must determine the worker’s working time for
+National Minimum Wage purposes. For further details for determining
+working time for the purposes of the National Minimum Wage or the
+National Living Wage, including for gig economy / platform businesses see
+How to calculate the Minimum Wage (https://www.gov.uk/guidance/calculatingthe-minimum-wage/eligibility-for-the-minimum-wage#gig-economy-or-platformbased-workers).
+Zero-hours contracts
+Generally, this is best understood as a working arrangement in which the
+employer does not guarantee the individual any work, and the individual is
+not obliged to accept any work offered. Zero-hours contracts can allow
+employers to adapt to changes in their circumstances, supporting workforce
+flexibility, making it easier to hire new staff, and increasing the pool of
+people available to work. These contracts can also give individuals more
+choice and the ability to combine their work and other commitments such as
+for those who are retired or with caring responsibilities. For example, zerohours contracts are used in the hospitality sector where service take up or
+demand cannot be guaranteed, or in the healthcare sector for staff that work
+as locums in a specialised role such as a surgeon or doctor and flexible
+working suits their current circumstances.
+The employment status of an individual on a zero-hours contract will
+depend on the facts of the relationship and as such, a zero-hours contract
+does not dictate your employment status and an individual could qualify
+for any employment status (employee, limb (b) worker or self-employed) for
+employment rights purposes. An example of individuals on zero-hours
+contracts who were found to be employees by the Courts can be seen in
+this example:
+Example
+A number of care workers sign a contract labelled zero-hours contract
+which includes a ‘no mutuality of obligation’ clause. However, this clause
+does not reflect the true agreement between the 2 parties as the care
+workers are required to undertake work regularly and carry out that work
+in specialist positions which are very important for the employer’s
+business. Overall, the reality of the working relationship here is likely to
+be that the agreement does includes mutual obligations for the
+individuals to accept shifts and for the employer to offer work. The
+workers are therefore more likely than not to be employees.
+Freelancers, contractors, consultants and interims
+There is no definition of these categories in legislation. Although
+freelancers, contractors, consultants and interims are often self-employed,
+they could be either self-employed, a limb (b) worker or an employee
+depending on the reality of the relationship, whether they work for a client or
+if they are employed by an agency or umbrella company see the agency
+worker section. Therefore, a freelancer, contractor, consultant and interim
+could be entitled to the rights associated with limb (b) worker or employee
+status.
+Example
+A plumber undertaking several jobs for different customers is likely to be
+neither an employee nor a limb (b) worker. They are likely to be
+genuinely self-employed and enjoy the freedoms that this status affords
+them. However, this plumber could then secure a contract on a large
+contract site as one of the resident plumbers. If this is on a purely subcontracting basis to deliver a certain task, the individual may still be selfemployed. But if the individual is hired to carry out a personal service
+due to their skillset, and is unable to send someone else in their place to
+carry out the work, it is more likely the individual is a limb (b) worker.
+The plumber could therefore be a limb (b) worker for one contract whilst
+still being self-employed for other work contracts.
+Agency workers
+You are an agency worker if you have a contract with an agency but you
+work temporarily for a hirer. Agency workers may qualify for employee or
+limb (b) worker employment rights depending on their relationship with their
+employer. Agency workers are usually employed by the employment
+business itself unless an intermediary is involved (i.e. an umbrella
+company). It is important to identify who the employer is as they are
+responsible for ensuring that agency workers receive employment rights.
+Agency workers receive certain protections, irrespective of whether they are
+an employee or a limb (b) worker such as the right to be paid the National
+Minimum Wage for hours worked, the right to paid annual leave,
+whistleblowing protections, and pension auto-enrolment. They also have
+additional protections under the Employment Agencies Act 1973 and the
+Conduct of Employment Agencies and Employment Businesses
+Regulations 2003, which aim to ensure that work-seekers have free access
+to the labour market, can move between jobs within the labour market, and
+can use the recruitment sector with confidence. They also receive
+protections under the Agency Workers Regulations 2010. This gives agency
+workers the entitlement to the same core employment and working
+conditions as if they had been recruited directly. Some protections apply
+from day 1 and some will apply only once they complete the 12-week
+qualifying period in the same role with the same hirer. Read more about
+agency workers’ rights (https://www.gov.uk/agency-workers-your-rights) as well
+as information specifically on how and what they must be paid when
+working through an umbrella company (https://www.gov.uk/guidance/workingthrough-an-umbrella-company).
+Example
+A substitute teacher’s working relationship is that they work on a fixed
+assignment for 6 months. The teacher is not employed directly by the
+school instead they are on a contract with an employment agency. In
+this example, the teacher’s employer is the employment agency and is
+
+therefore responsible for ensuring they get the rights they are entitled to,
+whether they are an employee, worker or contracted as self-employed.
+Employee shareholder status
+Employee shareholder (https://www.gov.uk/employment-status/employeeshareholders) is a separate employment status. Most employees who own
+shares in a company they work for do not fall under the employee
+shareholder status and keep their employee status. Employers must follow
+certain rules when offering employment shareholder status
+(https://www.gov.uk/employee-shareholders) to their employees.
+An employee shareholder is someone who works under an employment
+contract and owns at least £2,000 worth of shares in the employer’s
+company or parent company. Whilst employers can choose to provide more
+generous employment rights than the statutory ones, employee
+shareholders are entitled to all employee employment rights except for:
+protection against unfair dismissal (https://www.gov.uk/dismissal/unfair-andconstructive-dismissal) – apart from dismissal on grounds of discrimination
+and in relation to health and safety
+statutory redundancy pay (https://www.gov.uk/redundant-yourrights/redundancy-pay)
+the right to request flexible working (https://www.gov.uk/flexible-working) –
+except in the 2 weeks after returning from parental leave
+certain statutory rights to request time off for training
+Employee shareholders must give 16 weeks’ notice if they want to come
+back early from:
+maternity leave (https://www.gov.uk/maternity-pay-leave/overview)
+additional paternity leave (https://www.gov.uk/paternity-pay-leave/leave)
+adoption leave (https://www.gov.uk/adoption-pay-leave/leave)
+Office holders, police and the armed forces
+There are special provisions which apply to office holders, (for example
+which includes certain company directors, clergy, judges), police officers
+and members of the Armed Forces and specific advice should be taken.
+
+Volunteers
+Volunteers (https://www.gov.uk/volunteering) are not defined in primary
+legislation, although Section 44 of the National Minimum Wage Act 1998
+does provide an exemption for ‘voluntary workers’. Volunteers are not
+exclusive to the charitable sector and can be found across both the public
+and private sector. Most volunteers participate in this way either for
+philanthropic reasons, or to build skills and experience in a given area.
+Volunteers are not legally obliged to work a set number of hours or at all.
+Volunteers who willingly accept to be engaged on a voluntary basis are
+neither employees nor limb (b) workers and therefore not entitled to any
+employment right associated with these statuses. However, for some, the
+roles they will be undertaking will be very similar to, if not the same as, paid
+individuals alongside them. Volunteers aren’t paid for their time but can be
+paid for any out-of-pocket expenses. These expenses could include travel,
+postage and telephone costs if working from home, and essential
+equipment, such as protective clothing. If a volunteer receives any type of
+reward or payment other than expenses, this could impact their employment
+status, and they could be classed as an ‘employee’ or ‘worker’ and therefore
+be entitled to employment rights and protections.
+Interns
+Internships (https://www.gov.uk/employment-rights-for-interns) are sometimes
+called work placements or work experience and are generally understood
+as being where an individual works so as to gain relevant professional
+experience to improve their career prospects. These terms have no legal
+status on their own and do not dictate an individual’s employment status.
+Interns can be volunteers, limb (b) workers or employees depending on the
+facts of the relationship. If they are a limb (b) worker or employee, they are
+entitled to exactly the same employment rights as any other limb (b) worker
+or employee. However, true volunteers are not entitled to employment
+rights. For example, an employer would not have to pay the minimum wage
+if an individual is undertaking work experience that only involves shadowing
+an employee, meaning no work is carried out and they are only observing.
+Apprenticeships
+
+Apprentices (https://www.gov.uk/employing-an-apprentice/pay-and-conditions-forapprentices) are entitled to the same employment rights as other employees
+working at similar grades or in similar roles (including paid holidays, sick
+pay, and other benefits and support). Apprentices must spend at least 20%
+of their normal working hours training and the National Minimum Wage rate
+is different for apprentices.
+Section 5: Case studies and sectoral
+examples
+These indicative examples highlight how factors in different sectoral working
+relationships can be considered when determining employment status. The
+employee or limb (b) worker tests apply across all sectors.
+Case study: Limb (b) worker in the transport sector
+Example
+A courier driver works for a number of organisations including a delivery
+firm, for which they complete a range of shifts each week on a zerohours contract. When they arrive for work with this delivery firm, they are
+given a list of the packages that need to be delivered in a specified order
+and with a specified route to follow. The driver must use their own van,
+wear the organisation’s uniform and stick-on vehicle branding from the
+delivery firm. They are paid per delivery (though there is no scope to
+vary the route/order). The driver also has a limited right to sub-contract
+the work if they were unable to work – they must notify the company and
+the substitute driver must have completed a similar training course.
+For the purpose of their relationship with this delivery firm, it seems likely
+the individual is not working as part of their own professional business as
+the degree of control exerted by the delivery firm is too great. The courier
+driver is expected to complete the shifts they have accepted, use company
+branding and uniform, and follow required routes. The driver also appears to
+be required to provide a degree of personal service that’s more compatible
+with limb (b) worker or employee status than self-employed status as they
+only have a limited right to subcontract with an individual who has
+completed similar training. The individual therefore satisfies the personal
+service requirement and is working under a degree of control which is
+consistent with limb (b) worker status. There are other relevant factors for
+
+this example such as that the individual is not subject to an exclusive
+relationship and works for other organisations, is paid per delivery as
+opposed to a salary and provides their own van (equipment) pointing
+towards a more flexible working arrangement than an employee. Overall, it
+is likely this individual is a limb (b) worker.
+Case study: Self-employed developer in the
+professional business services sector
+Example
+An IT specialist, with a pre-existing independent business, is brought
+into a large organisation to work on a project for 3 months, a few days a
+week, to improve the organisation’s website. The individual is highly
+skilled as a website designer and during the project, the individual is
+given freedom for how and where the work is completed but there is an
+expectation the specialist will be available during normal working hours
+of the organisation on the days they are working. The individual is not
+subject to the same behavioural guidelines as permanent staff and the
+relationship is not exclusive. The individual is able to take on additional
+work during the length of the contract without permission and is able to
+subcontract out their work if required. The individual uses their own
+equipment and is paid for their services at a day rate.
+Overall, factors such as that the individual has a high amount of control for
+how the work is undertaken and that the individual can sub-contract their
+work out, it seems likely the individual is not a limb (b) worker or employee.
+Instead, those factors point to the self-employed status and that the other
+party to the contract is a client or customer. This includes that the
+individual is not integrated into the business through being subject to the
+same behavioural guidelines as permanent staff, the relationship is not
+exclusive and that the individual uses their own equipment and has the
+freedom to negotiate their rate of pay.
+Case study: Limb (b) worker in the healthcare sector
+Example
+An individual usually works one day per week in a cosmetic surgery
+practice as a plastic surgeon, with some flexibility around turning up to
+
+work on that day. The individual is highly skilled, decides how the
+surgery should be performed and is not required to wear a uniform but
+general personal protective equipment. The work has to be performed at
+the surgery during opening hours. The individual is integrated into the
+business (the cosmetic surgery practice markets the surgeon as “our
+surgeon”) but they also run other separate businesses. They are paid on
+a day-rate-basis which the individual has negotiated with the practice
+and they are provided surgical equipment to perform the work. It is
+expected that the individual will perform the surgery themselves and the
+individual is unable to send a substitute.
+In this example, there is evidence of personal service as the surgeon
+carries out the procedures themselves. However, there is no obligation for
+the practice to offer work to the surgeon and no obligation on the
+surgeon to accept offer of work. The individual is subject a low amount of
+control as to how the work is carried out and requirements around uniform
+but there is control for when and where the individual has to work (during
+opening hours at the surgery). The arrangement is also not exclusive (as
+the surgeon works for other organisations), and the individual has
+negotiated their day rate of pay as opposed to receiving a salary. Overall,
+it seems this individual is unlikely to be an employee because the practice is
+not obliged to offer them work, nor is the surgeon required to accept work.
+The surgeon also has other businesses which might suggest they are selfemployed. However, based on the degree of control that the practice
+exerts over the surgeon suggests that the surgeon’s relationship with the
+practice is that of a limb (b) worker rather than self-employed.
+Case study: Employee in the hospitality sector
+Example
+A hotel cleaner is allocated cleaning tasks at the start of each shift, told
+what equipment to use for each task and provided with a uniform to
+wear. The individual is also supervised by a cleaning manager employed
+by the hotel who checks on progress regularly, with the individual’s
+performance closely monitored. As prior hotel training was provided, the
+individual is not entitled to send and pay any substitute to perform the
+work. The individual has a contract to perform a certain number of hours
+a week and be remunerated for those hours on an hourly basis.
+The individual is under a large amount of control from the hotel via
+performance management and as they are required to wear a uniform.
+There is also a mutual obligation to provide work and for work to be
+
+undertaken as set out in their contract, with the individual not able to provide
+a substitute. Other relevant factors include the individual being an integral
+part of the business’ ability to run, the lack of financial risk the individual is
+under and the individual’s requirement to use the hotel’s equipment to carry
+out the work. It is likely the individual is an employee.
+Case study: Limb (b) worker in the construction sector
+Example
+An individual is engaged as a contractor to assist with the construction
+of an office block which is running behind. The individual can turn up
+and work as they wish, answering to a foreman who gives the individual
+a daily list of tasks to carry out. The foreman will make regular checks
+on the quality of the individuals’ work. The individual will continue to get
+paid for as long as the overall building work takes and if the individual
+finishes their tasks early, they will be given more. If the individual does
+not finish, they can continue the next day. All required equipment is
+provided. The firm expects the individual to do the work personally and
+not send a substitute.
+The example sets out that the builder / labourer is under a degree of
+control while they work as they are monitored by the foreman. There is also
+evidence of personal service as the builder/labourer is not able to send a
+substitute. Overall, it seems likely the individual is a limb (b) worker. Other
+factors are also consistent with limb (b) worker status rather than selfemployed status include that the equipment is provided by the building firm
+(not the individual). Employee status is also less likely due to factors such
+as lower evidence of mutuality of obligation, the individual’s freedom over
+when they work, that they are paid for work done as opposed to a salary
+and the lack of integration into the business. $CTA
+Section 6: Further resources
+further information from Acas on employment status
+trade unions can negotiate on working conditions and provide support for
+individuals in claiming rights at work, and in some cases in the Courts
+and tribunals. More information and guidance on trade union recognition
+by employers (https://www.gov.uk/trade-union-recognition-employers)
+
+more detailed information if you are an employer for pensions automatic
+enrolment (the Pensions Regulator site)
+(https://www.thepensionsregulator.gov.uk/en/employers)
+information around Statutory Sick Pay (https://www.gov.uk/statutory-sick-pay)
+detailed guidance on the National Minimum Wage or National Living
+Wage (https://www.gov.uk/guidance/calculating-the-minimum-wage)
+information on Armed Forces pay and conditions
+(https://www.gov.uk/employee-reservist)
+information on Universal Credit (https://www.gov.uk/universal-credit)
+more about employment contracts (https://www.gov.uk/employment-contractsand-conditions)
+information for office holders (https://www.gov.uk/employment-status/officeholder)

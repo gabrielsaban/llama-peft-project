@@ -1,0 +1,225 @@
+Employment contracts and the law
+1 . What an employment contract is
+Employment contracts are legally binding agreements between employers and workers.
+They can be agreed:
+verbally – through conversations
+in writing – for example, a job offer letter or through emails
+through conduct – when people's actions show there's an agreement
+Some employment contract terms can also come from the law. For example, all employment contracts include the right to be paid at
+least the minimum wage.
+Employment status
+Employment status is someone's legal status at work. It affects:
+the employment rights they're entitled to
+both theirs and their employer's responsibilities
+The terms of a contract can help work out someone's employment status.
+Employees
+Anyone with the legal status of employee has either a 'contract of employment' or a 'contract of service' with their employer.
+Someone is not likely to be an employee if they're:
+an agency worker
+a casual worker
+on a zero-hours contract
+By law, there are certain terms that employees are always entitled to. For example, employees have the right to a minimum notice
+period if they're dismissed or made redundant.
+Workers
+Anyone with the legal status of worker has a different kind of contract with their employer. Workers are sometimes referred to as 'limb
+(b)' workers. This term comes from the Employment Rights Act 1996.
+A limb (b) worker is someone who has a contract to perform work or services personally for someone else. This is different to a
+contract of employment.
+
+Workers have some employment rights, but not as many as employees.
+The difference between a contract and a written statement
+Someone has the right to a 'written statement of employment particulars' if they are:
+an employee
+a worker – unless they started the job before 6 April 2020
+A written statement includes the main terms of someone's employment, for example pay and working hours.
+This document is often referred to as the 'employment contract'. But by law, the employment contract is broader than just the written
+statement.
+For example, an employment contract might also include:
+other clauses – for example about keeping sensitive company information confidential
+the organisation's code of conduct
+policies – for example on social media or data protection (GDPR)
+Find out more about the written statement
+When the employment contract begins
+An employment contract begins when someone starts work.
+This is the case even if the employer has:
+failed to provide the written statement
+not put any other parts of the employment contract in writing
+The contract might be formed earlier if all the following apply:
+the employer set out the terms of the job in a clear and definite way, verbally or in writing
+the job offer was unconditional or the person met all the conditions – for example, the employer was satisfied with their
+references
+someone accepted the job offer verbally or in writing
+If there's no written statement
+Employers must provide the written statement on or before the first day of work.
+Workers and employees should raise the issue with their employer if they've not received the written statement. It's a good idea to do
+this informally first by talking with their employer.
+Training
+Acas also provides:
+training courses on employment contracts
+free e-learning on employment contracts and written statements
+
+2. Written or verbally agreed terms
+An employment contract is made up of different types of terms. This includes terms that are:
+written down
+verbally agreed – in conversations between the employer and worker
+Express terms
+Some terms will be explicitly agreed. These are called 'express terms'.
+Express terms are usually put down in writing. This might be in the 'written statement of employment particulars' or a job offer letter.
+Terms that are agreed verbally
+Express terms can also be agreed verbally, in conversations between a worker and their employer.
+Terms agreed verbally are usually still legally binding. This means that they are still part of the legal contract.
+However, some terms must be written down in the written statement. This includes things like pay, working hours and holidays.
+In general, it's a good idea to put everything in writing. This helps everyone to understand their rights and responsibilities.
+Incorporated terms
+Some employment contract terms might be written in other documents. These are called 'incorporated terms'.
+They might be found in:
+employee handbooks
+collective agreements
+company policies
+Incorporated terms might not have been agreed specifically between an individual worker and their employer. But they are still part of
+the employment contract.
+3. Implied and imposed terms
+An employment contract is made up of different types of terms. Usually these terms will be explicitly agreed by employers and workers.
+But the employment contract can also include terms that:
+haven't been written down or explicitly agreed – but can be implied into the contract in different ways
+come from the law
+Implied terms
+Some terms can be 'implied' in the employment contract, even if they have not been written down.
+Implied terms often fill in gaps where things have not been written down or agreed verbally. But they are still part of the contract.
+
+This could be because they:
+are necessary to make the contract work – for example, a delivery driver needing a valid driving license
+were too obvious to write down – for example, employees not stealing from their employer
+are clear in the conduct of the employer and worker – for example, always being paid on a certain day of the week
+have become part of the contract through custom and practice
+An implied term cannot contradict a written term.
+In general, it's best to write down anything that you intend to be part of the employment contract. This helps to avoid confusion. It will
+ensure that everyone understands their rights and responsibilities.
+Imposed terms
+Some terms are part of the employment contract because they're required by law. These are known as 'imposed terms'.
+Imposed terms can come from:
+acts of law
+judge-made law – decisions made by judges in higher-level courts, like the Employment Appeal Tribunal or the Court of Appeal
+Imposed terms that come from acts of law are sometimes known as 'statutory terms'. For example, that workers should be paid at least
+the minimum wage.
+Employers cannot include anything in a contract that contradicts an imposed term. This is even if they write it down or discuss it
+directly with the worker.
+Employer and worker duties
+There are certain duties that are always part of an employment contract. These are:
+duty of care
+duty of trust and confidence
+duty of fidelity
+These duties are a type of imposed term because they come from the law. But they are generally known as 'implied duties'.
+Find out more about implied duties
+4. Custom and practice
+Sometimes things that are not written down can become part of an employment contract through 'custom and practice'.
+To be implied through custom and practice, something must be:
+'notorious' or generally well-known in the business or industry, usually over a long period of time
+reasonable
+certain
+Example of custom and practice
+
+An employer always gives more than the statutory minimum redundancy pay when they make redundancies. This is called enhanced
+redundancy pay.
+Their written contracts don't say how much redundancy pay they give. But it is well known throughout the organisation that they always
+pay the same enhanced redundancy pay. They've done so every time they've made redundancies, over a long period of time.
+The right to enhanced redundancy pay might have become part of the contract through custom and practice.
+Writing things down
+Something cannot become part of the contract through custom and practice if it contradicts a written term.
+If an employer does not want something to be part of the contract, it's best to write this down.
+For example, a company wants to give bonuses to workers at the end of the year. But they do not want this to become part of the
+contract. They should make sure the employment contract includes a written term saying that all bonuses are discretionary.
+If there's a disagreement
+If a worker is not sure whether something is part of their employment contract, they could raise this with their employer. It's usually best
+to raise it informally first. They can do this by talking with their employer.
+If there's a disagreement about whether something is part of the employment contract, the worker could raise a grievance. This is
+where they make a formal complaint to their employer.
+If they've tried these options without success, workers might be able to make a claim to an employment tribunal.
+5. Terms restricting a worker's actions
+Sometimes employers might include employment contract terms that restrict a worker's actions.
+This might include stopping them from:
+working for another employer – known as an 'exclusivity clause'
+taking specific actions after they leave that are in conflict with their employer's interests – known as a 'restrictive covenant'
+Exclusivity clauses
+Exclusivity clauses are to stop a worker from either:
+working for another employer
+working for another employer without consent
+If someone's on a zero-hours contract
+By law (Employment Rights Act 1996), if someone is on a zero-hours contract, their employer must not:
+try to stop them working for another employer by putting an exclusivity clause in their contract
+treat them less favourably if they also work for another employer
+dismiss them for working for more than one employer – this could be an unfair dismissal
+
+If someone earns below the lower earnings limit
+The law banning the use of exclusivity clauses also applies when someone's weekly income is below or equivalent to the lower
+earnings limit (LEL).
+The government sets the lower earnings limit each tax year. The lower earnings limit for 6 April 2025 to 5 April 2026 is £125 per week.
+If you have any questions about the lower earnings limit, contact HM Revenue and Customs (HMRC).
+If an employer includes an exclusivity clause that's against the law
+The law banning the use of exclusivity clauses still applies even if the employer:
+has included an exclusivity clause in the contract
+says a worker has broken their contract by working for another employer
+This is because an employer cannot enforce a clause that is against the law.
+If someone feels that their employer is including a clause that is against the law, it's a good idea to raise this informally first. They can
+do this by talking with their employer.
+Restrictive covenants
+In some circumstances, employers can include a 'restrictive covenant' in an employment contract. They are used in the contracts of
+those with the legal status of employee.
+Someone is not likely to be an employee if they're:
+an agency worker
+a casual worker
+on a zero-hours contract
+Restrictive covenants restrict employee's activities after they leave, to protect the employer's business interests.
+Some examples of restrictive covenants include:
+'non-competition' – preventing employees from working for a competitor or starting a competing business for a period of time,
+or within a certain distance
+'non-disclosure' – preventing employees from sharing sensitive or confidential information after they leave
+'anti-poaching' – preventing employees from encouraging others to leave with them
+'non-solicitation' – preventing former employees from trying to get the business of their previous employer's clients or
+customers
+An employer will not usually be able to enforce restrictive covenants unless they're clear, specific and time-restricted. Even then, this
+area of the law can be complex.
+If you're an employer, you should consider getting legal advice before including restrictive covenants in contracts.
+6. Flexibility clauses
+
+Sometimes employers include 'flexibility clauses' in contracts. They're often called 'variation clauses'.
+These clauses are intended to allow employers to change terms in the contract in certain circumstances. Flexibility clauses can be
+general or specific.
+For example, a general flexibility clause might say that an employer can change the terms of a contract, depending on the needs of the
+business.
+A specific flexibility clause might say that an employer can change working hours, but only within the business opening hours.
+Employers should make flexibility clauses as clear and specific as possible. This will help to avoid misunderstandings and reduce the
+risk of legal claims.
+Flexibility clauses are likely to only affect people with the legal status of employee. This is because other employment statuses usually
+already have flexibility around their contract.
+Someone is not likely to be an employee if they're:
+an agency worker
+a casual worker
+on a zero-hours contract
+Using flexibility clauses to change a contract
+Employers must only use flexibility clauses to make changes that are reasonable.
+The employer might be in breach of the contract if they:
+try to make changes that are unreasonable
+fail to inform and consult about any proposed change
+do not give reasonable notice for changes
+This could be the case even if there's a flexibility clause that seems to allow the change.
+For example, an employer is deciding whether it's reasonable to use a flexibility clause to change someone's work location. Things
+they should consider include whether:
+the new location is within a reasonable commuting distance
+the employee can drive
+there are public transport options available
+the employee has any mobility issues
+the employee has caring responsibilities that would be impacted by a longer commute
+to offset any extra costs from the change in work location
+the work location is among the terms and conditions covered by a 'collective agreement' – this is an agreement with a
+recognised trade union
+there's any risk of discrimination
+Find out more about:
+proposing employment contract changes
+if your employer proposes employment contract changes
+
+Adding a flexibility clause to a contract
+If an employer would like to introduce a flexibility clause, they would need to change the employment contract.
+An employer must follow certain steps when changing employment contracts.
+Employees have different options when deciding how to respond if their employer proposes a change to their contract.
+Find out more about changing an employment contract

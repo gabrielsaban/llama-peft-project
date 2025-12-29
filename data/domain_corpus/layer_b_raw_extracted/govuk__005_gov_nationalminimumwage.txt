@@ -1,0 +1,192 @@
+Part of
+Get ready to employ someone for the first time: step by
+step
+(/get-ready-to-employ-someone)
+The National Minimum Wage
+and Living Wage
+1. Overview
+The minimum wage a worker should get (/national-minimum-wage-rates)
+depends on their age and if they’re an apprentice.
+The National Minimum Wage is the minimum pay per hour almost all
+workers are entitled to. The National Living Wage is higher than the National
+Minimum Wage - workers get it if they’re 21 and over.
+It does not matter how small an employer is, they still have to pay the
+correct minimum wage.
+Calculate the minimum wage
+Use the minimum wage calculators to check if the correct minimum wage
+has been paid.
+There are separate calculators for workers and employers.
+Use the calculator for workers (/am-i-getting-minimum-wage) to check if you’re
+getting the correct minimum wage or if an employer owes you payment from
+the previous year.
+Use the calculator for employers (/minimum-wage-calculator-employers) to
+check if you’re paying the correct minimum wage or if you owe a payment
+from the previous year.
+There is also guidance on working out the minimum wage for different types
+of work (/minimum-wage-different-types-work).
+
+Minimum Wage or National Living Wage.
+2. Who gets the minimum wage
+People classed as ‘workers’ (/employment-status/worker) must be at least
+school leaving age (/know-when-you-can-leave-school) to get the National
+Minimum Wage. They must be 21 or over to get the National Living Wage.
+Contracts for payments below the minimum wage are not legally binding.
+The worker is still entitled to the National Minimum Wage or National Living
+Wage.
+Workers are also entitled to the correct minimum wage if they’re:
+part-time
+casual labourers, for example someone hired for one day
+agency workers
+workers and homeworkers paid by the number of items they make
+apprentices
+trainees, workers on probation
+disabled workers
+agricultural workers
+foreign workers
+seafarers
+offshore workers
+non-family members living in the employer’s home who share in the work
+and leisure activities and are treated as one of the family, for example au
+pairs
+Apprentices
+Apprentices are entitled to the apprentice rate (/national-minimum-wage-rates)
+if they’re either:
+under 19
+19 or over and in the first year of their apprenticeship
+Apprentices over 19 who have completed the first year of their
+apprenticeship are entitled to the correct minimum wage for their age.
+
+Not entitled to the minimum wage
+The following types of workers are not entitled to the National Minimum
+Wage or National Living Wage:
+self-employed people (/employment-status/selfemployed-contractor) running
+their own business
+company directors (/employment-status/director)
+people who are volunteers (/volunteering/pay-and-expenses) or voluntary
+workers
+workers on a government employment programme, such as the Work
+Programme
+members of the armed forces
+family members of the employer living in the employer’s home
+workers younger than school leaving age (usually 16)
+higher and further education students on work experience or a work
+placement up to one year
+people shadowing others at work
+workers on government pre-apprenticeships schemes
+people on the following European Union (EU) programmes: Leonardo da
+Vinci, Erasmus+, Comenius
+people working on a Jobcentre Plus Work trial for up to 6 weeks
+share fishermen
+prisoners
+people living and working in a religious community
+Employers who offer internships (sometimes called ‘work placements’ or
+‘work experience’) (/employment-rights-for-interns) should check if the
+person is entitled to the minimum wage.
+Voluntary work
+You’re classed as doing voluntary work if you can only get certain limited
+benefits (for example reasonable travel or lunch expenses) and you’re
+working for a:
+charity
+voluntary organisation or associated fundraising body
+
+statutory body
+be getting the minimum wage.
+3. Employers and the minimum wage
+Employers must pay workers the correct minimum wage.
+You can read guidance on the minimum wage rates (/national-minimum-wagerates) and who they apply to (/national-minimum-wage/who-gets-the-minimumwage).
+What’s not included in minimum wage calculations
+Some payments must not be included when the minimum wage is
+calculated.
+These are:
+payments for the employer’s own use or benefit, for example if the
+employer has paid for travel to work
+things the worker bought for the job and is not refunded for, such as tools,
+uniform, safety equipment
+tips, service charges and cover charges
+extra pay for working unsocial hours on a shift
+Find out what counts as working time (/minimum-wage-different-typeswork).
+What’s included in minimum wage calculations
+Some payments must be included when the minimum wage is calculated.
+These are:
+Income Tax and National Insurance contributions
+wage advances or loans
+repayment of wage advances or loans
+repayment of overpaid wages
+
+things the worker paid for that are not needed for the job or paid for
+voluntarily, such as meals
+accommodation provided by an employer (/national-minimum-wageaccommodation) above the offset rate (£10.66 a day or £74.62 a week)
+penalty charges for a worker’s misconduct
+Example
+John is 27 and works 40 hours a week. He earns £12.50 per hour or
+£500 a week.
+He pays £15 a week to rent his uniform and the money’s not refunded.
+To calculate his minimum wage, John’s employer must deduct the
+uniform rental from the pay.
+This means John makes £485 per week (£500 minus £15) which is
+£12.13 per hour. This is below the minimum wage rate of £12.21.
+John’s employer will need to pay the arrears back to John.
+Read the detailed guidance on calculating the minimum wage
+(/government/publications/calculating-the-minimum-wage) for more on what
+counts and does not count towards the minimum wage, eligibility, how to
+calculate the minimum wage and how it is enforced.
+Employer checks
+! It’s a criminal offence for employers to not pay someone the
+National Minimum Wage or National Living Wage, or to fake
+payment records.
+Employers who discover they’ve paid a worker below the correct minimum
+wage must pay any arrears immediately. Use the National Minimum Wage
+and National Living Wage calculator for employers (/minimum-wage-calculatoremployers) to check a worker has been paid correctly.
+HM Revenue and Customs (HMRC) officers have the right to carry out
+checks at any time and ask to see payment records. They can also
+investigate employers if a worker complains to them.
+If HMRC finds that an employer has not been paying the correct rates, any
+arrears have to be paid back immediately. There will also be a fine and
+offenders might be named by the government.
+
+Keeping records
+It’s the employer’s responsibility to keep records proving that they are
+paying the minimum wage. These records must be kept for at least 6 years
+if they:
+were created on or after 1 April 2021
+still had to be kept on 31 March 2021 under the previous rule that records
+must be kept for 3 years
+The period records must be kept for starts from the last day of the pay
+reference period after the one they cover.
+They do not have to be kept in any particular form, for example they can be
+paper or computer records. But employers must be able to produce records
+for an individual pay reference period in a single document.
+Most employers use their payroll records as proof of:
+total pay - including pay deductions, allowances and tips
+total hours worked - including absences and overtime
+Employers may also need to keep records such as:
+agreements about working hours, pay and conditions, such as contracts
+documents that show why a worker is not entitled to the minimum wage
+Pay reference periods
+Pay reference periods are usually set by how often someone is paid, for
+example one week, one month or 10 days. A pay reference period cannot
+be longer than 31 days.
+A worker must be paid the minimum wage, on average, for the time worked
+in the pay reference period.
+4. Worker disputes over minimum wage
+Workers who think their pay is below the correct minimum wage rate should
+talk to their employer first.
+If this does not solve the problem, they can ask the employer in writing to
+see their payment records. The worker can take someone with them and
+make copies of the records.
+If an employer owes the worker any arrears they have to pay these back.
+
+them solve a payment dispute.
+Workers can also make a complaint to HM Revenue and Customs (HMRC)
+(/government/publications/pay-and-work-rights-complaints) about their employer
+or employment agency or complain on behalf of someone else.
+If the employer refuses payment
+If HMRC find that the employer has not paid they will send them a notice for
+the arrears plus a fine for not paying the minimum wage.
+HMRC can take them to court on behalf of the worker if the employer still
+refuses to pay.
+Employment tribunal
+Workers can also go directly to the employment tribunal (/employmenttribunals/taking-a-case-to-an-employment-tribunal) themselves.
+Workers who have been dismissed because of a minimum wage dispute
+can also complain to the employment tribunal for unfair dismissal
+(/dismissal/unfair-and-constructive-dismissal).

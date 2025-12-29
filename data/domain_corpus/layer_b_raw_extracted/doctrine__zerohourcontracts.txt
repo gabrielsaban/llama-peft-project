@@ -1,0 +1,955 @@
+Research Briefing
+17 October 2024
+Zero-hours contracts
+By Patrick Brione,
+Stephanie Cunningham,
+Khadijah Zaidi
+Summary
+1 Zero-hours contracts statistics
+2 Zero-hours contracts and employment law
+3 Zero-hours contracts and Universal Credit
+4 Policy background and discussion
+commonslibrary.parliament.uk
+
+Number CBP-06553 Zero-hours contracts
+Contributing Authors
+Francis Hobson
+Image Credits
+Pouring coffee by Tyler Nix / image cropped. Licensed by Unsplash – no
+copyright required.
+Disclaimer
+The Commons Library does not intend the information in our research
+publications and briefings to address the specific circumstances of any
+particular individual. We have published it to support the work of MPs. You
+should not rely upon it as legal or professional advice, or as a substitute for
+it. We do not accept any liability whatsoever for any errors, omissions or
+misstatements contained herein. You should consult a suitably qualified
+professional if you require specific advice or information. Read our briefing
+‘Legal help: where to go and how to pay’ for further information about
+sources of legal advice and help. This information is provided subject to the
+conditions of the Open Parliament Licence.
+Sources and subscriptions for MPs and staff
+We try to use sources in our research that everyone can access, but
+sometimes only information that exists behind a paywall or via a subscription
+is available. We provide access to many online subscriptions to MPs and
+parliamentary staff, please contact hoclibraryonline@parliament.uk or visit
+commonslibrary.parliament.uk/resources for more information.
+Feedback
+Every effort is made to ensure that the information contained in these publicly
+available briefings is correct at the time of publication. Readers should be
+aware however that briefings are not necessarily updated to reflect
+subsequent changes.
+If you have any comments on our briefings please email
+papers@parliament.uk. Please note that authors are not always able to
+engage in discussions with members of the public who express opinions
+about the content of our research, although we will carefully consider and
+correct any factual errors.
+You can read our feedback and complaints policy and our editorial policy at
+commonslibrary.parliament.uk. If you have general questions about the work
+of the House of Commons email hcenquiries@parliament.uk.
+2 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+3.1 Conditionality and requirements to accept employment with zero-hours
+contracts 20
+4 Policy background and discussion 21
+4.1 Coalition government policy 21
+4.2 Conservative government policy, 2015-2024 23
+4.3 Private members’ bills 25
+4.4 Labour Party policy and government policy 2024 to present 26
+3 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+Summary
+A zero-hours contract is a type of employment contract where workers have
+no guaranteed hours and agree to be potentially available for work. They are
+favoured by companies seeking labour flexibility and by workers seeking
+flexibility around their other commitments.
+Opinion on zero-hours contracts has been mixed. Employee organisations
+tend to argue that the contracts result in financial insecurity for workers who
+lack key employment rights; employer organisations stress their usefulness
+when seeking to meet fluctuating demand for labour and argue that they play
+a vital role in keeping people in employment.
+What are the legal issues with zero-hours
+contracts?
+Working under a zero-hours contract does not in itself determine what
+employment rights someone does or does not enjoy. Rather, that depends on
+their employment status, for which a range of legal tests exists. See the
+Library briefing Employment status for more details.
+However, zero-hours contracts can make it challenging to establish
+someone’s employment status and their qualification for certain employment
+rights. ‘Mutuality of obligation’ – where one person is obliged to offer work
+and the other is obliged to accept it – is a key legal test for whether someone
+is an ‘employee’. With some zero-hours contracts it can be hard to establish
+whether such mutuality of obligation exists or not.
+Similarly, it is difficult for some zero-hours contract employees to build up
+enough uninterrupted continuity of service to qualify for certain employment
+rights, such as unfair dismissal. This is because a week’s gap without work
+can be enough to reset the timer on their continuity of service.
+Since 2015, employers have been banned by section 27A of the Employment
+Rights Act 1996 from inserting ‘exclusivity clauses’ into zero-hours contracts,
+which try to stop employees with such contracts from also working elsewhere.
+How many people have zero-hours contracts?
+The Office for National Statistics (ONS) collects statistics on zero-hours
+contracts as part of the Labour Force Survey.
+4 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+According to ONS, over a million people in the UK were employed on a zerohours contract in April to June 2024. Reported use of zero-hours significantly
+increased contracts between 2012 and 2016, though it is likely this was due to
+increased awareness of such contracts among survey respondents at the
+time, rather than an increase in their use. Since then, the rate of zero-hours
+contracts has increased by a smaller amount, from around 2.5% to 3.5%.
+Based on a small survey by the Chartered Institute of Personnel and
+Development (CIPD), businesses report that they are most likely to use zerohours contracts to manage fluctuations in demand for labour.
+Collectively, the research by the ONS and the CIPD suggests that people on
+zero-hours contracts are more likely to be:
+• aged 16 to 24
+• female
+• working part time
+• from London and the South East
+• employed in the accommodation and food sector
+• on average, paid slightly less than those not on zero-hours contracts
+• reporting lower opportunities for career progression
+What reforms have been proposed?
+The perceived increase in zero-hours contracts in recent years has prompted
+expressions of concern inside and outside Parliament, although many
+stakeholders support their use. A series of private members’ bills aiming to
+ban or regulate zero-hours contracts have been introduced, though only one
+– the Workers (Predictable Terms and Conditions) Bill 2023 – received Royal
+Assent. No commencement regulations have been made to bring this act into
+force.
+Instead, following the 2024 general election, the newly elected Labour
+government pledged to ban “exploitative zero-hours contracts”, as part of a
+promised Employment Rights Bill. The Employment Rights Bill 2024-25 was
+published on 10 October 2024. The key rights created would be:
+• The right to reasonable notice of shifts and payment for shifts that are
+cancelled or curtailed at short notice.
+• The right to a guaranteed hours contract reflecting the hours regularly
+worked.
+5 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+1 Zero-hours contracts statistics
+1.1 What is a zero-hours contract?
+The term ‘zero-hours contract’ can be used to refer to a range of casual
+working relationships. According to the Advisory, Conciliation and Arbitration
+Service (Acas) the term ‘zero-hours contract’ is usually understood to mean:
+• your employer does not have to give you any minimum working hours
+• you do not have to take any work offered1
+By contrast, an article in People Management in 2017 draws a distinction
+between ‘causal contracts’ where there is no obligation to either offer or
+accept any work, and ‘zero-hours contracts’ where “The employer has no
+obligation to offer the employee any employment assignments, but the
+employee has an obligation to accept the employment assignments offered –
+they could face disciplinary action if they repeatedly reject work or turn it
+down without valid reasons.”2
+The only significant definition in legislation of a zero-hours contract is found
+in section 27A of the Employment Rights Act 1996, which defines a zero-hours
+contract as one under which:
+(a) the undertaking to do or perform work or services is an undertaking to do
+so conditionally on the employer making work or services available to the
+worker, and
+(b) there is no certainty that any such work or services will be made available
+to the worker.3
+The Office for National Statistics (ONS) collects statistics on zero-hours
+contracts as part of its Labour Force Survey. This measure uses a selfidentified definition of a ‘zero-hours contract’, so will depend on how workers
+themselves understand the term.
+1 Acas, Zero-hours contracts, updated 28 March 2024
+2 Randall Tsolakis-Franka, Zero-hours v casual contracts, People Management, 14 April 2017
+3 Employment Rights Act 1996, section 27A(1)
+6 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+1.2 Prevalence of zero-hours contracts
+People working on zero-hours contracts
+The Office for National Statistics (ONS) Labour Force Survey asks workers
+about their employment arrangements in their main job. The statistics rely on
+survey respondents correctly identifying their contractual arrangements: the
+survey will only identify those workers on zero-hours contracts who are aware
+that they are on such a contract. This also relies on them being aware of the
+concept of a zero-hours contract.
+Estimates for April to June 2024 suggest that 1.03 million people were on
+zero-hours contracts in their main job. This is 3.1% of all people in
+employment in the UK.
+The total number of zero-hours contracts that are in use will be higher than
+the number of people working on zero-hours contracts in their main job: some
+people may hold multiple contracts.
+As shown in the chart below, there has been a significant increase in the
+number of people reporting they are on zero-hours contracts since 2012.
+Between October to December 2012 and October to December 2016, the
+number of people on zero-hours contracts more than tripled. By the same
+quarter in 2023, the number of people increased by a further 50%. Some of
+this is explained by increased awareness of zero-hours contracts from 2012
+onwards (explained below).
+People on zero-hours contracts,UK
+Thousands (not seasonally adjusted) Rate (not seasonally adjusted)
+1,400 4.0
+3.5
+1,200
+3.0
+1,000
+2.5
+2.0
+1.5
+1.0
+0.5
+0 0.0
+2000 2004 2008 2012 2016 2020 2000 2004 2008 2012 2016 2020
+Notes
+Data from July to September 2022 onward has been reweighted, causing a break in the series
+Source: ONS, Table EMP17
+7 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+The very sharp rise in employment on zero-hours contracts between 2012 and
+2016 very likely reflected better awareness of zero-hours contracts as a result
+of extensive media coverage in 2013. This meant that more survey
+respondents correctly identified themselves as employed on zero-hours
+contracts, rather than a genuine increase in their use. The ONS has said that
+the increase from 2012 to 2016 is probably affected by more people being
+aware that they are employed on zero-hours contracts.4
+Indeed, around half of the reported change in zero-hours contracts between
+2012 and 2013 came from people who said they had been in their job for over a
+year, which suggests that some respondents must have failed to report or
+identify that they were on a zero-hours contract in previous surveys.5
+A small proportion of employers use zero-hours contracts for the majority of
+their workforce, according to Chartered Institute of Personnel and
+Development (CIPD) surveys. This was based on responses from 132
+employers.6
+1.3 Hours worked on zero-hour contracts
+People reporting that they are employed on a zero-hours contract work fewer
+hours per week on average than other workers. However, most workers on
+zero-hours contracts also report that they do not want to work more hours.
+Estimates from the Labour Force Survey show that in April to June 2024:
+• 75% of people reporting that they were on a zero-hours contract were
+working part-time. This compares with 24% of workers not on zero-hours
+contracts who were working part-time.
+• In their main job, workers on zero-hours contracts usually worked an
+average of 21.8 hours per week, compared with 36.5 hours for all people
+in employment.7
+• Around 17% of people on zero-hours contracts worked no hours on that
+contract in the survey reference week. This compared with around 9% of
+workers not on zero-hours contracts.
+• Around 16% of people on a zero-hours contract reported that they
+wanted more hours in their current job. A further 10% wanted an
+additional job or a replacement job with longer hours. This compares
+with 5% of people not on a zero-hours contract who would like more
+4 ONS, Contracts that do not guarantee a minimum number of hours: April 2018, 23 April 2018
+5 ONS, UK Labour Market bulletin, Table EMP17
+6 CIPD, Zero-hours contracts: evolution and current status, August 2022, p7
+7 Figures are for usual weekly hours worked. The actual number of hours worked per week for each
+group is lower, reflecting that some workers will have taken time off during the survey week.
+8 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+hours in their current job, and 1% who would like an additional job or a
+replacement job with longer hours.
+• 60% of people on a zero-hours contract reported that they did not want
+more hours, compared with nearly 80% of those in employment not on a
+zero-hours contract.
+1.4 Job satisfaction
+People on zero-hours contracts are likely to report lower satisfaction on a
+range of measures of job quality, according to responses to the ONS Annual
+Population Survey.8
+In 2023, people working on zero-hours contracts were less likely to report that
+they were satisfied with the hours they were working, that their contract was
+their “desired contract”, that they had opportunities for career progression,
+and that they had good employee involvement. These trends are shown in the
+chart below.
+Job quality indicators by contract, UK, 2023
+Satisfactory hours Desired contract Opportunities for Good employee Low pay
+career involvement
+progression
+Zero-hours contract All other contracts
+Notes
+Rates for unknown for career progression, good employee involvement and low pay were high (at least
+30%)
+Source: ONS, Annual Population Survey
+8 ONS, Annual Population Survey
+9 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+1.5 Characteristics of people employed on zerohours contracts
+As shown in the chart below, a higher proportion of workers on zero-hours
+contracts work part time, are in full-time education and are women than is
+the case for the workforce as a whole.
+Based on Labour Force Survey estimates for April to June 2024:9
+• Around 75% of people on zero-hours contracts worked part time,
+compared with around 23% of other workers.
+• 19% of people on a zero-hours contract were in full-time education,
+compared with 2% of other workers. Nevertheless, a higher number of
+full-time students were employed on a contract with guaranteed hours
+than on a zero-hours contract.
+• 54% of people employed on zero-hours contracts were women. Around
+555,000 women were working on zero-hours contracts, almost 4% of all
+women in employment. This compares with 477,000 men, almost 3% of
+all men in employment.
+Characteristics of people on zero-hours contracts
+UK, April to June 2024 (rate, not seasonally adjusted)
+80%
+60%
+40%
+20%
+0%
+Women Full time education Part time
+Source: ONS, Table EMP17
+People in employment who are young are more likely to be on zero-hours
+contracts than people in employment who are older. Nearly 12% of those in
+9 ONS, UK Labour Market bulletin, Table EMP17
+10 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+employment aged between 16 and 24 are on zero-hours contracts. 5% of
+those aged over 65 in employment are on zero-hours contracts. This is shown
+in the chart below.
+People on zero-hours contracts in the UK by age
+UK, April to June 2024, rate (not seasonally adjusted)
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+16-24 25-34 35-49 50-64 65+
+Source: ONS, Table EMP17
+A higher proportion of people on zero-hours contracts live in London and the
+South East, with 30% of zero-hours workers living there. People on zero-hours
+contracts are least likely to live in Wales, the North East, or Northern Ireland.
+This is shown in the table below.
+People on zero-hours contracts by region
+UK, April to June 2024 (rate, not seasonally adjusted)
+Level Rate
+London 170 16%
+South East 144 14%
+West Midlands 105 10%
+South West 97 9%
+North West 95 9%
+East 88 9%
+Yorks and Humber 85 8%
+Scotland 78 8%
+East Midlands 69 7%
+Wales 46 4%
+North East 39 4%
+Northern Ireland 17 2%
+UK 1,033 100%
+Notes
+The rate is people on zero-hour contracts in the region, out of all
+those on zero-hour contracts
+11 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+Source: ONS, Table EMP17
+1.6 Prevalence by industry
+The Labour Force Survey asks respondents to describe the area in which they
+work, but people may not know or correctly say which sector their employer is
+based in. For example, someone working for a food delivery company may say
+they work in the food sector, when in fact their employer may fall under the
+transport sector. Therefore, these results should be interpreted with caution,
+and they are likely to underreport the number of workers in the admin and
+support services sector in particular.
+Workers on zero-hours contracts reported that they were most likely to be
+employed in the accommodation and food sector, with around 32% of all
+workers on zero-hours contracts working in this sector. They were least likely
+to be working in public administration. These trends are shown in the table
+below.
+People on zero-hours contracts by industry
+UK, April to June 2024 (rate, not seasonally adjusted)
+Level Rate
+(thousands) (percentage)
+Accommodation and food 332 32.2
+Transport, arts, other services 167 16.1
+Health and social work 151 14.7
+Education 91 8.8
+Admin and support services 64 6.2
+Wholesale and retail 64 6.2
+Production, including agriculture 44 4.2
+Information, finance, professional 43 4.2
+Construction 41 4.0
+Public admin 24 2.4
+Total 1,033 100.0
+Notes
+The data for construction and public administration was based on small sample sizes, so the results
+should be used with caution
+The total includes people with workplace outside UK and those who did not state their industry;
+therefore sum of component percentages may not equal 100.
+Source: ONS, Table EMP17
+12 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+1.7 Pay
+Workers on zero-hours contracts tend to be paid less than other employees,
+even after accounting for differences in workers’ characteristics.
+The Chartered Institute of Personnel and Development (CIPD) found that
+people on zero-hours contracts were earning around 6% less on average in
+October to December 2021. This is even after other factors are taken into
+account, such as the types of people on zero-hours contracts and the types of
+jobs they were doing.10
+This reflects earlier findings by the Resolution Foundation, an economics think
+tank.11 It analysed Labour Force Survey data for 2011 to 2016 and estimated
+that workers on zero-hours contracts earned on average 6.6% less per hour
+(93p per hour).
+The findings do come with some caveats. The Labour Force Survey is known to
+underestimate levels of pay compared with other sources. As noted above,
+estimates also rely on people being aware that they are employed on zerohours contracts.
+1.8 Trends in business use of zero-hours contracts
+The CIPD published a report in 2022 on zero-hours contracts, which analysed
+Labour Force Survey data as well as their own survey data. The report noted
+that:
+• Businesses’ most frequently reported reason for using zero-hours
+contracts was to manage fluctuations in demand for labour, with 64% of
+businesses surveyed citing this. Based on a survey of 167 responses, other
+reasons cited were to provide flexibility for the individual (46%) and to
+provide coverage for staff absences (35%). 12
+• Over 50% of businesses in the CIPD survey reported that they give
+between one week and one month’s notice of work schedules for their
+workers.13
+10 CIPD, Zero-hours contracts: evolution and current status, August 2022, p13
+11 Resolution Foundation, Zero-hours contract workers face a ‘precarious pay penalty’ of £1,000 a
+year, 30 December 2016
+12 CIPD, Zero-hours contracts: evolution and current status, August 2022, p9
+13 CIPD, Zero-hours contracts: evolution and current status, August 2022, p19
+13 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+• 33% of businesses surveyed said they give workers compensation for
+shifts cancelled with fewer than 24 hours’ notice. 48% of businesses said
+they did not give compensation.14
+14 CIPD, Zero-hours contracts: evolution and current status, August 2022, p20
+14 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+2 Zero-hours contracts and employment
+law
+2.1 Zero-hours contracts and employment status
+The use of zero-hours contracts raises a number of legal issues. One of the
+most important considerations is the employment status of people on zerohours contracts: whether they are “employees”, “workers” or self-employed.
+For a more detailed discussion of this legal issue, see the Library briefing
+Employment status. In summary:
+• Employees have the full range of employment rights, including
+protections against unfair dismissal, redundancy pay and various kinds
+of parental leave.
+• Workers have fewer rights than employees, although retain many of the
+most basic entitlements such as the National Minimum Wage, paid
+annual leave and protections against discrimination and for
+whistleblowing.
+• Self-employed independent contractors are not eligible for most
+employment rights. However, they will still enjoy some equality law
+protections against discrimination and some basic protections of their
+health and safety while on a client’s premises.
+The tests for employee status
+The case law indicates that if the day-to-day reality of any work undertaken
+suggests a relationship of employment, then the contract will be one of
+employment, and the person working under it will be classed as an employee.
+A number of factors determine whether or not a contract is one of
+employment. The crucial elements of a contract of employment are that:
+• it must impose an obligation on a person to provide work personally
+• there must be mutuality of obligation between employer and employee
+(the employer must offer work and the employee must accept it)
+• the worker must expressly or implicitly agree to be subject to the control
+of the person for whom they work to a ‘sufficient’ degree
+15 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+• the other provisions of the contract must be consistent with it being a
+contract of service15
+The case law on the use of zero-hours contracts has focused on the second
+issue: mutuality of obligation. Under contracts of employment, the employee
+is normally obliged to work, and the employer is obliged to provide work and
+pay for it. Under a zero-hours contract, it is possible for no work to be offered
+or accepted at all, so such obligations are not readily apparent.
+However, mutuality of obligation may still in certain cases be inferred with
+zero-hours contracts. The circumstances in which it will be inferred were
+considered by the Employment Appeal Tribunal (EAT) in Pulse Healthcare v
+Carewatch Care Services Ltd & Ors [2012].16 The focus in that case was the
+reality of the agreement between the company and the worker, rather than
+exclusively the written terms of the contract (see section below).
+The reality of the agreement
+Employment tribunals will look closely at the reality of the agreement, not
+merely the wording of the contract.
+In the Pulse Healthcare case, the EAT was required to decide whether the
+claimants were employees, within the meaning of section 230 of the
+Employment Rights Act 1996, despite being employed under a contract
+entitled “Zero-hours Contract Agreement”. The EAT concluded that the
+claimants were employees, and that there was a mutuality of obligation,
+despite the written terms of the contract suggesting otherwise.
+The EAT noted that the proper approach to interpreting labour contracts is to
+consider the reality of the agreement, as set out by Mr Justice Elias in the
+2007 case Consistent Group Ltd v Kalwak:
+The concern to which tribunals must be alive is that armies of lawyers will
+simply place substitution clauses, or clauses denying any obligation to accept
+or provide work in employment contracts, as a matter of form, even where
+such terms do not begin to reflect the real relationship. Peter Gibson LJ was
+alive to the problem. He said this (p 697):
+‘Of course, it is important that the industrial tribunal should be alert in this
+area of the law to look at the reality of any obligations. If the obligation is a
+sham, it will want to say so.’
+In other words, if the reality of the situation is that no-one seriously expects
+that a worker will seek to provide a substitute, or refuse the work offered, the
+fact that the contract expressly provides for these unrealistic possibilities will
+not alter the true nature of the relationship.17
+15 See: Ready Mixed Concrete (South East) Ltd v Minister of Pensions and National Insurance [1968] 2
+Q.B. 497; Carmichael v National Power plc [2000] IRLR 43
+16 UKEAT 0123_12_0608
+17 Para 57-58 Consistent Group Ltd v Kalwak [2007] IRLR 560; see also: Autoclenz v Belcher [2011] UKSC
+41, para 25; Pulse Healthcare v Carewatch Care Services Ltd & Ors [2012], para 35
+16 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+The decision of the EAT indicates that where a worker is employed on a zerohours contract and provided with regular work which is regularly accepted,
+there exists a possibility that the contract will be one of employment.
+The EAT considered the employment status of zero-hours workers again in a
+2014 case, Saha v Viewpoint Field Services. In Saha, the EAT concluded that
+the claimant (a telephone interviewer) was not an employee because of a
+lack of mutuality. Relevant to that decision was the fact that the claimant
+lacked a set working pattern and was free to decline shifts.18 When looked at
+together, Pulse Healthcare and Saha show that the factual working pattern of
+a zero-hours worker will play a significant part in determining their
+employment status.
+Continuity of service
+Assuming that a zero-hours worker can establish employee status, they may
+yet face further difficulty in claiming certain employment rights. Many
+employment rights take effect only after a period of qualifying service. For
+example, the right not to be unfairly dismissed is only available to employees
+with two years’ qualifying service.
+As noted by the Advisory, Conciliation and Arbitration Service (Acas) in their
+guidance on Zero-hours contracts, “If you're not provided work for a full
+calendar week (7 consecutive days from Sunday to the following Saturday),
+this usually counts as a break in employment.”19 This may therefore make it
+hard for zero-hours contracts workers, even if classed as employees, to build
+up the continuity of service required to qualify for many employment rights
+such as unfair dismissal protections.
+2.2 Exclusivity clauses
+Exclusivity clauses are clauses in employment contracts which aim to either
+stop employees from working for another employer altogether or which
+require the employee to seek consent before accepting work with another
+employer.
+Under section 27A of the Employment Rights Act 1996, exclusivity clauses are
+“unenforceable against the worker” for any employees on a zero-hours
+contract.
+Since 5 December 2022, these protections against exclusivity clauses have
+also applied to all employees and workers whose weekly income is below the
+18 Saha v Viewpoint Field Services Ltd UKEAT/0116/1
+19 Acas, Zero-hours contracts, updated 28 March 2024
+17 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+Lower Earnings Limit (£123 per week in 2022 to 2025), even if not on zero-hours
+contracts.20
+Employees on zero-hours contracts have a right not to suffer detriment or
+dismissal for breaching any purported exclusivity clause and can bring a
+claim to an employment tribunal for redress.21
+20 The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022
+21 The Exclusivity Terms in Zero Hours Contracts (Redress) Regulations 2015
+18 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+3 Zero-hours contracts and Universal
+Credit
+Universal Credit is paid and assessed on a monthly cycle, with payments
+increasing or decreasing depending on earnings and other income during
+each assessment period. Income from employment or self-employment
+reduces the maximum Universal Credit award available at a constant 55%
+rate for each pound of net (post-tax) earnings. This is known as the taper
+rate. Some households are also able to keep some of their earned income (the
+‘work allowance’) before it begins to affect their award.22
+Unlike income-based Jobseeker’s Allowance (JSA) and Working Tax Credit
+(WTC) – the unemployment and in-work benefits that Universal Credit is
+replacing – there are no hours rules in Universal Credit. JSA is payable to
+people not in full-time work, which is defined as work of 16 hours a week or
+more.23 In addition, even if someone is working under 16 hours in a particular
+week, any earnings above a small, disregarded amount will reduce the
+amount payable on a pound for pound basis. People who are in work may be
+eligible for WTC but only if they work a minimum number of hours a week.24
+The previous system of JSA and WTC was criticised for removing the financial
+incentive for people who worked for fewer than 16 hours a week to increase
+their working hours. It was also criticised for requiring people to move
+between out-of-work and in-work systems if their hours changed. The
+coalition government argued that this failed “to reflect the flexible working
+pattern that modern employers and individuals need”.25
+As Universal Credit was introduced, ministers said that the new system’s
+responsiveness made the new benefit more suitable for workers on zero hours
+contracts and other flexible contracts where hours and earnings may vary on
+a month-to-month basis.26
+22 See gov.uk, Universal Credit>How your wages affect your payments, accessed 3 October 2024
+23 24 hours for couples
+24 For some this may be 16 hours, but for others it may be as much as 30 hours
+25 Department for Work and Pensions (DWP), Universal Credit: welfare that works, Cm 7957, 11
+November 2010, para 15
+26 See HC Deb 1 July 2013, c606; HL Deb 18 Dec 2013, cGC329; and Letter from Esther McVey MP to
+Sheila Gilmore MP, 1 March 2014 (PDF)
+19 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+3.1 Conditionality and requirements to accept
+employment with zero-hours contracts
+Under both Jobseeker’s Allowance and Universal Credit, claimants are
+expected to seek work and accept offers of employment. They can be
+sanctioned for refusing to take up offers or leaving employment without good
+reason.
+In contrast with the rules for Jobseeker’s Allowance, Universal Credit
+claimants may receive a sanction if they refuse to apply or accept a zerohours contract job or leave a zero-hours job voluntarily. 27 However, sanctions
+are not supposed to be applied where employers reduce hours because
+claimants take up work elsewhere, or where hours would restrict a claimant’s
+ability to increase their earnings with other employers.28
+In reply to a letter from Sheila Gilmore MP in March 2014, Esther McVey, then
+Minister for Employment, explained why sanctions might be imposed on a
+Universal Credit claimant for failing to accept zero-hours work, but not on
+someone claiming Jobseeker’s Allowance. In doing so, she cited the greater
+flexibility and responsiveness in the Universal Credit system:
+Within Jobseekers [sic] Allowance […] our coaches do not currently require
+claimants to apply for jobs with zero hours contracts. The structure of
+Jobseeker’s Allowance (JSA) and supporting processes could make the
+interaction of zero hour contracts and the benefit system difficult to manage –
+short periods of work could end a JSA claim, requiring new claims to be made
+in periods where earnings fall.
+Universal Credit, of course, is payable when people are in work as well as out
+of work so the need to reclaim when earnings fluctuate is removed. In addition
+Universal Credit is designed to be response to variations in earnings so each
+monthly payment will reflect the amount actually earned, even if this includes
+some weeks when no work was done. So in Universal Credit our coaches can
+mandate zero hours contracts.29
+27 DWP, Decision Marker’s Guide Chapter 34: JSA Sanctions (PDF), paras 34415-34417
+28 DWP, Advice for Decision Making Chapter K2: Good reason (PDF), paras K2301 - K2303
+29 Letter from Esther McVey MP to Sheila Gilmore MP, 1 March 2014 (PDF); see also PQ 5689
+[Jobseeker's Allowance: Zero Hours Contracts], 5 September 2017; PQ 197461 [Universal Credit: Zero
+Hours Contracts], 5 December 2018; PQ 216934 [Universal Credit: Disqualification], 8 February 2019
+20 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+4 Policy background and discussion
+4.1 Coalition government policy
+2013 consultation: Zero-hours employment contracts
+On 16 September 2013, then Secretary of State for Business, Innovation and
+Skills, Vince Cable, announced that he would launch a consultation on zerohours contracts. He said that that there were “abuses in the system”,
+especially around the employer use of exclusivity clauses.30 Exclusivity clauses
+require workers to work exclusively for one employer, regardless of the hours
+offered.
+The consultation ran between December 2013 to March 2014. The consultation
+document identified exclusivity clauses as being particularly concerning and
+sought views on whether it was appropriate to ban these in contracts that
+provided no guarantee of work.31
+Consultation outcome: Banning exclusivity clauses
+In June 2014, the government published the outcome of the consultation, and
+announced their intention to ban the use of exclusivity clauses.32
+The government also announced plans to:
+• consult further on how to prevent rogue employers evading the
+exclusivity ban, for example through offering 1 hour fixed contracts
+• work with business representatives and unions to develop a code of
+practice on the fair use of zero hours contracts by the end of the year
+(2014)
+• work with stakeholders to review existing guidance and improve
+information available to employees and employers on using these
+contracts33
+30 Department for Business, Innovation & Skills, Low Pay Commission and The Rt Hon Dr Vince Cable
+press release, Cable announces plans to boost fairness for workers, 16 September 2013
+31 BIS, Consultation: Zero hours employment contracts, 19 December 2013
+32 Department for Business, Innovation & Skills and The Rt Hon Dr Vince Cable, Government crackdown
+on zero hours contract abusers, 25 June 2014
+33 Department for Business, Innovation & Skills and The Rt Hon Dr Vince Cable, Government crackdown
+on zero hours contract abusers, 25 June 2014
+21 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+Plans to ban exclusivity contracts were taken forward in the Small Business,
+Enterprise and Employment Bill (see below).34
+Small Business, Enterprise and Employment Act 2015
+The Small Business, Enterprise and Employment Act 2015 came into force on
+26 March 2015.35
+Section 153 of the act came into force on 26 May 2015 and renders exclusivity
+clauses in zero-hours contracts unenforceable.36 The section amended the
+Employment Rights Act 1996 by inserting a new part 2A.37
+Section 27A of the 1996 act defines “zero hours contract” as
+a contract of employment or other worker’s contract under which—
+(a) the undertaking to do or perform work or services is an undertaking to do
+so conditionally on the employer making work or services available to the
+worker, and
+(b) there is no certainty that any such work or services will be made available
+to the worker.38
+Section 27B of the 1996 act as amended contains the ban on exclusivity
+clauses:
+(3) Any provision of a zero hours contract which—
+(a) prohibits the worker from doing work or performing services under another
+contract or under any other arrangement, or
+(b) prohibits the worker from doing so without the employer’s consent, is
+unenforceable against the worker.39
+Commentary
+Commentators suggested the legislation was ‘toothless’ as the ban on
+exclusivity clauses was not backed by any enforcement measures.40 Lawyers
+also highlighted that, because employers were not obliged to provide regular
+work for those on zero-hours contracts, workers who informed their managers
+that they had work elsewhere could find their hours reduced.41
+34 Department for Business, Innovation & Skills and The Rt Hon Dr Vince Cable, Government crackdown
+on zero hours contract abusers, 25 June 2014
+35 Small Business, Enterprise and Employment Act 2015
+36 Small Business, Enterprise and Employment Act 2015, s 153
+37 Employment Rights Act 1996, pt 2A
+38 Employment Rights Act 1996, s 27A
+39 Employment Rights Act 1996, s 27B
+40 The Guardian, Tories' legislation to protect zero-hours workers called 'toothless' by lawyers, 26 May
+2015 (accessed 18 September 2024)
+41 As above
+22 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+In response to the above criticism, the government consulted on and included
+in the act a power to make delegated legislation supporting the prohibition of
+exclusivity clauses.
+Exclusivity Terms Regulations
+By amending the 1996 act, the Small Business, Enterprise and Employment
+Act 2015 created a power to enable ministers to make regulations that would
+penalise employers who use exclusivity clauses.42 The Exclusivity Terms in
+Zero Hours Contracts (Redress) Regulations 2015 came into force on 14
+December 2015.43
+The regulations created rights for:
+• zero-hours workers classed as “employees” not to be unfairly dismissed
+for failing to comply with an exclusivity requirement
+• zero-hours workers classed as “workers” not to be subjected to any
+detriment for failing to comply with an exclusivity requirement
+The rights are enforceable against an employer by way of a claim to an
+employment tribunal.44
+These were followed in 2022 by the Exclusivity Terms for Zero Hours Workers
+(Unenforceability and Redress) Regulations 2022. The 2022 regulations
+extended the protections against exclusivity clauses to other workers earning
+less than the Lower Earnings Limit (currently £123 per week), even if not on
+zero-hours contracts.45
+4.2 Conservative government policy, 2015-2024
+Taylor Review, 2016-17
+On 1 October 2016, the Prime Minister commissioned Matthew Taylor, Chief
+Executive of the Royal Society for the encouragement of Arts, Manufactures
+and Commerce (RSA), to assess the implications for employment regulation of
+new forms of work driven by digital platforms.
+42 The regulations were created using powers under sections 27B(1) and (5) and 209(1) of the
+Employment Rights Act 1996. Section 27B was inserted by the Small Business, Enterprise and
+Employment Act (c.26), section 153(1) and (2).
+43 The Exclusivity Terms in Zero Hours Contracts (Redress) Regulations 2015 SI 2015/2021
+44 Acas, Zero-hours contracts, 28 March 2024
+45 The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022
+23 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+The Independent Review of Employment Practices in the Modern Economy
+launched on 30 November 2016.46 The subsequent report, Good Work: the
+Taylor Review of modern working practices, was published on 11 July 2017.
+Recommendations
+The Taylor Review was broadly positive about the flexibility afforded by zerohours contracts, which it said enabled individuals to fit work around other
+commitments such as caring or studying, but was critical about what it saw
+as ‘one-way flexibility’:
+[…] We have heard repeatedly during the Review that there is an issue of
+flexibility not being reciprocated, with a requirement to be available for work
+at very short notice, without any guarantee that work will actually be
+available. This makes it very difficult for a person to manage their financial
+obligations, or for example secure a mortgage. This can feel unfair, especially
+when the reality of the working arrangement is that the individual regularly
+works 40 hours a week. While in theory individuals in these working
+arrangements have the right to turn down work, we were told that workers,
+needing work but lacking unfair dismissal rights, often felt that to express
+legitimate views about conditions or make even reasonable requests risked
+having future work denied to them.47
+The review suggested that the benefits of flexibility could be shared more
+equally if the government ensured that workers were entitled to a higher
+minimum rate of pay for hours that are not guaranteed. It recommended that
+the government consult the Low Pay Commission (LPC) on the impact of
+bringing in a higher National Minimum Wage for hours that are not
+guaranteed in a contract.48
+The review also recommended that zero-hours workers be given the right to
+request regular hours, using the average weekly hours worked over the
+previous 12 months as a starting assumption for any new contract.49
+Government response
+The government accepted the recommendation regarding the National
+Minimum Wage and asked the LPC to provide an assessment of the impact of
+these options to ministers in their October 2018 report.50
+The government also consulted on the right to request more regular hours.51
+In the Good Work Plan, the government committed to bringing forward
+46 Department for Business, Energy & Industrial Strategy press release, Taylor review on modern
+employment practices launches, 30 November 2016. GOV.UK, Employment Practices in the Modern
+Economy, (accessed 13 September 2024)
+47 Department for Business and Trade and Department for Business, Energy & Industrial Strategy,
+Good Work: the Taylor Review of modern working practices, 11 July 2017, p43
+48 As above, p44
+49 As above, p48
+50 As above, p39
+51 Department for Business, Energy & Industrial Strategy, Good Work: The Taylor Review Of Modern
+Working Practices: Consultation on measures to increase transparency in the UK labour market,
+[PDF] February 2018, pp27-28
+24 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+legislation to introduce a right for all workers to request a more predictable
+and stable contract.52
+4.3 Private members’ bills
+Zero Hours Contracts Bill, 2014
+On 2 July 2014, a private member’s bill, the Zero Hours Contracts Bill,
+sponsored by Ian Mearns MP, was presented to Parliament through the ballot
+procedure.53
+The main aims of the bill were to ban exclusivity clauses and to place several
+duties on employers regarding equal treatment of zero-hours workers,
+reasonable cancellation notices and offering regular hours contracts to zerohours workers after a period of employment.54 The bill did not progress
+beyond second reading.
+Workers (Definition and Rights) Bill, 2017
+On 18 October 2017, the Workers (Definition and Rights) Bill was presented to
+Parliament, sponsored by Chris Stephens MP.55 The bill included similar
+provisions to the Zero Hours Contracts Bill, but also would create a single
+employment status for workers regarding employment rights, a right to fixed
+and regular hours, and a requirement for employers to pay for cancelled
+shifts.56 The bill did not progress beyond second reading.
+Workers (Predictable Terms and Conditions) Act 2023
+The Workers (Predictable Terms and Conditions) Bill, sponsored by Scott
+Benton MP and Baroness Anderson of Stoke-on-Trent, became an Act of
+Parliament on 18 September 2023.57 The act would amend the Employment
+Rights Act 1996 to give workers and agency workers the right to request more
+predictable terms and conditions of work.58
+However, commencement regulations to bring the act into force have not yet
+been made. It was reported in August 2024 that the newly elected Labour
+government would not bring the act into force but would instead plan to
+52 Department for Business and Trade and Department for Business, Energy & Industrial Strategy,
+Good Work Plan [PDF], December 2018, p7
+53 House of Commons, Zero Hours Contracts Bill, 27 March 2015
+54 House of Commons, Zero Hours Contracts Bill (HC Bill 23), 19 November 2014
+55 House of Commons, Workers (Definition and Rights) Bill, 4 October 2019
+56 House of Commons, Workers (Definition and Rights) Bill (HC Bill 114), 17 January 2018
+57 UK Parliament, Workers (Predictable Terms and Conditions) Act 2023, 13 November 2023
+58 Workers (Predictable Terms and Conditions) Act 2023
+25 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+replace its provisions with a new right as part of the forthcoming Employment
+Rights Bill.59
+4.4 Labour Party policy and government policy
+2024 to present
+The Pickavance Report, 2013-14
+In October 2013, Ed Miliband MP, then Labour Party leader, asked Norman
+Pickavance, the former director of human resources at supermarket chain
+Morrisons, to investigate the possible regulation of zero-hours contracts.60
+On 25 April 2014, Labour published the Pickavance Report: ‘Zeroed Out: The
+place of zero-hours contracts in a fair and productive economy’.61 The report
+made a number of policy recommendations intended to “prevent certain
+exploitative practices used by a minority”.62
+The main recommendations of the report were that:
+• employers should be prevented from requiring zero-hours workers to be
+available for work63
+• exclusivity clauses should be banned64
+• zero-hours workers who in practice work regular hours should, after a
+specified period, have a right to a contract with fixed minimum hours65
+• zero-hours workers should have a right to compensation when shifts are
+cancelled at short notice66
+In addition to the above, the report recommended that a zero-hours code of
+practice should be drawn up – developed by employer and employee
+representatives and Acas – to provide guidance to employers and
+employees.67
+59 Global Employment News, Insights and Events, Law giving workers right to request more
+predictable working conditions will not be brought into force in September, 30 August 2024
+60 BBC News, Ed Miliband to pledge crackdown on zero-hour contracts, 9 September 2013
+61 Labour Policy Forum, Zeroed Out: The place of zero-hours contracts in a fair and productive
+economy: an independent report by Norman Pickavance, [PDF] 25 April 2014, accessed 12
+September 2024
+62 As above, p16
+63 Labour Policy Forum, Zeroed Out: The place of zero-hours contracts in a fair and productive
+economy: an independent report by Norman Pickavance, [PDF] 25 April 2014, accessed 12
+September 2024, p16
+64 As above
+65 As above, p17
+66 As above, p17
+67 As above, p18
+26 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+A New Deal for Working People, 2022
+In October 2022, Labour published their employment rights ‘green paper’, A
+New Deal for Working People.68
+In the report, Labour pledged a number of reforms to end ‘one sided’
+flexibility which benefitted employers.
+The reforms included banning zero-hours contracts and contracts without a
+minimum number of guaranteed hours, as well as other measures including:
+• giving anyone working regular hours for 12 weeks or more a right to a
+regular contract to reflect those hours normally worked
+• requiring companies to give all workers reasonable notice of any change
+in shifts or working time, with wages for any shifts cancelled without
+appropriate notice being paid to workers in full
+Labour said that these proposals would not “prevent firms from operating
+flexible workforces or varying shift patterns, but will ensure a baseline level of
+security and predictability.” 69
+These commitments were re-stated in the May 2024 publication Labour’s Plan
+to Make Work Pay: Delivering a New Deal for Working People (PDF), which
+formed part of Labour’s manifesto for the 2024 general election. The plan said
+Labour’s aim was banning “exploitative zero hours contracts and ensuring
+everyone has the right to have a contract that reflects the number of hours
+they regularly work, based on a twelve-week reference period.”70
+Commentary on Labour’s New Deal
+The Chartered Institute of Personnel Development (CIPD) responded to these
+proposals, suggesting that recent research had found workers saw more
+benefits than flaws in zero-hours contracts.71 The CIPD suggested that zerohours contract don’t necessarily lead to insecure work, and if used
+responsibly, can offer genuine flexibility for both employer and employee. The
+research also highlighted that zero-hours contracts provide employment
+opportunities for those who might otherwise be unable to work because they
+can’t commit to more regular pre-determined working hours, such as
+students or those with caring responsibilities.72
+68 Labour Party, A New Deal for Working People, [PDF] October 2022, accessed 23 September 2024
+69 Labour Party, A New Deal for Working People, [PDF] October 2022, accessed 23 September 2024, p8
+70 Labour Party, Labour’s Plan to Make Work Pay: Delivering a New Deal for Working People, [PDF]
+May 2024, accessed 4 October 2024, p5
+71 CIPD, What can we expect from a Labour government on employment rights?, 22 June 2023; CIPD,
+Benefits of zero-hours contracts outweigh the downsides for most workers, 11 August 2022
+72 CIPD, Benefits of zero-hours contracts outweigh the downsides for most workers, 11 August 2022
+27 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+The Trade Unions Congress (TUC) published a poll in September 2023 that
+found “overwhelming support” for Labour’s New Deal for Working People.73 In
+response to the findings, TUC General Secretary Paul Nowak said that
+Labour’s employment proposals “would be the biggest upgrade in workers’
+rights in a generation”, and that measures including banning zero-hours
+contracts would “reset the economy to work for working people.”74
+Responding to the new Labour government’s forthcoming Employment Bill,
+the TUC published a separate poll in August 2024 which found that 84% of
+zero-hours contract workers wanted regular hours of work.75 The poll also
+highlighted how issues such as financial pressures, one-way flexibility and
+work-life balance affect a large proportion of zero-hours workers.76
+Employment Rights Bill
+Following the 2024 general election, the newly elected Labour government
+has re-stated its commitment to ban “exploitative zero-hours contracts”. The
+promised Employment Rights Bill, outlined in the King’s Speech 2024:
+background briefing notes, commited to:
+banning exploitative zero-hour contracts, ensuring workers have a right to a
+contract that reflects the number of hours they regularly work and that all
+workers get reasonable notice of any changes in shift with proportionate
+compensation for any shifts cancelled or curtailed. This will end ‘one sided’
+flexibility, ensuring all jobs provide a baseline level of security and
+predictability.77
+The Employment Rights Bill 2024-25 was published on 10 October 2024. It is
+listed for second reading on 21 October 2024.
+Clauses 1-6 and Schedule 1 of the bill would together insert 25 new sections
+into the Employment Rights Act 1996 (ERA 1996), which collectively create
+new rights for workers on zero and low hours contracts. The key rights
+created would be:
+• The right to reasonable notice of shifts and payment for shifts that are
+cancelled or curtailed at short notice.
+• The right to a guaranteed hours contract reflecting the hours regularly
+worked.
+The Library’s briefing paper Employment Rights Bill 2024-25 will contain more
+detail on the bill.
+73 TUC, "Overwhelming support” for Labour’s New Deal for Workers, including among Tory voters –
+new TUC poll, 12 September 2023
+74 TUC, "Overwhelming support” for Labour’s New Deal for Workers, including among Tory voters –
+new TUC poll, 12 September 2023
+75 TUC, Over 8 in 10 zero-hours contract workers want regular hours – TUC poll reveals, 30 August 2024
+76 TUC, Over 8 in 10 zero-hours contract workers want regular hours – TUC poll reveals, 30 August 2024
+77 Prime Minister’s Office, King’s Speech 2024: background briefing notes, 17 July 2024
+28 Commons Library Research Briefing, 17 October 2024
+
+Zero-hours contracts
+29 Commons Library Research Briefing, 17 October 2024
+
+The House of Commons Library is a research and
+information service based in the UK Parliament.
+Our impartial analysis, statistical research and
+resources help MPs and their staff scrutinise
+legislation, develop policy, and support constituents.
+Our published material is available to everyone
+on commonslibrary.parliament.uk.
+Get our latest research delivered straight to your inbox.
+Subscribe at commonslibrary.parliament.uk/subscribe
+or scan the code below:
+commonslibrary.parliament.uk
+@commonslibrary
