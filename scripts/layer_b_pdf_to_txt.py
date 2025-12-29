@@ -1,13 +1,16 @@
 #!/usr/bin/env python
 import argparse
+import json
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 
 import pdfplumber
 
 
 # deterministic boilerplate patterns to remove (case-insensitive)
+# Conservative: only removes patterns that are unambiguously non-content
 BOILERPLATE_PATTERNS = [
     # ACAS branding
     r"acas\s+helpline",
@@ -31,9 +34,9 @@ BOILERPLATE_PATTERNS = [
 ]
 
 # page number patterns (standalone or with prefix)
+# Does NOT match lone digits to avoid removing section numbers
 PAGE_NUMBER_PATTERNS = [
     r"^page\s+\d+\s*$",
-    r"^\d+\s*$",  # lone numbers on a line (conservative - only if isolated)
     r"^page\s+\d+\s+of\s+\d+\s*$",
 ]
 
@@ -46,16 +49,16 @@ HEADER_FOOTER_INDICATORS = [
 
 
 def looks_like_page_number(line: str) -> bool:
-    """Check if a line is likely just a page number."""
+    """Check if a line is likely just a page number.
+    
+    Only matches explicit 'page X' patterns to avoid removing
+    numbered sections or legal references.
+    """
     stripped = line.strip()
     if not stripped:
         return False
     
-    # exact digit only if short
-    if stripped.isdigit() and len(stripped) <= 3:
-        return True
-    
-    # "page X" variants
+    # Only match explicit page patterns
     for pattern in PAGE_NUMBER_PATTERNS:
         if re.match(pattern, stripped, re.IGNORECASE):
             return True
@@ -151,9 +154,10 @@ def normalize_whitespace(text: str) -> str:
 
 def remove_contents_section(text: str) -> str:
     """
-    Attempt to remove table of contents section.
-    Heuristic: if we see "contents" heading followed by lines with dots or page refs,
-    cut from "contents" to first substantial paragraph.
+    Remove table of contents section if detected.
+    
+    Conservative: only removes if we verify typical ToC formatting
+    (dots/page numbers) to avoid removing substantive 'Contents' headings.
     """
     lines = text.splitlines()
     
@@ -167,6 +171,22 @@ def remove_contents_section(text: str) -> str:
             break
     
     if contents_idx is None:
+        return text
+    
+    # Verify this looks like a ToC before removing
+    toc_indicators = 0
+    scan_limit = min(contents_idx + 10, len(lines))
+    for i in range(contents_idx + 1, scan_limit):
+        line = lines[i].strip()
+        if not line:
+            continue
+        has_dots = "..." in line or "…" in line
+        has_page_ref = re.search(r"\d+$", line)
+        if has_dots or has_page_ref:
+            toc_indicators += 1
+    
+    # Only remove if we found at least 2 ToC-like lines
+    if toc_indicators < 2:
         return text
     
     # scan forward to find end of contents (heuristic: first line without dots/page numbers)
@@ -192,11 +212,21 @@ def remove_contents_section(text: str) -> str:
     return "\n".join(lines)
 
 
-def extract_and_clean(pdf_path: Path, verbose: bool = True) -> str | None:
+def extract_and_clean(pdf_path: Path, verbose: bool = True) -> tuple[str | None, dict]:
     """
     Extract text from PDF and apply deterministic cleaning.
-    Returns cleaned text or None if extraction fails or output is too short.
+    
+    Returns:
+        (cleaned_text, summary_dict) where summary tracks cleaning actions
+        for audit trail. Returns (None, summary) on failure.
     """
+    summary = {
+        "source_file": pdf_path.name,
+        "chars_original": 0,
+        "chars_final": 0,
+        "lines_removed": 0,
+    }
+    
     try:
         with pdfplumber.open(pdf_path) as pdf:
             page_texts = []
@@ -208,10 +238,12 @@ def extract_and_clean(pdf_path: Path, verbose: bool = True) -> str | None:
         if not page_texts:
             if verbose:
                 print(f"  [warn] no text extracted from {pdf_path.name}", file=sys.stderr)
-            return None
+            return None, summary
         
         # join pages
         joined = "\n\n".join(page_texts)
+        summary["chars_original"] = len(joined)
+        original_lines = len(joined.splitlines())
         
         # fix hyphenation first (before line-by-line processing)
         joined = fix_hyphenation(joined)
@@ -227,17 +259,20 @@ def extract_and_clean(pdf_path: Path, verbose: bool = True) -> str | None:
         # normalize whitespace
         cleaned = normalize_whitespace(cleaned)
         
+        summary["chars_final"] = len(cleaned)
+        summary["lines_removed"] = original_lines - len(cleaned.splitlines())
+        
         # filter very short outputs
         if len(cleaned) < 500:
             if verbose:
                 print(f"  [skip] {pdf_path.name} produced short text ({len(cleaned)} chars)", file=sys.stderr)
-            return None
+            return None, summary
         
-        return cleaned
+        return cleaned, summary
     
     except Exception as e:
         print(f"  [error] failed on {pdf_path.name}: {e}", file=sys.stderr)
-        return None
+        return None, summary
 
 
 def get_source_type(pdf_path: Path, layer_b_root: Path) -> str:
@@ -288,6 +323,7 @@ def main():
     
     # track stats by source type
     stats = {}
+    cleaning_summaries = []
     
     for i, pdf_path in enumerate(pdf_paths, start=1):
         source_type = get_source_type(pdf_path, source_dir)
@@ -302,7 +338,10 @@ def main():
         
         print(f"[{i}/{len(pdf_paths)}] [{source_type}] {pdf_path.name}")
         
-        cleaned_text = extract_and_clean(pdf_path, verbose=True)
+        cleaned_text, summary = extract_and_clean(pdf_path, verbose=True)
+        summary["source_type"] = source_type
+        summary["output_file"] = out_filename
+        cleaning_summaries.append(summary)
         
         if cleaned_text is None:
             stats[source_type] = stats.get(source_type, {"success": 0, "failed": 0})
@@ -330,6 +369,19 @@ def main():
     total_success = sum(s["success"] for s in stats.values())
     total_failed = sum(s["failed"] for s in stats.values())
     print(f"\n  Total: {total_success} extracted, {total_failed} failed/skipped")
+    
+    # Write audit trail
+    summary_path = out_dir / "extraction_summary.json"
+    with open(summary_path, "w") as f:
+        json.dump({
+            "extraction_timestamp": datetime.now().isoformat(),
+            "total_files_processed": len(pdf_paths),
+            "successful": total_success,
+            "failed_or_skipped": total_failed,
+            "by_source_type": stats,
+            "per_file_details": cleaning_summaries,
+        }, f, indent=2)
+    print(f"\n[info] Audit trail written to {summary_path}")
 
 
 if __name__ == "__main__":
