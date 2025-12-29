@@ -262,6 +262,12 @@ the tribunal pipeline (scraper + pdf→txt cleaning) was therefore preserved, bu
     - maintain `cleaning_notes.md` documenting major deletions per file for dissertation methodology section
   - rationale: ensures corpus quality + provides intimate knowledge of corpus for methodology writeup + creates audit trail for reproducibility discussion. while this introduces a limited non-automated step, all deletions are documented per file and the pre-cleaned corpus is retained to enable auditability and discussion of reproducibility trade-offs.
 
+- **refined extraction script for defensibility:**
+  - removed aggressive digit-only page number pattern (prevents false positives on numbered sections)
+  - added table-of-contents verification (requires 2+ ToC indicators before removal)
+  - implemented audit trail: `extraction_summary.json` tracks per-file cleaning actions (chars removed, lines dropped)
+  - improved pattern documentation for dissertation methodology section
+
 - **next steps (in priority order):**
   1. manual cleaning pass on 63 Layer B extracted files → `layer_b_cleaned/`
   2. tokenize Layer B cleaned corpus using LLaMA-3 tokenizer → measure actual token counts by source type
