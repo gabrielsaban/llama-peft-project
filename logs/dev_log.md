@@ -137,12 +137,13 @@ overall: today’s work essentially built **Layer A ingestion** skeleton: we can
   - resulting corpus is now suitable for intrinsic LM training and evaluation
 
 - **layer a status:**
-  - tribunal corpus is now effectively “frozen” pending final pass through `prepare_domain_corpus.py`
+  - tribunal corpus is now effectively materially complete as a pipeline validation, pending scope refinement and final corpus selection.
   - next step for layer a will be:
       - refactor `prepare_domain_corpus.py` to target `raw_txt/`
       - assign a stable source tag (e.g. `"uk_employment_tribunal"`)
       - generate `corpus.jsonl` + `corpus_stats.json`
       - create intrinsic train/val/test splits at document level
+  - note: this ingestion was completed before finalising the revised experimental scope and served as a full-scale dry run of the tribunal pipeline rather than the final experimental corpus.
 
 - **layer b corpus curation (doctrine + guidance):**
   - compiled a curated list of **authoritative employment-law doctrine sources**, split into distinct sub-collections:
@@ -171,3 +172,102 @@ overall:
 - domain corpus is now the main remaining blocker before:
     - domain LM training
     - lora vs qlora comparisons on intrinsic perplexity
+
+## 18/12/2025
+
+- **scope pivot: eur-lex → uk employment-law + downstream task**
+  
+- initial experiments were scaffolded around the eur-lex corpus to validate the peft/qlora training pipeline. however, further review showed that:
+  - eur-lex is an eu-level, multi-domain legal corpus and does not reflect the linguistic or structural properties of uk employment law,
+  - continued pretraining on eur-lex would confound the study by introducing broad legal variation rather than domain-specific adaptation,
+  - and eur-lex benchmarks do not naturally support in-domain downstream evaluation aligned with uk employment practice.
+
+the project scope was therefore refined to:
+- focus on uk employment-law text (employment tribunal decisions + guidance/doctrine),
+- evaluate domain-adaptive continued pretraining under quantisation,
+- and add an in-domain supervised downstream task (employment tribunal section/paragraph classification) to assess whether intrinsic improvements transfer to structured legal understanding.
+
+eur-lex assets were retained only for initial pipeline validation and excluded from all subsequent experiments.
+
+## 20/12/2025
+
+**tribunal corpus reset following scope refinement**
+
+following the scope pivot (18/12), the previously ingested tribunal corpus (~5,000 decisions) was **intentionally discarded**.
+
+rationale:
+- the revised study design fixes total training tokens *before* training to isolate quantisation effects,
+- layer-b token counts materially constrain how many tribunal decisions can be included,
+- retaining the full scraped corpus would require post-hoc truncation or arbitrary downsampling.
+
+the tribunal pipeline (scraper + pdf→txt cleaning) was therefore preserved, but **data collection was reset** to allow:
+- pilot-based estimation of tokens per decision,
+- controlled sampling to hit a fixed 1.8–2.4M token budget,
+- transparent, reproducible corpus selection aligned with the final evaluation design.
+
+## 29/12/2025
+
+- **built layer b automated extraction pipeline:**
+  - created `scripts/layer_b_pdf_to_txt.py` to handle Layer B corpus (ACAS guides, codes, doctrine, gov.uk)
+  - adapted tribunal PDF cleaning logic with Layer B-specific patterns:
+    - deterministic boilerplate removal: ACAS branding, copyright notices, gov.uk standard footers
+    - page number detection and removal (standalone numbers, "page X of Y" patterns)
+    - header/footer indicators (e.g., "ACAS", "Guidance", "Code of Practice")
+    - hyphenation repair across line breaks
+    - contents section detection and removal (heuristic-based)
+    - whitespace normalization (collapse excessive blank lines, strip trailing spaces)
+  - script processes all 4 subdirectories recursively: `acas_guides/`, `codes/`, `doctrine/`, `govuk/`
+  - flattened output structure: `{source_type}__{filename}.txt` in `data/domain_corpus/layer_b_raw_extracted/`
+
+- **successfully extracted layer b corpus:**
+  - ran extraction pipeline on all 64 manually curated Layer B files
+  - **63/64 files extracted successfully** with minimum 500 character threshold
+  - output breakdown by source type:
+    - acas_guides: 26 files
+    - codes: 4 files  
+    - doctrine: 7 files
+    - govuk: 26 files
+  - automated cleaning removed ~90% of deterministic noise:
+    - page numbers, headers, footers ✅
+    - copyright/branding boilerplate ✅
+    - hyphenation artifacts ✅
+    - excessive whitespace ✅
+
+- **identified remaining context-dependent noise requiring manual review:**
+  - **acas_guides**: navigation phrases embedded in substantive content
+    - "Find out more about...", "Read our advice on...", "Get more advice and support"
+    - cross-references that sometimes contain legal substance, sometimes pure navigation
+    - example: "For more information including how to apply..." (useful) vs "Find out more..." (navigation)
+  - **codes**: 
+    - forewords (may contain useful legal status info)
+    - scattered references: "More comprehensive advice and guidance is contained in..."
+  - **doctrine**:
+    - academic formatting: footnotes, reference numbers (38, 39, 40...)
+    - disclaimer boilerplate at document start
+    - contact information sections for external services
+    - directory/contents sections at start/end
+  - **govuk**:
+    - inline path references: "(/employment-status/worker)", "(/call-charges)"
+    - embedded navigation breadcrumbs
+    - contact info: "Contact Acas... Monday to Friday, 8am to 6pm"
+
+- **decision: proceed with documented manual cleaning pass**
+  - automated extraction saved majority of work (deterministic patterns handled)
+  - remaining noise is semantically context-dependent and cannot be removed deterministically without unacceptable false positives.
+  - estimated effort: 63 files × 5-10 min each = 5-6 hours focused work
+  - approach:
+    - review each `layer_b_raw_extracted` file
+    - manually remove context-dependent navigation/boilerplate while preserving substantive legal content
+    - save cleaned versions to `data/domain_corpus/layer_b_cleaned/`
+    - maintain `cleaning_notes.md` documenting major deletions per file for dissertation methodology section
+  - rationale: ensures corpus quality + provides intimate knowledge of corpus for methodology writeup + creates audit trail for reproducibility discussion. while this introduces a limited non-automated step, all deletions are documented per file and the pre-cleaned corpus is retained to enable auditability and discussion of reproducibility trade-offs.
+
+- **next steps (in priority order):**
+  1. manual cleaning pass on 63 Layer B extracted files → `layer_b_cleaned/`
+  2. tokenize Layer B cleaned corpus using LLaMA-3 tokenizer → measure actual token counts by source type
+  3. pilot Layer A: convert 150 tribunal PDFs → txt → tokenize → calculate median tokens/decision
+  4. calculate Layer A scraping target: if Layer B = X tokens, need 3-4X from tribunals; determine additional scraping required
+  5. complete Layer A ingestion to hit target corpus size (1.8-2.4M tokens total)
+
+- **corpus construction principle:**
+  - all experiments fix token budgets and selection criteria *before* training; data is re-collected when scope changes rather than retroactively trimmed.
