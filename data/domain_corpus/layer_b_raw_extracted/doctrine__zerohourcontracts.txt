@@ -190,9 +190,13 @@ Thousands (not seasonally adjusted) Rate (not seasonally adjusted)
 3.0
 1,000
 2.5
+800
 2.0
+600
 1.5
+400
 1.0
+200
 0.5
 0 0.0
 2000 2004 2008 2012 2016 2020 2000 2004 2008 2012 2016 2020
@@ -258,6 +262,17 @@ their “desired contract”, that they had opportunities for career progression
 and that they had good employee involvement. These trends are shown in the
 chart below.
 Job quality indicators by contract, UK, 2023
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
 Satisfactory hours Desired contract Opportunities for Good employee Low pay
 career involvement
 progression
