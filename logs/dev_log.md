@@ -277,3 +277,131 @@ the tribunal pipeline (scraper + pdf→txt cleaning) was therefore preserved, bu
 
 - **corpus construction principle:**
   - all experiments fix token budgets and selection criteria *before* training; data is re-collected when scope changes rather than retroactively trimmed.
+
+## 29/01/2025
+
+### layer b: manual cleaning completed + token budget established
+
+- completed **manual cleaning pass** over all extracted Layer B text files in  
+  `data/domain_corpus/layer_b_raw_extracted/`
+- edits were strictly subtractive:
+  - removed navigation, cross-link prompts, contact info, and duplicated boilerplate
+  - did **not** rewrite, paraphrase, or summarise legal content
+  - preserved borderline cases where removal risked deleting legal meaning
+- original extracted texts and source PDFs retained for auditability
+
+#### cleaning decisions by source type
+
+- **acas_guides**
+  - removed:
+    - “Find out more…”, “Read more about…”, “Get advice and support…”
+    - embedded navigation lists and repeated section signposting
+  - retained:
+    - explanatory paragraphs even when informal in tone
+    - examples illustrating how rules apply in practice
+  - rationale: ACAS guidance reflects *practical interpretation* used by tribunals
+
+- **acas codes of practice**
+  - removed:
+    - publication metadata and references to other ACAS documents
+  - retained:
+    - forewords and statutory status explanations
+  - rationale: codes have quasi-legal weight and are frequently cited in judgments
+
+- **doctrine (hoc briefings / explanatory notes)**
+  - removed:
+    - footnote numbering, inline citation markers
+    - contents pages, contact sections, disclaimers
+  - retained:
+    - policy background and legislative history, in-line page numbers
+  - rationale: provides doctrinal framing used implicitly in tribunal reasoning. page numbers never broke up words
+
+- **gov.uk guidance**
+  - removed:
+    - inline hyperlink artifacts (e.g. `(/employment-status/worker)`)
+    - breadcrumbs, contact hours, call charges
+  - retained:
+    - threshold rules, statutory definitions, entitlement explanations
+  - rationale: high signal density despite templated structure
+
+- decision: tolerate minor formatting artefacts where removal risked semantic loss
+
+### layer b tokenisation
+- tokenised cleaned Layer B corpus using **LLaMA-3 tokenizer** (vocab size 128,256)
+- script outputs:
+  - `layer_b_token_stats.json`
+  - `layer_b_token_stats.csv`
+
+#### tokenisation summary
+- total files: **60**
+- total tokens: **200,237**
+- mean tokens/file: **3,337**
+- median tokens/file: **2,461**
+
+**by source type:**
+- acas_guides: 95,441 tokens (≈48%)
+- codes: 20,164 tokens (≈10%)
+- doctrine: 43,081 tokens (≈21%)
+- govuk: 41,551 tokens (≈21%)
+
+- largest outlier:
+  - `doctrine__keyemploymentrights.txt` (~26k tokens)
+  - solution: will be downweighted 
+
+#### implication
+- Layer B is **smaller than initially anticipated** (≈200k tokens vs planned 400–700k)
+- this is acceptable:
+  - signal density is high
+  - Layer B is intended as *contextual grounding*, not primary adaptation signal
+- Layer B will likely constitute **~10–15%** of total training tokens
+
+### revised corpus weighting (provisional)
+- **Layer A (tribunals):** target **1.6–1.8M tokens**
+- **Layer B (guidance/doctrine):** fixed at **~200k tokens**
+- combined total: **~1.8–2.0M tokens**
+
+rationale:
+- keeps tribunal judgments dominant
+- preserves doctrinal grounding
+- avoids “more data helps” confound in quantisation comparison
+
+### layer a pilot: tribunal token estimation
+- implemented stricter short-document filter in `pdf_to_txt.py`
+  - discard outputs `< 1000 characters`
+- ran pilot on **150 scraped tribunal PDFs**
+
+#### pilot observations
+- substantial variance in extracted length:
+  - many decisions are legitimately short (orders, summary decisions)
+  - others are long, multi-thousand-line judgments
+- some PDFs contain:
+  - scanned pages → no extractable text
+  - boilerplate-only pages incorrectly flagged
+- current filter is conservative but imperfect
+
+#### next step (planned)
+- manually inspect ~30–50 pilot outputs:
+  - short but valid judgments
+  - dropped cases that should be retained
+  - long cases with extraction artefacts
+- refine:
+  - boilerplate detection thresholds
+  - minimum-length criteria (likely switch from chars → tokens)
+- re-run pilot tokenisation to estimate:
+  - median tokens per retained decision
+  - variance across jurisdictions
+
+
+### layer a planning logic
+once pilot stats are finalised:
+
+1. compute median tokens per tribunal decision
+2. derive required number of decisions to reach target Layer A token count
+3. rescrape only required number (no post-hoc truncation)
+4. fix corpus **before training** to preserve experimental control
+
+### methodological note
+- minor residual noise is tolerated in both layers
+- noise is **systematic and symmetric** across LoRA and QLoRA conditions
+- therefore it does not bias comparative results
+- trade-off explicitly documented for dissertation reproducibility discussion
