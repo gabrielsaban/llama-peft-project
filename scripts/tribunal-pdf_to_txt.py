@@ -8,6 +8,16 @@ import re
 import pdfplumber
 
 
+# indicate the start of actual judgment content
+JUDGMENT_START_KEYWORDS = [
+    "JUDGMENT",
+    "DECISION ON A PRELIMINARY HEARING",
+    "RESERVED JUDGMENT", 
+    "ORDER",
+    "JUDGMENT AT AN OPEN PRELIMINARY HEARING",
+    "PRELIMINARY HEARING JUDGMENT"
+]
+
 BOILERPLATE_PATTERNS = [
     # interest notice page
     "the employment tribunals (interest) order 1990",
@@ -42,6 +52,35 @@ def looks_like_boilerplate(page_text: str) -> bool:
     """heuristically decide if a page is pure boilerplate we want to drop."""
     t = page_text.lower()
     return any(pat in t for pat in BOILERPLATE_PATTERNS)
+
+
+def extract_page_with_margins(page, top_margin_pct: float = 0.08, bottom_margin_pct: float = 0.08) -> str:
+    """
+    Extract text from page while cropping top/bottom margins to remove headers/footers.
+    
+    Args:
+        page: pdfplumber page object
+        top_margin_pct: percentage of page height to crop from top (default 8%)
+        bottom_margin_pct: percentage of page height to crop from bottom (default 8%)
+    
+    Returns:
+        Extracted text with margins removed
+    """
+    bbox = page.bbox
+    x0, y0, x1, y1 = bbox
+    height = y1 - y0
+    
+    # Calculate cropping coordinates
+    crop_top = y0 + (height * top_margin_pct)
+    crop_bottom = y1 - (height * bottom_margin_pct)
+    
+    # Crop the page
+    cropped = page.crop((x0, crop_top, x1, crop_bottom))
+    
+    # Extract text with improved settings
+    text = cropped.extract_text(layout=True, x_tolerance=1, y_tolerance=3) or ""
+    
+    return text
 
 
 def fix_hyphenation(text: str) -> str:
@@ -150,6 +189,86 @@ def clean_text(text: str) -> str:
     return "\n".join(cleaned_lines)
 
 
+def chop_front_matter(text: str) -> str:
+    """
+    remove everything before the first occurrence of judgment keywords.
+    """
+    lines = text.splitlines()
+    
+    for i, line in enumerate(lines):
+        line_upper = line.strip().upper()
+        
+        # check for exact match or keyword at start of line
+        for keyword in JUDGMENT_START_KEYWORDS:
+            if line_upper == keyword or line_upper.startswith(keyword):
+                # return text from this line onwards
+                return "\n".join(lines[i:])
+    
+    # o keyword found, return original text
+    return text
+
+
+def score_document_quality(text: str) -> dict:
+    """
+    score a document based on features indicating it contains actual reasoning.
+    """
+    score = 0
+    reasons = []
+    
+    lower_text = text.lower()
+    lines = text.splitlines()
+    
+    # check first 500 chars for 'reasons' - strong signal
+    first_chunk = lower_text[:500]
+    if 'reasons' in first_chunk:
+        score += 50
+        reasons.append("'reasons' appears near top")
+    
+    # Check for section headings (case-insensitive, allowing variations)
+    section_headings = [
+        ('introduction', 10),
+        ('the issues', 15),
+        ('issues', 10),
+        ('finding of fact', 20),
+        ('findings of fact', 20),
+        ('facts', 10),
+        ('discussion', 15),
+        ('analysis', 12),
+        ('conclusion', 15),
+        ('conclusions', 15),
+        ('law', 8),
+        ('relevant law', 12),
+    ]
+    
+    for heading, points in section_headings:
+        # Look for heading as standalone line or at start of line
+        pattern = r'(?:^|\n)\s*' + re.escape(heading) + r'\s*(?:\n|$)'
+        if re.search(pattern, lower_text, re.MULTILINE | re.IGNORECASE):
+            score += points
+            reasons.append(f"section heading: '{heading}'")
+    
+    # Additional quality indicators
+    if 'judgment' in lower_text:
+        score += 5
+        
+    if 'tribunal' in lower_text:
+        score += 3
+    
+    # Decision quality: has paragraph numbering
+    if re.search(r'\n\s*\d{1,3}\.\s+\w', text):
+        score += 10
+        reasons.append("contains numbered paragraphs")
+    
+    # Keep if score >= 30 or contains 'reasons' anywhere
+    keep = score >= 30 or ('reasons' in lower_text)
+    
+    return {
+        'score': score,
+        'keep': keep,
+        'reasons': reasons
+    }
+
+
 def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose: bool = True) -> None:
     if out_path.exists() and not overwrite:
         if verbose:
@@ -160,7 +279,9 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
         with pdfplumber.open(pdf_path) as pdf:
             page_texts = []
             for i, page in enumerate(pdf.pages):
-                text = page.extract_text() or ""
+                # Use new extraction method with margin cropping
+                text = extract_page_with_margins(page)
+                
                 if not text.strip():
                     continue
 
@@ -175,14 +296,31 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
             print(f"  [warn] no non-boilerplate text extracted from {pdf_path.name}", file=sys.stderr)
             return
 
-        # join pages, then fix hyphenation, then strip tails, then normalise
+        # Join pages, then apply all cleaning steps
         joined = "\n\n".join(page_texts)
+        
+        # Fix hyphenation first
         joined = fix_hyphenation(joined)
+        
+        # Chop front
+        joined = chop_front_matter(joined)
+        
+        # Strip trailing admin text
         stripped = strip_trailing_admin(joined)
         stripped = truncate_admin_tail(stripped)
+        
+        # Normalize formatting
         cleaned = clean_text(stripped)
-
-        if len(cleaned) < 1000:
+        
+        # Quality scoring
+        quality = score_document_quality(cleaned)
+        
+        # Count words (not characters)
+        word_count = len(cleaned.split())
+        has_reasons = 'reasons' in cleaned.lower()
+        
+        # Filter: keep if 400+ words OR has 'reasons'
+        if word_count < 400 and not has_reasons:
             if out_path.exists() and overwrite:
                 try:
                     out_path.unlink()
@@ -192,7 +330,15 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
                         file=sys.stderr,
                     )
             print(
-                f"  [skip] {pdf_path.name} produced short text ({len(cleaned)} chars < 1000)",
+                f"  [skip] {pdf_path.name} too short ({word_count} words < 400, no 'reasons')",
+                file=sys.stderr,
+            )
+            return
+        
+        # Additional quality filter
+        if not quality['keep']:
+            print(
+                f"  [skip] {pdf_path.name} low quality score ({quality['score']})",
                 file=sys.stderr,
             )
             return
@@ -202,7 +348,8 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
             f.write(cleaned)
 
         if verbose:
-            print(f"  [ok] wrote {out_path.name} ({len(cleaned.splitlines())} lines)")
+            quality_info = f"score={quality['score']}"
+            print(f"  [ok] wrote {out_path.name} ({word_count} words, {quality_info})")
 
     except Exception as e:
         print(f"  [error] failed on {pdf_path.name}: {e}", file=sys.stderr)
