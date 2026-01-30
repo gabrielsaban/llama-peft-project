@@ -1,0 +1,589 @@
+{
+  "overall": {
+    "total_files": 60,
+    "total_tokens": 200237,
+    "total_chars": 982314,
+    "mean_tokens_per_file": 3337.28,
+    "median_tokens_per_file": 2461.0
+  },
+  "by_source_type": {
+    "acas_guides": {
+      "file_count": 26,
+      "total_tokens": 95441,
+      "mean_tokens_per_file": 3670.81,
+      "median_tokens_per_file": 3120.0,
+      "min_tokens": 345,
+      "max_tokens": 8407,
+      "std_tokens": 2153.03
+    },
+    "codes": {
+      "file_count": 4,
+      "total_tokens": 20164,
+      "mean_tokens_per_file": 5041,
+      "median_tokens_per_file": 3365.5,
+      "min_tokens": 2949,
+      "max_tokens": 10484,
+      "std_tokens": 3643.68
+    },
+    "doctrine": {
+      "file_count": 6,
+      "total_tokens": 43081,
+      "mean_tokens_per_file": 7180.17,
+      "median_tokens_per_file": 3757.5,
+      "min_tokens": 247,
+      "max_tokens": 25998,
+      "std_tokens": 9435.87
+    },
+    "govuk": {
+      "file_count": 24,
+      "total_tokens": 41551,
+      "mean_tokens_per_file": 1731.29,
+      "median_tokens_per_file": 1173.0,
+      "min_tokens": 414,
+      "max_tokens": 9124,
+      "std_tokens": 1750.92
+    }
+  },
+  "per_file": [
+    {
+      "filename": "acas_guides__age-discrimination.txt",
+      "source_type": "acas_guides",
+      "chars": 17854,
+      "lines": 279,
+      "tokens": 3531,
+      "tokens_per_1k_chars": 197.77,
+      "tokens_per_line": 12.66
+    },
+    {
+      "filename": "acas_guides__bullying-at-work.txt",
+      "source_type": "acas_guides",
+      "chars": 6581,
+      "lines": 113,
+      "tokens": 1367,
+      "tokens_per_1k_chars": 207.72,
+      "tokens_per_line": 12.1
+    },
+    {
+      "filename": "acas_guides__changing-your-employees-contracts.txt",
+      "source_type": "acas_guides",
+      "chars": 44398,
+      "lines": 619,
+      "tokens": 8407,
+      "tokens_per_1k_chars": 189.36,
+      "tokens_per_line": 13.58
+    },
+    {
+      "filename": "acas_guides__deductions-from-pay-and-wages.txt",
+      "source_type": "acas_guides",
+      "chars": 8053,
+      "lines": 126,
+      "tokens": 1623,
+      "tokens_per_1k_chars": 201.54,
+      "tokens_per_line": 12.88
+    },
+    {
+      "filename": "acas_guides__disability-discrimination.txt",
+      "source_type": "acas_guides",
+      "chars": 16471,
+      "lines": 236,
+      "tokens": 3095,
+      "tokens_per_1k_chars": 187.91,
+      "tokens_per_line": 13.11
+    },
+    {
+      "filename": "acas_guides__disciplinary-procedure.txt",
+      "source_type": "acas_guides",
+      "chars": 17414,
+      "lines": 278,
+      "tokens": 3327,
+      "tokens_per_1k_chars": 191.05,
+      "tokens_per_line": 11.97
+    },
+    {
+      "filename": "acas_guides__discrimination-at-work.txt",
+      "source_type": "acas_guides",
+      "chars": 28163,
+      "lines": 438,
+      "tokens": 5404,
+      "tokens_per_1k_chars": 191.88,
+      "tokens_per_line": 12.34
+    },
+    {
+      "filename": "acas_guides__dismissals.txt",
+      "source_type": "acas_guides",
+      "chars": 15338,
+      "lines": 233,
+      "tokens": 3038,
+      "tokens_per_1k_chars": 198.07,
+      "tokens_per_line": 13.04
+    },
+    {
+      "filename": "acas_guides__employment-contracts-and-the-law.txt",
+      "source_type": "acas_guides",
+      "chars": 14003,
+      "lines": 215,
+      "tokens": 2771,
+      "tokens_per_1k_chars": 197.89,
+      "tokens_per_line": 12.89
+    },
+    {
+      "filename": "acas_guides__equality-diversity-and-inclusion.txt",
+      "source_type": "acas_guides",
+      "chars": 13111,
+      "lines": 219,
+      "tokens": 2480,
+      "tokens_per_1k_chars": 189.15,
+      "tokens_per_line": 11.32
+    },
+    {
+      "filename": "acas_guides__fit-notes-when-off-sick.txt",
+      "source_type": "acas_guides",
+      "chars": 6562,
+      "lines": 104,
+      "tokens": 1392,
+      "tokens_per_1k_chars": 212.13,
+      "tokens_per_line": 13.38
+    },
+    {
+      "filename": "acas_guides__formal-grievance-procedure.txt",
+      "source_type": "acas_guides",
+      "chars": 16986,
+      "lines": 280,
+      "tokens": 3407,
+      "tokens_per_1k_chars": 200.58,
+      "tokens_per_line": 12.17
+    },
+    {
+      "filename": "acas_guides__maternity-leave-and-pay.txt",
+      "source_type": "acas_guides",
+      "chars": 27155,
+      "lines": 414,
+      "tokens": 5816,
+      "tokens_per_1k_chars": 214.18,
+      "tokens_per_line": 14.05
+    },
+    {
+      "filename": "acas_guides__mediation-at-work.txt",
+      "source_type": "acas_guides",
+      "chars": 7977,
+      "lines": 144,
+      "tokens": 1563,
+      "tokens_per_1k_chars": 195.94,
+      "tokens_per_line": 10.85
+    },
+    {
+      "filename": "acas_guides__paternity-leave-and-pay.txt",
+      "source_type": "acas_guides",
+      "chars": 31704,
+      "lines": 461,
+      "tokens": 6713,
+      "tokens_per_1k_chars": 211.74,
+      "tokens_per_line": 14.56
+    },
+    {
+      "filename": "acas_guides__pay-for-working-extra-hours.txt",
+      "source_type": "acas_guides",
+      "chars": 1743,
+      "lines": 28,
+      "tokens": 345,
+      "tokens_per_1k_chars": 197.93,
+      "tokens_per_line": 12.32
+    },
+    {
+      "filename": "acas_guides__performance-management.txt",
+      "source_type": "acas_guides",
+      "chars": 10047,
+      "lines": 171,
+      "tokens": 1981,
+      "tokens_per_1k_chars": 197.17,
+      "tokens_per_line": 11.58
+    },
+    {
+      "filename": "acas_guides__pregnancy-and-maternity-discrimination.txt",
+      "source_type": "acas_guides",
+      "chars": 15913,
+      "lines": 235,
+      "tokens": 3020,
+      "tokens_per_1k_chars": 189.78,
+      "tokens_per_line": 12.85
+    },
+    {
+      "filename": "acas_guides__race-discrimination.txt",
+      "source_type": "acas_guides",
+      "chars": 16147,
+      "lines": 254,
+      "tokens": 3145,
+      "tokens_per_1k_chars": 194.77,
+      "tokens_per_line": 12.38
+    },
+    {
+      "filename": "acas_guides__reasonable-adjustments-at-work.txt",
+      "source_type": "acas_guides",
+      "chars": 31569,
+      "lines": 493,
+      "tokens": 6004,
+      "tokens_per_1k_chars": 190.19,
+      "tokens_per_line": 12.18
+    },
+    {
+      "filename": "acas_guides__sex-discrimination.txt",
+      "source_type": "acas_guides",
+      "chars": 11755,
+      "lines": 190,
+      "tokens": 2295,
+      "tokens_per_1k_chars": 195.24,
+      "tokens_per_line": 12.08
+    },
+    {
+      "filename": "acas_guides__shared-parental-leave-and-pay.txt",
+      "source_type": "acas_guides",
+      "chars": 20577,
+      "lines": 291,
+      "tokens": 4315,
+      "tokens_per_1k_chars": 209.7,
+      "tokens_per_line": 14.83
+    },
+    {
+      "filename": "acas_guides__sick-leave.txt",
+      "source_type": "acas_guides",
+      "chars": 5026,
+      "lines": 88,
+      "tokens": 1029,
+      "tokens_per_1k_chars": 204.74,
+      "tokens_per_line": 11.69
+    },
+    {
+      "filename": "acas_guides__statutory-flexible-working-requests.txt",
+      "source_type": "acas_guides",
+      "chars": 35635,
+      "lines": 576,
+      "tokens": 7064,
+      "tokens_per_1k_chars": 198.23,
+      "tokens_per_line": 12.26
+    },
+    {
+      "filename": "acas_guides__tupe.txt",
+      "source_type": "acas_guides",
+      "chars": 35648,
+      "lines": 564,
+      "tokens": 6894,
+      "tokens_per_1k_chars": 193.39,
+      "tokens_per_line": 12.22
+    },
+    {
+      "filename": "acas_guides__your-rights-during-redundancy.txt",
+      "source_type": "acas_guides",
+      "chars": 26177,
+      "lines": 411,
+      "tokens": 5415,
+      "tokens_per_1k_chars": 206.86,
+      "tokens_per_line": 13.18
+    },
+    {
+      "filename": "codes__code-of-practice-on-disciplinary-and-grievance-procedures.txt",
+      "source_type": "codes",
+      "chars": 19038,
+      "lines": 196,
+      "tokens": 3691,
+      "tokens_per_1k_chars": 193.88,
+      "tokens_per_line": 18.83
+    },
+    {
+      "filename": "codes__code-of-practice-on-requests-for-flexible-working.txt",
+      "source_type": "codes",
+      "chars": 15844,
+      "lines": 192,
+      "tokens": 3040,
+      "tokens_per_1k_chars": 191.87,
+      "tokens_per_line": 15.83
+    },
+    {
+      "filename": "codes__code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.txt",
+      "source_type": "codes",
+      "chars": 54430,
+      "lines": 621,
+      "tokens": 10484,
+      "tokens_per_1k_chars": 192.61,
+      "tokens_per_line": 16.88
+    },
+    {
+      "filename": "codes__settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.txt",
+      "source_type": "codes",
+      "chars": 15232,
+      "lines": 160,
+      "tokens": 2949,
+      "tokens_per_1k_chars": 193.61,
+      "tokens_per_line": 18.43
+    },
+    {
+      "filename": "doctrine__equalitylaw.txt",
+      "source_type": "doctrine",
+      "chars": 20380,
+      "lines": 385,
+      "tokens": 4173,
+      "tokens_per_1k_chars": 204.76,
+      "tokens_per_line": 10.84
+    },
+    {
+      "filename": "doctrine__flexibleworking.txt",
+      "source_type": "doctrine",
+      "chars": 13788,
+      "lines": 246,
+      "tokens": 2854,
+      "tokens_per_1k_chars": 206.99,
+      "tokens_per_line": 11.6
+    },
+    {
+      "filename": "doctrine__keyemploymentrights.txt",
+      "source_type": "doctrine",
+      "chars": 121208,
+      "lines": 2108,
+      "tokens": 25998,
+      "tokens_per_1k_chars": 214.49,
+      "tokens_per_line": 12.33
+    },
+    {
+      "filename": "doctrine__redundancy.txt",
+      "source_type": "doctrine",
+      "chars": 1186,
+      "lines": 21,
+      "tokens": 247,
+      "tokens_per_1k_chars": 208.26,
+      "tokens_per_line": 11.76
+    },
+    {
+      "filename": "doctrine__unfairdismissal.txt",
+      "source_type": "doctrine",
+      "chars": 16137,
+      "lines": 277,
+      "tokens": 3342,
+      "tokens_per_1k_chars": 207.1,
+      "tokens_per_line": 12.06
+    },
+    {
+      "filename": "doctrine__zerohourcontracts.txt",
+      "source_type": "doctrine",
+      "chars": 29880,
+      "lines": 512,
+      "tokens": 6467,
+      "tokens_per_1k_chars": 216.43,
+      "tokens_per_line": 12.63
+    },
+    {
+      "filename": "govuk__001_gov_employmentstatus.txt",
+      "source_type": "govuk",
+      "chars": 11930,
+      "lines": 268,
+      "tokens": 2442,
+      "tokens_per_1k_chars": 204.69,
+      "tokens_per_line": 9.11
+    },
+    {
+      "filename": "govuk__002_gov_employmentcontractsandconditions.txt",
+      "source_type": "govuk",
+      "chars": 6210,
+      "lines": 137,
+      "tokens": 1274,
+      "tokens_per_1k_chars": 205.15,
+      "tokens_per_line": 9.3
+    },
+    {
+      "filename": "govuk__003_gov_agencyworkersyourrights.txt",
+      "source_type": "govuk",
+      "chars": 8445,
+      "lines": 194,
+      "tokens": 1869,
+      "tokens_per_1k_chars": 221.31,
+      "tokens_per_line": 9.63
+    },
+    {
+      "filename": "govuk__004_gov_employmentstatusguidance.txt",
+      "source_type": "govuk",
+      "chars": 45067,
+      "lines": 710,
+      "tokens": 9124,
+      "tokens_per_1k_chars": 202.45,
+      "tokens_per_line": 12.85
+    },
+    {
+      "filename": "govuk__005_gov_nationalminimumwage.txt",
+      "source_type": "govuk",
+      "chars": 7772,
+      "lines": 180,
+      "tokens": 1707,
+      "tokens_per_1k_chars": 219.63,
+      "tokens_per_line": 9.48
+    },
+    {
+      "filename": "govuk__006_gov_understandingyourpay.txt",
+      "source_type": "govuk",
+      "chars": 4850,
+      "lines": 108,
+      "tokens": 1093,
+      "tokens_per_1k_chars": 225.36,
+      "tokens_per_line": 10.12
+    },
+    {
+      "filename": "govuk__007_gov_paye.txt",
+      "source_type": "govuk",
+      "chars": 5206,
+      "lines": 119,
+      "tokens": 1159,
+      "tokens_per_1k_chars": 222.63,
+      "tokens_per_line": 9.74
+    },
+    {
+      "filename": "govuk__008_gov_weeklyworkinghours.txt",
+      "source_type": "govuk",
+      "chars": 4050,
+      "lines": 95,
+      "tokens": 938,
+      "tokens_per_1k_chars": 231.6,
+      "tokens_per_line": 9.87
+    },
+    {
+      "filename": "govuk__009_gov_restbreaks.txt",
+      "source_type": "govuk",
+      "chars": 5328,
+      "lines": 117,
+      "tokens": 1187,
+      "tokens_per_1k_chars": 222.79,
+      "tokens_per_line": 10.15
+    },
+    {
+      "filename": "govuk__010_gov_overtimerights.txt",
+      "source_type": "govuk",
+      "chars": 1896,
+      "lines": 44,
+      "tokens": 414,
+      "tokens_per_1k_chars": 218.35,
+      "tokens_per_line": 9.41
+    },
+    {
+      "filename": "govuk__011_gov_holidayentitlement.txt",
+      "source_type": "govuk",
+      "chars": 12248,
+      "lines": 244,
+      "tokens": 2852,
+      "tokens_per_1k_chars": 232.85,
+      "tokens_per_line": 11.69
+    },
+    {
+      "filename": "govuk__012_gov_ssp.txt",
+      "source_type": "govuk",
+      "chars": 3228,
+      "lines": 75,
+      "tokens": 774,
+      "tokens_per_1k_chars": 239.78,
+      "tokens_per_line": 10.32
+    },
+    {
+      "filename": "govuk__015_gov_neonatalcare.txt",
+      "source_type": "govuk",
+      "chars": 6649,
+      "lines": 141,
+      "tokens": 1595,
+      "tokens_per_1k_chars": 239.89,
+      "tokens_per_line": 11.31
+    },
+    {
+      "filename": "govuk__016_gov_sharedparentalleave.txt",
+      "source_type": "govuk",
+      "chars": 13804,
+      "lines": 288,
+      "tokens": 3287,
+      "tokens_per_1k_chars": 238.12,
+      "tokens_per_line": 11.41
+    },
+    {
+      "filename": "govuk__017_gov_unpaidparentalleave.txt",
+      "source_type": "govuk",
+      "chars": 3162,
+      "lines": 70,
+      "tokens": 712,
+      "tokens_per_1k_chars": 225.17,
+      "tokens_per_line": 10.17
+    },
+    {
+      "filename": "govuk__018_gov_flexibleworking.txt",
+      "source_type": "govuk",
+      "chars": 6824,
+      "lines": 160,
+      "tokens": 1401,
+      "tokens_per_1k_chars": 205.3,
+      "tokens_per_line": 8.76
+    },
+    {
+      "filename": "govuk__019_gov_redundancy.txt",
+      "source_type": "govuk",
+      "chars": 11302,
+      "lines": 248,
+      "tokens": 2428,
+      "tokens_per_1k_chars": 214.83,
+      "tokens_per_line": 9.79
+    },
+    {
+      "filename": "govuk__020_gov_dismissal.txt",
+      "source_type": "govuk",
+      "chars": 5462,
+      "lines": 115,
+      "tokens": 1146,
+      "tokens_per_1k_chars": 209.81,
+      "tokens_per_line": 9.97
+    },
+    {
+      "filename": "govuk__021_gov_tupe.txt",
+      "source_type": "govuk",
+      "chars": 11361,
+      "lines": 246,
+      "tokens": 2313,
+      "tokens_per_1k_chars": 203.59,
+      "tokens_per_line": 9.4
+    },
+    {
+      "filename": "govuk__022_gov_whistleblowing.txt",
+      "source_type": "govuk",
+      "chars": 2554,
+      "lines": 55,
+      "tokens": 540,
+      "tokens_per_1k_chars": 211.43,
+      "tokens_per_line": 9.82
+    },
+    {
+      "filename": "govuk__023_gov_discrimination.txt",
+      "source_type": "govuk",
+      "chars": 3463,
+      "lines": 87,
+      "tokens": 670,
+      "tokens_per_1k_chars": 193.47,
+      "tokens_per_line": 7.7
+    },
+    {
+      "filename": "govuk__024_gov_disciplinaryprocedures.txt",
+      "source_type": "govuk",
+      "chars": 5325,
+      "lines": 114,
+      "tokens": 1077,
+      "tokens_per_1k_chars": 202.25,
+      "tokens_per_line": 9.45
+    },
+    {
+      "filename": "govuk__025_gov_timeoff.txt",
+      "source_type": "govuk",
+      "chars": 3355,
+      "lines": 76,
+      "tokens": 767,
+      "tokens_per_1k_chars": 228.61,
+      "tokens_per_line": 10.09
+    },
+    {
+      "filename": "govuk__026_gov_grievances.txt",
+      "source_type": "govuk",
+      "chars": 3693,
+      "lines": 79,
+      "tokens": 782,
+      "tokens_per_1k_chars": 211.75,
+      "tokens_per_line": 9.9
+    }
+  ]
+}
