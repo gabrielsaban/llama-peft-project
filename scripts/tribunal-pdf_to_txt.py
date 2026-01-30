@@ -182,7 +182,7 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
         stripped = truncate_admin_tail(stripped)
         cleaned = clean_text(stripped)
 
-        if len(cleaned) < 300:
+        if len(cleaned) < 1000:
             if out_path.exists() and overwrite:
                 try:
                     out_path.unlink()
@@ -192,7 +192,7 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
                         file=sys.stderr,
                     )
             print(
-                f"  [skip] {pdf_path.name} produced short text ({len(cleaned)} chars < 300)",
+                f"  [skip] {pdf_path.name} produced short text ({len(cleaned)} chars < 1000)",
                 file=sys.stderr,
             )
             return
@@ -212,12 +212,12 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--pdf-dir",
-        default="data/domain_corpus/raw_pdfs",
+        default="../data/domain_corpus/raw_pdfs",
         help="directory containing tribunal PDFs",
     )
     parser.add_argument(
         "--out-dir",
-        default="data/domain_corpus/raw_txt",
+        default="../data/domain_corpus/raw_txt",
         help="directory to write cleaned .txt files",
     )
     parser.add_argument(

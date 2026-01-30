@@ -33,8 +33,7 @@ def iter_decision_links(session: requests.Session, base_url: str, max_pages: int
 
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # all decision links live in the results section and look like:
-        # <a href="/employment-tribunal-decisions/..." >Mr X v Y: 1234/2024</a>
+        # all decision links live in the results section
         anchors = soup.select('a[href^="/employment-tribunal-decisions/"]')
 
         decisions = []
@@ -70,7 +69,6 @@ def find_pdf_url(session: requests.Session, decision_url: str) -> str | None:
         return None
 
         # pattern on decision pages:
-        # "Read the full decision in <a href='https://assets.publishing.service.gov.uk/...pdf'>..."
     soup = BeautifulSoup(resp.text, "html.parser")
     for a in soup.find_all("a", href=True):
         href = a["href"]
@@ -145,7 +143,7 @@ def main():
     )
     parser.add_argument(
         "--out-dir",
-        default="data/domain_corpus/raw_pdfs",
+        default="../data/domain_corpus/raw_pdfs",
         help="where to store downloaded pdfs",
     )
     parser.add_argument(
