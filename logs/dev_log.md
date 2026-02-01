@@ -53,6 +53,8 @@
 
 overall: full pipeline (data → tokenizer → model → LoRA → Trainer) is working end-to-end.
 
+---
+
 ## 09/12/2025
 
 - clarified corpus design for **Layer A** (UK Employment Tribunal decisions):
@@ -119,6 +121,8 @@ overall: full pipeline (data → tokenizer → model → LoRA → Trainer) is wo
 
 overall: today’s work essentially built **Layer A ingestion** skeleton: we can (when ready) scrape ~5k+ tribunal decisions, convert them into cleaned text, and adapt `prepare_domain_corpus.py` to turn them into a domain corpus jsonl for intrinsic LM evaluation and fine-tuning. next concrete step is to refactor `prepare_domain_corpus.py` to target `raw_txt`, preserve basic metadata, and generate `corpus.jsonl` + `corpus_stats.json` on the new employment-law data.
 
+---
+
 ## 13/12/2025
 
 - **completed large-scale ingestion for layer a (tribunal decisions):**
@@ -173,6 +177,8 @@ overall:
     - domain LM training
     - lora vs qlora comparisons on intrinsic perplexity
 
+---
+
 ## 18/12/2025
 
 - **scope pivot: eur-lex → uk employment-law + downstream task**
@@ -189,6 +195,8 @@ the project scope was therefore refined to:
 
 eur-lex assets were retained only for initial pipeline validation and excluded from all subsequent experiments.
 
+---
+
 ## 20/12/2025
 
 **tribunal corpus reset following scope refinement**
@@ -204,6 +212,8 @@ the tribunal pipeline (scraper + pdf→txt cleaning) was therefore preserved, bu
 - pilot-based estimation of tokens per decision,
 - controlled sampling to hit a fixed 1.8–2.4M token budget,
 - transparent, reproducible corpus selection aligned with the final evaluation design.
+
+---
 
 ## 29/12/2025
 
@@ -277,6 +287,8 @@ the tribunal pipeline (scraper + pdf→txt cleaning) was therefore preserved, bu
 
 - **corpus construction principle:**
   - all experiments fix token budgets and selection criteria *before* training; data is re-collected when scope changes rather than retroactively trimmed.
+
+---
 
 ## 29/01/2025
 
@@ -391,7 +403,6 @@ rationale:
   - median tokens per retained decision
   - variance across jurisdictions
 
-
 ### layer a planning logic
 once pilot stats are finalised:
 
@@ -405,3 +416,110 @@ once pilot stats are finalised:
 - noise is **systematic and symmetric** across LoRA and QLoRA conditions
 - therefore it does not bias comparative results
 - trade-off explicitly documented for dissertation reproducibility discussion
+
+---
+
+## 30/01/2026-01/02/2026
+
+### milestone: data → tokenisation pipeline completed (layer a + layer b)
+
+- completed end-to-end pipeline from **raw documents → cleaned text → reflowed text → tokenisation-ready corpus** for both layers
+- extensive iterative testing and optimisation focused on reducing pdf artefacts while preserving legal structure
+- added verbose, per-file metric logging at key stages for auditability and reproducibility
+
+### layer a: tribunal pdf extraction stabilised
+
+- substantially revised `tribunal-pdf_to_txt.py` to improve robustness across heterogeneous tribunal pdf layouts
+
+#### key changes / decisions
+
+- **margin-cropped extraction**
+  - crop top/bottom margins before text extraction to remove headers/footers early
+
+- **within-page boilerplate truncation**
+  - truncate footer boilerplate inside pages instead of dropping whole pages
+  - avoids deleting mixed-content pages with legitimate reasoning
+
+- **explicit header/footer artefact removal**
+  - removes case numbers, page markers, separators, leaked metadata post-join
+
+- **front-matter removal**
+  - drop everything before first uppercase judgment-style heading
+  - reduces noise from coversheets and publication metadata
+
+- **multi-stage trailing admin trimming**
+  - removes “judgment sent to the parties”, rule 61 notes, tribunal office footers
+  - final safety trim catches leaked judge/approval lines near document end
+
+- **normalisation**
+  - left-strip lines, collapse blank lines, trim edges
+  - preserves paragraph boundaries for downstream reflow
+
+#### quality filtering
+
+- hard keep rules:
+  - **≥500 words**
+  - **must contain paragraph numbering**
+- rationale:
+  - filters orders, stubs, and extraction failures
+  - paragraph numbering used as proxy for structured judicial reasoning
+
+#### logging
+
+- per-file jsonl metrics written to `logs/pdf_to_txt_metrics.jsonl`, including:
+  - page character counts
+  - which cleaning stages triggered
+  - word count
+  - paragraph numbering + quality score
+
+### layer a: reflow stage added
+
+- introduced `reflow_tribunal_text.py` as a dedicated transformation:
+  - `raw_txt → raw_txt_reflow`
+- separation allows extraction logic and formatting reconstruction to evolve independently
+
+#### reflow behaviour (high-level)
+
+- single marker parser for numbered, decimal, alpha, roman, dash, and bullet lists
+- removes pdf artefact blank lines inside lists
+- aggressive line merging within paragraphs
+- conservative around headings and structural boundaries
+- preserves nesting and avoids inserting blanks inside sublists
+
+#### logging
+
+- per-file metrics written to `logs/reflow_metrics.jsonl`:
+  - marker count
+  - input vs output line counts
+
+### layer b: status
+
+- no methodological change
+- full pipeline integrated and tokenisation-ready
+- layer b remains a fixed, high-signal contextual corpus
+
+### methodological note
+
+- preprocessing introduces systematic transformations but:
+  - scripts are deterministic and version-controlled
+  - applied identically across all training conditions
+  - supported by per-file metrics
+- residual noise treated as symmetric preprocessing error, not a comparative confound
+
+### current status
+
+- both layers complete up to tokenisation-ready text
+- layer a pipeline now includes:
+  - robust extraction
+  - explicit quality gating
+  - dedicated reflow stage
+  - auditable logs at each step
+
+### next steps
+
+- run pilot tokenisation on **post-reflow layer a** to estimate:
+  - median tokens per decision
+  - variance and outliers
+- spot-check a small stratified sample of kept vs dropped decisions
+- consider switching minimum-length filter from **words → tokens**
+- freeze preprocessing scripts and corpus snapshot before training
