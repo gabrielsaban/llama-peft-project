@@ -49,11 +49,7 @@ HEADER_FOOTER_INDICATORS = [
 
 
 def looks_like_page_number(line: str) -> bool:
-    """Check if a line is likely just a page number.
-    
-    Only matches explicit 'page X' patterns to avoid removing
-    numbered sections or legal references.
-    """
+    """Check if line matches 'page X' pattern."""
     stripped = line.strip()
     if not stripped:
         return False
@@ -67,7 +63,7 @@ def looks_like_page_number(line: str) -> bool:
 
 
 def looks_like_header_footer(line: str) -> bool:
-    """Check if a line is likely a header/footer (not content)."""
+    """Check if line is likely a header/footer."""
     stripped = line.strip()
     if not stripped:
         return False
@@ -89,7 +85,7 @@ def contains_boilerplate(text: str) -> bool:
 
 
 def remove_boilerplate_lines(lines: list[str]) -> list[str]:
-    """Remove lines that match deterministic boilerplate patterns."""
+    """Remove lines matching deterministic boilerplate patterns."""
     cleaned = []
     for line in lines:
         stripped = line.strip()
@@ -122,12 +118,7 @@ def fix_hyphenation(text: str) -> str:
 
 
 def normalize_whitespace(text: str) -> str:
-    """
-    Normalize whitespace:
-    - Strip trailing spaces from lines
-    - Collapse >2 consecutive blank lines to 2
-    - Strip leading/trailing blank lines
-    """
+    """Strip trailing spaces, collapse blank lines."""
     lines = [line.rstrip() for line in text.splitlines()]
     
     # collapse excessive blank lines
@@ -153,12 +144,7 @@ def normalize_whitespace(text: str) -> str:
 
 
 def remove_contents_section(text: str) -> str:
-    """
-    Remove table of contents section if detected.
-    
-    Conservative: only removes if we verify typical ToC formatting
-    (dots/page numbers) to avoid removing substantive 'Contents' headings.
-    """
+    """Remove table of contents if detected."""
     lines = text.splitlines()
     
     # find "contents" heading (case-insensitive, may have leading numbers)
@@ -213,13 +199,7 @@ def remove_contents_section(text: str) -> str:
 
 
 def extract_and_clean(pdf_path: Path, verbose: bool = True) -> tuple[str | None, dict]:
-    """
-    Extract text from PDF and apply deterministic cleaning.
-    
-    Returns:
-        (cleaned_text, summary_dict) where summary tracks cleaning actions
-        for audit trail. Returns (None, summary) on failure.
-    """
+    """Extract and clean PDF text."""
     summary = {
         "source_file": pdf_path.name,
         "chars_original": 0,
