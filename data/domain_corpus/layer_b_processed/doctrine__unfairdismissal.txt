@@ -1,0 +1,276 @@
+Unfair dismissal: qualifying service rule
+
+Summary
+Employees acquire the right not to be unfairly dismissed after two years of continuous
+employment with their employer. The two-year period was implemented by the Unfair
+Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order
+2012 (SI 2012/989), affecting persons whose employment commenced on or after 6 April
+2012.
+Immediately prior to this, section 108 of the Employment Rights Act 1996 provided for a
+one-year qualifying period. Since the right to claim unfair dismissal was introduced by the
+Industrial Relations Act 1971, the qualifying period has been amended several times,
+ranging between six months and two years.
+The qualifying period applies to normal unfair dismissal claims. Besides these, legislation
+deems certain reasons for dismissal to be “automatically unfair”. If dismissal is for one of
+these reasons the qualifying period will generally not apply.
+
+1. The qualifying period
+With effect from 6 April 2012 the normal qualifying period of
+continuous employment for unfair dismissal rights was increased to two
+years. Immediately prior to that it was one year.
+The period of employment must be unbroken to qualify for the right.
+Continuity is broken by a gap in employment of a week or more,
+although gaps due to temporary cessation of work or illness/injury do
+not break continuity.1 A transfer to a new employer will not necessarily
+break continuity; for example, TUPE transfers or employment by an
+associated employer will not break continuity.
+The two-year qualifying period applies to normal unfair dismissal cases.
+That is to say, cases where the employee argues that the employer’s
+decision to dismiss was outside of the range of reasonable responses
+open to a reasonable employer in the circumstances.
+A dismissed employee who has not completed the relevant period of
+service might still be able to pursue a claim if the reason for dismissal is
+one deemed by statute to be “automatically unfair”. Most, but not all,
+types of automatically unfair dismissal are not subject to a qualifying
+period. Additionally, protection against discrimination is not subject to
+any qualifying period.
+
+1.1 Automatically unfair dismissal
+The provisions for automatically unfair dismissal are found mainly in
+sections 99 – 108 of the Employment Rights Act 1996, although others
+are found elsewhere in employment legislation. The various grounds for
+claiming automatically unfair dismissal are summarised below.
+• Jury service – dismissal for taking time off work for jury service
+• Leave for family reasons – dismissal for reasons related to
+pregnancy, childbirth, maternity, paternity, adoption leave,
+antenatal leave, parental leave, shared parental leave or time off
+for dependents
+• Health and safety cases – see below
+• Sunday work – dismissal of a shop or betting worker because
+they refuse to work (or work additional hours) on Sunday
+• Working time regulations – dismissal for asserting rights under
+the Working Time Regulations 1998
+• Pension fund trustees – dismissal for performing (or proposing
+to perform) functions as an appointed trustee of a relevant
+occupational pension scheme
+• Employee representatives – dismissal for performing or
+proposing to perform any functions as an employee representative
+or candidate for election in respect of employees’ rights to be
+consulted in the event of proposed multiple redundancies or
+sale/transfer of the employing business
+• Whistleblowing – dismissal for making a protected disclosure
+• Assertion of statutory rights – dismissal on grounds of
+"assertion of a statutory right". Relevant statutory rights for this
+purpose are defined in section 104(4) ERA
+• National Minimum Wage – dismissal in connection with an
+attempt to exercise any right under the National Minimum Wage
+Act or seek enforcement of the National Minimum Wage
+• Tax credits – dismissal if the principal reason relates to a claim for
+tax credits
+• Flexible working arrangements – dismissal for making (or
+proposing to make) an application for flexible working
+arrangements
+• Pension enrolment – dismissal in connection with pension
+enrolment
+• Study and training – dismissal in relation to exercising the
+statutory right to make request in relation to study or training
+• Trade union blacklist – dismissal for a reason relating to a trade
+union blacklist prohibited by the Employment Relations Act 1999
+(Blacklists) Regulations 2010
+• Employee shareholder status – dismissal for refusing to accept
+an offer of employee shareholder status
+• Improper selection for redundancy – selection for redundancy
+for a reason that would otherwise be regarded as an
+automatically unfair dismissal, subject to the condition that "the
+circumstances constituting the redundancy applied equally to one
+or more other employees in the same undertaking who held
+positions similar to that held by the employee and who have not
+been dismissed by the employer"
+• Fixed term contracts – dismissal for exercising or attempting to
+exercise rights under the Fixed-Term Employees (Prevention of
+Less Favourable Treatment) Regulations 2002, for employees who
+work under fixed-term contracts
+• Part time workers – dismissal for asserting rights under the Parttime Workers (Prevention of Less Favourable Treatment)
+Regulations 2000
+• Membership or non-membership of a trade union – dismissal
+of an employee, including selection for redundancy, on grounds
+related to union membership
+• Industrial action – dismissal for involvement in industrial action
+during the 12 weeks of “protected industrial action” under
+section 238A of the Trade Union and Labour Relations
+(Consolidation) Act 1992
+• Recognition of trade union – dismissal for a reason relating to
+obstruction or promotion of official recognition of a trade union
+• Right to be accompanied at disciplinary or grievance
+hearing – dismissal for relying on the right to be accompanied by
+a fellow worker or trade union representative at internal
+disciplinary and grievance procedure hearings
+• Spent conviction - dismissal because of a spent conviction
+within the meaning of the Rehabilitation of Offenders Act 1971
+unless the employee falls within a category excluded from the Act
+by statutory order
+• Taking part in union activities – dismissal if the principal reason
+was that the employee "had taken part, or proposed to take part,
+in the activities of an independent trade union at an appropriate
+time" (Trade Union and Labour Relations (Consolidation) Act
+1992, s152(1)(b))
+• Time off for dependents – dismissal in connection with
+exercising the right to time off for dependents
+• TUPE transfer – dismissal for a reason connected with a sale or
+other transfer of a business covered by the Transfer of
+Undertakings (Protection of Employment) Regulations 2006
+Health and safety
+The normal qualifying period is reduced to one month if the dismissal is
+due to a requirement or recommendation relating to suspension on
+medical grounds: see Employment Rights Act 1996, section 64(2).
+Under section 100 of the Employment Rights Act 1996 dismissal is
+automatically unfair in six specified health and safety cases,2 as follows:
+1 The employee was carrying out or proposed to carry out activities
+in connection with prevention of health and safety risks at work,
+having been designated to do so by the employer.
+2 The employee, being an appointed safety representative,
+performed or proposed to perform his duties as such.
+3 The employee was exercising rights under the Health and Safety
+(Consultation with Employees) Regulations 1996.
+4 The employee brought to the employer's attention, by reasonable
+means, circumstances connected with their work which he
+reasonably believed were harmful or potentially harmful, provided
+there was no safety representative or safety committee whose
+attention could be drawn to the matter.
+5 The employee left or proposed to leave their place of work
+because they reasonably believed there was serious and imminent
+danger which they could not reasonably be expected to avert.
+6 The employee took or proposed to take appropriate steps to
+protect themselves or others from danger which they reasonably
+believed to be serious and imminent, unless those steps were so
+negligent that dismissal would be justified.
+
+2. History
+The right to claim unfair dismissal was introduced by the Industrial
+Relations Act 1971. At that time the qualifying period was two years.3 It
+has changed many times since, ranging between six months and two
+years.
+• The Trade Union and Labour Relations Act 1974 reduced the
+period to six months, following a (six month) transition period in
+which it was one year4
+• The Unfair Dismissal (Variation of Qualifying Period) Order 1979
+(SI 1979/959) increased it to one year
+• The Employment Act 1980 increased it to two years for
+employees in firms with fewer than 21 employees
+• The Unfair Dismissal (Variation of Qualifying Period) Order 1985
+(SI 1985/82) increased it to two years in all cases
+• The Unfair Dismissal and Statement of Reasons for Dismissal
+(Variation of Qualifying Period) Order 1999 (SI 1999/1436)
+lowered it to six months
+• The Unfair Dismissal and Statement of Reasons for Dismissal
+(Variation of Qualifying Period) Order 2012 (SI 2012/989)
+increased it to two years
+Originally, the only people able to claim unfair dismissal were those who
+worked 21-or-more hours a week.5 The Employment Protection Act
+1975 reduced this to 16 hours a week and allowed part-time workers
+who worked between 8 and 16 hours a week to claim the right after
+five years' service.6 On 3 March 1994, the House of Lords ruled that this
+law amounted to indirect discrimination against women as more
+women than men worked under 16 hours a week. It was, therefore,
+incompatible with EC law.7 The Government eventually laid a Statutory
+Instrument which amended the Employment Protection (Consolidation)
+Act 1978 to take account of this judgment.8 It removed all references
+to hours worked from the Act so that all employment rights applied
+equally irrespective of hours are worked.
+In R v Secretary of State for Employment ex parte Seymour-Smith and
+Perez, the Court of Appeal ruled that the two-year qualifying period
+was discriminatory in certain circumstances.9 Ms Seymour-Smith and
+Ms Perez were both dismissed in May 1991 after having been employed
+for fifteen months by their employers. The Unfair Dismissal (Variation of
+the Qualifying Period) Order 198510 had increased the qualifying period
+for unfair dismissal claims from one to two years' service, so both
+women had insufficient service to take their case to an industrial
+tribunal. The women applied for judicial review in the High Court, and
+sought orders quashing the 1985 Order and declaring it incompatible
+with the EC Equal Treatment Directive.11 They argued that fewer
+women than men were able to meet the two-year qualifying rule; that
+there was no objective justification, unrelated to sex, for the rule; and
+that it therefore breached the Directive's prohibition on indirect
+discrimination against women in employment.
+In February 2000 the House of Lords, having considered the equivocal
+decision of the European Court of Justice, ruled against the
+employees.12 They agreed that the two-year qualification period was
+indirectly sex discriminatory. However, their Lordships held that, at the
+time of dismissal in 1991, a two-year qualification period had been
+objectively justified. It was justified by reference to the Government’s
+view that, had there not been a two-year qualification period employers
+might have been less likely to recruit new staff. In any event, by that
+time the Labour Government had reduced the period from two years to
+one, by the Unfair Dismissal and Statement of Reasons for Dismissal
+(Variation of Qualifying Period) Order 1999.
+In May 2011, under Coalition Government, the Department for
+Business, Innovation and Skills issued a consultation - Resolving
+Workplace Disputes - which considered various matters, including
+increasing the qualifying period.13 The Government set out its rationale
+for increasing the qualifying period in its response to the consultation:
+While there are clearly divergent views on the merits of the
+proposal, we consider that business stakeholders are best placed
+to evaluate the likely impact on business confidence. Improving
+business confidence (and the economic benefits which would flow
+from such an improvement) is a key aim of Government policy.
+As well as a positive impact on business confidence, we consider
+that there is a potential secondary benefit for employees recruited
+into roles with a high training requirement (where there may be a
+risk of employers taking a cautious approach and dismissing
+employees before they qualify for the right not to be unfairly
+dismissed, if there is uncertainty that they will achieve the
+required standard).
+The extension of the qualifying period is also consistent with the
+general aim set out in the RWD consultation of reducing the
+number of tribunal claims. However, in light of the consultation,
+we have revised down our estimate of the number of claims that
+will be saved. This is because we are now assuming that all claims
+currently under multiple jurisdictions (and including an unfair
+dismissal claim) will proceed under the other jurisdiction(s). We
+had previously assumed that half of such claims would be
+withdrawn. This means that the measure is now expected to
+result in a reduction in tribunal claims of between 2,100 - 3,200
+claims, representing 4% - 7% of all unfair dismissal claims. When
+the wider impact of early conciliation is taken into account, the
+impact decreases further so that we can expect a reduction of
+around 1,600 – 2,100 claims. The detail of this change is set out
+in the Impact Assessment.
+We are unconvinced by arguments made by some respondents to
+the consultation that there could be widespread substitution of
+current unfair dismissal claims into other jurisdictions, such as
+discrimination. There is little evidence that, where there are
+grounds for a discrimination claim, individuals are currently
+choosing to pursue an unfair dismissal claim instead. Furthermore,
+other Resolving Workplace Disputes proposals aim to encourage
+early resolution of disputes (for example, greater use of pre-claim
+conciliation). This will help to avoid weak claims from being
+pursued in other jurisdictions.
+As detailed in the Equality Impact Assessment, there is a degree of
+disparity of impact from extending the qualifying period.
+However, the Government does not consider that, an extension of
+the unfair dismissal qualifying period would cause a considerable
+disparity of impact on any particular group. Furthermore, we
+believe that extending the qualifying period is a proportionate
+means of achieving the legitimate aim of improving business
+confidence to recruit and retain staff. We are committed to
+assessing the impact of policy changes and we will monitor the
+impact, including the equality impact, of this proposal as part of
+our overall assessment of the implementation of the Resolving
+Workplace Dispute proposals.
+As set out in the Impact Assessment, the Government has
+considered the alternative option of extending the qualifying
+period only for small businesses. However, there does not appear
+to be strong evidence that small businesses are disproportionately
+affected by unfair dismissal rules. Data from a 2008 Survey of
+employment tribunal claimants shows that 34% of unfair
+dismissal claims involve businesses with fewer than 50 employees,
+whereas such businesses employ 37% of the workforce. There
+was no pattern in responses to consultation to suggest small firms
+are more concerned about the qualifying period. Furthermore,
+extending the qualifying period only for small businesses would
+reduce the benefits associated with this proposal. The
+Government has therefore decided to go ahead with extending
+the qualifying period for all businesses. 14
+The qualifying period was then increased to two years, by the Unfair
+Dismissal and Statement of Reasons for Dismissal (Variation of
+Qualifying Period) Order 2012 (SI 2012/989).

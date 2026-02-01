@@ -1,0 +1,530 @@
+{
+  "extraction_timestamp": "2025-12-29T17:46:08.915935",
+  "total_files_processed": 63,
+  "successful": 63,
+  "failed_or_skipped": 0,
+  "by_source_type": {
+    "acas_guides": {
+      "success": 26,
+      "failed": 0
+    },
+    "codes": {
+      "success": 4,
+      "failed": 0
+    },
+    "doctrine": {
+      "success": 7,
+      "failed": 0
+    },
+    "govuk": {
+      "success": 26,
+      "failed": 0
+    }
+  },
+  "per_file_details": [
+    {
+      "source_file": "age-discrimination.pdf",
+      "chars_original": 19794,
+      "chars_final": 19463,
+      "lines_removed": 15,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__age-discrimination.txt"
+    },
+    {
+      "source_file": "bullying-at-work.pdf",
+      "chars_original": 7369,
+      "chars_final": 7227,
+      "lines_removed": 7,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__bullying-at-work.txt"
+    },
+    {
+      "source_file": "changing-your-employees-contracts.pdf",
+      "chars_original": 46916,
+      "chars_final": 46468,
+      "lines_removed": 24,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__changing-your-employees-contracts.txt"
+    },
+    {
+      "source_file": "deductions-from-pay-and-wages.pdf",
+      "chars_original": 9019,
+      "chars_final": 8789,
+      "lines_removed": 9,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__deductions-from-pay-and-wages.txt"
+    },
+    {
+      "source_file": "disability-discrimination.pdf",
+      "chars_original": 18553,
+      "chars_final": 18216,
+      "lines_removed": 14,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__disability-discrimination.txt"
+    },
+    {
+      "source_file": "disciplinary-procedure.pdf",
+      "chars_original": 18712,
+      "chars_final": 18549,
+      "lines_removed": 11,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__disciplinary-procedure.txt"
+    },
+    {
+      "source_file": "discrimination-at-work.pdf",
+      "chars_original": 32676,
+      "chars_final": 32349,
+      "lines_removed": 24,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__discrimination-at-work.txt"
+    },
+    {
+      "source_file": "dismissals.pdf",
+      "chars_original": 16500,
+      "chars_final": 16326,
+      "lines_removed": 11,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__dismissals.txt"
+    },
+    {
+      "source_file": "employment-contracts-and-the-law.pdf",
+      "chars_original": 14605,
+      "chars_final": 14378,
+      "lines_removed": 11,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__employment-contracts-and-the-law.txt"
+    },
+    {
+      "source_file": "equality-diversity-and-inclusion.pdf",
+      "chars_original": 13961,
+      "chars_final": 13905,
+      "lines_removed": 8,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__equality-diversity-and-inclusion.txt"
+    },
+    {
+      "source_file": "fit-notes-when-off-sick.pdf",
+      "chars_original": 7144,
+      "chars_final": 6750,
+      "lines_removed": 10,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__fit-notes-when-off-sick.txt"
+    },
+    {
+      "source_file": "formal-grievance-procedure (1).pdf",
+      "chars_original": 18604,
+      "chars_final": 18434,
+      "lines_removed": 11,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__formal-grievance-procedure (1).txt"
+    },
+    {
+      "source_file": "maternity-leave-and-pay.pdf",
+      "chars_original": 29057,
+      "chars_final": 28920,
+      "lines_removed": 16,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__maternity-leave-and-pay.txt"
+    },
+    {
+      "source_file": "mediation-at-work.pdf",
+      "chars_original": 8635,
+      "chars_final": 8600,
+      "lines_removed": 5,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__mediation-at-work.txt"
+    },
+    {
+      "source_file": "paternity-leave-and-pay.pdf",
+      "chars_original": 33127,
+      "chars_final": 32271,
+      "lines_removed": 29,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__paternity-leave-and-pay.txt"
+    },
+    {
+      "source_file": "pay-for-working-extra-hours.pdf",
+      "chars_original": 1909,
+      "chars_final": 1895,
+      "lines_removed": 2,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__pay-for-working-extra-hours.txt"
+    },
+    {
+      "source_file": "performance-management.pdf",
+      "chars_original": 10477,
+      "chars_final": 10435,
+      "lines_removed": 6,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__performance-management.txt"
+    },
+    {
+      "source_file": "pregnancy-and-maternity-discrimination.pdf",
+      "chars_original": 18681,
+      "chars_final": 18352,
+      "lines_removed": 13,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__pregnancy-and-maternity-discrimination.txt"
+    },
+    {
+      "source_file": "race-discrimination.pdf",
+      "chars_original": 17861,
+      "chars_final": 17536,
+      "lines_removed": 14,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__race-discrimination.txt"
+    },
+    {
+      "source_file": "reasonable-adjustments-at-work.pdf",
+      "chars_original": 33736,
+      "chars_final": 33291,
+      "lines_removed": 21,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__reasonable-adjustments-at-work.txt"
+    },
+    {
+      "source_file": "sex-discrimination.pdf",
+      "chars_original": 13622,
+      "chars_final": 13306,
+      "lines_removed": 13,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__sex-discrimination.txt"
+    },
+    {
+      "source_file": "shared-parental-leave-and-pay.pdf",
+      "chars_original": 21449,
+      "chars_final": 21378,
+      "lines_removed": 10,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__shared-parental-leave-and-pay.txt"
+    },
+    {
+      "source_file": "sick-leave.pdf",
+      "chars_original": 5937,
+      "chars_final": 5669,
+      "lines_removed": 8,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__sick-leave.txt"
+    },
+    {
+      "source_file": "statutory-flexible-working-requests.pdf",
+      "chars_original": 37003,
+      "chars_final": 36716,
+      "lines_removed": 23,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__statutory-flexible-working-requests.txt"
+    },
+    {
+      "source_file": "tupe.pdf",
+      "chars_original": 37951,
+      "chars_final": 37614,
+      "lines_removed": 21,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__tupe.txt"
+    },
+    {
+      "source_file": "your-rights-during-redundancy.pdf",
+      "chars_original": 28133,
+      "chars_final": 27788,
+      "lines_removed": 17,
+      "source_type": "acas_guides",
+      "output_file": "acas_guides__your-rights-during-redundancy.txt"
+    },
+    {
+      "source_file": "code-of-practice-on-disciplinary-and-grievance-procedures.pdf",
+      "chars_original": 19905,
+      "chars_final": 19863,
+      "lines_removed": 6,
+      "source_type": "codes",
+      "output_file": "codes__code-of-practice-on-disciplinary-and-grievance-procedures.txt"
+    },
+    {
+      "source_file": "code-of-practice-on-requests-for-flexible-working.pdf",
+      "chars_original": 16381,
+      "chars_final": 16339,
+      "lines_removed": 6,
+      "source_type": "codes",
+      "output_file": "codes__code-of-practice-on-requests-for-flexible-working.txt"
+    },
+    {
+      "source_file": "code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.pdf",
+      "chars_original": 55808,
+      "chars_final": 55673,
+      "lines_removed": 18,
+      "source_type": "codes",
+      "output_file": "codes__code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.txt"
+    },
+    {
+      "source_file": "settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.pdf",
+      "chars_original": 15727,
+      "chars_final": 15692,
+      "lines_removed": 5,
+      "source_type": "codes",
+      "output_file": "codes__settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.txt"
+    },
+    {
+      "source_file": "employmentadvice.pdf",
+      "chars_original": 26143,
+      "chars_final": 25877,
+      "lines_removed": 11,
+      "source_type": "doctrine",
+      "output_file": "doctrine__employmentadvice.txt"
+    },
+    {
+      "source_file": "equalitylaw.pdf",
+      "chars_original": 29075,
+      "chars_final": 28469,
+      "lines_removed": 23,
+      "source_type": "doctrine",
+      "output_file": "doctrine__equalitylaw.txt"
+    },
+    {
+      "source_file": "flexibleworking.pdf",
+      "chars_original": 47462,
+      "chars_final": 46923,
+      "lines_removed": 20,
+      "source_type": "doctrine",
+      "output_file": "doctrine__flexibleworking.txt"
+    },
+    {
+      "source_file": "keyemploymentrights.pdf",
+      "chars_original": 156439,
+      "chars_final": 155781,
+      "lines_removed": 36,
+      "source_type": "doctrine",
+      "output_file": "doctrine__keyemploymentrights.txt"
+    },
+    {
+      "source_file": "redundancy.pdf",
+      "chars_original": 44281,
+      "chars_final": 43527,
+      "lines_removed": 26,
+      "source_type": "doctrine",
+      "output_file": "doctrine__redundancy.txt"
+    },
+    {
+      "source_file": "unfairdismissal.pdf",
+      "chars_original": 20306,
+      "chars_final": 20188,
+      "lines_removed": 7,
+      "source_type": "doctrine",
+      "output_file": "doctrine__unfairdismissal.txt"
+    },
+    {
+      "source_file": "zerohourcontracts.pdf",
+      "chars_original": 53922,
+      "chars_final": 53370,
+      "lines_removed": 27,
+      "source_type": "doctrine",
+      "output_file": "doctrine__zerohourcontracts.txt"
+    },
+    {
+      "source_file": "001_gov_employmentstatus.pdf",
+      "chars_original": 16260,
+      "chars_final": 15966,
+      "lines_removed": 20,
+      "source_type": "govuk",
+      "output_file": "govuk__001_gov_employmentstatus.txt"
+    },
+    {
+      "source_file": "002_gov_employmentcontractsandconditions.pdf",
+      "chars_original": 7001,
+      "chars_final": 6805,
+      "lines_removed": 9,
+      "source_type": "govuk",
+      "output_file": "govuk__002_gov_employmentcontractsandconditions.txt"
+    },
+    {
+      "source_file": "003_gov_agencyworkersyourrights.pdf",
+      "chars_original": 9946,
+      "chars_final": 9821,
+      "lines_removed": 7,
+      "source_type": "govuk",
+      "output_file": "govuk__003_gov_agencyworkersyourrights.txt"
+    },
+    {
+      "source_file": "004_gov_employmentstatusguidance.pdf",
+      "chars_original": 58797,
+      "chars_final": 58446,
+      "lines_removed": 44,
+      "source_type": "govuk",
+      "output_file": "govuk__004_gov_employmentstatusguidance.txt"
+    },
+    {
+      "source_file": "005_gov_nationalminimumwage.pdf",
+      "chars_original": 9472,
+      "chars_final": 9117,
+      "lines_removed": 10,
+      "source_type": "govuk",
+      "output_file": "govuk__005_gov_nationalminimumwage.txt"
+    },
+    {
+      "source_file": "006_gov_understandingyourpay.pdf",
+      "chars_original": 11437,
+      "chars_final": 11140,
+      "lines_removed": 17,
+      "source_type": "govuk",
+      "output_file": "govuk__006_gov_understandingyourpay.txt"
+    },
+    {
+      "source_file": "007_gov_paye.pdf",
+      "chars_original": 7258,
+      "chars_final": 7120,
+      "lines_removed": 14,
+      "source_type": "govuk",
+      "output_file": "govuk__007_gov_paye.txt"
+    },
+    {
+      "source_file": "008_gov_weeklyworkinghours.pdf",
+      "chars_original": 4815,
+      "chars_final": 4616,
+      "lines_removed": 5,
+      "source_type": "govuk",
+      "output_file": "govuk__008_gov_weeklyworkinghours.txt"
+    },
+    {
+      "source_file": "009_gov_restbreaks.pdf",
+      "chars_original": 6027,
+      "chars_final": 5815,
+      "lines_removed": 7,
+      "source_type": "govuk",
+      "output_file": "govuk__009_gov_restbreaks.txt"
+    },
+    {
+      "source_file": "010_gov_overtimerights.pdf",
+      "chars_original": 2207,
+      "chars_final": 2090,
+      "lines_removed": 3,
+      "source_type": "govuk",
+      "output_file": "govuk__010_gov_overtimerights.txt"
+    },
+    {
+      "source_file": "011_gov_holidayentitlement.pdf",
+      "chars_original": 13974,
+      "chars_final": 13703,
+      "lines_removed": 10,
+      "source_type": "govuk",
+      "output_file": "govuk__011_gov_holidayentitlement.txt"
+    },
+    {
+      "source_file": "012_gov_ssp.pdf",
+      "chars_original": 4835,
+      "chars_final": 4712,
+      "lines_removed": 6,
+      "source_type": "govuk",
+      "output_file": "govuk__012_gov_ssp.txt"
+    },
+    {
+      "source_file": "013_gov_fitnotes.pdf",
+      "chars_original": 32379,
+      "chars_final": 31622,
+      "lines_removed": 44,
+      "source_type": "govuk",
+      "output_file": "govuk__013_gov_fitnotes.txt"
+    },
+    {
+      "source_file": "014_gov_maternitypay.pdf",
+      "chars_original": 6984,
+      "chars_final": 6851,
+      "lines_removed": 11,
+      "source_type": "govuk",
+      "output_file": "govuk__014_gov_maternitypay.txt"
+    },
+    {
+      "source_file": "015_gov_neonatalcare.pdf",
+      "chars_original": 10610,
+      "chars_final": 10484,
+      "lines_removed": 8,
+      "source_type": "govuk",
+      "output_file": "govuk__015_gov_neonatalcare.txt"
+    },
+    {
+      "source_file": "016_gov_sharedparentalleave.pdf",
+      "chars_original": 15740,
+      "chars_final": 15523,
+      "lines_removed": 15,
+      "source_type": "govuk",
+      "output_file": "govuk__016_gov_sharedparentalleave.txt"
+    },
+    {
+      "source_file": "017_gov_unpaidparentalleave.pdf",
+      "chars_original": 3399,
+      "chars_final": 3284,
+      "lines_removed": 2,
+      "source_type": "govuk",
+      "output_file": "govuk__017_gov_unpaidparentalleave.txt"
+    },
+    {
+      "source_file": "018_gov_flexibleworking.pdf",
+      "chars_original": 7877,
+      "chars_final": 7280,
+      "lines_removed": 13,
+      "source_type": "govuk",
+      "output_file": "govuk__018_gov_flexibleworking.txt"
+    },
+    {
+      "source_file": "019_gov_redundancy.pdf",
+      "chars_original": 13933,
+      "chars_final": 13724,
+      "lines_removed": 10,
+      "source_type": "govuk",
+      "output_file": "govuk__019_gov_redundancy.txt"
+    },
+    {
+      "source_file": "020_gov_dismissal.pdf",
+      "chars_original": 7591,
+      "chars_final": 7470,
+      "lines_removed": 5,
+      "source_type": "govuk",
+      "output_file": "govuk__020_gov_dismissal.txt"
+    },
+    {
+      "source_file": "021_gov_tupe.pdf",
+      "chars_original": 12925,
+      "chars_final": 12683,
+      "lines_removed": 9,
+      "source_type": "govuk",
+      "output_file": "govuk__021_gov_tupe.txt"
+    },
+    {
+      "source_file": "022_gov_whistleblowing.pdf",
+      "chars_original": 6316,
+      "chars_final": 5913,
+      "lines_removed": 11,
+      "source_type": "govuk",
+      "output_file": "govuk__022_gov_whistleblowing.txt"
+    },
+    {
+      "source_file": "023_gov_discrimination.pdf",
+      "chars_original": 5078,
+      "chars_final": 4905,
+      "lines_removed": 7,
+      "source_type": "govuk",
+      "output_file": "govuk__023_gov_discrimination.txt"
+    },
+    {
+      "source_file": "024_gov_disciplinaryprocedures.pdf",
+      "chars_original": 7254,
+      "chars_final": 6891,
+      "lines_removed": 10,
+      "source_type": "govuk",
+      "output_file": "govuk__024_gov_disciplinaryprocedures.txt"
+    },
+    {
+      "source_file": "025_gov_timeoff.pdf",
+      "chars_original": 4025,
+      "chars_final": 3836,
+      "lines_removed": 7,
+      "source_type": "govuk",
+      "output_file": "govuk__025_gov_timeoff.txt"
+    },
+    {
+      "source_file": "026_gov_grievances.pdf",
+      "chars_original": 4153,
+      "chars_final": 4017,
+      "lines_removed": 6,
+      "source_type": "govuk",
+      "output_file": "govuk__026_gov_grievances.txt"
+    }
+  ]
+}
