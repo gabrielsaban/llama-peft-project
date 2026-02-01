@@ -1,10 +1,9 @@
-Maximum weekly working
-hours
+Maximum weekly working hours
 1. Overview
 You cannot work more than 48 hours a week on average - normally
-averaged over 17 weeks (/maximum-weekly-working-hours/calculating-yourworking-hours). This law is sometimes called the ‘working time directive’ or
+averaged over 17 weeks . This law is sometimes called the ‘working time directive’ or
 ‘working time regulations’.
-You can choose to work more by opting out (/maximum-weekly-workinghours/weekly-maximum-working-hours-and-opting-out) of the 48-hour week.
+You can choose to work more by opting out  of the 48-hour week.
 If you’re under 18, you cannot work more than 8 hours a day or 40 hours
 a week.
 Exceptions
@@ -18,11 +17,12 @@ as a seafarer, sea-fisherman or worker on vessels on inland waterways
 where working time is not measured and you’re in control, for example
 you’re a managing executive with control over your decisions
 Contact the Advisory, Conciliation and Arbitration Service (Acas) helpline
-(/pay-and-work-rights) to get further advice on working hours.
+ to get further advice on working hours.
 What employers must do
 
 Your employer needs to keep some records about working hours. Visit the
 the records they need to keep.
+
 2. Calculating your working hours
 Average working hours are calculated over a ‘reference’ period, normally 17
 weeks.
@@ -64,8 +64,9 @@ You have more than one job
 Your combined working hours should not be more than 48 hours a week on
 average.
 If you work more than 48 hours on average, you can either:
-sign an opt-out agreement (/maximum-weekly-working-hours/weeklymaximum-working-hours-and-opting-out)
+sign an opt-out agreement 
 reduce your hours to meet the 48-hour limit
+
 3. Opting out of the 48 hour week
 You can choose to work more than 48 hours a week on average if you’re
 over 18. This is called ‘opting out’.
@@ -74,12 +75,6 @@ unfairly for refusing.
 You can opt out for a certain period or indefinitely. It must be voluntary and
 in writing.
 Your employer must keep a record that you’ve opted out.
-Example of opt-out agreement:
-I [worker’s name] agree that I may work for more than an average of 48
-hours a week. If I change my mind, I will give my employer [amount of
-time - up to 3 months’] notice in writing to end this agreement.
-Signed……………………………………
-Dated…………………………………….
 
 Workers who cannot opt out
 You cannot opt-out of the 48 hour week if you’re:
@@ -87,9 +82,9 @@ airline staff
 a worker on ships or boats
 a worker in the road transport industry, for example delivery drivers
 (except for drivers of vehicles under 3.5 tonnes using GB Domestic
-drivers’ hours rules (/drivers-hours/gb-domestic-rules))
+drivers’ hours rules )
 other staff who travel in and operate vehicles covered by EU rules on
-drivers’ hours (/drivers-hours/eu-rules), for example bus conductors
+drivers’ hours , for example bus conductors
 a security guard on a vehicle carrying high-value goods
 Cancelling an opt-out agreement
 You can cancel your opt-out agreement whenever you want - even if it’s part

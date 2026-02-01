@@ -29,9 +29,6 @@ presented in a certain format, making sure other people at work do that
 An employer could be liable under the law if they do not do these things. If someone does not get the reasonable adjustments they
 need they could make a claim to an employment tribunal.
 
-Find out more about:
-if an employer does not make reasonable adjustments
-who is considered to have a disability by law
 What 'reasonable' means
 What is reasonable depends on each situation.
 The employer must consider carefully if the adjustment:
@@ -57,7 +54,6 @@ Support from Access to Work
 Access to Work is a government scheme. It helps people with a physical or mental health condition or disability to get or stay in work.
 Someone might be eligible for a grant to help pay for practical support.
 This is not a substitute for the employer's legal obligation to make reasonable adjustments or pay for them.
-Find out more about Access to Work on GOV.UK
 Examples of reasonable adjustments
 Reasonable adjustments are specific to an individual person. They can cover any area of work.
 
@@ -87,7 +83,6 @@ providing emails and documents in an accessible format
 giving one-to-one support, for example to help someone prioritise their work
 providing other specialist support, for example a sign language interpreter
 More examples
-Find more examples of reasonable adjustments from the Equality and Human Rights Commission (EHRC)
 2. Making and handling requests
 If someone who's disabled needs support at work it's best for them to talk to the employer as soon as possible about what they need.
 Nobody has to tell their employer – or potential employer – they're disabled. But when they do, the employer has a legal responsibility
@@ -102,11 +97,10 @@ the employer can understand how they can help
 they can discuss and agree on reasonable adjustments together
 Employers should do all they reasonably can to create an environment and recruitment process where people feel safe and
 comfortable to talk about disability. This can help towards someone getting the reasonable adjustments they need.
-Find out more about talking about disability at work
 How to make a request
 There are various ways someone can make a reasonable adjustment request. They could do it:
 in writing – for example in a letter or email
-in a meeting with their manager or employer – find out more about having a meeting about reasonable adjustments
+in a meeting with their manager or employer
 through a formal process, if the organisation has a process set up for requesting reasonable adjustments
 When making a reasonable adjustment request, someone could think about:
 what would help them manage their health and work
@@ -114,7 +108,7 @@ what might be possible and reasonable for their employer
 Use our reasonable adjustment request letter template
 How the employer should handle a reasonable adjustment request
 When someone's talking about their disability and the support they need, the employer should:
-arrange a meeting – find out more about having a meeting about reasonable adjustments
+arrange a meeting
 listen to the person and try to understand how their disability affects them at work
 not make assumptions
 consider the person's specific situation
@@ -130,7 +124,6 @@ ask the person's doctor – use our template letter to an employee's doctor
 
 An employer does not have to make adjustments that are unreasonable. However, they should still find other ways to support the
 disabled person.
-Find out more about supporting disabled people at work
 Confirming reasonable adjustments
 An employer should confirm any agreed reasonable adjustments in writing. This could be in a letter or email to the employee.
 Use our reasonable adjustment confirmation letter template
@@ -151,17 +144,10 @@ main tasks.
 Reviewing adjustments and keeping a record
 Someone's reasonable adjustments might need to change over time. They should talk with their manager regularly to review their
 adjustments, and keep a record of what they've asked for and what's been put in place.
-Find out more about reviewing adjustments and keeping a record
 Reasonable adjustments in recruitment
 Job applicants can ask for reasonable adjustments for any part of the recruitment process. For example, someone might need the
 application form in a different format, wheelchair access for an interview, or more time for an interview test.
-Find out more about following discrimination law when recruiting
-Get more advice and support
 
-Find more support for managing disability at work
-Related content
-/what-disability-means-by-law
-/accessibility-at-work
 3. Having a meeting
 Employees and employers should work together to agree reasonable adjustments. Having a meeting is a good way to do this.
 Preparing for the meeting
@@ -188,7 +174,6 @@ what might the impact of these adjustments be to the rest of the team
 how to avoid any risks to performance or others in the team
 Getting advice from occupational health
 An occupational health professional can give advice on what adjustments might be suitable.
-Find out more about occupational health
 Having the conversation and agreeing a plan
 The employer and employee should take notes in the meeting to refer to afterwards.
 
@@ -208,7 +193,7 @@ Together, the employer and employee should:
 discuss how the reasonable adjustments could work in practice
 agree the reasonable adjustments to try
 agree a plan to review and monitor the reasonable adjustments
-Find out more about talking about disability
+
 4. Failing to make adjustments
 If an employer does not make reasonable adjustments for someone at work or a job applicant, it could be a type of disability
 discrimination. This type of disability discrimination is called 'failure to make reasonable adjustments'.
@@ -217,20 +202,11 @@ In this case, the employer should:
 talk with the disabled person
 explain their decision
 try to find another way to support them, for example making other adjustments that are reasonable
-Find out more about:
-supporting disabled people at work
-disability discrimination
 If someone feels they've been discriminated against
 If someone thinks they've been discriminated against, they could make an informal or formal complaint to their employer or potential
 employer.
 If the problem is not resolved, they could consider making a claim to an employment tribunal.
-Find out more about making and handling disability discrimination complaints
 
-Get more advice and support
-Find more support for managing disability at work
-Related content
-/what-disability-means-by-law
-/accessibility-at-work
 5. Reviewing and keeping a record
 It's important to review reasonable adjustments regularly and keep a record.
 Reviewing reasonable adjustments
@@ -256,14 +232,8 @@ the disabled person and their employer can make sure each reasonable adjustment 
 if someone's manager changes, they can show their new manager what's been agreed – this saves them having to go through
 the same process again
 To create a reasonable adjustment passport, you can use or adapt the Health Adjustment Passport on GOV.UK.
-You can also find out more about reasonable adjustments disability passports from the TUC.
+If someone has worked in the armed forces, they can use a Service Leavers Adjustments Passport.
 
-If someone has worked in the armed forces, they can use a Service Leavers Adjustments Passport. Find out more about Service
-Leavers Adjustments Passports on GOV.UK.
-Related content
-/supporting-disabled-people
-/what-disability-means-by-law
-/accessibility-at-work
 6. Mental health adjustments
 Mental health includes emotional, psychological and social wellbeing. It affects how someone thinks, feels and behaves.
 Mental health problems can:
@@ -367,7 +337,7 @@ help employees to stay in work while recovering from or managing a mental health
 make sure employees are well, safe and productive
 create a healthy work culture by building awareness and showing a commitment to good practice
 make it more likely that employees will stay at your organisation, reducing recruitment and training costs
-Find out more about supporting mental health at work
+
 7. Adjustments for neurodiversity
 When agreeing reasonable adjustments for neurodivergent employees, it's important to consider both:
 making the most of someone's strengths
@@ -375,7 +345,6 @@ support for things they find more difficult
 Some neurodivergent people do not see themselves as disabled. However, being neurodivergent will often amount to a disability under
 the Equality Act 2010.
 Some well-known types of neurodivergence are ADHD (attention deficit hyperactivity disorder), autism, dyslexia and dyspraxia.
-Find out more about neurodiversity at work
 Whether an employee needs a diagnosis
 An employee does not need a diagnosis to be considered disabled under the Equality Act 2010.
 An employer should offer employees support whether or not they have a diagnosis for their neurodivergence. This includes making
@@ -478,9 +447,6 @@ damage an employee's relationship with their employer
 affect an employee's performance at work
 In some circumstances, an employee could feel like they have no choice but to resign. If this is the case, they might consider making a
 claim for constructive dismissal.
-Find out more about:
-failing to make adjustments
-constructive dismissal
 Mental health support
 Neurodivergent employees might experience mental health problems related to their condition.
 A lack of support from their employer can make this worse and:
@@ -489,9 +455,8 @@ lead to increased sickness absence
 For example, not being able to wear noise-cancelling headphones could cause anxiety for some employees with ADHD.
 Employers should consider how to support an employee with any mental health problems, as well as with their condition. Doing this
 can help improve an employee's performance and productivity.
-Find out more about supporting mental health at work
-8. Having a policy
 
+8. Having a policy
 As an employer, it's a good idea for your organisation to have a policy that covers reasonable adjustments.
 A policy helps make clear:
 how and when employees can access reasonable adjustments
@@ -515,9 +480,6 @@ now or in the future.
 If you get reasonable adjustment requests regularly, consider creating a policy. It can help you:
 deal with them consistently
 reduce the risk of legal claims
-Find out more about:
-creating absence policies
-disability-related absence
 Reviewing policies
 As an employer, you should review policies on reasonable adjustments to make sure they:
 are easy to understand and accessible

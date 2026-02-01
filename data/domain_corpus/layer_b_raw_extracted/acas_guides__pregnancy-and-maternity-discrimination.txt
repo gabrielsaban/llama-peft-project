@@ -37,7 +37,6 @@ anything that happens after the protected period – unless the discrimination r
 pregnancy or maternity leave
 However, some things could be sex discrimination instead. This is when someone is put at a disadvantage or treated less favourably
 because they're a woman. For example, discrimination related to breastfeeding.
-Find out about the different types of discrimination
 Who is protected by discrimination law
 At work, the law protects the following people against discrimination:
 anyone who works for an employer
@@ -50,20 +49,7 @@ born.
 This means that by law, their employer must offer them a suitable alternative vacancy, if there is one.
 If someone is dismissed because they're pregnant or on maternity leave, this is 'automatically unfair dismissal'. It could also be
 discrimination.
-Find out more about:
-redundancy protection for pregnancy and new parents
-unfair dismissal
-Understanding more about discrimination
-If you need more general discrimination advice, you can read discrimination and the Equality Act 2010. This includes advice on
-employer responsibilities and on other protected characteristics.
 
-Get more advice and support
-For advice on pregnancy and maternity rights, you can read:
-advice for pregnant workers on maternity leave and pay
-advice for employers on managing pregnancy and maternity
-You can also get advice from:
-Maternity Action – advice on maternity rights for workers and employers
-Working Families – advice on family and carer-related employment rights
 2. Types of discrimination
 Pregnancy and maternity discrimination includes:
 direct discrimination
@@ -75,7 +61,6 @@ Direct pregnancy and maternity discrimination is when someone is put at a disadv
 they're pregnant
 they're on maternity leave or have the right to take maternity leave
 they have a pregnancy-related illness
-Read the full definition of direct discrimination
 Example – work performance
 Ash is pregnant and announces this at work, 2 months into a new job. A week later, the manager says Ash's work is not good enough.
 They say Ash will not pass the 3-month probation period. Before mentioning the pregnancy, Ash had good performance reports. If the
@@ -105,7 +90,6 @@ Victimisation is when someone is treated unfavourably as a result of being invol
 if the complaint was made by them or someone else.
 The law also protects someone from victimisation if someone else thinks they're involved with a complaint.
 Ways someone can be victimised include being labelled a troublemaker, being left out, or not being allowed to do something.
-Read the full definition of victimisation
 Example of victimisation
 Steph is on maternity leave. The rest of the team gets a bonus for completing a large project. Steph does not get a bonus, despite
 working on the same project before going on maternity leave. Steph makes a complaint.
@@ -120,7 +104,6 @@ offensive comments about pregnant women
 not providing facilities for breastfeeding or expressing breast milk
 an employer refusing a flexible working request from a new mother without having a genuine business reason
 
-Find out more about sex discrimination
 Example – expressing breast milk at work
 Leigh needs to express breast milk at work. The employer provides a space that's not very private. Leigh feels embarrassed and upset
 about the lack of privacy. Leigh tells the employer, who says Leigh is being too sensitive. This cannot be pregnancy and maternity
@@ -141,13 +124,7 @@ sitting or standing for long periods of time
 exposure to toxic chemicals and radioactive materials
 An employer has a legal duty to carry out an individual risk assessment and remove any health and safety risks. Changing someone's
 job is not discrimination, provided the work is still suitable for them.
-Find out more about:
-health at work during pregnancy – advice for pregnant workers
-checking health and safety risks during pregnancy – advice for employers
-Related content
-/redundancy-protection-for-pregnancy-and-new-parents
-/your-maternity-leave-pay-and-other-rights
-/managing-your-employees-maternity-leave-and-pay
+
 3. Discrimination complaints
 If someone has experienced discrimination at work, they can make a complaint to their employer. The employer should take it
 seriously and look into it as soon as possible.
@@ -162,7 +139,6 @@ If you've experienced discrimination
 If you believe you've experienced discrimination at work, you can make a complaint to your employer.
 You should make a complaint as soon as possible. However, if you make a complaint a long time after something has happened, your
 employer should still take it seriously.
-Find out what to do if you've been discriminated against
 Handling a discrimination complaint
 If you're an employer or manager, you should look into any discrimination complaint in a way that's fair and sensitive to:
 the person who made the complaint
@@ -172,17 +148,14 @@ everyone in your organisation knows how to report discrimination
 anyone accused of discrimination is treated in an impartial and fair way
 Someone making a complaint may be on maternity leave or off sick. You should agree with them how the complaint will be handled.
 Do not ignore or delay handling a complaint just because someone is not currently working.
-Find out how to handle a discrimination complaint
 4. Preventing discrimination
 All employers should take steps to make sure pregnancy and maternity discrimination does not happen at work.
 As an employer, you should aim for a culture where:
 everyone knows that pregnancy and maternity discrimination is not acceptable
 anyone who's pregnant, on maternity leave or returning to work feels safe, supported and valued
 you recognise and promote the benefits of an inclusive organisation
-Find out more about improving equality, diversity and inclusion
 Steps for preventing pregnancy and maternity discrimination
-Many ways to prevent discrimination apply equally to all 'protected characteristics'. You can find out more in our advice on preventing
-discrimination.
+Many ways to prevent discrimination apply equally to all 'protected characteristics'.
 
 Measures that are specific to preventing pregnancy and maternity discrimination include:
 having a pregnancy and maternity policy
@@ -228,9 +201,6 @@ to 18 months ago
 following the law on dismissals – you must not dismiss someone just because they're pregnant or on maternity leave
 communication during maternity leave – you must tell someone about important changes and opportunities
 returning from maternity leave – someone has the right to return to the same job, if it still exists
-For more details of your responsibilities as an employer, read:
-advice for employers on managing pregnancy and maternity
-redundancy protection for pregnancy and new parents
 Making sure managers understand their responsibilities
 You should make sure managers and supervisors understand their role in supporting workers who are pregnant or on maternity leave.
 Managers should:
@@ -251,10 +221,6 @@ support during a difficult pregnancy or after a pregnancy loss
 During maternity leave or after a return to work, this can include:
 someone who's breastfeeding needing somewhere suitable to rest or express breast milk
 making a flexible working request to help with childcare
-Find out more about:
-NHS advice on breastfeeding and going back to work
-statutory flexible working requests
-Being aware of stereotypes
 
 Avoid making decisions based on assumptions about pregnancy and maternity.
 Examples of stereotyping could include:
@@ -266,16 +232,3 @@ pushed out or ignored. It can have an impact on attendance and work performance.
 People can also have mental health problems linked to pregnancy and maternity, for example postnatal depression.
 As an employer, you have a 'duty of care'. You must do all you reasonably can to support the health, safety and wellbeing of your
 workers.
-You do not have to be a mental health expert. But there are resources and support you can offer.
-This might include:
-support through work, if you have an employee assistance programme (EAP) or a relevant staff network, for example a
-Women's Network
-help and information from a trade union, if someone is a member
-sharing details of specialist help and support from other organisations
-Find out more about:
-supporting mental health at work
-postnatal depression advice and support on the NHS website
-Get more advice and support
-If you need help to deal with any challenges in your organisation, you can:
-get tailored support for your organisation
-talk to your recognised trade union, if you have one

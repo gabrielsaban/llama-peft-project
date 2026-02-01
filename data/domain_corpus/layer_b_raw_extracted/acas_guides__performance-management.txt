@@ -76,7 +76,6 @@ If an employee has a disability, employers must make reasonable adjustments. The
 disadvantage related to their disability.
 Sometimes, capability issues might be resolved by making reasonable adjustments. For example, giving someone who is dyslexic
 more time to do written tasks.
-Find out more about reasonable adjustments
 Performance improvement plans
 If informal steps don't work, employers could consider setting up a performance improvement plan (PIP). This is sometimes called a
 training or development plan.
@@ -93,7 +92,6 @@ an extension to the timeline in the performance improvement plan – if they imp
 a final written warning, followed by a dismissal if the issue continues
 
 The employer can only dismiss them if they follow a fair procedure. Dismissal should be a last resort.
-Find out more about dismissals for capability
 If an employee is off sick
 If sickness prevents an employee from doing their job, their employer should take steps to support them back to work.
 This might include:
@@ -101,9 +99,6 @@ making changes to their role
 using a phased return to work
 Dismissing someone because their illness prevents them from doing their job should be a last resort.
 If their illness might be classed as a disability, their employer must do everything they reasonably can to support them.
-Find out more about:
-sickness and ending employment
-capability and performance when someone is disabled
 If it's a conduct issue
 It's a conduct issue if the problem is with the employee's behaviour, rather than their ability to do the job. Employees usually have more
 control over conduct issues.
@@ -151,14 +146,13 @@ Following a fair procedure
 Employers must follow a fair procedure to dismiss employees.
 It's likely that this will be a disciplinary procedure. But some employers might have a separate 'capability procedure'.
 Whatever procedure is used, it must be in line with the Acas Code of Practice on disciplinary and grievance procedures.
-Find out more about following a fair disciplinary procedure
 If someone cannot do their job because of a disability
 In certain situations, employers might be able to dismiss someone who cannot do their job because of a disability. But they must make
 sure they do all they reasonably can to support the person first.
 By law (Equality Act 2010), an employer must not dismiss or discipline someone just because they're disabled.
 
 This is a complex area of law. If employers do not follow the law, it could be disability discrimination.
-Find out more about managing capability and performance for disabled employees
+
 4. Performance-related pay
 Some employers use 'performance-related' pay to encourage and reward good performance at work.
 Examples of performance-related pay include:
@@ -174,7 +168,3 @@ If workers do not think it's being used fairly, there's a risk that they will be
 less motivated
 dissatisfied at work
 more likely to leave
-Find out more about:
-types of pay rise
-bonuses
-commission

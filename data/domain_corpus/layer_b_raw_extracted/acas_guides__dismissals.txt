@@ -3,7 +3,7 @@ Dismissals
 A dismissal is when an employer ends an employee's contract. It usually means the same as being sacked or fired.
 It's important that an employer uses a fair and reasonable procedure to decide whether to dismiss someone.
 Before an employer dismisses an employee, they should:
-believe they have a valid reason – read about types of dismissal and reasons to dismiss someone fairly
+believe they have a valid reason
 follow a full and fair procedure, usually in line with the Acas Code of Practice on disciplinary and grievance procedures
 make a decision that's balanced, consistent and as fair as possible
 The procedure an employer follows will be taken into account if an employee claims for unfair dismissal and the case reaches an
@@ -27,15 +27,12 @@ An employee can appeal against a dismissal.
 
 The employer must follow a fair and reasonable procedure. Otherwise the employee might be able to make a claim for unfair dismissal,
 even if the reason for dismissal was valid.
-Find out what employees can do if they think a dismissal is unfair
 Telling other people at work
 Employers should respect the confidentiality of the person who's been dismissed. For example, when they tell the people they worked
 with and clients that the employee has left. Any outcome of a disciplinary procedure must remain confidential.
-Find out more about talking to staff after a disciplinary procedure
 Settlement agreements
 A settlement agreement is sometimes used when an employer and employee agree to end their employment relationship because they
 both agree it's no longer working. This can include some dismissal situations.
-Find out more about settlement agreements
 If you're thinking about using a settlement agreement, you should get legal advice.
 2. Types of dismissal
 By law (Employment Rights Act 1996), the following are potential reasons to dismiss someone fairly:
@@ -69,9 +66,6 @@ In this case, the employer must follow a full redundancy process.
 If an employer has concerns about an employee's conduct or capability, they should:
 take steps to improve the employee's performance problems first, if it's a capability issue
 follow a disciplinary procedure if these steps do not work or if it's a conduct issue
-Find out more about:
-checking whether redundancies are needed – for employers
-redundancy rights for employees
 Dismissal because of long-term illness
 Dismissal should be a last resort. The employer should firstly support the employee and help them get back to work. This could include
 making any reasonable adjustments if they have a disability (this includes some long-term health conditions).
@@ -84,10 +78,8 @@ employee is able to do their job.
 Employers must investigate fully and have a valid reason for dismissal. The employee could make a claim to an employment tribunal if
 they think they've been unfairly dismissed.
 Dismissing someone because they're disabled, including some long-term health conditions, could be discrimination.
-Find out more about disability discrimination
 3. Dismissals with and without notice
 When an employer dismisses an employee, they should give them notice of when their job will end.
-Find out more about notice periods
 
 Notice pay
 Most of the time, the person who's been dismissed is entitled to the same pay they'd normally get if they work their notice period.
@@ -96,7 +88,6 @@ how much holiday they have taken
 money being deducted for training courses
 being off work
 Their employer might need to pay other outstanding money, for example bonuses or for overtime.
-Find out more about final pay when someone leaves a job
 Dismissal without notice for gross misconduct
 An employer can dismiss an employee without giving notice if it's because of gross misconduct. This is when an employee has done
 something that's very serious or has very serious effects.
@@ -135,7 +126,6 @@ If an employee thinks their dismissal was unfair and wants to challenge it, they
 The employer should tell them how to appeal.
 Being able to appeal a dismissal is also part of the Acas Code of Practice.
 The employee may want to speak to their trade union if they have one or get legal advice.
-Find out more about appealing a dismissal
 Automatically unfair reasons
 Some things are 'automatically unfair' if they're the main reason for dismissing an employee.
 These include:
@@ -175,12 +165,10 @@ they take part in the action at any time within the 12 weeks from when it began
 Non-union members have the same rights as union members not to be dismissed if they take part in legal, official industrial action.
 After 12 weeks, employees could be dismissed for taking part in industrial action if the employer has tried to settle the dispute. For
 example, the employer may have asked Acas to help find a solution.
-Find out more about collective conciliation
 Constructive dismissal
 If an employee feels they have no choice but to resign because of something serious their employer has done, they might be able to
 claim for 'constructive dismissal'.
 The legal term is 'constructive unfair dismissal'.
-Find out more about constructive dismissal
 Making a claim to an employment tribunal
 If the employee has tried to appeal and wants to take it further, they might want to make a claim to an employment tribunal.
 An employee usually has the right to make an unfair dismissal claim to an employment tribunal if they:
@@ -195,25 +183,18 @@ If someone thinks they've been discriminated against
 If someone thinks they've been unfairly dismissed because of race, sex or another 'protected characteristic', this could be
 discrimination. They could make a claim to an employment tribunal for both discrimination and unfair dismissal.
 For the discrimination claim, they do not need to have worked for their employer for 2 years.
-Find out more about discrimination and the law
 When to make a claim
 There are strict time limits for making a claim to an employment tribunal. Someone has 3 months minus 1 day from the date their
 employment ended.
 In almost all cases, the date someone's employment ends is either:
 the last day of their notice period
 the day they were dismissed if the employer did not give notice
-Find out more about:
-making a claim to an employment tribunal
-employment tribunal time limits
 Wrongful dismissal
 A 'wrongful dismissal' is when an employer has breached an employee's contract. It's usually to do with notice or notice pay.
 Examples of wrongful dismissal can include:
 dismissing an employee without giving them a notice period or notice pay
 not giving someone the full notice period they're entitled to
 If an employee wants to make a claim for wrongful dismissal, it does not matter how long they've worked for their employer.
-Related content
-/discipline-and-grievance
-/appealing-a-disciplinary-or-grievance-outcome
 5. Constructive dismissal
 If an employee feels they have no choice but to resign because of something their employer has done, they might be able to claim for
 'constructive dismissal'.
@@ -237,7 +218,6 @@ If you're going to resign, you should get legal advice first.
 Settlement agreements
 A settlement agreement is sometimes used to end an employment relationship in a way the employer and employee both agree with.
 If you sign a settlement agreement, you cannot make a constructive dismissal claim to an employment tribunal.
-Find out more about settlement agreements
 If you resign
 In your resignation letter you should explain clearly your reasons for leaving.
 If there's been a serious breach of contract you may want to leave your job straight away instead of working your notice period.
@@ -250,6 +230,3 @@ There are strict time limits for making a claim to an employment tribunal. In mo
 
 the last day of your notice period
 the day you resigned, if you did not give your employer notice
-Find out more about:
-making a claim to an employment tribunal
-employment tribunal time limits

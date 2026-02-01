@@ -1,4 +1,5 @@
 Redundancy: your rights
+
 1. Overview
 Redundancy is a form of dismissal from your job. It happens when
 employers need to reduce their workforce.
@@ -9,20 +10,17 @@ a notice period
 a consultation with your employer
 the option to move into a different job
 time off to find a new job
-You also have specific rights if your employer is insolvent
-(https://www.gov.uk/your-rights-if-your-employer-is-insolvent/your-rights).
-You must be selected for redundancy (/redundancy-your-rights/being-selectedfor-redundancy) in a fair way, for example because of your level of experience
+You also have specific rights if your employer is insolvent.
+You must be selected for redundancy  in a fair way, for example because of your level of experience
 or capability to do the job.
 You cannot be selected because of age, gender, or if you’re disabled or
-pregnant. If you are, this could be classed as an unfair dismissal (/dismissal).
+pregnant. If you are, this could be classed as an unfair dismissal .
 Get advice
-You can get advice on redundancy from Acas (Advisory, Conciliation and
-Citizens Advice (https://www.citizensadvice.org.uk/about-us/how-we-provideadvice/advice/search-for-your-local-citizens-advice/#searchbox).
+
 2. Being selected for redundancy
 Your employer should use a fair and objective way of selecting you for
 redundancy.
 Commonly used methods are:
-
 last in, first out (employees with the shortest length of service are
 selected first)
 asking for volunteers (self-selection)
@@ -33,7 +31,7 @@ process if your job no longer exists, for example if:
 your employer is closing down a whole operation in a company and
 making all the employees working in it redundant
 you’re the only employee in your part of the organisation
-Your employer may offer you a different role (/redundancy-your-rights/suitablealternative-employment) if one is available.
+Your employer may offer you a different role  if one is available.
 If your employer uses ‘last in, first out’, make sure it’s not discrimination,
 for example if it means only young people are made redundant.
 Reapplying for your own job
@@ -43,7 +41,7 @@ If you do not apply or you’re unsuccessful in your application, you’ll still
 have a job until your employer makes you redundant.
 Unfair selection
 You cannot be selected for the following reasons - your redundancy would
-be classed as an unfair dismissal (/dismissal):
+be classed as an unfair dismissal :
 sex
 gender reassignment
 marital status
@@ -69,7 +67,7 @@ Appealing the decision
 You can appeal if you feel that you’ve been unfairly selected. Write to your
 employer explaining the reasons.
 You may be able to make a claim to an employment tribunal
-(/employment-tribunals) for unfair dismissal.
+ for unfair dismissal.
 Voluntary redundancy
 It’s up to your employer whether they actually select you if you volunteer for
 redundancy.
@@ -78,14 +76,10 @@ for an early retirement package - this could be unlawful age discrimination.
 However, an early retirement package (for certain age groups) could be one
 element of a voluntary redundancy offer open to all employees.
 Apprentices
-Talk to your manager and training provider if you’re an apprentice
-(/apprenticeships-guide) and you’re worried about being made redundant.
 
-Your training provider or the Apprenticeship service might be able to help
-you find another employer to help you complete your apprenticeship.
 3. Statutory redundancy pay
 You’ll normally be entitled to statutory redundancy pay if you’re an employee
-(/employment-status/employee) and you’ve been working for your current
+ and you’ve been working for your current
 employer for 2 years or more.
 You’ll get:
 half a week’s pay for each full year you were under 22
@@ -101,13 +95,13 @@ If you were made redundant on or after 6 April 2025, your weekly pay is
 capped at £719 and the maximum statutory redundancy pay you can get is
 £21,570. If you were made redundant before 6 April 2025, these amounts
 will be lower.
-Calculate your redundancy pay (/calculate-your-redundancy-pay).
+Calculate your redundancy pay .
 You have 6 months from the date your job ends to apply for statutory
 redundancy pay.
 Exceptions
 You’re not entitled to statutory redundancy pay if:
 your employer offers to keep you on
-your employer offers you suitable alternative work (/redundancy-yourrights/suitable-alternative-employment) which you refuse without good reason
+your employer offers you suitable alternative work  which you refuse without good reason
 Being dismissed for misconduct does not count as redundancy, so you
 would not get statutory redundancy pay if this happened.
 
@@ -130,6 +124,7 @@ If your employer does not reject your claim within 7 days of receiving it,
 write to your employer again giving them your notice.
 Your claim could be rejected if your normal work is likely to start within 4
 weeks and continue for at least 13 weeks.
+
 4. Tax and National Insurance
 If you’re made redundant, you may get a ‘termination payment’. This could
 include:
@@ -138,7 +133,7 @@ holiday pay
 unpaid wages
 company benefits, for example bonuses
 Statutory redundancy pay under £30,000 is not taxable.
-What you’ll pay tax and National Insurance on (/termination-payments-and-taxwhen-you-leave-a-job/what-you-pay-tax-and-national-insurance-on) depends on
+What you’ll pay tax and National Insurance on  depends on
 what’s included in your termination payment.
 
 5. Notice periods
@@ -177,11 +172,11 @@ any alternatives to redundancy
 If your employer is making up to 19 redundancies, there are no rules about
 how they should carry out the consultation. If they’re making 20 or more
 redundancies at the same time, the collective redundancy rules apply.
-You can make a claim to an employment tribunal (/employment-tribunals) if
+You can make a claim to an employment tribunal  if
 your employer does not consult properly, for example if they start late, or
 do not consult at all.
 Collective redundancy rules
-If your employer is making 20 or more employees redundant (/employmentstatus/employee) at the same time, the consultation should take place
+If your employer is making 20 or more employees redundant  at the same time, the consultation should take place
 between your employer and a representative (rep).
 This will either be:
 a trade union rep (if you’re represented by a trade union)
@@ -194,7 +189,7 @@ how to keep the number of dismissals to a minimum
 how to limit the effects for employees involved, for example by offering
 retraining
 Your employer must also meet certain legal requirements for collective
-consultations (/staff-redundant/redundancy-consultations).
+consultations .
 Length of consultation
 There’s no time limit for how long the period of consultation should be, but
 the minimum is:
@@ -211,26 +206,23 @@ Fixed-term contract employees
 Your employer does not need to include you in collective consultation if
 you’re employed under a fixed-term contract, except if they’re ending your
 contract early because of redundancy.
+
 7. Suitable alternative employment
 Your employer might offer you ‘suitable alternative employment’ within your
 organisation or an associated company.
 They must offer you a suitable alternative job (if one is available) if you’re
 on, or have recently taken, maternity leave or other types of parental leave
-(/employee-rights-when-on-leave).
 Whether a job is suitable depends on:
 how similar the work is to your current job
 the terms of the job being offered
 your skills, abilities and circumstances in relation to the job
 the pay (including benefits), status, hours and location
-Your redundancy could be an unfair dismissal (/dismissal) if your
+Your redundancy could be an unfair dismissal  if your
 employer has suitable alternative employment and they do not offer it to
 you.
 Refusing an offer
 You may lose your right to statutory redundancy pay if you unreasonably
 turn down suitable alternative employment.
-
-You can make a claim to an employment tribunal (/employment-tribunals) if
-you think the job you’ve been offered is not suitable.
 Trial periods
 You have the right to a 4-week trial period for any alternative employment
 you’re offered.
@@ -243,7 +235,7 @@ You’ll lose your right to claim statutory redundancy pay if you do not give
 notice within the 4-week trial period.
 Time off for job hunting
 If you’ve been continuously employed for 2 years by the date your notice
-period (/redundancy-your-rights/notice-periods) ends, you’re allowed a
+period  ends, you’re allowed a
 reasonable amount of time off to:
 look for another job
 arrange training to help you find another job
@@ -254,31 +246,3 @@ Example
 You work 5 days a week and you take 4 days off in total during the
 whole notice period - your employer only has to pay you for the first 2
 days.
-8. Get help finding a new job
-You can get help from the Jobcentre Plus Rapid Response Service to:
-
-write CVs and find jobs
-find information on benefits
-find the right training and learn new skills
-organise work trials (/jobcentre-plus-help-for-recruiters/work-trials) (if you’re
-eligible)
-get any extra help at work if you’re disabled, for example Access to Work
-(/access-to-work)
-You may also be able to get help with costs, such as:
-travel to work expenses
-childcare
-tools or equipment
-vocational training - you must be in your notice period to be considered
-There’s a different service in Scotland
-(https://www.myworldofwork.co.uk/my-career-options/redundancy-help-scotland)
-and a different service in Wales (https://gov.wales/react-individuals).
-Get in touch
-You can contact the Rapid Response Service:
-if you suspect you’re going to be made redundant
-during your notice period
-up to 13 weeks after you’ve been made redundant
-Rapid Response Service
-rrs.enquiries@dwp.gov.uk
-Further information and support
-You can read more about finding a job, how your pension might be affected,
-and what benefits you could get (/guidance/redundancy-help-finding-work-andclaiming-benefits).

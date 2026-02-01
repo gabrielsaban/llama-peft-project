@@ -1,5 +1,4 @@
-Business transfers, takeovers
-and TUPE
+Business transfers, takeovers and TUPE
 1. Overview
 When a business changes owner, its employees may be protected under
 the Transfer of Undertakings (Protection of Employment) regulations
@@ -11,12 +10,9 @@ the business that’s transferring ownership must be in the UK.
 The size of the business does not matter.
 When TUPE applies:
 the employees’ jobs usually transfer over to the new company -
-exceptions could be if the employees are made redundant (/staffredundant) or in some cases where the business is insolvent (/transferstakeovers/insolvent-businesses)
+exceptions could be if the employees are made redundant  or in some cases where the business is insolvent 
 their employment terms and conditions transfer
 continuity of employment is maintained
-To find out if TUPE applies to your transfer, talk to Acas (the Advisory,
-Citizens Advice (http://www.citizensadvice.org.uk/index/getadvice.htm) or, if
-you’re an employee, your trade union representative.
 When TUPE applies
 There are 2 types of transfer protected under TUPE regulations:
 business transfers
@@ -25,7 +21,7 @@ service provision changes
 Transfers within the public sector are not usually covered by TUPE but
 some transfers from the public sector into the private sector are. However,
 public-sector employees get similar protection. Find out more about staff
-transfers in the public sector (/government/publications/staff-transfers-in-thepublic-sector).
+transfers in the public sector .
 Business transfers
 This is where a business or part of a business moves from one employer to
 another. This can include mergers where 2 companies close and combine
@@ -50,9 +46,9 @@ Example
 A courier collects and delivers for a business, but the packages are
 picked up or delivered by a number of different couriers on an ad hoc
 basis. The courier is not protected under TUPE.
-
 A cleaner is employed by a company that decides to use an outside
 cleaning company instead. They’re likely to be protected under TUPE.
+
 2. Consulting and informing
 Before a transfer of ownership happens, employers must tell the trade union
 or employee representatives:
@@ -98,8 +94,9 @@ filled
 if possible, voting is done in secret
 votes are accurately counted
 If you’re an employee representative you have the same rights as a trade
-union representative (/rights-of-trade-union-reps) to help you carry out your
+union representative  to help you carry out your
 role.
+
 3. Transfers of employment contracts
 Under TUPE, the new employer takes over employees’ employment
 contracts, including:
@@ -107,8 +104,8 @@ all the previous terms and conditions of employment
 any failures of the previous employer to observe employees’ rights (so
 employees could make a claim for discrimination against the new
 employer, even if it took place before the transfer)
-holiday entitlement (/holiday-entitlement-rights)
-period of continuous employment (/continuous-employment-what-it-is) - an
+holiday entitlement 
+period of continuous employment  - an
 employee’s start date is the same as before the transfer, so continuous
 employment is not broken
 any collective agreements previously made
@@ -174,14 +171,14 @@ After the transfer
 When the transfer is complete, employees should make sure they get an
 up-to-date written statement of employment, giving the name of the new
 employer and saying that their terms and conditions have not changed.
-
 Employees might get a P45 if their tax records are being updated.
+
 4. Redundancy
-The new employer cannot make employees redundant (/redundant-yourrights) just because they were transferred from another employer.
+The new employer cannot make employees redundant  just because they were transferred from another employer.
 The new employer can consult about redundancies before the transfer if the
 old employer agrees.
 If an employee is made redundant for an ‘economic, organisational or
-technical’ (/transfers-takeovers/transfers-of-employment-contracts) reason
+technical’  reason
 involving changes to the workforce, they may be entitled to a redundancy
 payment.
 Example
@@ -189,6 +186,7 @@ After a transfer, a new employer has to close down part of a company
 because it’s not performing. This means the business does not need
 people with a certain specialist skill, and therefore makes an employee
 redundant. The employee could be entitled to a redundancy payment.
+
 5. Information about employees during
 transfers
 An employer must provide the new employer with information about
@@ -197,34 +195,35 @@ name
 age
 main details of employment
 disciplinary action taken against employees in the last 2 years
-grievances raised by employees (/raise-grievance-at-work) in the last 2
+grievances raised by employees  in the last 2
 years
-legal action (/employment-tribunals) taken by employees against the
+legal action  taken by employees against the
 employer in the last 2 years
 potential legal action the employer thinks employees might raise
 The employer must provide the information at least 4 weeks before the
 transfer.
-6. Insolvent businesses
 
-If the employer is insolvent (/your-rights-if-your-employer-is-insolvent) and the
+6. Insolvent businesses
+If the employer is insolvent  and the
 business is being transferred or taken over by another company, the
 protection employees get is different from in a normal transfer.
 The employees are unlikely to be protected under TUPE if the business is
 closing down. However, TUPE regulations will normally apply if it’s being
 rescued and taken over or transferred.
 If employees are owed money
-Employees have rights if their employer is insolvent (/your-rights-if-youremployer-is-insolvent) and owes them money. Employees can claim for this
+Employees have rights if their employer is insolvent  and owes them money. Employees can claim for this
 whether they’re protected under TUPE or not.
 In a TUPE-protected transfer, the new employer must pay any amount left
 over after employees have been paid from the government’s National
 Insurance fund.
 Changes to employees’ terms and conditions
 Employees’ pay can be reduced or their other terms and conditions
-(/employment-contracts-and-conditions) changed after the transfer. This is
+ changed after the transfer. This is
 allowed if it will prevent job losses.
 Any changes must be agreed with employee or trade union representatives.
 Any agreement cannot break statutory employment rights. For example,
-employees cannot be paid below the National Minimum Wage (/nationalminimum-wage).
+employees cannot be paid below the National Minimum Wage .
+
 7. Employees working abroad
 Employees of a UK business who are based outside the UK could still be
 protected by TUPE.
@@ -244,15 +243,3 @@ they’re protected.
 If the whole team works from home in a country other than England,
 Scotland or Wales, the members would not be protected as there’s no
 organised group of employees in one of those countries.
-8. Help and advice
-Both employers and employees can get confidential help and advice on
-employment rights from Acas (the Advisory, Conciliation and Arbitration
-Employees can also talk to Citizens Advice
-(http://www.citizensadvice.org.uk/index/getadvice.htm) or their trade union
-representative.
-For more detailed information, read Employment rights on the transfer of an
-undertaking (/government/publications/tupe-a-guide-to-the-2006-regulations).
-Employment tribunals
-If an employee feels they have been dismissed unfairly, or feel forced to
-resign, they may be able to complain to an employment tribunal
-(/employment-tribunals).

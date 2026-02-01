@@ -15,7 +15,6 @@ flexitime
 job sharing
 compressed hours
 While some might not be practical for every job, it's likely other types will work.
-Find out more about different types of flexible working
 Benefits of flexible working
 Flexible working can benefit both employees and employers.
 For employees, it can help:
@@ -33,7 +32,7 @@ As an employer, it's good practice to have a policy on flexible working. A polic
 flexible working in a consistent way. Read more about having a flexible working policy.
 How to agree flexible working
 Employees and employers can agree any flexible working arrangement that meets both their needs.
-Find out more about options for agreeing changes
+
 2. Options for agreeing changes
 Employees have a statutory (legal) right to request a change to when, where or how they work. If they make a statutory flexible
 working request, their employer must follow the statutory procedure.
@@ -50,9 +49,6 @@ consult the employee and discuss any alternative options – unless they've agre
 
 make a decision within a maximum of 2 months
 not dismiss or cause the employee detriment because of their request
-Find out more about:
-the statutory right to request flexible working
-making a statutory request
 Agreeing a change without using the statutory procedure
 Employees and employers can agree flexible working arrangements informally without using the statutory procedure.
 For example, if someone:
@@ -75,12 +71,8 @@ For example, if the change relates to the employee's:
 working hours
 job location
 job description
-
 pay
 If any contract terms change, the employer must put them in writing within one month of agreeing them.
-Find out more about:
-changing written terms
-changing an employment contract
 Asking for a change related to a disability
 A disabled employee might need to ask for adjustments to where, when or how they work because of their disability.
 In this situation they could make either:
@@ -90,10 +82,6 @@ As an employee, you should carefully consider each option to decide what's best 
 Making a reasonable adjustment request
 A reasonable adjustment is a change that removes or reduces a disadvantage related to someone's disability. By law (Equality Act
 2010), employers have a legal duty to make reasonable adjustments for disabled employees.
-Find out more about:
-how to request a reasonable adjustment
-the law on reasonable adjustments
-what disability means
 Making a statutory flexible working request
 The legal duty to make reasonable adjustments is separate to the legal duty to consider a flexible working request.
 If an employee makes a flexible working request related to their disability, the employer must follow both:
@@ -104,9 +92,6 @@ employee's disability. For example, if they request to reduce their hours to stu
 
 This can be a complicated area and it's important for employers to understand their legal responsibilities. If an employer does not
 follow the law, an employee could make a claim to an employment tribunal.
-Get more advice and support
-Employees and employers can get more advice or support:
-find support for managing disability at work
 Before a job starts
 The statutory right to request flexible working does not apply until the first day of a job.
 However, employers should think about flexible working options for a job before an employee starts. This can help prepare for any
@@ -185,11 +170,11 @@ In this situation:
 they do not need to follow the statutory procedure and Acas Code
 there's no statutory protection from unfair dismissal and detriment under the law on flexible working requests
 Read more about options for agreeing changes
+
 4. Making a request
 As an employee making a statutory request, you must put your request in writing.
 Before making a request, you should check:
 who to send your request to
-
 the limits for making a request, if you've made any previous requests
 If you'd like a change to start in a specific week or month, it's a good idea to request it ahead of time. This is so your employer has
 enough time to consider it. Your employer must make a decision, including any appeal, within a maximum of 2 months.
@@ -222,10 +207,10 @@ it's been 2 months since the date of your request
 A request will stay live during:
 any appeal
 any extension to the 2-month decision period, if you and your employer agreed to extend it
-
 Extending the time limit
 You and your employer can extend the 2-month time limit if you both agree to it.
 If you agree to an extension, your employer should confirm the extension in writing. For example, in a letter or email.
+
 5. Considering a request
 As an employer, if you receive a statutory flexible working request, you must:
 accept the request unless there's a genuine business reason not to
@@ -269,7 +254,6 @@ Alex is a man working in a team of 20 people. A few women in the team have had f
 start times to care for their children. Alex makes a flexible working request to have a later start time. This is to help balance work and
 school drop-off times. The employer refuses Alex's request because they think childcare is less important to men. If there's no genuine
 business reason to refuse Alex's request, this is likely to be direct discrimination because of sex.
-Find out more about discrimination
 Reasonable adjustments
 A reasonable adjustment is a change that removes or reduces a disadvantage related to someone's disability. By law (Equality Act
 2010), you have a legal duty to make reasonable adjustments for disabled employees.
@@ -281,9 +265,6 @@ You do not need to follow the law on reasonable adjustments if the employees's f
 disability. For example, if they request to reduce their hours to study part time.
 This can be a complicated area and it's important to understand your legal responsibilities. If you do not follow the law, an employee
 could make a claim to an employment tribunal.
-If you need more advice or support:
-read more about the law on reasonable adjustments
-find support for managing disability at work
 Acknowledging the request
 As an employer, it's a good idea to confirm you've received the request.
 This can help make clear to the employee:
@@ -340,6 +321,7 @@ discuss any potential issues with the change
 listen to the employee's thoughts, concerns and ideas
 discuss other options, if there's a genuine business reason to reject the original request
 If there's no business reason to reject the request, you must agree to it.
+
 6. Making a decision
 As an employer, you must agree to an employee's flexible working request unless there's a genuine business reason not to.
 Unless you agree to the request in full, you have a legal obligation to consult the employee before making a decision.
@@ -418,6 +400,7 @@ In other cases, you might need more time to make a decision. For example, if you
 by the employee or look into alternative options. In this case you should let the employee know the next steps and when you expect to
 make a decision.
 Once you've made your decision, you should confirm your decision in writing.
+
 7. Communicating the decision
 As an employer, once you've made a decision about the request you must tell the employee.
 You should put your decision in writing.
@@ -454,17 +437,13 @@ job location
 job description
 pay
 If any contract terms change, you must put the changes in writing within one month of agreeing them.
-Find out more about:
-changing written terms
-changing an employment contract
 Changing the arrangement in future
 Flexible working arrangements can be changed in future, as long as both the employer and employee agree to it.
 If the employee wants to change the arrangement, they can either:
 make another statutory flexible working request
 ask for a reasonable adjustment, if it relates to a disability
 informally ask for a change
-If the employer wants to make a change, they will need to agree the change with the employee. Find out more about steps to change
-an employee's contract.
+If the employer wants to make a change, they will need to agree the change with the employee.
 If you reject the request
 If you've consulted the employee and decided to reject their request, you should put in writing:
 the business reason or reasons for rejecting their request
@@ -481,7 +460,7 @@ If the employee disagrees
 If the employee disagrees with the decision, you should give them the option to appeal as part of a reasonable procedure.
 
 If the employee appeals the decision, you should handle the appeal fairly and impartially.
-Read more about handling a flexible working request appeal
+
 8. Appeals
 There's no legal right to appeal a statutory flexible working request decision. However, employers should give employees the option to
 appeal as part of a reasonable procedure.
@@ -584,9 +563,7 @@ make another request now or in the future – you can make up to 2 statutory req
 take no further action
 raise the issue with your employer, if you feel you need to take it further
 If you need to raise an issue you could:
-
 check your organisation's flexible working policy for any next steps
-find out how to raise a problem at work
 Making a legal claim
 As an employee, you might be able to make a claim to an employment tribunal if you feel your employer:
 did not handle your request in line with the Acas Code of Practice on requests for flexible working
@@ -596,6 +573,3 @@ handled your request in a way that discriminated against you
 If you intend to make a claim, you must notify Acas first.
 In limited circumstances, you might be able to use Acas arbitration instead of going to an employment tribunal. You can talk to your
 Acas conciliator about this option after you notify us.
-Find out more about:
-making a claim to an employment tribunal
-protection from dismissal and detriment related to the statutory right to request flexible working

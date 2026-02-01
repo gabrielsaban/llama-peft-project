@@ -16,7 +16,6 @@ The law says someone is disabled if both of these apply:
 they have a 'physical or mental impairment'
 the impairment 'has a substantial and long-term adverse effect on their ability to carry out normal day-to-day activities'
 A small number of conditions and impairments are automatically classed as a disability.
-Find out more about what disability means by law
 Who is protected by disability discrimination law
 At work, the law protects the following people against discrimination:
 employees and workers
@@ -32,9 +31,6 @@ they do not think of themselves as disabled
 they're worried about how their employer might react
 they do not want anyone to know
 Employees are still protected from discrimination if their employer could reasonably be expected to know they have a disability.
-Find out more about:
-talking about disability at work
-considering whether someone has a disability
 Past disability
 The Equality Act 2010 also protects people who had a disability in the past.
 For example:
@@ -42,16 +38,12 @@ someone is turned down for a promotion because of a high absence record in the p
 because of a serious injury that was considered a disability
 someone is harassed at work because of a past mental health condition
 Understanding more about discrimination
-Find out about the different types of disability discrimination
-If you need more general discrimination advice, you can read discrimination and the Equality Act 2010. This includes advice on
-employer responsibilities and on other protected characteristics.
 2. Types of disability discrimination
 Some types of discrimination apply to all 'protected characteristics', including disability. These are:
 direct discrimination
 indirect discrimination
 harassment
 victimisation
-For full definitions of each type of discrimination, read our advice on discrimination and the Equality Act 2010.
 
 There are also 2 types of discrimination unique to disability. These are:
 discrimination arising from disability
@@ -61,7 +53,6 @@ Direct disability discrimination is when someone is put at a disadvantage or tre
 they're disabled
 they have a connection with someone who's disabled – this is called 'discrimination by association'
 someone else thinks they're disabled when they are not – this is called 'discrimination by perception'
-Read the full definition of direct discrimination
 Example of direct discrimination
 Mo has a job interview and is offered the job. After Mo tells the employer about their disability, the employer withdraws the job offer.
 The employer then offers the job to someone who's not disabled. If the employer's reason for withdrawing the offer was because Mo is
@@ -83,9 +74,7 @@ Raja less favourably because of this.
 Indirect discrimination
 Indirect disability discrimination is when a working practice, policy or rule applies to everyone but puts a person or group at a
 disadvantage because of their disability.
-Read the full definition of indirect discrimination
 Example of indirect discrimination
-
 Jay has type 1 diabetes and works in a factory. The rest break policy says everyone has a lunch break at the same time, with no other
 breaks. Jay sometimes needs snacks between meals to help manage their diabetes.
 Jay's employer says they will not make any changes to the policy. This is indirect discrimination.
@@ -116,9 +105,7 @@ Failure to make reasonable adjustments
 adjustments for someone who needs them.
 Adjustments are changes an employer makes to remove or reduce a disadvantage related to someone's disability. Employers must
 make reasonable adjustments by law. What is reasonable depends on each situation.
-Find out more about reasonable adjustments
 Example of a failure to make reasonable adjustments
-
 Bobby's disability means they cannot work as quickly as others in the team. Bobby asks for their workload to be slightly reduced as a
 reasonable adjustment. The employer refuses. They say it's unfair if one person is allowed to do less work. This is likely to be a failure
 to make reasonable adjustments.
@@ -130,7 +117,6 @@ Disability-related harassment is when someone experiences unwanted behaviour rel
 To be harassment, the unwanted behaviour must have either:
 violated someone's dignity
 created an intimidating, hostile, degrading, humiliating or offensive environment
-Read the full definition of harassment
 Example of harassment directed at a specific person
 Shar sometimes loses their balance because they have multiple sclerosis (MS). People at work regularly make comments and jokes
 about it, which makes Shar feel humiliated and uncomfortable. This is harassment because of disability.
@@ -143,7 +129,6 @@ Victimisation is when someone is treated less favourably as a result of being in
 It does not matter if the complaint was made by them or someone else. The law also protects someone from victimisation if someone
 else thinks they're involved with a complaint.
 Ways someone can be victimised include being labelled a troublemaker, being left out, or not being allowed to do something.
-Read the full definition of victimisation
 Example of victimisation
 Ali made a formal complaint because their manager did not make the reasonable adjustments they had agreed. Since then, Ali's
 manager has become very critical of Ali, picking on them in front of other staff. They've also stopped Ali from applying for promotion. Ali
@@ -155,13 +140,7 @@ positive action – to help a disadvantaged or underrepresented group
 objective justification – for example when there's a genuine business need
 occupational requirement – when having a particular disability is essential for a job
 a disability discrimination exemption – when you can specifically advertise for and recruit a disabled person
-Find out more about:
-positive action
-objective justification
-an occupational requirement in recruitment
-Related content
-/what-disability-means-by-law
-/supporting-disabled-people
+
 3. Making and handling complaints
 If someone has experienced or witnessed disability discrimination at work, they can make a complaint to their employer. The employer
 should take it seriously and look into it as soon as possible.
@@ -173,32 +152,24 @@ anyone accused of disability discrimination is treated in an impartial and fair 
 If you've experienced disability discrimination
 It's best to make a complaint as soon as possible. But if you make a complaint a long time after an incident took place, your employer
 should still take it seriously.
-Find out what to do if you've been discriminated against
 Witnessing disability discrimination
 If you think someone at work is being discriminated against, there are actions you can take. This could include stepping in to try and
 stop it happening if you feel it's safe, supporting people or giving evidence.
 Witnessing discrimination might also affect you personally. In some circumstances, you could make a harassment complaint yourself.
-Find out more about witnessing discrimination
 
 Handling a discrimination complaint
 If you're an employer or manager, you should look into any discrimination complaint in a way that's fair and sensitive to:
 the person who made the complaint
 anyone who witnessed it
 anyone accused of bullying or discrimination
-Find out how to handle a discrimination complaint
-Related content
-/what-disability-means-by-law
-/supporting-disabled-people
-Reasonable adjustments
+
 4. Preventing disability discrimination
 All employers should take steps to try to make sure disability discrimination does not happen at work.
 As an employer, you should:
 aim for a culture where everyone accepts that disability discrimination is not acceptable
 recognise and promote the benefits of a diverse and inclusive organisation that does not exclude anyone because of disability
-Find out more about improving equality, diversity and inclusion
 Steps for preventing disability discrimination
-Many ways to prevent discrimination apply equally to all 'protected characteristics'. You can find out more in our advice on preventing
-discrimination.
+Many ways to prevent discrimination apply equally to all 'protected characteristics'.
 Measures that are specific to preventing disability discrimination include:
 employing and supporting disabled people
 talking about disability
@@ -216,21 +187,16 @@ disability
 
 bring new skills to the organisation
 improve staff morale by treating everyone according to their needs
-Find out more about:
-following discrimination law throughout recruitment
-supporting disabled people at work
 Talking about disability
 You should talk with your staff about appropriate language to use when discussing disability. This includes when you're speaking
 directly with someone who's disabled and in wider work communications.
 Make it clear that ableist language is not acceptable. This means language that's inappropriate, offensive or negative towards disabled
 people. That includes things some might consider as 'banter' or jokes. You should also be sensitive in the terms you use around
 disability.
-Find out more about talking about disability at work
 Making the workplace more accessible
 Accessibility at work is about removing barriers to make sure disabled people can take an active part in working life.
 Employers should make sure their workplace, and the way they work, is accessible to as many people as possible. This includes
 anywhere staff are working, including working from home.
-Find out more about accessibility at work
 Appointing a disability champion
 A disability champion is a senior member of staff who's committed to promoting equality and tackling disability discrimination. They do
 not have to be disabled.
@@ -267,10 +233,3 @@ You should make sure managers and supervisors understand their role in supportin
 knowing how to handle a request for reasonable adjustments
 being confident to talk about disability
 being a role model of inclusive behaviour
-Get more advice and support
-If you need help to deal with any challenges in your organisation, you can:
-get tailored support for your organisation
-Related content
-/what-disability-means-by-law
-Reasonable adjustments
-/neurodiversity-at-work

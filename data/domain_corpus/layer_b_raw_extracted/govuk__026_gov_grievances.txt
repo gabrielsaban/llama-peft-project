@@ -1,12 +1,12 @@
-Handling an employee's
-grievance
+Handling an employee's grievance
 1. Overview
 If your employee has a concern or problem that they have not been able to
 resolve informally, they may make a formal grievance complaint to you.
-Businesses must have a written grievance procedure (/handling-employeegrievance/grievance-procedure) in place and share it with all employees. It
+Businesses must have a written grievance procedure  in place and share it with all employees. It
 must say how the process works and how long it takes.
-After a hearing of the evidence (/handling-employee-grievance/grievancehearing), you should let the employee know your decision in writing. The
-employee can appeal the decision (/handling-employee-grievance/employersdecisions-and-appeals) if they are not happy with it.
+After a hearing of the evidence , you should let the employee know your decision in writing. The
+employee can appeal the decision  if they are not happy with it.
+
 2. Grievance procedure
 By law, employers must set out a grievance procedure and share it in
 writing with all employees, for example, in their statement of employment or
@@ -23,7 +23,6 @@ explain how to appeal a grievance decision
 state that employees can be accompanied in any meetings by a
 colleague or union representative
 outline what happens if a grievance is raised during disciplinary action
-
 You do not have to include information about the grievance procedure in
 employment contracts. However, if you do, you must follow the procedure,
 or the employee could bring a breach of contract claim against you.
@@ -31,7 +30,7 @@ Acas Code of Practice
 The Acas Code of Practice is not legally binding. However, an employment
 tribunal can reduce or increase any money awarded in a case by up to 25%
 if the code has not been followed.
-You can find out more in the Acas Code of Practice on disciplinary and
+
 3. The grievance hearing
 Preparing for the hearing
 Before holding a hearing, employers should:
@@ -65,7 +64,7 @@ After you have decided the action to take, write to the parties involved,
 setting out:
 your decision and the reasons behind it
 the appeals process and deadline
-! If there are any delays during the appeal process, it’s important
+If there are any delays during the appeal process, it’s important
 that you tell the employee as soon as possible.
 Appeals
 If the employee appeals, there should be another hearing to re-examine the
@@ -77,5 +76,3 @@ If possible, the appeal should not be heard by the same person who held
 the original hearing.
 After the appeal hearing, you should set out your decision in writing and
 state that this is the final outcome.
-
-All content is available under the Open Government Licence v3.0, except where otherwise stated

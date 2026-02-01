@@ -1,19 +1,5 @@
-Code of Practice on time off for trade union duties and
-activities including guidance on time off for union learning
-representatives
-1 January 2010
-Contents
-Background
-The Code of Practice
-Introduction
-1. Time off for trade union duties
-2. Training of union representatives in aspects of employment relations and employee development
-3. Time off for trade union activities
-4. The responsibilities of employers and trade unions
-5. Agreements on time off
-6. Industrial action
-7. Resolving disputes
-Annex - The law on time off for trade union duties and activities
+Code of Practice on time off for trade union duties and activities including guidance on time off for union learning representatives
+
 Background
 This code revises the Acas Code of Practice on time off for trade union duties and activities which came into effect on 27 April 2003.
 This revised code is issued under Section 199 of the Trade Union and Labour Relations (Consolidation) Act 1992 and comes into force
@@ -27,10 +13,6 @@ Service (Acas) has a duty to provide practical guidance on the time off to be pe
 Section 199 of the Act, as amended by the Employment Act 2002, also provides for Acas to issue practical guidance on time off and
 training for Union Learning Representatives.
 
-This Code, which replaces the Code of Practice issued by Acas in 2003, is intended to provide such guidance. Advice on the role and
-responsibilities of employee representatives is provided in two Acas guides:
-Trade union representation in the workplace (PDF, 449KB, 38 pages)
-Non-union representation in the workplace (PDF, 4.3MB, 32 pages)
 Terminology
 2. In this Code the term 'Trade union official', is replaced by 'union representative'. In practice there is often confusion between an
 'official' and an 'officer' of a union and the term 'representative' is commonly used in practice. Section 119 of the Trade Union and
@@ -106,8 +88,6 @@ Matters falling within section 178(2) TULR(C)A are listed in the sub headings of
 10. The Safety Representatives and Safety Committees Regulations 1977 regulation 4(2)(a) requires that employers allow
 union health and safety representatives paid time, as is necessary, during working hours, to perform their functions.
 
-Further advice on time off provisions for health and safety representatives is provided by the Health and Safety Executive in their
-approved Code and Guidance 'Consulting workers on health and safety'. This is not covered in this Acas Code.
 11. An independent trade union is recognised by an employer when it is recognised to any extent for the purposes of
 collective bargaining. Where a trade union is not so recognised by an employer, employees have no statutory right to time
 off to undertake any duties except that of accompanying a worker at a disciplinary or grievance hearing (see para 20).
@@ -231,8 +211,6 @@ Matters falling within section 178(2) TULR(C)A are set out in paragraph 13 above
 22. The Safety Representatives and Safety Committees Regulations 1977 regulation 4(2)(b) requires that employers allow
 union health and safety representatives to undergo training in aspects of their functions that is 'reasonable in all the
 circumstances'.
-Further advice on the training of health and safety representatives is provided by the Health and Safety Executive in their approved
-Code and Guidance 'Consulting workers on health and safety'. This is not covered in this Acas Code.
 23. Employees who are Trade Union Learning Representatives are also permitted reasonable time off during working hours
 to undergo training relevant to their functions as a Union Learning Representative.
 What is relevant employment relations training?

@@ -9,7 +9,7 @@ they do not want it dealt with informally
 it's a very serious issue, for example sexual harassment or whistleblowing
 Following a formal procedure
 When an employee raises a formal grievance, their employer should follow a formal procedure.
-Your organisation should have its own grievance procedure. Otherwise you must follow the steps in this guide and the Acas Code of
+Your organisation should have its own grievance procedure. Otherwise you must follow the Acas Code of
 Practice on disciplinary and grievance procedures.
 If your organisation has its own grievance procedure, it should:
 follow the Acas Code, as a minimum
@@ -33,9 +33,6 @@ For example, a manager of a small business with one or 2 employees might need to
 The employee should always:
 raise the grievance as soon as they can
 take any actions expected of them as soon as they can
-Training for employers and managers
-You can get Acas training on discipline and grievance procedures to learn more about the Acas Code and how to follow a formal
-procedure.
 If there are related grievances
 If there are 2 or more related grievances, the employer should:
 still follow the formal procedure, for all the grievances
@@ -50,9 +47,6 @@ You can use mediation at any stage. Mediation involves an independent, impartial
 The mediator can be someone from inside or outside your organisation. If they're from outside your organisation, you might need to
 pay.
 Both sides will need to agree to mediation.
-You can:
-find out more about mediation at work
-get mediation training from Acas
 2. Step 2: Raising a grievance
 The employee should check their organisation grievance policy to find out:
 how to raise a formal grievance
@@ -75,25 +69,18 @@ It's also helpful to be realistic.
 For example, an employee believes they have not been paid their correct wages because someone in payroll made a one-off mistake.
 In this situation it's usually realistic to expect the employer to investigate and amend the payment if necessary. It's not usually realistic
 to expect payroll staff to be dismissed.
-You can also get help from Citizens Advice on:
-writing a grievance letter
-checking you've included the right information
 If employers or employees do not follow a formal procedure
 Not following a formal grievance procedure can affect:
 people's morale and confidence at work
 the outcome, if the employee later makes a claim to an employment tribunal
 A tribunal will take into account whether an employee has a genuine reason for not following a formal procedure.
 For example, an employee might find it difficult to attend a grievance meeting with someone accused of sexually harassing them.
-Related content
-/acas-code-of-practice-on-disciplinary-and-grievance-procedures
-/acas-guide-to-discipline-and-grievances-at-work
 3. Step 3: Responding to a grievance
 Your organisation should have its own formal grievance procedure. This should follow the Acas Code of Practice for disciplinary and
 grievance procedures, as a minimum.
 If your organisation does not have a formal procedure, you should follow the Acas Code.
 
-Where possible, the person who handles the grievance procedure should have had training. Acas offers training in handling grievance
-procedures.
+Where possible, the person who handles the grievance procedure should have had training.
 The Acas Code and the law
 You must follow a full and fair procedure in line with the Acas Code for any discipline or grievance case. The procedure you've followed
 will be taken into account if the case reaches an employment tribunal.
@@ -116,7 +103,6 @@ be sensitive to the circumstances and needs of the person the grievance is about
 grievance
 Deciding on disciplinary action
 An employer should not discipline anyone involved in a grievance before getting all the information and evidence they can.
-Find out more about the disciplinary procedure
 If there are concerns about employees in a grievance case working together while the grievance is looked into, the employer should
 consider what else they can do in the short term.
 For example, where an employee has said that someone at work is bullying them, the employer could see whether work schedules can
@@ -126,7 +112,6 @@ while they look into the grievance.
 
 Investigating
 The employer should investigate the grievance so that they can make a fair decision about the grievance.
-Find out more about investigations
 If a crime could have occurred
 If the grievance could be a criminal matter, for example it's related to an assault, the police might need to be involved.
 Employers and employees should use their own judgement about when to involve the police.
@@ -150,7 +135,6 @@ mental health problems arising
 existing mental health problems getting worse
 For example, as well as regular communication, the employer could arrange any meetings in a more private and comfortable location if
 this would help an employee.
-Find more advice on supporting mental health at work
 Grievances about a customer, client or anyone else who does not work for the
 organisation
 The employer should follow the formal grievance procedure in the same way.
@@ -166,7 +150,7 @@ get more information from their trade union or workplace representative
 raise the grievance themselves, for example by agreeing on one person to raise it and communicate for all of them
 Using mediation
 You can use mediation at any stage.
-Find out more about mediation at work
+
 4. Step 4: The grievance meeting
 When an employee raises a formal grievance, the employer should hold a meeting with them. A grievance meeting is sometimes
 called a 'hearing'.
@@ -245,7 +229,6 @@ prevent anyone else at the meeting from explaining their side of things
 Investigating the grievance
 The employer might need to take some time to investigate so they can make a fair decision.
 If necessary they can set up another grievance meeting once they have found out more information.
-Find out more about investigations
 At the end of the meeting
 The employer should:
 give the employee copies of the meeting record and notes taken
@@ -258,9 +241,7 @@ The employer can withhold some information in certain circumstances, for example
 Sharing information
 Under data protection law (UK GDPR), the employer should get consent from the person who provided information before sharing it.
 This might mean the employer needs to make some information anonymous before sharing it.
-You can find out more about data protection on the Information Commissioner's Office (ICO) website.
-Related content
-/acas-code-of-practice-on-disciplinary-and-grievance-procedures
+
 5. Step 5: Deciding the outcome
 After following a fair grievance procedure, the employer should decide on the best outcome based on:
 the findings from meetings and investigations
@@ -276,11 +257,8 @@ The employer should offer the employee the right of appeal.
 This is so the employee can raise an appeal if they feel:
 the outcome does not resolve the problem
 any stage of the grievance procedure was wrong or unfair
-Find out more about raising an appeal
-Related content
-/acas-code-of-practice-on-disciplinary-and-grievance-procedures
-6. Step 6: After the grievance
 
+6. Step 6: After the grievance
 After a grievance procedure has finished, employers might want to give some information about it to individual staff. It's also important
 to keep records.
 Talking to staff
@@ -296,14 +274,6 @@ in the future.
 In line with data protection law (UK GDPR), records should be:
 confidential
 only be kept for as long as necessary
-Find out more about data protection and employment records from the Information Commissioner's Office (ICO)
 If the employee needs to take things further
 If the employee feels they've tried everything and their problem is still not resolved, they could in some cases make a claim to an
 employment tribunal.
-Get more advice and support
-Acas also provides:
-training on discipline and grievance procedures
-tailored support for employers
-free e-learning on discipline and grievance
-Related content
-/acas-code-of-practice-on-disciplinary-and-grievance-procedures

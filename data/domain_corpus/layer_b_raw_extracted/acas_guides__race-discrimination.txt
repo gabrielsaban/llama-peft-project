@@ -9,8 +9,6 @@ people are working remotely.
 Terms used around race
 The language around race changes over time. And terms that some people are comfortable with might be offensive to others. There's
 no one term that everyone will prefer.
-In this advice, we use terms that are generally considered acceptable at the time of writing. We use the terms white, black and ethnic
-minority. We also refer to specific ethnic and national origins.
 What race means by law
 The Equality Act 2010 says that people must not be unfairly discriminated against because of:
 colour
@@ -56,9 +54,6 @@ job applicants
 former employees – usually around providing references
 Understanding more about discrimination
 
-Find out about the different types of race discrimination
-If you need more general discrimination advice, you can read discrimination and the Equality Act 2010. This includes advice on
-employer responsibilities and on other protected characteristics.
 2. Types of race discrimination
 Race discrimination includes:
 direct discrimination
@@ -67,14 +62,12 @@ harassment
 victimisation
 It's important to understand the different types of race discrimination. This is so you know what your rights and responsibilities are
 under discrimination law (Equality Act 2010).
-For full definitions of each type of discrimination, read our advice on discrimination and the Equality Act 2010.
 Direct discrimination
 Direct race discrimination is when someone is put at a disadvantage or treated less favourably because of:
 their race
 the race of someone they have a connection with – this is called 'discrimination by association'
 their 'perceived' race, which means thinking someone is a certain race when they are not – this is called 'discrimination by
 perception'
-Read the full definition of direct discrimination
 Example of direct discrimination
 Ade is black. After an argument with someone at work who is white, Ade is given a final written warning. The other person gets a first
 written warning. Both were equally to blame but the person who investigated the incident was biased and assumed that Ade had
@@ -91,7 +84,6 @@ would be direct discrimination.
 Indirect discrimination
 Indirect race discrimination is when a working practice, policy or rule applies to everyone but puts a person or group at a disadvantage
 because of their race.
-Read the full definition of indirect discrimination
 Example 1 – indirect discrimination
 A cleaning company needs to reduce their number of cleaners. The company uses English language skills as one of their redundancy
 selection criteria.
@@ -117,7 +109,6 @@ Racial harassment is when someone experiences unwanted behaviour related to race
 To be harassment, the unwanted behaviour must have either:
 violated someone's dignity
 created an intimidating, hostile, degrading, humiliating or offensive environment
-Read the full definition of harassment
 
 Example of harassment directed at a specific person
 Dominique, who's French, moves to a new team at work. Two people in the team regularly make fun of Dominique's accent and make
@@ -135,13 +126,11 @@ physical or verbal abuse
 threats of physical violence
 online abuse
 damage to their property
-Find out more about hate crime at work
 Victimisation
 Victimisation is when someone is treated less favourably as a result of being involved with a discrimination or harassment complaint.
 It does not matter if the complaint was made by them or someone else. The law also protects someone from victimisation if someone
 else thinks they're involved with a complaint.
 Ways someone can be victimised include being labelled a troublemaker, being left out, or not being allowed to do something.
-Read the full definition of victimisation
 Example of victimisation
 Jordan raised a grievance with their employer because of ongoing racist comments and behaviour towards them that managers have
 ignored. Jordan's colleague Charlie made a statement to support Jordan's complaint after witnessing some incidents.
@@ -170,28 +159,24 @@ anyone accused of race discrimination is treated in an impartial and fair way
 If you've experienced race discrimination
 It's best to make a complaint as soon as possible. But if you make a complaint a long time after an incident took place, your employer
 should still take it seriously.
-Find out what to do if you've been discriminated against
 Witnessing race discrimination
 If you think someone at work is being discriminated against, there are actions you can take. This could include stepping in to try and
 stop it happening if you feel it's safe, supporting people or giving evidence.
 Witnessing discrimination might also affect you personally. In some circumstances, you could make a harassment complaint yourself.
-Find out more about witnessing discrimination
 Handling a discrimination complaint
 If you're an employer or manager, you should look into any discrimination complaint in a way that's fair and sensitive to:
 
 the person who made the complaint
 anyone who witnessed it
 anyone accused of bullying or discrimination
-Find out how to handle a discrimination complaint
+
 4. Preventing race discrimination
 All employers should take steps to try to make sure race discrimination does not happen at work.
 As an employer, you should:
 aim for a culture where everyone accepts that race discrimination is not acceptable
 recognise and promote the benefits of a diverse and inclusive organisation that does not exclude anyone because of race
-Find out more about improving equality, diversity and inclusion
 Steps for preventing race discrimination
-Many ways to prevent discrimination apply equally to all 'protected characteristics'. You can find out more in our advice on preventing
-discrimination.
+Many ways to prevent discrimination apply equally to all 'protected characteristics'.
 Measures that are specific to preventing race discrimination include:
 talking about race
 creating a race equality action plan
@@ -219,7 +204,6 @@ appropriate can sometimes be all that's needed. It's important not to excuse del
 Where there's a genuine need to refer to race, use a specific ethnic identity where it's relevant. For example, if you're discussing issues
 that specifically affect black employees make sure that's clear – broader terms like 'BAME' or 'ethnic minorities' would not be
 appropriate.
-Read the CIPD's guide on how to talk about race at work
 Creating a race equality action plan
 You may want to create a race equality action plan. This is sometimes called an anti-racism strategy.
 If you have good diversity policies and practices, you might not need a dedicated race plan. But it may help if there are particular
@@ -234,7 +218,6 @@ how you'll use equality monitoring and data
 managing languages at work, if that's relevant for your organisation – for example if a group of employees share a common
 language other than English, or if there's a Welsh language requirement
 You should create the plan in consultation with trade unions or other employee representatives.
-Read the CIPD's guide on developing an anti-racism strategy
 Appointing a race champion
 A race champion can be someone of any race who's committed to promoting equality and tackling race discrimination.
 They should be:
@@ -268,7 +251,3 @@ taking steps to resolve issues
 Ethnicity pay gap reporting
 The 'ethnicity pay gap' is the difference in average earnings between all ethnic groups. While it's not a legal requirement, many
 organisations already report on their ethnicity pay gap. It can help to build transparency and trust.
-Follow the ethnicity pay gap reporting guidance on GOV.UK
-Get more advice and support
-If you need help to deal with any challenges in your organisation, you can:
-get tailored support for your organisation

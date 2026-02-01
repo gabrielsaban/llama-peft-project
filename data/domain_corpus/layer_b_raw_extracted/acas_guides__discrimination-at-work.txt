@@ -32,9 +32,6 @@ positive action – to help a disadvantaged or underrepresented group
 objective justification – when an employer can prove a legitimate need for less favourable treatment
 a disability exception – to specifically recruit a disabled person without the risk of disability discrimination
 occupational requirement – recruiting someone with a certain protected characteristic to do a particular job
-Find out more about:
-using protected characteristics to make decisions
-using protected characteristics in recruitment
 Who is protected by discrimination law
 The Equality Act 2010 protects the following people against discrimination:
 anyone who works for an employer
@@ -52,9 +49,6 @@ Not doing these things could cause harm and distress, and could result in discri
 Employers can be held responsible for the actions of their workers. This is called 'vicarious liability'.
 Anyone who discriminates against someone at work is also responsible for their own actions. Discrimination complaints and
 employment tribunal claims can be made against individuals as well as employers.
-Find out more about:
-vicarious liability
-preventing discrimination
 Types of discrimination
 Discrimination includes:
 direct discrimination – less favourable treatment directly because of a protected characteristic
@@ -62,22 +56,6 @@ indirect discrimination – when everyone's treated the same but people with a p
 harassment – unwanted or offensive behaviour related to a protected characteristic
 victimisation – negative treatment as a result of being involved with a discrimination or harassment complaint
 
-Advice on protected characteristics
-Find out more about:
-age discrimination
-disability discrimination
-gender reassignment discrimination
-marriage and civil partnership discrimination
-pregnancy and maternity discrimination
-race discrimination
-religion or belief discrimination
-sex discrimination
-sexual orientation discrimination
-Get more advice and support
-If you have any questions about discrimination, you can contact the:
-Equality Advisory and Support Service (EASS)
-You can find more detailed legal guidance on the Equality Act 2010 in the Employment: Statutory Code of Practice from the Equality
-and Human Rights Commission.
 2. How and when discrimination can happen
 Discrimination – including harassment and victimisation – can happen in any area of work.
 It can result from decisions made at work or from how people behave towards each other.
@@ -140,8 +118,6 @@ being surprised when a disabled person talks about their partner, children or ho
 disabled is somehow not able to live a 'normal' life
 asking "where are you really from?" when someone says they're British – this suggests thinking they're not really British and do
 not belong here
-What to do if you think discrimination is happening
-Find out more about the different types of discrimination and what to do if you think they're happening at work:
 direct discrimination – less favourable treatment directly because of a protected characteristic
 indirect discrimination – when everyone's treated the same but people with a protected characteristic are put at a disadvantage
 harassment – unwanted or offensive behaviour related to a protected characteristic
@@ -168,7 +144,6 @@ immediately opens an investigation and suspends Jamie's email access.
 The investigation leads to Jamie being disciplined with a final written warning. Jamie is also sent on further equality training.
 If Opeyemi chooses to make a claim to an employment tribunal, the employer's actions might help show it took all reasonable steps to
 stop discrimination from happening.
-Find out more about preventing discrimination
 4. Direct discrimination
 Direct discrimination is when someone is put at a disadvantage or treated less favourably because of a 'protected characteristic'.
 By law (Equality Act 2010), protected characteristics are:
@@ -203,7 +178,6 @@ When 'ordinary' direct discrimination might be allowed
 Sometimes direct discrimination is allowed if there is 'objective justification'. This means the employer is able to prove there's a good
 business reason.
 It only applies in some situations related to age and disability.
-Find out more about objective justification
 Discrimination by association
 'Discrimination by association' is a type of direct discrimination. It's also known as 'associative discrimination'.
 It means discriminating against someone because of their connection with either:
@@ -227,32 +201,12 @@ Example of discrimination by perception
 Ashley wears a rainbow bracelet to display commitment to LGBT+ equality. Some colleagues think this means Ashley is a lesbian and
 they draw offensive graffiti on Ashley's locker. Ashley is not a lesbian, so this is discrimination by perception on the grounds of sexual
 orientation.
-Find more examples
-Read more examples of direct discrimination in our advice on:
-age discrimination
-disability discrimination
-gender reassignment discrimination
-marriage and civil partnership discrimination
-pregnancy and maternity discrimination
-race discrimination
-religion or belief discrimination
-sex discrimination
-sexual orientation discrimination
 What you can do
 If you think you've been discriminated against at work, you should raise the issue with your employer. You can raise the problem
 informally or formally.
 If you're an employer, you should take any complaint of discrimination very seriously and look into it as soon as possible. You must
 follow a full and fair procedure.
 If you think someone else at work is being discriminated against, there are actions you can take.
-Find out more about:
-what to do if you've experienced discrimination
-how employers should handle a discrimination complaint
-witnessing discrimination
-Get more advice and support
-You can contact the:
-Equality Advisory and Support Service (EASS)
-You can find more detailed legal guidance on the Equality Act 2010 in the Employment: Statutory Code of Practice from the Equality
-and Human Rights Commission.
 5. Indirect discrimination
 Indirect discrimination is when a working practice, policy or rule is the same for everyone but has a worse effect on someone because
 of a 'protected characteristic'.
@@ -310,7 +264,6 @@ to prove it's within the law.
 Employers should always check whether there's another way to achieve their aim that either:
 does not discriminate
 discriminates less
-Find out more about objective justification
 Example of indirect sex discrimination
 A business is recruiting for a head of sales. In line with their usual recruitment policy, they only advertise the job internally. The only
 people who could apply internally are all men. The business does not intend to discriminate. But it could still be indirect discrimination
@@ -332,17 +285,6 @@ A business owner is prejudiced against people of Polish origin. They avoid recru
 lot of Polish people live there.
 This practice indirectly discriminates against Polish people. It could also indirectly discriminate against people who are not Polish but
 live in the same area. This is because they would be at the same disadvantage.
-Find more examples
-Read more examples of indirect discrimination in our advice on:
-age discrimination
-disability discrimination
-gender reassignment discrimination
-marriage and civil partnership discrimination
-race discrimination
-religion or belief discrimination
-sex discrimination
-sexual orientation discrimination
-Pregnancy and maternity discrimination
 Indirect discrimination does not apply to the protected characteristic of pregnancy and maternity. However, putting someone at a
 disadvantage because of pregnancy or maternity is likely to be indirect sex discrimination.
 Examples of this could include:
@@ -354,16 +296,7 @@ informally or formally.
 If you're an employer, you should take any complaint of discrimination very seriously and look into it as soon as possible. You must
 follow a full and fair procedure.
 If you think someone else at work is being discriminated against, there are actions you can take.
-Find out more about:
-what to do if you've experienced discrimination
-how employers should handle a discrimination complaint
-witnessing discrimination
 
-Get more advice and support
-You can contact the:
-Equality Advisory and Support Service (EASS)
-You can find more detailed legal guidance on the Equality Act 2010 in the Employment: Statutory Code of Practice from the Equality
-and Human Rights Commission.
 6. Harassment
 In discrimination law (Equality Act 2010) there are 3 types of harassment:
 harassment related to certain 'protected characteristics'
@@ -422,21 +355,12 @@ Taylor is an apprentice and is the only man in a team of women. Taylor is expect
 up. Several people make comments that "it's nice to see a man doing the chores for once". This becomes a common joke in the team.
 Taylor feels disrespected and intimidated. This behaviour is likely to be harassment on the grounds of sex.
 More examples of harassment related to a protected characteristic
-Find more examples of harassment related to a protected characteristic in our advice on:
-age discrimination
-disability discrimination
-gender reassignment discrimination
 
-race discrimination
-religion or belief discrimination
-sex discrimination
-sexual orientation discrimination
 Sexual harassment
 Sexual harassment is unwanted behaviour of a sexual nature.
 This type of harassment does not need to be related to a protected characteristic.
 For example, someone who thinks they've been sexually harassed does not need to show it was because of their sex or sexual
 orientation.
-Find out more about sexual harassment
 Less favourable treatment as a result of harassment
 This type of harassment is when someone experiences less favourable treatment because of how they responded to previous
 harassment.
@@ -472,16 +396,7 @@ formally.
 Anyone can report a harassment issue they've seen or heard at work, even if it's not directed at them.
 If you're an employer, you should take any complaint of harassment very seriously and look into it as soon as possible. You must
 follow a full and fair procedure.
-Find out more about:
-what to do if you've experienced harassment because of a protected characteristic
-witnessing discrimination
-how employers should handle a discrimination or harassment complaint
-Get more advice and support
-You can contact the:
-Equality Advisory and Support Service (EASS)
-You can find more detailed legal guidance on the Equality Act 2010 in the Employment: Statutory Code of Practice from the Equality
-and Human Rights Commission.
-Acas also offers free e-learning on bullying and harassment.
+
 7. Victimisation
 Victimisation is when someone is treated less favourably as a result of being involved with a discrimination or harassment complaint.
 Ways someone could be victimised include:
@@ -513,17 +428,6 @@ Luca was a witness at an employment tribunal, supporting a colleague who made a 
 Luca applies for a promotion and does not get it. A member of the selection panel says Luca is a troublemaker who supported a
 discrimination claim against the company.
 If this is the reason for the panel's decision, Luca is being victimised.
-Find more examples
-Read more examples in our advice on:
-age discrimination
-disability discrimination
-gender reassignment discrimination
-marriage and civil partnership discrimination
-pregnancy and maternity discrimination
-race discrimination
-religion or belief discrimination
-sex discrimination
-sexual orientation discrimination
 
 What you can do
 If you think you've been victimised at work, you should raise the issue with your employer. You can raise the problem informally or
@@ -531,12 +435,3 @@ formally.
 If you're an employer, you should take any complaint of victimisation very seriously and look into it as soon as possible. You must
 follow a full and fair procedure.
 If you think someone else at work is being victimised, there are actions you can take.
-Find out more about:
-what to do if you've experienced victimisation
-how employers should handle a victimisation complaint
-witnessing discrimination
-Get more advice and support
-You can contact the:
-Equality Advisory and Support Service (EASS)
-You can find more detailed legal guidance on the Equality Act 2010 in the Employment: Statutory Code of Practice from the Equality
-and Human Rights Commission.

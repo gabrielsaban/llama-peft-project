@@ -1,4 +1,5 @@
 Overtime: your rights
+
 1. Overview
 If you have normal working hours, overtime usually means any time you
 work beyond these hours.
@@ -6,25 +7,26 @@ Normal working hours are the hours fixed by your employment contract.
 Overtime pay
 Employers do not have to pay workers for overtime. However, your average
 pay for the total hours you work must not fall below the National Minimum
-Wage (/your-right-to-minimum-wage).
-Your employment contract (/employment-contracts-and-conditions) will usually
+Wage .
+Your employment contract  will usually
 include details of any overtime pay rates and how they’re worked out.
 Help and advice
-Contact Acas (/pay-and-work-rights) for free and confidential advice on
+Contact Acas  for free and confidential advice on
 working hours.
+
 2. Compulsory overtime
 You only have to work overtime if your contract says so.
 Even if it does, by law, you cannot usually be forced to work more than an
-average of 48 hours per week (/maximum-weekly-working-hours). You can
+average of 48 hours per week . You can
 agree to work longer - but this agreement must be in writing and signed by
 you.
 Unless your contract guarantees you overtime, your employer can stop you
 from working it.
-However, your employer cannot discriminate against anyone (/discriminationyour-rights/discrimination-at-work), for example by stopping some employees
+However, your employer cannot discriminate against anyone , for example by stopping some employees
 from working overtime while letting others do so.
 
 3. Part-time workers
-Usually, part-time workers (/part-time-worker-rights) must not be treated
+Usually, part-time workers  must not be treated
 less favourably than full-time staff.
 You’ll normally get paid at your hourly rate if you work longer hours than set
 out in your employment contract. Your employer will usually only pay
@@ -33,6 +35,7 @@ you work more than the normal working hours of full-time staff and fulltime staf
 you work at unsocial times (for example, late at night) and full-time staff
 would get more pay
 Your contract will say if your right to paid overtime is different.
+
 4. Time off and paid leave
 Time off in lieu (TOIL)
 Some employers give you time off instead of paying for overtime. This is

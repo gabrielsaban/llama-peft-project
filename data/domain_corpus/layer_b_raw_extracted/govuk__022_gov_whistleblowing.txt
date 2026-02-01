@@ -1,4 +1,5 @@
 Whistleblowing for employees
+
 1. What is a whistleblower
 You’re a whistleblower if you’re a worker and you report certain types of
 wrongdoing. This will usually be something you’ve seen at work - though not
@@ -8,31 +9,28 @@ disclosure’ or ‘protected disclosure’.
 The wrongdoing you disclose must be in the public interest. This means it
 must affect others, for example the general public.
 As a whistleblower you’re protected by law - you should not be treated
-unfairly or lose your job (/whistleblowing/treated-unfairly-after-whistleblowing)
+unfairly or lose your job 
 because you ‘blow the whistle’.
 You can raise your concern at any time about an incident that happened in
 the past, is happening now, or you believe will happen in the near future.
 Who is protected by law
-You’re protected if you’re a worker (/employment-status/worker), for example
+You’re protected if you’re a worker , for example
 you’re:
 an employee, such as a police officer, NHS employee, office worker,
 factory worker
 a trainee, such as a student nurse
 an agency worker
-a member of a Limited Liability Partnership (/business-legalstructures/limited-partnership-and-limited-liability-partnership) (LLP)
-Get independent advice if you’re not sure you’re protected, for example
-from Citizens’ Advice (http://www.adviceguide.org.uk/).
+a member of a Limited Liability Partnership  (LLP)
 Confidentiality or gagging clauses
 Confidentiality clauses or ‘gagging clauses’ (for example in an employment
 contract or settlement agreement) might try to prevent you from revealing
-
 information about your workplace. These are sometimes called nondisclosure agreements.
 These clauses are not valid if:
 you’re a worker
 they try to prevent you from making a whistleblowing disclosure
 (sometimes known as a ‘protected disclosure’)
 You might make this disclosure to a lawyer, your employer or a prescribed
-person or body (/whistleblowing/who-to-tell-what-to-expect).
+person or body .
 A confidentiality clause within a settlement agreement could however still be
 valid if it’s trying to prevent you from making another kind of disclosure.
 Talk to your legal adviser before you enter into a settlement agreement,
@@ -51,58 +49,6 @@ Complaints that do not count as whistleblowing
 Personal grievances (for example bullying, harassment, discrimination) are
 not covered by whistleblowing law, unless your particular case is in the
 public interest.
-Report these under your employer’s grievance policy (/solve-workplacedispute).
+Report these under your employer’s grievance policy .
 Contact the Advisory, Conciliation and Arbitration Service (Acas)
-
 dispute.
-2. Who to tell and what to expect
-You can tell your employer - they may have a whistleblowing policy that tells
-you what to expect if you report your concern to them. You can still report
-your concern to them if they do not have a policy.
-There are other options if you do not want to report your concern to your
-employer, for example you can get legal advice (/find-a-legal-adviser) from a
-lawyer, or tell a prescribed person or body (/government/publications/blowingthe-whistle-list-of-prescribed-people-and-bodies--2).
-If you tell a prescribed person or body, it must be one that deals with the
-issue you’re raising, for example a disclosure about wrongdoing in a care
-home can be made to the Care Quality Commission.
-There’s a different whistleblowing process in Northern Ireland
-(http://www.nidirect.gov.uk/protection-of-whistleblowers).
-Making your claim anonymously or confidentially
-You can tell your employer or a prescribed person anonymously but they
-may not be able to take the claim further if you have not provided all the
-information they need.
-You can give your name but request confidentiality - the person or body you
-tell should make every effort to protect your identity.
-If you report your concern to the media, in most cases you’ll lose your
-whistleblowing law rights.
-What your employer or a prescribed person will do
-Your employer or the prescribed person will listen to your concern and
-decide if any action is needed. You may be asked for further information.
-You must say straight away if you do not want anyone else to know it was
-you who raised the concern.
-You will not have a say in how your concern is dealt with.
-Your employer or the prescribed person can keep you informed about the
-action they’ve taken, but they cannot give you much detail if they have to
-keep the confidence of other people.
-
-A prescribed person cannot help you with your relationship with your
-employer.
-If you’re not satisfied with how your employer dealt
-with your concern
-Tell someone else (for example a more senior member of staff) or a
-prescribed person or body (/government/publications/blowing-the-whistle-list-ofprescribed-people-and-bodies--2) if you believe your concern was not taken
-seriously or the wrongdoing is still going on.
-Contact the Advisory, Conciliation and Arbitration Service (Acas)
-3. If you’re treated unfairly after
-whistleblowing
-You can take a case to an employment tribunal (/employment-tribunals) if
-you’ve been treated unfairly because you’ve blown the whistle.
-You can get further information from the Advisory, Conciliation and
-(http://www.adviceguide.org.uk/), the whistleblowing charity Protect
-(https://protect-advice.org.uk/) or your trade union.
-If you reported your concern anonymously, you may find it harder to argue
-that your unfair treatment was as a result of your whistleblowing.
-You must raise any claim of unfair dismissal within 3 months of your
-employment ending.
-You must notify Acas if you want to take your case to an employment
-tribunal.

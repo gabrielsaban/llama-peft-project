@@ -11,9 +11,6 @@ Equality
 Equality in the workplace means equal job opportunities and fairness for employees and job applicants.
 You must not treat people unfairly because of reasons protected by discrimination law ('protected characteristics'). For example,
 because of sex, age or race.
-Find out more about:
-discrimination and the Equality Act 2010
-preventing discrimination
 Diversity
 Diversity is the range of people in your workforce. For example, this might mean people with different ages, religions, ethnicities,
 people with disabilities, and both men and women. It also means valuing those differences.
@@ -84,7 +81,6 @@ use the job description and person specification to choose the best applicants
 have an inclusive attitude
 avoid making decisions based on what they think or believe about a person because of their protected characteristics (
 unconscious bias)
-Find out more about how to hire staff
 Training and development
 Equality, diversity and inclusion should also have a place in the training, development and promotion of staff. This includes:
 training and development for employees and managers, for example, so staff have access to opportunities without prejudice
@@ -93,10 +89,7 @@ new staff inductions, for example, so everyone gets on board straight away with 
 performance review processes and promotions, for example, so there are no questions about whether or not an employee fits
 in because of their protected characteristic
 Training should show why it's important to value everyone's differences and how to do this.
-Acas provides:
 
-training on equality, diversity and inclusion
-free e-learning on equality, diversity and inclusion
 Employees should feel they can apply for more senior roles, regardless of a protected characteristic.
 Equal pay
 You should check regularly that all employees doing equal work have equal:
@@ -105,7 +98,6 @@ benefits
 terms and conditions in their employment contracts
 The equal pay law is aimed at equal pay for men and women doing equal work. But pay discrimination claims could be made for any
 protected characteristic, for example age, disability, race or religion.
-Find out more about equal pay
 Religion and philosophical belief
 The law protects from discrimination, harassment and victimisation because of:
 religion
@@ -118,7 +110,6 @@ and that the incident is thoroughly investigated and handled fairly.
 You should also try to agree to employees' requests, where reasonable, for time off for religious festivals and to pray at work. Refusing
 a request for religious practice without a good business reason may be discrimination. This could also apply to other things such as
 dietary requirements.
-Find out more about religion or belief discrimination
 Dress code
 You should check your workplace dress code does not discriminate against any protected characteristics.
 Unacceptable behaviour
@@ -130,11 +121,9 @@ If you dismiss someone because of a protected characteristic, it could be discri
 employment tribunal.
 If someone is bullied or harassed but you do nothing to stop it and they leave their job, they could claim constructive dismissal at an
 employment tribunal.
-Find out more about dismissals
 Redundancy
 When selecting staff for redundancy, you should be careful to not make decisions affected by unconscious bias and protected
 characteristics.
-Find out more about selecting employees for redundancy
 Parents who are on leave
 You should make sure employees do not miss out on job or training opportunities and are informed about any important matters and
 changes in their workplace. This includes those who are away from work because of:
@@ -145,7 +134,6 @@ paternity leave
 adoption leave
 shared parental leave
 caring for children
-Find out about time off for care and support
 Flexible working
 Allowing employees flexible working where possible could avoid the risk of discrimination against an employee because of a protected
 characteristic.
@@ -153,7 +141,6 @@ For example, an employee might want to work flexibly because of:
 caring responsibilities
 health issues
 religious needs
-Find out more about flexible working
 Communication
 Employees are more likely to get onboard with your organisation's purpose and values if they:
 feel valued
@@ -178,9 +165,6 @@ You could also hold activities and events that encourage inclusion in the workpl
 Black History Month
 LGBT+ History Month
 Mental Health Awareness Week
-Related content
-/discrimination-and-the-law
-/supporting-disabled-people
 3. Unconscious bias
 How a person thinks can depend on their life experiences. Sometimes they have beliefs and views about other people that might not
 be right or reasonable.
@@ -206,8 +190,6 @@ affect recruiting managers' opinions
 at each stage, having more than one person sifting job applications, interviewing the applicants and deciding who gets the job
 allowing time to make decisions, for example on recruitment, promotions or grievance and disciplinary outcomes
 keeping a written record of why decisions were made
-Related content
-/what-an-employer-can-do-to-prevent-discrimination
 4. Monitoring forms and surveys
 To check equality, diversity and inclusion in your workplace, you can start by using the equality and diversity monitoring forms job
 applicants and employees have given you.
@@ -222,10 +204,6 @@ if you’re really recruiting and promoting people fairly
 if senior staff and managers are demonstrating the behaviours they expect of their staff
 This could lead you to make changes to your equality, diversity and inclusion policy, its supporting action plan or a particular workplace
 practice.
-Related content
-/equality-and-diversity-monitoring-form-template
-/ethnicity-pay-gap-reporting
-/gender-pay-gap-reporting
 5. If employees feel excluded
 If you find out that employees feel excluded, you, managers or HR managers can help them by:
 talking openly with them
@@ -238,5 +216,3 @@ If an employee does not agree with the values or workplace culture of your organ
 Holding exit interviews with employees who are leaving can:
 give the chance to find out if they’re leaving because they felt excluded or held back in some way
 give you useful feedback on what you could change in the future
-Related content
-/discrimination-and-the-law

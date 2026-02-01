@@ -62,7 +62,6 @@ Employees can decide to take shared parental leave. This gives more choice in ho
 child.
 Shared parental leave allows maternity or adoption leave to end early and the remaining leave be shared between the parents.
 One parent can take shared parental leave instead of paternity leave or after they've taken paternity leave.
-Find out more about shared parental leave
 Ordinary parental leave
 Parents have the right to unpaid time off work when they need to look after their children.
 This is called 'ordinary parental leave' or unpaid parental leave.
@@ -71,7 +70,6 @@ starting on the day their:
 baby is born
 adoption placement starts
 They can then take their statutory paternity leave afterwards. Employers cannot refuse employees taking parental leave in this way.
-Find out more about ordinary parental leave
 Neonatal care leave
 Neonatal care leave allows parents to have additional time off to be with a baby who is receiving neonatal care. The law is the
 Neonatal Care (Leave and Pay) Act 2023. It comes into effect on 6 April 2025.
@@ -79,7 +77,7 @@ The right to take neonatal care leave applies from the first day of work. Eligib
 has been in neonatal care for at least 7 consecutive days.
 Parents who have a baby admitted to neonatal care up to the age of 28 days might be eligible for up to 12 weeks of leave. This
 includes fathers and partners of birth parents.
-Find out more about neonatal care leave
+
 2. Taking paternity leave
 An employee can choose to take either 1 or 2 weeks' statutory paternity leave.
 They can take the leave as either:
@@ -161,7 +159,6 @@ Employees can take up to 12 weeks leave and pay depending on how long their baby
 Employees are not able to take 2 types of leave at the same time. Neonatal care leave will be added onto the end of paternity leave if:
 they have already booked paternity leave
 the paternity leave is at the same time the baby is in neonatal care
-Find out more about neonatal care leave and pay
 If there's a stillbirth or death soon after birth
 If there's a stillbirth or the baby dies soon after birth, it might be difficult for the employee to tell their employer. The employer should
 allow for someone else to tell them, for example the employee's family member or friend.
@@ -188,7 +185,6 @@ A miscarriage means a pregnancy loss in the first 24 weeks.
 Employees are not entitled to statutory paternity leave after a miscarriage. However, many people would still consider miscarriage a
 bereavement. The employer should still consider offering time off at what can be an extremely difficult time, both physically and
 emotionally.
-Find out more about:
 if an employee or their partner has a stillbirth or miscarriage
 supporting an employee after a death
 Paternity leave law before 6 April 2024
@@ -199,10 +195,7 @@ the adoption placement started on or before 5 April 2024
 Previously, employees:
 could choose to take 1 or 2 weeks of leave but had to take it all in one block
 had to take the leave within 8 weeks of the birth of start of adoption placement
-Get more advice and support
-You can also:
-check if you can get paternity leave or pay on GOV.UK
-use the paternity calculator for employers on GOV.UK
+
 3. Statutory paternity pay
 By law, an employer must pay statutory paternity pay to an employee or worker if they're eligible for it.
 Statutory paternity pay is either of the following, whichever is lowest:
@@ -235,7 +228,6 @@ It might not always be possible for an employee to give notice in the required t
 and the employee must give the notice without any further delay.
 Neonatal care pay
 Parents who have a baby in neonatal care might be eligible for up to 12 weeks of neonatal care pay.
-Find out more about neonatal care pay
 If someone is not eligible for statutory paternity pay
 If an employee or worker is not eligible for statutory paternity pay, their employer must tell them in writing. The employer must do this
 within 28 days of receiving the person's notice.
@@ -266,7 +258,6 @@ the partner of someone who's pregnant
 an intended parent in a surrogacy – they will be applying for a parental order
 the 'secondary adopter'
 5. Adoption
-
 When a couple adopt a child, one person is the 'main adopter' and one is the 'secondary adopter'.
 The main adopter can take adoption leave and pay. The secondary adopter can take paternity leave.
 They cannot change or swap which one they're taking once they have informed their employers.
@@ -378,7 +369,6 @@ Experiencing a disrupted adoption can be very upsetting. Employers should be fle
 family member or friend.
 The employer should treat anyone affected by the disrupted adoption with care and support. They may want to take time off before
 returning to work. The employer should discuss the options with them.
-Find out more about supporting an employee after a death
 6. Surrogacy
 If someone is using a surrogate parent to have a baby and they or their partner have a genetic link to the child, they can apply for a
 'parental order'.
@@ -459,7 +449,6 @@ This could be to help their child or partner when there's an unexpected:
 illness
 injury
 change in care arrangements
-Find out more about time off for dependants
 Taking more time off
 There are ways someone can take more time off to be with their child.
 Ordinary parental leave
@@ -467,7 +456,5 @@ Parents have the right to 'ordinary parental leave'. This is unpaid time off wor
 Each parent can take:
 up to 18 weeks for each child up to their 18th birthday
 a maximum of 4 weeks a year for each child
-Find out more about ordinary parental leave
 Shared parental leave
 Eligible parents can get up to 50 weeks of shared parental leave.
-Find out more about shared parental leave

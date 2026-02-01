@@ -19,7 +19,6 @@ training
 Employers should try these things first before starting a formal disciplinary procedure.
 Some employers might use a separate 'capability procedure' instead of a disciplinary procedure. This must still be in line with the Acas
 Code of Practice on disciplinary and grievance procedures.
-Find out more about dealing with problems with an employee's performance
 What counts as misconduct
 Misconduct is when an employee's inappropriate behaviour or action breaks the organisation's rules.
 Some misconduct examples include:
@@ -87,26 +86,20 @@ mental health problems
 existing mental health problems getting worse
 For example, as well as regular communication, the employer could arrange any meetings in a more private and comfortable location if
 this would help the employee.
-Find out more about supporting mental health at work
 
 If the employee raises a grievance
 If the employee raises a grievance during the disciplinary procedure, the employer can pause the disciplinary and deal with the
 grievance first.
 It might be appropriate to deal with both at the same time if the grievance and disciplinary cases are related.
-Find out more about dealing with grievances at work
 If the employee wants to resign
 The employee might want to resign or feel they have to leave when facing a disciplinary.
 This could lead to the employee later claiming constructive dismissal at an employment tribunal. They can only do this if they have
 worked for the organisation for 2 years or more.
 The employer should try and talk through any concerns with the employee. They should give them the chance to change their decision
 to resign.
-Find out more about resignation and dismissals
-Related content
-/acas-guide-to-discipline-and-grievances-at-work
 3. Step 3: Carrying out an investigation
 To follow a fair procedure, the employer must carry out an investigation. This is to get as much information as they reasonably can
 about their employee's alleged misconduct or poor performance.
-Find out more about investigations at work
 4. Step 4: The hearing
 Where the investigation shows the employee has a case to answer, the employer should ask them to a disciplinary 'hearing'. This is a
 meeting where the employer hears all the evidence before making a decision.
@@ -162,7 +155,6 @@ talk with the employee during the hearing
 take notes
 sum up the employee's case at the end of the hearing
 The employer might agree to allow the companion to answer questions on behalf of the employee. But this is not a legal requirement.
-You can find more detailed advice on holding disciplinary hearings in the Acas guide to discipline and grievances at work.
 At the end of the hearing
 The employer should take some time after the hearing to consider the case carefully before making a decision.
 The employer should:
@@ -184,11 +176,8 @@ The employer might decide they need to carry on with the hearing without the emp
 give them the chance to submit a written statement.
 They should consider all the evidence and tell the employee of their decision in writing. They should also tell them of their right of
 appeal.
-Find out more about managing sickness absence
-Related content
-/acas-code-of-practice-on-disciplinary-and-grievance-procedures
-5. Step 5: Deciding the outcome
 
+5. Step 5: Deciding the outcome
 After following a fair disciplinary procedure, the employer should decide on the best outcome based on:
 the findings from the investigation and meetings
 what is fair and reasonable
@@ -240,7 +229,7 @@ For example, instead of dismissal, the employer could decide to demote the emplo
 less responsibility.
 Employers must first check what the employment contract allows and discuss it fully with the employee. The employee has the right to
 be accompanied in this meeting.
-You can find more detailed advice on other disciplinary actions in the Acas guide to discipline and grievances at work.
+
 Dismissal
 The employer might dismiss the employee. They could end their contract in either of these cases:
 'gross misconduct' – when the employee has done something that's very serious or has very serious effects, for example fraud
@@ -255,13 +244,12 @@ their right of appeal
 The employer must follow a fair and reasonable disciplinary procedure before deciding on dismissal. An employment tribunal takes this
 into account if an employee claims unfair dismissal.
 
-Find out more about dismissals
 The employee's right of appeal
 The employer should offer the employee the right of appeal.
 This is so the employee can raise an appeal if they feel:
 the outcome is too severe
 any stage of the disciplinary procedure was wrong or unfair
-Find out more about appealing a disciplinary outcome
+
 6. Step 6: After the disciplinary
 After a disciplinary procedure has finished, employers might want to talk about it to individual staff.
 Talking to staff
@@ -279,7 +267,6 @@ be confidential
 only be kept for as long as necessary
 You can:
 use our disciplinary record template
-find out more about data protection and employment records from the Information Commissioner's Office (ICO)
 References after disciplinary action
 By law, an employer does not have to provide a reference.
 When an employer gives a reference, it must be:
@@ -288,10 +275,3 @@ fair
 accurate
 consistent with others
 This means they might have to give information about disciplinary actions or investigations.
-Find out more about references
-Get more advice and support
-Acas also provides:
-training on discipline and grievance
-free webinars – including on disciplinary procedures
-tailored support for employers
-free e-learning on discipline and grievance

@@ -1,5 +1,4 @@
-Disciplinary procedures and
-action against you at work
+Disciplinary procedures and action against you at work
 1. Overview
 Your employer could start formal disciplinary action against you if they have
 concerns about your work, conduct or absence.
@@ -22,31 +21,24 @@ Disciplinary steps
 Your employer’s disciplinary procedure should include the following steps:
 1 A letter setting out the issue.
 2 A meeting to discuss the issue.
-
 3 A disciplinary decision.
 4 A chance to appeal this decision.
-Acas (Advisory, Conciliation and Arbitration Service)
 Your employer’s disciplinary procedures should follow the Acas Code of
 Practice on disciplinary and grievance procedures
 Your employer does not have to follow the Acas code. However, if they
-do not and you win an employment tribunal (/employment-tribunals)
+do not and you win an employment tribunal 
 against them, you could get a larger payout.
-There’s more guidance about how employers should run disciplinaries in the
-Acas guide on discipline and grievances at work
 Disciplinary procedures and employment contracts
 Your employer can also put their disciplinary procedures in your
-employment contract (/employment-contracts-and-conditions).
+employment contract .
 If your employer does this and then does not follow these procedures
 you could sue them for breach of contract.
-Northern Ireland
-Northern Ireland has different ways of solving workplace disputes
-(https://www.nidirect.gov.uk/information-and-services/employment/resolvingworkplace-disputes).
+
 3. Disciplinary hearings
 Your employer should not take any disciplinary action before meeting with
 you first and discussing the problem.
 This disciplinary meeting (normally called a ‘hearing’) should be at a
 reasonable time and place.
-
 At the hearing your employer should:
 explain the complaint against you
 go through the evidence
@@ -74,16 +66,16 @@ Disciplinary action
 After the hearing your employer should write to you as soon as possible,
 saying what action they’re going to take, and telling you about your right to
 appeal.
-
 The decision might be:
 no action
 written warning
 final warning
 demotion
-dismissal (/dismissal)
+dismissal 
 It might also be anything else that could resolve the problem, for example
 an agreement to mediate with a co-worker you’ve had personal problems
 with.
+
 4. Disciplinary appeals
 If you think disciplinary action taken against you is unfair you can appeal.
 Write to your employer saying you’re appealing and why.
@@ -97,14 +89,14 @@ you’ll have the right to bring a companion.
 Final decision
 After the appeal meeting your employer should write to you with their final
 decision.
+
 5. Suspension from work
 When a disciplinary issue is being looked into you might be suspended from
 work. This does not happen very often. If it does it should normally be with
 pay and you should be told why you’re being suspended.
 Employment contracts
 You can be suspended without pay if your employment contract
-(/employment-contracts-and-conditions) says your employer can do this, but
-
+ says your employer can do this, but
 they must be acting reasonably.
 If your employment contract does not say your employer can do this, your
 employer may still be able to suspend you, but with pay. To show that it’s
@@ -120,32 +112,3 @@ customers and/or suppliers. If this means you cannot defend yourself
 properly at a disciplinary hearing, you could make an appeal.
 But if you’ve been asked not to talk and you do, your employer might decide
 to take further disciplinary action against you.
-6. Help and advice with disciplinary
-issues
-There are several organisations that could give you advice about
-disciplinary issues.
-Acas (the Advisory, Conciliation and Arbitration Service) offers free,
-confidential and impartial advice about all employment rights issues.
-Monday to Friday, 8am to 6pm
-Find out about call charges (/call-charges)
-Citizens Advice
-Your local Citizens Advice (https://www.citizensadvice.org.uk/) can also give
-free and impartial advice.
-
-Trade unions
-If you’re a member of a trade union you can get help and advice from them.
-Equality Advisory Support Service
-Contact the Equality Advisory Support Service for advice about
-discrimination, equality and human rights.
-FREEPOST
-Equality Advisory Support Service
-FPN4431
-EASS helpline
-Online contact form (http://www.equalityadvisoryservice.com/app/ask)
-Telephone: 0808 800 0082
-Textphone: 0808 800 0084
-Monday to Friday, 9am to 8pm
-Saturday, 10am to 2pm
-Find out about call charges (/call-charges)
-You can also find more information on the Equality Advisory Support Service
-(http://www.equalityadvisoryservice.com) website.

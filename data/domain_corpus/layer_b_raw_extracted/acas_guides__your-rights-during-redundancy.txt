@@ -15,7 +15,6 @@ In this case, before dismissing you, your employer must follow a disciplinary pr
 Your employer might try and look at other options before deciding on redundancies. For example, changing working hours, offering
 voluntary redundancy or moving employees into suitable alternative vacancies.
 Before your employer selects anyone for redundancy, they might need to follow a consultation and selection process.
-Find out more about how your employer must consult
 What an employer should tell employees
 Your employer should tell all employees as soon as possible that they are considering making redundancies. They should explain:
 which roles are at risk of redundancy
@@ -32,7 +31,7 @@ You have your usual employee rights to a fair redundancy process in a TUPE trans
 a new employer. TUPE means Transfer of Undertakings (Protection of Employment).
 If there are redundancies after a TUPE transfer, consultation can start before the transfer and continue after. Your employer should not
 select employees for redundancy before the transfer takes place.
-Find out more about TUPE and redundancy
+
 2. Volunteering for redundancy
 When your employer is proposing to make redundancies and your role is at risk, you can put yourself forward for redundancy before
 being selected. This is called 'voluntary redundancy'.
@@ -45,7 +44,7 @@ Your employer does not have to agree to make you redundant as they will be consi
 example, if you're highly skilled and experienced in your role, they might need to keep you on.
 Your employer does not have to offer voluntary redundancy to everyone. But if you feel they stopped you volunteering because of your
 sex, age, disability or another 'protected characteristic', it could be discrimination.
-Find out more about discrimination
+
 3. How your employer must consult
 If your employer is proposing to make 20 or more redundancies, they must hold collective consultation.
 If your employer is proposing to make fewer than 20 redundancies, they should consult with you individually.
@@ -54,7 +53,6 @@ You are not likely to be an employee if you're:
 an agency worker
 a casual worker
 on a zero-hours contract
-Find out more about when consultation is legally required
 
 What to discuss at the consultation
 The consultation is a chance for your employer to talk about the changes they're proposing and why you're at risk of redundancy.
@@ -112,9 +110,7 @@ talking to other representatives and working out a collective employee response
 meeting with your employer to discuss the employee response
 engaging in open discussions to solve problems and reach agreements
 telling you the outcome of the consultation
-Find out more about collective consultation
-Related content
-Podcast – redundancy and your rights
+
 4. How you're selected
 Your employer might group together similar roles in a 'selection pool' to make sure redundancies are decided fairly.
 They might also use agreed criteria to choose who to make redundant from the selection pool.
@@ -152,7 +148,7 @@ concerns you've raised about whistleblowing
 Your employer must also not use criteria that indirectly discriminate against you. For example, if they use flexible working as one of the
 criteria, this could be sex discrimination. This is because women are more likely to have caring responsibilities that can make it harder
 to change their working hours. They would need to show that flexible working is no longer possible after the organisation has changed.
-Find out more about indirect discrimination
+
 5. When you're given notice
 If you're selected for redundancy, your employer must give you notice. They can only give notice once they've finished the consultation
 and selection process.
@@ -170,9 +166,6 @@ if you can leave before the end of your notice period
 if you need to take any unused holiday before you leave
 if you'll still get contractual benefits, for example a fuel card or mobile phone, during your notice period
 how to request time off to arrange training or find a new job
-Find out more about:
-notice periods
-final pay when someone leaves a job
 If your employer withdraws your notice
 Once your employer has given you notice of redundancy, including the date your employment will end, they cannot withdraw it unless
 you agree.
@@ -209,8 +202,7 @@ they will not give you redundancy pay if you leave early
 If you still decide to leave early, your employer might say that you have resigned and are not entitled to redundancy pay.
 If this happens, you can make a claim to an employment tribunal. The tribunal judge would decide if your employer should pay all, part
 or none of the redundancy pay.
-Related content
-Podcast – redundancy and your rights
+
 6. Redundancy pay
 You have the right to statutory redundancy pay if you:
 are selected for redundancy
@@ -241,7 +233,6 @@ Weekly pay should also include:
 'guaranteed overtime' agreed in your contract – this is overtime your employer must offer and you must work
 any contractual bonuses or commission you're entitled to
 If your weekly pay varies, your redundancy pay will be based on your average hourly rate over a 12-week period.
-Find out how to work out average pay for bonuses and commission on GOV.UK
 If you're aged 21 or under
 Your employer must give you half a week's pay for each full year you've worked.
 If you're aged 22 to 40
@@ -299,15 +290,12 @@ If you still do not get paid, you can make a claim to an employment tribunal. Th
 either:
 6 months minus 1 day from the date your job ends – for a statutory redundancy pay claim
 3 months minus 1 day from the date your job ends – for a contractual redundancy pay claim
-Find out more about employment tribunals
 If your employer is insolvent
 If your employer is insolvent, you can apply for redundancy pay from the government's Redundancy Payments Service (RPS).
-Find out about your rights if your employer is insolvent on GOV.UK
 If your employer is no longer trading but has not registered as insolvent, you might be able to either:
 make a claim to an employment tribunal
 contact the Redundancy Payment Service if your employer registers as insolvent later
-Related content
-Redundancy pay after a TUPE transfer
+
 7. Suitable alternative employment
 Redundancy only applies to those with the legal status of employee.
 You are not likely to be an employee if you're:
@@ -358,8 +346,6 @@ You should try and reach an agreement by raising it informally first. You can do
 If you've already tried to resolve things informally, you can raise a grievance. This is where you make a formal complaint to your
 employer.
 
-Related content
-Podcast – redundancy and your rights
 8. Appealing a redundancy
 If you think you were selected unfairly or there was a problem in the redundancy process, your employer should offer you the chance
 to appeal.
@@ -395,11 +381,7 @@ your employer did not follow a fair process
 your employer did not hold genuine and meaningful consultation before making redundancies
 your employer failed to consider alternatives to redundancy
 there was a suitable alternative role available that your employer failed to offer you
-Find out more about:
-unfair dismissal
-time limits and making a claim to an employment tribunal
-Related content
-/how-to-raise-a-problem-at-work
+
 9. Finding a job with a new employer
 If you've been made redundant, your employer must allow you a reasonable amount of time off during your notice period to:
 look and apply for another job
@@ -426,18 +408,3 @@ Example of paid time off
 Robyn has been selected for redundancy. Their normal pay is £500 for a 5-day working week.
 They take 5 days off to apply for new jobs during their 12-week notice period.
 Robyn is paid £200 for this time off, the equivalent of 2 days. This is 40% of a week's pay for Robyn, which is the statutory limit.
-Organisations that can help
-There are government organisations that can help you find work or gain new skills to get a new job after redundancy.
-England
-The Jobcentre Plus Rapid Response Service can help you:
-find work
-write or update your CV
-get training or new skills
-Find out more about the Rapid Response Service on GOV.UK
-Scotland
-Partnership Action for Continuing Employment (PACE) is a Scottish government service that supports those dealing with redundancy.
-You can get free, confidential advice from career experts.
-Find support for redundancy on the PACE website
-Wales
-ReAct+ is a Welsh Government programme that provides tailored support to get people back into employment.
-Find out more about ReAct+ from the Welsh Government

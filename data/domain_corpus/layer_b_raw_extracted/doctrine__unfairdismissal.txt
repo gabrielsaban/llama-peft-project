@@ -1,17 +1,5 @@
-BRIEFING PAPER
-Number CBP 4526, 20 June 2018
-Unfair dismissal:
-By Doug Pyper
-qualifying service rule
-Contents:
-1. The qualifying period
-2. History
-www.parliament.uk/commons-library | intranet.parliament.uk/commons-library | papers@parliament.uk | @commonslibrary
+Unfair dismissal: qualifying service rule
 
-2 Unfair dismissal: qualifying service rule
-Cover page image copyright Click & browse to copyright info for stock image
-
-3 Commons Library Briefing, 20 June 2018
 Summary
 Employees acquire the right not to be unfairly dismissed after two years of continuous
 employment with their employer. The two-year period was implemented by the Unfair
@@ -26,7 +14,6 @@ The qualifying period applies to normal unfair dismissal claims. Besides these, 
 deems certain reasons for dismissal to be “automatically unfair”. If dismissal is for one of
 these reasons the qualifying period will generally not apply.
 
-4 Unfair dismissal: qualifying service rule
 1. The qualifying period
 With effect from 6 April 2012 the normal qualifying period of
 continuous employment for unfair dismissal rights was increased to two
@@ -47,6 +34,7 @@ one deemed by statute to be “automatically unfair”. Most, but not all,
 types of automatically unfair dismissal are not subject to a qualifying
 period. Additionally, protection against discrimination is not subject to
 any qualifying period.
+
 1.1 Automatically unfair dismissal
 The provisions for automatically unfair dismissal are found mainly in
 sections 99 – 108 of the Employment Rights Act 1996, although others
@@ -68,9 +56,6 @@ occupational pension scheme
 • Employee representatives – dismissal for performing or
 proposing to perform any functions as an employee representative
 or candidate for election in respect of employees’ rights to be
-1 Employment Rights Act 1996, section 210(4)
-
-5 Commons Library Briefing, 20 June 2018
 consulted in the event of proposed multiple redundancies or
 sale/transfer of the employing business
 • Whistleblowing – dismissal for making a protected disclosure
@@ -114,26 +99,6 @@ related to union membership
 during the 12 weeks of “protected industrial action” under
 section 238A of the Trade Union and Labour Relations
 (Consolidation) Act 1992
-• Information and consultation
-─ dismissal for exercising rights under the Information and
-Consultation of Employees Regulations 2004
-
-6 Unfair dismissal: qualifying service rule
-─ dismissal in connection with information and consultation
-rights of occupational and personal pension scheme
-members -Occupational and Personal Pension Schemes
-(Consultation by Employers and Miscellaneous Amendment)
-Regulations 2006
-─ dismissal in connection with rights in respect of European
-Cooperative Societies - European Cooperative Society
-(Involvement of Employees) Regulations 2006
-─ dismissal in connection with the rights of employees
-involved in cross-border mergers -Companies (Cross-Border
-Mergers) Regulations 2007
-─ dismissal in connection with the rights of employees of
-European public limited liability companies - European
-Public Limited-Liability Company (Employee Involvement)
-(Great Britain) Regulations 2009
 • Recognition of trade union – dismissal for a reason relating to
 obstruction or promotion of official recognition of a trade union
 • Right to be accompanied at disciplinary or grievance
@@ -163,9 +128,6 @@ automatically unfair in six specified health and safety cases,2 as follows:
 1 The employee was carrying out or proposed to carry out activities
 in connection with prevention of health and safety risks at work,
 having been designated to do so by the employer.
-2 This implemented the EC Health and Safety Framework Directive 89/391
-
-7 Commons Library Briefing, 20 June 2018
 2 The employee, being an appointed safety representative,
 performed or proposed to perform his duties as such.
 3 The employee was exercising rights under the Health and Safety
@@ -183,7 +145,6 @@ protect themselves or others from danger which they reasonably
 believed to be serious and imminent, unless those steps were so
 negligent that dismissal would be justified.
 
-8 Unfair dismissal: qualifying service rule
 2. History
 The right to claim unfair dismissal was introduced by the Industrial
 Relations Act 1971. At that time the qualifying period was two years.3 It
@@ -221,18 +182,6 @@ Perez, the Court of Appeal ruled that the two-year qualifying period
 was discriminatory in certain circumstances.9 Ms Seymour-Smith and
 Ms Perez were both dismissed in May 1991 after having been employed
 for fifteen months by their employers. The Unfair Dismissal (Variation of
-3 Section 28
-4 Schedule 1, para 10
-5 Industrial Relations Act 1971, s27(1)(f)
-6 Schedule 16, Part II, para 14 - brought into force on 1 February 1977 by the
-Employment Protection Act 1975 (Commencement No 6) Order (1976 SI
-1976/1996)
-7 Regina v Secretary of State for Employment ex parte Equal Opportunities
-Commission and Another [1994] UKHL 2
-8 The Employment Protection (Part-time Employees) Regulations 1995 (SI 1995/31)
-9 [1995] ICR 919
-
-9 Commons Library Briefing, 20 June 2018
 the Qualifying Period) Order 198510 had increased the qualifying period
 for unfair dismissal claims from one to two years' service, so both
 women had insufficient service to take their case to an industrial
@@ -280,13 +229,6 @@ currently under multiple jurisdictions (and including an unfair
 dismissal claim) will proceed under the other jurisdiction(s). We
 had previously assumed that half of such claims would be
 withdrawn. This means that the measure is now expected to
-10 SI 1985/782
-11 76/207/EEC
-12 R v Secretary of State for Employment, Ex Parte Seymour Smith and Another
-[2000] UKHL 12
-13 BIS & HMCTS, Resolving Workplace Disputes: a consultation, January 2011
-
-10 Unfair dismissal: qualifying service rule
 result in a reduction in tribunal claims of between 2,100 - 3,200
 claims, representing 4% - 7% of all unfair dismissal claims. When
 the wider impact of early conciliation is taken into account, the
@@ -332,34 +274,3 @@ the qualifying period for all businesses. 14
 The qualifying period was then increased to two years, by the Unfair
 Dismissal and Statement of Reasons for Dismissal (Variation of
 Qualifying Period) Order 2012 (SI 2012/989).
-14 BIS & HMCTS, Resolving Workplace Disputes: Government response to the
-consultation, November 2011
-
-About the Library
-The House of Commons Library research service provides MPs and their staff
-with the impartial briefing and evidence base they need to do their work in
-scrutinising Government, proposing legislation, and supporting constituents.
-As well as providing MPs with a confidential service we publish open briefing
-papers, which are available on the Parliament website.
-Every effort is made to ensure that the information contained in these publicly
-available research briefings is correct at the time of publication. Readers should
-be aware however that briefings are not necessarily updated or otherwise
-amended to reflect subsequent changes.
-If you have any comments on our briefings please email papers@parliament.uk.
-Authors are available to discuss the content of this briefing only with Members
-and their staff.
-If you have any general questions about the work of the House of Commons
-you can email hcenquiries@parliament.uk.
-Disclaimer
-This information is provided to Members of Parliament in support of their
-parliamentary duties. It is a general briefing only and should not be relied on as
-a substitute for specific advice. The House of Commons or the author(s) shall
-not be liable for any errors or omissions, or for any loss or damage of any kind
-arising from its use, and may remove, vary or amend any information at any
-time without prior notice.
-The House of Commons accepts no responsibility for any references or links to,
-BRIEFING PAPER
-or the content of, information maintained by third parties. This information is
-Number CBP 4526
-provided subject to the conditions of the Open Parliament Licence.
-20 June 2018

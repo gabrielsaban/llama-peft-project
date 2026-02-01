@@ -21,12 +21,12 @@ an uninterrupted 48 hours without any work each fortnight
 A worker’s employment contract may say they’re entitled to more or
 different rights to breaks from work.
 Work that puts health and safety at risk
-
 An employer should give an employee enough breaks to make sure their
 health and safety is not at risk if that work is ‘monotonous’ (for example,
 work on a production line).
 Domestic workers in a private house (for example, a cleaner or au pair) are
 not entitled to rest breaks for health and safety reasons.
+
 2. Taking breaks
 Employers can say when employees take rest breaks during work time as
 long as:
@@ -41,11 +41,12 @@ to:
 take smoking breaks
 get paid for rest breaks
 Exceptions and special circumstances
-There are exemptions (/rest-breaks-work/exceptions) to the rights to rest
+There are exemptions  to the rights to rest
 breaks.
-Some workers are entitled to compensatory rest breaks (/rest-breakswork/compensatory-rest), for example, shift workers.
-Young people (/rest-breaks-work/young-workers) and lorry and coach drivers
-(/drivers-hours) have different rights to rest breaks.
+Some workers are entitled to compensatory rest breaks , for example, shift workers.
+Young people  and lorry and coach drivers
+ have different rights to rest breaks.
+
 3. Compensatory rest
 Workers may be entitled to ‘compensatory rest’ if they do not have the right
 to specific rest breaks. Compensatory rest breaks are the same length of
@@ -53,7 +54,6 @@ time as the break (or part of it) that they’ve missed.
 A worker may be entitled to compensatory rest if:
 they’re a shift worker and cannot take daily or weekly rest breaks
 between ending one shift and starting another
-
 their workplace is a long way from their home (for example, an oil rig)
 they work in different places which are a reasonable distance from each
 other
@@ -73,8 +73,9 @@ workforce (a ‘collective’ or ‘workforce’ agreement) that has changed or
 removed rights to these rest breaks for a group of workers
 The total rest entitlement for a week is 90 hours a week on average -
 this does not include breaks at work, which are additional.
+
 4. Exceptions
-Workers are not entitled to the 3 general types of rest break (/rest-breakswork) if they work in:
+Workers are not entitled to the 3 general types of rest break  if they work in:
 the armed forces, emergency services or police and they’re dealing with
 an exceptional catastrophe or disaster
 a job where they freely choose what hours they work (like a managing
@@ -86,10 +87,10 @@ them different rest rights.
 Mobile workers not covered by any special rules usually have the right to
 regular rest so that their health and safety (or anyone else’s) is not put at
 risk.
-There are also special rules for young workers (/rest-breaks-work/youngworkers) and for lorry and coach drivers (/drivers-hours).
+There are also special rules for young workers  and for lorry and coach drivers .
 
 5. Young workers
-Young workers (above school leaving age (/know-when-you-can-leave-school)
+Young workers (above school leaving age 
 and under 18) are usually entitled to:
 a 30 minute rest break if they work more than 4.5 hours (if possible this
 should be one continuous break)
@@ -103,17 +104,14 @@ This is only where:
 there is no worker over 18 who can do the work
 the work is temporary and must be done immediately
 Compensatory rest for young workers
-Young workers have the right to compensatory rest (/rest-breakswork/compensatory-rest) if they are not entitled to daily rest or rest breaks at
+Young workers have the right to compensatory rest  if they are not entitled to daily rest or rest breaks at
 work. This is the same amount of rest that they should have had. It can be
 taken just after any rest they’ve missed but it must be taken within the
 following 3 weeks.
 6. Disputes
 Workers who cannot take or are not allowed rest breaks should speak to
 their manager informally.
-Get more information for employees who want to raise a grievance
-(/raise-grievance-at-work) or advice for employers on handling grievances
-(/handling-employee-grievance) if there is a disagreement about rest
-breaks.
+
 
 If a worker cannot solve a problem, they may be able to make a claim to an
-employment tribunal. (/employment-tribunals)
+employment tribunal. 

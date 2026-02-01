@@ -1,16 +1,15 @@
 Flexible working
+
 1. Overview
 Flexible working is a way of working that suits an employee’s needs, for
 example having flexible start and finish times, or working from home.
-Flexible working rules are different in Northern Ireland
-(http://www.nidirect.gov.uk/flexible-working).
 All employees have the legal right to request flexible working. Employees
 can request a change to:
 the number of hours they work
 when they start or finish work
 the days they work
 where they work
-This is known as ‘making a statutory application (/flexible-working/applying-forflexible-working)’.
+This is known as ‘making a statutory application ’.
 Employees can make a request for flexible working from their first day in a
 job.
 What employers must do
@@ -22,9 +21,10 @@ offering an appeal process
 Read the Advisory, Conciliation and Arbitration Service (Acas) code of
 
 If an employer does not handle a request in a reasonable manner, the
-employee can take them to an employment tribunal (/employment-tribunals).
+employee can take them to an employment tribunal .
 An employer can refuse an application if they have a good business reason
 for doing so.
+
 2. Types of flexible working
 There are different ways of working flexibly.
 Job sharing
@@ -53,9 +53,10 @@ rest of their hours flexibly or when there’s extra demand at work.
 Staggered hours
 The employee has different start, finish and break times from other workers.
 Phased retirement
-Default retirement age (/retirement-age) has been phased out and older
+Default retirement age  has been phased out and older
 workers can choose when they want to retire. This means they can reduce
 their hours and work part time.
+
 3. Applying for flexible working
 Employees can apply for flexible working from their first day in a job. This is
 known as ‘making a statutory application.’
@@ -68,7 +69,7 @@ employee.
 conditions in the employee’s contract.
 4 If the employer disagrees, they must tell the employee giving the
 business reasons for the refusal. The employee may be able to
-complain to an employment tribunal (/flexible-working/appeals).
+complain to an employment tribunal .
 The employer must discuss the employee’s request with them before
 refusing their application.
 Employees can make 2 applications for flexible working in any 12-month
@@ -79,7 +80,7 @@ An employee should email or write a letter to their employer. The Advisory,
 Conciliation and Arbitration Service (Acas) has a flexible working request
 employees can use.
 Employers may ask employees to use a standard form to make an
-application (/government/publications/the-right-to-request-flexible-working-form).
+application .
 What the email or letter must include
 The application must include:
 the date of the request
@@ -96,6 +97,7 @@ The employer can treat an application as withdrawn if the employee misses
 example sickness.
 The employer must tell the employee they are treating the request as
 withdrawn.
+
 4. After the application
 Employers must consider flexible working requests in a ‘reasonable
 manner’.
@@ -109,7 +111,7 @@ a statement of the agreed changes
 a start date for flexible working
 Acas has a flexible working request outcome template
 employers can use.
-The employer should also change the employee’s contract (/youremployment-contract-how-it-can-be-changed) to include the new terms and
+The employer should also change the employee’s contract  to include the new terms and
 conditions.
 This should be done as soon as possible but no later than 28 days after the
 request was approved.
@@ -137,12 +139,12 @@ appeals process.
 How to appeal
 The employee must follow the company’s procedures for appealing.
 The employee or employer should follow the company’s procedures for
-solving a workplace dispute (/solve-workplace-dispute) if an application that
+solving a workplace dispute  if an application that
 has been refused causes problems.
 Going to an employment tribunal
-Employees can complain to an employment tribunal (/employment-tribunals) if
+Employees can complain to an employment tribunal  if
 the employer:
-did not handle the request in a ‘reasonable manner’ (/flexibleworking/overview)
+did not handle the request in a ‘reasonable manner’ 
 wrongly treated the employee’s application as withdrawn
 dismissed or treated an employee poorly because of their flexible working
 request, for example refused a promotion or pay rise
@@ -151,7 +153,7 @@ Employees cannot complain to a tribunal just because their flexible
 working request was refused.
 An employee should complain to the tribunal within 3 months of:
 hearing their employer’s decision on their application or appeal
-hearing their request was treated as withdrawn (/flexible-working/applyingfor-flexible-working)
+hearing their request was treated as withdrawn 
 the date the employer should have responded to their request (but failed
 to do so)
 If an employer or employee is unsure of their rights, they should get

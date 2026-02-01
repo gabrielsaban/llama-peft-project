@@ -1,18 +1,5 @@
 Code of Practice on requests for flexible working
-6 April 2024
-Contents
-Foreword
-Notes
-The Code of Practice
-Introduction
-Making a statutory request for flexible working
-Considering a request for flexible working
-Communicating a decision about a request
-Handling an appeal
-Allowing an employee to be accompanied
-If the employee does not attend a meeting
-Deciding requests within the statutory decision period
-Protection from detriment and dismissal
+
 Foreword
 The Acas statutory Code of Practice on requests for flexible working is set out in paragraphs 1 to 38 below. This Foreword does not
 form part of the Code.
@@ -62,7 +49,6 @@ Employers must agree to a statutory request for flexible working unless there is
 business reasons are specified in the Employment Rights Act 1996 and set out in paragraph 9 of the Code.
 Where a request is rejected, clear communication about the reasoning, and impartial handling of any appeal, can help establish
 understanding and trust that the request has been handled reasonably.
-Further guidance on flexible working which accompanies this Code is provided on the Acas website.
 Notes
 This Code is issued under sections 199 and 200 of the Trade Union and Labour Relations (Consolidation) Act 1992 and was laid
 before both Houses of Parliament on 11 December 2023. It comes into effect by order of the Secretary of State on 6 April 2024. It

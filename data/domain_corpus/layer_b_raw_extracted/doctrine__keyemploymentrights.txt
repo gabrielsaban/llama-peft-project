@@ -1,155 +1,5 @@
-Research Briefing
-By Patrick Brione
 Key Employment Rights
-24 May 2024
-commonslibrary.parliament.uk
 
-Number CBP 7245 Key Employment Rights
-Contributing Authors
-Doug Pyper
-Disclaimer
-The Commons Library does not intend the information in our research
-publications and briefings to address the specific circumstances of any
-particular individual. We have published it to support the work of MPs. You
-should not rely upon it as legal or professional advice, or as a substitute for
-it. We do not accept any liability whatsoever for any errors, omissions or
-misstatements contained herein. You should consult a suitably qualified
-professional if you require specific advice or information. Read our briefing
-‘Legal help: where to go and how to pay’ for further information about
-sources of legal advice and help. This information is provided subject to the
-conditions of the Open Parliament Licence.
-Feedback
-Every effort is made to ensure that the information contained in these publicly
-available briefings is correct at the time of publication. Readers should be
-aware however that briefings are not necessarily updated to reflect
-subsequent changes.
-If you have any comments on our briefings please email
-papers@parliament.uk. Please note that authors are not always able to
-engage in discussions with members of the public who express opinions
-about the content of our research, although we will carefully consider and
-correct any factual errors.
-You can read our feedback and complaints policy and our editorial policy at
-commonslibrary.parliament.uk. If you have general questions about the work
-of the House of Commons email hcenquiries@parliament.uk.
-2 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
-Key Employment Rights
-8.2 Direct and indirect discrimination 27
-8.3 Harassment and victimisation 28
-8.4 Post-employment 29
-8.5 Equal pay 29
-8.6 Disability 29
-9 Facility time 31
-10 Family-related leave 33
-10.1 Maternity leave and pay 33
-10.2 Maternity Allowance 34
-10.3 Maternity suspension 35
-10.4 Adoption leave and pay 35
-10.5 Paternity leave and pay 35
-10.6 Shared Parental Leave and Pay 36
-10.7 Parental leave 37
-10.8 Ante-natal care 37
-10.9 Time off for dependants 38
-10.10 Bereavement leave and pay 39
-10.11 Carers leave 39
-11 Fixed-term employees 40
-11.1 Successive fixed-term contracts 41
-11.2 Protection from dismissal 41
-11.3 Remedies 41
-12 Flexible working 43
-12.1 Remedies 44
-13 Holiday 45
-13.1 Bank and public holidays 46
-14 Illegal working 48
-15 Industrial action 50
-15.1 Strike ballots 50
-4 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
-15.2 Protection from dismissal 51
-16 Insolvency 53
-17 National Minimum Wage 55
-17.1 Enforcement 55
-18 Notice 57
-18.1 Terms of notice periods 57
-18.2 Minimum notice periods 57
-18.3 Pay during notice 58
-18.4 Dismissal without notice 58
-19 Part-time workers 60
-19.1 Protection from dismissal 61
-20 Redundancy 62
-20.1 Consultation and information requirements 63
-20.2 Notification of Secretary of State 64
-21 References 65
-21.1 Access to references 65
-22 Retirement age 67
-23 Lay-offs and right to guarantee payments for workless days 69
-23.1 Exclusions from the right to guarantee payment 70
-23.2 Calculation of guarantee payment 70
-23.3 Complaints to employment tribunals 70
-24 Statement of initial employment particulars 71
-24.1 Remedies 71
-25 Statutory Sick Pay 73
-25.1 Employers’ right to recover SSP 74
-26 Suspension 75
-27 Transfer of undertakings & protection of employment 77
-5 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
-27.1 Relevant transfers 77
-27.2 Effect of the transfer 78
-27.3 Dismissal and changes to terms 79
-27.4 Variation of contract 79
-28 Unfair dismissal 81
-29 Variation of contract 84
-30 Whistleblowing 86
-30.1 Disclosure to prescribed persons 87
-30.2 Disclosure to non-prescribed persons 88
-30.3 Disclosure of exceptionally serious failures 88
-30.4 Remedies 89
-30.5 NHS recruitment 89
-30.6 Extension to office holders 89
-31 Working time 91
-31.1 Scope of the Regulations 91
-31.2 Working time limits 93
-31.3 Rest 94
-6 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
-Summary
-Current statutory employment rights in the UK stem from a variety of
-legislation, mostly a series of Acts and Regulations passed in the 1990s and
-early 2000s – chief among which is the Employment Rights Act 1996. Other
-key pieces of legislation are the Equality Act 2010, the Employment Relations
-Act 1999 and the Trade Union and Labour Relations (Consolidation) Act 1992.
-The enforcement of most rights relies on affected employees to bring a claim
-before an employment tribunal. Three of the most common rights about
-which tribunal cases are brought relate to unfair dismissal, unauthorised
-deduction from wages and working time.
-Unfair dismissal
-Part 10 of the Employment Rights Act 1996 provides employees with the right
-not to be unfairly dismissed. In most cases the employee must have two
-years’ continuous service with their employer to qualify to bring a claim.
-Broadly, it is for the employer to show that the dismissal was for a potentially
-fair reason (capability or qualifications, conduct, redundancy, statutory
-restriction of employment or some other substantial reason justifying
-dismissal). Once the employer has shown that (which it often easily does), the
-fairness of the dismissal depends on whether, in the circumstances, the
-employer had acted reasonably in treating the reason as sufficient for
-dismissing the employee.
-In assessing this, tribunals will look to whether the employer’s conduct in
-dismissing the employee fell within the range of reasonable responses to the
-reason for dismissal. The tribunal will also assess whether the employer
-followed a fair procedure, often by reference to the ACAS Code of Practice on
-Disciplinary and Grievance Procedures.
-There are many types of dismissal deemed automatically unfair. For example,
-dismissal for union membership, for asserting statutory rights or for familyleave related reasons. Many, although not all, of these reasons are set out in
-Part 10 of the Employment Rights Act 1996 and are discussed in more detail in
-other sections of this paper.
-7 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 Deduction from wages
 Section 13(1) of the Employment Rights Act 1996 provides that an employer
 cannot lawfully make deductions from wages unless entitled to by the
@@ -185,9 +35,7 @@ during which the worker is working, at the employer’s disposal and carrying
 out their activity or duties, or undertaking certain types of work-related
 training. Employment contracts or collective/workforce agreements may
 specify additional types of working time for the purposes of the Regulations.
-8 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 These Regulations do not apply to certain seafarers, transport workers or
 emergency services.
 The 48 hour weekly working limit does not apply where an employer has
@@ -218,9 +66,7 @@ key employment law issues such as:
 • Transfer of undertakings & protection of employment
 • Variation of contract
 • Whistleblowing
-9 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 1 Introduction
 Some of the rights are available only to “employees”, and some to
 “workers”. The difference between these two categories of individual is
@@ -250,10 +96,6 @@ law between NI and GB from the Labour Relations Agency of Northern Ireland.
 Alternatively MPs and their staff can contact the House of Commons Library
 with a bespoke request.
 1.2 Further information
-Two general other sources of advice are worth highlighting:
-1 Employment status, Commons Library Briefing, CBP-8045
-10 Commons Library Research Briefing, 24 May 2024
-
 Key Employment Rights
 • the Advisory, Conciliation and Arbitration Service is the principal
 statutory body charged with providing guidance on employment law; it
@@ -262,9 +104,7 @@ operates a free helpline for both employers and employees; and
 the application of the Equality Act 2010 – see their About us page for an
 overview of the assistance EASS provides, and their contact details to get
 in touch.
-11 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 2 Agency Workers
 Summary
 After 12 weeks agency workers become entitled to the same basic terms of
@@ -290,11 +130,7 @@ those relating to:
 • rest periods;
 • rest breaks; and
 • annual leave.3
-2 Agency Workers Regulations 2010, Regulation 6
-3 Agency Workers Regulations 2010, Regulations 5-6
-12 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 The right to the same pay does not include rights to all the same payments or
 rewards. For example, the following are excluded: occupational sick pay;
 pension or retirement benefits; maternity, paternity or adoption leave; and
@@ -305,6 +141,7 @@ canteen) as comparable workers, and have the right to be informed by the
 hirer of any relevant vacant posts.5 The hirer must also give agency workers
 the same opportunities as comparable workers to find permanent
 employment with the hirer.6
+
 2.2 Remedies
 An agency worker may complain to an employment tribunal if an
 agency/hirer has infringed their rights under the Regulations. If the agency
@@ -313,13 +150,7 @@ hirer/agency written information relating to their treatment, which must be
 provided within 28 days (regulation 16). Regulation 17 provides unfair
 dismissal rights for workers classed as “employees” who are dismissed for
 asserting rights under the Regulations.7
-4 Agency Workers Regulations 2010, regulation 6(2)-(3)
-5 Agency Workers Regulations 2010, regulations 12-13
-6 Agency Workers Regulations 2010, regulation 13(1)
-7 Agency Workers Regulations 2010, regulation 17
-13 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 3 Blacklisting
 Summary
 A “blacklist” is a list containing details of persons who have engaged in union
@@ -347,13 +178,7 @@ The general prohibition is subject to regulation 4, which identifies
 circumstances in which a person does not contravene the prohibition (e.g. the
 person does not know they are supplying a prohibited list or the list is used in
 relation to trade union appointments).
-8 Trade unions: blacklisting, Commons Library Briefing, SN6819, February 2015
-9 Employment Relations Act 1999 (Blacklists) Regulations 2010, regulation 3(1)
-10 Employment Relations Act 1999 (Blacklists) Regulations 2010, regulation 3(2)
-11 Employment Relations Act 1999 (Blacklists) Regulations 2010, regulations 5-6
-14 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 3.1 Remedies
 If an employer/agency refuses to employ a person for a discriminatory reason
 related to a prohibited list, that person may complain to an employment
@@ -361,11 +186,7 @@ tribunal, which may order compensation of between £5,000 and £65,300,
 and/or recommend action to reduce the adverse effect on the complainant.12
 An employee dismissed for a discriminatory reason related to a prohibited list
 may be regarded as unfairly dismissed.13
-12 Employment Relations Act 1999 (Blacklists) Regulations 2010, regulation 8(1)
-13 Employment Relations Act 1999 (Blacklists) Regulations 2010, regulation 12
-15 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 4 Bullying
 Summary
 Employers must take reasonable steps to ensure the health, safety and
@@ -402,25 +223,13 @@ employment. Harassment is not defined by the Act, but given its ordinary
 meaning by reference to what a reasonable person would think.
 If an employee’s bullying behaviour amounts to harassment under the
 Equality Act 2010, the employer may also be vicariously liable. Section 26
-14 Acas, If you’re treated unfairly at work, [accessed 16 August 2022]
-15 Acas, Handling a bullying, harassment or discrimination complaint at work, 18 November 2021
-16 Health and Safety at Work etc. Act 1974, section 2
-17 Management of Health and Safety at Work Regulations 1999 (SI 1999/3242)
-18 HSE, Violence at work [PDF], 2006
-16 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 defines harassment as engaging in unwanted conduct related to a “protected
 characteristic” which has the effect of violating a person’s dignity or creating
 an intimidating, hostile, degrading, humiliating or offensive environment for
 that person.19 The protected characteristics are set out in section 4 of the Act
 and include, for example, sex, race and disability (see below section on
 ‘Equality’). 20
-19 Equality Act 2010, section 26
-20 Equality Act 2010, section 4
-17 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 5 Criminal convictions
 Summary
 Prospective or current employees are not generally required to disclose
@@ -447,17 +256,9 @@ months;
 • a sentence of detention during Her Majesty's pleasure or for life under
 specified Acts (certain young offenders convicted of grave crimes or
 children convicted on indictment); and
-21 The Rehabilitation of Offenders Act 1974, Commons Library Briefing, SN1841, February 2021
-22 The retention and disclosure of criminal records, Commons Library Briefing, SN6441, February 2021
-23 Rehabilitation of Offenders Act 1974, section 4(2)(b)
-24 Rehabilitation of Offenders Act 1974, section 5(2)
-25 MoJ, Guidance on the Rehabilitation of Offenders Act 1974 and Exceptions Order 1975, November
-2020
-18 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • a sentence of imprisonment or detention for public protection, or an
 extended sentence for certain violent or sexual offences.26
+
 5.1 Exceptions
 The 1974 Act’s provisions excusing disclosure of spent convictions do not
 apply to a number of professions or types of work specified in the
@@ -486,14 +287,7 @@ to the DBS; the DBS will send the certificate to the job applicant; and the
 employer can then ask to see it. The DBS eligibility guidance on Gov.uk
 provides a detailed overview of the process and which occupations are
 eligible for basic, standard or enhanced DBS checks.29
-26 Rehabilitation of Offenders Act 1974, section 5(1)
-27 See: DBS referrals guide: A table of relevant offences in England, Wales, Scotland and Northern
-Ireland, September 2014
-28 Safeguarding Vulnerable Groups Act 2006, section 34ZA(1)
-29 DBS eligibility guidance, Gov.uk, 17 September 2018
-19 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 6 Deduction from wages
 Summary
 If an employer makes an unauthorised deduction from a worker’s wages, the
@@ -518,10 +312,7 @@ where the worker has agreed to this in writing or contractually;
 participation in a strike or other industrial action; or
 • the purpose of the deduction is the satisfaction of an order of a court or
 tribunal, provided the worker has agreed to this in writing.30
-30 Employment Rights Act 1996, section 14
-20 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 6.1 Definition of wages
 Section 27 of the 1996 Act defines “wages” for these purposes. The definition
 includes:
@@ -548,11 +339,6 @@ the worker's retirement or as compensation for loss of office;
 6.2 Remedies
 If an employer makes an unauthorised deduction from wages the employee
 may complain to an employment tribunal. The claim must be brought within
-31 Employment Rights Act 1996, section 27(1)
-32 Employment Rights Act 1996, section 27(2)
-21 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 three months of the failure to pay the wages. Where a series of deductions
 occurs, the time limit runs from the last deduction in the series.
 If the claim is well-founded the tribunal will order repayment. Any amount
@@ -562,6 +348,7 @@ was ordered to repay. This means that, if the employer makes the deduction
 in contravention of the Act, it repays the deduction and loses the right to
 make it again in compliance with the Act (for instance by obtaining written
 consent).33
+
 6.3 Two-year limit on back pay claims
 The Deduction from Wages (Limitation) Regulations 2014 (SI 2014/3322) came
 into force on 8 January 2014, ostensibly to limit potential holiday pay claims
@@ -571,12 +358,7 @@ overtime is part of normal remuneration for the purposes of calculating
 holiday pay. The Regulations also affect unlawful deduction from wages
 claims, limiting most claims to two years of back pay where a series of
 deductions has occurred.35
-33 Employment Rights Act 1996, section 25(4), (5)
-34 Bear Scotland Ltd and Others v Mr David Fulton and Others: UKEATS/0047/13/BI
-35 Regulation 2, inserting a new subsection (4A) into section 24 of the Employment Rights Act 1996
-22 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 7 Disciplinary and grievance
 Summary
 Workers have a statutory right to be accompanied to disciplinary and
@@ -599,15 +381,10 @@ grievance hearings; and
 • ACAS has issued a statutory Code of Practice which tribunals can take
 into account when determining relevant cases.
 Each of these are discussed below.
+
 7.1 The right to be accompanied
 Under section 10 of the Employment Relations Act 1999, a worker has a right
 to be accompanied to a disciplinary or grievance hearing where the worker:
-36 For example, see Hussain v Surrey and Sussex Healthcare NHS Trust [2011] EWHC 1670 (QB)
-37 The requirements were enacted under the Employment Act 2002, and later repealed by the
-Employment Act 2008
-23 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • is required or invited to attend the meeting; and
 • reasonably requests to be accompanied at the hearing.
 A disciplinary hearing is a hearing which could result in:
@@ -639,32 +416,7 @@ employment may provide additional rights (for instance, a right to be
 accompanied by someone who is neither a co-worker nor a union official). In
 rare cases, a court may hold that an employee has a right to be accompanied
 by someone who is neither a co-worker nor a union official.40
-38 Employment Relations Act 1999, section 13
-39 Employment Relations Act 1999, section 10
-40 This may occur where a refusal to permit a person would breach the employer’s contractual
-obligation not to act in a manner that destroys the relationship of trust and confidence between the
-24 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
-7.2 ACAS Code of Practice
-Although there are no longer any detailed requirements set out in legislation
-around disciplinary and grievance procedures, there is a Code of Practice
-produced by ACAS: the Code of Practice on Disciplinary and Grievance
-Procedures.41
-While a failure to follow the Code does not itself open employers to legal
-claims, it has indirect legal effect, as it is issued under statutory authority,
-and employment tribunals take account of it where relevant. In most types of
-employment case, where a tribunal finds that an employer or employee has
-unreasonably failed to comply with the Code, they have the power to increase
-or decrease respectively awards of compensation by up to 25%.42 43 In
-summary, the Code sets out guidance on the following:
-• establishing the facts of the case;
-• informing employees and allowing them time to prepare;
-• the means by which employees may set out their cases (e.g. presenting
-evidence and calling witnesses);
-• the right to be accompanied;
-• appropriate action; and
-• appeal hearings.44
 7.3 Dismissal
 If an employee is dismissed following a disciplinary process, and the
 employee sues for unfair dismissal, the Tribunal will look at whether the
@@ -674,13 +426,7 @@ ACAS Code of Practice.
 parties. For example, in Stevens v University of Birmingham [2015] EWHC 2300 (QB) the High Court
 held that a clinical member of academic staff was entitled to be accompanied by a medically
 qualified representative from the Medical Protection Society, who was not a union official.
-41 Acas Code of Practice on disciplinary and grievance procedures, 11 March 2015
-42 Trade Union and Labour Relations (Consolidation) Act 1992, section 199
-43 Trade Union and Labour Relations (Consolidation) Act 1992, section 207A
-44 Acas Code of Practice on disciplinary and grievance procedures, 11 March 2015
-25 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 8 Equality and discrimination
 Summary
 Part 5 of the Equality Act 2010 prohibits discrimination, harassment and
@@ -702,12 +448,7 @@ the following “protected characteristics”:
 • religion or belief;
 • sex;
 • sexual orientation.46
-Sections 5-12 provide individual definitions of these characteristics.
-45 EHRC, Equality Act 2010 Code of Practice, Employment Statutory Code of Practice, 2011
-46 Equality Act 2010, section 4
-26 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 8.2 Direct and indirect discrimination
 The Equality Act 2010 identifies two types of discrimination: direct and
 indirect.
@@ -743,14 +484,7 @@ employees:
 • in the arrangements they make for deciding whom to offer employment;
 • as to the terms on which they offers the person employment; or
 • by not offering that person employment.
-47 Equality Act 2010, Section 13
-48 Equality Act 2010, Section 19
-49 Equality Act 2010 Explanatory Notes, para 81
-50 Equality Act 2010, Section 19(2)(d)
-51 Citizens Advice, Justifying discrimination [accessed 26 September 2022]
-27 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 An employer must not directly or indirectly discriminate against a current
 employee:
 • as to the terms of employment;
@@ -758,6 +492,7 @@ employee:
 training or for receiving any other benefit, facility or service;
 • by dismissing them; or
 • by subjecting them to any other detriment.52
+
 8.3 Harassment and victimisation
 The Act also prohibits harassment and victimisation.
 Harassment is defined as engaging in unwanted conduct related to a
@@ -777,18 +512,14 @@ and
 • An employer must not victimise prospective or current employees in any
 of the ways mentioned above in the discussion of direct and indirect
 discrimination.54
-52 Equality Act 2010, Section 39
-53 Equality Act 2010, Section 26
-54 Equality Act 2010, Section 27
-28 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 8.4 Post-employment
 The Equality Act 2010’s protections apply after the employment has ended
 provided the discrimination/harassment/victimisation “arises out of and is
 closely connected to a relationship which used to exist between” the parties
 (such as an employment relationship). An example of this might be the
 provision of a negative employment reference.55
+
 8.5 Equal pay
 In addition to the general prohibition of discrimination, the Act deals
 specifically in Part 5 Chapter 3 with equality of terms between men and
@@ -806,19 +537,11 @@ between pay and having (or not having) a particular protected
 characteristic.56
 The provision was designed to prevent confidentiality clauses from stopping
 employees finding out about pay inequalities.
+
 8.6 Disability
-For a more complete discussion of how the Equality Act 2010 applies to
-disability discrimination and legal duties to consider the needs of disabled
-people, see the Library briefing on Disability discrimination.57
 Discrimination arising from disability
 Section 15 of the 2010 Act prohibits treating a disabled worker unfavourably
 because of something arising in consequence of their disability (rather than
-55 Equality Act 2010, Section 108
-56 Equality Act 2010, Section 77
-57 Disability discrimination, Commons Library Briefing CPB-9601, 26 November 2020
-29 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 simply for having a disability). For example, dismissing a worker with multiple
 sclerosis for taking extended disability-related sick leave.
 An employer does not contravene this prohibition if they can show that they
@@ -838,12 +561,7 @@ compared with non-disabled persons; or
 provision of that aid, be put at a substantial disadvantage in comparison
 with persons who are not disabled.59
 • A “substantial” disadvantage is one that is “more than minor or trivial”.60
-58 Equality Act 2010, section 15
-59 Equality Act 2010, sections 20-21 & Schedule 8
-60 Equality Act 2010, section 212
-30 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 9 Facility time
 Summary
 “Facility time” is time off from a person’s normal work to undertake trade
@@ -871,10 +589,6 @@ Union learning representatives are also entitled to paid time off for the
 following purposes in relation to union members:
 • analysing learning or training needs;
 • providing information and advice about learning or training matters;
-61 Trade Union and Labour Relations (Consolidation) Act 1992, section 169
-31 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • arranging learning or training;
 • promoting the value of learning or training; and
 • consulting the employer about carrying on any such activities in relation
@@ -894,16 +608,7 @@ The current ACAS Code of Practice on Time Off for Trade Union Duties and
 Activities has been in force since 1 January 2010.65 Employment tribunals can
 take a failure to follow the Code of Practice into account when deciding
 relevant cases.
-For further discussion of this issue and related trade union rights, see the
-Library briefing Trade unions and industrial relations.66
-62 Trade Union and Labour Relations (Consolidation) Act 1992, section 168A
-63 Trade Union and Labour Relations (Consolidation) Act 1992, section 170
-64 Trade Union and Labour Relations (Consolidation) Act 1992, sections 168(3) & 168A(8)
-65 Acas, Acas Code of Practice on time off for trade union duties and activities, 1 January 2010
-66 Commons Library Briefing CLB-9785 Trade unions and industrial relations
-32 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 10 Family-related leave
 Summary
 Those classed as employees may be entitled to maternity leave, which lasts for
@@ -928,9 +633,6 @@ Maternity leave is a ‘day one’ right in that all eligible employees are enti
 to it irrespective of how long they have worked for their employer. There are
 three types: compulsory maternity leave, ordinary maternity leave and
 additional maternity leave:
-33 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • Compulsory maternity leave lasts for two weeks from the date of
 childbirth (four weeks in the case of factory workers), during which the
 employer must not permit the mother to work.67
@@ -961,13 +663,7 @@ Maternity Allowance is available to individuals that do not qualify for SMP
 (such as the self-employed or recently unemployed). Maternity Allowance is
 paid for up to 39 weeks at the flat rate, although the amount an individual will
 receive depends on their eligibility.70
-67 Employment Rights Act 1996, section 72; Public Health Act 1936, section 205
-68 Maternity and Parental Leave etc. Regulations 1999 (SI 1999/3312), regulation 7(4)
-69 Maternity and Parental Leave etc. Regulations 1999 (SI 1999/3312), regulation 18(2)
-70 Maternity Allowance, Gov.uk [accessed 16 September 2022]
-34 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 10.3 Maternity suspension
 Under regulations 3 and 16 of the Management of Health and Safety at Work
 Regulations 1999 employers are required to assess work-related risks posed
@@ -976,6 +672,7 @@ risk it must either alter the employee’s working conditions or hours of work,
 or, if it is not reasonable to do that or doing that would not avoid the risk,
 suspend the employee on full pay for as long as it is necessary to avoid the
 risk.71
+
 10.4 Adoption leave and pay
 The right to adoption leave is set out in Part 8 of the Employment Rights Act
 1996 and Part 3 of the Paternity and Adoption Leave Regulations 2002.
@@ -989,6 +686,7 @@ child, not those adopting a child they are fostering (e.g. through an adoption
 order).72 This is because the leave (as with maternity and paternity leave) is
 designed to “provide time for the adoptive child and parent to adjust to their
 new relationships”.73
+
 10.5 Paternity leave and pay
 The right to paternity leave is set out in Part 8 of the Employment Rights Act
 1996 and Part 2 of the Paternity and Adoption Leave Regulations 2002.
@@ -996,12 +694,6 @@ Paternity leave lasts for one or two weeks, at the parent’s choice, which can
 be taken in either one two-week block or two one-week blocks, within the first
 year of the child’s arrival or due date if the baby arrives early. Employees
 have to give 28 days’ notice for each week of leave.
-71 Management of Health and Safety at Work Regulations 1999 (SI 1999/3242), regulations 3 and 16
-72 See: Paternity and Adoption Leave Regulations 2002 (SI 2002/2788), regulations 15 and 17
-73 Employment Act 2002 Explanatory Notes , para 24
-35 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 To qualify for paternity leave an individual must have been employed with the
 same employer for not less than 26 weeks as at the end of the 15th week
 before the expected week of the child’s birth.74
@@ -1017,6 +709,7 @@ Shared Parental Leave and Shared Parental Pay (see below).
 Paternity pay is paid at the flat rate of £184.03 or 90 per cent of average
 weekly earnings, whichever is lower. In order to qualify for paternity pay the
 individual must earn at least £123 per week before tax.75
+
 10.6 Shared Parental Leave and Pay
 The Children and Families Act 2014 amended Part 8 of the Employment Rights
 Act 1996, creating rights to Shared Parental Leave (SPL) and Shared Parental
@@ -1035,19 +728,7 @@ employers with eight weeks’ notice before beginning a block.
 employers.78
 A mother claiming Maternity Allowance (see 10.2 above), such as a selfemployed or recently unemployed mother, may create a right for her partner
 to access SPL/SPP by curtailing her Maternity Allowance.
-74 Paternity and Adoption Leave Regulations 2002 (SI 2002/2788), regulation 4
-75 See Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002 (SI 2002/2822);
-Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) Regulations 2002 (SI 2002/2818)
-76 Employment Rights Act 1996, ss.75E-75K
-77 Principally, the following regulations: Shared Parental Leave Regulations 2014 (SI 2014/3050);
-Statutory Shared Parental Pay (General) Regulations 2014 (SI 2014/3051); Maternity and Adoption
-Leave (Curtailment of Statutory Rights to Leave) Regulations 2014 (SI 2014/3052); Maternity
-Allowance (Curtailment) Regulations 2014 (SI 2014/3053); Statutory Maternity Pay and Statutory
-Adoption Pay (Curtailment) Regulations 2014 (SI 2014/3054).
-78 BEIS, Shared parental leave and pay: employers' technical guide, 27 April 2020
-36 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 10.7 Parental leave
 The right to unpaid parental leave, separate from the other forms of leave
 discussed above, is provided in Part 8 of the Employment Rights Act 1996 and
@@ -1057,6 +738,7 @@ unpaid parental leave if they have parental responsibility for a child.79 The
 employee will be entitled to up eighteen weeks’ leave in respect of any
 individual child to take at any time up to the child’s 18th birthday.80 The leave
 may be taken in one-week blocks, up to a maximum of four weeks per year.81
+
 10.8 Ante-natal care
 The right to time off in respect of ante-natal care is provided in Part 6 of the
 Employment Rights Act 1996.
@@ -1074,15 +756,7 @@ relationship” with the expectant mother or child are entitled to a maximum of
 two periods of time off, each limited to six and a half hours. Qualifying
 relationships include, for example, spouses, prospective fathers and persons
 in enduring family relationships with pregnant women (partners).84
-79 Maternity and Parental Leave etc. Regulations 1999 (SI 1999/3312), regulation 13
-80 Maternity and Parental Leave etc. Regulations 1999 (SI 1999/3312), regulations 14-15
-81 Maternity and Parental Leave etc. Regulations 1999 (SI 1999/3312), Schedule 2, paras 7-8
-82 Employment Rights Act 1996, sections 55 and 57ZA
-83 Employment Rights Act 1996, section 57ZE
-84 Employment Rights Act 1996, section 57ZE(7)
-37 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 10.9 Time off for dependants
 Section 57A of the Employment Rights Act 1996 provides employees with the
 right to a reasonable amount of unpaid time off to “take action” which is
@@ -1117,13 +791,9 @@ Section 57B of the Employment Rights Act 1996 entitles an employee to
 complain to an employment tribunal if their employer has unreasonably
 refused permission for time off under section 57A. If the complaint is wellfounded, the tribunal must make a declaration to that effect and may order
 such compensation as it considers just and equitable, having regard to the
-85 Employment Rights Act 1996, section 57A
-86 Employment Rights Act 1996, section 57A(4)-(5)
-38 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 employer’s default and any loss sustained by the employee attributable to the
 refusal.
+
 10.10 Bereavement leave and pay
 Regulations passed under powers granted by the Parental Bereavement
 (Leave and Pay) Act 2018 created new entitlements to parental bereavement
@@ -1152,13 +822,7 @@ or injury likely to require at least three months of care. The leave entitlement
 is available from the first day of employment with no qualifying period.
 This entitlement was created by the Carer’s Leave Act 2023 and the
 associated Carer’s Leave Regulations 2024.
-87 Specifically the Parental Bereavement Leave Regulations 2020 and the Statutory Parental
-Bereavement Pay (General) Regulations 2020
-88 Statutory Parental Bereavement Pay and Leave, Gov.uk [accessed 15 August 2022]
-89 As above
-39 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 11 Fixed-term employees
 Summary
 The law protects fixed-term employees from being treated less favourably
@@ -1187,15 +851,11 @@ skills and qualifications).91
 The right applies only if the employer is unable to justify the less favourable
 treatment on objective grounds. One of the ways in which an employer can
 objectively justify less favourable treatment is if the terms of the fixed-term
-90 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 3(1)
-91 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 2
-40 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 employee’s contract are, taken as a whole, at least as favourable as those of
 a comparable permanent employee’s.92
 A fixed-term employee is entitled to receive, within 21 days, a written
 statement of reasons for any less favourable treatment.93
+
 11.1 Successive fixed-term contracts
 Where, for a period of four or more years, an employee is employed under a
 long fixed-term contract which is renewed, or successive fixed-term
@@ -1210,6 +870,7 @@ An employee who considers that, by virtue of this right, they are a permanent
 employee, may request in writing a written statement confirming this or
 setting out reasons why the contract remains fixed-term. The employer must
 provide this within 21 days of the request.96
+
 11.2 Protection from dismissal
 The Regulations set out a range of reasons for which dismissal will be
 regarded as unfair. The usual qualifying period for unfair dismissal does not
@@ -1217,18 +878,10 @@ apply to such cases.
 The unfair reasons for dismissal are set out in regulation 6(3); broadly, they
 concern dismissal because the employee has asserted or refused to forgo
 rights conferred by the Regulations.
+
 11.3 Remedies
 A fixed-term employee may complain to an employment tribunal if they are
 treated less favourably than a comparable permanent employee or dismissed
-92 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 4
-93 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 5
-94 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 8
-95 Duncombe and others (Respondents) v Secretary of State for Children, Schools and Families
-(Appellant), UKSC 2010/0025
-96 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 9
-41 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 for one of the above reasons. Any such complaint will be subject to the usual
 three-month time limit, which may be waived if the tribunal considers it just
 and equitable to do so.
@@ -1241,10 +894,7 @@ or reduce the adverse effect of the matter complained of.
 If the employer fails, without reasonable justification, to comply with one of
 the tribunal’s recommendations, the tribunal may increase the amount of
 compensation.97
-97 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, regulation 13
-42 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 12 Flexible working
 Summary
 All employees have the right to request flexible working; a change to their
@@ -1270,10 +920,6 @@ or more valid reasons from the following list:
 • insufficiency of work during the periods the employee proposes to work;
 or
 • planned structural changes.
-98 Flexible Working, Commons Library Briefing, SN1086, March 2015
-43 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 If refusing the request, employers must explain their reason for doing so.
 Employees can make up to two such requests per year.
 The employer may treat the employee’s application as withdrawn if the
@@ -1282,6 +928,7 @@ by the employer to discuss the application and the next meeting arranged for
 that purpose.
 Acas has a Code of Practice on flexible working requests, which employment
 tribunals can penalise employers for not following.99
+
 12.1 Remedies
 If the employer fails to comply with its obligations, the employee may present
 a complaint to an employment tribunal. The tribunal may make an order for
@@ -1293,11 +940,7 @@ Date Maximum amount of one week’s pay
 6 April 2024 – 5 April 2025 £ 700
 6 April 2023 – 5 April 2024 £ 643
 6 April 2022 – 5 April 2023 £ 571
-Source: The Employment Rights (Increase of Limits) Orders 2022, 2023, 2024
-99 Code of Practice on handling in a reasonable manner requests to work flexibly, Acas, 30 June 2014
-44 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 13 Holiday
 Summary
 Workers are entitled to 5.6 weeks’ annual leave during the leave year. The
@@ -1313,7 +956,6 @@ days’ paid leave, inclusive of public holidays (5.6 x 5 = 28).101 Part-time
 workers are also entitled to 5.6 weeks’ leave. For example, working three days
 per week entitles one to 16.8 days’ leave (5.6 x 3 = 16.8).
 The statutory entitlement does not increase beyond 28 days for those working
-The Gov.uk website
 more than five days per week. Contracts of employment may, of course, allow
 provides a holiday longer periods of leave.
 entitlement
@@ -1329,15 +971,6 @@ repeated litigation both domestically and at the European Court of Justice.
 Broadly, the uncertainty stemmed from the difficulty in squaring the method
 used under the 1998 Regulations to calculate pay with that required by the EU
 Directive they implement.103 Case law has now confirmed that workers are
-100 Bank and public holidays, Commons Library Briefing, SN6170, March 2015
-101 Working Time Regulations 1998, regulations 13-13A
-102 Working Time Regulations 1998, regulation 13(3)
-103 Council Directive 93/104/EC. Under regulation 16 holiday pay is calculated using the method set out
-in sections 221-224 of the Employment Rights Act 1996, which provide that a week's pay includes
-overtime only if it is both compulsory and guaranteed (i.e. excludes voluntary overtime). This gave
-45 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 entitled to remuneration reflecting the overtime they would normally work
 and commission they would normally earn. In the latter case, this may require
 payment following the period of leave, representing commission that would
@@ -1355,6 +988,7 @@ Annual leave accrues during sickness absence and up to four weeks of the 5.6
 week entitlement can be carried over into the next leave year if absence
 prevents the worker from taking leave. If a worker falls ill while on annual
 leave, they may bring an end to the leave and take it later.
+
 13.1 Bank and public holidays
 Strictly, “bank holidays” are those fixed by statute - the Banking and Financial
 Dealings Act 1971 - as days when financial dealings may be suspended. The
@@ -1376,10 +1010,6 @@ custom. In industries where it is customary to get bank holidays off, and
 absent any contractual term specifying employees can be asked to work
 rise to a challenge to the Regulations’ compliance with the Directive, case law on which had
 established that workers must be paid their “normal” rate of remuneration.
-104 Banking and Financial Dealings Act 1971, Section 1(3)
-46 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 those days, there is some case law suggesting that employees could be
 entitled to paid leave as an implied contractual term.105
 There are typically eight bank/public holidays a year in England and Wales,
@@ -1399,16 +1029,7 @@ Last Monday in August (1) Last Monday in August (1)
 St Andrew’s Day (1)
 Christmas Day (3) Christmas Day (1) Christmas Day (3)
 Boxing Day (1) Boxing Day (1) Boxing Day (1)
-Sources:
-(1) Banking and Financial Dealings Act 1971, Schedule 1
-(2) Royal Proclamations under 1971 Act
-(3) Common law public holiday
-(4) Proclaimed by the Secretary of State for Northern Ireland
-105 See e.g. Tucker v British Leyland Motor Corporation Ltd [1978] IRLR 493; Campbell & Smith
-Construction Group Ltd v John Alexander Greenwood [2001] IRLR 588
-47 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 14 Illegal working
 Summary
 Employers may be liable in civil or criminal law if they employ a person in
@@ -1434,14 +1055,6 @@ Employing an illegal worker contrary to section 15 carries a maximum penalty
 of £60,000 per illegal worker.108 An employer will have a statutory excuse
 against paying the penalty if it can show it has carried out the necessary
 document checks.109 But if the employer knows that the employee does not
-106 Employers' duties to prevent illegal working, Commons Library Briefing SN06706, February 2015
-107 Immigration, Asylum and Nationality Act 2006, section 15
-108 Immigration (Employment of Adults Subject to Immigration Control) (Maximum Penalty)
-(Amendment) Order 2024
-109 Immigration, Asylum and Nationality Act 2006, section 15
-48 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 have the right to work, it will not have a statutory excuse (regardless of
 whether it conducted any document checks).
 In addition to potential civil liability, section 21 of the 2006 Act makes it a
@@ -1456,12 +1069,7 @@ fine or up to six months’ imprisonment A Magistrates’ Court may commit an
 illegal worker to a Crown Court with a view to confiscating gains under the
 Proceeds of Crime Act 2002. It is separately an offence to knowingly breach a
 condition of leave, which includes restrictions on work.112
-110 Immigration, Asylum and Nationality Act 2006, section 21
-111 Immigration Act 1971, section 24B
-112 Immigration Act 1971, section 24(1)(b)(ii)
-49 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 15 Industrial action
 Summary
 Employees do not enjoy a general “right” to strike in domestic law. Rather,
@@ -1488,13 +1096,10 @@ properly conducted strike ballot (strikes solely for political reasons will not 
 protected). A union’s failure to comply with the (many and detailed) statutory
 prerequisites for immunity may provide grounds for an employer to seek an
 injunction to prevent the strike.
+
 15.1 Strike ballots
 The statutory provisions governing industrial action ballots and notices are
 contained in TULRCA, sections 226 to 235.
-113 Trade Union and Labour Relations (Consolidation) Act 1992, section 219(1)
-50 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 For the union to be protected from liability it must conduct a secret postal
 ballot of “all the members of the trade union who it is reasonable at the time
 of the ballot for the union to believe will be induced by the union to take part”
@@ -1515,6 +1120,7 @@ to vote; and
 • if the majority of those who vote are normally engaged in the provision of
 “important public services”, at least 40% of those entitled to vote must
 vote in favour of the action.116
+
 15.2 Protection from dismissal
 Under TULRCA, section 238A (inserted by Schedule 5 to the Employment
 Relations Act 1999) an employee dismissed for participation in statutorily
@@ -1528,12 +1134,6 @@ taking action before the end of that period;
 taking the action before the end of that period, but the employer had not
 taken such procedural steps as would have been reasonable for the
 purposes of resolving the dispute.
-114 Trade Union and Labour Relations (Consolidation) Act 1992, section 227
-115 Trade Union and Labour Relations (Consolidation) Act 1992, section 229
-116 Trade Union and Labour Relations (Consolidation) Act 1992, section 226
-51 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 In all the above cases, the 12 week period is extended to reflect any period
 during which the employee is locked out by their employer.
 Outside of the above protection, under section 238, a tribunal cannot
@@ -1545,11 +1145,7 @@ By contrast, the employer may dismiss any employee for participating in
 certain unofficial industrial action (such as action not authorised or endorsed
 by the employee’s union) and the employee will have no right to complain of
 unfair dismissal.118
-117 Trade Union and Labour Relations (Consolidation) Act 1992, section 238
-118 Trade Union and Labour Relations (Consolidation) Act 1992, section 237
-52 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 16 Insolvency
 Summary
 Employees who are owed money when their employers become insolvent are
@@ -1562,7 +1158,6 @@ The Employment Rights Act 1996 and Insolvency Act 1986 provide a number of
 avenues via which an employee might seek payment of debts owed to them by
 an insolvent employer. The avenues fall into two broad categories.
 First, the Secretary of State must pay certain debts to employees, effected via
-The Gov.uk website
 the Redundancy Payments Service. Aside from in the case of unpaid
 provides a redundancy pay, the Redundancy Payments Service will only pay these debts
 collection of forms if the employer has become formally insolvent.
@@ -1584,12 +1179,6 @@ or adoption pay may be covered by HMRC.
 who belongs to occupational pension schemes, and, under the Pensions
 Act 2004, pension schemes may be protected by the Pension Protection
 Fund.
-119 Employment rights and insolvency, Commons Library Briefing SN651, April 2020
-120 Certain categories of employee are excluded. The rights are not available to merchant seamen,
-share fishermen, employees of the Crown or parliamentary staff.
-53 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • If an employer is put into administration, employees may have claims
 against the administrator/administrative receiver.
 • If the employer is put into liquidation, employees may have claims
@@ -1598,10 +1187,7 @@ against the insolvent estate.
 1986 in respect of unpaid wages owed in the four months prior to the
 insolvency order (subject to an £800 limit), and in respect of the total
 amount of unpaid holiday pay.121
-121 Insolvency Act 1986, Schedule 6 and the Insolvency (England and Wales) Rules 2016
-54 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 17 National Minimum Wage
 Summary
 The national minimum wage (NMW) applies to most workers and involves
@@ -1614,24 +1200,16 @@ and supplemented by various regulations which were consolidated in the
 National Minimum Wage Regulations 2015. The NMW rates are provided in
 regulations made by the Secretary of State with parliamentary approval,
 based on annual recommendations made by the Low Pay Commission
-(LPC).123 The rates are updated every April. The rates from April 2024 are:
-21 to 22 18 to 20 Under 18 Apprentice
-April 2022 £ 9.18 £ 6.83 £ 4.81 £ 4.81
-Source: The National Minimum Wage: rates and enforcement, Commons Library Briefing SN06898, April 2018
+(LPC).123
 The apprentice rate applies to apprentices under 19, in their first year of level
 2 or 3 apprenticeships; all other apprentices are entitled to the NMW rate for
 their age. Both this and the under 18 rate should be read bearing in mind that
 only those over compulsory school age (over 16) are entitled to the NMW.
+
 17.1 Enforcement
 The right to be paid the NMW takes effect as part of a worker’s contract; if
 underpaid, the worker may enforce the right either in an employment tribunal
 or the civil courts.
-122 The National Minimum Wage: rates and enforcement, Commons Library Briefing SN06898, April
-2018
-123 National Minimum Wage Regulations 1999 (SI 1999/584), as amended
-55 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 HMRC also enforces the NMW and can issue notices of underpayment to
 underpaying employers. A notice of underpayment must require the employer
 to pay to the Secretary of State a specified financial penalty within a 28-day
@@ -1640,10 +1218,6 @@ workers to whom the notice relates, subject to a maximum of £20,000 per
 worker.124 The penalty is discounted for prompt payment: the employer need
 only pay 50% of the penalty if it is paid within 14 days, beginning with the day
 the notice was served.
-Employees can complain to HMRC about NMW underpayment, by
-using this complaint form.
-The Department for Business and Trade has an enforcement policy
-for NMW.125
 There is an associated system of naming and shaming employers that breach
 NMW law, which is designed to deter employers from underpaying workers.
 Under this system, employers issued with a notice of underpayment for
@@ -1656,14 +1230,7 @@ Acas guidance on the NMW makes clear that workers who have been
 underpaid the minimum wage must choose either to complain to HMRC or
 bring an employment tribunal claim, but not both, saying “They cannot take
 the same issue through 2 legal processes.”126
-124 National Minimum Wage (Amendment) Regulations 2016 (SI 2016/68)
-125 National Minimum Wage: policy on enforcement, prosecutions and naming employers who break
-National Minimum Wage law, BEIS, 15 June 2022
-126 National Minimum Wage entitlement: If an employer does not pay minimum wage, Acas, 1 April
-2022
-56 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 18 Notice
 Summary
 Employers are required to provide employees with details of contractual
@@ -1674,12 +1241,14 @@ notice.
 Employees may waive their right to notice or accept payment in lieu of notice.
 In certain circumstances, the conduct of an employee may entitle the
 employer to dismiss them without notice.
+
 18.1 Terms of notice periods
 Section 1(4)(e) of the Employment Rights Act 1996 provides that the statement
 of initial employment terms the employer must give to the employee within
 two months of beginning employment must include details of “the length of
 notice which the employee is obliged to give and entitled to receive to
 terminate his contract of employment”.127
+
 18.2 Minimum notice periods
 Although contracts of employment usually specify a period of notice, the
 notice in fact given by an employer to an employee must not fall below the
@@ -1687,10 +1256,6 @@ statutory minimum period of notice. Section 86(1) of the Employment Rights
 Act 1996 provides the following minimum notice periods:
 • one week’s notice for employment exceeding one month but less than
 two years;
-127 See below section 24 of this briefing entitled ‘Statement of initial employment particulars’
-57 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • one week’s notice for each year of continuous employment if the
 employee’s period of continuous employment is between two and twelve
 years; and
@@ -1700,6 +1265,7 @@ month or more must provide their employer with at least one week’s notice.129
 As with notice provided by the employer, the contract of employment may
 (and often does) stipulate that the employee must give a longer period of
 notice.
+
 18.3 Pay during notice
 Employees are normally entitled to pay for time worked during their notice,
 including pay for any part of normal working hours for which the employee is:
@@ -1716,17 +1282,12 @@ notice (‘PILON’). The contract may provide for this possibility; if it does 
 preventing the employee from working out the notice period may constitute a
 breach of contract, although the payment in lieu of notice will often provide
 adequate compensation for the employee.
+
 18.4 Dismissal without notice
 In some cases it will be lawful to dismiss an employee without notice. This will
 usually be the case where the employee commits a repudiatory breach of
 contract; that is, a breach that is sufficiently serious to entitle the employer to
 treat the contract as at an end.
-128 Employment Rights Act 1996, section 86(1)
-129 Employment Rights Act 1996, section 86(2)
-130 Employment Rights Act 1996, section 88
-58 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 Summary dismissal (i.e. dismissal without notice) is usually a response to
 gross misconduct. There is no definitive list of conduct falling within this
 description; it will depend on the circumstances of the employment. However,
@@ -1755,11 +1316,7 @@ statutory right not to be unfairly dismissed. While summary dismissal in
 response to gross misconduct might not breach the contract, the dismissal
 might nonetheless be unfair, particularly if the employer fails to follow a fair
 dismissal procedure (see below section 28 of this briefing on unfair dismissal).
-131 Advisory, Conciliation and Arbitration Service, Discipline and grievances at work: the Acas guide,
-July 2020, p52
-59 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 19 Part-time workers
 Summary
 Part-time workers have the right not to be treated by their employers less
@@ -1787,19 +1344,13 @@ if, as at the time of the alleged treatment, both workers are:
 • employed by the same employer under the same type of contract; and
 • engaged in the same/broadly similar work, having regard, where
 relevant, to similarities in qualifications, skills and experience.
-132 The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, regulation 2(2)
-133 The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, regulation 5
-134 As above
-135 The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, regulation 6
-60 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 The full-time worker must work/be based at the same establishment as the
 part-time worker, unless there is no such full-time worker there who satisfies
 the above requirements, in which case the comparison will be with one at a
 different establishment who does.136 There are exceptions to this need to find
 a comparable full-time worker: the treatment of workers becoming parttime/returning to work part-time after absence is compared against their
 treatment in their previous full-time role.
+
 19.1 Protection from dismissal
 If a part-time employee (as contrasted with a worker; see the Library briefing
 on Employment Status137 for an overview of the distinction) is dismissed for
@@ -1808,12 +1359,7 @@ specified in regulation 7(3) (such as bringing proceedings under the
 Regulations) the dismissal will be automatically unfair. Similarly, part-time
 workers have the right not to be subjected to any detriment for relying on the
 Regulations in a way mentioned in regulation 7(3).138
-136 The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, regulation 2(4)
-137 Employment status, Commons Library Briefing CBP 8045, 28 March, 2018
-138 The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, regulation 7
-61 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 20 Redundancy
 Summary
 Employees with two or more years’ continuous service with their employer
@@ -1841,26 +1387,15 @@ Age band
 1.5 41 and over
 1 22 to 40
 0.5 Under 22
-Source: Employment Rights Act 1996, section 162(2)
-139 Employment Rights Act 1996, section 139
-62 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
-The Gov.uk website
 The maximum length of service for calculating pay is capped at 20 years. A
 provides a
 week’s pay is subject to the statutory limit in force at the time of the
 redundancy pay
-dismissal. The limit is set annually by regulations. The most recently
-calculator140 prescribed limits are:
-Date Maximum amount of one week’s pay
-6 April 2022 – 5 April 2023 £ 571
-6 April 2021 – 5 April 2022 £ 544
-6 April 2020 – 5 April 2021 £ 538
-Source: The Employment Rights (Increase of Limits) Orders 2020, 2021, 2022
+dismissal. The limit is set annually by regulations.
 Thus, the current maximum available redundancy payment would be payable
 to an employee with at least 20 years’ service since they reached the age of
 41, which would be 20 x (1.5 x £700) = £21,000.
+
 20.1 Consultation and information requirements
 Where an employer proposes to dismiss as redundant 20 or more employees
 at one establishment within 90 days or fewer, the employer must consult
@@ -1876,13 +1411,6 @@ Protective award
 Where an employer has failed to comply with the consultation and
 information requirements, employees or their representatives may have
 grounds to present a complaint to an employment tribunal.
-140 Calculate your statutory redundancy pay, Gov.uk, [accessed 15 August 2022]
-141 The entity to which the workers made redundant are assigned to carry out their duties (e.g. a shop)
-– see USDAW and Wilson [2015] EUECJ C-80/14, 52
-142 Trade Union and Labour Relations (Consolidation) Act 1992, section 188
-63 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 If the tribunal finds the complaint well-founded it may make a protective
 award, payable to employees who have been dismissed as redundant, or
 whom it is proposed to dismiss as redundant, and in respect of whose
@@ -1890,6 +1418,7 @@ dismissal the employer has failed to comply with the requirements.
 Importantly, the award is payable only in respect of employees who prove
 their claim in the tribunal, or whose union does so on their behalf. The
 maximum award is 90 days’ gross pay to each of these employees.143
+
 20.2 Notification of Secretary of State
 Under Section 193 of the Trade Union and Labour Relations (Consolidation)
 Act 1992, an employer proposing to dismiss as redundant 20 or more
@@ -1900,12 +1429,7 @@ dismiss 100 or more employees the notification must be given at least 45 days
 before the first dismissal; in other cases the minimum period is 30 days.144
 An employer who fails to comply with this requirement commits an offence
 punishable by an unlimited fine.145
-143 As above
-144 Trade Union and Labour Relations (Consolidation) Act 1992, section 193
-145 Trade Union and Labour Relations (Consolidation) Act 1992, section 194
-64 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 21 References
 Summary
 An employer that provides a reference must take reasonable care to ensure it
@@ -1930,25 +1454,16 @@ difficult to prove what was said.
 The remedies available in a court claim based on negligence would be
 monetary damages for financial loss caused by the negligent reference and
 potentially an injunction against its future use.
+
 21.1 Access to references
 Section 7 of the Data Protection Act 1998 gives individuals the right of access
 to personal data which is held on them. This entitles a worker to obtain a
 copy of their reference from the recipient but not the authoring employer (due
-146 Cox v Sun Alliance Life Ltd [2001] EWCA Civ 649, para 81
-65 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 to an exemption in the Act), provided it is reasonable in the circumstances for
 the recipient to disclose the information. If the authoring employer marked
 the reference as being confidential, the recipient must nonetheless assess
 whether it is reasonable to disclose the material.
-The Information Commissioner’s Office (the body charged with monitoring
-and enforcing the Act) has produced guidance on access to employment
-references as part of their employment practices code [PDF].147
-147 ICO, The employment practices code, November 2011
-66 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 22 Retirement age
 Summary
 The Coalition Government abolished the Default Retirement Age of 65 as of 1
@@ -1956,8 +1471,6 @@ October 2011.
 Compulsory retirement of employees is now unlawful age discrimination
 unless it can be justified as being a proportionate means of achieving a
 legitimate aim.
-For a fuller discussion, see the Library’s briefing paper Employment
-Retirement Age.148
 The Employment Equality (Age) Regulations 2006 made compulsory
 retirement ages unlawful unless they could be justified. However, that was
 subject to a national Default Retirement Age of 65, which allowed compulsory
@@ -1974,12 +1487,6 @@ compulsory retirement, including:
 • sharing out employment opportunities fairly between the generations;
 • ensuring a mix of generations of staff, to promote the exchange of
 experience and ideas;
-148 Employment: Retirement Age, Commons Library Briefing, February 2013
-149 Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (SI 2011/1069)
-150 Equality Act 2010, section 13(2)
-67 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • avoiding the need to dismiss employees on the ground that they are no
 longer capable of doing the job, which may be humiliating for the
 employee concerned; and
@@ -1993,13 +1500,8 @@ introduced in the least discriminatory way reasonably possible. For example,
 if it is possible to stagger the introduction of a retirement age, so as to
 mitigate its negative effects, it is likely that its immediate introduction would
 be disproportionate.152
-151 See: Seldon v Clarkson Wright and Jakes [2012] UKSC 16, para 50
-152 European Commission v Hungary [2012] EUECJ C-286/12, para 73
-68 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
-23 Lay-offs and right to guarantee
-payments for workless days
+23 Lay-offs and right to guarantee payments for workless days
 Summary
 Employment contracts may allow employers to put employees on lay-off or
 short-time working when there is insufficient work to do.
@@ -2027,23 +1529,20 @@ of that day.154
 Section 29(1) provides that an employee will not be entitled to a guarantee
 payment unless they have been continuously employed for at least one month
 ending with the day before the workless day.
-153 Acas, Lay-offs and short-time working, 6 April 2022
-154 Employment Rights Act 1996, section 28
-69 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 The right to a guarantee payment does not affect rights to contractual
 remuneration. If an employment contract doesn’t contain a clause allowing
 the employer to reduce the pay of employees through lay-off or short-time
 working, they may still be contractually entitled to full pay even when there is
 no work provided. Contractual remuneration for any workless day counts
 towards the obligation to pay a guarantee payment in respect of that day.155
+
 23.1 Exclusions from the right to guarantee
 payment
 Employees are not entitled to guarantee payments if the failure to provide
 work is in consequence of industrial action; if the employee has unreasonably
 refused alternative work; or if they do not comply with the reasonable
 requirements of their employer to ensure that they are available to work.156
+
 23.2 Calculation of guarantee payment
 The amount of a guarantee payment payable to an employee in respect of
 any day is the sum produced by multiplying the number of normal working
@@ -2054,24 +1553,15 @@ employee in respect of any day is capped at £38.158 The amount of days for
 which this can be claimed is five days in any three-month period on which the
 employee would normally work, meaning the total claimable for the three
 month period would be £190.159
+
 23.3 Complaints to employment tribunals
 An employee may present a complaint to an employment tribunal that their
 employer has failed to pay the whole or any part of a guarantee payment to
 which the employee is entitled. The complaint must be made within the usual
 three-month time limit, beginning with the day on which the employee was
 unpaid.160
-155 Employment Rights Act 1996, section 32
-156 Employment Rights Act 1996, section 29(3)-(5)
-157 Employment Rights Act 1996, Section 30
-158 Employment Rights Act 1996, Section 31(1); Employment Rights (Increase of Limits) Order 2022 (SI
-2022/182)
-159 Employment Rights Act 1996, Section 31(2)-(3)
-160 Employment Rights Act 1996, Section 34
-70 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
-24 Statement of initial employment
-particulars
+24 Statement of initial employment particulars
 Summary
 All workers have a statutory right to a written statement of the basic terms of
 their employment. The statement must be provided on or before the worker’s
@@ -2093,16 +1583,10 @@ listed at or above the minimum wage).163
 If there is a change in any of the terms detailed in the statement, the
 employer must give the employee a written statement containing details of
 the change no later than one month after the change.164
+
 24.1 Remedies
 If the employer fails to provide or provides inadequate particulars the
 employee may require a reference to be made to an employment tribunal,
-161 Employment Rights Act 1996, section 199
-162 Employment Rights Act 1996, section 1
-163 As above
-164 Employment Rights Act 1996, section 4
-71 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 which will determine what particulars ought to have been included or referred
 to.165
 If an employer breaches the requirement to provide a statement of
@@ -2118,11 +1602,7 @@ weeks’ pay. If the tribunal makes an award in the main claim it must increase
 the value of that award by two weeks’ pay, but can increase this to four
 weeks’ pay. A week’s pay for these purposes is subject to the statutory limit
 (£700 as of April 2024).166
-165 Employment Rights Act 1996, section 11
-166 Employment Act 2002, section 38
-72 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 25 Statutory Sick Pay
 Summary
 A qualifying employee is entitled to Statutory Sick Pay (SSP) if they have been
@@ -2133,10 +1613,6 @@ For SSP purposes, agency workers may fall within the definition of
 SSP is capped at 28 weeks at a time, paid at a weekly rate of £116.75.
 Since 6 April 2014 employers have been unable to recover from the State
 amounts paid in SSP.
-For more information see the Library briefing on Statutory Sick Pay.167
-Statutory Sick Pay (SSP) was introduced by the Social Security and Housing
-Benefits Act 1982. The principal legislation underpinning SSP is the Statutory
-Sick Pay (General) Regulations 1982.
 The current SSP rate as of April 2024 is £116.75 per week. SSP is available to
 qualifying employees that have been ill for four or more consecutive days
 (including non-working days) and earn at least £123 a week on average (pretax).168 The employee cannot claim for the first three days of illness.
@@ -2148,21 +1624,12 @@ The employee’s period of entitlement to SSP is capped at 28 weeks’ SSP withi
 a single period of incapacity for work. Periods of incapacity for work of four or
 more consecutive days, separated by not more than eight weeks, are linked
 for the purposes of applying the 28-week cap.170 The cap is financial and
-167 Statutory Sick Pay, Commons Library Briefing, 27 May 2022
-168 This is known as the ‘lower earnings limit’ – Social Security Contributions and Benefits Act 1992,
-section 5(1)
-169 It uses a definition supplied by the Social Security Contributions and Benefits Act 1992,
-supplemented by the Income Tax (Earnings and Pensions) Act 2003; Social Security (Categorisation
-of Earners) Regulations 1978 (SI 1978/1689)
-170 Social Security Contributions and Benefits Act 1992, section 152(3)-(4)
-73 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 applies once the amount of SSP paid reaches an amount equal to 28 times the
 weekly rate.
 An employer can withhold payment of SSP if not notified of any day of
 incapacity for work within either the deadline it prescribes or seven days if no
 deadline is prescribed.
+
 25.1 Employers’ right to recover SSP
 Since 6 April 2014 employers have been unable to recover amounts paid in
 SSP.171 Prior to that the Statutory Sick Pay Percentage Threshold Order 1995
@@ -2170,11 +1637,7 @@ entitled an employer to recover any amounts paid in SSP exceeding 13% of
 their liability to pay National Insurance in the same income tax month. The
 1995 Order replaced from 6 April 1995 small employers’ entitlement to 100%
 reimbursement of SSP.
-171 Statutory Sick Pay Percentage Threshold (Revocations, Transitional and Saving Provisions) (Great
-Britain and Northern Ireland) Order 2014 (SI 2014/897)
-74 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 26 Suspension
 Summary
 There is no statutory right not to be unfairly suspended, although suspension
@@ -2205,22 +1668,10 @@ subsequently cleared of the charges, the suspicions are likely to linger, not
 least I suspect because the suspension appears to add credence to them.174
 If the suspension is in breach of the term of trust and confidence, the
 employee may accept the breach by resigning, and subsequently sue for
-172 For example, see McClory v Post Office [1992] ICR 758; Watson v Durham University [2008] EWCA Civ
-1266
-173 Watson v Durham University [2008] EWCA Civ 1266, 22
-174 Crawford and Anr v Suffolk Mental Health Partnership NHS Trust [2012] EWCA Civ 138, 71; see also
-Gogay v Hertfordshire County Council [2000] IRLR 703
-75 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 constructive dismissal. Depending on the circumstances, the employee may
 be able to obtain an injunction to prevent or end the suspension.175
-175 Mezey v South West London and St George's Mental Health NHS Trust [2007] EWCA Civ 106
-76 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
-27 Transfer of undertakings & protection of
-employment
+27 Transfer of undertakings & protection of employment
 Summary
 In certain cases, employees are protected from being dismissed, or from
 having their contracts amended, where there is a change of ownership of the
@@ -2237,20 +1688,12 @@ implemented the EU Acquired Rights Directive, now consolidated in Directive
 2001/23/EC, although go further than the Directive in their application to
 “service provision changes” (see below). Since the UK’s departure from the
 EU, these Regulations now form part of assimilated law.
-The Government has produced a detailed guide to the Regulations [PDF].176
-Acas has also published a guide to handling TUPE transfers.177
+
 27.1 Relevant transfers
 The Regulations apply to “relevant transfers”, defined in regulation 3. A
 relevant transfer occurs when:
 • an undertaking or business or part of an undertaking or business is
 transferred from one person to another; or
-176 BEIS, Employment Rights on the Transfer of an Undertaking: a guide to the 2006 TUPE Regulations
-(as amended by the Collective Redundancies and Transfer of Undertakings (Protection of
-Employment) (Amendment) Regulations 2014), [PDF] January 2014
-177 Acas, Handling TUPE: step by step for employers , 27 July 2021
-77 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • there is a service provision change.178
 Business transfers involve the transfer of an “economic entity” (an organised
 grouping of persons/assets whose object is pursuit of an economic activity)
@@ -2277,6 +1720,7 @@ contract to Safeunit. DeskCo is the client as they are receiving the services. T
 reception and security staff are part of an organised grouping of employees as
 they provide services to meet DeskCo's needs. They’ll transfer to Safeunit under
 TUPE. TUPE applies because the client DeskCo remains the same.180
+
 27.2 Effect of the transfer
 The transferor’s employees whose employment would otherwise be
 terminated by the transfer will, upon the transfer, become employees of the
@@ -2285,21 +1729,12 @@ operated between them and the transferor. This will only apply to persons
 employed immediately before the transfer and assigned to the “organised
 grouping of resources or employees that is subject to a relevant transfer”.181
 The transferee also inherits civil rights and liabilities associated with the
-178 Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246), regulation 3
-179 Including that the client must intend that the activities will extend beyond single specific event or
-task of short-term duration, and the activities do not consist wholly or mainly of the supply of goods
-for the client's use
-180 Acas, Handling TUPE: step by step for employers , 27 July 2021
-181 Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246), regulation
-4(1)
-78 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 contract. Certain collective agreements negotiated by transferors with trade
 unions also transfer.
 One notable exception to the above is that pension rights relating to old-age,
 invalidity or survivors, do not transfer (see the Library’s briefing on TUPE and
 Pensions).182
+
 27.3 Dismissal and changes to terms
 Where, before or after the transfer, any employee is dismissed, and the sole
 or principal reason for the dismissal is the transfer, the dismissal is
@@ -2322,26 +1757,10 @@ new employer’s business (ie. an organisational reason).185
 As with dismissals, any purported change to an employee’s contract of
 employment will be void if the sole or principal reason for the variation is the
 transfer, unless:
-182 TUPE and Pensions, Commons Library Briefing SN1665, June 2014
-183 Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246), regulation
-7(1)
-184 Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246), regulation
-7(2)
-185 BEIS, Employment Rights on the Transfer of an Undertaking: a guide to the 2006 TUPE Regulations
-(as amended by the Collective Redundancies and Transfer of Undertakings (Protection of
-Employment) (Amendment) Regulations 2014), January 2014, p23
-79 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • the reason for the variation is an ETO reason (see above); or
 • the terms of that contract permit the employer to make such a
 variation.186
-186 Transfer of Undertakings (Protection of Employment) Regulations 2006, regulation 4, as amended
-by the Collective Redundancies and Transfer of Undertakings (Protection of Employment)
-(Amendment) Regulations 2014/16
-80 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 28 Unfair dismissal
 Summary
 Persons classed as “employees” have the right not to be unfairly dismissed,
@@ -2372,12 +1791,7 @@ automatically unfair. For example, dismissal for union membership, for
 asserting statutory rights or for family-leave related reasons. Many, although
 not all, of these reasons are set out in Part 10 of the Employment Rights Act
 1996 and some are discussed earlier in this paper.
-187 Employment Rights Act 1996, section 98(4)
-188 ACAS Code of Practice on disciplinary and grievance procedures, March 2015
-189 See Employment Rights Act 1996, section 108(3)
-81 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 Compensation
 Compensation for unfair dismissal is normally considered under two heads: a
 basic award and a compensatory award.
@@ -2393,7 +1807,6 @@ Age band
 1.5 41 and over
 1 22 to 40
 0.5 Under 22
-Source: Employment Rights Act 1996, section 162(2)
 The relevant statutory maximum amount of a week’s pay for calculating the
 basic award is that which is in force at the time of the dismissal. It is set
 annually by regulations. The most recently prescribed limits are:
@@ -2401,18 +1814,12 @@ Date Maximum amount of one week’s pay
 6 April 2024 – 5 April 2025 £ 700
 6 April 2023 – 5 April 2024 £ 643
 6 April 2022 – 5 April 2023 £ 571
-Source: The Employment Rights (Increase of Limits) Orders 2022, 2023, 2024
-Compensatory award
 The calculation of the compensatory award is complex and beyond the scope
 of this note. Broadly, it is an amount considered just and equitable awarded
 by a tribunal to reflect the employee’s loss, including expenses incurred in
 consequence of the dismissal and loss of earnings.190 The award is subject to
 a statutory cap. For dismissals since 29 July 2013 the maximum award is
 whichever is the lower of:
-190 Employment Rights Act 1996, section 123
-82 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 1. the statutory cap; or
 2. 52 weeks’ actual gross pay at the time of the dismissal.
 The most recently prescribed limits are:
@@ -2420,10 +1827,7 @@ Date Cap on award
 6 April 2024 – 5 April 2025 £ 115,115
 6 April 2023 – 5 April 2024 £ 105,707
 6 April 2022 – 5 April 2023 £ 93,878
-Source: The Employment Rights (Increase of Limits) Orders 2021, 2022, 2023
-83 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 29 Variation of contract
 Summary
 As a general principle of contract law, one party to a contract cannot
@@ -2457,10 +1861,6 @@ of terms so core to the agreement between the parties that its effect is to
 entitle one party to accept that breach as having ended the contract)
 enabling a qualifying employee to resign and claim constructive unfair
 dismissal (see above).
-191 Acas, Making changes to employment contracts – employer responsibilities, 13 December 2021
-84 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 • Terminate the existing contract and offer to reemploy the employee on a
 new contract (often termed ‘fire-and-rehire’). Terminating a contract will
 constitute a dismissal and create the possibility of an unfair dismissal
@@ -2481,10 +1881,7 @@ context-specific. An employee wanting to understand their prospects of
 resisting a change, or the risks of resigning in response to a unilateral
 variation, should seek independent legal advice, sources of which are set out
 in the Library briefing on Legal advice and help in employment matters.192
-192 Legal advice and help in employment matters, Commons Library Briefing SN02830, 9 June 2017
-85 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 30 Whistleblowing
 Summary
 Workers that disclose information of certain kinds of malpractice at work may
@@ -2512,11 +1909,6 @@ Section 43B defines a “qualifying disclosure” as any disclosure of informati
 (as distinct from allegation or opinion) which, in the reasonable belief of the
 worker making the disclosure, is made in the public interest and tends to
 show any of the following:
-193 Employment Rights Act 1996, section 47B
-194 Employment Rights Act 1996, section 193
-86 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 (a) that a criminal offence has been committed, is being committed or is likely
 to be committed,
 (b) that a person has failed, is failing or is likely to fail to comply with any legal
@@ -2545,16 +1937,12 @@ NHS Trust might disclose to the Department of Health);
 • disclosure that meets the conditions of section 43G (see below section
 30.2);
 • disclosure of an exceptionally serious failure (see below section 30.3).196
+
 30.1 Disclosure to prescribed persons
 The prescribed persons are set out in The Public Interest Disclosure
 (Prescribed Persons) Order 1999 as amended. They are bodies responsible for
 the regulation of various activities, such as the Audit Commission; the Civil
 Aviation Authority; Director General of Fair Trading; the Environment Agency,
-195 Employment Rights Act 1996, section 43B
-196 Employment Rights Act 1996, sections 43C-43H
-87 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 and so on. In order for the disclosure to be protected, the worker must
 reasonably believe that the information disclosed is substantially true and
 relates to a matter for which the prescribed person is responsible (as set out
@@ -2563,6 +1951,7 @@ Trade maintains an up to date list of prescribed people and bodies.197
 Members of Parliament are prescribed persons, disclosure to whom may be
 protected in relation to any matter described in the Schedule (that is to say,
 any matter for which one of the other prescribed persons is responsible).198
+
 30.2 Disclosure to non-prescribed persons
 Section 43G of the Employment Rights Act 1996 provides conditions for
 “disclosure in other cases”. It protects disclosure to persons other than those
@@ -2583,14 +1972,10 @@ allegation contained in it, are substantially true;
 • they do not make the disclosure for purposes of personal gain;
 • in all the circumstances of the case, it is reasonable for them to make the
 disclosure.
+
 30.3 Disclosure of exceptionally serious failures
 Section 43H of the Employment Rights Act 1996 protects disclosures of
 “exceptionally serious” failures, even to non-prescribed persons. It is similar
-197 BEIS, Whistleblowing: list of prescribed people and bodies, Gov.uk, 27 October 2021
-198 The Public Interest Disclosure (Prescribed Persons) (Amendment) Order 2014 (SI 2014/596)
-88 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 to section 43G above in having the same three final conditions, although there
 is no requirement for the worker to have first contemplated or attempted
 disclosing the failure to their employer or a prescribed person. While there is
@@ -2598,9 +1983,7 @@ no explicit restriction on who information can be disclosed to under this
 section, “the identity of the person to whom the disclosure is made” is an
 important factor in whether the disclosure meets the test of being
 “reasonable”.199
-The rationale behind this protection appears to be that, where a matter is
-exceptionally serious, it is in the public interest that its disclosure should not
-be delayed.
+
 30.4 Remedies
 If a worker is subjected to detriment by their employer for having made a
 protected disclosure that worker may enforce their rights by presenting a
@@ -2610,35 +1993,17 @@ employee is dismissed for having made a protected disclosure, the employee
 will be regarded as having been automatically unfairly dismissed.202 There is
 no upper limit on the amount of financial compensation obtainable in
 whistleblowing-based unfair dismissal claims.203
-30.5 NHS recruitment
-On 23 May 2018 the Employment Rights Act 1996 (NHS Recruitment –
-Protected Disclosure) Regulations 2018 came into force, prohibiting a
-specified NHS employer from discriminating against a job applicant “because
-it appears to the NHS employer that the applicant has made a protected
-disclosure”.204
+
 30.6 Extension to office holders
 In 2019, the Supreme Court held in Gilham v Ministry of Justice that
 whistleblowing protections could be extended to judicial office holders, even
 though they are not normally considered to have the status of workers. The
-199 Employment Rights Act 1996, section 43G
-200 Employment Rights Act 1996, section 48(1A)
-201 Employment Rights Act 1996, section 48(3)
-202 Employment Rights Act 1996, section 103A
-203 Employment Rights Act 1996, section 124(1A)
-204 Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018, regulation
-3
-89 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 Supreme Court found that denying these protections to a district judge
 infringed her rights to non-discrimination in the enjoyment of the right to
 freedom of expression under articles 14 and 10 of the European Convention on
 Human Rights. As a result, judicial office holders are also eligible for
 protection under Part IVA of the Employment Rights Act 1996.205
-205 Gilham v Ministry of Justice [2019] UKSC 44
-90 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 31 Working time
 Summary
 Subject to various qualifications discussed below, the Working Time
@@ -2657,6 +2022,7 @@ limits on weekly working time and night work, and provide rights to rest
 periods and breaks. Since the UK’s departure from the European Union and
 the passage of the Retained EU Law (Revocation and Reform) Act 2023, these
 Regulations form part of assimilated law.
+
 31.1 Scope of the Regulations
 “Working time” is defined under the Regulations as including any period
 during which the worker is working, at the employer’s disposal and carrying
@@ -2664,10 +2030,6 @@ out their activity or duties, or undertaking certain types of work-related
 training. Employment contracts or collective/workforce agreements may
 specify additional types of working time for the purposes of the
 Regulations.206
-206 Working Time Regulations 1998, regulation 2(1)
-91 Commons Library Research Briefing, 24 May 2024
-
-Key Employment Rights
 The Regulations apply to workers, including agency workers, although there
 are several exceptions. The Regulations either wholly or mainly do not apply
 to:
@@ -2693,17 +2055,7 @@ characteristic of which is the fact that, by their nature, they do not lend
 themselves to planning as regards the working time of teams of emergency
 workers.210
 Thus, it does not apply to the routine operation of emergency services.
-207 The Merchant Shipping (Hours of Work) Regulations 2002 (SI 2002/2125); The Fishing Vessels
-(Working Time: Sea-fishermen) Regulations 2004 (SI 2004/1713); The Merchant Shipping (Working
-Time: Inland Waterways) Regulations 2003 (SI 2003/3049); The Civil Aviation (Working Time)
-Regulations 2004 (SI 2004/756); The Road Transport (Working Time) Regulations 2005 (SI
-2005/639)
-208 Working Time Directive: Excluded Sectors, Commons Library Briefing, SNBT137, 7 October 2009
-209 Working Time Regulations 1998 (SI 1998/1833), regulation 18(2)(a)
-210 Pfeiffer v Deutsches Rotes Kreuz, Kreisverband Waldshut eV C-397/01 to C-403/01, para 55
-92 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 31.2 Working time limits
 Maximum weekly working time
 Regulation 4 provides that, subject to a worker agreeing to opt out, “working
@@ -2723,8 +2075,6 @@ as hospital care); where there is a foreseeable surge of activity (such as in
 agriculture); or where activities are affected by unexpected circumstances.212
 A collective or workforce agreement may in certain cases extend this to 52
 weeks.213
-The Government has published guidance on calculating working time,
-including information on which hours count as working time.214
 Length of night work
 A night worker's normal hours of work must not exceed an average of eight
 hours during each 24 hours, averaged across a 17-week period.215 The
@@ -2734,15 +2084,7 @@ collective/workforce agreement (but must include the period between
 midnight and 5 a.m.). If no period is specified, the default is the period
 between 11 p.m. and 6 a.m. A “night worker” is one who normally works at
 least three hours during night time.216
-211 Working Time Regulations 1998 (SI 1998/1833), regulations 4(1), 5
-212 Working Time Regulations 1998 (SI 1998/1833), regulations 4(5), 21
-213 Working Time Regulations 1998 (SI 1998/1833), regulation 23
-214 Maximum weekly working hours, Gov.uk [accessed 27 September 2022]
-215 This period may be modified by a collective or workforce agreement
-216 Working Time Regulations 1998 (SI 1998/1833), regulation 2(1)
-93 Commons Library Research Briefing, 24 May 2024
 
-Key Employment Rights
 31.3 Rest
 Daily rest period
 Workers are entitled to a daily rest period of eleven consecutive hours in
@@ -2764,21 +2106,3 @@ is entitled to one 20-minute break. The length of the break may be modified or
 excluded by a collective or workforce agreement. In order to count as a rest
 break, it must be an uninterrupted break which the worker knows is a break
 and can use as they please.220
-217 Working Time Regulations 1998 (SI 1998/1833), regulations 22(1)(a), 24
-218 Working Time Regulations 1998 (SI 1998/1833), regulation 11
-219 Working Time Regulations 1998 (SI 1998/1833), regulation 12
-220 See Gallagher and others v Alpha Catering Services Ltd [2004] EWCA Civ 1559
-94 Commons Library Research Briefing, 24 May 2024
-
-The House of Commons Library is a research and
-information service based in the UK Parliament.
-Our impartial analysis, statistical research and
-resources help MPs and their staff scrutinise
-legislation, develop policy, and support constituents.
-Our published material is available to everyone
-on commonslibrary.parliament.uk.
-Get our latest research delivered straight to your inbox.
-Subscribe at commonslibrary.parliament.uk/subscribe
-or scan the code below:
-commonslibrary.parliament.uk
-@commonslibrary

@@ -1,4 +1,5 @@
 Unpaid parental leave
+
 1. Overview
 Eligible employees can take unpaid parental leave to look after their child’s
 welfare, for example to:
@@ -6,8 +7,9 @@ spend more time with their children
 look at new schools
 settle children into new childcare arrangements
 spend more time with family, such as visiting grandparents
-Their employment rights (/employee-rights-when-on-leave) (like the right to pay,
+Their employment rights  (like the right to pay,
 holidays and returning to a job) are protected during parental leave.
+
 2. Entitlement
 Parental leave is unpaid. You’re entitled to 18 weeks’ leave for each child
 and adopted child, up to their 18th birthday.
@@ -27,12 +29,13 @@ Parental leave applies to each child, not to an individual’s job.
 Example
 An employee is entitled to 18 weeks. They’ve used 10 with a previous
 employer. They can use up to 8 weeks with their new employer if they’re
-eligible (/parental-leave/eligibility).
+eligible .
+
 3. Eligibility
 Employees qualify if all of these apply:
 they’ve been in the company for more than a year
 they’re named on the child’s birth or adoption certificate or they have or
-expect to have parental responsibility (/parental-rights-responsibilities/what-isparental-responsibility)
+expect to have parental responsibility 
 they’re not self-employed or a ‘worker’, for example an agency worker or
 contractor
 they’re not a foster parent (unless they’ve secured parental responsibility
@@ -43,12 +46,14 @@ reasonable to do so - for example they cannot ask for proof each time an
 employee requests leave.
 Employers can choose to offer parental leave to those groups who are not
 eligible. Employees can check this in their staff handbook.
+
 4. Notice period
 Employees must give 21 days’ notice before their intended start date. If they
 or their partner are having a baby or adopting, it’s 21 days before the week
 the baby or child is expected.
 Employees must confirm the start and end dates in their notice. Unless an
 employer requests it, this does not have to be in writing.
+
 5. Delaying leave
 Leave cannot be postponed (delayed) if:
 the employer does not have a ‘significant reason’, for example it would

@@ -25,11 +25,11 @@ Ways parents can use shared parental leave
 Ways eligible parents could use shared parental leave include:
 the birth parent or primary adopter returns to work early from maternity or adoption leave and takes shared parental leave at a
 later date
-
 the birth parent or primary adopter returns to work and their partner takes shared parental leave
 both parents are off at the same time
 both parents share shared parental leave evenly and are off at different times
 both parents return to work at the same time and take shared parental leave at a later date
+
 2. Checking eligibility
 To get shared parental leave, there must be 2 parents sharing responsibility for a child.
 For either parent to get shared parental leave, the birth parent or primary adopter must do one of the following:
@@ -57,7 +57,6 @@ a worker
 a 'self-employed earner'
 A self-employed earner will not be eligible for shared parental leave or pay. But if they satisfy the employment and earnings test, this
 could allow their partner to take shared parental leave and pay. This is as long as their partner is not also a self-employed earner.
-Contact HMRC to find out more about self-employed earners.
 
 If both parents are eligible
 If both parents are eligible, they can choose how to use shared parental leave between them.
@@ -81,13 +80,10 @@ The employee's protection under the law
 During shared parental leave, the employee is still entitled to all of the terms and conditions of their employment contract. This is
 except for the employee's usual salary and other payments ('remuneration'), as they'll be on shared parental pay.
 It's against the law for an employer to treat an employee unfairly because they've taken or intend to take shared parental leave.
-Find out how to raise a problem at work
-Related content
-/shared-parental-leave-form-templates
+
 3. Pay
 Eligible parents can get up to 37 weeks of statutory shared parental pay.
 Employees and workers can claim shared parental pay for any remaining weeks after the birth parent or primary adopter stops their:
-
 maternity pay
 adoption pay
 Maternity Allowance
@@ -102,8 +98,6 @@ Statutory shared parental pay is either of the following, whichever is lower:
 £187.18 a week
 90% of the employee's average weekly earnings
 The rate is usually reviewed every year.
-To work out how much shared parental pay you're entitled to, you can use the shared parental leave and pay planning tool on GOV.UK
-.
 Checking eligibility for shared parental pay
 For either parent to get shared parental pay, the birth parent or primary adopter must give notice to 'curtail' (end) their:
 maternity pay
@@ -119,14 +113,11 @@ share responsibility with the other parent from the day of the child's birth or 
 give the correct notice, declaration and evidence
 Workers, for example agency or zero-hours workers, can be eligible for shared parental pay if they meet the above criteria. They're not
 usually entitled to shared parental leave, but can take time off to care for the child.
-Check if you're eligible for shared parental pay on GOV.UK
 Enhanced shared parental leave and pay
-
 Some employers might offer more than the statutory minimum for shared parental leave.
 For example, shared parental leave with 26 weeks' full pay followed by 13 weeks' shared parental pay.
 This should be in the employee's written statement of employment particulars or written in a workplace policy document.
-Related content
-/employment-status
+
 4. Planning leave
 Parents eligible for shared parental leave can decide how they want to use the leave and pay available to them.
 It can help to consider:
@@ -140,12 +131,7 @@ Example of using shared parental leave
 Toni and Sam have had a baby. Toni earns more than Sam and wants to return to work after 2 months. Toni reduces the length of
 maternity leave to create a shared parental leave entitlement for Sam.
 This allows Sam to take more time off after paternity leave to care for their child when Toni goes back to work.
-Plan your shared parental leave
-To work out how and when you can take shared parental leave, use the shared parental leave and pay planning tool on GOV.UK.
-Shared parental leave templates
-Download and use:
-shared parental leave forms and templates for parents
-shared parental leave templates for employers
+
 Step 1: Ending maternity or adoption entitlement
 The birth parent or primary adopter must give their employer notice to end their maternity or adoption leave ('notice of curtailment') to
 create an entitlement to shared parental leave.
@@ -254,7 +240,6 @@ parental leave.
 If the baby needs neonatal care
 If the baby needs neonatal care, employees might be eligible for neonatal care leave and pay. This is in addition to maternity, paternity
 and shared parental leave.
-Find out more about neonatal care leave and pay
 Changing the amount each parent takes
 Parents who are both entitled to shared parental leave can change the amount of leave each of them will take.
 They must both agree and sign each other's notices of entitlement with the updated amount of shared parental leave they're each
@@ -267,8 +252,7 @@ decide to take less shared parental leave
 change discontinuous leave into one block of continuous leave
 The employer might ask for 8 weeks' notice before the employee returns to work.
 The employee cannot book any new blocks of shared parental leave.
-Parents cannot apply for shared parental leave after the death of a child. The birth parent can still get maternity leave or adoption leave
-. The partner could still be eligible for statutory paternity leave.
+Parents cannot apply for shared parental leave after the death of a child. The birth parent can still get maternity leave or adoption leave. The partner could still be eligible for statutory paternity leave.
 If a parent dies
 If a parent is eligible for shared parental leave and the other parent dies, they can:
 still take shared parental leave as planned
@@ -303,6 +287,5 @@ because they'll no longer meet the eligibility test. The other parent keeps thei
 If the contract ends while the employee is on shared parental leave, they could still be entitled to shared parental pay.
 Redundancy
 There is extra protection for employees who take shared parental leave.
-Find out about redundancy protection for pregnancy and new parents
 Returning to work
 After shared parental leave, the same rights and processes apply as returning to work after maternity leave.

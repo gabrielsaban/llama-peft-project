@@ -7,8 +7,7 @@ It could be a regular pattern of behaviour or a one-off incident. It can happen 
 are working remotely.
 How the law defines sex
 Important: In April 2025, the Supreme Court ruled that sex in the Equality Act 2010 refers to 'biological sex'. This will usually
-mean the sex recorded on someone's original birth certificate. We'll update this section of our advice when the legal position is
-clearer.
+mean the sex recorded on someone's original birth certificate.
 The law (Equality Act 2010) defines sex using the terms man and woman.
 Someone's legal sex is the sex recorded on their birth certificate or a Gender Recognition Certificate (GRC).
 Who is protected by sex discrimination law
@@ -19,9 +18,6 @@ contractors and self-employed people hired to personally do the work
 job applicants
 former employees – usually around providing references
 Understanding more about discrimination
-Find out about the different types of sex discrimination
-If you need more general discrimination advice, you can read discrimination and the Equality Act 2010. This includes advice on
-employer responsibilities and on other protected characteristics.
 
 2. Types of sex discrimination
 Sex discrimination includes:
@@ -31,15 +27,13 @@ harassment
 victimisation
 It's important to understand the different types of sex discrimination. This is so you know what your rights and responsibilities are under
 discrimination law (Equality Act 2010).
-For full definitions of each type of discrimination, read our advice on discrimination and the Equality Act 2010.
-Equal pay is also covered by the law. Men and women must get equal pay for doing 'equal work'. Find out more about equal pay.
+Equal pay is also covered by the law. Men and women must get equal pay for doing 'equal work'.
 Direct discrimination
 Direct sex discrimination is when someone is put at a disadvantage or treated less favourably because:
 they're a man or a woman
 they are wrongly believed to be a man or a woman – this is called 'discrimination by perception'
 In some circumstances, direct discrimination can happen because of a connection with someone of the other sex. This is called
 'discrimination by association'.
-Read the full definition of direct discrimination
 Example of direct discrimination
 Rowan is the only woman in the sales team. Rowan's manager thinks men are better at sales than women. Rowan is given less
 important contracts to work on and is not able to earn as much commission. This is direct discrimination because of sex.
@@ -55,7 +49,6 @@ discrimination is because of their connection with a woman.
 Indirect discrimination
 Indirect sex discrimination is when a working practice, policy or rule applies to everyone but puts a person or group at a disadvantage
 because of their sex.
-Read the full definition of indirect discrimination
 Example of indirect discrimination
 Dayo is a woman and works part time. They do not get a promotion because the organisation has a policy that supervisors must work
 full time. Dayo cannot do more hours because of childcare. As women are more likely to have childcare responsibilities, this is likely to
@@ -67,10 +60,6 @@ In certain circumstances, an employer might be able to make or justify a decisio
 positive action – to address a situation where men or women are at a disadvantage or underrepresented
 occupational requirement – when being a man or a woman is essential for a job
 objective justification – for example when there's a genuine business need
-Find out more about:
-positive action
-an occupational requirement in recruitment
-objective justification
 Harassment
 There are 3 types of harassment that can happen because of sex. These are:
 harassment related to sex
@@ -81,7 +70,6 @@ Harassment related to sex is when someone experiences unwanted behaviour that's 
 To be harassment, the unwanted behaviour must have either:
 violated someone's dignity
 created an intimidating, hostile, degrading, humiliating or offensive environment
-Read the full definition of harassment
 Example of harassment directed at a specific person
 
 Nikola manages a team of men. Some of them do not like being managed by a woman. They make negative comments about women
@@ -92,25 +80,22 @@ people in the team are offended by these comments. This could be harassment, eve
 specific person.
 Sexual harassment
 Sexual harassment is unwanted behaviour of a sexual nature.
-Find out more about sexual harassment
 Less favourable treatment as a result of harassment
 This type of harassment is when someone is treated less favourably because of how they responded to previous:
 harassment related to sex
 sexual harassment
-Find out more about less favourable treatment as a result of harassment
 Victimisation
 Victimisation is when someone is treated less favourably as a result of being involved with a discrimination complaint.
 It does not matter if the complaint was made by them or someone else.
 The law also protects someone from victimisation if someone else thinks they're involved with a complaint.
 Ways someone can be victimised include being labelled a troublemaker, being left out, or not being allowed to do something.
-Read the full definition of victimisation
 Example of victimisation
 Indy is supporting a friend at work who's making a sex discrimination complaint. A manager threatens Indy with dismissal if they
 continue to support the claim. This is victimisation.
 Related content
 Types of pregnancy and maternity discrimination
-3. Making and handling complaints
 
+3. Making and handling complaints
 If someone has experienced or witnessed sex discrimination at work, they can make a complaint to their employer. The employer
 should take it seriously and look into it as soon as possible.
 Sex discrimination can be very distressing. It can have a severe impact on someone's mental health and wellbeing.
@@ -121,31 +106,24 @@ anyone accused of sex discrimination is treated in an impartial and fair way
 If you've experienced sex discrimination
 It's best to make a complaint as soon as possible. But if you make a complaint a long time after an incident took place, your employer
 should still take it seriously.
-Find out what to do if you've been discriminated against
 Witnessing sex discrimination
 If you think someone at work is being discriminated against, there are actions you can take. This could include stepping in to try and
 stop it happening if you feel it's safe, supporting people or giving evidence.
 Witnessing discrimination might also affect you personally. In some circumstances, you could make a harassment complaint yourself.
-Find out more about witnessing discrimination
 Handling a discrimination complaint
 If you're an employer or manager, you should look into any discrimination complaint in a way that's fair and sensitive to:
 the person who made the complaint
 anyone who witnessed it
 anyone accused of discrimination
-Find out how to handle a discrimination complaint
-Related content
-/equal-pay
-/sexual-harassment
+
 4. Preventing sex discrimination
 All employers should take steps to try to make sure sex discrimination does not happen at work.
 As an employer, you should:
 aim for a culture where everyone accepts that sex discrimination is not acceptable
 recognise and promote the benefits of a diverse and inclusive organisation
-Find out more about improving equality, diversity and inclusion
 
 Steps for preventing sex discrimination
-Many ways to prevent discrimination apply equally to all 'protected characteristics'. You can find out more in our advice on preventing
-discrimination.
+Many ways to prevent discrimination apply equally to all 'protected characteristics'.
 Measures that are specific to preventing sex discrimination include:
 stopping inappropriate behaviour
 being aware of common stereotypes
@@ -198,7 +176,7 @@ This can include setting up ways for people to share experiences, raise concerns
 For example:
 setting up a support network, for example a women's network or carers' network
 holding activities and events for everyone, for example around the menopause or men's health
-having a menopause and wellbeing champion – find out more about supporting staff through the menopause
+having a menopause and wellbeing champion
 If you do these things, make sure you:
 give people the time to be involved
 actively listen to concerns raised
@@ -206,14 +184,6 @@ take steps to resolve issues
 Providing equal pay
 Make sure you know your responsibilities around equal pay.
 By law, men and women must get equal pay for doing 'equal work'. The law also applies to contractual terms and conditions.
-Find out more about equal pay
 Gender pay gap reporting
-
 The 'gender pay gap' is the difference in average earnings between women and men. Employers with more than 250 employees must
 report their organisation's gender pay gap.
-Follow the gender pay reporting guidance on GOV.UK
-Get more advice and support
-If you need help to deal with any challenges in your organisation, you can:
-get tailored support for your organisation
-Related content
-Preventing pregnancy and maternity discrimination

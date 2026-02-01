@@ -38,7 +38,6 @@ For example, an employment contract might also include:
 other clauses – for example about keeping sensitive company information confidential
 the organisation's code of conduct
 policies – for example on social media or data protection (GDPR)
-Find out more about the written statement
 When the employment contract begins
 An employment contract begins when someone starts work.
 This is the case even if the employer has:
@@ -53,10 +52,6 @@ If there's no written statement
 Employers must provide the written statement on or before the first day of work.
 Workers and employees should raise the issue with their employer if they've not received the written statement. It's a good idea to do
 this informally first by talking with their employer.
-Training
-Acas also provides:
-training courses on employment contracts
-free e-learning on employment contracts and written statements
 
 2. Written or verbally agreed terms
 An employment contract is made up of different types of terms. This includes terms that are:
@@ -110,7 +105,6 @@ duty of care
 duty of trust and confidence
 duty of fidelity
 These duties are a type of imposed term because they come from the law. But they are generally known as 'implied duties'.
-Find out more about implied duties
 4. Custom and practice
 Sometimes things that are not written down can become part of an employment contract through 'custom and practice'.
 To be implied through custom and practice, something must be:
@@ -118,7 +112,6 @@ To be implied through custom and practice, something must be:
 reasonable
 certain
 Example of custom and practice
-
 An employer always gives more than the statutory minimum redundancy pay when they make redundancies. This is called enhanced
 redundancy pay.
 Their written contracts don't say how much redundancy pay they give. But it is well known throughout the organisation that they always
@@ -180,8 +173,8 @@ customers
 An employer will not usually be able to enforce restrictive covenants unless they're clear, specific and time-restricted. Even then, this
 area of the law can be complex.
 If you're an employer, you should consider getting legal advice before including restrictive covenants in contracts.
-6. Flexibility clauses
 
+6. Flexibility clauses
 Sometimes employers include 'flexibility clauses' in contracts. They're often called 'variation clauses'.
 These clauses are intended to allow employers to change terms in the contract in certain circumstances. Flexibility clauses can be
 general or specific.
@@ -214,12 +207,8 @@ to offset any extra costs from the change in work location
 the work location is among the terms and conditions covered by a 'collective agreement' – this is an agreement with a
 recognised trade union
 there's any risk of discrimination
-Find out more about:
-proposing employment contract changes
-if your employer proposes employment contract changes
 
 Adding a flexibility clause to a contract
 If an employer would like to introduce a flexibility clause, they would need to change the employment contract.
 An employer must follow certain steps when changing employment contracts.
 Employees have different options when deciding how to respond if their employer proposes a change to their contract.
-Find out more about changing an employment contract

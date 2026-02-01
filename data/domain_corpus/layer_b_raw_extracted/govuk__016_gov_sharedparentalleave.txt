@@ -1,5 +1,4 @@
-Shared Parental Leave and
-Pay
+Shared Parental Leave and Pay
 1. How it works
 You and your partner may be able to get Shared Parental Leave (SPL) and
 Statutory Shared Parental Pay (ShPP) if you’re:
@@ -7,7 +6,6 @@ having a baby
 using a surrogate to have a baby
 adopting a child
 fostering a child who you’re planning to adopt
-This guide is also available in Welsh (Cymraeg) (/absenoldeb-a-thal-ar-ycyd-i-rieni).
 You can share up to 50 weeks of leave and up to 37 weeks of pay between
 you.
 You need to share the pay and leave in the first year after your child is born
@@ -17,9 +15,9 @@ take it all in one go. You can also choose to be off work together or to
 stagger the leave and pay.
 To get SPL and ShPP, you and your partner need to:
 meet the eligibility criteria - there’s different criteria for birth parents
-(/shared-parental-leave-and-pay/eligibility-for-birth-parents) and criteria for
-adoptive parents or parents using a surrogate (/shared-parental-leave-andpay/eligibility-for-adopters)
-give notice to your employers (/shared-parental-leave-and-pay/applying-forleave-and-pay)
+ and criteria for
+adoptive parents or parents using a surrogate 
+give notice to your employers 
 give up some of your maternity or adoption leave and pay
 Giving up maternity and adoption leave and pay
 
@@ -31,6 +29,7 @@ Allowance) and use the rest as ShPP
 For example, if you’re the mother and you’ve taken 22 weeks of Maternity
 Leave and Statutory Maternity Pay, you can share 30 weeks of SPL and 17
 weeks of ShPP with your partner.
+
 2. Eligibility for birth parents
 To be eligible for Shared Parental Leave (SPL) and Statutory Shared
 Parental Pay (ShPP), both parents must:
@@ -40,12 +39,7 @@ parent wants to use the shared parental leave and pay
 You’re not eligible if you started sharing responsibility for the child after it
 was born.
 The eligibility criteria are different if you’re adoptive parents or parents
-using a surrogate (/shared-parental-leave-and-pay/eligibility-for-adopters).
-You can check if you can get SPL and ShPP (https://www.check-sharedparental-leave.service.gov.uk/). You’ll need to know:
-your child’s due date or birth date
-your and your partner’s employment status (/employment-status) and
-earnings
-if you and your partner can get Statutory Maternity Pay (/maternity-payleave/eligibility) or Statutory Paternity Pay (/paternity-pay-leave/eligibility)
+using a surrogate .
 If both parents want to share the SPL and ShPP
 Both parents must meet the same eligibility criteria to get SPL and ShPP.
 You must:
@@ -54,7 +48,7 @@ weeks by the end of the 15th week before the due date
 stay with the same employer until you start your SPL
 
 To be eligible for SPL, you must be ‘employees’ (not ‘workers’) - check your
-employment status (/employment-status). If either of you is a ‘worker’, you
+employment status . If either of you is a ‘worker’, you
 might be able to share ShPP but not SPL.
 To be eligible for ShPP, you must each earn on average at least £125 a
 week.
@@ -71,7 +65,7 @@ have been employed continuously by the same employer for at least 26
 weeks by the end of the 15th week before the due date
 stay with the same employer until they start their SPL
 To be eligible for SPL, the partner must be an ‘employee’ (not a ‘worker’) -
-check their employment status (/employment-status). If the partner is a
+check their employment status . If the partner is a
 ‘worker’, they might be able to get ShPP but not SPL.
 To be eligible for ShPP, the partner must earn on average at least £125 a
 week.
@@ -89,10 +83,11 @@ have been employed continuously by the same employer for at least 26
 weeks by the end of the 15th week before the due date
 stay with the same employer until they start their SPL
 To be eligible for SPL, the mother must be an ‘employee’ (not a ‘worker’) -
-check their employment status (/employment-status). If the mother is a
+check their employment status . If the mother is a
 ‘worker’, they might be able to get ShPP but not SPL.
 To be eligible for ShPP, the mother must earn on average at least £125 a
 week.
+
 3. Eligibility for adopters or parents
 using a surrogate
 To be eligible for Shared Parental Leave (SPL) and Statutory Shared
@@ -104,13 +99,7 @@ adopt
 Both parents must also meet the work and earnings criteria. The criteria are
 different depending on which one of you wants to use the shared parental
 leave and pay
-The eligibility criteria are different if you’re birth parents (/shared-parentalleave-and-pay/eligibility-for-birth-parents).
-You can check if you can get SPL and ShPP (https://www.check-sharedparental-leave.service.gov.uk/). You’ll need to know:
-your child’s due date or birth date if you’re using a surrogate, or the
-match date if you’re adopting or fostering to adopt
-your and your partner’s employment status (/employment-status) and
-earnings
-if you and your partner can get Statutory Adoption Pay (/adoption-payleave/eligibility) or Statutory Paternity Pay (/paternity-pay-leave/eligibility)
+The eligibility criteria are different if you’re birth parents .
 If both parents want to share the SPL and ShPP
 Both parents must meet the same eligibility criteria.
 To be eligible for SPL and ShPP, you must stay with the same employer
@@ -121,7 +110,7 @@ the end of the week you or your partner are matched with a child if you’re
 adopting
 the end of the 15th week before the due date if you’re using a surrogate
 To be eligible for SPL, you must be ‘employees’ (not ‘workers’) - check your
-employment status (/employment-status). If either of you is a ‘worker’, you
+employment status . If either of you is a ‘worker’, you
 might be able to share ShPP but not SPL.
 To be eligible for ShPP, you must each earn on average at least £125 a
 week.
@@ -137,7 +126,7 @@ the end of the week you or your partner are matched with a child if you’re
 adopting
 the end of the 15th week before the due date if you’re using a surrogate
 To be eligible for SPL, they must be an ‘employee’ (not a ‘worker’) - check
-their employment status (/employment-status). If they are a ‘worker’, they
+their employment status . If they are a ‘worker’, they
 might be able to get ShPP but not SPL.
 To be eligible for ShPP, they must earn on average at least £125 each a
 week.
@@ -149,6 +138,7 @@ row)
 
 have earned at least £390 in total in 13 of the 66 weeks (add up the
 highest paying weeks - they do not need to be in a row)
+
 4. What you'll get
 You can share up to 50 weeks of leave and up to 37 weeks of pay between
 you.
@@ -160,12 +150,12 @@ rest as Shared Parental Leave (SPL)
 take less than the 39 weeks of maternity or adoption pay (or Maternity
 Allowance) and use the rest as Statutory Shared Parental Pay (ShPP)
 You can check when you and your partner can take your leave and how
-much statutory pay you’ll get (/plan-shared-parental-leave-pay) using the
+much statutory pay you’ll get  using the
 Shared Parental Leave and Pay planning tool.
 How much pay you’ll get
 ShPP is paid at the rate of £187.18 a week or 90% of your average weekly
 earnings, whichever is lower.
-This is the same as Statutory Maternity Pay (SMP) (/maternity-pay-leave/pay)
+This is the same as Statutory Maternity Pay (SMP) 
 except that during the first 6 weeks SMP is paid at 90% of whatever you
 earn (with no maximum).
 Example
@@ -181,7 +171,7 @@ weeks. Once she goes onto SPL, she’s still paid £187.18 a week.
 You can only start Shared Parental Leave (SPL) or Shared Parental Pay
 (ShPP) once the child has been born or placed with your family for
 adoption.
-You can check when you and your partner can start your leave (/planshared-parental-leave-pay) using the Shared Parental Leave and Pay
+You can check when you and your partner can start your leave  using the Shared Parental Leave and Pay
 planning tool.
 For SPL to start
 The mother (or the person getting adoption leave) must either:
@@ -191,7 +181,7 @@ leave (you cannot normally change the date you give in binding notice)
 You can start SPL while your partner is still on maternity or adoption
 leave as long as they’ve given binding notice to end it.
 You can give binding notice and say when you plan to take your SPL
-(/shared-parental-leave-and-pay/applying-for-leave-and-pay) at the same time.
+ at the same time.
 A mother cannot return to work before the end of the compulsory 2 weeks of
 maternity leave following the birth (4 weeks if they work in a factory). If
 you’re adopting, the person claiming adoption pay must take at least 2
@@ -212,7 +202,7 @@ You can start ShPP while your partner is still on maternity pay, adoption
 pay or Maternity Allowance as long as they’ve given binding notice to
 end it.
 You can give binding notice and say when you plan to take your ShPP
-(/shared-parental-leave-and-pay/applying-for-leave-and-pay) at the same time.
+ at the same time.
 Change the decision to end maternity or adoption
 leave
 The mother or adopter may be able to change their decision to end
@@ -226,6 +216,7 @@ for SPL or ShPP
 the mother or adopter’s partner has died
 the mother tells their employer less than 6 weeks after the birth (and they
 gave their employer notice before the birth)
+
 6. Booking blocks of leave
 You can book up to 3 separate blocks of Shared Parental Leave (SPL)
 instead of taking it all in one go, even if you are not sharing the leave with
@@ -234,11 +225,11 @@ If your partner is also eligible for SPL, you can take up to 3 blocks of leave
 each. You can take leave at different times or both at the same time.
 You can take more than 3 blocks of leave if your employer agrees.
 You must tell your employer about your plans for leave when you apply for
-SPL (/shared-parental-leave-and-pay/apply-for-shared-parental-leave). You can
+SPL . You can
 change these plans later but you must give your employer at least 8 weeks’
 notice before you want to begin a block of leave.
 
-You can check when you and your partner can take your leave (/planshared-parental-leave-pay) using the Shared Parental Leave and Pay
+You can check when you and your partner can take your leave  using the Shared Parental Leave and Pay
 planning tool.
 Splitting blocks of leave
 If your employer agrees, you can split blocks into shorter periods of at least
@@ -255,14 +246,15 @@ off during the block.
 Shared Parental Leave in touch (SPLIT) days
 You and your partner can each work up to 20 days while you’re taking SPL.
 These are called ‘Shared Parental Leave in touch’ (or SPLIT) days.
-These days are in addition to the 10 ‘keeping in touch’ (/employee-rightswhen-on-leave) (or KIT) days available to those on maternity or adoption
+These days are in addition to the 10 ‘keeping in touch’  (or KIT) days available to those on maternity or adoption
 leave.
 KIT and SPLIT days are optional - both you and your employer must agree
 to them.
+
 7. Applying for leave and pay
 To get Shared Parental Leave (SPL) or Shared Parental Pay (ShPP) you
 must:
-follow the rules for starting SPL and ShPP (/shared-parental-leave-andpay/when-you-can-start)
+follow the rules for starting SPL and ShPP 
 give your employer at least 8 weeks’ written notice of your leave dates
 
 You can use Shared Parental Leave forms and templates
@@ -276,7 +268,7 @@ If your employer has their own forms you can use those instead.
 You can change your mind later about how much SPL or ShPP you plan to
 take and when you want to take it. You must give notice of any changes at
 least 8 weeks before the start of any leave.
-! You might not get SPL or ShPP if you do not include all the
+You might not get SPL or ShPP if you do not include all the
 required information.
 Giving more information
 Your employer can ask you for more information within 14 days of you

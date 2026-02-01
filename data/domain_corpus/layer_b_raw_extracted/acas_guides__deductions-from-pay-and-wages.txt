@@ -33,9 +33,7 @@ To set up a salary sacrifice arrangement the employer needs to change the terms 
 employee must agree to the change.
 A salary sacrifice must not take an employee's pay below the National Minimum Wage. The employer must put limits on any agreed
 pay reductions to make sure this does not happen.
-Salary sacrifice arrangements can sometimes affect the amount of tax and national insurance paid. To find out more about this you
-can contact HMRC.
-Find out more about salary sacrifice for employers on GOV.UK
+Salary sacrifice arrangements can sometimes affect the amount of tax and national insurance paid.
 What to do before making deductions
 Before making deductions that an employee does not expect, an employer should notify the employee as soon as possible.
 Check any written agreements to see if a deduction is allowed. For example, an employer can deduct money for training costs from
@@ -55,7 +53,6 @@ redundancy pay
 Tips
 Employers must not make deductions from tips, service charges or gratuities that they have 'control or significant influence' over.
 The only exception to this is for usual tax and National Insurance deductions.
-Find out more about tips and service charges
 Limits to deductions if you work in retail
 An employer can only make a deduction to cover any till shortages or stock shortfalls if it's allowed in an employee's contract.
 An employer can take a maximum of 10% of someone's weekly or monthly 'gross pay' (pay before tax and National Insurance).
@@ -72,7 +69,7 @@ driving
 repayment of a wage advance or loan
 an overpayment made by mistake
 buying shares, other securities or share options in the business
-accommodation being provided by an employer – find out more about accommodation deductions on GOV.UK
+accommodation being provided by an employer
 something the employee benefits from – for example trade union subscriptions or pension contributions
 voluntary training – the employee must have agreed in writing beforehand to pay back the costs
 Income Tax and National Insurance deductions
@@ -81,9 +78,6 @@ deduct tax and National Insurance (NI) contributions from their pay
 pass these on to HM Revenue and Customs (HMRC)
 If an employer is not passing on these contributions, you can contact the HMRC helpline.
 People who are self-employed organise paying tax and other deductions themselves.
-Find out more about:
-Income Tax on GOV.UK
-National Insurance contributions on GOV.UK
 If you do not agree with a deduction
 If an employee disagrees with a deduction, they should first try to raise it with their employer.
 If they've not been able to resolve the issue with their employer, they might be able to make a claim to an employment tribunal.
@@ -99,12 +93,7 @@ If several deductions were made, the employee has 3 months minus 1 day from the 
 The employee can claim up to 2 years back as long as either of the following apply:
 there's less than 3 months between deductions
 the deductions are linked – for example, they might be linked if they are caused by the same error
-Find out more about employment tribunal time limits
-Get more advice and support
-Acas is not able to give advice about tax and National Insurance.
-If you need more advice about deductions, you can:
-talk to a trade union representative, if you're a member
-Acas also provides training on deductions from pay.
+
 2. Handling overpayments
 In most circumstances an employer has the right to claim back money if they've overpaid someone. They should contact the employee
 as soon as they're aware of the mistake.
@@ -129,12 +118,8 @@ mental health problems arising
 existing mental health problems getting worse
 The employer should share any specialist help available through work. For example, through an employee assistance programme
 (EAP).
-Find out more about:
-managing work-related stress
-supporting mental health at work
 If someone has left the organisation
 If an employee owes money but no longer works for the organisation, the employer should contact them. They should explain why they
 think they owe them money and how much.
 If the former employee refuses to pay back the money, the employer might be able to make a court claim to get the money back from
 them.
-Find out more about making a court claim on GOV.UK

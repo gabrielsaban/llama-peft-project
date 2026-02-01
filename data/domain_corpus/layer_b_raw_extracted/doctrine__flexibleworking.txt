@@ -1,51 +1,3 @@
-Research Briefing
-9 September 2024
-Flexible working
-By Stephanie Cunningham,
-Patrick Brione,
-Khadijah Zaidi
-Summary
-1 Patterns in flexible working
-2 The legal framework
-3 Policy background and discussion
-commonslibrary.parliament.uk
-
-Number 01086 Flexible working
-Image Credits
-Office in London by Phil Whitehouse. Licensed under Creative Commons
-Attribution 2.0 Generic / image cropped.
-Disclaimer
-The Commons Library does not intend the information in our research
-publications and briefings to address the specific circumstances of any
-particular individual. We have published it to support the work of MPs. You
-should not rely upon it as legal or professional advice, or as a substitute for
-it. We do not accept any liability whatsoever for any errors, omissions or
-misstatements contained herein. You should consult a suitably qualified
-professional if you require specific advice or information. Read our briefing
-‘Legal help: where to go and how to pay’ for further information about
-sources of legal advice and help. This information is provided subject to the
-conditions of the Open Parliament Licence.
-Sources and subscriptions for MPs and staff
-We try to use sources in our research that everyone can access, but
-sometimes only information that exists behind a paywall or via a subscription
-is available. We provide access to many online subscriptions to MPs and
-parliamentary staff, please contact hoclibraryonline@parliament.uk or visit
-commonslibrary.parliament.uk/resources for more information.
-Feedback
-Every effort is made to ensure that the information contained in these publicly
-available briefings is correct at the time of publication. Readers should be
-aware however that briefings are not necessarily updated to reflect
-subsequent changes.
-If you have any comments on our briefings please email
-papers@parliament.uk. Please note that authors are not always able to
-engage in discussions with members of the public who express opinions
-about the content of our research, although we will carefully consider and
-correct any factual errors.
-You can read our feedback and complaints policy and our editorial policy at
-commonslibrary.parliament.uk. If you have general questions about the work
-of the House of Commons email hcenquiries@parliament.uk.
-2 Commons Library Research Briefing, 9 September 2024
-
 Flexible working
 The statutory right to request flexible working entitles qualifying employees to
 apply to their employers for a change to their terms and conditions of
@@ -78,201 +30,29 @@ personal and working lives, benefiting employers in terms of workforce
 recruitment, motivation and retention.
 Examples of flexible working arrangements include part-time working,
 compressed hours, and flexitime.
-4 Commons Library Research Briefing, 9 September 2024
 
-Flexible working
-Attitudes towards flexible working
-Surveys have shown that many employees want flexible working
-arrangements. A survey in 2017 by Timewise (a flexible working consultancy)
-found that 84% of male full-time employees and 91% of female full-time
-employees were either already working flexibly, or said they wanted to do so.
-A survey of UK businesses by HSBC in 2021 also reported that flexible working
-and salary were equally important when attracting and retaining staff, with
-35% of businesses stating this as important.
-According to a survey by the Chartered Institute of Personnel and
-Development (CIPD), the most common type of flexible working is working
-from home on a regular basis. The ONS reported in June 2021 that 24% of
-businesses intended to use homeworking as a permanent business model
-going forward. Almost 80% of businesses said this was because of improved
-staff wellbeing.
-5 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-1 Patterns in flexible working
-Around 2.6 million employees had been with the same employer for less than
-26 weeks (roughly 9.5% of all employees) in January to December 2022.1 This
-represents the number of people estimated to come into scope of legislative
-changes making the right to request flexible working a day one right, instead
-of after 26 weeks of continuous employment.
-Surveys have shown that many employees want flexible working
-arrangements. A survey in 2017 by Timewise (a flexible working consultancy)
-found that 84% of male full-time employees and 91% of female full-time
-employees were either already working flexibly, or said they wanted to do so.2
-The ONS found that among those aged 50 to 65 years who had left or lost
-their job since the pandemic, flexible working was a big consideration in
-deciding whether to return to work. Of those who said they would consider
-returning to work, over half said the most important factor when choosing a
-new job were flexible working arrangements. Being able to work flexible
-working hours was most commonly given as the most important factor (32%),
-followed by good pay (23%), and being able to work from home (12%).3
-A survey of UK businesses by HSBC in 2021 reported that flexible working and
-salary were equally important when attracting and retaining staff, with 35%
-of businesses stating this as important.4
-According to a survey by the CIPD, the most common type of flexible working
-is working from home on a regular basis. There are gaps between the types of
-flexible working that people would use if it were possible and offered in their
-role, and the types of flexible working people actually use.5
-The rates of people working from home increased during the pandemic and
-have remained higher after the pandemic, from around 4% in 2015 to around
-21% in 2023.6
-1 Department for Business and Trade, Flexible Working (Amendment) Regulations 2023 Impact
-Assessment, p10
-2 Timewise, Flexible working: a talent imperative, 19 September 2017, p3
-3 ONS, Reasons for workers aged over 50 years leaving employment since the start of the coronavirus
-pandemic: wave 2, 27 September 2022
-4 HSBC, Flexible working as important as salary say UK businesses, 5 October 2021
-5 CIPD, Flexible and hybrid working practices in 2023, May 2023
-Figures for 2015- 2020: ONS, Homeworking in the UK labour market, 17 May 2021; Figures for 20212023: House of Commons Library analysis of Annual Population Survey data
-6 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-1.1 Use of different types of flexible working
-arrangements
-The following chart shows different types of flexible working practices that
-people currently use. It is based on a survey carried out by the CIPD in 2023 of
-2,005 employees. The chart compares what employees said they would use if
-it was possible and offered in their role, and what they actually use.
-The most common types of flexible working arrangements in use by
-respondents to the survey are working from home on a regular basis (37%),
-informal flexibility7 (31%) and always working from home (17%).
-Some types of flexible working have sizeable gaps between the percentage of
-people who reported currently using them, and the percentage of people who
-would use that type of flexibility if offered and possible:
-• Four day weeks: 46% of survey respondents would use this if possible;
-6% of survey respondents currently use it
-• Flexitime: 39% of survey respondents would use this if possible; 17% of
-survey respondents currently use it
-• Career breaks: 16% of survey respondents would use this if possible; 1%
-of survey respondents currently use it
-• Compressed hours: 18% of survey respondents would use this if possible;
-4% of survey respondents currently use it
-7 Informal flexibility means the ability to change hours or location on an as-needed basis, informally
-agreed with line manager
-7 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-Use of flexible working arrangements (%), 2023
-Ordered by current use
-Working from home on a regular basis
-Informal flexibility
-Always working from home
-Flexitime
-Part-time hours
-Four-day week
-Compressed hours
-Zero-hour contracts
-Annualised hours
-Term-time working
-Career breaks
-Job-sharing
-No flexible arrangements used
-Don't know
-Other
-0 10 20 30 40 50
-Currently used Would be used if offered and possible
-Notes
-Informal flexibility means the ability to change hours or location on an as-needed basis, informally
-agreed with line manager
-Figures are taken from a YouGov survey undertaken by the Chartered Institute for Personnel
-Development between 1-22 February 2023.
-Total sample size was 2,005 employees
-Source: CIPD, Flexible and hybrid working practices in 2023, May 2023
-8 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-1.2 Home working
-There was a large increase in the proportion of employed people who were
-working from home between 2019 and 2022 as shown in the table below. This
-is based on survey data from the Annual Population Survey. People are asked
-where they mostly worked during the survey reference week. This shows that
-between 2015 to 2023, the proportion of employed people who mostly worked
-from their own home increased from around 4% in 2015 to around 21% in
-2023.
-Places of work for employed people in the UK, 2015-2023 (%)
-Different
-Same places with
-grounds or home as Separate
-Own Home building base from home
-2015 4.3 1.0 8.7 85.6
-2016 4.6 1.0 8.4 85.7
-2017 4.6 1.0 8.1 85.9
-2018 4.9 1.0 8.1 85.8
-2019 5.1 0.9 8.2 85.5
-2020 8.5 0.8 8.0 82.4
-2021 14.6 0.9 7.0 77.3
-2022 21.6 0.9 7.8 69.3
-2023 21.2 0.9 8.1 69.5
-Notes
-Figures are for January to December
-A homeworker is someone who worked mostly from home during the survey reference week.
-Figures do not add up to 100% due to the inclusion of the responses "does not apply" or "no answer"
-in the denominator. This is how the ONS calculates their figures.
-Rates are based on the number of people aged 16 or over in employment.
-Source: Figures for 2015- 2020: ONS, Homeworking in the UK labour market, 17 May 2021
-Figures for 2021-2023: House of Commons Library analysis of Annual Population Survey data
-Before the pandemic, the rate of people mainly working from home remained
-fairly steady at between 4% to 5%. During the pandemic in 2020 and 2021, in
-which people were encouraged to work from home where possible, this
-9 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-increased to over 8% in 2020 and nearly 15% in 2021.8 This continued to
-increase after the pandemic, and in 2023 around 21% of people mainly
-worked from home.
-The ONS reported in June 2021 that 24% of businesses intended to use
-homeworking as a permanent business model going forward. Almost 80% of
-businesses said this was because of improved staff wellbeing.9
-8 ONS, Business and individual attitudes towards the future of homeworking, UK: April to May 2021, 14
-June 2021
-9 ONS, Business and individual attitudes towards the future of homeworking, UK: April to May 2021, 14
-June 2021
-Data is from the Business Insights and Conditions Survey, between 19 April to 2 May 2021
-10 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
 2 The legal framework
 2.1 The right
 The right to request flexible working is set out in Part 8A and section 47E of
-the Employment Rights Act 1996, as amended, and associated regulations.10
+the Employment Rights Act 1996, as amended, and associated regulations.
 From the first day of their employment, an employee may apply to their
 employer requesting a change in hours, times or location of work as between
-their home and employer’s place of business.11 The application must:
+their home and employer’s place of business. The application must:
 • be in writing;
 • state that it is a flexible working application;
 • specify the change applied for and the date on which it is proposed the
 change should become effective;
 • state whether the employee has previously made an application to the
 employer and if so when;
-• be dated.12
+• be dated.
 Under section 1 of the Employment Relations (Flexible Working) Act 2023,
 employees are allowed to make two flexible working requests in a 12-month
-period.13
-The GOV.UK website provides some examples of flexible working
-arrangements:
+period.
 • Part time: Working less than full-time hours (usually by working fewer
 days).
 • Compressed hours: Working full-time hours but over fewer days - for
 example a 9-day fortnight (an employee has a day off every other
 week and works longer hours on the other days)
-10 Employment Rights Act 1996, pt 8a, s 47E; See The Flexible Working Regulations 2014 (SI 2014/1398),
-Employment Relations (Flexible Working) Act 2023, The Flexible Working (Amendment) Regulations
-2023
-11 Employment Rights Act 1996, s 80F, ss 1; The Flexible Working Regulations 2014 (SI 2014/1398), reg 3
-12 Employment Rights Act 1996, s 80F, ss 2; The Flexible Working Regulations 2014 (SI 2014/1398), reg 4
-13 Employment Relations (Flexible Working) Act 2023, s 1
-11 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
 • Flexitime: The employee chooses when to start and end work (within
 agreed limits) but works certain ‘core hours’, for example 10am to
 4pm every day.
@@ -281,37 +61,24 @@ hours over the year but has some flexibility regarding when they work.
 • Staggered hours: The employee has different start, finish and break
 times from other workers.
 • Phased retirement: Older workers can choose when they want to retire
-and can reduce their hours and work part time.14
+and can reduce their hours and work part time.
 Acas Code of Practice
 The right to request flexible working is supported by a statutory Code of
 Practice produced by the Advisory, Conciliation and Arbitration Service
-(Acas).15 The code sets out how employees can make statutory requests for
+(Acas).The code sets out how employees can make statutory requests for
 flexible working.
-Acas publishes guidance on the right to flexible working as well as a guide for
-employers and employees on working from home and hybrid working.16
+
 2.2 Employer’s duties in relation to an application
 The employer must respond to a request “in a reasonable manner” and within
-two months or such longer period as agreed by the employer and employee.17
+two months or such longer period as agreed by the employer and employee.
 What is “reasonable” depends on the particular circumstances and is not
 defined in the legislation.
 The Acas Code of Practice suggests that a ‘reasonable manner’ should
 include carefully assessing the effect of the requested change for both the
 employer and employee, including the potential benefits or impacts of
-accepting or rejecting the request.18
+accepting or rejecting the request.
 Should the employer refuse to grant the request it has discretion as to
-whether to allow an appeal; if it does, the same time limits apply.19 The
-14 GOV.UK, Flexible Working, (accessed 4 September 2024)
-15 Acas consulted on the Code between 12 July and 6 September 2023. The consultation and responses
-are available on the Acas website: Acas, Acas response to consultation on draft Code of Practice on
-handling requests for flexible working, 6 April 2024
-16 Acas, Flexible working, April 2024; Acas, Working from home and hybrid working, April 2024
-17 Employment Rights Act 1996, s 80G, ss1 & s 80G, ss 1B. Previously, employers had 3 months to respond
-to a request. This was amended by the Employment Relations (Flexible Working) Act 2023, s 1, ss 6
-18 As above
-19 Employment Rights Act 1996, s 80G, ss 1A
-12 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
+whether to allow an appeal; if it does, the same time limits apply. The
 employer may only refuse the application because they consider that one or
 more of the following grounds applies:
 • the burden of additional costs;
@@ -324,11 +91,12 @@ more of the following grounds applies:
 or
 • planned structural changes
 • such other grounds as the Secretary of State may specify by
-regulations.20
+regulations.
 The employer may treat the employee’s application as withdrawn if the
 employee, without good reason, fails to attend both the first meeting
 arranged by the employer to discuss the application and the next meeting
-arranged for that purpose.21
+arranged for that purpose.
+
 2.3 Remedies
 If the employer fails to comply with these obligations, makes their decision
 based on incorrect facts or treats the employee’s application as withdrawn in
@@ -338,115 +106,21 @@ The tribunal may make an order for reconsideration of the application and
 award compensation of such amount it considers just and equitable, not
 exceeding eight weeks’ pay. A weeks’ pay is subject to the statutory maximum
 set annually by regulations. The most recently prescribed limits are:
-20 Employment Rights Act 1996, s 80G, ss1, para b
-21 Employment Rights Act 1996, s 80G, ss 1D
-13 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
 Maximum limits of one week's pay for compensation awards
 Date Maximum (£)
 6 April 2024 – 5 April 2025 700
 6 April 2023 – 5 April 2024 643
 6 April 2022 – 5 April 2023 571
-Source: Source: The Employment Rights (Increase of Limits) Order 2024 (SI 2024/213), The Employment
-Rights (Increase of Limits) Order 2023 (SI 2023/318)
-14 Commons Library Research Briefing, 9 September 2024
 
-Flexible working
 3 Policy background and discussion
 3.1 Labour Government policy: 1997-2010
 The right to request flexible working was introduced by section 47 of the
 Employment Act 2002, following a report by the Work and Parents
-Taskforce.22 Section 27 came into effect on 6 April 2003 at the same time as
-the associated regulations.23 The legislation initially gave the right to parents
-of children under six or disabled children under 18.24
+Taskforce. Section 27 came into effect on 6 April 2003 at the same time as
+the associated regulations. The legislation initially gave the right to parents
+of children under six or disabled children under 18.
 Consultation to extend the right to flexible working,
-2004-5
-In April 2004, the government announced plans to extend the provisions for
-flexible working to carers of adult dependants. The consultation on the
-proposal ran from February to May 2005, with the government’s response
-published in October 2005.25
-The response confirmed the government’s intention to extend the right to
-carers.26 Although the consultation also explored the possibility of extending
-the right to parents of older children, the government decided against
-extending the right as there was not a “sufficient case for extending the law to
-other parents at [that] time”.27
-The Work and Families Act 2006 and Flexible Working (Eligibility, Complaints
-and Remedies) (Amendment) Regulations 2006 were introduced to allow
-22 Employment Act 2002, s 47; Section 47 inserted Part 8A of the Employment Rights Act 1996;
-Eurofound, Parents to have legal right to request flexible working, 5 December 2001; Department for
-Trade and Industry, Government Response to the Recommendations from the Work and Parents
-Taskforce, November 2001 (accessed 13 June 2024)
-23 The Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002 SI 2002/3236; The
-Flexible Working (Procedural Requirements) Regulations 2002 SI 2002/3207.
-24 This includes the: mother, father, adopter, guardian or foster parent of the child or; someone married
-to or the partner of the child’s mother, father, adopter, guardian or foster parent. On 1 October
-2007, the Labour Government made some minor technical amendments to the flexible working
-regulations, which expanded the definitions of “adopter” and “relative” through the Flexible
-Working (Eligibility, Complaints and Remedies) (Amendment) (No. 2) Regulations 2007, SI
-2007/2286
-25 DTI, Work and Families Consultation: Government Response, October 2005
-26 DTI, Work and Families Consultation: Government Response, October 2005, p5
-27 DTI, Work and Families Consultation: Government Response, October 2005, p43, para 5.28
-15 Commons Library Research Briefing, 9 September 2024
 
-Flexible working
-employees to apply for flexible working in order to care for a person age 18 or
-over who fell within a description set by regulations.28
-Walsh Review and consultation, 2007-9
-In 2008 the government published a consultation on extending the right to
-request flexible working to the parents of older children.29 This consultation
-was published in response to recommendations made by the Walsh review,
-an independent review led by Imelda Walsh, the Director of Human Resources
-at J Sainsbury plc.30 The consultation response was published in March
-2009,31 and confirmed the government’s intention to extend the right to those
-with parental responsibility for children under 17.32
-This extension came into effect on 6 April 2009 through the Flexible Working
-(Eligibility, Complaints and Remedies) (Amendment) Regulations 2009.33 They
-amended regulation 3A of the Flexible Working (Eligibility, Complaints and
-Remedies) Regulations 2002.34
-The Walsh Review also considered whether the right should be extended to all
-employees. The review concluded that rather than extending the right to all
-employees, employers should be encouraged to consider including all
-employees when looking at flexible working arrangements.”35
-Equality and Human Rights Commission proposals
-On 30 March 2009 the Equality and Human Rights Commission (EHRC)
-published a report, Working Better [PDF], which made recommendations for
-changes to the flexible working and parental leave regimes.36
-28 The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) Regulations 2006 SI
-2006/3314 came into force on 6 April 2007. They amended the Flexible Working (Eligibility,
-Complaints and Remedies) Regulations 2002 SI 2002/3236 to cover employees who care for
-dependant adults.
-29 Department for Business Enterprise & Regulatory Reform, Consultation on implementing the
-recommendations of Imelda Walsh’s Independent Review, [PDF] August 2008
-30 Department for Business Enterprise & Regulatory Reform, A review of how to extend the right to
-request flexible working to parents of older children, [PDF] May 2008, p19
-31 BERR, Extending the right to request flexible working to parents of older children: Government
-response to consultation on implementing the recommendations of Imelda Walsh’s independent
-review, March 2009
-32 BERR, Extending the right to request flexible working to parents of older children: Government
-response to consultation on implementing the recommendations of Imelda Walsh’s independent
-review, March 2009, p4; HC Deb 17 December 2008, c1095
-33 Flexible Working (Eligibility, Complaints and Remedies) (Amendment) Regulations 2009 SI 2009/595
-34 Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002 SI 2002/3236
-35 Department for Business Enterprise & Regulatory Reform, A review of how to extend the right to
-request flexible working to parents of older children, [PDF] May 2008, p8
-36 Equality and Human Rights Commission, Working Better: Meeting the changing needs of families,
-workers and employers in the 21st century, [PDF]
-30 March 2009
-16 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-In regard to flexible working, EHRC research found that general awareness of
-the right to request a flexible working pattern among parents was low.37 It
-also found that flexibility was still perceived, widely but incorrectly, as the
-preserve of mothers of young children.38 The report said that UK legislation
-was limited because it did not provide for a return to full-time work after a
-period of reduced hours.
-The report made a number of recommendations, which included extending
-the right to request flexible working to all employees, introducing a formal
-right to request a return to a full-time working pattern, and removing the 26
-weeks eligibility criteria for right to request.39
 3.2 Coalition Government policy, 2010-15
 In the 2010 General Election manifesto, the Conservative Party pledged to
 extend the right to request flexible working to all parents with children under
@@ -467,21 +141,6 @@ the regulations could become ‘an unhelpful complication’ at a time when
 ‘employers need to focus on growth and creating jobs.’45
 In the accompanying press release, the government recommitted to
 extending the right to request flexible working to all employees in due course
-37 Equality and Human Rights Commission, Working Better, 30 March 2009, p62
-38 As above, p52
-39 As above, p63
-40 Conservative Party, Invitation to Join the Government of Britain: The Conservative Manifesto 2010,
-[PDF], p42
-41 Liberal Democrats, Manifesto 2010, p30
-42 HM Government, The Coalition: our programme for government, [PDF] May 2010, p18
-43 Department for Business, Innovation & Skills, Family friendly working – next steps, BIS website, 1
-October 2010 (accessed on 15 July2024)
-44 The Flexible Working (Eligibility, Complaints and Remedies) (Amendment) Regulations 2010 SI
-2010/2991
-45 HC Deb 18 March 2011, c31WS
-17 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
 and explained that “the aim behind delaying the extension of flexible working
 is to allow businesses breathing space in the current economic climate.”46
 Children and Families Act 2014
@@ -492,83 +151,7 @@ law on flexible working requests to extend the right to all employees with 26
 weeks’ continuous employment.47 It also removed previous procedural
 requirements for employers’ responses, replacing these with a duty to deal
 with the application in a reasonable manner.
-Prior to publication of the Children and Families Bill, the government
-consulted on changes to flexible working as part of the Modern Workplaces
-consultation.
-Modern Workplaces consultation
-The Modern Workplaces consultation document presented the government’s
-case for change:
-Through the right to request flexible working, many parents and carers have
-already benefited from flexibility in balancing their personal and working lives.
-Extending this right and encouraging flexible working generally will give all
-employees the opportunity to contribute more widely to society, whether as
-carers, disabled people, volunteers, or simply as citizens. It will also help
-employers to recruit, motivate and retain their workforces, and so build
-successful businesses as well as increasing productivity. By responsibly
-negotiating working patterns that suit the needs of both parties, businesses
-can access a labour pool of experienced and skilled staff, who in turn will be
-able to find work that fits around their other commitments.48
-The document highlighted research undertaken by Industrial Relations
-Services which indicated wide support for flexible working amongst human
-resources professionals.49
-The consultation document set out the government’s intention to:
-• extend to all employees the statutory right to request flexible working;
-46 Department for Business, Innovation & Skills, Vince Cable bins business red tape, 18 Mar 2011; and BIS
-press release, Government bins business red tape, 18 March 2011
-47 Children and Families Act 2014, pt 9
-48 Department for Business, Innovation & Skills, Consultation on Modern Workplaces: flexible parental
-leave, flexible working, Working Time Regulations, equal pay, May 2011, p2
-49 Department for Business, Innovation & Skills, Consultation on Modern Workplaces: flexible parental
-leave, flexible working, Working Time Regulations, equal pay, May 2011, p33; Brightmine, IRS flexible
-working survey 2010: take-up and employee requests, (accessed 12 June 2024)
-18 Commons Library Research Briefing, 9 September 2024
 
-Flexible working
-• reduce the administrative burden of considering such requests by
-replacing the statutory process for considering requests with a
-requirement that employers give “reasonable” consideration to requests;
-• introduce a statutory Code of Practice to provide guidance on what
-consideration is likely to meet the requirement of reasonableness50
-The government planned to leave unchanged the grounds on which a request
-can lawfully be refused and the 26-week qualifying period for the statutory
-right.
-For more information on the government’s proposals, see the Modern
-Workplaces consultation document and impact assessment [PDF].
-Consultation response
-The consultation response was published on 13 November 2012 and confirmed
-the government’s intention to bring forward legislation to extend to all
-employees the right to request flexible working, and to replace the statutory
-procedure for considering requests.51
-The Children and Families Bill
-The Children and Families Bill, introduced to Parliament on 4 February 2013,
-carried forward the proposals from the Modern Workplaces consultation. The
-Bill intended to extend to all qualifying employees the right to request flexible
-working, and to replace the statutory procedure for dealing with requests
-with a requirement to deal ‘reasonably’ with them, supported by a new
-statutory Acas Code of Practice.
-At Second Reading, the Education Minister, Edward Timpson, said that the
-extension would “help widen the pool of talent in the labour market, helping
-to drive growth.”52
-Members who spoke at Second Reading were supportive of the extension,
-although some voiced scepticism over the replacement of the statutory
-procedure.53 The Bill’s flexible working proposals were supported during the
-rest of the Bill’s passage through Parliament. Amendments were debated,
-albeit not agreed to, that would have extended further the right by removing
-the 26-week qualifying period and increased employment tribunals’ powers
-when considering claims in relation to refused requests.54
-50 Department for Business, Innovation & Skills, Consultation on Modern Workplaces: flexible parental
-leave, flexible working, Working Time Regulations, equal pay, May 2011, pp36-44
-51 Department for Business, Innovation & Skills, Consultation on Modern Workplaces – Extending the
-right to request flexible working to all: Impact assessment, May 2011, pp21-22
-52 HC Deb 25 February 2013 c49
-53 HC Deb 25 February 2013 c91
-54 For further information see Commons Library briefing paper RP13/32, Children and Families Bill
-Committee Stage Report, 31 May 2013
-19 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-The Bill received Royal Assent on 13 March 2014 and the provisions for flexible
-working requests took effect from 30 June 2014.55
 3.3 Policy and discussion under the Conservative
 Government, 2015-2024
 Women and Equalities Committee Gender Pay Gap
@@ -595,19 +178,6 @@ Government response
 The government responded on 21 February 2017 to the Committee’s report.59
 Regarding the recommendation that all jobs should be available to work
 flexibly, the government stated that they were committed to promoting the
-55 Children and Families Act 2014, s 134
-56 Women and Equalities Committee, Gender Pay Gap: Second Report of Session 2015–16, [PDF] 22 March
-2016, HC 584 2015-16
-57 Women and Equalities Committee, Gender Pay Gap: Second Report of Session 2015–16, [PDF] 22 March
-2016, HC 584 2015-16, para 131
-58 Women and Equalities Committee, Gender Pay Gap: Second Report of Session 2015–16, [PDF] 22 March
-2016, HC 584 2015-16, paras 134 - 135
-59 Women and Equalities Committee, Gender Pay Gap: Government Response to the Committee’s
-Second Report of Session 2015–16, Third Special Report of Session 2016–17, [PDF] 21 February 2017,
-HC 963, 2016-17
-20 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
 business benefits of flexible working but recognised that individual employers
 were best placed to decide whether this arrangement suited their
 organisation:
@@ -620,128 +190,10 @@ promote the business benefits of flexible working. We want to see as many jobs
 as possible offered in this way and while we recognise the need to increase
 communications activity around flexible working, we believe that individual
 employers are best placed to decide what types of working arrangements their
-business can accommodate […]60
+business can accommodate
 On the issue of amending the right to request flexible working to allow
 employees to request to work more hours if they are not already working fulltime, the response pointed out that the existing law already allowed for this.61
-Taylor Review, 2016-17
-On 1 October 2016 the Prime Minister commissioned Matthew Taylor, Chief
-Executive of the Royal Society for the encouragement of Arts, Manufactures
-and Commerce (RSA), to assess the implications for employment regulation of
-new forms of work, driven by digital platforms.
-The Independent Review of Employment Practices in the Modern Economy
-launched on 30 November 2016.62 The subsequent report, titled Good Work:
-the Taylor Review of modern working practices, was published on 11 July 2017.
-Taylor Review findings
-Whilst the report mainly focused on employment status law,63 it also
-examined flexible working policy. The report found:
-• There had been a shift towards flexible working: The report found there
-had ‘clearly been a significant move’ towards flexible working over the
-last 10 years. 92% of employers said that they had at least one form of
-flexible working practice available in their workplace, and 60% of
-60 Women and Equalities Committee, Gender Pay Gap: Government Response to the Committee’s
-Second Report of Session 2015–16, Third Special Report of Session 2016–17, [PDF] 21 February 2017,
-HC 963, 2016-17, p6
-61 Women and Equalities Committee, Gender Pay Gap: Government Response to the Committee’s Second
-Report of Session 2015–16, Third Special Report of Session 2016–17, [PDF] 21 February 2017, HC 963,
-2016-17, p6
-62 Department for Business, Energy & Industrial Strategy press release, Taylor review on modern
-employment practices launches, 30 November 2016. GOV.UK, Employment Practices in the Modern
-Economy, (accessed 13 June 2024)
-63 For more information, see Commons Library research briefing CBP-8045, Employment status, 28
-March 2018
-21 Commons Library Research Briefing, 9 September 2024
 
-Flexible working
-employees said they had completed some form of flexible working in the
-last 12 months.64
-• Flexible working prevents people from involuntarily leaving the labour
-market: Flexible working can help people to remain in the labour market
-who may otherwise be forced to stop work. Periods of involuntary leave
-from the labour market can significantly affect an individual’s future
-employment outcomes, and this effect becomes greater for longer
-periods of absence. This especially affects certain groups, such as
-women and disabled people. Disabled people were twice as likely to be
-unemployed, after an absence of a year, than those without a disability.
-For women, the impact of maternity leave is evidenced through the
-gender pay gap.65
-• Work life balance: 75% of the self-employed said that they were satisfied
-with the flexibility to set their own schedule around other commitments in
-their life.
-• There are concerns about ‘gig working’ leading to income insecurity: The
-review found that ‘gig working’ could lead to concerns about income
-insecurity, however the review stated that they did not see “flexibility as
-incompatible with ensuring that more atypical workers have access to
-employment and social security protections.”66
-• Technology can and should be used to support flexible working
-practices: The review suggested that employers should use technology to
-determine which activities can be completed in line with flexible working
-practices
-• More needs to be done to encourage thinking around flexible working at
-an early stage: The review advised that there is “further to go in
-encouraging this kind of thinking at an early stage.”67 Whilst some work
-between employers and government had led to the “happy to talk
-flexible working” strapline, still too few jobs were advertised as being
-available to people who may wish to work flexibly.68
-The review ultimately recommended that the government should use the
-forthcoming statutory evaluation of the right to request flexible working as an
-opportunity to consider how to further promote flexible working practices:
-64 Department for Business and Trade and Department for Business, Energy & Industrial Strategy, Good
-Work: the Taylor Review of modern working practices, 11 July 2017, p94; The data is taken from
-Office for National Statistics, UK labour market: April 2017, 12 April 2017
-65 Department for Business and Trade and Department for Business, Energy & Industrial Strategy, Good
-Work: the Taylor Review of modern working practices, 11 July 2017, p95
-66 Department for Business and Trade and Department for Business, Energy & Industrial Strategy, Good
-Work: the Taylor Review of modern working practices, 11 July 2017, p95
-67 Department for Business and Trade and Department for Business, Energy & Industrial Strategy, Good
-Work: the Taylor Review of modern working practices, 11 July 2017, p95
-68 Department for Business and Trade and Department for Business, Energy & Industrial Strategy, Good
-Work: the Taylor Review of modern working practices, 11 July 2017, pp94-95
-22 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-As part of the statutory evaluation of the Right to Request Flexible Working in
-2019, Government should consider how further to promote genuine flexibility in
-the workplace. For example it should consider whether temporary changes to
-contracts might be allowed, to accommodate flexibility needed for a particular
-caring requirement. Government should work closely with organisations like
-Timewise and Working Families to encourage flexible working and initiatives
-like “happy to talk flexible working” to a wider range of employers.69
-The statutory evaluation refers to the requirement in section 134 of the
-Children and Families Act 2014 to review the extension of flexible working to
-all employees.70
-Government response to the Taylor Review, 2018
-In February 2018, the government published its response to the Taylor Review,
-and also launched four consultations:
-• Agency workers
-• Employment status
-• Enforcement of employment rights
-• Increasing transparency in the labour market
-The government published an individual response to the Employment status
-consultation.71 Responses to the other three consultations were combined in
-the Good Work Plan.
-Good work Plan
-In December 2018, the government published the Good Work Plan, which set
-out how it intended to implement the recommendations made in the Taylor
-Review.
-The government agreed with the recommendations relating to flexible
-working and stated that as part of the evaluation process in 2019, it would
-consider how to further promote flexibility in the workplace.72 The government
-set up a taskforce to work with business which included organisations such as
-Carers UK, Working Families, Timewise and the TUC.73
-69 Department for Business and Trade and Department for Business, Energy & Industrial Strategy, Good
-Work: the Taylor Review of modern working practices, 11 July 2017, p95
-70 Children and Families Act 2014, s 134
-71 Consultation outcome: Employment status, 26 July 2022
-72 Department for Business and Trade and Department for Business, Energy & Industrial Strategy,
-Employment Agency Standards Inspectorate, Good work: a response to the Taylor Review of modern
-working practices, 21 December 2018
-73 HM Government, Good Work Plan, [PDF] December 2018, p55
-23 Commons Library Research Briefing, 9 September 2024
-
-Flexible working
-The government also committed to consider requiring all jobs to be
-advertised as flexible from day one, provided there were no solid business
-reasons not to.74
 Employment Bill 2019
 In the December 2019 Queen’s Speech, the government committed to
 introducing an Employment Bill.75 The proposed bill included a commitment to
@@ -768,16 +220,7 @@ months
 working request (rather than the current three)
 • remove the requirement for employees to set out how the effects of their
 flexible working request might be dealt with by the employer.79
-74 As above
-75 HM Government, Queen’s Speech 2019, December 2019, p43
-76 As above
-77 BEIS, Making flexible working the default, 23 September 2021
-78 As above
-79 BEIS, Consultation on Making Flexible Working the Default: Government Response, [PDF5 December
-2022, p20
-24 Commons Library Research Briefing, 9 September 2024
 
-Flexible working
 Employment Relations (Flexible Working) Bill, 2022
 The purpose of the Employment Relations (Flexible Working) Bill was to
 amend the Employment Rights Act 1996 to change the current right to request
@@ -800,21 +243,3 @@ from their first day of employment, by removing the 26-week qualifying
 period.82
 The changes to employment law from the above Act and accompanying
 regulations came into force on 6 April 2024.
-80 For more information, see Commons Library research briefing CBP-9648, Employment Relations
-(Flexible Working) Bill 2022-23: Progress of the Bill
-81 Employment Relations (Flexible Working) Act 2023, HC Deb 29 June 2023, vol 735
-82 The Flexible Working (Amendment) Regulations 2023
-25 Commons Library Research Briefing, 9 September 2024
-
-The House of Commons Library is a research and
-information service based in the UK Parliament.
-Our impartial analysis, statistical research and
-resources help MPs and their staff scrutinise
-legislation, develop policy, and support constituents.
-Our published material is available to everyone
-on commonslibrary.parliament.uk.
-Get our latest research delivered straight to your inbox.
-Subscribe at commonslibrary.parliament.uk/subscribe
-or scan the code below:
-commonslibrary.parliament.uk
-@commonslibrary

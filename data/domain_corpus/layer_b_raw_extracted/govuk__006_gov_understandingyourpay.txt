@@ -6,8 +6,8 @@ the day or date you’ll be paid, for example each Friday or the last day of
 the month
 how you’ll be paid, for example cash, cheque or bank transfer
 If you’re an employee or worker (not a contractor or freelancer), you have
-the right to a payslip (/payslips). You can check your employment status
-(/employment-status) if you’re not sure. Your payslip shows:
+the right to a payslip . You can check your employment status
+ if you’re not sure. Your payslip shows:
 your earnings before and after any deductions
 the amount of any deductions that may change each time you’re paid, for
 example tax and National Insurance
@@ -21,7 +21,7 @@ as a full-time worker doing a similar job.
 2. Working out your pay
 Knowing how to work out your weekly pay is important because it’s used to
 calculate how much you should get for:
-redundancy pay (/redundancy-your-rights/redundancy-pay) and pay during
+redundancy pay  and pay during
 time off for job-hunting if you’re made redundant
 pay during your notice period when leaving a job
 holiday pay
@@ -29,19 +29,19 @@ holiday pay
 guarantee pay for work - you get this if your employer cannot provide you
 with work but your contract says they have to pay you anyway
 compensation awarded by Employment Tribunals
-What you’re entitled to depends on your work status (/employment-status).
+What you’re entitled to depends on your work status .
 You do not need to calculate your weekly pay if you’re paid weekly and your
 pay does not vary.
 If your pay varies or you’re not paid weekly, you’ll need to calculate your
 weekly pay. You’ll usually use a 12-week period to work it out. For holiday
-pay (/holiday-entitlement-rights/holiday-pay-the-basics), use a 52-week period
+pay , use a 52-week period
 instead.
 The 12-week period
 You can work out your weekly pay by getting an average figure for a 12week period. The particular 12 weeks you use varies depending on what
 you’re calculating your pay for.
 Redundancy
 Use the 12 weeks up to the day you got your redundancy notice to work out
-your redundancy pay (/calculate-your-redundancy-pay).
+your redundancy pay .
 Notice pay
 Use the 12 weeks up to the first day of the notice period to work out what
 your notice pay should be.
@@ -60,7 +60,7 @@ weekly figure. You do this even if you’ve had to use a period of more than
 12 weeks.
 Bonuses and commission
 You can include bonuses and commission in your calculations
-(/understanding-your-pay/pay-calculations-if-you-work-shifts-or-get-bonuses) if your
+ if your
 contract says your employer has to pay them.
 Overtime
 You can include overtime in your calculations if your contract says your
@@ -70,109 +70,7 @@ You can include pay for work done for a previous employer if you’re
 calculating your average weekly pay and you did not have a gap in
 employment when you changed jobs.
 Get help with the calculations
-If you need help working out a week’s pay, you can:
-find advice on the Acas (Advisory, Conciliation and Arbitration Service)
-contact Citizens Advice (https://www.citizensadvice.org.uk/about-us/how-weprovide-advice/advice/search-for-your-local-citizens-advice/#searchbox)
-3. Pay calculations if you work shifts or
-get bonuses
-If your pay or working hours vary from week to week, the calculations for
-working out your weekly pay are more complicated.
-Bonuses and commission
-Your pay could vary depending on the amount of work you do, because of:
-bonuses
 
-commission
-‘piece work’ - you’re paid by the amount of work you do, rather than by
-the hour
-The 12-week period
-If you get bonuses, commission or piece work, you’ll need to work out your
-average hourly rate over a 12-week period to work out your weekly pay.
-Add up your total pay for the 12 weeks first. You can include overtime,
-bonuses and commission if your contract says your employer has to pay
-them.
-There are special calculations for bonuses.
-Quarterly bonuses
-You can include a proportion of your quarterly bonuses in your calculations.
-1 Divide the bonus amount by 13 (the number of weeks in a quarter of a
-year).
-2 Multiply this figure by 12 (the number of weeks your pay is averaged
-across).
-Example
-If you get a quarterly bonus of £260:
-divide £260 by 13 weeks = £20
-multiply £20 by 12 weeks = £240
-You can include a bonus of £240 as part of your 12-week total.
-Annual bonuses
-If you get an annual bonus here’s what you need to do.
-
-1 Divide the bonus amount by 52 (the number of weeks in a year).
-2 Multiply this by 12.
-Example
-If you get an annual bonus of £5,200:
-divide £5,200 by 52 weeks = £100 per week
-multiply £100 by 12 weeks = £1,200
-You can include a bonus of £1,200 as part of your 12-week total.
-Hourly rate
-Work out the average hourly rate by dividing the total amount you earned in
-12-week period by the number of hours you worked.
-Weekly rate
-Multiply your hourly rate by the average number of hours you worked each
-week in the 12-week period, to get your weekly rate.
-Shift or rota work
-Your week’s pay will be the average number of hours you work at an
-average pay rate over a 12-week period.
-Example
-Your pay is £9 per hour and you work three 9-hour shifts, then you have
-3 days off.
-You’re paid £11 per hour at weekends. At the start of the 12-week
-period, your first day at work is a Monday. Here’s how you work out your
-pay.
-
-1 Work out how many hours you did over the 12-week period (42 x
-9-hour shifts = 378 hours).
-2 Divide this by 12 to work out your average weekly hours: 378
-divided by 12 = 31.5 hours.
-3 Calculate your pay for the weekday shifts. You’d have worked 30
-weekday 9-hour shifts at £9 per hour. 30 shifts x 9 hours = 270
-hours. Multiply this by £9 to get the total you were paid for your
-weekday shifts: £2,430.
-4 Divide £2,430 by 12 to get the weekly figure: £202.50.
-5 Calculate your pay for weekends. You’d have worked 12 weekend
-9-hour shifts at £11 per hour. 12 shifts x 9 hours = 108 hours.
-Multiply this by £11 to get the weekend total: £1,188.
-6 Divide this by 12 to get the weekly figure: £99 per week.
-7 Add the weekday and weekend figures together: £202.50 + £99 =
-£301.50. This is your weekly rate.
-Get help with the calculations
-If you need help working out a week’s pay, you can:
-find advice on the Acas (Advisory, Conciliation and Arbitration Service)
-contact Citizens Advice (https://www.citizensadvice.org.uk/about-us/how-weprovide-advice/advice/search-for-your-local-citizens-advice/#searchbox)
-4. Performance-related pay
-Your employer should base your performance-related pay on clear,
-measurable targets - they should tell you about these.
-There are 2 main types of performance pay:
-short-term schemes, like bonus payments or sales commission
-long-term schemes, like company shares
-
-Non-payment of bonuses or commission
-If you do not get a bonus or commission you’re owed and you think there’s
-been a mistake:
-speak to your employer to see if there’s been a misunderstanding
-ask them set out in writing how they’ve calculated your pay
-keep copies of any letters and notes of any meetings
-If a bonus or commission is included in your contract, non-payment is a
-breach of contract. You can get help with making a complaint (/solveworkplace-dispute).
-Non-payment of bonuses may also be covered legally under:
-unlawful deductions from wages (/understanding-your-pay/deductions-fromyour-pay) - for example, you’re entitled to payment but it has not been
-given
-unlawful discrimination (/discrimination-your-rights/discrimination-at-work) -
-your employer must not discriminate against particular groups, for
-example giving smaller bonuses to women
-If you need help, you can:
-go to Acas (Advisory, Conciliation and Arbitration Service) for advice
-contact your nearest Citizens Advice
-(https://www.citizensadvice.org.uk/about-us/how-we-provideadvice/advice/search-for-your-local-citizens-advice/#searchbox)
-talk to your trade union representative (/join-trade-union/role-of-your-tradeunion-rep)
 5. Deductions from your pay
 Your employer is not allowed to make deductions unless:
 it’s required or allowed by law, for example National Insurance, income
@@ -183,9 +81,9 @@ there’s a statutory payment due to a public authority
 you have not worked due to taking part in a strike or industrial action
 there’s been an earlier overpayment of wages or expenses
 
-the court has told your employer to take debt payments (/debt-paymentsfrom-your-wages)
+the court has told your employer to take debt payments 
 A deduction cannot normally reduce your pay below the National Minimum
-Wage (/national-minimum-wage-rates) even if you agree to it, except if the
+Wage  even if you agree to it, except if the
 deduction is for:
 tax or National Insurance
 something you’ve done and your contract says you’re liable for it, for
@@ -193,7 +91,7 @@ example a shortfall in your till if you work in a shop
 repayment of a loan or advance of wages
 repayment of an accidental overpayment of wages
 buying shares or share options in the business
-accommodation provided by your employer (/national-minimum-wageaccommodation)
+accommodation provided by your employer 
 your own use, for example union subscriptions or pension contributions
 If you work in retail - for example shops, restaurants
 Your employer cannot take more than 10% from your gross pay (pay before
@@ -207,19 +105,3 @@ They must only take £25 one week and then make another deduction
 from your next pay cheque for £25.
 If you leave your job, they can take the full amount owed from your final
 pay.
-If you have not been paid in full
-Speak to your employer first to try to sort out the problem informally.
-If this does not work, you can:
-
-go to Acas (Advisory, Conciliation and Arbitration Service) for help and
-contact your nearest Citizens Advice
-(https://www.citizensadvice.org.uk/about-us/how-we-provideadvice/advice/search-for-your-local-citizens-advice/#searchbox)
-talk to your trade union representative (https://www.gov.uk/join-tradeunion/role-of-your-trade-union-rep)
-You have the right to go to an Employment Tribunal (/employmenttribunals) to get your money.
-If you leave your job
-Check your contract to see if your employer is allowed to withhold your pay.
-Normally you’re entitled to be paid everything you’ve earned up to the point
-you finish.
-If you’re forced to resign because your employer refuses to pay you, you
-may be able to make a constructive dismissal claim in an Employment
-Tribunal (/employment-tribunals).

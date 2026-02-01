@@ -1,8 +1,8 @@
 Neonatal Care Pay and Leave
+
 1. Overview
 You and your partner may be able to get paid time off work if your newborn
 baby is premature or sick and needs neonatal care.
-This guide is also available in Welsh (Cymraeg) (/tal-absenoldeb-gofalnewyddenedigol).
 ‘Neonatal care’ is the name given to care for newborn babies which starts in
 the first 28 days after birth. This may be for:
 hospital care
@@ -18,14 +18,14 @@ baby is in neonatal care, for up to 12 weeks.
 You get Neonatal Care Pay and Leave in addition to other parental pay and
 leave entitlements. If you’re already on maternity leave or adoption leave,
 Neonatal Care Leave must be taken at the end of that entitlement.
-There are rules about when you can take your leave (/neonatal-care-payleave/what-you-get) and how to claim (/neonatal-care-pay-leave/how-to-claim).
+There are rules about when you can take your leave  and how to claim .
 Employment rights when on leave
-Your employment rights (/employee-rights-when-on-leave) are protected while
+Your employment rights  are protected while
 on Neonatal Care Leave. This includes your right to:
 pay rises
-
 build up (‘accrue’) holiday
 return to work
+
 2. What you can get
 You may be entitled to Neonatal Care Leave, Statutory Neonatal Care Pay,
 or both.
@@ -33,11 +33,11 @@ You can get one week’s leave for every 7 full and continuous days your
 baby is in neonatal care.
 Neonatal Care Leave
 You can get up to 12 weeks’ Neonatal Care Leave if you’re classed as an
-employee (/employment-status/employee). It does not matter how long you’ve
+employee . It does not matter how long you’ve
 been with your employer.
 You must take the leave within 68 weeks (just under 16 months) of your
 baby’s birth date.
-The notice period you must give your employer (/neonatal-care-pay-leave/howto-claim) will depend on whether you’re taking leave:
+The notice period you must give your employer  will depend on whether you’re taking leave:
 while your baby is in neonatal care, or up to a week after leaving (this is
 sometimes called ‘tier 1’)
 more than a week after your baby has left neonatal care (this is
@@ -67,7 +67,7 @@ neonatal care, you must take all of it in a single block. You can do this
 before or after your Shared Parental Leave or Statutory Paternity Leave.
 Statutory Neonatal Care Pay
 If you claim Neonatal Care Leave, you may also be able to claim Statutory
-Neonatal Care Pay if you’re eligible (/neonatal-care-pay-leave/check-eligible).
+Neonatal Care Pay if you’re eligible .
 You’ll get either £187.18 a week or 90% of your average weekly earnings
 (whichever is lower).
 Any money you get is paid the same way as your wages, for example
@@ -78,6 +78,7 @@ have twins), you can only claim Neonatal Care Pay and Leave for one of
 them, up to a maximum of 12 weeks.
 If your babies are in neonatal care at separate times, you’ll be able to claim
 for each of them - up to a maximum of 12 weeks in total.
+
 3. Check if you're eligible
 You may be able to get up to 12 weeks’ Neonatal Care Pay and Leave if:
 your baby was born on or after 6 April 2025
@@ -96,18 +97,18 @@ If you or your partner had a baby with the help of a
 surrogate parent
 You may be eligible if:
 you’re the intended parent and will be responsible for their care
-you’ll have a parental order (/legal-rights-when-using-surrogates-anddonors/become-the-childs-legal-parent) within 6 months of the baby’s birth
+you’ll have a parental order  within 6 months of the baby’s birth
 date
 Neonatal Care Leave
 To get Neonatal Care Leave, you must:
-be classed as an employee (/employment-status/employee) - it does not
+be classed as an employee  - it does not
 matter how long you’ve worked for your employer
 be employed in England, Scotland or Wales
-give your employer notice (/neonatal-care-pay-leave/how-to-claim) for
+give your employer notice  for
 Neonatal Care Leave
 Statutory Neonatal Care Pay
 To get Statutory Neonatal Care Pay, you must have been continuously
-employed by your employer (/continuous-employment-what-it-is) for at least 26
+employed by your employer  for at least 26
 weeks up to the end of what’s called the ‘qualifying week’.
 If you get Maternity or Paternity Pay, the ‘qualifying week’ is the 15th week
 before the baby is due. If you get Statutory Adoption Pay, it’s the week you
@@ -119,73 +120,13 @@ You must also:
 continue to be employed up to the week before you want the pay to start
 earn on average £125 a week (before tax) or more, over an 8-week
 period
-4. How to claim
-You claim Neonatal Care Pay and Leave through your employer. You must
-take it within 68 weeks (just under 16 months) of your baby’s birth date,
-including if your baby is adopted.
-You must give your employer notice before you take Neonatal Care Pay and
-Leave.
-How much notice you must give depends on when you’re taking the leave
-and pay.
-If you’re taking leave and pay while your baby is in
-neonatal care (or in the first week after)
-This is sometimes called ‘tier 1’ leave.
-You need to tell your employer on the day you want your leave to start,
-ideally before the time you usually start work or as soon as you can
-afterwards. You can give notice by phone, voicemail or text message - it
-does not need to be in writing.
-If you need to continue leave and pay for another week, you’ll need to let
-your employer know again. You should do this by the end of the previous
-week.
-If your baby is likely to be in neonatal care for a long time, your employer
-may agree that you can contact them less frequently.
-You need to tell your employer the date your baby leaves neonatal care as
-soon as possible.
-You can give notice to your employer for pay up to 28 days after your leave
-starts. You must give notice in writing - for example, an email or letter.
-If you’re taking leave and pay more than a week after
-your baby has left neonatal care
 
-This is sometimes called ‘tier 2’ leave.
-If you’re taking one week of leave and pay, you’ll need to tell your employer
-15 days before you want your leave and pay to start. If you’re taking 2 or
-more weeks’ leave and pay, you’ll need to tell them 28 days in advance.
-You must give notice in writing - for example, an email or letter.
-What you need to tell your employer
-To claim neonatal care leave, you need to tell your employer:
-your full name
-your baby’s date of birth and, if adopted, the date they were placed with
-you (or the date they entered into Great Britain if adopted from overseas)
-the start and end date of your baby’s neonatal care
-when you want your Neonatal Care Leave to begin
-how many weeks’ leave you want to take
-For pay and leave, you’ll also need to confirm:
-you’ll care for the baby during the period you’re claiming for
-you’re the baby’s parent or mother’s partner with caring responsibilities
-for the baby - you’ll only need to give this information the first time you
-claim leave and pay
-You can do this by:
-completing a declaration form (NEO3) online
-(https://www.tax.service.gov.uk/guidance/claim-statutory-neonatal-carepay/start/about-this-form) - you’ll need to print this off and post or email it to
-your employer
-sending an email or letter to your employer
-using your employer’s own form (if they have one)
-If you have more than one baby in neonatal care
-You’ll need to provide your employer with information for each baby.
-If you disagree with a decision on Neonatal Care Pay
-
-Contact your employer if you disagree with a decision on your claim for
-Statutory Neonatal Care Pay, for example because you think they:
-are paying you the wrong amount
-have wrongly decided not to pay you statutory pay
-If you cannot reach an agreement, you can contact the Statutory Payments
-Dispute Team (/government/organisations/hm-revenue-customs/contact/statutorypayment-dispute-team). You must do this within 6 months of the date of the
-decision.
 5. Cancelling your leave or pay
 You may be able to cancel your Neonatal Care Leave or Statutory Neonatal
 Care Pay depending on when your leave is due to start.
 You can rebook your leave and pay if you give your employer the correct
-notice (/neonatal-care-pay-leave/how-to-claim).
+notice .
+
 You cannot cancel your leave or pay if it was due to start while your
 baby was still receiving neonatal care (or in the first week after).
 If your leave or pay is due to start more than a week

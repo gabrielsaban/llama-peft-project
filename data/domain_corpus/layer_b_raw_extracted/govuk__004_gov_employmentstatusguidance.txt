@@ -1,94 +1,9 @@
-Department for Department for
-Business & Trade Business, Energy
-& Industrial Strategy
-Employment status and
-employment rights: guidance
-for HR professionals, legal
-professionals and other groups
-Updated 30 August 2024
-Contents
-Section 1: Guidance overview
-Section 2: Introduction to employment status
-Section 3: Key factors in determining employment status
-Section 4: Special circumstances and developments in the labour market
-Section 5: Case studies and sectoral examples
-Section 6: Further resources
-
-This publication is licensed under the terms of the Open Government Licence v3.0 except where
-otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-governmentlicence/version/3 or write to the Information Policy Team, The National Archives, Kew, London
-TW9 4DU, or email: psi@nationalarchives.gov.uk.
-Where we have identified any third party copyright information you will need to obtain
-permission from the copyright holders concerned.
-This publication is available at https://www.gov.uk/government/publications/employmentstatus-and-employment-rights/employment-status-and-employment-rights-guidance-for-hrprofessionals-legal-professionals-and-other-groups
-
-Section 1: Guidance overview
-Employment status affects everyone who works. Areas such as pay, leave
-and working conditions can all depend on employment status.
-People with different employment statuses have different rights set out in
-law. The rights are designed to protect individuals. Most of the rights are
-compulsory, and normally can’t be signed away.
-Clarity around individuals’ and employers’ (or engagers – a person or
-business who engages self-employed individuals for work) rights and
-responsibilities at work supports empowerment for working people and
-certainty between competing businesses.
-There are 2 separate pieces of guidance tailored for:
-individuals (https://www.gov.uk/government/publications/employment-status-andemployment-rights/employment-status-and-rights-support-for-individuals) to help
-them understand their employment status so that they know their rights,
-can have informed discussions with their employer about them, and can
-take steps to claim them and have them enforced where necessary
-employers or engagers
-(https://www.gov.uk/government/publications/employment-status-andemployment-rights/employment-status-and-rights-checklist-for-employers-andother-engagers) to help them understand individuals’ employment status so
-they comply with the law, helping ensure individuals receive the rights
-they are entitled to, and to avoid unnecessary disputes and associated
-costs
-This detailed guidance aims to help HR professionals, legal
-professionals and other groups to advise employers, engagers and
-individuals about the law and how to comply with it.
-The purpose of this guidance is to bring additional clarity to employment
-status. Clarity around individuals’ and employers’ employment rights and
-responsibilities at work is an important part of a well-functioning and fair
-labour market.
-Using this guidance
-The territorial scope of this guidance is Great Britain (England, Scotland and
-Wales) as employment law is devolved in Northern Ireland.
-For Northern Ireland guidance, visit:
-
-Employment status for individuals
-(https://www.nidirect.gov.uk/articles/employment-status)
-Employment status for business
-(https://www.nibusinessinfo.co.uk/content/employment-status)
-Courts and employment tribunals decide employment status based on the
-law, and the case law for employment status constantly evolves as new
-cases and appeals are heard and new precedents are set. This guidance
-will continue to be updated to reflect future, significant changes in the law.
-This guidance does not impose any legal obligations. It does not change the
-law. Only a Court or employment tribunal (https://www.gov.uk/employmenttribunals/taking-a-case-to-an-employment-tribunal) can make a final decision on
-employment status for employment rights purposes. This guidance does not
-and cannot provide definitive answers to individual queries. It is not
-intended to be relied upon as a substitute for seeking advice on specific
-circumstances, as each employment relationship will be very fact specific.
-For specific queries, individuals or employers may wish to seek advice from
-Acas. While Acas cannot provide a determination of employment status in
-specific cases, they can explain relevant law and provide free, impartial, and
-confidential advice on your options. The Acas website is at:
-0300 123 1100, open Monday to Friday, 8am to 6pm.
-This guidance does not apply to tax status as there is a separate
-employment status system for tax, which determines an individual’s tax
-status (https://www.gov.uk/guidance/check-employment-status-for-tax). In tax,
-there are 2 categories of employment status; employed and self-employed,
-whereas employment status for employment rights also has a ‘worker’
-status in between the self-employed and employed statuses. This means
-the systems are not interchangeable, and so a determination of employment
-status for employment rights will not necessarily apply for tax.
 Section 2: Introduction to employment
-status
 What is employment status?
 Employment status is relevant in all working relationships, it defines the
 minimum rights and responsibilities for individuals and employers or
-
 engagers in the workplace, covering areas such as pay, leave and working
-conditions (see Table 1: Employment rights eligibility for more details about
-statutory employment rights). These protections have been set out or
+conditions. These protections have been set out or
 developed in law to ensure individuals are protected from unfair practices.
 Employment status is not just a matter of what a contract (whether oral or
 in writing) states; it is determined by the reality of the working relationship
@@ -110,7 +25,7 @@ a self-employed person who has the least protection but also tends to
 have fewer personal obligations and have significant flexibility in their
 work and/or delivers a service to a customer or client as part of a
 business or professional undertaking
-The following is a more detailed description of each status:
+
 Employees
 This status reflects greater certainty over where, when and how work is
 carried out. The individual would likely work regularly and be paid for
@@ -128,7 +43,6 @@ Employees also benefit from and are bound by other common law rights
 and obligations. Both statutory and common law rights and obligations
 (body of law formed by the decisions from Courts and tribunals) are implied
 into a contract of employment and cannot be overridden by the terms of the
-
 employment contract. For example, notice periods, even if contractually
 agreed, are subject to a statutory minimum.
 Compared to other employment statuses, there are more obligations
@@ -137,6 +51,7 @@ right to be informed by a certain point if one of their employees is intending
 to take maternity/paternity/adoption leave or return to their job after the
 leave has been taken. While employers in most cases have the obligation to
 provide work and remunerate accordingly.
+
 Workers (limb (b) workers)
 Individuals in this category are less likely to be working in permanent, fulltime employment with a single employing organisation. They are more likely
 to have more casual and flexible working relationships often involving
@@ -157,6 +72,7 @@ still requires employers to provide individuals with a core set of employment
 protections. Many individuals enjoy the increased freedom that this status
 can provide in their work including balancing their work with other
 commitments whilst still benefiting from core protections.
+
 Self-employed
 Self-employed individuals should expect to have the most flexibility and
 control over how, if and when they work and are generally able to send
@@ -175,9 +91,8 @@ employee, then the individual is entitled to limb (b) worker or employee
 rights regardless of what it says in their contract. Deliberate
 misclassification of employment status should not be used to deny
 employees or workers employment rights and protections they are entitled
-to. If you need advice on the employment status of individuals you employ
-or engage, or who you intend to employee or engage, see the checklist for
-employers (https://www.gov.uk/government/publications/employment-status-andemployment-rights/employment-status-and-rights-checklist-for-employers-and-otherengagers).
+to.
+
 Employment rights
 Employment rights and protections are set out by law and employers must
 not avoid them. Employment rights and protections vary between the
@@ -190,104 +105,14 @@ unfairly dismissed and the right to a statutory redundancy payment. Even if
 a person does not work every week, a Court can sometimes find that their
 relationship with their employer continues so that there is an umbrella
 contract or over-arching contract covering a particular period of time which
-means there is continuity of service. There are some detailed parts of the
-law that may mean continuous service is maintained, for example if there
-has been a temporary cessation of work. See continuous employment
-(https://www.gov.uk/continuous-employment-what-it-is) for further information.
-Table 1: Employment rights eligibility
-A. Worker / employee rights
-Statutory right / protection Employee Limb (b) Qualifying
-worker period
-Unlawful deductions from wages Yes Yes Day 1
-National Minimum Wage/National Yes Yes Day 1
-Living Wage
-Paid holidays Yes Yes Day 1
-Right to be accompanied at a Yes Yes Day 1
-grievance/disciplinary hearing
-Whistleblowing Yes Yes Day 1
+means there is continuity of service. 
 
-Statutory right / protection Employee Limb (b) Qualifying
-worker period
-Discrimination, other prohibited Yes Yes Day 1
-conduct under the Equality Act 2010
-and reasonable adjustments*
-Equal treatment for part-time Yes Yes Day 1
-workers
-Protection from detriment for trade Yes Yes Day 1
-union membership*
-Itemised pay slip Yes Yes Day 1
-Written particulars of employment Yes Yes Day 1
-Protection from detriment in certain Yes Yes Day 1
-health and safety cases
-Workplace pension scheme* Yes Yes Day 1
-Right to join a trade union and to Yes Yes Day 1
-participate in trade union activities*
-B. Employee rights day 1
-Statutory right / protection Employee Limb (b) Qualifying
-worker period
-Maternity leave and adoption Yes No Day 1
-leave
-Statutory bereavement leave Yes No Day 1
-Time off various activities and Yes No Day 1
-duties (paid and unpaid)
-Equal treatment for fixed-term Yes No Day 1
-contract staff
-Unfair dismissal (for certain Yes No Day 1
-automatically unfair reasons)
-Breach of contract Yes No Day 1
-
-Statutory right / protection Employee Limb (b) Qualifying
-worker period
-Statutory Sick Pay* Yes may be Day 1
-entitled
-C. Employee rights with qualifying period
-Statutory right / protection Employee Limb (b) Qualifying
-worker period
-Minimum period of statutory notice Yes No 1 Month
-Medical suspension pay Yes No 1 Month
-Guaranteed pay Yes No 1 Month
-Shared parental leave and Yes No 26 Weeks
-Paternity leave
-Right to request flexible working Yes No 26 Weeks
-Right to request time off for study Yes No 26 Weeks
-or training
-Adoption pay, Shared Parental Yes may be 26 Weeks
-pay, Paternity pay, Maternity pay entitled
-and Parental Bereavement pay*
-Unpaid parental leave Yes No 1 Year
-Unfair dismissal (ordinary) Yes No 2 Years
-Written reasons for dismissal (in Yes No 2 Years
-most cases)
-Statutory redundancy pay Yes No 2 Years
-*Further information on employment rights and statutory payments that
-have similar, but different eligibility criteria is available in the next sections.
-Discrimination, other prohibited conduct under the Equality Act 2010
-and reasonable adjustments
-The Equality Act 2010 protects those in “employment” (which for this
-purpose comprise employees, limb (b) workers and some self-employed
-people) from unlawful conduct such as discrimination, harassment and
-
-victimisation that applies to protected characteristics. The protected
-characteristics are: age, disability, gender reassignment, marriage and civil
-partnership, pregnancy and maternity, race, religion or belief, sex and
-sexual orientation. The Equality Act applies to individuals who have an
-employment contract, an apprenticeship contract, or a contract to personally
-do work. The Equality Act employment protections also extend to a variety
-of wider work relationships beyond employment, such as job applicants and
-former employees, contract workers, police officers, partners, barristers and
-advocates, public office holders and those seeking or undertaking
-vocational training. Protections do not extend to volunteers. Read more
-about discrimination and your rights (https://www.gov.uk/discrimination-yourrights).
-Individuals who are covered by the Equality Act 2010 and are subject to
-discrimination or any other unlawful conduct can make a claim in an
-employment tribunal.
 Workplace pension scheme
 An employer must automatically enrol employees and limb (b) workers into
 a workplace pension scheme and make contributions to their pension if all
 of the following apply: you are aged between 22 and State Pension age,
 you earn at least £10,000 per year for that employer and you usually
-(‘ordinarily’) work in the UK. Read more about joining a workplace pension
-(https://www.gov.uk/workplace-pensions/joining-a-workplace-pension).
+(‘ordinarily’) work in the UK.
 Right to join a trade union and to participate in trade union activities
 It is automatically unfair for an employer to dismiss an employee on the
 grounds of trade union membership or for participating in union activities at
@@ -295,9 +120,7 @@ an appropriate time. It is also against the law to refuse to recruit a person as
 a limb (b) worker or employee because the person is a member of a trade
 union. Employers must not subject a limb (b) worker or employee to
 detriment for the purposes of preventing, deterring or penalising trade union
-membership or participation in union activities at an appropriate time. Read
-more about joining a trade union (https://www.gov.uk/join-trade-union).
-Statutory payments
+membership or participation in union activities at an appropriate time.
 All employees (and in limited cases some limb (b) workers) are eligible for
 Statutory Maternity Pay, Shared Parental Pay, Paternity Pay, Adoption Pay,
 Parental Bereavement Pay and Statutory Sick Pay as long as they also
@@ -311,14 +134,6 @@ Paternity Pay, Adoption Pay, Parental Bereavement Pay or Statutory Sick
 Pay purposes is linked to their obligation to pay secondary Class 1 National
 Insurance Contributions, rather than the employment rights framework.
 
-Other related guidance
-Statutory maternity pay (https://www.gov.uk/employers-maternity-pay-leave)
-Shared parental pay (https://www.gov.uk/shared-parental-leave-and-pay)
-Paternity pay (https://www.gov.uk/paternity-pay-leave)
-Adoption pay (https://www.gov.uk/adoption-pay-leave)
-Parental bereavement pay (https://www.gov.uk/parental-bereavement-payleave/what-you-can-get)
-Statutory sick pay (https://www.gov.uk/employers-sick-pay/eligibility-and-formssp1), with more detailed guidance for different types of workers
-(https://www.gov.uk/guidance/statutory-sick-pay-how-different-employment-typesaffect-what-you-pay).
 Other employment frameworks and entitlements
 The employment status framework for tax and National Insurance is
 separate to the employment rights framework and comprises 2 categories:
@@ -330,30 +145,20 @@ fact (as it is for employment rights and protections) and is not a choice for
 the individual or their engager. This means that the facts and circumstances
 of the engagement determine what employment status an individual has,
 rather than a decision by themselves or their engager to assign them a
-specific employment status, or belief that they have a particular status. In
-the majority of circumstances, employment status for tax purposes is clear
-and simple to establish, but in situations where it is more complex, HMRC
-has detailed guidance for individuals and employers (https://www.gov.uk/hmrcinternal-manuals/employment-status-manual). Tax and National Insurance
+specific employment status, or belief that they have a particular status. Tax and National Insurance
 legislation also requires that some engagements are treated as employment
 for tax purposes where there is not a contract of employment between the
 individual and the recipient of their services. This includes office holders,
 such as company directors, and, where certain conditions are met, workers
-supplied by agencies or working through Personal Service Companies. You
-can use HMRC’s free online Check employment status for tax (CEST) tool
-(https://www.gov.uk/guidance/check-employment-status-for-tax) to find out if an
-individual should be classed as employed or self-employed for tax
-purposes.
+supplied by agencies or working through Personal Service Companies. 
 The employment status framework for Universal Credit is also separate to
 the employment rights framework and generally follows the definitions for
 tax and National Insurance, comprising 2 categories: employee and selfemployed. The main difference between Universal Credit and the treatment
-
 of tax and National Insurance is that where a claimant operates through a
 company in a position comparable to a sole trader or, one of a small number
 of partners (i.e. they are the sole owner of the company or one of a small
 number of shareholders) they are treated as self-employed in the same way
-as someone trading without a company structure. Find out more about
-Universal credit for self-employed claimants
-(https://www.gov.uk/government/publications/universal-credit-and-self-employmentquick-guide/universal-credit-and-self-employment-quick-guide).
+as someone trading without a company structure. 
 Maternity Allowance is a benefit intended for those who cannot get Statutory
 Maternity Pay, such as the low paid and the self-employed. Entitlement to
 Maternity Allowance is dependent on satisfying qualifying conditions. For
@@ -364,8 +169,8 @@ Allowance received by self-employed women is dependent upon the
 number of class 2 National Insurance contributions paid for those same 66
 weeks. Self-employed women who have paid 13 weeks of Class 2 National
 Insurance contributions in the 66-week period are treated as having
-sufficient earnings to entitle them to the standard rate. Find out more about
-Maternity allowance (https://www.gov.uk/maternity-allowance).
+sufficient earnings to entitle them to the standard rate. 
+
 Section 3: Key factors in determining
 employment status
 Employment status will be mainly governed by the reality of the relationship
@@ -375,7 +180,7 @@ status is not conclusive if that does not correspond to what happens in
 reality.
 The Employment Rights Act 1996 sets out most of the employment rights
 and protections in Great Britain. In the Employment Rights Act 1996,
-Section 230 (https://www.legislation.gov.uk/ukpga/1996/18/section/230), both
+Section 230, both
 employee and worker are defined in the legislation. An employee also
 comes under part (a) of the definition of worker and is sometimes referred to
 as ‘limb (a)’, as they work under a contract of employment. Contract of
@@ -402,7 +207,7 @@ people who carry on a profession or business on their own account and
 enter into contracts with clients or customers to provide work or services for
 them and/or are not obliged to do the work they contract to personally.
 The Courts have considered many different cases and there are a number
-of principles to be applied. This guidance helps to set those principles out.
+of principles to be applied.
 This has ensured the legislation’s intention is upheld whilst maintaining the
 flexibility of the Courts to adapt to modern working practices.
 Many of the same factors will be considered when determining if someone
@@ -539,10 +344,10 @@ other members of a team in the business and is subject to the company
 disciplinary procedures and other procedures and policies. This
 integration into the organisation could be used to support factors of an
 employee or limb (b) worker relationship to their employer.
+
 Equipment
 While not necessarily decisive on its own, evidence that the engager
 provides the mandatory equipment necessary to do the job (such as
-
 clothing, tools) can be a pointer towards employee or limb (b) worker status.
 Example
 Television salesmen were being supplied with cars by their employer
@@ -574,7 +379,6 @@ An individual provides their services as a driver through a number of
 different apps. They are free to choose which app to use to obtain work,
 but the way in which they provide the service through each app is tightly
 constrained by the relevant app. While the freedom to work for rival
-
 businesses may point towards self-employment, the level of control to
 which the individual is subject when working through any app may point
 towards limb (b) worker status.
@@ -630,10 +434,8 @@ which drivers deliver their services (vets the type of car and uses the
 technology to exercise control over the drivers)
 Where an individual is a limb (b) worker or an employee, in all
 circumstances their employer must determine the worker’s working time for
-National Minimum Wage purposes. For further details for determining
-working time for the purposes of the National Minimum Wage or the
-National Living Wage, including for gig economy / platform businesses see
-How to calculate the Minimum Wage (https://www.gov.uk/guidance/calculatingthe-minimum-wage/eligibility-for-the-minimum-wage#gig-economy-or-platformbased-workers).
+National Minimum Wage purposes. 
+
 Zero-hours contracts
 Generally, this is best understood as a working arrangement in which the
 employer does not guarantee the individual any work, and the individual is
@@ -703,10 +505,7 @@ protections under the Agency Workers Regulations 2010. This gives agency
 workers the entitlement to the same core employment and working
 conditions as if they had been recruited directly. Some protections apply
 from day 1 and some will apply only once they complete the 12-week
-qualifying period in the same role with the same hirer. Read more about
-agency workers’ rights (https://www.gov.uk/agency-workers-your-rights) as well
-as information specifically on how and what they must be paid when
-working through an umbrella company (https://www.gov.uk/guidance/workingthrough-an-umbrella-company).
+qualifying period in the same role with the same hirer. 
 Example
 A substitute teacher’s working relationship is that they work on a fixed
 assignment for 6 months. The teacher is not employed directly by the
@@ -716,34 +515,34 @@ this example, the teacher’s employer is the employment agency and is
 therefore responsible for ensuring they get the rights they are entitled to,
 whether they are an employee, worker or contracted as self-employed.
 Employee shareholder status
-Employee shareholder (https://www.gov.uk/employment-status/employeeshareholders) is a separate employment status. Most employees who own
+Employee shareholder is a separate employment status. Most employees who own
 shares in a company they work for do not fall under the employee
 shareholder status and keep their employee status. Employers must follow
 certain rules when offering employment shareholder status
-(https://www.gov.uk/employee-shareholders) to their employees.
+ to their employees.
 An employee shareholder is someone who works under an employment
 contract and owns at least £2,000 worth of shares in the employer’s
 company or parent company. Whilst employers can choose to provide more
 generous employment rights than the statutory ones, employee
 shareholders are entitled to all employee employment rights except for:
-protection against unfair dismissal (https://www.gov.uk/dismissal/unfair-andconstructive-dismissal) – apart from dismissal on grounds of discrimination
+protection against unfair dismissal – apart from dismissal on grounds of discrimination
 and in relation to health and safety
-statutory redundancy pay (https://www.gov.uk/redundant-yourrights/redundancy-pay)
-the right to request flexible working (https://www.gov.uk/flexible-working) –
+statutory redundancy pay 
+the right to request flexible working –
 except in the 2 weeks after returning from parental leave
 certain statutory rights to request time off for training
 Employee shareholders must give 16 weeks’ notice if they want to come
 back early from:
-maternity leave (https://www.gov.uk/maternity-pay-leave/overview)
-additional paternity leave (https://www.gov.uk/paternity-pay-leave/leave)
-adoption leave (https://www.gov.uk/adoption-pay-leave/leave)
+maternity leave
+additional paternity leave 
+adoption leave
 Office holders, police and the armed forces
 There are special provisions which apply to office holders, (for example
 which includes certain company directors, clergy, judges), police officers
 and members of the Armed Forces and specific advice should be taken.
 
 Volunteers
-Volunteers (https://www.gov.uk/volunteering) are not defined in primary
+Volunteers are not defined in primary
 legislation, although Section 44 of the National Minimum Wage Act 1998
 does provide an exemption for ‘voluntary workers’. Volunteers are not
 exclusive to the charitable sector and can be found across both the public
@@ -762,7 +561,7 @@ reward or payment other than expenses, this could impact their employment
 status, and they could be classed as an ‘employee’ or ‘worker’ and therefore
 be entitled to employment rights and protections.
 Interns
-Internships (https://www.gov.uk/employment-rights-for-interns) are sometimes
+Internships are sometimes
 called work placements or work experience and are generally understood
 as being where an individual works so as to gain relevant professional
 experience to improve their career prospects. These terms have no legal
@@ -776,11 +575,12 @@ if an individual is undertaking work experience that only involves shadowing
 an employee, meaning no work is carried out and they are only observing.
 Apprenticeships
 
-Apprentices (https://www.gov.uk/employing-an-apprentice/pay-and-conditions-forapprentices) are entitled to the same employment rights as other employees
+Apprentices are entitled to the same employment rights as other employees
 working at similar grades or in similar roles (including paid holidays, sick
 pay, and other benefits and support). Apprentices must spend at least 20%
 of their normal working hours training and the National Minimum Wage rate
 is different for apprentices.
+
 Section 5: Case studies and sectoral
 examples
 These indicative examples highlight how factors in different sectoral working
@@ -906,22 +706,4 @@ factors are also consistent with limb (b) worker status rather than selfemployed
 (not the individual). Employee status is also less likely due to factors such
 as lower evidence of mutuality of obligation, the individual’s freedom over
 when they work, that they are paid for work done as opposed to a salary
-and the lack of integration into the business. $CTA
-Section 6: Further resources
-further information from Acas on employment status
-trade unions can negotiate on working conditions and provide support for
-individuals in claiming rights at work, and in some cases in the Courts
-and tribunals. More information and guidance on trade union recognition
-by employers (https://www.gov.uk/trade-union-recognition-employers)
-
-more detailed information if you are an employer for pensions automatic
-enrolment (the Pensions Regulator site)
-(https://www.thepensionsregulator.gov.uk/en/employers)
-information around Statutory Sick Pay (https://www.gov.uk/statutory-sick-pay)
-detailed guidance on the National Minimum Wage or National Living
-Wage (https://www.gov.uk/guidance/calculating-the-minimum-wage)
-information on Armed Forces pay and conditions
-(https://www.gov.uk/employee-reservist)
-information on Universal Credit (https://www.gov.uk/universal-credit)
-more about employment contracts (https://www.gov.uk/employment-contractsand-conditions)
-information for office holders (https://www.gov.uk/employment-status/officeholder)
+and the lack of integration into the business.

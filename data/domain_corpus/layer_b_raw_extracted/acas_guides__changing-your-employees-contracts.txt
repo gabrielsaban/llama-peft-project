@@ -9,7 +9,6 @@ changes.
 In some circumstances, you might have an agreement with a trade union that allows the union to negotiate and agree certain contract
 changes on behalf of employees and workers.
 Changing a contract is sometimes called 'varying a contract'.
-Find out more about employment contracts
 How employment contract changes can be agreed
 Changes to employment contracts can be agreed in different ways, including when:
 a change is proposed by either you, or one or more employees or workers, which you then discuss and agree with them
@@ -34,7 +33,6 @@ made clear why you need a contract change
 The importance of following a fair procedure
 You must follow the Code of Practice on dismissal and re-engagement on GOV.UK. You might have your own dismissal and reengagement policy, but the Code is the minimum procedure you must follow.
 If a case reaches an employment tribunal, the judge will consider whether the employer has followed the Code of Practice in a fair way.
-The Code says you should contact Acas for advice before introducing the possibility of dismissal and re-engagement.
 When you might consider employment contract changes
 Examples of when employers might need to consider employment contract changes include:
 to make sure contracts are up to date with new laws or regulations
@@ -71,16 +69,11 @@ A change might affect a number of employees' contracts. It might be more appropr
 representatives as well as individual employees. For example, if there is a trade union, employee forum or joint consultative committee
 in your organisation.
 By law, you must consult with a recognised trade union if you're considering changes to terms and conditions agreed with that union.
-Find out more about:
-working with trade union and other employee representatives
-training on changing terms and conditions of employment
-tailored support for your organisation – how Acas can help you work with employee representatives
 If there has been a TUPE transfer
 TUPE regulations protect employment rights when someone transfers to a new employer. TUPE stands for Transfer of Undertakings
 (Protection of Employment).
 There are important additional considerations if you're thinking about proposing changes to an employment contract after a TUPE
 transfer.
-Find out more about changing a contract after a TUPE transfer
 When employees or workers might propose contract changes
 In some circumstances, employees or workers might want to propose an employment contract change. For example, if:
 their job role has changed since they started working for you
@@ -88,7 +81,6 @@ they want to ask for improved terms and conditions, such as a pay rise or extra 
 they want to?make a flexible working request
 You do not have to agree to every change proposed by an employee or worker. You should always listen to them and consider their
 proposal.
-Find out more about handling requests to change an employment contract
 
 2. Proposing changes
 When you're proposing employment contract changes, you must inform all affected employees and workers and any relevant
@@ -104,7 +96,6 @@ There may be a risk of discrimination if, for example, you exclude or accidental
 anyone who is absent, for example off sick or on adoption, maternity or paternity leave
 anyone who needs information communicated in a certain way, for example because of a disability or if English is not their first
 language
-Find out more about discrimination and the law
 Providing information about the proposed changes
 You must provide relevant information about the proposed changes. This is so employees, workers and any representatives can
 understand, consider and reach an informed view about them.
@@ -131,7 +122,6 @@ with other employee representatives. For example, an employee forum or joint con
 management and employee representatives.
 You must also keep all affected employees informed about any proposals. For example, not all employees will be members of a trade
 union, so they may not receive updates from the union representatives.
-Find out more about working with trade union and employee representatives
 What information you should provide
 The information you should provide to staff and their representatives about the proposed changes will depend on the circumstances.
 You should usually include the following in the initial information:
@@ -161,7 +151,6 @@ who needs the information
 when it should be shared
 
 Agreeing these points can help avoid misunderstandings, save time and reduce costs during negotiations about changing contracts.
-Find out more in the Acas Code of Practice on disclosure of information to trade unions for collective bargaining purposes.
 If you cannot provide relevant information
 In some circumstances, it may be reasonable to refuse a request for certain information. For example, if information cannot be shared
 because it is confidential or commercially sensitive.
@@ -190,7 +179,6 @@ Considering risks of discrimination
 You should carefully consider if there might be a risk of discrimination when using a flexibility clause.
 For example, it could be discrimination if you change an employee's contractual working hours and this makes it difficult for them to
 effectively manage their disability.
-Find out more about discrimination and the law
 
 Consulting employees and representatives
 You should always consult employees and employee representatives, even if you think the change may be covered by a flexibility
@@ -201,15 +189,11 @@ listen to and resolve any concerns
 avoid any misunderstandings
 reduce any risks of discrimination
 decide if the clause is reasonable to use in the circumstances
-Find out more about consulting about employment contract changes
 Resolving concerns about flexibility clauses
 If you propose to use a flexibility clause to make a change, your employees or workers might feel it is unreasonable or against the law.
 You should try to resolve their concerns at the earliest opportunity.
 It can sometimes help to discuss with employees or workers if there is an alternative solution that might work for everyone.
-Getting more advice and support
-You can also ask Acas about:
-training courses on changing terms and conditions of employment
-tailored support for your organisation
+
 3. Consulting
 If you're proposing employment contract changes, you should fully consult with all affected employees, workers and any relevant
 employee representatives.
@@ -267,13 +251,11 @@ the bargaining unit may include some employees or workers who are not union memb
 members
 For example, there may be a collective agreement that the trade union can negotiate annual changes to pay on behalf of all employees
 who are in a particular role or who work in a certain department.
-Find out more about consulting with trade unions
 Consulting information and consultation (ICE) representatives
 If there are 50 or more employees in your organisation, employees have the right to request a formal agreement to be informed and
 consulted. This is known as an ICE agreement, as it's part of the 'Information and Consultation of Employees' regulations.
 If you already have an ICE agreement in your organisation that covers areas affected by your proposed contract changes, you must
 consult with the elected representatives.
-Find out more about ICE agreements
 Consulting employee forums
 You may already have an arrangement in your organisation to consult employee representatives on specific areas of terms and
 conditions.
@@ -285,7 +267,6 @@ Consulting with employee forums can be a valuable way for:
 you to discuss proposed changes with employee representatives on relevant terms and conditions
 your employees to have a say in important decisions that affect them
 Representatives in these forums should be chosen in an appropriate way and consulted on areas in which they have expertise.
-Find out more about consulting with employee forums and representatives
 Consider risks of discrimination
 When consulting, you must include all employees and workers who might be affected. There may be a risk of discrimination if, for
 example, you exclude or accidentally overlook:
@@ -301,7 +282,6 @@ Acas support for employers
 We can:
 help you set up an employee forum
 work with your management and employee representatives to solve problems
-Find out more about Acas tailored support
 How you should consult
 Consultation must always be a genuine and meaningful two-way discussion about whether a change is needed and what kind of
 change is appropriate. You must listen openly to any concerns or suggestions and seriously consider them before you make a decision
@@ -328,7 +308,6 @@ consider what could happen if agreement cannot be reached
 If you can reach a compromise, it's more likely that everyone will support it because they'll believe it's:
 been reached fairly and openly
 the best decision possible when everyone's views are taken into account
-Find out more about what you can do if you cannot reach agreement
 
 Do not intimidate or threaten employees or their representatives
 Employers must never intimidate or threaten employees or their representatives to try to force them to agree to a contract change.
@@ -365,7 +344,6 @@ using confrontational language or appearing aggressive
 being impatient
 adopting an attitude where someone must win and someone must lose
 not being open to creative ways of finding workable solutions
-Find out about Acas tailored training for your organisation
 
 4. Handling requests
 In some circumstances, employees or workers may ask their employer for changes to their employment contract. For example,
@@ -380,7 +358,6 @@ split their time between their usual place of work and working remotely from som
 have flexibility with their start and finish times (sometimes known as 'flexitime')
 share the job with someone else
 If an employee makes a flexible working request, you must handle the request reasonably.
-Find out more about flexible working
 Other requests for contract changes
 An employee might also ask for other kinds of changes to their contract, for example, because:
 they've been doing work that is different to what was originally agreed in their contract
@@ -397,9 +374,8 @@ listen to their reasons why a change may be needed
 understand the details of the proposed change
 carefully consider how you might be able to accommodate the request, including the potential benefits for you and the
 employee
-Find out more about consulting on employment contract changes
-Finding an appropriate solution to a proposed change
 
+Finding an appropriate solution to a proposed change
 If you've considered an employee's request carefully and you feel it may not be appropriate to make the proposed change, you should
 consider and discuss any alternative changes that may be suitable.
 For example, if an employee requests a change of work location because they feel they're being bullied, you should look into their
@@ -408,7 +384,7 @@ cause of the problem.
 It's always important to try to find an appropriate solution to any concerns and understand why an employee has requested a contract
 change. Not resolving concerns can lead to longer-term tensions at work. This can affect employee wellbeing and productivity in an
 organisation.
-Find out more about dealing with a problem raised by an employee
+
 5. If changes are agreed
 If agreement is reached about contract changes after you've consulted with employees, workers and their representatives, you should:
 put any changes in writing
@@ -469,10 +445,7 @@ You should decide a time period for monitoring contract changes that is appropri
 review changes over a longer period of time, such as one year or more, if:
 contract changes are significant
 there has been resistance to change among employees or their representatives
-Find out more about:
 
-training courses on contracts of employment, including terms and conditions
-tailored support for your organisation
 6. If changes cannot be agreed
 It can sometimes feel difficult and time consuming to reach an agreement on a contract change.
 It can be particularly difficult if proposed changes are complex. Negotiations can take time, there might be disagreements and times
@@ -525,11 +498,6 @@ agreement. The only time you could consider this is if you've followed and genui
 bargaining procedure.
 If you make direct offers without first exhausting the agreed procedure, you're likely to be legally challenged about this at an
 employment tribunal.
-How Acas can help
-We offer a range of services that can help you reach agreement with employees and employee representatives. This includes:
-Acas services to help resolve disagreements
-training and tailored support for your organisation
-Find out more about Acas support for employers
 If you decide to go ahead and make a contract change
 If you still cannot reach agreement after extensive attempts, it may sometimes be possible to introduce a contractual change by either:
 giving notice to the employee that you intend to make a change ('imposing' a change) to their employment contract with effect
@@ -560,8 +528,7 @@ damages for breach of contract at a civil court
 'unlawful deduction of wages' at an employment tribunal, if the change affects their pay
 discrimination, if the change means they are treated unfairly in relation to certain 'protected characteristics' under the law
 If you impose a change that makes an employee's terms and conditions significantly worse than before, they might be able to claim
-unfair dismissal while continuing to work under the changed terms. This is a very complex claim. You should get legal advice if you're
-in this situation.
+unfair dismissal while continuing to work under the changed terms.
 If there's a trade union
 If you impose a change after not being able to reach agreement with a recognised trade union, the trade union might consider:
 taking industrial action – for example a strike, refusing to take part in certain activities, or a 'work to rule' where employees do
@@ -575,14 +542,13 @@ If you're proposing to dismiss and rehire 20 or more employees, by law you must 
 It's important to consider that by ending the employee's original contract of employment you will be dismissing them, even if they
 accept a new contract and continue to work for you. So you must:
 have a fair reason for dismissal
-
 follow a fair dismissal process
 provide the correct amount of notice
 offer the employee the right of appeal against their dismissal
 It is important to follow a fair procedure as set out in the Code of Practice on dismissal and re-engagement on GOV.UK. This is the
 minimum procedure that you must follow.
 employees or representatives.
-Find out more about dismissals
+
 Risks of dismissing and rehiring
 Proposing to dismiss and rehire an employee or worker is an extreme step that has significant risks.
 You should always carefully consider the risks, even if you feel there's an urgent need to make contract changes and expect it may be

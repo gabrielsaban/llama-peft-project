@@ -1,6 +1,3 @@
-Part of
-Employ someone: step by step
-(/employ-someone)
 Employment contracts
 1. Overview
 All employees have an employment contract with their employer. A contract
@@ -17,13 +14,11 @@ the employee and employer).
 If a person has an agreement to do some work for someone (like paint
 their house), this is not an employment contract but a ‘contract to
 provide services’.
-Find out more about employment contracts
-Conciliation and Arbitration Service) website.
 Accepting a contract
 As soon as someone accepts a job offer they have a contract with their
 employer. An employment contract does not have to be written down.
-2. Contract terms
 
+2. Contract terms
 The legal parts of a contract are known as ‘terms’. An employer should
 make clear which parts of a contract are legally binding.
 Contract terms could be:
@@ -34,7 +29,7 @@ in an employee handbook or on a company notice board
 in an offer letter from the employer
 required by law (for example, an employer must pay employees at least
 the National Minimum Wage)
-in collective agreements (/employment-contracts-and-conditions/collectiveagreements) - negotiated agreements between employers and trade
+in collective agreements  - negotiated agreements between employers and trade
 unions or staff associations
 implied terms - automatically part of a contract even if they’re not written
 down
@@ -44,10 +39,11 @@ particular issue, it may be covered by an implied term - for example:
 employees not stealing from their employer
 your employer providing a safe and secure working environment
 a legal requirement like the right to the minimum holiday entitlement
-(/holiday-entitlement-rights)
+
 something necessary to do the job like a driver having a valid licence
 something that’s been done regularly in a company over a long time like
 paying a Christmas bonus
+
 3. Collective agreements
 An employer may have an agreement with employees’ representatives
 (from trade unions or staff associations) that allows negotiations of terms
@@ -57,11 +53,11 @@ The terms of the agreement could include:
 how negotiations will be organised
 who will represent employees
 which employees are covered by the agreement
-
 which terms and conditions the agreement will cover
+
 4. Written statement of employment
 particulars
-An employer must give employees and workers (/employment-status) a
+An employer must give employees and workers  a
 document stating the main conditions of employment when they start work.
 This is known as a ‘written statement of employment particulars’. It is not an
 employment contract.
@@ -74,7 +70,7 @@ of employment.
 Employers must tell employees or workers about any changes to the written
 statement. They must do this within one month of making the change.
 There are special rules for agencies on documents that they need to
-provide to agency workers (/agency-workers-your-rights/basic-informationyou-should-receive).
+provide to agency workers .
 The principal statement
 The principal statement must include at least:
 the employer’s name
@@ -82,12 +78,12 @@ the employee’s or worker’s name, job title or a description of work and
 start date
 how much and how often an employee or worker will get paid
 hours and days of work and if and how they may vary (also if employees
-or workers will have to work on Sundays (/sunday-working), during the
-‘night period’ (/night-working-hours) or take overtime (/overtime-yourrights/overview))
-holiday entitlement (/holiday-entitlement-rights) (and if that includes public
+or workers will have to work on Sundays , during the
+‘night period’  or take overtime )
+holiday entitlement  (and if that includes public
 holidays)
 where an employee or worker will be working and whether they might
-have to relocate (/employer-relocation-your-rights)
+have to relocate 
 
 if an employee or worker works in different places, where these will be
 and what the employer’s address is
@@ -119,18 +115,18 @@ Employers must give employees and workers a wider written statement
 within 2 months of the start of employment. This must include information
 about:
 pensions and pension schemes
-
-collective agreements (/employment-contracts-and-conditions/collectiveagreements)
+collective agreements 
 any other right to non-compulsory training provided by the employer
 disciplinary and grievance procedures
+
 5. Problems with a written statement
 If an employee or worker has a problem receiving their written statement,
 they can:
 1 Try to solve the problem with their employer informally.
-2 If this does not work, take out a grievance (/raise-grievance-at-work)
+2 If this does not work, take out a grievance 
 against their employer (employers can also get advice about handling
 grievances).
-3 Take a case to an employment tribunal (/employment-tribunals/taking-acase-to-an-employment-tribunal) as a last resort.
+3 Take a case to an employment tribunal  as a last resort.
 The tribunal will decide what the employment particulars in the statement
 should have been.
 Compensation

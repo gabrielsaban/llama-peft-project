@@ -43,12 +43,10 @@ relationship breakdowns
 Generally, mediation is not used to resolve disputes such as pay or issues related to dismissal or conduct.
 When to start mediation
 It's a good idea to try and resolve the problem informally first, before thinking about using mediation.
-Find out how to raise a problem at work
 If the problem cannot be resolved informally, you can use mediation. Mediation can be used at any stage in a disagreement, but it's
 best to start it as soon as possible. The earlier the disagreement is dealt with, the less chance there is of things getting worse.
 You could also use mediation to rebuild relationships after a disciplinary or grievance process.
-Guidance for employers
-Read our mediation guidance for employers written with the Chartered Institute of Personnel and Development
+
 2. Introducing mediation at work
 If you're an employer looking to introduce mediation in your organisation, you should think about what you want to achieve from using
 mediation.
@@ -85,7 +83,6 @@ Once you have decided which provider you're going to use, you should discuss:
 the contract
 costs
 timings
-Find out about Acas mediation support
 Setting up an internal mediation scheme
 If you're thinking about introducing your own internal mediation scheme, you could pilot a scheme first to see if it works. For example,
 you could set up a pilot scheme in one area or region of your organisation. If it's successful, you could expand the scheme.
@@ -109,12 +106,6 @@ make sure mediation responsibilities are included in their job descriptions
 give employees time off for mediations
 Employees who act as mediators need to be trained in mediation techniques. They also need to understand their role and how it fits in
 with their organisation's policies and procedures.
-Acas offers accredited mediation training called the Certificate in Internal Workplace Mediation (CIWM). This training gives trainees the
-skills and knowledge they need to effectively mediate in their own organisation.
-Find out more about the Certificate in Internal Workplace Mediation (CIWM)
-Acas also provides:
-mediation skills training for managers
-conflict management training
 Including mediation in your policies
 Mediation should be introduced as part of your organisation's approach to people management. There are many ways you can include
 mediation in policies and procedures.
@@ -150,5 +141,3 @@ leaflets
 posters
 information from HR
 workshops for trade union representatives and managers
-Related content
-/tailored-support

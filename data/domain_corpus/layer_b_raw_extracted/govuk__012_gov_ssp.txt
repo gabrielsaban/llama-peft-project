@@ -1,14 +1,13 @@
 Statutory Sick Pay (SSP)
+
 1. Overview
 You can get £118.75 per week Statutory Sick Pay (SSP) if you’re too ill to
 work. It’s paid by your employer for up to 28 weeks.
-This guide is also available in Welsh (Cymraeg) (/tal-salwch-statudol).
 You cannot get less than the statutory amount. You can get more if your
 company has a sick pay scheme (or ‘occupational scheme’) - check your
 employment contract.
-There are different sick pay rules for agricultural workers (/agriculturalsick-pay).
-There’s a separate guide on Statutory Sick Pay if you’re an employer
-(/employers-sick-pay).
+There are different sick pay rules for agricultural workers .
+
 2. What you'll get
 If you’re eligible, you can get £118.75 a week Statutory Sick Pay (SSP) for
 up to 28 weeks.
@@ -23,12 +22,10 @@ example weekly or monthly.
 
 If you have more than one job you may get SSP from each employer.
 Tax and National Insurance will be deducted.
-If you think you are not getting the right amount of SSP, talk to your
-employer. If you’re still not happy, contact the HM Revenue and Customs
-(HMRC) enquiry line (/government/organisations/hm-revenuecustoms/contact/national-insurance-enquiries-for-employees-and-individuals).
+
 3. Eligibility
 To qualify for Statutory Sick Pay (SSP) you must:
-be classed as an employee (/employment-status/employee) and have done
+be classed as an employee  and have done
 some work for your employer
 earn an average of at least £125 per week
 have been ill for more than 3 days in a row (including non-working days)
@@ -68,10 +65,6 @@ physiotherapist, podiatrist or occupational therapist instead of a fit note. Thi
 is called an Allied Health Professional (AHP) Health and Work Report.
 A physiotherapist or occupational therapist will give you either a fit note or
 an AHP Health and Work Report depending on your needs.
-If you’re not eligible or your SSP ends
-You may be able to apply for Universal Credit (/universal-credit) or
-Employment and Support Allowance (ESA) (/employment-support-allowance).
-You can use form SSP1 (/government/publications/statutory-sick-pay-employeenot-entitled-form-for-employers) to support your application.
 If your SSP is ending your employer must send you form SSP1 either:
 within 7 days of your SSP ending, if it ends unexpectedly while you’re still
 sick
@@ -79,16 +72,3 @@ on or before the beginning of the 23rd week, if your SSP is expected to
 end before your sickness does
 If you do not qualify for SSP your employer must send you form SSP1
 within 7 days of your first day off sick.
-
-4. How to claim
-To claim Statutory Sick Pay (SSP), tell your employer by the deadline
-(/statutory-sick-pay/eligibility).
-Check with your employer how you should tell them. If your employer needs
-something in writing you can use form SC2 (/government/publications/statutorysick-pay-employees-statement-of-sickness-sc2).
-If you’re unhappy with a decision
-Talk to your employer if you think:
-their decision not to pay you SSP is wrong
-you’re not getting the right amount of SSP
-You can ask them for a reason.
-If this does not sort the problem, contact the HMRC Statutory Payment
-Disputes Team (/government/organisations/hm-revenue-customs/contact/statutorypayment-dispute-team).
