@@ -499,7 +499,34 @@ def reflow_text(text: str) -> str:
     return '\n'.join(final)
 
 
-def process_file(input_path: Path, output_path: Path, overwrite: bool = False) -> dict:
+def truncate_at_paragraph_boundary(text: str, max_tokens: int, tokenizer) -> tuple:
+    """Truncate text at last paragraph boundary before max_tokens."""
+    tokens = tokenizer.encode(text, add_special_tokens=False)
+    original_count = len(tokens)
+
+    if original_count <= max_tokens:
+        return text, original_count, original_count, False
+
+    # decode the first max_tokens back to text, then find last paragraph break
+    truncated_text = tokenizer.decode(tokens[:max_tokens], skip_special_tokens=True)
+
+    # find last paragraph boundary (double newline)
+    last_break = truncated_text.rfind("\n\n")
+    if last_break > len(truncated_text) * 0.5:
+        # only snap to boundary if it's in the latter half — avoids catastrophic loss
+        truncated_text = truncated_text[:last_break].rstrip()
+    else:
+        # fall back to last single newline (sentence-ish boundary)
+        last_nl = truncated_text.rfind("\n")
+        if last_nl > len(truncated_text) * 0.8:
+            truncated_text = truncated_text[:last_nl].rstrip()
+
+    kept_count = len(tokenizer.encode(truncated_text, add_special_tokens=False))
+    return truncated_text, original_count, kept_count, True
+
+
+def process_file(input_path: Path, output_path: Path, overwrite: bool = False,
+                 tokenizer=None, max_tokens: int = None) -> dict:
     """Process a single tribunal text file."""
     if output_path.exists() and not overwrite:
         print(f"  [skip] {output_path.name} already exists")
@@ -517,6 +544,17 @@ def process_file(input_path: Path, output_path: Path, overwrite: bool = False) -
         normalized_lines = [normalize_whitespace(line) for line in text.splitlines()]
         marker_count = sum(1 for line in normalized_lines if parse_marker(line)[0] is not None)
         reflowed = reflow_text(text)
+
+        # apply token cap if requested
+        truncated = False
+        original_tokens = None
+        kept_tokens = None
+        if tokenizer is not None and max_tokens is not None:
+            reflowed, original_tokens, kept_tokens, truncated = (
+                truncate_at_paragraph_boundary(reflowed, max_tokens, tokenizer)
+            )
+            if truncated:
+                print(f"  [cap] {input_path.name} truncated {original_tokens:,} -> {kept_tokens:,} tokens")
         
         output_path.parent.mkdir(parents=True, exist_ok=True)
         with open(output_path, 'w', encoding='utf-8') as f:
@@ -527,6 +565,9 @@ def process_file(input_path: Path, output_path: Path, overwrite: bool = False) -
             "marker_count": marker_count,
             "input_lines": len(normalized_lines),
             "output_lines": len(reflowed.splitlines()) if text.strip() else 0,
+            "truncated": truncated,
+            "original_tokens": original_tokens,
+            "kept_tokens": kept_tokens,
         }
     
     except Exception as e:
@@ -570,6 +611,12 @@ def main():
         action='store_true',
         help='write per-file metrics to logs'
     )
+    parser.add_argument(
+        '--max-tokens',
+        type=int,
+        default=None,
+        help='cap per-document token count (truncates at paragraph boundary)',
+    )
     args = parser.parse_args()
     
     input_dir = Path(args.input_dir)
@@ -584,23 +631,38 @@ def main():
         txt_files = txt_files[:args.max_files]
     
     print(f"[info] found {len(txt_files)} text files in {input_dir}")
-    
+
+    # load tokenizer if capping is requested
+    tokenizer = None
+    if args.max_tokens is not None:
+        from transformers import AutoTokenizer
+        print(f"[info] loading tokenizer for --max-tokens {args.max_tokens:,}")
+        tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B-Instruct")
+        print(f"[info] tokenizer ready (vocab {len(tokenizer):,})")
+
     for i, input_path in enumerate(txt_files, start=1):
         output_path = output_dir / input_path.name
         print(f"[{i}/{len(txt_files)}] {input_path.name}")
-        stats = process_file(input_path, output_path, overwrite=args.overwrite)
+        stats = process_file(
+            input_path, output_path,
+            overwrite=args.overwrite,
+            tokenizer=tokenizer,
+            max_tokens=args.max_tokens,
+        )
         if args.verbose and stats is not None:
             log_path = Path(__file__).resolve().parent.parent / "logs" / "reflow_metrics.jsonl"
-            write_jsonl_log(
-                log_path,
-                {
-                    "input": input_path.name,
-                    "output": output_path.name,
-                    "marker_count": stats["marker_count"],
-                    "input_lines": stats["input_lines"],
-                    "output_lines": stats["output_lines"],
-                },
-            )
+            record = {
+                "input": input_path.name,
+                "output": output_path.name,
+                "marker_count": stats["marker_count"],
+                "input_lines": stats["input_lines"],
+                "output_lines": stats["output_lines"],
+            }
+            if stats["truncated"]:
+                record["truncated"] = True
+                record["original_tokens"] = stats["original_tokens"]
+                record["kept_tokens"] = stats["kept_tokens"]
+            write_jsonl_log(log_path, record)
 
 
 if __name__ == '__main__':
