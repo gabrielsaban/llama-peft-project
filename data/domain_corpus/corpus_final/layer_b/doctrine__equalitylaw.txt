@@ -1,0 +1,385 @@
+The Equality Act 2010
+The Equality Act 2010 consolidates most equality law into one Act. It prohibits
+conduct and creates duties in relation to ‘protected characteristics’. There
+are nine protected characteristics, listed in section 4 of the Act, ranging from
+age through to sexual orientation.
+The Act prohibits direct and indirect discrimination, and harassment and
+victimisation. It also prohibits discrimination in relation to something arising
+from a person’s disability, and creates a duty to make reasonable
+adjustments for disabled people.
+The Act applies in various scenarios, including at work, in education and in
+relation to services and public functions.
+Public authorities are subject to a Public Sector Equality Duty. The Duty
+means they must ‘have due regard’ to equality considerations when
+exercising public functions.
+Except for in Northern Ireland, which has its own equality legislation, equality
+law is largely reserved to the UK Parliament. The legal concepts in this
+briefing apply across England, Wales and Scotland.
+The Equality and Human Rights Commission
+The Equality and Human Rights Commission was established by the Equality
+Act 2006, with a duty to promote and encourage understanding of equality
+and human rights.
+Individuals enforce their rights under the Equality Act 2010 before the courts.
+However, the Commission also has a range of powers at its disposal to
+enforce equality law at a more institutional level, and often strategically
+intervenes as a party to litigation if doing so could help develop equality law.
+
+1 Introduction
+The Equality Act 2010 (the Act) repealed, replaced and consolidated the
+principles of earlier equality legislation. The Act codifies UK equality law,
+which is part domestic in origin, part derived from EU law.1
+1.1 Protected characteristics
+The Act prohibits certain types of conduct and creates duties in relation to
+‘protected characteristics’. Section 2 of this briefing (‘Key concepts’) explains
+these prohibitions and duties. The below lists the protected characteristics.
+Each link goes to the section of the Act that defines the relevant
+characteristic:
+• age
+• disability
+• gender reassignment
+• marriage and civil partnership
+• pregnancy and maternity (not defined in the Act)
+• race
+• religion or belief
+• sex
+• sexual orientation.
+1.2 Scope of the Act
+The prohibitions and duties in the Act only apply in specific contexts. This
+means that discrimination isn’t prohibited generally – for example, in social
+situations – but in specific contexts, such as the workplace. Broadly, the Act
+prohibits discrimination in relation to:
+• services and public functions
+• work
+• the management and disposal of premises
+• education
+• clubs and associations
+• transport.
+
+2 Key concepts
+2.1 Direct and indirect discrimination
+The Act identifies two types of discrimination: direct and indirect.
+Direct discrimination occurs when a person, because of a protected
+characteristic, treats another less favourably than they would treat those
+without the characteristic.2
+Indirect discrimination occurs when a person applies a ‘provision, criterion
+or practice’ which, although applied to persons with different protected
+characteristics (e.g., males and females) puts one group at a particular
+disadvantage (e.g., disadvantages females but not males).3 The Act’s
+Explanatory Notes provide an example:
+A woman is forced to leave her job because her employer operates a
+practice that staff must work in a shift pattern which she is unable to
+comply with because she needs to look after her children at particular
+times of day, and no allowances are made because of those needs. This
+would put women (who are shown to be more likely to be responsible for
+childcare) at a disadvantage, and the employer will have indirectly
+discriminated against the woman unless the practice can be justified.4
+Indirect discrimination may be lawful if shown to be a proportionate means of
+achieving a legitimate aim.
+2.2 Discrimination arising from disability
+In addition to direct and indirect discrimination, section 15 of the Act states
+that a person discriminates against a disabled person if they treat the
+disabled person unfavourably because of ‘something arising in consequence’
+of their disability. An Equality and Human Rights Commission Statutory Code
+Practice gives an example:
+A mother seeks admission to a privately run nursery for her son who has
+Hirschsprung’s disease, which means that he does not have full bowel
+control. The nursery says that they cannot admit her son because he is
+not toilet trained and all the children at the nursery are. The refusal to
+admit the boy is not because of his disability itself; but he is being treated
+unfavourably because of something arising in consequence of his
+disability.
+This type of discrimination will be unlawful if the person cannot justify the
+treatment. However, it will not be unlawful discrimination if the person can
+show they did not know, and could not reasonably have been expected to
+know, about the disability. The Act’s Explanatory Notes illustrate as follows:
+The licensee of a pub refuses to serve a person who has cerebral palsy
+because she believes that he is drunk as he has slurred speech. However,
+the slurred speech is a consequence of his impairment. If the licensee is
+able to show that she did not know, and could not reasonably have been
+expected to know, that the customer was disabled, she has not subjected
+him to discrimination arising from his disability.
+However, in the example above, if a reasonable person would have known
+that the behaviour was due to a disability, the licensee would have
+subjected the customer to discrimination arising from his disability,
+unless she could show that ejecting him was a proportionate means of
+achieving a legitimate aim.
+
+2.3 Reasonable adjustments for disabled people
+The Act also creates a positive duty to anticipate the needs of, and make
+reasonable adjustments for, disabled people.
+For example, in the context of services, the objective of the duty is to, so far as
+is reasonably practicable
+approximate the access enjoyed by disabled people to that enjoyed by the
+rest of the public. The purpose of the duty to make reasonable
+adjustments is to provide access to a service as close as it is reasonably
+possible to get to the standard normally offered to the public at large
+The duty is contained in section 20 and comprises three requirements. The
+requirements are to ‘take such steps as it is reasonable to have to take’ to:
+
+• avoid putting disabled people at a substantial disadvantage where a
+provision, criterion or practice would put them at that disadvantage
+compared with people who are not disabled
+– for example, adjusting a ‘no dogs’ policy for visually impaired
+people
+• remove, alter or provide means of avoiding physical features where those
+features put disabled people at a substantial disadvantage compared
+with people who are not disabled
+– for example, providing a wheelchair ramp alongside stairs
+• provide an auxiliary aid where disabled people would, but for the
+provision of that aid, be put at a substantial disadvantage in comparison
+with people who are not disabled
+– for example, providing an induction loop for hearing impaired
+people.
+What is deemed to be reasonable will depend on the circumstances. The
+Equality and Human Rights Commission has identified the following
+potentially relevant factors:
+• whether taking the step would be effective
+• the extent to which it is practicable
+• the financial and other costs of making the adjustment
+• the availability of the necessary financial and other resources
+• the extent of any disruption which taking the steps would cause
+• the amount of any resources already spent on making adjustments.
+Ultimately, the only way to determine for certain whether any adjustment
+would be reasonable to have to make is for a court to decide the issue.
+
+2.4 Harassment and victimisation
+The Equality Act also prohibits harassment and victimisation.
+Harassment is defined as engaging in unwanted conduct related to a
+protected characteristic, which has the effect of violating a person’s dignity or
+creating an intimidating, hostile, degrading, humiliating or offensive
+environment for that person.11 The Act’s Explanatory Notes provide examples
+of this:
+• A white worker who sees a black colleague being subjected to
+racially abusive language could have a case of harassment if the
+language also causes an offensive environment for her.
+• An employer who displays any material of a sexual nature, such as a
+topless calendar, may be harassing her employees where this makes
+the workplace an offensive place to work for any employee, female
+or male.
+• A shopkeeper propositions one of his shop assistants. She rejects his
+advances and then is turned down for promotion which she believes
+she would have got if she had accepted her boss’s advances. The
+shop assistant would have a claim of harassment.
+Victimisation is defined as subjecting an individual to detriment because they
+have done a ‘protected act’ (or in the belief that they have).13 Broadly, the
+protected acts are acts relating to bringing a claim under the Equality Act or
+alleging a person has contravened the Act. For example:
+A gay man sues a publican for persistently treating him less well than
+heterosexual customers. Because of this, the publican bars him from the
+pub altogether. This would be victimisation.
+
+2.5 The Public Sector Equality Duty
+The Public Sector Equality Duty is contained in Part 11 of the Act and related
+regulations. The Duty consolidates and replaces equality duties in previous
+legislation, including the disability equality duty in section 49A of the
+Disability Discrimination Act 1995.
+The main duty is set out in section 149 of the Act. Under section 149 public
+authorities must, in the exercise of their functions, ‘have due regard to the
+need to’:
+• eliminate discrimination, harassment, victimisation and any other
+conduct that is prohibited by the Act
+• advance equality of opportunity between persons who share a relevant
+protected characteristic and persons who don’t
+• foster good relations between persons who share a relevant protected
+characteristic and persons who don’t.15
+The Act does not identify what is meant by the phrase ‘have due regard’.
+However, the term has been considered extensively by the courts.
+Broadly, the principles that emerge from the case law are:
+• the duty concerns the impact of a proposal on all persons with
+protected characteristics and on any class of persons within a
+protected category who might clearly be adversely affected
+• it is not a question of ticking boxes, the duty must be approached in
+substance, with rigour and with an open mind
+• the duty must be fulfilled both before and during consideration of a
+particular policy
+• the public authority does not have to refer expressly to the duty whilst
+exercising a public function
+• decision-makers must be aware of the duty
+• the duty is non-delegable
+• it is good practice for an authority to keep a record showing that it has
+considered the identified needs
+• it is for the decision maker to decide what weight to give to the equality
+implications of the decision.
+
+In a leading Court of Appeal case, Lord Justice McCombe summarised the
+effect of the Duty and its rationale:
+It seems to have been the intention of Parliament that these
+considerations … are now to be placed at the centre of formulation of
+policy by all public authorities, side by side with all other pressing
+circumstances of whatever magnitude.
+It is for this reason that advance consideration has to be given to these
+issues and they have to be an integral part of the mechanisms of
+government…. There is a need for a "conscious approach" and the duty
+must be exercised "in substance, with rigour and with an open mind" … In
+the absence of evidence of a "structured attempt to focus upon the details
+of equality issues" … a decision maker is likely to be in difficulties if his or
+her subsequent decision is challenged.
+In addition to the general Duty, some public bodies are subject to specific
+duties and are required to report on various equality matters. The duties
+differ across the devolved nations.
+Equality Impact Assessments
+It is important for public authorities to record the steps they’ve taken to meet
+the Duty. Aside from this helping the authority to comply with the Duty in
+practice, it would also be an important evidential requirement should the
+authority be challenged in court for failing to comply with the Duty.
+One of the ways (but not the only way) an authority can demonstrate this, is
+through carrying out an equality impact assessment.
+
+3 The Equality and Human Rights
+Commission
+The Equality and Human Rights Commission (EHRC) replaced the Equal
+Opportunities Commission, Commission for Racial Equality and the Disability
+Rights Commission with a single equality body. It is a non-departmental
+public body in England, Wales and (in part) Scotland, responsible for
+monitoring compliance with the Equality Act 2010.
+Equality law is devolved in Northern Ireland; Northern Ireland has a separate
+Equality Commission.
+The EHRC is not responsible for enforcing the provisions of the Equality Act
+2010. Individuals enforce their own rights through the courts. However, the
+EHRC can intervene strategically in litigation to develop equality law, and has
+a range of enforcement powers at its disposal.
+
+3.1 EHRC duties
+The EHRC is a statutory body, with statutory duties, established by the
+Equality Act 2006 (the 2006 Act). Broadly, the 2006 Act requires the EHRC to
+promote and encourage the understanding of - and good practice in relation
+to - equality and human rights.
+Section 3 of the 2006 Act contains the EHRC’s ‘general duty’, which requires
+the EHRC to encourage and support the development of a society in which:
+• people's ability to achieve their potential is not limited by prejudice or
+discrimination
+• there is respect for and protection of each individual's human rights
+• there is respect for the dignity and worth of each individual
+• each individual has an equal opportunity to participate in society
+• there is mutual respect between groups based on understanding and
+valuing of diversity and on shared respect for equality and human rights.
+The EHRC must also monitor the law and progress towards development of a
+society that reflects these values.
+
+3.2 Powers
+As noted, the EHRC is not responsible for the enforcement of equality rights at
+an individual level. As with most other legal rights, it falls to individuals to
+exercise their rights through the courts. The EHRC typically uses its powers at
+an institutional level; for example, agreeing new policies with a large
+company to avoid future discriminatory conduct.
+The EHRC’s powers are set out in the 2006 Act, and include the following:
+• formal inquiries
+• formal investigations
+• issuance of unlawful act notices
+• a power to enter into agreements with parties by which the party
+undertakes not to commit an unlawful act
+• legal proceedings to prevent or restrain unlawful acts
+• claims for judicial review
+• assessing compliance with the Public Sector Equality Duty
+• issuance of compliance notices.
+
+3.3 Accountability
+The EHRC accounts to Parliament through the Minister for Women and
+Equalities. For example, it sends a copy of its annual report to the Minister,
+who then lays it before Parliament.
+
+3.4 Codes of practice
+Under section 14 of the 2006 Act, the Commission may issue codes of practice
+‘in connection with any matter addressed by the Equality Act 2010’.
+
+4 Equality policy
+The Office for Equality and Opportunity (OEO), previously the “Equality Hub”,
+leads on equality policy. The OEO’s priorities include ensuring that equality
+and opportunity are embedded throughout the government’s work and
+improving the quality of evidence and data on equality.
+Within the OEO are the Women and Equalities Unit, the Disability Unit, and the
+Race Equality Unit.
+4.1 Women and Equalities Unit (formerly the Government Equalities Office)
+The Women and Equalities Unit (WEU) leads work on policy relating to gender
+equality, LGBT+ people, and the overall framework of equality legislation in
+the UK.
+The WEU’s website lists its current priorities as:
+• delivering the equalities legislation set out in the King’s Speech
+including equality measures in the Employment Rights Bill and
+the draft Conversion Practices Bill.
+• delivering on the government’s manifesto commitments in
+relation to LGBT+ people including improving the Gender
+Recognition Act, whilst maintaining the single-sex spaces
+exceptions in the Equality Act.
+• addressing the discrimination and inequalities that LGBT+
+people face.
+• tackling violence against women and girls, in partnership with
+the Home Office, FCDO and others.
+• promoting women’s equality including tackling misogyny,
+making work pay and eliminating the gender pay gap.
+• championing the rights of British citizens abroad and using our
+influence to promote international equality.
+Ministers
+The Minister for Women and Equalities is responsible for the following:
+• promoting equality of opportunity for everyone, and reducing
+negative disparities
+• strategic oversight of Government’s equality policy, for women,
+ethnicity and LGBT
+• sponsorship of the Social Mobility Commission and Equality and
+Human Rights Commission
+• overview of the overarching equalities legislative framework,
+including the Equality Act.
+The Minister of State for Women and Equalities is responsible for the following
+(some of which overlap with the responsibilities of the Minister for Women and
+Equalities):
+• the overall framework
+• legislation including on women, disability, LGBT+ and race
+• policy on women, LGBT+ and race
+• sponsorship of the Equality and Human Rights Commission
+• equality data and analysis
+• international work on women, LGBT+ and race.
+
+4.2 The Disability Unit (previously ‘Office for
+Disability Issues’)
+The Disability Unit aims to break down the barriers faced by disabled people
+in the UK and to work across government to improve disabled people's lives.
+The Disability Unit’s website lists its current priorities as:
+• delivering the draft Equality (Race and Disability) Bill, as set out
+in the King’s Speech
+• ensuring that disabled people’s views and voices are at the
+heart of everything the government does – we will do this by
+building and maintaining relationships with disabled people and
+their organisations, stakeholders and colleagues across
+government, and using disabled people’s insights to drive real
+change
+• continuing to promote British Sign Language (BSL) and the
+implementation of the BSL Act 2022, including by supporting the
+BSL Advisory Board
+• improving the quality of evidence and data and using it,
+including disabled people’s lived experience, to support policies
+and how they are delivered
+• ensuring that UK disability policy and disabled people are
+represented on international platforms, and promoting better
+understanding of the UN Convention on the Rights of Persons
+with Disabilities across government. 
+Ministers
+The Minister of State (Minister for Social Security and Disability) is responsible
+for:
+• Disability policy and cross-government responsibility for
+disabled people
+• Universal Credit and legacy benefits delivery
+• Contributory benefits, Personal Independence Payment,
+Disability Living Allowance and Employment Support Allowance
+• Carer’s Allowance
+• Housing
+• Arm’s length body: Health and Safety Executive
+• Serious Case Panel
+• Uprating and benefit cap
+• Oversight of Disability Unit, including disability elements in
+equality legislation and international lead on disability.
+
+4.3 Race Equality Unit
+The Race Equality Unit (REU) aims to tackle racial and ethnic inequalities –
+through legislation, policy and data.
+The REU’s website lists its priorities as:
+• Developing and delivering the draft Equality (Race and
+Disability) Bill and wider cross-government actions to address
+race and ethnic inequalities
+• Collecting, analysing and publishing government data on the
+experiences of people from different ethnic backgrounds on
+Ethnicity facts and figures—an open source of data on race and
+ethnicity.
+
+The Permanent Under-Secretary of State (Minister of Equalities) is responsible
+for race and ethnicity elements in equality legislation and race and ethnicity
+policy.
