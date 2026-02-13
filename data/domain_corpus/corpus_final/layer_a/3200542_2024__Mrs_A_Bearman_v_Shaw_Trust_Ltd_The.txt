@@ -1,0 +1,421 @@
+RESERVED JUDGMENT
+
+The judgment of the Tribunal is that: -
+
+1. the Claimant’s claim of failure to make reasonable adjustments succeeds in relation to the Respondent’s failure to permit her to be accompanied by her stepmother to the redundancy consultation meeting on 12 December 2023 (Issues 5.1, 6 and 7.1);
+
+2. the Claimant’s other claims of failure to make reasonable adjustments are not well-founded and are dismissed;
+
+3. the Claimant’s claims of direct disability discrimination and discrimination because of something arising in consequence of disability are not well-founded and are dismissed.
+
+REASONS
+
+Procedural history
+
+1. The claim form was presented on 5 March 2024, after an ACAS early conciliation period between 15 January and 26 February 2024. The claims were of disability discrimination.
+
+2. Part of the complaint the Claimant sought to raise in the claim form effectively amounted to a freestanding personal injury claim against the Respondent, arising out of a meeting at work on 7 July 2022, at which the Claimant believes she caught Covid and has since suffered life-altering health difficulties.
+
+3. There was a preliminary hearing before EJ Tinnion on 15 July 2024. At this hearing the Judge explained that the Tribunal has no general jurisdiction to consider employee personal injury claims, which must be brought in the civil courts. The Claimant clarified that the disability relied on was ‘memory problems, headaches and extreme fatigue’. She accepted that she was not disabled as at the date of the meeting in July 2022 and had no claims of disability discrimination in relation to it. The disability discrimination claim related to her selection for redundancy.
+
+4. At that hearing the Claimant applied to amend her claim to add claims of unfair dismissal, unauthorised deduction from wages and failure to provide itemised payslips, all of which were refused by the Judge. The Judge allowed the Claimant to amend her claim to include some additional claims under the Equality Act 2010.
+
+5. There was a further preliminary hearing before EJ Smyth on 13 March 2025, at which the issues were agreed and finalised. The subheadings below replicate the contents of that list.
+
+The hearing
+
+6. This hearing was originally listed to take place in person but was converted to a CVP hearing late in the day at the request of the Claimant and by way of a reasonable adjustment.
+
+7. At the hearing, I explained to the parties that we would be taking a break in the morning and afternoon each day and that anyone could ask for further breaks, if they required them. I asked the Claimant if she required any other adjustments and she mentioned that she might require additional time to write things down. I confirmed that this would not be a problem. She did not think that she would need any further adjustments. During the hearing, the Claimant did request some additional breaks and I also offered breaks (which she accepted) when it appeared to me that she might be tiring.
+
+8. The Tribunal had a bundle of documents of 399 pages. A small number of additional documents (fewer than 10) were admitted into evidence at the beginning of, and in the course of, the hearing. For the reasons given at the hearing, the Tribunal considered those documents relevant and necessary to the determination of the issues, notwithstanding the Claimant’s objections. We considered that there was no prejudice to her in the documents being admitted because they were so few and she had an opportunity to read them.
+
+9. We heard evidence from:
+
+9.1 the Claimant; and, on behalf of the Respondent from:
+9.2 Ms Alex Shipman (Program and Governance Officer);
+9.3 Ms Lisa Conlon (Regional manager for HMPPS CFO3 East of England; the Claimant’s line manager from a 2022 onwards);
+9.4 Ms Pretika Khetani (HR Partner);
+9.5 Ms Nadine Olner (Assistant Director of Justice).
+
+10. Both the Claimant and Mr Pincott (Counsel for the Respondent) provided written submissions and supplemented them orally on the morning of Day 4. We read both submissions carefully. The Claimant’s submissions sought at points to introduce new evidence, which had not been led in her witness statement or in the course of the hearing; I explained to her that this was not permissible, which she accepted.
+
+11. The Tribunal apologises to the parties for the delay in sending out this judgment. We had hoped to give oral judgment at the end of the hearing, but our deliberations continued well into the afternoon of the last day. I explained to the parties before releasing them that a written judgment would be sent out by post, but that it was likely that it would be several weeks before they received it, because formulating a judgment in writing takes longer, and time would have to be allocated for me to do so in what, at the moment, is a very busy list. In fact, it has taken considerably longer than I anticipated because time could not be allocated for this purpose until the beginning of June.
+
+Findings of fact
+
+12. The Respondent is a charity which aims at enhancing life opportunities for children and young people.
+
+13. The Claimant began her employment with the Respondent in a temporary role as a JETS1 initial engagement officer on 16 October 2022.
+
+14. She was promoted to the permanent role of Administrator in May 2022. Her line manager was Ms Conlon. The Claimant was one of two Regional Administrators on the CFO3 East of England Programme; the other was Ms Amanda Brett (previously Woodrow). CFO stands for Creating Future Opportunities; these are programmes for preparing offenders for employment release while in custody, followed by training and employment. The Respondent had eight CFO regional contracts across the country.
+
+The Claimant’s sickness absence
+
+15. On 7 July 2022, the Claimant began a period of sickness absence. She returned on a phased basis around 21 July 2022, working part-time. She told the Tribunal that she was still very unwell; she carried on working until November 2022. She then took sickness absence again and remained on sick leave until the termination of her employment over a year later.
+
+The absence meeting on 16 October 2023
+
+16. The Claimant was invited to attend an absence review meeting on 16 October 2023. By an email of 7 October 2023, she asked to be accompanied by her
+
+1 JETS stands for Job Entry Targeted Support
+
+stepmother at the absence review meeting and explained why that would help. She wrote: ‘She will be helping the remember things (as I still have difficulty with my brain fog), will be keeping me calm (my symptoms and anxiety are exasperated [sic] with stress), taking notes for me (as I cannot write, look, concentrate and listen at the same time presently) plus any other help I may require.’
+
+17. The request was refused; the Claimant was told that she could be accompanied by a trade union representative, an employee voice representative or a workplace colleague. The Claimant was not a member of a trade union.
+
+18. The Claimant was too unwell to attend the meeting and it was rearranged to 30 October 2023. At the meeting, the Claimant’s line manager, Ms Conlon, discussed her possible return to work, how this could be facilitated and provided the Claimant with an occupational health form to complete.
+
+The restructuring exercise
+
+19. The CFO contracts were due to expire on 31 December 2023; an extension was granted until the end of July 2024, but with that extension came less money because the funding stream was moving from European Social Fund matched funding to UK government funding. The Respondent was obliged to devise a new financial model to deliver the contract between January and July, which would enable it to deliver on its responsibilities to the Probation Service, while coming in on budget. The staffing structure needed to be significantly reduced across all the contracts. Therefore, the Respondent had to go through a redundancy process for all staff in the eight CFO contracts. The operational lead for that exercise was Ms Olsen.
+
+20. The Claimant accepts (and we find) that there was a genuine redundancy situation. She is complaining about the way in which she was selected for redundancy.
+
+21. The Claimant was in a pool of two with Ms Woodrow who was the other administrator in their part of the organisation. The two roles were being reduced to one.
+
+22. The Respondent considered conducting the selection exercise by reference to past performance, including appraisals, but rejected that approach because there were too many variables: the appraisals had been conducted by different managers in different circumstances; appraisals inherently had a subjective element; and some candidates were recent appointees who would be disadvantaged because they did not have a history of appraisals.
+
+The selection process
+
+23. Where staff were in selection pools with more than one person the selection procedure provided that they would take part in a short interview.
+
+24. The selection criteria (which the Claimant did not challenge at any stage, including at the Tribunal hearing) were as follows: knowledge, skills and experience (to be tested at interview); and attendance and disciplinary record (to be assessed on paper). Any candidate who did not attend an interview would not receive a score for knowledge, skills and experience.
+
+25. On 9 November 2023, the Claimant was sent the email attaching documents about the redundancy exercise. She said that she did not receive it because it was not sent to her personal email. Having seen screenshots of the email, the Tribunal is satisfied that it was sent both to the Claimant’s work email and to her personal email; some confusion may have arisen because there were so many people copied into the email that the Claimant’s personal email does not show unless the reader scrolls down in the blind copy section of the header.
+
+26. In any event, it was re-sent to the Claimant at her request on 13 November 2023.
+
+27. The accompanying pack includes a timetable which indicates that interviews would take place between 20 and 24 November 2023. Thus, even if the Claimant only received the pack on 13 November, she had at least seven days’ notice of when the interviews would take place. In the event the Claimant’s interview was scheduled for 24 November 2023, so 11 days after she received the pack.
+
+28. There was confusion about the letter inviting her to the meeting, which was sent to the Claimant’s work email address, but not to her personal address. On Monday 20 November 2023, Ms Conlon called the Claimant to discuss availability for the interview and confirmed that this invite would go to her personal email. Ms Conlon recorded in an email to Ms Shipman the same day that the Claimant said that she was free ‘any time this week but not Friday 9-11 a.m.’
+
+29. After the call, and at the Claimant’s request, Ms Conlon submitted a query to an inbox which had been set up as part of the redundancy consultation process, regarding early retirement based on ill-health.
+
+30. Ms Woodrow was interviewed on 20 November 2023.
+
+31. On 21 November 2023 at 15:12, Ms Shipman re-sent to the Claimant’s personal email address the invitation to the selection interview on Friday 24 November 2023 at 16:00. The email said that there would be some competency-based questions at the interview, which would last around 30 minutes; the Claimant was asked to notify them if any adjustments were required. Plainly, notice of the meeting ran from the point at which the invitation email was sent to her (not, as the Claimant appeared to suggest, from the point at which she replied to it). The Claimant was given three days’ notice of the meeting. It was arranged for a time which the Claimant had said would be convenient to her. The interview was scheduled to last half an hour.
+
+32. At 19:49 on 21 November 2024, the Claimant replied: ‘Many thanks for your email where you have invited me to attend interview for the East Administrator on Friday 24/11/25. I would love to attend and I’m really looking forward to it. With this regard I would appreciate if you can please provide me with a bit more information on what will be discussed at the interview as I am out on long-term sick for over a year now – so need to prepare as much as possible.’
+
+33. The Claimant did not ask for the meeting to be postponed because she had been given insufficient notice, nor did she ask to be given access to the Respondent’s systems, in order to prepare.
+
+34. Ms Shipman replied to say that she could not share the questions but that there would be six competency-based questions about the Claimant’s current role, focused on experience, skill and knowledge.
+
+35. On the morning of 22 November 2023, a telephone conversation took place between the Claimant and Ms Conlon about the interview, in which the subject of reasonable adjustments came up. We know this because it is referred to in an email later the same day from Ms Conlon to the Claimant: ‘Following on from our call this morning regarding any reasonable adjustments for your interview at 16:00 hours on Friday, 24 November 2023, I do not have a list of reasonable adjustments, the advice is that it’s for the employee to put forward what they feel would be helpful as every situation may be different, and then we consider whether this can be accommodated.
+
+Examples would be:
+
+• extra time
+• having the questions 30 mins before the interview to review. Let me know your thoughts and if you require any reasonable adjustment for your interview.’
+
+36. The Claimant’s evidence was that there had been a detailed discussion about reasonable adjustments in the phone call earlier that day, including a request by her that her stepmother accompany her to the interview. Indeed, the Claimant suggested at various stages during the hearing, including in her closing submissions, that she had requested nine reasonable adjustments (albeit she did not identify what they all were).
+
+37. We do not accept that evidence. If that had occurred, the email from Ms Conlon would have been in a very different form; it probably would have included the specific requests and commented on whether they were agreeable or not. As it is, the email suggests that the Claimant’s request for adjustments was in general terms and that it was Ms Conlon who was proposing specific reasonable adjustments, inviting the Claimant to come back with any counterproposals.
+
+38. On 23 November 2023, the Claimant emailed Ms Conlon, copying in Ms Shipman, describing her symptoms and saying that it would be ‘extremely challenging … for me to attend a formal interview for my role presently’. ‘- As you know I am currently on Long Term Sick Leave (have been for over a year now) and part of my symptoms are brain fog, concentration and memory issues. So being asked questions about my current role, when I have not been in work for over 1 year and my memory issues, is almost impossible. Not only trying to remember the role but also not having any idea if any rules, policies or procedures have been amended/implemented over this time will be a huge disadvantage.
+
+- Stress and anxiety aggregates [sic] my current debilitating symptoms making my performance at interview even worse and possibly even putting my recovery back further.
+- I assume that my colleague (who is also having to also interview for our role) has not been absent for the same period so is far more conversed in the role currently.
+- Extreme fatigue, another of my symptoms, will also affect my ability to perform at my previously high level at a formal interview (greatly reducing my chances of getting the job).’ She concluded: ‘as such, I have made the extremely hard decision to inform you that I will not be able to attend the interview on Friday, 24 November 2023, (I have to think of my health and recovery) so can you please consider me for this role, or any other suitable internal roles, from my previous excellent performance, attitude and conduct?’
+
+39. Thus in this letter the Claimant did not accept the adjustments which Ms Conlon had proposed; nor did she propose any other adjustments to the interview which would remove the disadvantages she describes. It was put to the Claimant, and she accepted, that the only adjustment she was seeking at this stage was for the Respondent to assess her on the basis of her past performance.
+
+40. In the same letter the Claimant reminded Ms Conlon that she had asked if she might be eligible for early retirement due to ill-health; she asked for an update. The Claimant subsequently learned that she was not eligible for ill-health retirement because of her age.
+
+41. The Claimant said in cross-examination that: ‘I would not have been able to attend because I would not have been able to conduct myself well […] Bearing in mind my limitations and disabilities and not being provided with the questions in advance.’
+
+42. Insofar as the Claimant was suggesting that, had she been provided with the questions in advance, she would have attended the interview, we reject that suggestion. We consider that it is already clear from the letter quoted extensively above that the Claimant was rejecting any suggestion of attending the interview. That was then later confirmed in an email which we quote below in which she queried again whether any adjustments would have enabled her to participate. Further, in cross-examination, the Claimant said that she was ‘not physically able’ to attend the interview because she was ‘incapacitated at the time’.
+
+The records of the Claimant’s past performance
+
+43. The Claimant only had one appraisal (for the financial year 2021/2022) in the Administrator role before she went on long-term sickness absence in November 2022; thus the appraisal was only completed in respect of one quarter. The Claimant scored herself 3 for performance; her manager (Ms Conlon) agreed; both of them referred to the Claimant’s Long Covid as a factor affecting performance.
+
+44. Ms Woodrow’s score for the same year was 4 for all four quarters; her line manager agreed.
+
+45. Thus, if the Respondent had dealt with the selection exercise on the basis of past performance in the Administrator role, Ms Woodrow would have outscored the Claimant.
+
+46. The Claimant suggested that the Respondent ought to have gone back further and considered her appraisals scores in the JETS role during the year in question. Of course, had it done so, it would not have been a like-for-like comparison with Ms Woodrow, who was performing a different role in that year.
+
+47. There is an additional problem with the Claimant’s JETS scores, which is that she does not accept that the scores recorded in the documents are correct; so, for instance, when the form records a score of 4, she asserts that at the time a score of 5 was agreed. At some points in the documents the scores have not been entered at all.
+
+48. If the scores had been taken at face value, reflecting what was in the documents, Ms Woodrow would have scored higher than the Claimant. Even if they were adjusted to reflect the scores the Claimant believed (from memory) she had been given, the Claimant accepted that they would have scored the same (5-4-4-3 for the Claimant; 4-4-4-4 for Ms Woodrow). Asked how the tie might have been broken, the Claimant suggested that there were any number of ways to do it, including ‘experience, skills, how long you have been doing the job’. The Claimant had been doing the Administrator job for three months; Ms Woodrow had been doing the job much longer, indeed she had trained the Claimant when she was first appointed.
+
+49. By 23 November 2023, when the Claimant informed of the Respondent that she would not be attending the interview and asked that she be assessed on the basis of past performance, Ms Woodrow had already been interviewed. Asked during oral evidence whether, in the interests of fairness to both candidates, the Claimant thought that Ms Woodrow should not have been interviewed either. The Claimant initially agreed (although she later resiled from this) and said that past performance should have been used for both of them.
+
+50. The Claimant then said that the Respondent should have gone back to the notes of their respective original interviews (which were conducted by different people). In our view, that suggestion was wholly unrealistic. Even if it were possible to conduct that exercise, those interviews would have been a snapshot of where each of the candidates was when they were first appointed, not where they were at the material time.
+
+51. The Claimant also agreed that there was a decline in her cognitive abilities during that year, in comparison to how she was before her illness. It was put to her in cross-examination that her past performance scores would not have been an accurate indicator of future performance. The Claimant agreed that past interviews and appraisals would not have given an accurate picture of her abilities at that point in time, especially in light of her own account as to the decline in cognitive abilities since her appointment, which affected her ability to carry out the work.
+
+The correspondence after the interview date
+
+52. On 24 November 2023, Ms Conlon wrote to Ms Khetani, updating her about the exchange she had had with the Claimant, including the Claimant’s request to be considered on the basis of her previous performance, attitude and conduct. Ms Khetani replied to Ms Conlon the same day asking her to check that the Claimant did not wish to be included in the interview, because the Respondent would not be able to score her on the matrix unless she did so.
+
+53. On 27 November 2023, Ms Conlon wrote to the Claimant: ‘In response to your request to be considered for the Administrator role from your previous excellent performance, attitude and conduct I can confirm that in order to have a fair and consistent process staff needs to be interviewed to get a score. We cannot base it on previous performance. Can you confirm that you do not want to attend and interview even with reasonable adjustments?’
+
+54. The Claimant and Ms Conlon must have spoken by phone later that day because this conversation is referred to in an email of 28th November from Ms Conlon to Claimant: ‘Following our conversation yesterday, I would like to confirm you have declined the opportunity to attend an interview for the Administrator role, even with reasonable adjustments. In addition to confirm you are aware that we cannot score you for the role based on past performance. Therefore, if you are not interviewed you will not receive a score for the interview, but other elements of the matrix will still be considered. We will be in touch with the next steps including the outcome of the selection matrix.’
+
+55. It is clear from this exchange (which postdated the original interview date) that the Respondent was open to the possibility of re-arranging the interview if the Claimant had indicated that she was willing to attend. The Claimant’s reply of the same day expressly ruled that out. She wrote: ‘I appreciate that you have said that you will offer reasonable adjustments but how do you reasonably adjust for cognitive, memory and concentration issues, anxiety, speech, voice, attitude, not remembering the role fully (as it has been over 1 year), new policies and procedures? I had asked Alex for a heads up on the interview but was informed that this was not possible - so if I cannot even prepare either this, once again, is impeding me.’
+
+56. We are satisfied that the Claimant made clear in this email that her health difficulties were so many, and so challenging, that there were no adjustments to the arrangements which would have enabled her to participate effectively in an interview at that point. This reconfirms that the only adjustment she was seeking was for the selection to be carried out by reference to her past performance.
+
+The GP fit note
+
+57. On 1 December 2023, the Claimant attended an appointment with her GP, who stated that she was unfit for work ‘indefinitely’ by reason of long Covid.
+
+The meeting on 1 December 2023
+
+58. On 1 December 2023, the Claimant attended an ‘at risk’ meeting with Ms Conlon, at which she was told her scores against the matrix, relative to Ms Woodrow. Because the Claimant did not receive a score for the interview, she scored 8; Ms Woodrow, who did attend the interview, scored 57. The Claimant accepted in cross-examination that the reason why she was selected for redundancy was because Ms Woodrow scored higher than she did.
+
+59. Ms Shipman took notes of the meeting; Ms Shipman touch-types. She emailed the notes to the consultation inbox on 1 December 2023. The Claimant cannot recall the meeting; she was not sent the minutes for comment; she disputes their accuracy and suggests that they have been ‘tampered with’ and are ‘defamatory’. Ms Shipman confirmed in her statement that the notes were accurate according to her recollection.
+
+60. It was poor practice not to send notes of the meeting to the Claimant to check; it would also have avoided controversy later on. However, we are satisfied that these notes are accurate. We found Ms Shipman to be a credible witness; we consider that there was no reason whatsoever for her or anyone else to tamper with these notes; in any event the matters that they record are not inconsistent with what the Claimant was saying in her own communications. We reject any suggestion that these notes have been tampered with after the event (let alone any contention that they are defamatory).
+
+61. The notes record the Claimant saying: AB: As you know I couldn’t attend an interview as I am unwell. I know you offered reasonable adjustments, but I’ve been having a few bad days and I know I wouldn’t have been good enough, so I complete [sic] understand.
+
+[…]
+
+AB: OK. One thing I was going to say – the JETS thing I did before - something like that would be perfect. I can talk still. But something where I can just [go] through a checklist, and it’s regimented would be much easier than doing something else. LC: Ok I will see if there’s anything with Work and Health since JETS no longer runs. AB: okay yes something like that would be good. At the moment my capabilities are reduced so something that doesn’t use too much brain power. Thought I would say that. LC: Ok thanks so much for your time. We will catch up soon. AB: Lovely – I will let you know any doctor’s appointment. I am still waiting on my sick note, I chased them this morning, but I will let you know when that comes through. […] AB: I knew that because Amanda has been doing the job a long time long time, I am 50/50 at the moment so I couldn’t attend, good luck to her. LC: If I feel there is anything similar to what you’re looking for home-based I will flag to you. AB: Thank you.
+
+62. I asked the Claimant whether, if she did say what is quoted here, one reading was that she knew Ms Woodrow was likely to be selected because she was more experienced in the role than she was; the Claimant said that she did not remember saying it, but if she did, that would be a fair interpretation.
+
+63. We find that she did say it and that this was what she meant.
+
+The Claimant’s messages on 4 December 2023
+
+64. On 4 December 2023, the Claimant messaged Ms Conlon, attaching a fit note from her GP. She wrote: ‘I have my Fit Note and I have just noticed that it actually says that I will not be fit for work indefinitely. Erm [emoji]. It looks like I will not be back for a while (or possibly never) with everything I have going on with my health at the moment. Is there any news on early retirement due to ill health please? If not, I think I need to be made redundant so can you please look into this for me too?’
+
+65. We note that in her main witness statement (paragraph 41), the Claimant wrote: ‘Regrettably, due to my illness, limitations and disabilities I will never be able to work again so I’m now in severe financial difficulties.’
+
+In her disability impact statement, she wrote:
+
+‘I am unable to ever work again due to these impairments - I cannot even function in my ‘normal life’ letter alone in a working environment’.
+
+66. The Claimant confirmed in cross-examination that this was the true position, both at the time and now; she confirmed that her interpretation of ‘indefinitely’ (in the fit note) was ‘never’.
+
+67. It was put to the Claimant that this would have been the case regardless of any adjustments the Respondent could have made. The Claimant replied that she did not know; she did ask at the meeting on 1 December 2023 to be redeployed to something less taxing (see above).
+
+68. The Claimant explained that she hoped she would have been given the opportunity to remain in the Respondent’s employment on sick leave until such time as she would have been able to commence the role; the Respondent would not be paying her; there would have been no cost to it. Effectively, she was suggesting that the Respondent should have filled this role or another role with an employee who was on indefinite sick leave with no prospect of a return to work in the foreseeable future, indeed an employee who considered that she ought to be offered ill-health retirement.
+
+69. Even if that had been contended for as an adjustment at the time (which it was not), we find that it would not have been a reasonable adjustment; it simply would not have happened.
+
+70. The Claimant was copied into the vacancy notices, which HR created every week. However, none of those vacancies would have been suitable for the Claimant. That is unsurprising, given that she had told the Respondent that she would only consider something where she could be at home, take calls and go through a checklist, without using ‘too much brainpower’.
+
+The meeting on 12 December 2023
+
+71. On 5 December 2023, Ms Shipman sent to the Claimant an email, inviting her to a redundancy consultation meeting on 12 December 2023. The Claimant was notified that she could be accompanied at the meeting by a trade union representative, employee voice representative or work colleague; the Claimant did not expressly request to be accompanied by her stepmother at the meeting.
+
+72. The Claimant attended the meeting, at which she was formally given notice of termination of her employment. The Claimant made annotated notes of the meeting. On the same day a letter confirming the termination of her employment by reason of redundancy was sent to her.
+
+73. On 20 December 2023, Ms Conlon wrote to the Claimant. In the first paragraph of that email, Ms Conlon made the point that the Claimant had been told by her that she could not be accompanied by a family member in relation to her absence management meeting, not in relation to the redundancy selection meeting. We find that it is clear from this email that the Claimant would not have been allowed to have her stepmother present at the meeting on 12 December 2023, if she had asked (which she did not).
+
+Termination of the Claimant’s employment
+
+74. The Claimant’s employment terminated on 12 January 2024.
+
+75. The Claimant was notified of her right to appeal in the letter sent to her a month earlier; she did not do so. It was put to her that this was because she did not consider that she had been subjected to disability discrimination and this is reflected by the fact that she did not mention the claims she now makes in her ET1, which mentions the redundancy in a single, passing reference. It is right that the Claimant’s original claim was not about a discriminatory redundancy process at all (that claim was allowed in on amendment sometime after the claim was issued). The original claim was effectively a personal injury claim about the circumstances in which the Claimant believes she caught Covid, which led to her long-term health difficulties. The law
+
+Failure to make reasonable adjustments: s.20-21 EqA
+
+76. S.20 EqA provides as relevant:
+
+(1) Where this Act imposes a duty to make reasonable adjustments on a person, this section, sections 21 and 22 and the applicable Schedule apply; and for those purposes, a person on whom the duty is imposed is referred to as A.
+
+(2) The duty comprises the following three requirements.
+
+(3) The first requirement is a requirement, where a provision, criterion or practice of A’s puts a disabled person at a substantial disadvantage in relation to a relevant matter in comparison with persons who are not disabled, to take such steps as it is reasonable to have to take to avoid the disadvantage. […]
+
+77. S.21 EqA provides as relevant:
+
+(1) A failure to comply with the first, second or third requirement is a failure to comply with a duty to make reasonable adjustments.
+
+(2) A discriminates against a disabled person if A fails to comply with that duty in relation to that person.
+
+…
+
+78. The Equality and Human Rights Commission Code of Practice on Employment (2011) (‘the Code of Practice’) at para 6.16 emphasises that the purpose of the comparison with persons who are not disabled is to determine whether the disadvantage arises because of the disability and that, unlike direct or indirect discrimination, there is no requirement to identify a comparator or comparator group whose circumstances are the same or nearly the same as the disabled person’s.
+
+79. In relation to the employer’s actual or constructive knowledge of the employee’s disability, and of the disadvantage, sch.8, Part 3, para 20(1)(b) EqA provides that:
+
+(1) A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+
+…
+
+(b) in any case referred to in Part 2 of this Schedule, that an interested disabled person has a disability and is likely to be placed at the disadvantage referred to in the first, second or third requirement.
+
+80. If the employer knew, or could reasonably be expected to have known, that the Claimant had an impairment, it does not matter that it had no precise diagnosis. It is, however, a requirement that the employer should know (actually or constructively) that the Claimant had an impairment the adverse effects of which were both substantial and long-term (Wilcox v Birmingham CAB Services Ltd [2011] EqLR 810.
+
+81. As for knowledge of disadvantage, what is necessary is not that the employer knows that the claimant was generally disadvantaged by their disability, but that it knows that they are likely to be placed at ‘the disadvantage referred to in the first … requirement’, which is as specified in s.20(3) ‘a substantial disadvantage in relation to a relevant matter’ (Aecom Ltd v Malloon [2023] EAT 104 at [25]).
+
+82. The correct approach for the Tribunal in determining a reasonable adjustments claim is set out in Environment Agency v Rowan [2008] ICR 218 at [27] (the reference to sections is to sections of the Disability Discrimination Act 1995): ‘In our opinion an employment tribunal considering a claim that an employer has discriminated against an employee pursuant to section 3A(2) of the Act by failing to comply with the section 4A duty must identify: (a) the provision, criterion or practice applied by or on behalf of an employe think er, or (b) the physical feature of premises occupied by the employer, (c) the identity of non-disabled comparators (where appropriate) and (d) the nature and extent of the substantial disadvantage suffered by the claimant [...] Unless the employment tribunal has identified the four matters we have set out above it cannot go on to judge if any proposed adjustment is reasonable. It is simply unable to say what adjustments were reasonable to prevent the provision, criterion or practice, or feature, placing the disabled person concerned at a substantial disadvantage.'
+
+83. The burden is on the Claimant to show the PCP, to demonstrate substantial disadvantage, and to make out a prima facie case that there is some apparently reasonable adjustment which could have been made (and that, on the face of it, there has been a breach of the duty): Project Management Institute v Latif [2007] IRLR 579 at [45] and [54]. If the PCP contended for was not actually applied, the claim falls at the first fence: Brangwyn v South Warwickshire NHS Foundation Trust [2018] EWCA Civ 2235 at [40].
+
+84. A one-off act may be a PCP, but only if it is capable of being applied to others. ‘Practice’ connotes some form of continuum in the sense that it is the way in which things generally are or will be done; it is not necessary for it to have been applied to anyone else in fact (Ishola v Transport for London [2020] IRLR 368 CA per Simler LJ at [36-38]): ‘The function of the PCP in a reasonable adjustment context is to identify what it is about the employer's management of the employee or its operation that causes substantial disadvantage to the disabled employee […] the act of discrimination that must be justified is not the disadvantage which a claimant suffers […] but the practice, process, rule (or other PCP) under, by or in consequence of which the disadvantageous act is done. To test whether the PCP is discriminatory or not it must be capable of being applied to others because the comparison of disadvantage caused by it has to be made by reference to a comparator to whom the alleged PCP would also apply. I accept of course […] that the comparator can be a hypothetical comparator to whom the alleged PCP could or would apply.
+
+85. The substantial disadvantage applies in respect of the disabled person compared to persons who are not disabled. The EAT has made clear that ‘the function of the provision, criterion or practice within section 20(3) is to identify what it is about the employer’s operation which causes disadvantage to the employee with the disability’ (see General Dynamics Information Technology Ltd v Carranza [2015] ICR 169 at 39). As observed by the EAT in Sheikholeslami v Edinburgh University [2018] IRLR 1090 at [48]: ‘The purpose of the comparison exercise with people who are not disabled is to test whether the PCP has the effect of producing the relevant disadvantage as between those who are and those who are not disabled, and whether what causes the disadvantage is the PCP.’
+
+86. In Rider v Leeds City Council EAT 0243/11 the EAT held that the carrying out of an assessment as to what reasonable adjustments might be made in respect of a disabled employee was not, of itself, capable of amounting to a reasonable adjustment. In Smith v Salford NHS Primary Care Trust UKEAT/0507/10, the Employment Appeal Tribunal held that: ‘Adjustments that do not have the effect of alleviating the disabled person's substantial disadvantage … within the meaning of the Act. Matters such as consultations and trials, exploratory investigations and the like do not qualify.’
+
+87. In NCH Scotland v McHugh EATS 0010/06 the EAT concluded that the duty to make reasonable adjustments is not triggered until the Claimant indicates that he or she was intending or wishing to return to work. His Honour Judge McMullen stated: ‘We agree that a managed programme of rehabilitation depends on all the circumstances of the case, but it does include a return to work date. And certainly, if additional management and supervision is to be required, they must be arranged in advance and not in a vacuum. Similarly, if additional costs were to be incurred by (not this case) the purchase of new equipment to counteract the effect of the environment on the disabled person, there would be no need to spend that money in advance of a clear indication that the Claimant was returning. In our judgment, applying the trigger approach… it was not reasonable for the Respondent to pursue the possibilities which the Tribunal noted until there was some sign on the horizon that the Claimant would be returning.’
+
+88. This approach was approved by Lady Stacey in Doran v Department for Work and Pensions EAT 0017/14, although a different approach was taken in London Underground Ltd v Vuoto EAT 0123/09.
+
+89. The reasonableness of an adjustment falls to be assessed objectively by the Tribunal: Morse v Wiltshire County Council [1998] IRLR 352. The focus is on practical outcomes: per Langstaff P in Royal Bank of Scotland v Ashton [2011] ICR 632 at para 24: ‘The focus is upon the practical result of the measures which can be taken. It is not – and it is an error – for the focus to be upon the process of reasoning by which a possible adjustment was considered. As the cases indicate, and as a careful reading of the statute would show, it is irrelevant to consider the employer’s thought processes or other processes leading to the making or failure to make a reasonable adjustment. It is an adjustment which objectively is reasonable, not one for the making of which, or the failure to make which, the employer had (or did not have) good reason.’
+
+90. The EAT has held, in the case of Leeds Teaching Hospital NHS Trust v Foster (2011) UKEAT/0552/10, that a proposed adjustment need not have a ‘good prospect’ of removing a disadvantage suffered by a disabled employee in order for it to be a reasonable adjustment. Instead, an adjustment might be reasonable, and therefore required, where there is simply ‘a prospect’ that it will succeed.
+
+Discrimination arising from disability: s.15 EqA
+
+91. S.15 EqA provides as follows:
+
+(1) A person (A) discriminates against a disabled person (B) if—
+
+(a) A treats B unfavourably because of something arising in consequence of B's disability, and
+(b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim.
+
+(2) Subsection (1) does not apply if A shows that A did not know, and could not reasonably have been expected to know, that B had the disability.
+
+92. The correct approach to a claim of this sort was considered by the Court of Appeal in City of York Council v Grosset [2018] IRLR 746 per Sales LJ (at para 36 onwards): ‘36. On its proper construction, section 15(1)(a) requires an investigation of two distinct causative issues: (i) did A treat B unfavourably because of an (identified) "something"? and (ii) did that "something" arise in consequence of B's disability.
+
+37. The first issue involves an examination of A's state of mind, to establish whether the unfavourable treatment which is in issue occurred by reason of A's attitude to the relevant "something" ...
+
+38. The second issue is an objective matter, whether there is a causal link between B's disability and the relevant "something" ….’
+
+93. The ‘something’ that causes the unfavourable treatment need not be the main or sole reason but must have at least a significant influence on the unfavourable treatment, and so amount to an effective reason for or cause of it (Pnaiser v NHS England [2016] IRLR 170 per Simler J at [31]). It is not enough if the disability reason is merely the background to the treatment; it is not a ‘but for’ test (Leicester City Council v Gibbin [2024] EAT 138).
+
+94. The meaning of ‘unfavourable treatment’ was considered by the Supreme Court in Trustees of Swansea University Pension and Assurance Scheme v Williams [2019] ICR 230 (at para 27): ‘… in most cases (including the present) little is likely to be gained by seeking to draw narrow distinctions between the word “unfavourably” in section 15 and analogous concepts such as “disadvantage” or “detriment” found in other provisions, nor between an objective and a “subjective/objective” approach. While the passages in the Code of Practice to which she draws attention cannot replace the statutory words, they do in my view provide helpful advice as to the relatively low threshold of disadvantage which is sufficient to trigger the requirement to justify under this section.’
+
+95. As for the knowledge requirement in S.15(2) EqA, while the statute does not require knowledge of the precise diagnosis of the disability in question, it does require knowledge (actual or constructive) of the facts constituting the disability. In other words, that the individual is suffering from a physical or mental impairment which has substantial and long-term adverse effects on his or her ability to carry out normal day-to-day activities (Pnaiser at [69]).
+
+96. It is then necessary to look to the employer’s defence of justification. S.15(1)(b) EqA provides that the unfavourable treatment may be justified, if it is a proportionate means of achieving a legitimate aim. To be proportionate, the conduct in question must be both an appropriate means of achieving a legitimate aim and a reasonably necessary means of doing so (Allonby v Accrington & Rossendale College & Others [2001] ICR 1189 CA).
+
+97. Justification requires the Tribunal to conduct an objective balancing exercise between the discriminatory effect and the reasonable needs of the employer (Ojutiku v Manpower Services Commission [1982] ICR 661 CA per Stephenson LJ at 674B-C, and Land Registry v Houghton & Others UKEAT/0149/14 at [8- 9]). It will be relevant for the Tribunal to consider whether any lesser measure might have achieved the employer's legitimate aim (Naeem v Secretary of State for Justice [2014] ICR 472).
+
+Direct discrimination
+
+98. S.13(1) EqA provides: A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.
+
+99. S.23(1) EqA 2010 provides: On a comparison of cases for the purposes of section 13, 14, or 19 there must be no material difference between the circumstances relating to each case.
+
+100. The question whether the alleged discriminator acted ‘because of’ a protected characteristic is a question as to their reasons for acting as they did; the test is subjective (Nagarajan v London Regional Transport [1999] ICR 877, per Lord Nicholls at 884). Lord Nicholls considered the distinction between the ‘reason why’ question from the ordinary test of causation in Chief Constable of West Yorkshire Police v Khan [2001] ICR 1065 at [29]: ‘Causation is a slippery word, but normally it is used to describe a legal exercise. From the many events leading up to the crucial happening, the court selects one or more of them which the law regards as causative of the happening. Sometimes the court may look for the “operative” cause, or the “effective” cause. Sometimes it may apply a “but for” approach…The phrases “on racial grounds” and “by reason that” denote a different exercise: why did the alleged discriminator act as he did? What, consciously or unconsciously, was his reason? Unlike causation, this is a subjective test. Causation is a legal conclusion. The reason why a person acted as he did is a question of fact.’
+
+101. It is sufficient that the protected characteristic had a ‘significant influence’ on the decision to act in the manner complained of; it need not be the sole ground for the decision (Nagarajan at 886).
+
+102. However, the fact that the protected characteristic is a part of the circumstances in which the treatment complained of occurred, or of the sequence of events leading up to it, does not necessarily mean that it formed part of the reason for that treatment (per Underhill J (President) in Amnesty International v Ahmed [2009] ICR 1450 at [37]).
+
+103. In the disability discrimination legislation, where it is the fact of the disability which influences the decision-maker this will be direct disability discrimination (for example, prejudices about people living with a particular condition: see Stockton on Tees Borough Council v Aylott [2010] ICR 1278, which concerned stereotypical assumptions about people with mental health issues). Where the reason for the unfavourable treatment is because of something arising in consequence of the claimant’s disability the case falls within s.15 EqA.
+
+104. The conventional approach to considering whether there has been direct discrimination is a two-stage approach: considering first whether there has been less favourable treatment by reference to a real or hypothetical comparator; and secondly going on to consider whether that treatment is because of the protected characteristic, here race/religion.
+
+105. More recently, the appellate courts have encouraged Tribunals to address both stages by considering a single question: the ‘reason why’ the employer did the act or acts alleged to be discriminatory. Was it on the prohibited ground or was it for some other reason? This approach does not require the construction of a hypothetical comparator: see, for example, the comments of Underhill J in Martin v Devonshires Solicitors [2011] ICR 352 at [30].
+
+106. It is an essential element of a direct discrimination claim that the less favourable treatment must give rise to a detriment (s.39(2)(d) EqA). There is a detriment if ‘a reasonable worker would or might take the view that [the treatment was] in all the circumstances to his detriment’ (Shamoon v Chief Constable of the Royal Ulster Constabulary [2003] ICR 337 at [35]). An unjustified sense of grievance does not fall into that category.
+
+Conclusions
+
+107. Mr Pincott confirmed that the Respondent concedes knowledge of disability, but not knowledge of disadvantage. Issue 5.1 – PCP (reasonable adjustments): ‘only allowing trade union representatives or work colleagues to attend redundancy meetings of persons potentially at risk of redundancy’ Issue 6 – the disadvantage relied on by the Claimant is that she ‘was unable to conduct redundancy meetings and interviews well because of her impaired memory, headaches and fatigue?’ Issue 7.1 – the adjustment contended for by the Claimant is ‘allowing the Claimant to be accompanied by her stepmother at the redundancy meeting on 12 December 2023’
+
+108. The Respondent accepts that this PCP was applied.
+
+109. Did the PCP put the Claimant at a substantial (more than minor or trivial) disadvantage by comparison with persons without her disability? The Claimant relies on the disadvantage set out above.
+
+110. Not being allowed to be accompanied to an important meeting by a person of your choice may, of course, be a disadvantage to a non-disabled employee. Did it put the Claimant at a more than minor or trivial disadvantage by comparison with persons without her disability? We are satisfied that it did: the Claimant suffered from impaired memory, headaches and fatigue; we think that attending an important meeting unaccompanied by a person of her choice was likely to be more challenging and more stressful for her than it would have been for a person without her disability.
+
+111. The Claimant was not a TU member, so that was not an option. She had been off work for over a year (because of her disability); she told us (and we accepted) that she did not feel comfortable having other people, such as colleagues, representing her in the circumstances.
+
+112. The Respondent’s case is that the Claimant did not ask for permission to be accompanied by her stepmother to the meeting on 12 December 2023; she only asked for that in relation to the absence review meeting referred to above. The Claimant said that there were emails which show her asking to be accompanied by a stepmother to the redundancy meeting. We asked to be taken to those emails; there were none.
+
+113. Notwithstanding this, having had a previous request to be accompanied by her stepmother at a less serious meeting refused, we think it was reasonable for the Claimant to assume that she would not be allowed to be accompanied by her if she restated her request, which is why she did not ask again.
+
+114. Ms Conlon knew that not being accompanied by her stepmother put her at the disadvantage we have described above because the Claimant had told her on the previous occasion. Mr Pincott accepted in closing submissions that, if we found that the PCP put the Claimant at a substantial disadvantage, the Respondent had actual knowledge of it because of the Claimant’s earlier request.
+
+115. Ms Khetani referred in her oral evidence to situations where employees who were vulnerable adults would be permitted to be accompanied to formal meetings by their support worker. Asked by the Tribunal how that had worked out, Ms Khetani said that it usually worked smoothly - in part because the support workers were usually known to them - but that, if it became difficult, she would bring it to a halt. Asked if she could see any reason in principle why an employee could not be accompanied by her stepmother, Ms Khetani said: ‘provided the parameters were clear I would not see an objection to that.’
+
+116. In our judgment it was reasonable for the Respondent to have to offer the Claimant the opportunity to be accompanied to the meeting on 12 December 2023 by her stepmother and, by not doing so, the Respondent failed in its duty to make reasonable adjustments for her.
+
+117. For the avoidance of doubt, we do not consider that, if the Claimant had been permitted to be accompanied by her stepmother to the selection interview, the Claimant would have attended the interview. As we have already found, she had made a firm decision not to attend; the only adjustment she was seeking in relation to that part of the process was to be assessed by reference to previous appraisals, rather than by interview. We do not believe that allowing her to be accompanied to the interview by her stepmother would have made any difference to her decision not to attend.
+
+118. For the avoidance of doubt, the Tribunal is not making a general finding that it will always be a failure to make reasonable adjustments not to allow a disabled person to be accompanied by a person of their choice; it will always depend on the nature of the disability and the particular circumstances of the case. Issue 5.2 - PCP (reasonable adjustments): ‘selecting staff for redundancy based on the use of, and staff performance at, interview.’ Issue 6 – the disadvantage relied on by the Claimant is that she ‘was unable to conduct redundancy meetings and interviews well because of her impaired memory, headaches and fatigue?’ Issue 7.2 – the adjustments contended for are assessing her performance in post rather than by interview (7.2.1); giving the Claimant the interview question sufficiently in advance of the interview (7.2.2); and giving the Claimant seven days’ notice of the interview (7.2.3)
+
+119. The Respondent accepts that this PCP was applied.
+
+120. Did it put the Claimant at a substantial (more than minor or trivial) disadvantage?
+
+121. On the evidence which was available to us from the relevant period the Claimant was better able to express herself than she feared. This was a relatively short interview at which only six questions would be asked. We find that her ability to participate in an interview was impaired, by comparison with a person without her disability, to an extent which was more than minor or trivial, albeit probably not as greatly as she feared would be the case.
+
+122. The Respondent concedes that it had knowledge of the disadvantage.
+
+123. Was it reasonable to make any of the three adjustments?
+
+Assessing her performance in post rather than by interview
+
+124. The majority of the Claimant’s past appraisals were in a different, more junior role. There was only one quarter with the Claimant’s current manager, where there could be a true comparison. The preceding appraisal was incomplete and, according to the Claimant, inaccurate. The Claimant had not objected in principle to the process being conducted by interview at the consultation stage and had initially accepted the invitation to an interview; by the time she indicated that she did not wish to attend the interview Ms Woodrow had already been interviewed. Most importantly, the Claimant’s past appraisals were a snapshot of how she used to be not how she was at the material time; the Claimant accepted that her abilities had significantly deteriorated in the interim because of her disabilities.
+
+125. We conclude that assessing her performance on the basis of past assessments would not have been a reasonable adjustment because the Respondent would not have been able to form a reliable and fair assessment of her performance and capabilities on that basis. Giving the Claimant the interview question sufficiently in advance of the interview (7.2.2)
+
+126. The interview was only due to last 30 minutes. In our judgment providing the questions to the Claimant 30 minutes before the interview, and allowing her longer to answer questions at the interview, was sufficient to level the playing field. The adjustments the Respondent proposed were reasonable.
+
+127. We think it would have been unreasonable to provide the questions longer before the interview for a number of reasons: allowing a longer period of preparation would have gone further than levelling the playing field, it would have given the Clamant an unfair advantage; and there would be no guarantee that her answers were her own; this would have created additional unfairness. Giving the Claimant seven days’ notice of the interview (7.2.3)
+
+128. As for the third adjustment, we observe that there ought to have been a separate and additional PCP of ‘giving three days’ notice of interviews’.
+
+129. Would that put the Claimant at a disadvantage? The Claimant says it gave her insufficient time to prepare. We disagree.
+
+130. The Claimant had known since 13 November 2023 that the interview would happen in that week. She knew that she was going to be asked competency- based questions about her skills and experience. Questions of that sort are not susceptible to being prepared in detail, unlike interviews which are based for example on a requirement to do a presentation. The only kind of preparation the Claimant could do for the interview, or indeed any candidate could do, would be preparation of a very general kind: thinking about what kind of questions might be asked; and reminding herself of examples which might be useful in answering those questions. There was nothing to stop the Claimant doing that as soon as she received the pack. Consequently, we do not think that she was put at a mor than minor or trivial disadvantage by comparison with a non- disabled person, by being given three days’ formal notice of the precise date of the interview.
+
+131. If we are wrong about that, we are satisfied that the Respondent did not know that she was at any disadvantage as a result of the length of notice she was given because she did not say so, for example by asking for the hearing to be on a later date. Nor did the Respondent have constructive knowledge of any disadvantage; on the contrary, the Claimant had been consulted about the date of the interview and had agreed that it could be on any day that week except Friday morning when she had another appointment. The Respondent was entitled to believe that the notice given was sufficient for her.
+
+132. We are satisfied that the adjustments that the Respondent proposed – giving her the questions 30 minutes before the interview; and extending the interview to give her more time to answer - would have enabled her to participate effectively in the interview.
+
+133. Consequently, these claims of failure to make reasonable adjustments are not well-founded and are dismissed. Issue 2 – direct disability discrimination: ‘in selecting the Claimant for potential redundancy on 1 December 2023, did the Respondent treat the Claimant less favourably than it would have treated a hypothetical comparator (i.e. a hypothetical person whose circumstances were not materially different to those of the Claimant except for the Claimant’s disability?’
+
+134. The Respondent treated the Claimant less favourably (by selecting her for redundancy) than it treated Ms Woodrow. However, they were in materially different circumstances: Ms Woodrow had attended the selection interview and scored much higher than the Claimant; she is not a true comparator.
+
+135. As for a hypothetical comparator, that person would have to be in the same circumstances as the Claimant - which is to say a person who had not attended the interview and had scored substantially less than Ms Woodrow - except for the Claimant’s disability. It is self-evident that such a person would also have been selected for redundancy.
+
+136. The Respondent did not dismiss the Claimant because of her disability. The Claimant was dismissed for redundancy, in circumstances where, in a redundancy selection exercise, she scored less than the only other candidate in her pool.
+
+137. The Claimant’s disability is a background factor to the dismissal, it is not the reason for it.
+
+138. The Claimant’s claim of direct disability discrimination is not well-founded and is dismissed. Issue 8 – discrimination because of something arising in consequence of disability: ‘can the Claimant show that she was dismissed because of something arising in consequence of her disability, namely that she was unable to conduct her selection interview well’? Issue 9 – If so can the Respondent show that the treatment was a proportionate means of achieving a legitimate aim? The legitimate aim relied on was ‘a reasonable and fair redundancy selection process’
+
+139. The claim is badly pleaded. We think the correct analysis is as follows.
+
+140. There is no doubt that the Claimant was dismissed (which was self-evidently unfavourable treatment) because she did not attend the interview and therefore did not score against three of the criteria.
+
+141. She did not attend because she believed that her health prevented her from being able to perform effectively at an interview and that there were no adjustments which could enable her to do so. The Respondent submits (and believed at the time) that she was wrong to hold that belief and that she was capable of performing well at an interview, with reasonable adjustments. However, right or wrong, she was convinced that she could not do so. In our judgment, that conviction was, itself, something arising (albeit indirectly) in consequence of her disability.
+
+142. The unfavourable treatment of dismissal, therefore, falls to be justified.
+
+143. The legitimate aim the Respondent relies on is ‘conducting a reasonable and fair redundancy process’. We accept that that was their aim and that it was a legitimate aim. Conducting a fair and reasonable redundancy process must include arriving at a fair and reasonable outcome. We consider both the process and the outcome.
+
+144. We are satisfied that there was no reasonable alternative to conducting a process which included an interview. The only alternative proposed by the Claimant was to assess candidates on past performance/appraisals. We are satisfied that that would not have been a fair process for the reasons which caused the Respondent to reject it as a general approach in the first place: there were too many variables; the appraisals had been conduct by different managers in different circumstances; and appraisals inherently had a subjective element. It was fairer to assess by way of a competency-based interview, at which both candidates would be asked the same questions against the same criteria in a controlled environment. In this particular instance, the process would, ironically, have been particularly unfair to the Claimant, given that she considered that her scores in her JETS appraisals had been wrongly recorded (and would inevitably have led to her selection for redundancy). Finally, the Claimant accepted that, because of the deterioration in her health since November 2022, her past appraisals would not have provided an accurate picture of her abilities in November 2023.
+
+145. Furthermore, the Claimant initially said that she would attend the interview. By the time she notified the Respondent that she would not, Ms Woodrow had already been interviewed. It would have been unreasonable for the Respondent to change the selection process midstream; it would certainly not have been fair to Ms Woodrow.
+
+146. The question of whether dismissal was a proportionate means of achieving the Respondent’s legitimate aim turns on the question of whether it was reasonably necessary to dismiss.
+
+147. In our judgment, there was no reasonable alternative to dismissal. The Claimant had scored less than Ms Woodrow under the process adopted by the Respondent. To have dismissed Ms Woodrow in those circumstances would, self-evidently, have been unreasonable and unfair.
+
+148. The only other alternative the Claimant canvassed (for the first time at the hearing) was that she should have been kept on the Respondent’s books, unpaid, in a role which she did not specify. Plainly that role could not have been the Administrator role because that would have meant dismissing Ms Woodrow for redundancy. If another role were available, it would, by definition, have been a role that needed to be filled by somebody who was able to perform it which the Claimant was not. On her own account at the time, the Claimant was unfit for work indefinitely; she wished to be ill-health retired. Keeping her on the books would not have been a fair or reasonable outcome to the redundancy selection process.
+
+149. Redeployment was not an option. The Claimant was sent the list of vacancies by HR in circumstances where both she and her GP were saying that she was unfit for work indefinitely. There was no role available which would have permitted her to be at home, taking calls and not using ‘too much brainpower’ (the only type of role she thought she might be able to manage).
+
+150. We accept that dismissing the Clamant was a proportionate means of achieving the Respondent’s aim of a fair and reasonable redundancy process, including arriving at a fair and reasonable outcome. What would have happened, had the Claimant’s employment not terminated at this point?
+
+151. Although not strictly necessary to do so, for completeness we go on to give our view as to this question.
+
+152. The Claimant agreed that she was unfit to work at the time her employment was terminated and that she remains unfit today.
+
+153. She would not have been receiving any pay, if she had not been dismissed: she had exhausted her entitlement to sick pay. All sums due to her had been paid on termination of her employment, including a redundancy payment, pay in relation to her notice period and accrued holiday pay.
+
+154. We unanimously find that, in circumstances where the Claimant had been absent from work for a year, was still unfit to work with a fit note from her GP saying that the situation would continue ‘indefinitely’, had she not been made redundant, her employment would certainly have been terminated within a short period (at most, a month) by reason of capability (ill-health).
+
+Remedy
+
+155. The Claimant has succeeded in a single claim of failure to make reasonable adjustments by not permitting her to be accompanied by her stepmother at the meeting on 12 December 2023.
+
+156. In the light of our other finding and conclusions, our preliminary view (subject, of course, to any representations either party may wish to make at a remedy hearing) is that the likely remedy will be an award of compensation for injury to feelings (plus interest) which would probably fall within the lower Vento band. We say this to assist the parties and to encourage them to seek to come to an agreement as to compensation without the need for a hearing.
+
+157. The parties shall write to the Tribunal no later than 28 days from the date on which this judgment is sent to the parties to confirm whether they have been able to settle the question of compensation. If they have not, they must provide their available dates (for the rest of 2025) for a half-day remedy hearing.

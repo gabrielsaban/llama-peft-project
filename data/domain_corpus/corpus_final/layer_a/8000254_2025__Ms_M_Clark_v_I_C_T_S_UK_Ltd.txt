@@ -1,0 +1,482 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The Employment Tribunal finds the following:
+
+1. That the claimant’s claim for unfair dismissal succeeds and the respondent is ordered to pay to the claimant a basic award of £2,471.92 and a compensatory award of £14,509.22.
+
+2. That the claimant’s case for victimisation is not successful and is therefore dismissed.
+
+REASONS
+
+3. The claimant lodged a claim in the Employment Tribunal on 31 January 2025 claiming unfair dismissal and victimisation. The respondent resisted the claim.
+
+4. A joint bundle of documents was prepared for the hearing. Some additional documents were added to the bundle on the second day of the hearing as they had been omitted in error. There was no objection to their addition.
+
+5. At the outset of the hearing I referred to the further and better particulars prepared by the claimant following the initial case management preliminary hearing and the updated response from the respondent. These further and
+
+8000254/2025 Page 2
+
+better particulars set out the protected acts upon which the claimant was relying on for her victimisation claim. It was not clear from the amended response if the respondent disputed that the events which made up the protected acts took place. Mr Cater confirmed that the respondent accepted the narrative of events which made up the protected acts and would deal in submissions on whether there was a link between these acts and the dismissal.
+
+6. I heard from the following witnesses in the following order:
+
+a. Mr Robert Horsborough (witness for the respondent)
+b. Mrs Gemma O’Neill (witness for the respondent)
+c. Mr Mark O'Neill (witness for the respondent)
+d. Mrs Kelly Reid (witness for the respondent)
+e. The claimant
+f. Mrs Elayne Broadley (witness for the claimant) Relevant Law
+
+7. Section 94(1) of the Employment Rights Act 1996 (the ERA) states that ‘An employee has the right not to be unfairly dismissed by his employer.’
+
+8. Section 98 of the ERA provides that in determining whether a dismissal is fair or unfair in law, an employer must show that the reason amounts to one of the following: conduct; capability (including performance and ill health); redundancy; that holding the role contravenes the law; or some other substantial reason justifying dismissal.
+
+9. Section 98(4) of the ERA outlines that where an employer has shown the reason for the dismissal is one of the above quoted reasons, the Tribunal must determine where the dismissal was procedurally fair or unfair having regard to whether the employer acted reasonably or unreasonably in treating it as a reason for dismissal, having regard to their size and administrative resources and also determining same in accordance with equity and the substantial merits of the case.
+
+10. A three-fold test for misconduct dismissals was established by the EAT in British Home Stores Ltd v Burchell 1980 ICR 303 EAT and remains good law (irrespective of the changes to the burden of proof which have been made since this case was decided). This test is as follows: The employer must believe the employee guilty of misconduct;
+
+8000254/2025 Page 3
+
+The employer must have in its mind reasonable grounds upon which to sustain
+
+this belief; and
+
+At the stage at which the belief was formed, the employer carried out as much investigation into the matter as was reasonable in the circumstances.
+
+11. The second and third limbs of the test now have a neutral burden of proof.
+
+12. The sanction of dismissal should also fall within the band of reasonable responses as per British Leyland (UK) Ltd v Swift 1981 URKR 91, CA. where Lord Denning MR stated: ‘The correct test is: Was it reasonable for the employers to dismiss him? If no reasonable employer would have dismissed him, then the dismissal was unfair. But if a reasonable employer might reasonably have dismissed him, then the dismissal was fair. It must be remembered that in all these cases there is a band of reasonableness, within which one employer might reasonably take one view: another quite reasonably take a different view.’
+
+13. Once a potentially fair reason has been established, the considerations of reasonableness as to the respondent’s actions in respect of Section 98(4) must be considered. This is a neutral burden between the parties.
+
+14. When coming to the decision, the Tribunal is reminded that they cannot substitute their view for that of the employer. It is recognised in case law that different reasonable employers might react in a variety of reasonable ways to a given situation. British Leyland (UK) Ltd v Swift 1981 IRLR 91 CA. The Tribunal must decide whether the decision to dismiss fell within the “range of reasonable responses” open to a reasonable employer. This applies both to the procedural matters as well as the decision that dismissal was the appropriate sanction as per Sainsbury’s Supermarkets v Hitt [2002] EWCA Civ 1588.
+
+15. When considering the reasonableness of the investigation, the Court of Appeal in Shrestha v Genesis Housing Association Ltd 2015 IRLR 399, CA confirmed that an employer does not have to investigate every possible explanation by the employee. On the other hand, the investigation should be even handed as per A v B 2003 IRLR 405, EAT, and include evidence which assists the employee and not simply be a search for information against the employee.
+
+16. The formula for calculating the basic award is set out in Section 119 of the ERA and provides that a claimant is entitled to one week’s pay for each complete year of continuous service where the claimant was below the age of 41 but not younger than 22. A week's pay is capped at £700 under statute.
+
+8000254/2025 Page 4
+
+17. As per Secretary of State for Employment v John Woodrow and Sons (Builders) Ltd 1983 ICR 582, EAT, a week’s pay is calculated based on gross pay.
+
+18. The compensatory award is provided for in Section 123 of the ERA and is such amount “as the tribunal considers just and equitable in all the circumstances having regard to the loss sustained” by the claimant in consequence of the dismissal. The loss must be attributable to the actions taken by the respondent employer. As per Norton Tool Ltd v Tewson 1972 ICR 501 NIRC, the compensatory award should include items such as loss of earnings between the date of dismissal and the hearing; estimated loss after the hearing; expenses incurred as a consequence of dismissal; and loss of statutory protection rights.
+
+19. Where it is established that the claimant would have been dismissed in any event had the dismissal process not contained procedural flaws, it is for the Tribunal to consider if there should be a deduction to the compensatory award to reflect this. This is often referred to as a Polkey deduction from the lead case of the same name. Software 2000 Ltd v Andrews and others 2007 ICR 825 EAT summarises the up-to-date position on what is required of the Tribunal in making that assessment. In short, the Tribunal must assess the loss flowing from the dismissal, which involves an assessment of how long the employee would have been employed but for the dismissal. In making this assessment, the Tribunal must have regard to all relevant evidence, including that from the claimant. A finding that an employee would have continued in employment indefinitely should only be made where the evidence to the contrary is so scant that it can be effectively ignored.
+
+20. Where it is established that an employee’s conduct has contributed to the decision to dismiss, the Tribunal may reduce the compensation to the claimant to reflect this. This reduction may be to the basic award, or the compensatory award or both. When considering a reduction to the basic award, Langstaff P (as he was then) stated in Steen v ASP Packaging Ltd 2014 ICR 56, EAT that the reduction considers what is just and equitable. When considering a reduction to the compensatory award, it is also necessary to look at whether the conduct caused or contributed to the dismissal. Nelson v BBC (No.2) 1980 ICR 110 CA determined that when looking at contributory conduct, this considers conduct which is blameworthy or culpable. Steen also confirmed that the assessment of whether the claimant’s actions were blameworthy or culpable is for the Tribunal, who is not constrained by the employer’s decision.
+
+21. A claimant has an obligation to mitigate their loss. It is for the respondent to evidence that the claimant has acted unreasonably. Fyfe v Scientific Furnishings Limited 1989 ICR 648 EAT confirms that the onus of showing the claimant’s failure to mitigate loss falls to the employer. Further in Cooper Contracting Ltd v Lindsey 2016 ICR D3 EAT it is for the employer to prove
+
+8000254/2025 Page 5
+
+that the claimant acted unreasonably, not for the claimant to show what he did was reasonable.
+
+22. Section 27 of the Equality Act 2010 states that “A person (A) victimises another person (B) if A subjects B to a detriment because (a) B does a protected act, or (b) A believes that B has done, or may do, a protected act.”
+
+23. A protected act is outlined in Section 27(1) and 27(2) and is as follows:
+
+a. Bringing proceedings under the Equality Act;
+b. Giving evidence or information in connection with proceedings under the Equality Act;
+c. Doing any other thing for the purpose of or in connection with the Equality Act;
+d. Making an allegation that A or another person has contravened the Equality Act.
+
+24. There is no definition of what constitutes a detriment in the Equality Act but it is a common term in employment legislation. The Equality and Human Rights Commission’s Code of Practice on Employment outlines at paragraph 9.8 that a detriment is “anything which an individual concerned might reasonable consider changed their position for the worse or put them at a disadvantage.” In De Souza v Automobile Association 1986 ICR 514 CS the Court of Appeal confirmed that a detriment is where an employee is “disadvantaged in the circumstances and conditions of work”. While this is considered from the point of view of the employee, it must be a reasonable position to hold. It is not necessary for an employee to show that they have suffered a physical or economic condition as per the House of Lords in Shamoon v Chief Constable of the Royal Ulster Constabulary 2003 ICR 337 HL. They also do not need to establish that the employer’s actions had consequences for them in respect of their contract of employment, such as a demotion. It is enough for an employee to have a sense of grievance, and this must be reasonably held.
+
+25. For a successful claim of victimisation, the detriment must be ‘because of’ the protected act. This is not a ‘but for’ test. The protected acts do not need to be the sole reason for the detrimental treatment. Rather, the protected acts need to have a “significant influence” on the respondent’s actions for the victimisation to be made out as per Nagarajan v London Regional Transport 1999 ICR 877 HL. This phrase was discussed further in Igen Ltd (formerly Leeds Careers Guidance) and ors v Wong and other cases 2005 ICR 931 where it was found that a significant influence is an influence which is more than trivial.
+
+8000254/2025 Page 6
+
+26. Section 136 of the Equality Act states that “If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.”
+
+27. Section 136 requires a two stage test. The first requires the claimant to prove facts from which the Tribunal could decide that discrimination has taken place. If such facts are made out on the balance of probabilities, the burden of proof then shifts to the respondent to prove, on the balance of probabilities, a non- discriminatory reason for conduct. Under the first stage, it may be proper for the Tribunal to draw inferences from the facts found.
+
+28. Guidance on the two stage test, and the drawing of inferences, is provided in an annex to Igen Ltd (formerly Leeds Careers Guidance) and ors v Wong and other cases 2005 ICR 931. The case dealt with a sex discrimination claim under the precedent legislation but this remains the lead case on the test and drawing of inferences. References to section 63A should read section 136. Specifically the following paragraphs of the annex should be considered: “(5) It is important to note the word "could" in section 63A(2). At this stage the tribunal does not have to reach a definitive determination that such facts would lead it to the conclusion that there was an act of unlawful discrimination. At this stage a tribunal is looking at the primary facts before it to see what inferences of secondary fact could be drawn from them.
+
+(6) In considering what inferences or conclusions can be drawn from the primary facts, the tribunal must assume that there is no adequate explanation for those facts.
+
+(7) These inferences can include, in appropriate cases, any inferences that it is just and equitable to draw in accordance with section 74(2)(b) of the 1975 Act from an evasive or equivocal reply to a questionnaire or any other questions that fall within section 74(2) of the 1975 Act.
+
+(8) Likewise, the tribunal must decide whether any provision of any relevant code of practice is relevant and, if so, take it into account in determining such facts pursuant to section 56A(10) of the 1975 Act. This means that inferences may also be drawn from any failure to comply with any relevant code of practice.”
+
+29. Lord Justice Mummery also provided assistance in Madarassy v Nomura International plc 2007 ICR 867, CA where he stated that ‘the bare facts of a difference in status and a difference in treatment only indicate a possibility of discrimination. They are not, without more, sufficient material from which a tribunal “could conclude” that, on the balance of probabilities, the respondent had committed an unlawful act of discrimination’.
+
+Submissions
+
+8000254/2025 Page 7
+
+30. Both parties made submissions at the conclusion of the evidence. For brevity, these are not included in detail here but for the avoidance of doubt, these submissions were carefully considered when coming to the decision below.
+
+Observations on the evidence
+
+31. Mr Horsborough gave his evidence to the best of his ability but was constrained by his memory when it came to recall of dates and conversations, particularly around the matter of occupational health and the claimant’s pleaded case in that regard. Ultimately, the respondent did not dispute that the protected acts as pleaded took place.
+
+32. Mrs O’Neill, Mr O’Neill and Mrs Reid all gave their evidence in a clear and cogent manner. Again, at points there were issues of recall but on the whole they were clear in their evidence. All three made concessions in their evidence to confirm that vetting is complete and compliant with relevant legislation where the respondent has the criminal record check, counter terrorism check and five year employment history for the new employee. The question over whether an ID pass is applied for before or after training begins remained an issue in dispute but ultimately was not found upon as the allegations which led to dismissal were concerned with the vetting process and not any local processes on such applications as between the respondent and their client AGS.
+
+33. The claimant gave her evidence in a clear and cogent manner. She had a real sense of grievance with the respondent as a result of her dismissal and viewed their treatment of her through that lens. This lead to evidence from her that the respondent made various decisions such as an office move or the introduction of a uniform to ‘get at her’. While I did not accept this on the balance of probabilities, this did not influence my view of her credibility in respect of the unfair dismissal claim. This is because her position on her dismissal claim had not changed since the internal disciplinary process and the contemporaneous documents outlined this.
+
+34. Ms Broadley also gave a clear and cogent account of events to the best of her memory.
+
+Findings of fact
+
+35. I made the following findings of fact after considering the evidence on the balance of probability.
+
+36. The claimant was employed by the respondent as an administrator. Her primary role as an administrator was the recruitment and vetting of employees for the respondent. The claimant was one of three administrators, the others being Ms
+
+8000254/2025 Page 8
+
+Broadley who undertook the same vetting duties as the claimant and Jan Calvert, who had previously undertaken vetting duties but was not doing so at the relevant time.
+
+37. The respondent is a security company providing security services to a number of airports in Scotland and England. Specifically and for the purpose of this case, the respondent is engaged by a company AGS to provide security services in Glasgow and Edinburgh airports. The respondent employees primarily provide security services at the central search area of the airport where passengers and their hand luggage are checked before making their way to the airport gates and also in the hold baggage area behind check-in where luggage is checked before going in the hold of the airplanes. Employees who are employed to work in the central search area are known as security officers. Employees who are employed to work in the hold baggage area are known as hold baggage security agents (“HSB agents").
+
+38. Given the type of security services provided by the respondent, all employees of the respondent are subject to vetting on recruitment and specific training. The vetting requirements are outlined by the Department of Transport and set out in Chapter 11 of the Single Consolidated Directive 2/2023 (“Chapter 11”). The respondent is required to undertake a criminal record check (“CRC”), take up a counter-terrorism certificate (“CTC”) and obtain employment or education references for a five year period. If there have been gaps in employment or education in that five year period, the respondent will take up a ‘gap reference’ from a third party to confirm the employee was living in the UK at the appropriate time and known to the referee. Vetting takes place after an offer of employment is made but before the employment begins.
+
+39. All vetting documents are printed out and filed in a ‘vetting pack’, that is a hard copy folder for each individual employee. A sheet or cover page on the front cover will set out what is contained within the folder.
+
+40. As well as the vetting process, employees are given an airport or ID pass which gives them access to both the landside and airside of the airport. The respondent’s client, AGS, provides these passes. An application is made via an online portal called ID Gateway (“IDG”). IDG is controlled and run by AGS. Their ID Centre, that is the office who sign off the IDG process, is located in the office next door to where the claimant sat. The claimant and her colleagues had access to IDG and would upload the new employee’s CTC, CRC and employee references to IDG. Each time they uploaded a document, the time and date would be recorded as well as the person who undertook this task. They would also complete an accreditation check on IDG by uploading the employee’s passport and/or driving license. Once all documentation was uploaded, the ID Centre would review it. If content with what was contained in the documentation, they would create an ID pass for the new employee. An appointment would be
+
+8000254/2025 Page 9
+
+created by ID Centre for either the claimant or Ms Broadley and the new employee to pick up this ID pass. Details of this appointment was included on IDG.
+
+41. IDG also requires the respondent to upload a security declaration to confirm the recruit had undergone General Security Awareness Training (“GSAT”) and/or GSO training in the previous five years, to upload their certificates and confirm the dates upon which this training took place. GSAT is basic entry level security training that all respondent employees undertake. GSO is a level above this and is undertaken by security personnel employed into security roles. This training is delivered by the respondent and ordinarily begins on the first day of employment with the respondent.
+
+42. The process of obtaining an ID pass is not part of the vetting process. Vetting is complete and compliant with Chapter 11 once the CTC, CRC and a complete five year employment/education history is obtained by the respondent.
+
+43. Up until July 2024, the claimant and the administration team were managed by Robert Horsborough, Station Manager. Mr Horsborough’s employment with the respondent began in October 2023 and he became Station Manager in April 2024. As Station Manager, he had an overall responsibility for the provision of aviation security services to AGS. Above Mr Horsborough was Louise Cameron, Divisional Director of Aviation for Scotland who has responsibility for the respondent services in Glasgow, Edinburgh, Aberdeen and Southampton airports. Mr Horsborough had regular and at times daily interactions with the claimant in respect of her work. From June 2024 onwards, his hours of work changed and he was no longer working consistent office hours but instead working irregular or unsocial hours. His interactions with the claimant reduced as a result.
+
+44. In July 2024, Gemma O’Neill, who previously worked as security team manager was given the role of administrative services manager. This was a new role created at that time. She assumed management of the claimant and the administration team. Mrs O’Neill did not have direct experience of the vetting system or the IDG process.
+
+45. As well as the administration team, the training team was involved at the outset of employment as they deliver the required training to new recruits.
+
+46. The claimant has a prolapsed disc in her back and at the relevant time, was awaiting a date for surgery. Over the course of April to August 2024, the claimant engaged with Mr Horsborough and HR in respect of her prolapsed disc, the impact on undertaking particular tasks in the central search area and the request for an occupational health referral. The respondent has an ongoing contract with an external occupational health provider. Under this contract, the
+
+8000254/2025 Page 10
+
+respondent has access to an occupational health professional over two days per month and the option to organise further appointments if necessary. They regularly make referrals to occupational health, obtaining some 200 reports per year. The cost of these reports is £300 per report and are budgeted for within the wider contract price of the services provided to AGS.
+
+47. On 24 July 2024, Ms Cameron emailed a member of the HR team about a meeting arranged between the claimant, Mr Horsborough and Mrs O’Neill that the claimant did not engage in. In the email Ms Cameron expressed her frustration at the claimant, describing her behaviour as erratic and stating that “it is unacceptable that a single individual is making demands on the time of the management team in such a way and then refusing to engage with them.” Ms Cameron had no role in the subsequent disciplinary process save for Ms Reid asking her about the IDG process at appeal stage. She did not appoint the various officers and did not have a role in the decision to dismiss.
+
+48. In or around July 2024, the claimant was asked to vet a new employee Jim Scott Paton who was recruited as a HBS agent. She completed his CRC and CTC, uploading these documents on IDG on 3 July. She also completed the accreditation check on 15 July. She began to take up his references to complete his five year employment history.
+
+49. On 23 July 2024, she sent an email to Mr Horsborough and the training department stating that Mr Paton’s employment was due to start on 29 July, that his vetting and security checks were complete and when his training might take place. On the same date, his employment start date of 29 July was pushed back to 5 August.
+
+50. Either on that day or the following day, 24 July, the claimant when reviewing Mr Paton’s vetting pack realised that she made an error and there was a gap at one point in Mr Paton’s employment. It was necessary to obtain a gap reference for this period. She organised to so do and the gap reference was provided on 30 July. The claimant did not inform Mr Horsborough of this as it was the normal course of action to resolve issues initially herself and to go to management if the issue could not be resolved. She also believed she had sufficient time to do so given the change in Mr Paton’s start date.
+
+51. During the course of July, Mr Horsborough informed the claimant and the administration team that their office would move from the landside of the airport to an office located airside. The claimant spoke with Faye Davidson, Head of HR in the respondent organisation about the proposed office move and impact on her health. Ms Davidson informed her that until an occupational health assessment took place she should remain landside and use the office previously used by an employee called Allison. The claimant emailed Mr Horsborough on 29 July informing him of the discussion which took place with
+
+8000254/2025 Page 11
+
+Ms Davidson and that she would not be moving to the airside office. That same day, the claimant’s work equipment such as laptop and chair were moved into Allison’s office and her key to her original office was returned to Mr Horsborough.
+
+52. On 30 July when the gap reference was received by the claimant, she had no way to print this out and upload it to IDG due to the office change. There was no printer in her new office. She no longer had access to her old office with the printer as she had returned the key and the office was locked. The normal course of things was to print a copy for the hard copy vetting file as well as printing and scanning it into IDG together with the original reference request. It was not possible to upload this email to IDG from her inbox. The 31 July was the claimant’s last day of work before a period of annual leave and during a handover of work, she informed her colleague Mrs Broadley of Mr Paton’s vetting file, that the gap reference had been received and that it needed to be uploaded to IDG to complete the pass application. The claimant was absent on annual leave from 1 August returning on 12 August.
+
+53. There was no requirement for the claimant to update management on ongoing tasks or outstanding work prior to taking annual leave. This was not something the claimant did as a regular practice.
+
+54. On 4 August, Mr Horsburgh emailed Ms Davidson and Ms Cameron about adjustments for the claimant to assist with the move to the airside office. He proposed that she be driven from the carpark to Gate 15 near the new office at the start and end of her shift. Ms Davidson agreed to these amendments and suggested that they were interim measures while OH information was awaited.
+
+55. On 5 August, Mr Paton attended at the airport to complete his training. His trainer was Jemma Clarke of the respondent and this was her first time delivering training. At some point during that day, a question arose as to whether a gap reference was still outstanding. Ms Clarke emailed Ms Broadley at 12.30 seeking confirmation. Ms Broadley replied at 2.52 that afternoon to provide all necessary vetting documents. The following day, 6 August Mr Paton raised questions about his ID pass. Ms Clarke did not know if an application had begun. Ms Broadley was not at work that day due to her own annual leave and the claimant was also absent. Ms Clarke spoke with Marie Lee of AGS who informed her a pass application had not been started and that the vetting documentation would need to be verified by the ID Centre before any security- related training could take place. Mr Paton’s training was cancelled and took place on another date.
+
+56. On 11 August, Mr Horsburgh emailed the claimant to let her know about the temporary reasonable adjustments in place given the office move airside, wherein she would be collected at the carpark at 8.00am and brought to Gate
+
+8000254/2025 Page 12
+
+15. At the end of the day, she would be collected at 15.50pm so that she would be back at the carpark at her finish time of 16.00. He also confirmed that an OH appointment had been requested.
+
+57. The claimant returned from annual leave on 12 August. Ms Broadley began a period of sick leave on the same day which continued until her employment came to an end in May 2025. As a result of this sick leave, she was not disciplined for her role in the vetting of Mr Paton.
+
+58. On 27 August 2024, Mrs O’Neill wrote to the claimant suspending her from her role to allow an investigation into the allegation that she failed “to complete vetting prior to an employee’s start date and subsequently inform relevant management that this had not been completed in time.” Mrs O’Neill was appointed to investigate these allegations by Mr Horsborough. The delay between the alleged misconduct taking place on or around 5 August and the suspension was due to the respondent taking HR advice.
+
+59. On 29 August Mrs O'Neill met with the claimant as part of her investigation. At the outset of this meeting, Mrs O’Neill confirmed that she was investigating the allegations as set out in the suspension letter. The claimant informed Mrs O’Neill that she carried out Mr Paton’s vetting up to the point where she went on annual leave, that she passed the matter over to Mrs Broadley and that the last reference was received on 30 July. She confirmed she submitted everything to IDG and that if anything had been outstanding, this should have been checked and completed by Ms Broadley. The claimant asked Mrs O’Neill to check the audit trail in IDG. At various points during the investigation meeting, the claimant noted that she could not remember exactly and did not have access to her laptop to check. She was not provided with access to her laptop. She asked for a copy of the AGS process for ID applications but was not given a copy.
+
+60. Mrs O’Neill met with Mr Paton on 30 August to take his statement. He confirmed in this statement that he was “under the impression” that his vetting was complete and ID pass application process had begun by the time he stated training. He also stated that “I came in to begin my training and Elayne and Maggie came in to try and sort a gap in my reference which I was surprised at as I am aware this should all have been done prior to training starting due to my previous aviation role.” Mr Paton’s recollection of events was inaccurate as the claimant was on annual leave when Mr Paton began his training.
+
+61. Ms Clark provided Mrs O’Neill with a written statement at an unknown point during the investigation. Mrs O’Neill did not meet with Ms Clark before completing her investigation as Ms Clark was on annual leave. Ms Clark’s statement stated that Ms Broadley confirmed to her on 5 August that a gap reference was outstanding and provided same by email at 2.52 that day.
+
+8000254/2025 Page 13
+
+62. Mrs O’Neill did not investigate the inconsistency wherein the claimant asserted she received the gap reference on 30 July and both Ms Clark and Mr Paton asserted this was outstanding on 5 August. Mrs O’Neill did not review IDG and did not review the hard copy of the vetting pack. The gap reference itself was not reviewed for a sent or received date. She accepted without question what Ms Clark and Mr Paton stated and rejected the claimant’s version.
+
+63. Mrs O’Neill did not speak to Ms Broadley about her role in the vetting process, what tasks remained outstanding when the claimant finished for annual leave, or what discussions took place with Ms Clark and Mr Paton on 5 August. She did not do so as Ms Broadley was absent on sick leave.
+
+64. The investigation was flawed and unreasonable due to the points set out in the preceding paragraphs.
+
+65. On 3 September, the respondent wrote to the claimant inviting her to a disciplinary hearing to consider the following allegations:
+
+a. “Alleged failure to inform appropriate management that Jim-Scott Paton’s vetting procedure was incomplete prior to your annual leave which subsequently led to the employee being onboarded without being fully vetted.
+b. Alleged falsification of your completed duties namely that on the 23 July you confirmed to both Station Management and the training team that all vetting and security checks had been completed for Jim-Scott Paton when there were still outstanding checks leading to his training being commenced prior to his vetting being completed.
+c. Alleged failure to follow company rules and procedures namely you did not upload any information to ID Gateway throughout Jim-Scott Paton’s vetting process.”
+
+66. The claimant was provided with the following documents:
+
+a. Email of Kenny Welsh of AGS 01/09/2024;
+b. Email of Marguerite Clark 23/07/2024;
+c. Statement of Marguerite Clark 29/08/2024;
+d. Statement of Jemma Clark 30/08/2024;
+e. Extract from the single consolidated directive.
+
+67. The investigation report prepared by Mrs O’Neill was not provided to the claimant. The claimant did not receive Mr Paton’s statement.
+
+8000254/2025 Page 14
+
+68. A disciplinary hearing took place on 6 September conducted by Mark O’Neill Security Team Manager. Mr O’Neill is the husband of Mrs O’Neill who undertook the investigation. He was appointed by Mr Horsborough. He did not have experience in the vetting process.
+
+69. In advance of the hearing, the claimant contacted Mr O’Neill by email on 4 September asking that he be replaced by an independent person noting the marital link with Mrs O’Neill and the fact that the claimant’s sister Caroline had previously raised a grievance against Mrs O’Neill. She stated that she believed the matter was pre-judged. In this email she asked for Ms Broadley’s statement and if one had not been taken, that she be called as a witness. She also sought copies of the respondent and AGS policies and procedures on vetting and recruitment as well as access to her laptop for evidence to support her case. [pgs 217-218].
+
+70. Mr O’Neill responded on 5 October that he would continue to act as disciplinary officer and that he was impartial. He also noted “all evidence and statements collated have been presented which is deemed as necessary ahead of your disciplinary hearing”. A response from the claimant on the same date requested again a copy of the respondent policy and procedures on vetting and recruitment and access to her laptop for 30 minutes prior to the hearing to access documents ‘to support mitigation.’ This email was sent by Mr O’Neill to Mr Horsborough who confirmed that access to company IT was not permitted during a disciplinary suspension. In respect of the request for a policy Mr Horsborough informed that Mr O’Neill could take any policy or procedure with him to the hearing but in his view, the allegations did not deal with a breach of policy. The claimant was not provided with the policies at or in advance of the hearing nor was she given access to her laptop to obtain mitigating evidence.
+
+71. At the disciplinary hearing, the claimant stated that a number of events occurred while she was on holiday while Ms Broadley was responsible for Mr Paton’s recruitment and that it was essential Ms Broadley was spoken to. She confirmed that the CTC, CRC and five year employment check were complete and this is what Chapter 11 requires. She was asked why an application for a pass was not submitted to IDG until 8 August and she replied that this was started well before then. She asked that Mr Paton’s pack on IDG was reviewed as this would show an audit trail of the steps the claimant took prior to 31 July. She confirmed she made a mistake in sending the email on 23 July as Mr Paton’s vetting was not complete but as his start date had changed, she believed the vetting would be complete by the new start date.
+
+72. On 9 September Mr O’Neill sent a copy of the minutes from the hearing to the claimant who responded with detailed amendments at 12.30 that day. These amendments were not accepted by the respondent.
+
+8000254/2025 Page 15
+
+73. On the same day (9 September) at 11.13 Mr O’Neill sent an email to Mr Horsborough with his findings, including the following points:
+
+a. Failure to inform appropriate management that Jim Scott Paton’s vetting procedure was incomplete before her annual leave which led to the employee being onboarded without full vetting.
+b. Falsification of completed duties specifically on 23 July when she confirmed to both Station Management and the training team that all vetting and security checks for Jim Scott Paton had been completed despite outstanding checks. This resulted in training commencing before completion of his vetting.
+c. Failure to follow company rules and procedures particularly the omission of uploading any information to IDG throughout Jim Scott Paton’s vetting process.
+
+74. Mr O’Neill stated in this email that he believed the situation would constitute gross misconduct and that “consequently, dismissal should be the outcome.”
+
+75. On 10 September, Mr O’Neill emailed Ms Broadley asking if she would attend an investigation meeting “to establish certain facts in relation to an ongoing investigation”. Ms Broadley responded at 20.02 that evening asking what the investigation pertained to and stating that since she was unwell and unpaid by the respondent, “I will choose not to be involved in workplace activity”. A further attempt was made by Mr O’Neill on 11 September where he asked her to “provide consideration to any questions” noting that if she did not wish to answer, her decision will be respected. Questions to consider are not included in this email. Ms Broadley responded on 15 September that she did not wish to have any engagement with the respondent. Mr O’Neill does not make a reasonable management instruction directing Ms Broadley to participate in the process nor did he refer her to OH to assess if she was fit to engage in the process as a witness.
+
+76. Mr O’Neill came to his view of gross misconduct and dismissal as the appropriate sanction before considering the proposed amendments from the claimant and before approaching Ms Broadley about her participation.
+
+77. On 18 September, Mr O’Neill wrote to the claimant to inform her that he had found her conduct amounted to gross misconduct and that dismissal is the appropriate sanction. The letter set out the reasoning for finding that the three allegations are substantiated. In respect of allegation one, it stated that the explanation offered was unsatisfactory as “appropriate management were not made aware that the vetting hadn’t been completed.” Similarly, the reasoning for allegation two includes that between sending the email on 23 July and going
+
+8000254/2025 Page 16
+
+on annual leave, there was sufficient time to inform management of her error and in failing to do so, management were led to believe that the vetting checks were complete when they were not. Allegation three was explained on the basis that the claimant should have begun the submission of documents to IDG before going on annual leave and should also have informed management what tasks were outstanding.
+
+78. The letter went on to say that the misconduct resulted in an employee being onboarded, with access to security sensitive training without appropriate vetting. This caused reputational damage with the Civil Aviation Authority and also with AGS, to whom they reported the issues, and that the matter was the subject of an audit. The claimant’s conduct was also found to result in a loss of trust and confidence as between the respondent and the claimant.
+
+79. At the time of coming to his decision, Mr O’Neill was not aware of a requirement in the administration team to update management of outstanding tasks in advance of annual leave. This is something he expected from colleagues in his division but not something he asked either the claimant or Mr Horsborough about. He did not review IDG to see what if any documents had been uploaded by the claimant prior to her annual leave. He accepted that a gap reference remained outstanding on 5 August despite the claimant’s assertion that it had been received. He did not review the hard copy vetting file nor did he review the gap reference or the claimant’s emails to see when it had been received.
+
+80. There was no reputational damage with the Civil Aviation Authority. An audit did not take place because of this issue.
+
+81. There was no reputational damage with AGS.
+
+82. The claimant appealed her dismissal on 24 September on the grounds of new evidence, the sanction was too harsh and there was a failure of process. Ms Kelly Reid, Station Manager, Edinburgh was appointed to hear the appeal by Mr Horsborough.
+
+83. On 24 October, the claimant emailed Ms Reid asking for access to materials in advance of the appeal hearing. This included a copy of the original complaint made by Ms Clark, a copy of the handover email to Mr Horsborough on 31 July, a copy of the standard operating procedures for recruitment and vetting, all disciplinary investigation paperwork relied upon by Mr O’Neill including “evidence of dates and times of verification of IDG being checked as requested during the disciplinary hearing”, a copy of all of Mr Paton’s documents as submitted to IDG and that “if documents can’t be print (sic) then please can you ensure that Mr Paton’s vetting pack is available”. Finally, the claimant asked for access to her laptop and a printer to access documents for mitigation.
+
+8000254/2025 Page 17
+
+84. Ms Reid responded on 28 October stating that all information from the investigation has been provided. She attached the email to Mr Horsborough on 31 July and a document entitled ‘investigation information.’ She confirmed that the complaint from Ms Clark was oral rather than written, that a copy of the standard operating procedure will be provided at the hearing and that she will look into the IDG request. Access to her laptop was denied but she confirmed that they can discuss at the hearing what is required from the laptop and she can discuss further with IT.
+
+85. The appeal hearing took place on 29 October. The claimant was given a copy of the standard operating procedure as requested. There was no discussion about the claimant’s laptop and what the claimant was seeking. Mr Paton’s hard copy vetting pack was not provided nor were the various documents submitted to IDG printed out.
+
+86. The claimant and her trade union representative put forward the argument that key details were missed in the investigation. A history of the claimant’s OH requests were set out. The claimant confirmed that Mr Paton’s vetting was complete, that she had begun the IDG process with dates of when documents were uploaded, explained that she realised after sending her 23 July email that vetting was not complete but she had time to rectify this before 5 August and that last gap reference was received on 30 July. She explained the difficulties in both her and Ms Broadley accessing laptops and/or printers due to office changes and offices being locked. She provided a statement from Ms Broadley who confirmed the handover that took place between the two on 31 July, that the outstanding matter was the uploading of Mr Paton’s last reference to IDG and that a pass application could not be submitted until the training was complete as Mr Paton was a HSB agent rather than a security officer, who are entitled to pre-clearance.
+
+87. After the hearing, the claimant received the minutes and responded with further amendments.
+
+88. Ms Reid undertook further investigations after the hearing by speaking with Mr Horsborough about the OH process. A written statement was taken in this regard. Ms Reid also spoke with Mrs Cameron and Mr Horsborough about the IDG process and whether a pass application should be completed before the commencement of training. Written statements were not obtained. There was no further attempt to contact Mrs Broadley as it was felt this would be inappropriate due to her sickleave.
+
+89. Ms Reid also looked at the previous recruitment and vetting of two HBS agents to see how it compared to what had occurred with Mr Paton.
+
+90. These investigations were not put to the claimant for her comment.
+
+8000254/2025 Page 18
+
+91. Despite these investigations, the submissions made at the appeal hearing, and the amended minutes put forward by the claimant, Ms Reid did not take into account anything which occurred after 23 July. In her view, the email of 23 July was the incident of gross misconduct as at that point the claimant informed management vetting was complete when it was not.
+
+92. Ms Reid wrote to the claimant on 27 November upholding the decision to dismiss. She states in the letter that the new evidence from Mrs Broadley did not alter the fact she informed Mr Horsborough on 23 July that all vetting was complete. She also states “it is determined that your actions led to the onboarding of an employee without the required vetting procedures being fully completed.” The letter repeats that the incident has caused reputational damage with the Civil Aviation Authority and AGS.
+
+93. It was reasonable and appropriate for Mr Horsburgh as Station Manager to appoint Mrs O’Neill, Mr O’Neill and Ms Reid to their various roles within the disciplinary process.
+
+94. The claimant’s confidence was impacted by the decision to dismiss. She successfully applied for a customer assistant role with Marks and Spencer, starting her new role on 10 November 2024. She was employed on a 30 hour per week basis, earning £12 per hour. She has since applied for four other roles but either the role did not go ahead or she was unsuccessful. She has applied to undertake management training with her current employer, Marks and Spencer which when completed will increase her salary.
+
+Decision and reasons
+
+What was the true reason for the claimant’s dismissal?
+
+95. The first element to be considered is the true reason for dismissal. The respondent’s position was that the claimant was dismissed for gross misconduct. The claimant’s view was that her dismissal was an act of victimisation, because she sought occupational health referrals and made Mr Horsborough aware of her prolapsed disc and the impact this placed on her health.
+
+96. The burden of proof to show the reason for dismissal, and that it was a fair one, falls to the respondent. This is not a heavy burden of proof.
+
+97. Where a claimant challenges the respondent’s reason for dismissal, it is for the respondent in the first instance to show, on the balance of probabilities, that the reason for dismissal was one of the potentially fair reasons. It is then open to the claimant to adduce evidence casting doubt on whether the reason provided by the respondent was indeed the real reason for dismissal. In those
+
+8000254/2025 Page 19
+
+circumstances, the respondent has to satisfy the Tribunal that it’s proposed reason was in fact the genuine reason relied on at the time of dismissal (Associated Society of Locomotive Engineers and Firemen v Brady 2006
+
+IRLR 576, EAT.)
+
+98. I considered that the respondent established in the first instance on the balance of probabilities the reason for dismissal was conduct arising from the arrangements around the start of Mr Paton’s employment. This was the subject of the disciplinary process. The letter of dismissal referred to these allegations with a reasoned basis for coming to the decision to dismiss.
+
+99. The claimant challenged this stating the real reason for her dismissal were the various protected acts wherein the claimant requested occupational health referrals, maintaining that the dismissal was an act of victimisation.
+
+100. I was asked to draw an inference of discrimination from a number of factors including: the extent of Mr Horsborough’s involvement in the disciplinary process through his appointment of Mrs O’Neill and Mr O’Neill who lacked knowledge of the vetting and IDG process and were married; Mr Horsborough’s involvement in appointing Ms Reid; the failure to inform the claimant as to when Ms Clark raised the complaint which led to disciplinary action; the delay between the cancelled training on 5-7 August and the decision to suspend the claimant on 27 August; an email between Ms Cameron and HR on 24 July which it was submitted exhibited Ms Cameron’s ‘obvious antipathy’ towards the claimant; the flawed investigation; inconsistent treatment with Ms Broadley; the timing of events.
+
+101. I noted that the claimant made her requests for occupational health primarily to Mr Horsborough and informed him of her health conditions. He appointed the various officers to their roles in the disciplinary process, provided information at appeal stage and was informed of the finding of gross misconduct and dismissal on 9 September. The disciplinary investigation was flawed and there was a failure to find information which assisted the claimant’s case. Ms Broadley was not subject to the disciplinary process. There was a period of approximately 20 days between the misconduct occurring and the claimant’s suspension. The disciplinary process began in or around the time where the claimant was seeking updates on an occupational referral, complaining about the delay with same and raising concerns about the need for reasonable adjustments. Ms Cameron’s email of 24 July exhibited frustration at the claimant. These facts established an inference of discrimination. The claimant established a prima facie case of discrimination in establishing the above facts, which in the absence of any other explanation, could allow the Tribunal to decide the respondent had subjected the claimant to the detriment of dismissal as a result of doing a protected act.
+
+8000254/2025 Page 20
+
+102. The burden of proof therefore shifted to the respondent to prove, on the balance of probabilities, that the dismissal was in no sense whatever because of the protected acts. They were required to provide an explanation for the facts from which the inference of discrimination could be drawn, such explanation being adequate to prove, on the balance of probabilities, that the protected acts were no part of the reason for the treatment.
+
+103. Mr Horsbourgh’s evidence was that it was inconceivable for the respondent to dismiss someone for seeking an occupational health report, that the respondent was happy to provide such assistance and support and it was something budgeted for by the respondent. I was persuaded by the fact that occupational health involvement is common in the respondent business. I considered that as of 4 August, before the alleged misconduct came to light on 5 August, Mr Horsborough proposed and put in place adjustments for the claimant in respect of the office move. While there was a delay in obtaining an OH report, an appointment was made and a report taken up while the disciplinary process was ongoing.
+
+104. I also considered the potential seriousness of the allegation that an employee began training and employment before vetting was complete. A breach of the CAA regulations was a serious matter with far-reaching consequences for the respondent. In and of itself, the allegations had the potential to amount to gross misconduct.
+
+105. I considered the flaws in the investigation and that Mrs O’Neill failed to look for information which would assist the claimant’s position. Before conceding that the vetting process is taken up the CTC, CRC and five year employment history, Mrs O’Neill maintained that all documentation must be uploaded and verified by AGS for vetting to be complete. I considered Mr O’Neill’s evidence before concessions that all documentation required to be uploaded to IDG in order to complete the vetting process. I found that both took it as a matter of fact that the vetting was incomplete due to a lack of understanding and experience of the vetting process and IDG process. They conflated the two processes together and it was not until cross examination that they considered that the relevant legislation does not refer to the IDG process.
+
+106. While Ms Reid did have experience and knowledge of the vetting process, her decision to uphold the decision to dismiss centered on the email of 23 July, at which point vetting was in fact incomplete. Her investigations were wider albeit she did not take into account matters which occurred after 23 July.
+
+107. Mr O’Neill as dismissing officer was unaware of the occupational health requests made by the claimant. It was not raised by the claimant as an issue internally until the appeal hearing. Ms Reid undertook additional investigations
+
+8000254/2025 Page 21
+
+into this aspect but again there was no direct evidence that the protected acts significantly influenced her decision to uphold the dismissal.
+
+108. In terms of the timing, the delay of 20 or so days in suspending the claimant was explained by the need to take external HR advice.
+
+109. There was a clear reluctance from the respondent to involve Ms Broadley at all, either as a witness or to discipline her for her role, because of her sickness absence and the fact she was undergoing treatment for breast cancer.
+
+110. While I did not find the email from Ms Cameron expressed an ‘obvious antipathy’ towards the claimant, her frustration with her was clear. I did not accept the respondent position that the frustration was with HR for failing to move things along. However, I heard no evidence that Ms Cameron had a hand in the disciplinary process, save for providing Ms Reid with information as part of her additional investigations.
+
+111. Taking into account what is set out above, and the findings in fact as a whole, I found that on the balance of probabilities, the dismissal was in no sense whatsoever because of the protected acts. This was due primarily to the regular advice sought from occupational health by the respondent for their employees as a whole, the fact that reasonable adjustments were put in place while an occupational health report was awaited and the fact that the other issues – delay in suspension, flaws in the investigation, email from Mrs Cameron – had reasonable and valid explanations unconnected to the claimant’s requests for occupational health intervention. Did the respondent have a genuine belief in misconduct?
+
+112. I then turned to the Burchell test. In applying the Burchell test, I looked at the reasonableness of the respondent’s conduct. I noted that I must not substitute my own decision for that of the respondent. I applied the band of reasonable responses approach to whether the respondent had carried out a reasonable investigation and had reasonable grounds for its belief that the claimant was guilty of misconduct.
+
+113. The first question I asked was whether the respondent had a genuine belief in the misconduct. I found that Mr O’Neill at dismissal stage believed that the claimant had not concluded Mr Paton’s vetting before training began, that she had previously informed management that this was done and that she did not upload any documentation to IDG. I also found that Ms Reid at appeal stage believed that the claimant informed management on 23 July that Mr Paton was vetted when he was not. I concluded that the respondent did have a genuine belief in the misconduct. Did the respondent conduct a reasonable investigation?
+
+8000254/2025 Page 22
+
+114. I then asked if the respondent had reasonable grounds for the belief in the alleged misconduct and if at the time the respondent formed that belief the respondent had carried out as much investigation into the matter as was reasonable in the circumstances. Again, my role is not to substitute my view of the misconduct for that of the employer. Further it is not for the respondent to prove that the claimant in fact committed the misconduct. Rather, I had to assess the reasonableness of the respondent’s belief against the band of reasonable responses to decide whether the respondent had carried out a reasonable investigation and had reasonable grounds for its belief the claimant was guilty of misconduct.
+
+115. Investigation of the claimant’s conduct occurred at the three stages of the disciplinary process. I considered the extent of the investigations undertaken by respondent, noting that it need only be reasonable rather than perfect.
+
+116. It was put to Mrs O’Neill that she ought to have investigated Ms Broadley’s role and spoken to her as she had responsibility for Mr Paton from 1 August onwards. Mrs O’Neill’s evidence was that she could not speak to Mrs Broadley as she was absent on long-term sick leave. Ms Broadley’s absence began on 12 August and the investigation began on 27 August, some two weeks later. Her absence was not, at that time, long term.
+
+117. It was also put to Mr O’Neill that he should have spoken to Ms Broadley. Both at and in advance of the disciplinary hearing, the claimant requested that he do so. Mr O’Neill made attempts to speak to Mrs Broadley, contacting her first on 10 September asking her to participate in an investigation. When she refused, citing her health he asked for a written statement and again she said no. These attempts were made after Mr O’Neill sent his email to Mr Horsborough on 9 September setting out his findings that the allegations were substantiated and that dismissal was the appropriate outcome. As such, while there were attempts to engage with Mrs Broadley, it was at a point where Mr O’Neill had already come to his conclusions.
+
+118. Ms Reid was also asked about Mrs Broadley, as at the appeal stage Mrs Broadley provided a statement for the claimant to submit. Ms Reid maintained that it would not be appropriate to involve Mrs Broadley as she remained absent on sick leave. At this point, the claimant had been dismissed and Mrs Broadley had indicated through her statement her willingness to cooperate to a degree. No attempt was made by Ms Reid to contact Mrs Broadley.
+
+119. At the heart of this disciplinary matter was the question as to whether Mr Paton’s vetting was incomplete when his employment and training began. At investigation stage, there was an inconsistency in what the claimant stated occurred – that she obtained the final gap reference on 30 July in advance of
+
+8000254/2025 Page 23
+
+Mr Paton’s start date of 5 August – and what Mr Paton and Ms Clark informed Mrs O’Neill - that the gap reference was still awaited on 5 August with Mr Paton stating that he needed to ‘sort out’ his gap reference. Mrs O’Neill did not investigate this inconsistency because she accepted what Ms Clark said in her statement about the gap reference being outstanding on the morning of 5 August. She also confirmed that she was aware of a hard copy of Mr Paton’s vetting file, but that she did not produce this or refer to it as part of her investigation because she “thought what I had was enough.” The gap reference was received by email but the claimant’s email account was not reviewed. The gap reference itself was not produced.
+
+120. In respect of this inconsistency, Mr O’Neill stated that there was only the claimant’s word that she received the gap reference on 30 July, and there was no evidence of this. Mr O’Neill did not look at the hard copy of Mr Paton’s vetting file, the claimant’s emails or the gap reference itself. While Ms Reid undertook additional investigations around the ID pass application process, particularly the timing, she did not look at any documents which could confirm when the gap reference was received. It was taken as read by all three persons that the vetting was incomplete on 5 August.
+
+121. The allegations developed from investigation stage to disciplinary hearing stage but at both included reference to a failure to inform management of the status of Mr Paton’s vetting. While questions were asked of the claimant, particularly around her handover to Mrs Broadley in advance of her annual leave, there was no investigation of what the normal practice or requirements were in terms of informing management around ongoing work or outstanding work when taking annual leave. Mr Horsborough was spoken to at appeal stage, but not about this aspect.
+
+122. Mrs O’Neill confirmed that she did not look at IDG as part of her investigation as she did not have access to this at the time. It is noted that there was not a specific allegation at investigation about a failure to upload any documents to IDG. During the disciplinary hearing, the claimant requested that Mr Paton’s pack on IDG be reviewed as this would evidence the uploading of documents prior to her annual leave. It was not clear from the evidence if this was done or when. It was brought to an email between HR personnel which included an attachment entitled “ID Gateway history” on 16 September. This was after Mr O’Neill came to his outcome on 9 September but prior to informing the claimant of his outcome by letter dated 18 September. The claimant also requested that Mr Paton’s IDG pack or hard copy pack were provided at the appeal hearing. This did not occur and Ms Reid did not have access to the IDG pack or the screenshot at page 174 at appeal stage.
+
+123. The question in respect of investigation is one of reasonableness and not perfection. An investigation does not need to turn over every metaphorical stone
+
+8000254/2025 Page 24
+
+or every possible explanation from the employee (Shrestha). The investigation should include evidence which assists the employee’s position (A v B). Having considered the case law and the evidence, I found that the level of investigation throughout the disciplinary process fell outside of the band of reasonableness.
+
+124. I found that it was reasonable to include Mrs Broadley in the investigations and that the respondent did not make a reasonable effort to do so. Mrs O’Neill made no attempt to engage Mrs Broadley who at that time had just begun a period of sick leave. While Mr O’Neill made attempts, he had already come to a conclusion on the allegations and outcome. I accept that Mrs Broadley’s absence could be classed as long term at appeal stage. However, she was assisting the claimant by providing a statement and so engaged in the process to a degree. Ms Reid’s evidence was that she “was not willing to put myself in the position of contacting someone who was off work sick.” Speaking to Mrs Broadley would have provided information on the tasks in respect of Mr Paton which were left for her to complete, the vetting position as at 31 July and further insight on how and when management are informed about outstanding work.
+
+125. I found it was also reasonable to investigate the inconsistency as to whether Mr Paton’s vetting was complete before he began training. The vetting process is a paper/digital based process. It required the claimant to undertake certain checks, obtain certificates, references and ID. The chronological series of steps which make up the vetting process would have been evidenced in the emails sent and received by the claimant, the paperwork completed and uploaded to IDG or placed on the hard copy pack. The gap reference in particular was obtained by email and so would evidence the date it was requested and received. This was not the type of allegation where it was one person’s word against the other. It was one which had a documentary audit trail to evidence what had occurred and when. That documentary audit trail was not considered or reviewed despite an inconsistency at the heart of the allegations. This audit trail would have assisted the claimant in her defence of the allegations. As such, the respondent did not look for information which assisted her.
+
+126. It was also reasonable to look at IDG to determine if in fact any documents were uploaded prior to the claimant taking annual leave given this was the basis of allegation three.
+
+127. Finally, I found it was reasonable to investigate what practices, requirements or expectations were in place around updating Mr Horsborough or other senior management about ongoing work or outstanding work prior to taking annual leave given this was an aspect of allegation one and justification for findings in respect of allegation two.
+
+128. Taking all of this together, I found that the investigation was not reasonable.
+
+8000254/2025 Page 25
+
+Did the respondent have reasonable grounds to believe the allegations were sustained?
+
+129. I then looked at whether the respondent had reasonable grounds to sustain the belief that the allegations were substantiated. I considered Mr O’Neill’s evidence and specifically where he set out the key points which informed his belief that the claimant committed an act of gross misconduct. He stated that it was a concern to have someone begin training who was not fully vetted, ‘lies were told’ about his vetting being complete, and the process was not followed because documents were not uploaded to IDG. I also considered the reasons provided in the dismissal letter as to why each allegation was substantiated.
+
+130. In respect of the first allegation, this has two aspects– the finding that Mr Paton’s vetting was incomplete before he began his training and the finding that the claimant should have informed management about this.
+
+131. Mr O’Neill confirmed that vetting is taking up the CTC, CRC and five year employment history but stated that unless these documents were uploaded to IDG, there was no way to know if in fact the vetting was completed. When asked in what way was there a failure to fully vet Mr Paton, he responded “I know there was a gap reference missing”. When it was put to him that the claimant informed him at the disciplinary hearing she received the gap reference on 30 July, he stated that there was no evidence of this, there was only the claimant’s word for it.
+
+132. For the second aspect of allegation it was not in dispute that the claimant emailed Mr Horsborough and the training department on 23 July and informed them that Mr Paton’s vetting was complete and that the claimant did not update Mr Horsborough on Mr Paton’s vetting status after that email.
+
+133. The dismissal outcome letter states that the responsibility of informing management sat with her and that she was not absolved of this responsibility by handing over her work to Mrs Broadley prior to her annual leave. Mr O’Neill in evidence did not point to knowledge of a policy or a practice requiring the claimant to update management on outstanding work before a period of annual leave. Instead, he stated he would have expected this. I heard no other evidence, including from Mr Horsborough, that the claimant was required to or as a matter of practice regularly update him and other senior management about ongoing vetting work or any vetting tasks outstanding at the time annual leave was taken.
+
+134. I found the respondent did not have reasonable grounds, following a reasonable investigation to sustain the belief that allegation one was substantiated. Mr O’Neill simply accepted that the vetting was incomplete at the time Mr Paton began training and did not believe the claimant who disputed this. He did not
+
+8000254/2025 Page 26
+
+provide any insight into how he came to this conclusion save for the explanation that there was no evidence the gap reference was received. This was something which could have been confirmed objectively with the gap reference itself or the email sending this. Further, he had an expectation that the claimant would update management on outstanding tasks, particularly vetting tasks, before taking annual leave rather than knowledge or evidence of a requirement to do so.
+
+135. The second allegation was that the claimant falsified her completed duties by sending the email of 23 July stating that Mr Paton’s vetting was complete. Mr O’Neill in evidence described this as the claimant telling a lie. I heard no evidence from the respondent’s witnesses, in particular Mr O’Neill, to explain the view that the claimant falsified her duties by sending the email of 23 July as per the allegation. The wording of the allegation suggested this was a deliberate action by the claimant rather than an error. It was not put to the claimant that she lied or deliberately acted to deceive the respondent. Rather the dismissal letter, which appears to accept the explanation from the claimant that this was an error, focused on the fact that there was time to inform management of the error before her annual leave began but the claimant did not do so. As with allegation one, I heard no evidence from the respondent’s witnesses that there was a practice or requirement to update management about ongoing work. The claimant’s evidence was that if there was an error, you tried to fix it and if you could not, you went to management. This was not challenged.
+
+136. The email of 23 July was the focus of Ms Reid’s appeal outcome. While the outcome letter made findings on each of the three allegations Ms Reid was clear in her evidence that for her, the claimant committed misconduct by stating the vetting was complete in that email when it was not. She said that she did not take into account anything after the 23 July email because of her focus on that email and its implications. She confirmed that she did not take a view on the claimant’s position that she received the gap reference on 30 July and passed it to Mrs Broadley to complete. She said that “if the claimant is confirming everything was done on the 23 July, then everything should have been done.” That for her was the misconduct.
+
+137. It was not in dispute that the claimant did not update Mr Horsborough on Mr Paton after her email of 23 July. I found that the respondent did not have reasonable grounds to sustain the belief that this allegation was substantiated. There was no evidence before me or before the internal process that the claimant falsified her duties. Neither Mr O’Neill nor Ms Reid considered how management, in this case Mr Horsborough, would be normally be updated on tasks or errors. Mr O’Neill went on the expectation he had of his staff rather than what was actually occurring in the claimant’s department.
+
+8000254/2025 Page 27
+
+138. The third allegation was that the claimant did not upload any information to IDG throughout Mr Paton’s vetting process. Mr O’Neill was taken to the screenshot from IDG which showed the claimant uploading documents on 3 July and undertaking the authentication check on 15 July which required the uploading of identity documents such as passport and driving license. He confirmed that he did not have much experience of IDG and would have to take Mr Lawson’s word for it that the screenshot evidenced the claimant uploading documents prior to her annual leave. The claimant gave evidence that the IDG screenshot was incomplete and all documents uploaded prior to 30 July would have date and time stamps. This was not challenged. The dismissal letter referred to the claimant’s explanation on this allegation unsatisfactory as she “could have begun submissions to ID Gateway prior to your annual leave.”
+
+139. I found that there were no reasonable grounds for the respondent’s belief that this allegation was substantiated. The documentary evidence available to the respondent confirmed that the claimant had in fact uploaded documentation to IDG on 3 July and undertaken authentication checks, which requires the upload of a passport and driving license, on 15 July.
+
+140. Taken as a whole, and for the reasons set out above I found the respondent did not have a reasonable belief, following a reasonable investigation, to find that the allegations were substantiated.
+
+141. There was a large amount of evidence about the application for an ID pass via IDG and when this should have begun both at the hearing and during the internal process. However, the allegations and outcome were centered on vetting being incomplete. All the respondent’s witnesses accepted and agreed that vetting was the taking up of the CRC, CTC and five year employment history. That is what the legislation required before training began. It was then a local arrangement with AGS, that the vetting and other document be uploaded to IDG through the application for an ID pass. If the respondent viewed a failure to apply for the ID pass prior to Mr Paton beginning his training as gross misconduct, that was not the allegation put to the claimant nor was it the basis of the outcome as per the evidence heard. Was the decision to dismiss within the band of reasonable responses?
+
+142. I then considered whether the sanction of dismissal was within the band of reasonable responses. All the respondent witnesses were at pains to explain the implications for the respondent if the CAA regulations were breached. The vetting process was described by Mr Horsborough as ensuring employees undertaking what is essentially a counter-terrorism role have a suitable work history and background. I heard general evidence about the sanctions the CAA can impose for breach of regulations, from a fine to punitive measures including the cessation of the respondent providing security services to Glasgow and
+
+8000254/2025 Page 28
+
+other airports. None of these sanctions were in fact applied in this scenario and both Mr O’Neill and Ms Reid confirmed that there in fact was no reputational damage caused to the relationship between the respondent and the CAA. As for the relationship between the respondent and AGS I heard evidence that they notified AGS of what had occurred but did not hear any evidence of damage to that relationship. I found that there was pre-determination on the part of Mrs O’Neill, Mr O’Neill and Ms Reid, not for any nefarious reasons, but simply due to the potential seriousness of the allegations. It was taken as a matter of fact by Mr O’Neill and Mrs O’Neill, rather than something to be investigated and substantiated, that Mr Paton’s vetting was incomplete when he began his training. As such, Mr O’Neill was comfortable in stating the CAA regulations had been breached and this conduct was so serious that dismissal was the only available outcome. Ms Reid was focused solely on the email of the 23 July, rather than anything which came after that. She could not explain in evidence what legislation or regulations had been breached but was confident in her examination in chief that such a breach had occurred.
+
+143. Taking into account what I found in relation to the lack of grounds to substantiate a reasonable belief and lack of a reasonable investigation coupled with the pre- determination set out above, no reasonable employer would have come to the decision to dismiss in the circumstances. The decision to dismiss is therefore outside of the band of reasonable responses. Was the dismissal fair as per Section 98(4) of the ERA?
+
+144. I then considered whether the dismissal was fair or unfair as per Section 98(4) of the ERA. I noted that the respondent has an HR department who assisted and supported throughout the disciplinary process which resulted in the claimant’s dismissal. They also had access to an external HR provider, Peninsula, who provided them with HR advice throughout the process. They have a written disciplinary procedure which was referred to throughout the process and a copy of which was sent to the claimant.
+
+145. I will not repeat the findings and decision in respect of the investigation as above, but the failings of the respondent in that regard were considered under Section 98(4). I also had regard to the requests of the claimant in advance of the disciplinary and appeal hearings for the provision of additional documents and access to her laptop for mitigating material. These requests were on the whole denied. With regard to access to her laptop, while security concerns are appreciated, it would be reasonable for the respondent to provide supervised access to her laptop at the respondent premises or to ask specifically what materials the claimant was seeking to rely on so that these could be collated by the respondent without requiring the claimant to access the laptop. The claimant also sought access to either Mr Paton’s IDG pack or the hard copy pack, both of which would have assisted her in evidencing the steps she undertook in the
+
+8000254/2025 Page 29
+
+vetting procedure prior to his employment beginning. This was not provided and a reason for this was not given in evidence.
+
+146. Additional investigations were undertaken by Ms Reid at appeal stage, although she did not take a statement from Mr Horsborough and Ms Cameron about the procedure of training passes for HSB agents. A statement was only taken from Mr Horsborough about the OH referral issue. Investigation into the recruitment and vetting of other HSB agents was also undertaken by Ms Reid. The outcome or findings of this additional investigation was not put to the claimant for her comment.
+
+147. I did not accept the claimant’s position that there was a conflict of interest with Mr and Mrs O’Neill acting as disciplinary officer and investigator. I accepted that they have worked together for a substantial period of time and do not discuss work at home. I also did not accept that either Mr O’Neill or Mrs O’Neill were influenced by a grievance submitted by the claimant’s sister and the subsequent suspension of Mrs O'Neill following a whistleblowing disclosure. There was no evidence to support this assertion save for a knowledge that this had occurred.
+
+148. I found the investigation as a whole was unreasonable and the claimant was unreasonably denied the opportunity to access or collate material that would have assisted her defense and mitigation of the allegations. There was a level of pre-determination which influenced the decision to dismiss. The reputational aspects cited as a basis for dismissal had not in fact occurred. The respondent is a medium sized employer with both internal and external HR advice available to it as well as written procedures. On the whole, I found taking into account the equity and substantial merits of the case, the respondent did not act reasonably when dismissing the claimant.
+
+149. The claimant’s claim for unfair dismissal is therefore successful.
+
+Remedy
+
+Basic award
+
+150. The claimant is entitled to a basic award and a compensatory award as per Section 118 of the ERA.
+
+151. The claimant was 40 as at the date of dismissal and had four completed years of service with the respondent. Her gross weekly salary was £617.98. Her basic award therefore comes to £2,471.92.
+
+Compensatory award
+
+152. The claimant had an initial period of unemployment until she obtained a role in Marks and Spencer on 10 November 2024. Her initial wage loss from the date of dismissal to the start of her new employment was £3,769.05.
+
+8000254/2025 Page 30
+
+153. She received a universal credit payment of £377.20 on 26 November 2024.
+
+154. The claimant’s salary in her new role is less than what she was paid by the respondent and she works only 30 hours per week. Her net earnings per week are now £364.36. She received £502.54 net per week when working with the respondent. Her immediate loss of earnings in the period 10 November 2024 to 31 August 2025 was £5,803.69.
+
+155. The claimant is currently employed as a store assistant but has applied for managerial training. At the time of the hearing, the claimant was awaiting to hear whether she was accepted on that training. If accepted the claimant will undertake a six to eight week training period following which her salary will increase although she does not know to what extent it will increase.
+
+156. I found that the claimant would continue to suffer financial loss until completion of the management training at which her loss will cease as either her hours of work or her rate of pay or a combination of both will likely take place, so that there is no ongoing loss. Her future loss of earnings from 1 September to 3 November 2025 amounts to £1,243.62 (9 weeks x £138.18).
+
+157. The claimant suffered pension loss of £1,458.43 from the date of dismissal to 28 February 2025 and a further £653.79 from 1 March to 31 August 2025.
+
+158. The claimant will continue to suffer pension loss of £108.96 per week for the period 1 September to 3 November and this amounts to £980.64.
+
+159. The claimant’s loss of statutory rights is claimed at £600. Did the claimant mitigate her loss?
+
+160. The respondent’s submission was that the claimant has failed to mitigate her loss as she has only applied for four other jobs since her dismissal. The onus is on the respondent to prove a claimant has failed to mitigate their loss rather than for a claimant to prove they have acted reasonably. I noted that the claimant was impacted by the decision to dismiss in that her confidence was dented but obtained employment by November 2024. This is a permanent role but at a lower rate of pay and fewer hours than her employment with the respondent. The respondent did not advance evidence of better paid roles that the claimant could have applied for. I found that the claimant did mitigate her loss. Should there be a Polkey deduction to the award of compensation?
+
+161. The respondent made minimal submissions on Polkey, stating that a reduction of 80% should be applied. No further submission was made on this point. The
+
+8000254/2025 Page 31
+
+Polkey principle requires the Tribunal to consider whether the claimant was likely to continue to be employed by the respondent had the procedural irregularities not arisen. I consider that had a fair procedure been applied it was unlikely that the respondent would continue to dismiss the claimant. In fully investigating the question of vetting and in reviewing evidence which both helped and hindered the claimant, it was likely that the respondent would not have found her guilty of gross misconduct. While the claimant in evidence stated her belief that the respondent was “out to get her” as it were, this was refuted by the respondent and I found there was no campaign or animus against the claimant. It was likely therefore that she would continue in her role with the respondent. For these reasons, I found that the circumstances of the case do not justify a Polkey deduction. Should there be a deduction to the claimant’s compensation due to contributory conduct?
+
+162. The respondent also made minimal submissions on contribution, again stating that 80% reduction should be applied. No further submission was made on this point. When considering contribution, it is for the Tribunal to decide whether the claimant committed culpable or blameworthy rather than consider the basis for the respondent’s decision making. I found that the claimant had not committed blame worthy conduct as she had obtained the last gap reference before finishing for annual leave on 31 July and so Mr Paton’s vetting was complete when he began his training. The email sent in error on 23 July and the failure to update management on outstanding work in the absence of a requirement to do so, are not so serious as to come within the ambit of misconduct. They are normal errors or oversights which can happen in the course of employment. As such, I found that there should be no reduction for contributory fault.
+
+163. The claimant is therefore entitled to a compensatory award of £14,509.22.
+Date sent to parties: 21 November 2025

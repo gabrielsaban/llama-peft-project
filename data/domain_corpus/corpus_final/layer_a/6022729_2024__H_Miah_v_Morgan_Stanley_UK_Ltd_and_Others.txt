@@ -1,0 +1,141 @@
+JUDGMENT
+
+The claim has been brought outside the time limit provided by Article 7 of the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 and the claim is therefore dismissed.
+
+REASONS
+
+1. The claimant seeks to bring a claim of breach of contract against the Respondents.
+
+2. This case was listed for a public preliminary hearing to determine the following matters:
+
+i. Whether the claimant's claim was brought within time,
+ii. If it was not, whether it was reasonably practicable to have presented the claim in time and
+iii. whether the claim was presented within a reasonable time thereafter. The Hearing
+
+3. The hearing was conducted by way of CVP. The claimant represented himself. The respondents were represented by Mr White of counsel. The hearing was listed for a day with the parties required to attend only for the morning and the afternoon reserved for the judge in chambers. This listing had taken into account the impact on the claimant of Ramadan and Friday prayers.
+
+4. The claimant was initially unable to join the hearing on camera which delayed the beginning of the hearing. However, he resolved this and the hearing began at 10:45 am. The claimant asked to be released from the hearing to attend Friday prayers at the mosque. I agreed to this, and the hearing was adjourned between 11:45 and 1pm. The claimant was unable to return home in time to resume the hearing at 1pm and re-joined the hearing at 1pm from his car. He confirmed that he was content to proceed in those circumstances, that he had access to the documents on his tablet and he requested no specific adjustments.
+
+5. As the claimant was unrepresented, I took into account the relevant provisions of the Equal Treatment Bench Book including that the challenges faced by litigants in person often stem from their lack of knowledge of the law and court or tribunal procedure. Therefore, I confirmed with the claimant that he understood the purpose of the hearing, that he had had ample time to prepare and comply with the directions and orders, that he understood what was expected of him throughout the hearing, and that he was given sufficient time for his needs at the hearing.
+
+6. The claimant had provided a witness statement and the respondents confirmed they did not wish to cross-examine him on it as the facts were not disputed. The claimant did not give oral evidence and relied on his skeleton argument, witness statement and oral submissions.
+
+Applications
+
+7. The claimant had made various applications prior to the hearing, particularly regarding disclosure. However, it was not necessary to determine those as they were all contingent upon the case being allowed to proceed.
+
+8. The claimant applied for an anonymity order under rule 49. The respondents opposed this. I refused the application on grounds that the principle of open justice outweighed the claimant’s desire not to have his name disclosed within the proceedings.
+
+9. The claimant had indicated prior to the hearing he wished to preserve the option to withdraw his claim should the Tribunal find it unlikely to succeed. I informed the claimant that it was not possible for the Tribunal to give an indication, or preliminary view, on whether his claim was likely to succeed, and he confirmed he was content to proceed with the claim. I reminded him during the hearing that it was open to him to withdraw his claim at any time, and he confirmed that he wished the claim to proceed.
+
+10. The respondents raised various arguments in their skeleton argument as to why they contend it ought to be struck out, including the rule in Henderson v Henderson and the principle of res judicata. However, whilst expressly reserving their position in regard to those argument in the future conduct of the proceedings, the respondents did not pursue those arguments at the hearing where their argument was limited to the jurisdiction/ time limit issue.
+
+The documents
+
+11. The parties confirmed at the start of the hearing that they had all the relevant documents including the main bundle. The parties confirmed that the bundle included all the documents that the claimant had wanted to be included. Although the claimant had asked for unredacted copies to be included, I was satisfied that this was not relevant to the jurisdiction question the tribunal was required to determine.
+
+12. On the day of the hearing I was provided with a further bundle which was titled “Applications by claimant” although it contained more material than solely applications by the claimant. This bundle included a witness statement from the claimant. The claimant had also submitted material to the Tribunal obtained via a data subject access request (DSAR) made to the respondents, which I have taken into account.
+
+13. I was provided with skeleton arguments by both parties and an authorities bundle. I have considered the documents in full.
+
+Issues
+
+14. The issues before the tribunal were:
+
+i. Whether the claimant's claim was brought within time,
+ii. If it was not, whether it was reasonably practicable to have presented the claim in time and
+iii. whether the claim was presented within a reasonable time thereafter. The facts of the claim
+
+15. Briefly, the facts of the claim are as follows. The claimant applied for a role at the first respondent’s company. He was offered a role on 28 April 2022. That offer was, the respondents submit, conditional on the satisfactory completion of pre-employment checks. The respondents state that the checks were failed, and the offer of employment was withdrawn on 13 June 2022, the date on which the claimant was due to commence employment with the first respondent. The respondents’ position is that the contract was rescinded.
+
+16. The respondents submit that the claimant was asked on more than once occasion as part of their pre-employment screening whether there were any adverse county court or other judgments against him to which he gave misleading responses by failing to disclose that there had been adverse county court decisions against him. The respondents contend that he had in fact been subject to four CCJs in the period 2017– 2020. This led to the respondents withdrawing the offer of employment. The respondents characterise that as a recission of contract. These events took place in 2022.
+
+17. On 20 December 2024 the claimant submitted an ET1 alleging breach of contract against the respondents.
+
+Related proceedings
+
+18. The claimant has previously brought an employment tribunal claim against the respondents in respect of these events at the London East Employment Tribunal in 2022 (claim number: 3205659/2022). That claim was brought on grounds of alleged race discrimination (not breach of contract). It was subsequently withdrawn by the claimant before a final merits hearing.
+
+19. In August and September 2024, the claimant brought four County Court claims arising from the same set of facts as the current ET proceedings against two of the respondents, which allege breach of contract, followed by a further 5 County Court claims brought in December 2024. The claimant has also brought proceedings arising from the same sets of facts against the respondents in the United States of America. Bringing a breach of contract claim in the Employment Tribunal
+
+20. An employee may bring a claim before an employment tribunal for recovery of damages for breach of a contract of employment if the claim arises or is outstanding on the termination of the employee’s employment.
+
+21. Article 7 of the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 provides that an employment tribunal shall not entertain a complaint in respect of an employee’s contract claim unless it is presented to the tribunal —
+
+(a) within the period of three months beginning with the effective date of termination of the contract giving rise to the claim, or
+(b) where there is no effective date of termination, within the period of three months beginning with the last day upon which the employee worked in the employment which has terminated; and
+(c) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within whichever of those periods is applicable, within such further period as the tribunal considers reasonable.
+
+22. The onus is on the Claimant to prove that it was not reasonably practicable to present his claim in time. That “imposes a duty upon him to show precisely why it was that he did not present his complaint” within the primary time limit: Porter v Bandridge [1978] ICR 943 (CA), 948D. Then, if he succeeds in doing so, the tribunal must be satisfied that the time within which the claim was in fact presented was reasonable.
+
+23. The Court of Appeal undertook a comprehensive review of the authorities in Palmer and Saunders v Southend-on-Sea Borough Council [1984] 1 All ER 945. Here the Court of Appeal stated the overall test is whether it was "reasonably feasible to present the complaint to the employment tribunal within the relevant three months". The case suggests that there are a number of factors which may be considered. However, those factors may or may not be relevant to the tribunal's view. Those factors that may be taken into account include the following: the manner in which and the reason for which the employee was dismissed, including the extent to which, if at all, the employer's conciliatory appeals machinery has been used; what was the substantial cause of the employee’s failure to comply with the statutory time limit; whether the employee had been physically prevented from complying with the limitation period, for instance by illness or postal strike or something similar; at the time of dismissal, and if not when thereafter, did the employee know that he had the right to complain of unfair dismissal (in the current case breach of contract); has there been misrepresentation about any relevant matter by the employer to the employee; did the employee receive advice at the material time, and if so, from whom; what was the extent of the advisers knowledge of the facts of the claimant's case; what was the nature of the advice given; and has there been substantial fault on the part of the employee or his adviser which has led to failure to comply with the statutory time limit.
+
+24. That is of course guidance. The tribunal may take into account all the circumstances of a particular case.
+
+Conclusions
+
+Was the claimant employed under a contract of employment?
+
+25. Section 230(1) of the Employment Rights Act provides that an employee is an individual who has entered into or works under a contract of employment.
+
+26. It was agreed that the respondents and claimant entered into a contract of employment, although the claimant did no work under it. Whilst the respondents contend that there was no possibility of an employment relationship between the claimant and the second and third respondents it was unnecessary for the purposes of this hearing to resolve that issue. I find that the claimant was employed under a contract of employment by the respondents. Was the contract of employment terminated?
+
+27. The offer of employment was withdrawn on 13 June 2022, the date on which the claimant was due to commence employment with the first respondent.
+
+28. Whilst the respondents characterise this termination of the contract as a recission it was not argued before me that there had not been a termination such as to engage the jurisdiction of the tribunal.
+
+29. I find that this was a termination of the employment of the employee for the purposes of Article 4 of the 1994 Order. Was the claimant's claim brought within time?
+
+30. The effective date of termination was 13 June 2022. Therefore, the statutory time limit to bring the claim was 12 September 2022. The claimant brought the claim on 20 December 2024. Therefore the claim was not brought within time. Was it reasonably practicable to have presented the claim in time?
+
+31. The claimant’s particulars of claim are very lengthy, over 250 paragraphs, and difficult to follow. They conflate the civil courts and this Tribunal’s jurisdiction. Whilst I take into account that the claimant is self- represented, I note that in those particulars of claim the claimant has the ability and sufficient understanding to cite multiple authorities as well as various heads of claim and legal concepts. He also has significant litigation experience having brought multiple sets of proceedings arising from the termination of his employment. The claimant confirmed he had conducted legal research and his particulars of claim and correspondence to the Tribunal show a degree of proficiency and understanding of legal concepts.
+
+32. Despite that legal research and extensive apparent proficiency and understanding, the claimant had not addressed in his ET1 or particulars of claim the issue of the tribunal’s jurisdiction to hear a claim which is, on its face, more than two years out of time.
+
+33. In his correspondence to the Tribunal, he referred to the claim being properly brought within the jurisdiction of the Tribunal under what was then Rule 2 of the Employment Tribunal Rules of Procedure i.e. in accordance with the overriding objective. He states that denying jurisdiction on technical grounds would unjustly prevent the Claimant from pursuing a legitimate claim against the Respondents. He also identified, correctly, that a claim for breach of contract in the Employment Tribunal is brought under the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 but incorrectly asserted that “The claim is therefore well within the six-year limitation period for breach of contract claims under Section 5 of the Limitation Act 1980”.
+
+34. The claimant asserts that the delay, if any, was minor and caused by the Respondents’ lack of engagement in meaningful resolution efforts (page 13 of the Bundle of Claimant’s applications). He also stated that the respondents’ failure to provide clear explanations caused unnecessary delays in pursuing this claim.
+
+35. The claimant submits that relevant evidence has been concealed by the respondents, which affected his ability to bring the Tribunal claim in time and that in accordance with the principle set out in Dedman v British Building & Engineering Appliances Ltd [1973] ICR 53, a claim should not be time-barred where it was not reasonably practicable to file within the limitation period.
+
+36. The respondents submit that it clearly was reasonably practicable for the claimant to present his claim within three months from the date of the first respondent's withdrawal of the claimant's job offer on 13 June 2022 and point to the fact that he did bring an ET claim arising out of the same or substantially the same facts in November 2022.
+
+37. They say the claimant has presented no sensible evidence to the effect that it was not reasonably practicable for him to present this claim within three months from the effective date of termination of his contract.
+
+38. Applying the guidance in Palmer and Saunders v Southend-on-Sea Borough Council [1984] 1 All ER 945, I find that it was reasonably practicable to have presented the claim in time. The claimant did in fact bring employment tribunal proceedings against the respondents in time having conducted legal research. The ET1 form asks a claimant if they are bringing a claim for breach of contract which he could have indicated he wished to do so but failed. He could reasonably have researched the tribunal’s jurisdiction to consider complaints of breach of contract when he brought that claim but did not so.
+
+39. He did not identify any physical barrier to bringing the claim and indeed did so, albeit under another legal provision. He may not have been aware of the tribunal’s jurisdiction and whilst I take into account, he was unrepresented, a small amount of legal research, which he is clearly capable of, would have revealed this.
+
+40. It would have been open to him to obtain legal advice and whilst the claimant says he did not have financial resources to do so, there are other free sources of legal advice available and there was no evidence the claimant had attempted to obtain that.
+
+41. The claimant stated that the respondents should have told him more about the context or underlying facts of his dismissal which would have allowed him to have sufficient knowledge to bring the claim. He appeared to suggest that there had been some concealment about the dismissal and referred to this being pre-determined. However, despite the onus being on the claimant to show that it was not reasonably practicable to have presented the claim in time, he failed to direct the tribunal to specific examples of concealment.
+
+42. I did not find there to have been misrepresentation about relevant matters by the employer to the employee. That the respondents staff had formed a view that the employment contract would be terminated before communicating that to the claimant is inevitable. That the claimant did not have a right of appeal against the respondents’ decision is something that would have been obvious to him at the time of dismissal. The claimant provided no evidence of concealment of material which would have rendered it not reasonably feasible to bring the claim within time.
+
+43. I find that the delay in bringing the claim was substantial and reject the claimant’s assertion that the delay was minor.
+
+44. I attach no weight to the claimant’s contention that delay in bringing the claim was caused by the respondents’ lack of engagement in meaningful resolution efforts as there was no evidence this alleged conduct had any impact on the claimant’s ability to bring a claim.
+
+45. I find that it was reasonably practicable to have presented the claim in time. Was the time within which the claim was presented thereafter reasonable?
+
+46. In the event that I am incorrect on that I now go on to determine whether the time within which the claim was presented was reasonable.
+
+47. The claimant invites the tribunal to exercise its discretion to allow the claim to proceed out of time as it is just and equitable to do so (paragraph 2 particulars of claim). He states he was unaware of the full legal implications of the respondent’s conduct until he received professional guidance at a later stage and that he has acted promptly upon becoming aware of his rights.
+
+48. The claimant submitted that he should not be prejudiced for not bringing a claim within the statutory time limit as key facts were unavailable to him which would have allowed him to bring a claim in time.
+
+49. The respondents submit that even if a discretion were engaged – which they say it should not be – a period of more than two years is not a reasonable further period in which to present the claim, because: (i) that period is extremely long relative to the default limitation period in ET proceedings; (ii) the claimant has had ample further time in that period in which to bring a claim – and did bring multiple other claims, in multiple fora, before this one; (iii) C’s case is vexatious in the extreme, a gross abuse of process, and has no reasonable prospects of success in any event.
+
+50. The respondents also state that the claimant has brought breach of contract claims in the County Court in September 2024 whereas he failed to bring this Employment Tribunal claims until December 2024.
+
+51. I find that the claim was not presented within such time as was reasonable. The claimant was aware of the material facts in 2022, this is a claim arising from a dismissal which he has extensively litigated. The period by which he is out of time is very long relative to the primary time limit. He has had ample opportunity to familiarise himself with the tribunal’s jurisdiction and institute proceedings if he wished to do so .
+
+52. I find that the claim was not presented within such time as was reasonable.
+
+Further considerations
+
+53. The respondents invited the tribunal to find the claim is totally without merit. There is no provision in the Tribunal Rules to do so and I make no finding in relation to that.
+
+54. The respondents wished to apply for a costs order against the claimant at the hearing. The claimant did not wish the application to be considered at that hearing. I did not hear that application due to pressure of time, the listing of the hearing and to prevent unfairness to the claimant who was self-represented and unable to satisfactorily respond to such an application following a lengthy contested hearing on jurisdiction.
+
+55. Should the respondents wish to pursue a costs application they must make a fully particularised written application to the Tribunal, with relevant facts and law set out, accompanied with relevant authorities and copied to the claimant.

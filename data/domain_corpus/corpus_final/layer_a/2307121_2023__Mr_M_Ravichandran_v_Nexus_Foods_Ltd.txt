@@ -1,0 +1,363 @@
+JUDGMENT
+
+having been sent to the parties on 2 October 2025 (reasons having been delivered orally on 11 September 2025) and written reasons having been requested by the respondent in accordance with Rule 60(4) of the Employment Tribunal Procedure Rules 2024, the following reasons are provided:
+
+REASONS
+
+Introduction
+
+1. These are the reasons for the unanimous judgment of the Tribunal on the claim brought by Mr Madhesh Ravichandran (the claimant) against Nexus Foods Limited (the respondent) following a final hearing on 8-11 September 2025. These reasons concern issues of liability only – remedy will be the subject of a separate judgment.
+
+2. This claim was presented on 13 December 2023, early conciliation having taken place between 2 October and 13 November 2023. The complaints that the Tribunal had to determine came under the following headings:
+
+a. failure to provide particulars of employment (s.1 Employment Rights Act 1996 (ERA); s.38 Employment Act 2002 (EA));
+b. automatic unfair dismissal (s.101A(b) ERA);
+c. direct race discrimination (s.13 Equality Act 2010 (EQA));
+d. harassment related to race (s.26 EQA);
+e. victimisation (s.27 EQA);
+f. wrongful dismissal (breach of contract in respect of notice pay); and
+g. failure to pay holiday pay.
+
+3. A List of Issues was prepared by EJ Sudra at a PH on 28 November 2024. As canvassed with the parties in the course of the hearing, that List needed to be amended to reflect certain complaints that were present in the ET1 claim form but had not been included in the List. A final revised version of the List of Issues (LOI) is set out below (omitting remedy issues).
+
+1 Constructive Unfair Dismissal
+
+1.1 Was the claimant dismissed?
+1.1.1 Did the respondent do the following things
+1.1.1.1 Subject the claimant to the treatment set out at paragraphs 5.1 and 6.1 below
+1.1.2 Did that breach the implied term of trust and confidence? The Tribunal will need to decide:
+1.1.2.1 Whether the respondent behaved in a way that was calculated or likely to destroy or seriously damage the trust and confidence between the claimant and the respondent; and
+1.1.2.2 Whether it had reasonable and proper cause for doing so.
+1.1.3 Was the breach a fundamental one? The Tribunal will need to decide whether the breach was so serious that the claimant was entitled to treat the contract as being at an end.
+1.1.4 Did the claimant resign in response to the breach? The Tribunal will need to decide whether the breach of contract was a reason for the claimant’s resignation.
+1.1.5 Did the claimant affirm the contract before resigning? The Tribunal will need to decide whether the claimant’s words or actions showed that they chose to keep the contract alive even after the breach.
+1.2 What was the reason for the breach of contract? 2 Automatic Unfair Dismissal
+2.1 What was the reason or principal reason for dismissal? The claimant says it was because he asserted a statutory right under the Working Time Regulations 1998 not to work more than 48 hours per week.
+2.2 If so, the claimant will be regarded as unfairly dismissed. 3 [omitted] 4 Wrongful Dismissal / notice pay
+4.1 What was the claimant’s notice period?
+4.2 Was the claimant paid for that notice period?
+4.3 If not, did the claimant do something so serious that the respondent was entitled to dismiss without notice? 5 Direct race discrimination
+5.1 Was the claimant subjected to the following less favourable treatment within the meaning of s.13 EQA?
+5.1.1 On 21 March 2023, the claimant’s request for holiday was refused by Kajan;
+5.1.2 On 21 March 2023, Kajan said to others “this shit needs holiday but I can’t give it to this slave”;
+5.2 If so, was the claimant treated less favourably than other employees of the respondent who do not share his protected characteristic? The claimant relied upon a hypothetical comparator.
+5.3 If so, was any such less favourable treatment because of the claimant’s race? The claimant relied on his Indian Tamil nationality.
+5.4 Did the respondent’s treatment amount to a detriment? 6 Harassment related to race (s.26 EQA)
+6.1 Did the respondent do the following things?
+6.1.1 On 19 July 2023, Kajan said to Rajeevan “Indians are fraudsters and cannot be believed”;
+6.1.2 On 19 July 2023, Kajan said to Rajeevan “Madhesh is a fraud and a pussy”;
+6.1.3 On 1 August 2023, Kajan said to Rajeevan “if they [Sri Lankan Tamils] were to trust Indians [from Tamil Nadu] and Muslims, then they [the Indians and Muslims] would fuck them [the Sri Lankan Tamils]”;
+6.1.4 Kajan making the claimant work in excess of 45 hours per week from January to July 2023;
+6.1.5 On 21 March 2023, Kajan said to others “this shit needs holiday but I can’t give it to this slave”;
+6.1.6 Constructively dismissing the claimant;
+6.1.7 On 1 August 2023, Kajan racially abused the claimant during a telephone conversation.
+6.2 If so, was that unwanted conduct?
+6.3 Did it relate to race?
+6.4 Did the conduct have the purpose of violating the claimant’s dignity, or creating a hostile, degrading, humiliating, offensive or intimidating environment for the claimant?
+6.5 If not, did it have that effect? The Tribunal will take into account the claimant’s perception, the other circumstances of the case and whether it is reasonable for the conduct to have that effect. 7 Victimisation
+7.1 Did the claimant do a protected act (or acts) as follows:
+7.1.1 Raising a grievance on 5 August 2023 complaining of racism by Kajan;
+7.1.2 Raising a grievance to Mr Bashir on 29 September 2023 complaining of racism by Kajan.
+7.2 Did the respondent do the following things?
+7.2.1 Fail to address the claimant’s grievances or provide him with an outcome.
+7.3 By doing so, did it subject the claimant to detriment?
+7.4 If so, was it because the claimant did a protected act? 8 [omitted] 9 Holiday pay
+9.1 Did the respondent fail to pay the claimant for annual leave the claimant had accrued but not taken when their employment ended? The claimant says he is owed 84.57 hours of untaken accrued annual leave. 10 Failure to provide particulars of employment
+10.1 When these proceedings were begun, was the respondent in breach of its duty to give the claimant a written statement of employment particulars?
+
+4. The hearing took place in person. Shortly prior to the final hearing, the respondent had applied to strike-out the claim for non-compliance with Tribunal orders – that application was refused by EJ Taylor on the basis that strike-out was not proportionate. Having considered further representations from both parties at the start of the first day of the hearing, the Tribunal directed that evidence would commence on the second day. This meant that the respondent had extra time to consider the claimant’s witness statement (which had been served late) and allowed a Tamil interpreter to be booked to facilitate the claimant giving his oral evidence. Evidence was heard on the second and third days, with submissions on the morning of the fourth day and an oral judgment delivered that afternoon. The Tribunal was provided with a bundle running to 146 pages and a small number of additional materials were provided during the hearing.
+
+The relevant law
+
+FAILURE TO PROVIDE PARTICULARS OF EMPLOYMENT
+
+5. Section 1(1) ERA provides that: “Where a worker begins employment with an employer, the employer shall give to the worker a written statement of particulars of employment.”
+
+6. The particulars that are required are set out in sections 1(3) and 1(4) ERA and include, among other things, the rate of remuneration and terms relating to normal hours of work.
+
+7. Under section 38(3) EA, where the employer is in breach of the section 1(1) ERA duty at the time a Tribunal claim is commenced and the claimant is made an award in respect of a substantive complaint1 in the proceedings, the award must be increased by a minimum amount equal to two weeks’ pay and the Tribunal may, if it considers it just and equitable in all the circumstances, 1 The relevant Tribunal jurisdictions are listed in Schedule 5 EA, and include unfair dismissal, breach of contract and complaints under the Equality Act. increase the award by an amount equal to four weeks’ pay.
+
+UNFAIR DISMISSAL
+
+8. Section 94(1) ERA provides that an employee has the right not to be unfairly dismissed by their employer. It is not in dispute that the claimant was a qualifying employee of the respondent.
+
+9. Section 95(1)(c) ERA provides, insofar as relevant, that an employee is dismissed by his employer if the employee terminates the contract under which he is employed (with or without notice) in circumstances in which he is entitled to terminate it without notice by reason of the employer’s conduct.
+
+10. Section 101A(1)(a) ERA provides that an employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee refused (or proposed to refuse) to comply with a requirement which the employer imposed (or proposed to impose) in contravention of the Working Time Regulations 1998 (WTR). In this case, the claimant relies upon regulation 4(1) WTR which provides as follows: “Unless his employer has first obtained the worker’s agreement in writing to perform such work, a worker’s working time, including overtime, in any reference period which is applicable in his case shall not exceed an average of 48 hours for each seven days.”
+
+11. The principal reason is the reason that operated on the employer’s mind at the time of the dismissal — Lord Denning MR in Abernethy v Mott, Hay and Anderson [1974] ICR 323, CA. In other words, it is the main or dominant reason. This is a question of fact for the Tribunal to determine (Kuzel v Roche Products Ltd [2008] ICR 799, CA). The burden of showing the automatically unfair reason in this case, where the claimant has less than 2 years’ service, falls on the claimant (Maund v Penwith DC [1984] ICR 143, CA).
+
+DIRECT DISCRIMINATION CONTRARY TO s.13 EQUALITY ACT 2010
+
+12. Section 13 EQA prohibits direct discrimination. Section 13(1) EQA states: “A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.”
+
+13. Race (including colour, nationality and/or ethnic or national origins) is a protected characteristic (section 9 EQA).
+
+14. The primary focus in a direct discrimination case is on identifying why the claimant was treated as he was, before coming back to whether it was less favourable treatment because of the protected characteristic (see e.g. Shamoon v Chief Constable of the Royal Ulster Constabulary [2003] UKHL 11). It is well established law that a respondent’s motive is irrelevant and, indeed, the possibility of unconscious discrimination is recognised (see e.g. Nagarajan v London Regional Transport [1999] IRLR 572, HL). Moreover, the protected characteristic need not be the sole or even principal reason for the treatment as long as it is a significant influence or an effective cause of the treatment (see e.g. Gould v St John’s Downshire Hill [2021] ICR 1, EAT).
+
+15. What amounts to “less favourable treatment” is an objective test for the Tribunal (Burrett v West Birmingham Health Authority [1994] IRLR 7, EAT), although the claimant’s perception may be taken into account. The treatment cannot merely be different, but must be less favourable (Chief Constable of West Yorkshire Police v Khan [2001] ICR 1065, HL). Detriment is established if treatment is of a kind that a reasonable worker would or might take the view that in all the circumstances it was to his detriment (Shamoon).
+
+16. A comparator must not share the protected characteristic relied upon, and must have no materially different circumstances – see Lord Scott in Shamoon: “the comparator required for the purpose of the statutory definition of discrimination must be a comparator in the same position in all material respects as the victim save only that he, or she, is not a member of the protected class.” This applies regardless of whether the comparator that is used is actual or hypothetical.
+
+17. The bare facts of (i) a difference in status and (ii) a difference in treatment only indicate a possibility of discrimination. They are not, without more, sufficient material from which a tribunal could conclude that, on the balance of probabilities, the Respondent had committed an unlawful act of discrimination (Madarassy v Nomura International plc [2007] EWCA Civ 33). Something more is needed.
+
+HARASSMENT CONTRARY TO S.26 EQUALITY ACT 2010
+
+18. Section 26 EQA provides, so far as is relevant:
+
+“(1) A person (A) harasses another (B) if—
+
+(a) A engages in unwanted conduct related to a relevant protected characteristic, and
+(b) the conduct has the purpose or effect of—
+(i) violating B's dignity, or
+(ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B. […]
+
+(4) In deciding whether conduct has the effect referred to in subsection (1)(b), each of the following must be taken into account—
+
+(a) the perception of B;
+(b) the other circumstances of the case;
+(c) whether it is reasonable for the conduct to have that effect.”
+
+19. Race is a relevant protected characteristic: section 26(5) EQA.
+
+20. “Unwanted conduct” means action, or inaction where action is wanted, that is unwanted by the employee. Whether there has been unwanted conduct is a question for the Tribunal to resolve on the facts of each case: Thomas Sanderson Blinds Ltd v English UKEAT/0316/10 at [28].
+
+21. The words “related to” require the Tribunal to focus on whether the unwanted conduct is associated with the employee’s disability. Whether the requisite associative link is established depends on all the facts, including the context in which the impugned conduct took place and the mental processes of the relevant decision-maker: Unite the Union v Nailard [2016] IRLR 906 at [100]; Bakkali v Greater Manchester Buses (South) Ltd (t/a Stagecoach Manchester) [2018] IRLR 906 at [31].
+
+22. The wording of section 26(1)(b) is important – as it requires conduct that is more than merely upsetting to B. This is a question of fact for the Tribunal. In Richmond Pharmacology v Dhaliwal [2009] ICR 724, EAT, Mr Justice Underhill, then President of the EAT, said: “Not every racially slanted adverse comment or conduct may constitute the violation of a person’s dignity. Dignity is not necessarily violated by things said or done which are trivial or transitory, particularly if it should have been clear that any offence was unintended.”
+
+VICTIMISATION CONTRARY TO s.27 EQUALITY ACT 2010
+
+23. Section 27 of the Equality Act 2010 (EQA) provides, so far as is relevant: “(1) A person (A) victimises another person (B) if A subjects B to a detriment because—
+
+(a) B does a protected act, or
+(b) A believes that B has done, or may do, a protected act.
+
+(2) Each of the following is a protected act—
+
+(a) bringing proceedings under this Act;
+(b) giving evidence or information in connection with proceedings under this Act;
+(c) doing any other thing for the purposes of or in connection with this Act;
+(d) making an allegation (whether or not express) that A or another person has contravened this Act.
+
+(3) Giving false evidence or information, or making a false allegation, is not a protected act if the evidence or information is given, or the allegation is made, in bad faith.”
+
+24. A “protected act”, therefore is, in essence, raising an issue of discrimination.
+
+25. Where the employee has done a protected act, the Tribunal must decide whether the protected act was a significant part of the employer’s reason for subjecting the employee to the alleged detriment: Page v Lord Chancellor [2021] EWCA Civ 912, [2021] IRLR 377 at [30].
+
+26. In order for a disadvantage to qualify as a “detriment”, the Tribunal must find that, by reason of the act or acts complained of, a reasonable worker would or might take the view that they had thereby been disadvantaged in the circumstances in which they had thereafter to work. The test must be applied by considering the issue from the point of view of the victim. If the victim’s opinion that the treatment was to their detriment is a reasonable one to hold, that ought to suffice. While an unjustified sense of grievance about an allegedly discriminatory act cannot constitute detriment, a justified and reasonable sense of grievance may well do so (Shamoon).
+
+EQUALITY ACT BURDEN OF PROOF
+
+27. The provisions relating to the burden of proof are found in Section 136(2) and
+
+(3) EQA: “(2) If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+
+(3) But subsection (2) does not apply if A shows that A did not contravene the provision.”
+
+28. It is thus for the claimant to prove facts from which the Tribunal could conclude, in the absence of any evidence from the respondent, that the respondent committed an act of discrimination. Only if that burden is discharged is it then for the respondent to prove that the reason for the treatment was not because of a protected act or characteristic (see, e.g., Royal Mail Group Ltd v Efobi [2021] UKSC 33). This will typically be based upon inferences of discrimination drawn from the primary facts and circumstances found by the Tribunal to have been proved on the balance of probabilities. Such inferences are crucial in discrimination cases as it is unlikely there will be direct, overt evidence that a claimant has been treated less favourably because of a protected act or characteristic (see, e.g., Anya
+
+v. University of Oxford [2001] IRLR 377, CA).
+
+29. Notwithstanding the above, in Efobi, Lord Leggatt repeated Lord Hope’s reminder in Hewage v Grampian Health Board [2012] UKSC 37 that it is important not to make too much of the role of the burden of proof provisions: “They will require careful attention where there is room for doubt as to the facts necessary to establish discrimination. But they have nothing to offer where the tribunal is in a position to make positive findings on the evidence one way or the other.”
+
+EQUALITY ACT TIME LIMITS
+
+30. Section 123(1) EQA provides, insofar as relevant, that a complaint under the Act may not be brought after the end of — (a) the period of 3 months starting with the date of the act to which the complaint relates, or (b) such other period as the employment tribunal thinks just and equitable.
+
+31. Under section 123(3)(a) EQA, conduct extending over a period is to be treated as done at the end of the period. The key issue is whether there was an ongoing situation or continuing state of affairs which amounted to discrimination (Hendricks v Commissioner of Police of the Metropolis [2002] EWCA Civ 1686).
+
+32. The Act itself does not provide further guidance on how to apply the ‘just and equitable’ test, but there are various authorities which have laid out useful principles and points of guidance. There is a helpful distillation of relevant points in paragraph 10 of the decision of Elisabeth Laing J (as she then was) in Miller & Others v The Ministry of Justice & Ors [2016] UKEAT
+
+0003_15_1503. Those points are as follows:
+
+“i. The discretion to extend time is a wide one: Robertson v Bexley Community Centre [2003] EWCA Civ 576; [2003] IRLR 434, paragraphs 23 and 24.
+
+ii. Time limits are to be observed strictly in ETs. There is no presumption that time will be extended unless it cannot be justified; quite the reverse. The exercise of that discretion is the exception rather than the rule (ibid, paragraph 25). In Chief Constable of Lincolnshire v Caston [2010] EWCA Civ 1298; [2010] IRLR 327 Wall LJ (with whom Longmore LJ agreed), at paragraph 25, put a gloss on that passage in Robertson, but did not, in my judgment, overrule it. It follows that I reject Mr Allen’s submission that, in Caston, the Court of Appeal “corrected” paragraph 25 of Robertson. Be that as it may, the EJ in any event directed himself, in the first appeal, in accordance with Sedley LJ’s gloss (at paragraph 31 of Caston), which is more favourable to the Claimants than the gloss by the majority.
+iii. If an ET directs itself correctly in law, the EAT can only interfere if the decision is, in the technical sense, “perverse”, that is, if no reasonable ET properly directing itself in law could have reached it, or the ET failed to take into account relevant factors, or took into account irrelevant factors, or made a decision which was not based on the evidence. No authority is needed for that proposition.
+iv. What factors are relevant to the exercise of the discretion, and how they should be balanced, are for the ET (DCA v Jones [2007] EWCA Civ 894; [2007] IRLR 128). The prejudice which a Respondent will suffer from facing a claim which would otherwise be time barred is “customarily” relevant in such cases (ibid, paragraph 44).
+v. The ET may find the checklist of factors in section 33 of the Limitation Act 1980 (“the 1980 Act”) helpful (British Coal Corporation v Keeble [1997] IRLR 336 EAT; the EAT (presided over by Holland J) on an earlier appeal in that case had suggested this, and Smith J (as she then was) recorded, at paragraph 8 of her Judgment, that nobody had suggested that this was wrong. This is not a requirement, however, and an ET will only err in law if it omits something significant: Afolabi v Southwark London Borough Council [2003] ICR 800; [2003] EWCA Civ 15, at paragraph 33.”
+
+33. This summary was cited, with approval, by HHJ Auerbach in Wells Cathedral School Ltd & Anor v Souter & Anor [2021] UKEAT 2020-000801. In that decision, HHJ Auerbach also noted at paragraph 30 that the point made about Keeble has since been restated by the Court of Appeal in Abertawe Bro Morgannwg University Health Board v Morgan [2018] ICR 1194 and in Adedeji v University Hospitals Birmingham NHS Foundation Trust [2021] EWCA Civ 23, and goes on to explain that what factors are relevant in the given case is case-sensitive, and so must be identified by the tribunal, case by case.
+
+34. As stated by Leggatt LJ (as he then was) in Morgan at paragraph 19, factors which are almost always relevant to consider when exercising any discretion whether to extend time are: (a) the length of, and reasons for, the delay and
+
+(b) whether the delay has prejudiced the respondent (for example, by preventing or inhibiting it from investigating the claim while matters were fresh).
+
+EQUALITY ACT EMPLOYER’S LIABILITY
+
+35. Section 109(1) EQA provides that anything done by a person (A) in the course of A's employment must be treated as also done by the employer. Section 109(3) EQA states that it does not matter whether that thing is done with the employer's or principal's knowledge or approval.
+
+36. This section was considered recently by the EAT in AB v Grafters Group Ltd (t/a CSI Catering Services International) [2025] EAT 126. Having considered the authorities, HHJ James Tayler set out a number of key points arising from consideration of section 109 EQA at [13]: “13.1. an employer is liable for "anything done" by an employee A in the course of A's employment: s109(1) EQA
+
+13.2 It is the alleged harasser, A, who must be acting in the course of employment:
+
+s109(1) EQA
+
+13.3 the term "course of employment" is not to be interpreted in accordance with the well-established meaning in law derived from the law of tort: Jones
+13.4 the words "in the course of employment" are used in the sense in which every layman would understand them: Jones
+13.5 anti-discrimination legislation should be given a broad interpretation: Jones
+13.6 the application of the phrase will be a question of fact for each Employment Tribunal to resolve, in the light of the circumstances presented to it, with a mind unclouded by any parallels sought to be drawn from the law of vicarious liability in tort: Jones
+13.7 because the determination of what is in the course of employment is essentially a question of fact for the Employment Tribunal, different decisions may be made in circumstances that appear similar:
+13.7.1 a sexual assault, committed by a male police officer against a female colleague at a police section house where she had a room when both were off-duty was found not to have been done in the course of employment: Waters
+13.7.2 a male police officer who sexually harassed a female colleague at a pub where officers had gathered socially after the conclusion of their duties was acting in the course of employment: Stubbs
+13.7.3 racial abuse by a white colleague at a family day out at a theme park was not done in the course of employment: Sidhu
+13.8 the above examples emphasise that the question of whether a "thing" was or was not done in the course of employment is very much one of fact to be determined by the Employment Tribunal having regard to all the relevant circumstances: Forbes
+13.9 while it is not possible or even desirable to lay down any hard and fast guidance some factors will generally be relevant such as whether the impugned act was done at work or outside of work: Forbes
+13.10 if the "thing" was done outside of work the Employment Tribunal should consider whether there is nevertheless a sufficient "nexus or connection with work" such as to render it in the course of employment: Forbes. The Employment Tribunal may need to consider whether the circumstances are such as to make the situation an "extension of work and the workplace": Stubbs
+13.11 the "thing" may be done in the course of employment although it was not done at the workplace, or in working hours, if there is a sufficient "nexus or connection with work" such as when the situation is an "extension of work and the workplace"
+13.12 whether the "thing" is done with the employer's or principal's knowledge or approval "does not matter": section 109(3) EQA
+13.13 a decision by an Employment Tribunal as to whether an act was done in the course of employment can only be challenged if there is a material misdirection as to the law, the decision is perverse in the sense that it falls outside the very wide ambit within which different views might reasonably have been taken about what is done in the course of employment, or the Employment Tribunal has demonstrably failed to take account of an important relevant factor or taken into account an irrelevant factor.”
+
+37. Section 109(4) EQA provides an employer with a potential defence: “In proceedings against A's employer (B) in respect of anything alleged to have been done by A in the course of A's employment it is a defence for B to show that B took all reasonable steps to prevent A—
+
+(a) from doing that thing, or
+(b) from doing anything of that description.”
+
+38. The burden of proving the defence is on the employer. The EHRC Employment Statutory Code of Practice provides the following example at paragraph 10.50: “An employer ensures that all their workers are aware of their policy on harassment, and that harassment of workers related to any of the protected characteristics is unacceptable and will lead to disciplinary action. They also ensure that managers receive training in applying this policy. Following implementation of the policy, an employee makes anti-Semitic comments to a Jewish colleague, who is humiliated and offended by the comments. The employer then takes disciplinary action against the employee. In these circumstances the employer may avoid liability because their actions are likely to show that they took all reasonable steps to prevent the unlawful act.”
+
+39. It goes on to list what reasonable steps might include at paragraph 10.52: “• implementing an equality policy;
+
+• ensuring workers are aware of the policy;
+• providing equal opportunities training;
+• reviewing the equality policy as appropriate; and
+• dealing effectively with employee complaints.”
+
+WRONGFUL DISMISSAL
+
+40. An employee has an entitlement under section 86(1) ERA to a minimum period of notice of termination depending on their length of service. For an employee with more than one month but less than two years’ service, this minimum period is one week. The contract may provide for a longer period.
+
+41. An employee is not entitled to notice of termination if they have fundamentally breached the employment contract, e.g. if the contract is terminated because the employee is guilty of gross misconduct. It is not enough for the employer to show (as for unfair dismissal) that it reasonably believed that the employee committed gross misconduct, but that the misconduct was actually committed (British Heart Foundation v Roy UKEAT/0049/15).
+
+FAILURE TO PAY HOLIDAY PAY
+
+42. A worker has an entitlement under the WTR to a minimum of 5.6 weeks annual leave per year (pro rated). The worker’s contract may supplement this. A payment in lieu may be made in respect of unused holiday when the employment relationship is terminated.
+
+The evidence: general comments
+
+43. The role of the Tribunal is to consider all of the evidence, and the documentary materials we have been referred to, and form a view as to what is most likely to be the true position on the balance of probabilities. It is important to say that, simply because we may disbelieve the evidence of a witness on a particular point, does not mean that we consider they are deliberately seeking to mislead – nor does it mean we must automatically disbelieve them on other points. Ultimately, we have to weigh up all the evidence on all different points and assess it on its merits.
+
+44. Oral evidence was heard from the claimant (through the Tamil interpreter) and two other witnesses on his behalf: Rajeevan Ulakanathan (Rajeevan) (through the Tamil interpreter) and Mohamed Fawsan Sulaiman (Fawsan); as well as two witnesses on behalf of the Respondent: John Smith and Martyn Moore. Both parties made some submissions about the credibility of the other side’s witnesses, so it is appropriate to make some general comments as to the evidence given by the witnesses.
+
+45. On the respondent’s side, there was no evidence from the alleged main protagonist, Kajan Theiventhiram (Kajan), who left the business in November 2023. What was before the Tribunal were translated transcripts of certain recordings made of Kajan speaking to other people, including the claimant. There was some dispute over the full content of these transcripts, but taking the respondent’s position at its highest, its own transcripts of two conversations Kajan had with Rajeevan demonstrate Kajan expressing in highly offensive and inappropriate terms prejudicial views against Indian Tamils, referring to Indians as thieves or fraudsters and making specific reference to the claimant as a liar in this context. This is very relevant evidence as to Kajan’s attitudes and the likelihood of him having said and done certain things that the claimant has alleged.
+
+46. Neither Mr Smith nor Mr Moore, who did testify for the respondent, could give any relevant evidence in respect of the allegations against Kajan, not least because neither conducted any real investigation of the issues the claimant raised in his grievances. However, their evidence did support that Kajan had displayed problematic behaviours, in that Mr Smith acknowledged he needed to be moved out of the West Wickham restaurant and Mr Moore volunteered in evidence that Kajan had sought reemployment with the respondent, but this had been refused. We would also observe that, in our view, both Mr Smith and Mr Moore tended to avoid accepting responsibility, with Mr Smith repeatedly relying on the fact he had taken HR advice (from an individual who has since left the organisation) and Mr Moore relying on the fact he arrived only after the claimant had already left and couldn’t comment on his predecessor’s actions (or lack thereof). Nor did Mr Moore go out of his way to dig into what had been done before his time – as amply demonstrated by his approach to completing the ET3 response form, where he accepted in evidence that many of the points made were based on his assumptions rather than on him having actually investigated the position and asked internally for relevant documents.
+
+47. As regards the claimant’s witnesses, we found them generally credible and honest. Rajeevan fairly accepted he has a vested interest given his own claim against the respondent, and we bear that in mind when considering his evidence. Fawsan had no axe to grind with the respondent and had, at the time, been a friend of Kajan, so we consider his evidence to be reliable. Whilst there have been some instances of shifts in what the claimant has said over time, we considered none of these undermined the core credibility and honesty of his evidence and are more reflective of language barriers which affected his ability to fully and properly express his concerns at different times.
+
+Findings of fact
+
+48. The relevant facts are, we find, as follows. We have only made findings of fact necessary for the disposal of the live issues in this case. We have not referred to every document we have read and/or were taken to during the hearing, but we have considered all such documents. We have not considered documents that were not referred to in the written or oral evidence or in submissions.
+
+49. The respondent is a franchisee for KFC and runs several outlets, including the drive-through restaurant at 206 High St, West Wickham.
+
+50. The claimant is from the Tamil Nadu state of India, a region in which Tamil is widely spoken. Tamil is the claimant’s native language.
+
+51. The claimant commenced employment with the respondent as a team member at the West Wickham outlet on 13 January 2023. He reported to the restaurant manager, Kajan, who had interviewed him for the role. Kajan is from a region of Sri Lanka in which Tamil is also widely spoken. Tamil is Kajan’s native language. There were a number of other Sri Lankan Tamils in the restaurant, including the assistant manager Rajeevan.
+
+52. On 14 January 2023, Kajan asked the claimant to sign a contract of employment. The claimant’s evidence, which we accept, is that he was not given a proper opportunity to review the contents of the contract but rather was requested by Kajan to add his name and address and sign the document and leave the rest to him. Rajeevan gave corroborative evidence that this was Kajan’s usual practice. The claimant did as asked. He was not provided with a copy of the signed completed contract, which was instead retained by Kajan himself. Moreover, as is clear on the face of the document provided to the Tribunal, Kajan did not go on to complete any of the key details such as the normal hours of work or rate of pay, nor correct the erroneous identification of the place of work. The document was, as Mr Moore fairly accepted in his evidence, “a shambles”. At this stage, the claimant had no idea of any employment rights or contractual rights in respect of hours of work.
+
+53. The records in the papers before the Tribunal indicate that from 14-31 January 2023, the claimant worked a total of 117.75 hours, that being an average of 46 hours per week. From 1-26 February 2023, the claimant worked a total of 185 hours, that being an average of 50 hours per week. From 1-19 March 2023, the claimant worked a total of 161.5 hours, that being an average of 59.5 hours per week.
+
+54. We accept the claimant’s evidence that, on 21 March 2023, he made a request for annual leave to Kajan. The claimant had a statutory leave entitlement to 5.6 weeks leave per year (the contractual terms he signed provided for the same). It is entirely credible that, having been in employment for over 2 months by this time without a break, the claimant would have been exploring the possibility of leave at around that time. The request for leave was made verbally. It was refused.
+
+55. It is alleged by the claimant that, later that day, he overheard Kajan saying to Rajeevan that he would prioritise the leave request of Sri Lankan Tamils over the claimant and that though “this shit” (i.e. the claimant) needs holiday, he would not give leave to “this slave”. He raised this specific allegation in his grievance of 29 September 2023 (but not in his grievance of 5 August 2023). Rajeevan gave corroborative evidence in his oral testimony. On balance, we accept the evidence that this remark was made by Kajan and was overheard by the claimant as alleged. The claimant was, we find, upset and humiliated by being referred to in these terms by his manager. We further find that the refusal of the claimant’s leave request by Kajan was significantly influenced by the claimant’s race, as the remark indicates. The remark itself was also significantly influenced by the claimant’s race, as is self-evident. It is a remark that is consistent with the discriminatory language and racial prejudice held by Kajan towards Indian people as evidenced in the respondent’s own transcripts of other conversations Kajan had with Rajeevan which were covertly recorded, as already referred to. There can be no doubt, and we find, that the refusal of the leave request and the making of the remark were both done in the course of Kajan’s employment.
+
+56. The claimant continued to work as a team member. The records in the papers before the Tribunal indicate that from 21-31 March 2023, the claimant worked a total of 90.75 hours, that being an average of 58 hours per week. From 1- 30 April 2023, the claimant worked a total of 222 hours, that being an average of 52 hours per week. From 1-31 May 2023, the claimant worked a total of 230.25 hours, that being an average of 52 hours per week. From 1-30 June 2023, the claimant worked a total of 231.25 hours, that being an average of 54 hours per week. From 1-23 July 2023, the claimant worked a total of 247 hours, that being an average of 75 hours per week.
+
+57. These figures support that the claimant was consistently working in excess of 45 hours per week from February 2023 onwards, and that in the first two- thirds of July 2023 he was working very far in excess of that threshold. The claimant’s evidence is that he was being forced against his will to work these excessive hours by Kajan and that Kajan would ignore or react angrily / with threats to any attempts by the claimant to limit his working hours. We accept this evidence, which is consistent with Kajan racially prejudiced attitude toward the claimant as evidenced in the respondent’s own transcripts of conversations Kajan had with Rajeevan as already referred to. We also accept that Kajan did this with the purpose of violating the claimant’s dignity – he was essentially treating the claimant as “a slave” because of his racial prejudice against Indian Tamils. In any event, we accept that it had that effect upon the claimant.
+
+58. Matters came to a head in the final week of July 2023. We accept the claimant’s account that Kajan attempted to rota the claimant to work in excess of 89 hours and the claimant refused (in fact, as the records show, he worked only 47.75 hours that week).
+
+59. In the early hours of 31 July 2023, the claimant emailed notice of his resignation. We accept the claimant’s evidence that he did so because of Kajan’s persistent efforts to make him excessive hours. That is consistent with the request made in the resignation email that during his notice period “my working hours be strictly limited to 45 hours per week, as specified in my contract”. By this point, the claimant had been made aware of the contractual provision of a 45-hour week by colleagues. The claimant’s email gave 2 weeks’ notice; in other words, he was giving notice to terminate his employment on 14 August 2023.
+
+60. There was a series of phone calls involving the claimant, Kajan and other colleagues on the evening of 1 August 2023. We accept the evidence of Fawsan, who was present on each of the calls, as to what happened.
+
+61. On the first call, Fawsan and another colleague Anojan spoke with Kajan. In that call Kajan expressed that he was upset at the content of claimant’s resignation email, which he felt was raising issues against him to his manager, Mr Smith. He was insistent that Fawsan speak to the claimant to send a new email saying he was resigning only for personal reasons. Fawsan agreed to speak to the claimant.
+
+62. The second call was initially between Fawsan, Anojan and the claimant. In this call, Anojan and Fawsan sought to persuade the claimant to send a new resignation email that “didn’t create noise”. Fawsan accepted in his evidence that this was not appropriate for him to do this, but that he feared retaliation from Kajan if he did not do so.
+
+63. At a later stage, Kajan joined the call. It is the claimant’s case that once he did so, Kajan was racially abusive and threatening towards the claimant. Fawsan gave evidence that corroborated this account. We were also provided with a translated transcript of part of this call, which a friend of the claimant had video recorded, which is consistent with the witness evidence. We accept the evidence of the claimant and Fawsan. This racial abuse from a manager had, we find, the purpose and the effect of violating the claimant’s dignity.
+
+64. A question arises as to whether Kajan was acting in the course of employment in this call. It is common ground that Kajan had been drinking at the time and that this was outside of work hours. Mr Smith accepted in evidence that there was a drinking culture involving Kajan and a clique of his colleagues, which was of concern to him. However, the substance of the call was about the claimant’s resignation and Kajan being aggrieved about the possibility of there being consequences for him resulting from issues the claimant had raised. There is a clear nexus or connection with work, and we therefore find Kajan was acting in the course of employment.
+
+65. Following his resignation, there were two incidents of the claimant leaving before the end of his shift, on 2 August 2023 and 5 August 2023. The claimant alleges that the shift leader, acting on Kajan’s instructions, sought to assign him to kitchen duties for which he was not assigned on the rota, he refused, and on both occasions he was told to leave the store. On the second occasion, the claimant alleges he was told to leave and not return until further notice. Mr Smith in his oral evidence suggested, for the first time, that he had been given a different account, which was that the claimant had himself walked out of shift. We prefer the claimant’s evidence on these matters. The shift leader has left the business, has not provided any evidence in the case, and there is no record of any interview with her about the incidents in question.
+
+66. It is common ground that the claimant’s effective date of termination was 5 August 2023 – he never returned to work after that date.
+
+67. On 5 August 2023 after leaving work, the claimant emailed the Area Coach, Mr Smith, the Operations Manager, Waqar, and the HR Manager, Ben Ward, with what he described as an “Urgent Complaint regarding Manager Kajan – Request for Immediate Resolution”. The email reported the claimant’s version of the events of 1 August 2023, 2 August 2023 and earlier on 5 August 2023. He also raised concerns about Kajan imposing excessive working hours and referring to the claimant as a “slave”, as well as other matters. He asked for a “comprehensive and transparent investigation” into the allegations he raised.
+
+68. Mr Smith responded on 7 August 2023. The tone of the response was terse, bordering on hostile. He immediately dismissed certain of the claimant’s complaints as being “of no relevance to you”. In respect of the telephone conversation of 1 August 2023, he indicated that the claimant’s reliance on a covert recording of that conversation “will be a breach of company policy and may lead to disciplinary”. A threat of possible disciplinary proceedings is obviously detrimental to the claimant. It is right to say no disciplinary proceedings did follow, but Mr Smith nevertheless never allowed the claimant to rely on the recording in the grievance proceedings. We infer from the tone and content of the email that Mr Smith was not pleased with the claimant having made these complaints, and it was clear in Mr Smith’s oral evidence that he regarded the claimant’s allegations as “stone-throwing” and isolated allegations, indicating his scepticism as to their truth. This, we find, is why he responded to the claimant in the way he did.
+
+69. A grievance meeting took place on 11 August 2023, chaired by Mr Smith and attended by the claimant with a colleague to assist and interpret for him. The notes indicate the claimant was invited to give further details about his allegations. At the end of the meeting Mr Smith reiterated a point he had already made on email in advance, that in accordance with employee confidentiality, the claimant would be given no visibility of the internal investigation nor of the outcome of the process. That was contrary to both the respondent’s own grievance procedure and the ACAS Code of Practice on disciplinary and grievance procedures.
+
+70. Mr Smith asserted in his evidence that following the meeting he began investigating the issues and gathering evidence. When questioned about this, it became evident that he had not conducted any meaningful investigation and no interviews of witnesses. He said that his priority was to remove Kajan from the West Wickham restaurant to another store in order to allow staff at West Wickham to speak freely. We do not accept that evidence. There is no documentary evidence of anything being done with Kajan until the time of his resignation in late October 2023. Even after Kajan was moved during his notice period, no one was interviewed.
+
+71. On 7 September 2023 the claimant raised a query with the respondent’s payroll department regarding his holiday pay. He was of the view that his full outstanding entitlement had not been paid. Payroll explained their calculation, which was premised on the basis that the annual leave year ran from April 2023 to March 2024 and therefore the claimant was not entitled to any holiday pay in respect of leave accrued prior to 1 April 2023.
+
+72. At some point during September 2023, the claimant received from Rajeevan copies of the covert recordings Rajeevan had taken of two phone calls he had had with Kajan, on 19 July 2023 and 1 August 2023 respectively. We have referred to the content of these calls earlier. Unsurprisingly, the claimant found the content highly upsetting and grossly offensive, given that it was derogatory towards Indian Tamils and towards himself specifically.
+
+73. On 29 September 2023, the claimant sent a letter by email to one of the directors of the respondent, Anwar Bashir, raising various issues about his experiences during his employment. He specifically raised issues around refusal of holiday leave, the “slave” remark on 21 March 2023, the circumstances of his resignation due to having to work excessive hours, the call on 1 August 2023, and the content of the recordings he had obtained from Rajeevan. He also referred to his earlier grievance letter and meeting and noted that he had heard nothing since 11 August 2023. He requested that Mr Bashir “look into the issues going on in your kfc” and requested that the organisation “take appropriate steps”.
+
+74. Mr Bashir forward the letter and attachments to Mr Moore, the HR Manager who had replaced Mr Ward in late August 2023. Mr Moore emailed the claimant on 4 October 2023 to say he was investigating, that because the claimant was no longer an employee, he could not provide further information, but asked what kind of resolution the claimant was seeking. The claimant did not respond, and Mr Moore sent a further response on 11 October 2023. In that email he stated that he would continue to manage the case internally and would provide no further updates to the claimant.
+
+75. The claimant did then respond on 12 October 2023 expressing disappointment at the apparent lack of effort made by the respondent to investigate the issues. Mr Moore responded refuting that, asserting that his allegations were being taken seriously and not “brushed under the carpet”. In fact, as we have found, no real effort had been made to investigate the issues, and Mr Moore accepted in his own evidence that he himself had no awareness of what had been done at all at this time. Therefore, at best, the third paragraph of Mr Moore’s email was misleading.
+
+76. In fact, no real investigation was undertaken of the claimant’s allegations after these emails. All that was done was that Mr Moore organised for transcription and translation of the call recordings that the claimant had provided. Mr Moore acknowledged in evidence that, once Kajan had left the business by the end of November 2023, the respondent decided to take no further action. Notably, Mr Moore did not personally gather together any of the relevant documents from the claimant’s earlier grievance, even when he came to complete the ET3 response form in February 2024 (the claimant having presented his claim on 13 December 2023).
+
+Application of the law to the facts
+
+77. We address the issues in the order set out in the LOI.
+
+Issues 1 & 2: unfair dismissal
+
+78. Issues 1 & 2 have to be considered together because, as the claimant did not have 2 years’ continuous service at the time of his dismissal, his complaint of unfair dismissal can only succeed if the reason for dismissal (or reason for the fundamental breach of contract in response to which the claimant resigned) is an automatically unfair reason.
+
+79. There are two possible dismissals to consider here. First is the resignation said to be a constructive dismissal on 31 July 2023. Second is the summary dismissal on 5 August 2023.
+
+80. Our factual finding as to the reason the claimant resigned on 31 July 2023 is that he did so because he had repeatedly been forced to work excessive hours, and we accept that is a fundamental breach of his employment contract that he resigned in response to. We have also found that the reason he was being forced to work excessive hours that he did not wish to work (i.e. the reason for the breach) was due to Kajan’s targeting of him relating to his race. The reason, therefore, was not one falling within the scope of section 101A ERA 1996 and therefore the claim for automatic unfair dismissal cannot succeed in law – though, on our findings, we will need to consider it as a potential act of harassment related to race (as we shall do later).
+
+81. In terms of the summary dismissal on 5 August 2023, this was not because of a refusal to work excessive hours, but was concerned with the particular tasks the claimant was being asked to do that day and his refusal to do so. Again, this does not engage s.101A ERA 1996.
+
+82. The complaint of automatic unfair dismissal is not well-founded and is dismissed.
+
+Issue 4: wrongful dismissal
+
+83. We have found as a fact that the claimant was summarily dismissed on 5 August 2023 whilst serving out his notice which was due to run to 14 August 2023. He had a statutory right to one week’s notice and was not paid in respect of that notice period. It was not asserted by the respondent that the claimant had done anything to entitle it to dismiss the claimant without notice.
+
+84. The claimant was, therefore, wrongfully dismissed and is entitled to be paid 1 week’s pay in lieu of notice.
+
+Issue 5: direct race discrimination
+
+85. We have found on the facts that the claimant was subjected to the less favourable treatments identified at 5.1.1 and 5.1.2 of the List of Issues – his holiday request was refused because he was Indian and Kajan wished to prioritise requests from Sri Lankan Tamil colleagues, and he was referred to as a “shit” and a “slave” which is self-evidently less favourable treatment because of his race. Kajan was acting in the course of employment when he carried out these acts.
+
+86. The respondent raises a defence that it took all reasonable steps to prevent Kajan from doing things like this. However, there is no evidence at all of what steps were taken (e.g. by training, guidance, workplace notices etc) by the respondent in respect of Kajan or any other employee. The respondent has failed to meet the burden upon it and therefore this defence fails - there is no basis upon which we could conclude all reasonable steps were taken.
+
+87. It is also necessary, as a matter of jurisdiction, to consider time limits in respect of these allegations – both occurred on 21 March 2023 which is more than 3 months prior to the claimant commencing ACAS Early Conciliation. However, in the judgement of the Tribunal, taking account of our full factual findings, these incidents formed part of a continuing state of affairs amounting to discrimination in the sense described in Hendricks. This conduct extended up to and beyond the claimant’s dismissal and, therefore, all acts are in time by the application of section 123(3)(a) EQA.
+
+88. The complaints of direct race discrimination are well-founded and succeed.
+
+Issue 6: harassment related to race
+
+89. We have found on the facts that the language identified in 6.1.1, 6.1.2, 6.1.3 and 6.1.5 of the LOI was used by Kajan in conversations with Rajeevan which were either recorded and later provided to the claimant or were overheard by the claimant. Plainly this is unwanted conduct relating to race given the language is derogatory toward the claimant and those of his nationality. The context of the remarks makes clear they were made in the course of employment. We have also accepted that, when becoming aware of these remarks, they were highly upsetting and grossly offensive to the claimant and we accept they had the purpose and effect of violating his dignity and creating a hostile, degrading, humiliating, offensive or intimidating environment for the claimant. Regarding 6.1.5, we have addressed the issue of time limits already under issue 5.
+
+90. As regards 6.1.4 of the LOI, we have also found on the facts that Kajan did force the claimant to work excessive hours that the claimant did not want to do from February 2023 onwards, particularly in July 2023, and that he did so because of his prejudice against the claimant and people of his nationality. This was plainly done by Kajan in the course of his employment. We have also accepted that this had the purpose and effect of violating the claimant’s dignity and creating a hostile, degrading, humiliating, offensive or intimidating environment for the claimant.
+
+91. We have referred above to the reasons for the claimant’s resignation. We find that the resignation amounted to a constructive dismissal, and that this related to the claimant’s race (because that was the reason why the claimant was being made to work excessive hours). Accordingly, the constructive dismissal is an act of harassment related to race on the same basis as for 6.1.4.
+
+92. The racial abuse from Kajan towards the claimant in the 1 August 2023 call is also relied upon as an act of harassment related to race (6.1.7 of the LOI). We have found on the facts that this did occur, that it was unwanted conduct relating to race, had the purpose and effect of violating the claimant’s dignity, and that Kajan was acting in the course of his employment when he said what he said.
+
+93. Accordingly, each of the above are, we find, acts of harassment related to race. The respondent’s reasonable steps defence fails for the same reasons already set out. The complaints of harassment related to race are well- founded and succeed.
+
+Issue 7: victimisation
+
+94. We have found on the facts that Mr Smith’s email of 7 August 2023 was terse, bordering on hostile. It was dismissive of the claimant’s concerns and went so far as to suggest a possibility of disciplinary action against him. We are satisfied that Mr Smith adopted this approach because the claimant had done a protected act, i.e. making allegations of discrimination and harassment against Kajan in his email of 5 August 2023. It is plainly detrimental to threatened with disciplinary action (even if that action does not actually follow) and the entire email belies a lack of sympathy for the issues the claimant was raising. We therefore find that this email was an act of victimisation. The respondent’s reasonable steps defence fails for the same reasons already set out. This complaint of victimisation is well-founded and succeeds.
+
+95. More generally, and in respect of Mr Moore’s responses to the 29 September 2023 grievance, our findings are that the respondent certainly did fail to properly investigate or provide an outcome to either of the claimant’s grievances. However, we are not satisfied that these were acts of victimisation, i.e. that that was a malicious reaction to the claimant having raised a complaint at all. Rather, it displayed a lack of care and interest on the part of the respondent in investigating the issues. That may be relevant at the remedy stage when considering the appropriate compensation to award for the acts of discrimination and harassment that the claimant suffered (and that were the subject of his grievances), but do not provide standalone acts of victimisation. Accordingly, save as set out in the previous paragraph, the complaints of victimisation are not well-founded and are dismissed.
+
+Issue 9: holiday pay
+
+96. The respondent conceded in its closing submissions that the claimant was underpaid his holiday pay, and this complaint therefore succeeds. The sum payable will need to be quantified in the remedy stage. Issue 10: failure to provide written particulars of employment
+
+97. We have found as a fact that the claimant was not provided with a copy of his written particulars of employment when he signed them, or until disclosure in these proceedings. The contract produced in these proceedings does not meet the statutory requirements anyway, as it is missing certain key information. Accordingly, the respondent was in breach of its duty to the claimant under section 1(1) ERA to provide a written statement of particulars of employment at the time this claim was commenced. The claimant is entitled to an award under s.38 EA.

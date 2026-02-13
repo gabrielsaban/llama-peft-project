@@ -1,0 +1,491 @@
+JUDGMENT
+
+It is the Judgment of the Tribunal that:
+
+1. The Claimant’s claim of constructive unfair dismissal, pursuant to s95 Employment Rights Act 1996 succeeds and is upheld.
+
+2. The Claimant’s claims of disability discrimination, namely a
+
+failure to make reasonable adjustments, pursuant to s20-21
+
+Equality Act 2010 succeeds and is upheld.
+
+3. The Claimant’s claim of breach of contract (related to mileage) is dismissed on withdrawal by the Claimant.
+
+4. The Claimant’s claim of harassment related to race, pursuant to s26 Equality Act 2010 fails and is dismissed.
+
+5. The Claimant’s claim of direct race discrimination, pursuant to s13 Equality Act 2010 fails and is dismissed.
+
+6. The Claimant’s claim of unlawful deductions from wages, pursuant to s13 of the Employment Rights Act 2010, fails and is dismissed.
+
+7. Further case management directions will be provided for the
+
+determination of remedy on the claims of unconstructive
+
+dismissal and failure to make reasonable adjustments.
+
+REASONS
+
+[1] Introduction
+
+1. The Claimant describes her ethnicity as Mixed-Race heritage, Black Caribbean and White British [MB55]1.
+
+2. The Respondent is a provider of NHS ambulance services to a population of approximately 5.6 million people, covering an area of more than 5000 square miles. It employs approximately 7000 staff supported by approximately 1000 volunteers. It responds to around 4000 999 calls each day.
+
+3. Employment Judge Meichen recorded at a Case Management Discussion on 24th February 2025 [94]2 the parties agreement that at all material times (January 2018 to October 2023) the Claimant was disabled by the physical impairments of endometriosis and adenomyosis. The Respondent had knowledge of the Claimant’s disabilities from 15th January 2018, following receipt of an Occupational Health report, on that date [259].
+
+4. On 11th January 2011 the Claimant joined the Respondent as a student paramedic. On 9th September 2013 the Claimant commenced employment as a Graduate Paramedic. In April 2015 the Claimant was promoted to Advanced Paramedic, band 6, a solo first responder in a car. On 2nd July 2017 the Claimant was appointed to the role of Clinical Team Mentor, band 6. On 4th January 2022 the Claimant was seconded into the Clinical Validation Team. The Claimant gave notice of her intention to resign from her employment on 6th July 2023 [470], effective from 6th October 2023.
+
+5. On 11th October 2023 the Claimant notified ACAS of a dispute with the Respondent. She received her Early Conciliation Certificate on 8th November 1 Initials and numbers in square brackets refer to a paragraph number within a witnesses’ witness statement. 2 Numbers in square brackets refer to numbers in the trial bundle. 2023 [14]. By a Claim Form dated 8th December 2023 [15] the Claimant
+
+presented the following claims:
+
+5.1 Constructive Unfair Dismissal (s95 ERA);
+5.2 Harassment Related to Race (s26 EqA);
+5.3 Direct Race Discrimination (s13 EqA);
+5.4 Disability Discrimination: failure to make reasonable adjustments (s20-21 EqA).
+5.5 Unlawful deductions from wages (s13 ERA); and,
+5.6 Breach of Contract.
+
+6. The Respondent submitted an ET3 Response Form [35] and Grounds of Resistance [44] which denied all of the Claimant’s claims. The matter was case managed on three occasions by Employment Judge Kelly on 7th October 2024 [38], Employment Judge Meichen on 24th February 2025 [94] and Employment Judge Broughton on 12th August 2025 [104]. Judge Broughton identified and set out the List of Issues for determination at the final hearing [109]. During the course of the hearing the parties reached an agreement on the breach of contract claim, which related to unpaid mileage expenses. Accordingly the Claimant withdrew her breach of contract claim, and we dismissed it.
+
+[2] The List of Liability Issues
+
+7. The List of Issues (updated and re-ordered by us to reflect the issues at the start of the hearing) are set out in full in Annex A to this Judgment.
+
+[3] Procedural Developments
+
+8. The original panel composition for this hearing was Employment Judge Maxwell and Tribunal Members Keene and Stanley. Judge Maxwell conducted the initial housekeeping and commenced reading into the case on Monday 13th October 2025. Unfortunately due to unforeseen personal reasons Judge Maxwell was unable to continue. With the consent of the parties I was able to read into the case and take over from Judge Maxwell, commencing the hearing on Wednesday 15th October 2025.
+
+[4] The Evidence
+
+9. We were provided with an agreed joint trial bundle which ran to 1046 pages and an Opening Note prepared by the Respondent’s representative. In addition we were provided with an agreed supplementary bundle which ran to 9 pages. Over the course of the hearing a number of additional documents were added with the consent of both parties, taking the supplementary bundle to 58 pages. These additional documents included an email on the issue of placement funding for the ACP and the Respondent’s Clinician Home Working Policy.
+
+10. We were also provided with 5 witness statements. All witnesses gave their evidence in person under oath and were cross examined on that evidence. The
+
+witnesses were:
+
+10.1 Maya Black, the Claimant, a band 5 Clinical Validation Clinician;
+10.2 Victoria Whorton, IEUC Clinical Commander;
+10.3 Natasha Donnell, Clinical Duty Manager (known as Clinical Navigator at the time);
+10.4 Usha Banoomatee Ramnatsing, Learning and Development Manager; and,
+10.5 Stephanie Aitchison, Trainee Payroll and Pensions Manager.
+
+[5] Findings of Fact
+
+11. We have not recited every fact in this case or sought to resolve every dispute between the parties. We have limited our analysis to the facts that were relevant to the Issues that we were tasked to resolve. We made the following findings of fact on the basis of the material before us, taking into account contemporaneous documents, where they exist and the conduct of those concerned at the time. The Tribunal resolved such conflicts of evidence as arose on the balance of probabilities, taking into account its assessment of the credibility of the witnesses and the consistency of their evidence with the surrounding facts. Findings of fact related to a specific issue that we have been tasked to resolve are set out in our Conclusions section below.
+
+12. The key findings of fact are as follows:
+
+13. On 9th September 2013 the Claimant commenced employment with the Respondent as a Graduate Paramedic. On 12th April 2015 the Claimant was appointed to the role of Advanced Paramedic (Band 6), having been transferred to the Respondent’s Hollymoor site in January. On 2nd July 2017 the Claimant was appointed to the role of Clinical Team Mentor (Band 6).
+
+14. On 15th January 2018 the Respondent obtained the first of three Occupational Health reports on the Claimant’s health and welfare. The report noted: ‘Miss Black reported currently being in work but struggling. She has experienced debilitating gynaecology symptoms. She is currently self funding consultations and treatment via a private gynaecologist and they have diagnosed her with endometriosis and uterine adenomyosis.’
+
+15. The report made the following recommended adjustments to assist the Claimant in the workplace [260]: ‘In my opinion, Miss Black is fit for duty with recommendations due to her debilitating symptoms that require her to be near toilet facilities due to unpredictable heavy and prolonged menstrual bleeding, pain and discomfort.’
+
+16. Ms Black informed Tim Hughes of her diagnosis by email on 23rd January 2018. A follow up Occupational Health report dated 8th February 2018 confirmed the prior diagnosis and reported that she had suffered a Grand Mal seizure on 3rd February [263]. The third Occupational Health report on 30th April 2018 [267] advised that she was no longer fit to work as a Paramedic and recommended a move to a sedentary role on an 8 hour shift.
+
+17. On 19th August 2019 the Claimant emailed Tim Hughes to complain about bullying and harassment she had endured at the hands of Kay Alexander [888]. The complaint included an allegation of racist comments regarding the skin tone of babies and the Claimant’s hair style.
+
+18. On 20th August 2019 the Claimant attended a welfare review meeting with Tim Hughes, which focussed on the Claimant’s mental health [278]. On 18th November 2019 the Claimant self-certified herself as absent from work due to work related stress [283].
+
+19. On 5th June 2020 the Claimant raised complaint about racism at work to Anthony Marsh [907]. She said ‘I am a paramedic based at the Hollymoor Hub and I've had to deal with increased racism at work over recent years. Pamela Brown is aware. I previously did not believe racism was prevalent, however my eyes have been opened of late and I'm tired of it. I could give you numerous examples’. The Claimant met Mr Marsh on 12th June to discuss those concerns. On 30th June 2020 the Claimant complained that directly after her meeting on 12th June Mindy Jhamat said to her ‘I know you have mental health problems, would you like to leave Hollymoor?’ The Claimant said she was completely taken back by this statement and that she could not understand ‘the link between my childhood trauma and the institutional racism at work’ [910]. A meeting was held on 14th July 2020 to discuss her concerns of bullying and harassment at the hands of Melanie Fox [917].
+
+20. On 2nd July 2020 the Claimant commenced a period of sickness absence until 16th July. The fitnote stated ‘stress at work regarding racism’ [SupB8]. On 11th August 2020 the Claimant attended a welfare review meeting by telephone to discuss her absence [299]. On 25th August 2020 an Occupational Health report concluded that the Equality Act was likely to apply to the Claimant’s condition
+
+[302] stating ‘In my opinion, this legislation is likely to apply to Maya in relation to her gynaecological conditions of endometriosis and adenomyosis as they are ongoing and have the potential to substantially impact on her functional abilities’. The report recommended a return to sedentary duties [303]. In 2020 the Claimant returned to phased duties on 2nd September before returning on full operational duties on 14th September 2020 [305-306].
+
+21. On 7th October 2020 Mel Fox withdrew from a mediation process related to the Claimant’s race discrimination concerns [316]. On 1st December 2020 the Claimant attended a fact find interview into her discrimination concerns, which included staff reactions to the Black Lives Matter protests [946] and a formal investigatory interview on 16th December 2020 [948].
+
+22. On 29th December 2020 the Claimant made a flexible working request [943]. On 4th February 2021 the Claimant attended a welfare meeting to discuss her request to reduce the duration of shift, which was approved [330].
+
+23. On 18th January 2021 Jason Wiles was appointed to investigate and review the Claimant’s allegations [956]. On 16th April 2021 the Investigation closed due to a lack of response from Claimant [334]. On 3rd May 2021 the Claimant confirmed that she did not request an investigation and that as she was recovering from surgery her health was her priority [340]. Approximately a year then passed without further incident of note, save that on 20th August 2021 the Respondent adopted a Clinician Home Working Policy [SupB26] which would have allowed the Claimant to apply to work from home, and on 4th January 2022 the Claimant was selected for secondment to the Clinical Validation Team [348]. The Claimant referred to incidents of racism during the period 2019 to May 2021 as background to her race discrimination claim. The incidents during that period are not before us as Trial Issues.
+
+24. On 1st June 2022 Vickie Whorton emailed the IUC Clinical Advisors, the Clinical Support Desk and the Clinical Validation Team to inform them that she had received funding for the Advanced Clinical Practitioners (ACP) MSc qualification course, which was open to Band 7 clinicians only [999]. She invited expressions of interest (EOI) in the ACP course. In July 2022 the Claimant submitted her EOI for the ACP course. Vickie Whorton wrote to the Claimant to inform her that she had not been selected for a funded ACP place.
+
+25. On 5th July 2022 the Claimant asked for feedback as to why her EOI had been unsuccessful. She made the point that every EOI she had submitted had been refused, including auditing, V300 and pathways training requests [353]. Ms Whorton responded that day stating ‘I was told I had eight vacancies. I had an unprecedented amount of interest, as you can imagine. These were available to both CVT staff and 111 clinicians. Unfortunately, the majority of staff have been declined.’ [353]. In her witness statement, Ms Whorton relies on this reply as evidence that she told the Claimant that the reason for her non-selection for a funded ACP place was due to the Claimant’s audit failure [VW7] however, the exchange at [353] (quoted above) records that the Claimant had failed, but does not say why. Not surprisingly the Claimant did not accept that answer as sufficient and asked for the selection criteria [353]. She pressed again on 12th July, stating ‘In line with the equality I would like to know where my expression of interest fell short.’ [352]. The reference to ‘equality’ was, we conclude, an oblique reference to racial equality.
+
+26. Ms Whorton continued in her statement [VW7] ‘Upon further investigation, it became clear that the records were incorrect and Maya had not failed the audits’. The Claimant relies on not being given a funded ACP place as detrimental treatment and that the Respondent’s first explanation for that failure was incorrect. Ms Whorton continued in [VW8] ‘I asked Vicki Bignell to look at the audits for all the staff who emailed me with their expressions of interest, which she did. It wasn't until Maya questioned her failed audit that I went back to Vicki to check. Vicki apologised, confirmed that she had given me the incorrect information in error, which is why I then said I would put Maya on a course.’ Miss Whorton confirmed that she was only able to do this because a candidate originally offered a funded place on the ACP course had pulled out, thus releasing a funded place for the Claimant. Thus, on 19th July 2022 Ms Whorton sent a MSc application form to the Claimant [998 & 1019].
+
+27. On 18th August 2022 Usha Ramnatsing informed the Claimant that she had been successful in securing a funded place on the ACP course [356]. On 22nd August 2022 the Claimant was informed that the University had deferred all applications to the ACP course from September 2022 to commence in March 2023 [356].
+
+28. On 1st September 2022 the Claimant was appointed to the role of Validation Clinician (Band 7) in Clinical Validation Team [239]. The Claimant’s line manager was Natasha Donnell. Ms Donnell was a Clinical Duty Manager. At the material time that role was known as a Clinical Navigator. Due to the vagaries of the shift pattern system the Claimant and Ms Donnell might not be on the same shifts when a need arose for them to meet. On such occasions the Claimant would talk to another Clinical Navigator that was on shift at the time.
+
+29. On 14th November 2022 the Claimant confirmed that the University had received her application [368]. On 14th December 2022 the University confirmed the Claimant’s interview for 6 February 2023 for the ACP course [378]. On 14th February 2023 the Claimant was offered a place on ACP course starting March 2023 [444].
+
+30. On 27th February 2023 Occupational Health provided a new report on the Claimant [451]. It noted that the Claimant was fit to work with adjustments. The
+
+recommendations made were as follows [452]:
+
+‘Maya should be able to pace herself by taking regular breaks to rest and recuperate briefly as dictated by her symptoms, as well as her regular planned breaks. I would also suggest that management provide her with additional time to complete tasks. Micro rest breaks may also prove beneficial to allow her to step away from her work should any related symptoms occur. This will give her time to gain some rest time, to return to her work productively. I would recommend regular one to one management reviews to assess how she is coping in the workplace to ensure that the workload is manageable and achievable, to ensure the employee is not under excessive pressure and discuss coping strategies. Maya would benefit from being able to work from home when her symptoms have flared up or are severe, if feasible with management. This would allow Maya to manage her toilet duties on activities of daily living without having to book sick leave. A flexible approach to Maya’s work pattern would be advisable to allow her to self-manage her symptoms and to swap her shifts when her symptoms are severe … Additionally, I would advise management to complete a workplace stress risk assessment with Maya’.
+
+31. On 2nd March 2023 there was a meeting between Rose Poyner and the Claimant to discuss recommendations in the OH report. Ms Poyner was another Clinical Navigator, and we assume that Ms Poyner took the meeting because Ms Donnel was not on shift. We do not have minutes of the meeting, or evidence from Ms Poyner as to what was said. We do know that shortly after the meeting Ms Poyner emailed the Claimant’s line manager, Ms Donnell, and her line manager, Ms Whorton and the other Clinical Navigators. The subject header of the email was ‘Maya Black’ however it is clear that the Claimant was not copied into the email [457]. It said: ‘I have met with Maya this evening following her OH report being received. Maya has been struggling for quite some time with severe gynaecological symptoms and is due her 10th surgery. Maya’s sickness is often because she is in too much physical pain to move around properly or because she is bleeding so heavily. Maya is happy for me to share this information with you all, as her shifts overlap all navigators. I've spoken to Vicki and it has been agreed that if Maya is struggling with severe symptoms, she will be able to call in and move her shift to an alternative date as opposed to calling in sick. This will help manage her sickness more effectively. Maya may also need to take unplanned breaks if pain or bleeding is becoming unmanageable during shift. Due to the nature of the problem, the symptoms are worse every three weeks or so, and this is when she is likely to require additional support.’
+
+32. There is no evidence that Ms Poyner relayed back to the Claimant what she had told the Clinical Navigators. On this point the Claimant told us [MB47] that ‘I was completely unaware until disclosure of these proceedings of the email that Rose sent after the meeting to the Navigators, copied to Vickie Whorton’. We accept the Claimant’s evidence that she was never told of the adjustments that had been agreed. This is tantamount to no agreement on them being reached, and we accept the Claimant’s evidence at [MB46] that she ‘was never given the extra breaks, work from home, or shift flexibility between that conversation in March 2023 and her resignation effective in September that year’.
+
+33. The Claimant began her ACP course in March 2023. In order to complete it the Claimant was given two study days a week away from clinical practice. One was to be used in University and the other for placement. Every hour that the Claimant worked was meant to be recorded on the Respondent’s Global Rostering System (GRS). In theory the GRS should record all shifts the Claimant worked, all shifts that she missed due to ill health, all annual leave, overtime and all study leave. If she missed an 8 hour shift without proper reason the GRS would record that she owed the Trust 8 hours work. If she worked longer hours than she should (for example overtime) the GRS should record that the Trust owed her pay.
+
+34. The Claimant’s GRS record now shows Study Leave recorded on 4th and 5th April 2023, 11th-12th April, 18th-19th April [576], 25th-26th April, 1st-2nd May, 9th- 10th May [577], 16th-17th May, 23rd May, 30th-31st May and 6th June [578], 13th- 14th June, 26th June [579], 29th June, 3rd July, 12th-13th July, 19th July [580] and 24th July [581].
+
+35. On 17th May 2023 the Claimant emailed Ms Whorton and Ms Donnell to raise issue with her study leave not being recorded in GRS [463] stating ‘my student placement hours need to be added onto GRS again’. This indicates that this was not the first time that legitimate study hours had been missed from GRS. This is important because for each study hour not logged onto GRS, the system would record that the Claimant owed the Trust time, when in fact she did not. The Claimant followed this request with an email to Vicky Bignell on 19th May 2023 [461] again asking for her study leave hours to be added to GRS. On the same day Ms Whorton emailed the team to say that all requests for shift changes, moves or study leaves could only be authorised by either herself or Ms Bignell [462].
+
+36. The Claimant was not the only individual with concerns over inaccurate records being inputted and maintained on GRS. On 1st June 2023 Harry de Voil emailed Vicki Whorton to complain about the inaccurate recording of his hours [475- 476]. On 14th June 2023 Ms Whorton emailed Lynne O’Conner with a request that Harry De Voil’s GRS be updated. Mr De Voil chased for an update on 25th June 2023 [474]. The Claimant relies on the absence of a further complaint from Mr De Voil as evidence that his GRS concerns were corrected, or corrected more quickly than hers. The Claimant relies on Harry De Voil as an actual comparator in her direct race discrimination claim.
+
+37. On 6th July 2023 the Claimant submitted her resignation [470]. That email did not set out the actual reason why the Claimant had chosen to end her employment. The Claimant set out her reasons in an email sent that evening [471-472]. It did not raise complaints of race or disability discrimination. It said: ‘I email as the agreed Study Leave Rota has still not been applied to my GRS. I requested the rota pattern be amended to reflect leave for study and university placement on 23rd May, some 49 days ago. I have pursued the matter however I was copied into an email Lynne O’Conner sent to you yesterday asking if the changes could be made by the clinical navigators, I've checked my GRS and the agreed shift pattern has still not been applied. The university has been told by Matt Ward that all placement and study leave dates have been sorted. However, this is simply not true. I want to become an advanced clinical practitioner. The management of the ACP programme by WMAS has been chaotic and this approach is significantly impacted on my physical and mental well-being. I am constantly stressed and have been unable to focus on my studies as a result. My colleagues on the ACP course feel the same way. I cannot keep receiving calls from Clinical Navigators asking me where I am at 6:00am or live with the constant anxiety of not knowing if I will be able to attend my placement, a placement that was difficult to secure. Due to these factors, please see my attached resignation. It saddens me to end my career at WMAS, it has been almost 13 years since I started on placement as a student, however I cannot function like this for the next three years whilst I study. My GRS hours have been incorrect for two years due to errors. Martin Pugh, Victoria Bignell are aware, however it has never been addressed. Please could you arrange an urgent meeting in order to remedy any discrepancies in a timely manner?’
+
+38. On 25th July there was a meeting between Victoria Whorton and the Claimant to discuss her resignation [483]. Ms Whorton said that she was truly sorry to lose the Claimant from her team and apologised again that things hadn’t gone the way they should have. They had a further meeting on 1st August 2023 [485] at which the Claimant asserted that her sick leave hours were missing from GRS
+
+[487] and that her annual leave hours were lost, leading Ms Whorton to email Sue Barnes to check the Claimant’s annual leave and overtime.
+
+39. During the course of the hearing the Respondent accepted that the GRS system was only as good as the information on shifts, overtime, annual leave and study leave that was inputted into it by its staff. This was not a perfect system. For the year 2022/2023 UNISON filed a collective grievance in respect of GRS inaccuracies in the application and management of contracted hour shifts on GRS and a ‘lack of trust, transparency, confidence and the utilisation of the GRS system’. In its written final submissions3 the Respondent conceded ‘There were regrettable rota issues and a failing by the department specifically tasked with this to ensure GRS was up to date.’ Given that, on termination of employment, the Respondent relies on its GRS to reclaim payment for hours that it records have not been worked, we consider that the incorrect or inaccurate recording of hours, affecting pay as it does, and the delay in resolution, is capable of breaching the implied term of mutual trust and confidence that must exist between the Trust and its employees and that employers are entitled, once they identify an inaccuracy, to have it rectified promptly.
+
+40. On 8th August 2023 the Claimant commenced a period of sick leave [502]. The Claimant avers that Ms Whorton told her that funding for the ACP course had not been approved, when in fact it had. On 10th August the IEUC Clinical Teams Meeting took place [498]. The Claimant raised concerns at that meeting about the poor funding of placements, which, she asserts, she did because she had been told that funding had not been approved.
+
+41. On 11th August 2023 (post notice of resignation) the Claimant was sent a stress risk assessment to complete [504]. This was sent to the Claimant some 6 months after the Claimant’s Occupational Health report had made the recommendation that it be undertaken [453].
+
+42. As late as 7th September 2023 matters remained unresolved for the Claimant. She lodged a grievance on 7th September 2023 [528] which focussed on her salary claims. It did not raise complaints of race or disability discrimination. The Claimant asked that her grievance be resolved prior to the end of her notice
+
+3 At paragraph 35
+
+period. She identified that study leave had still not been added for 24th May or 7th June 2023. She referred to an outstanding mileage claim and noted that her overtime had been paid at the wrong rate equal to 3 hours unrecorded each week [529], totalling 65 hours. She asserted that her allocated annual leave had not been carried over.
+
+43. On 11th September the Claimant was provided with the Respondent’s calculation of her hours [574] with a revised final calculation provided on 15th September 2023 [714]. On 21st September 2023 the Claimant attended her grievance hearing [713]. An outcome on the Claimant’s grievance was issued by letter on 4th October 2023 [859]. It noted that the agreed termination date would be 6th October 2023, as per the Claimant’s wishes. In respect of the
+
+Claimant’s money claims the grievance:
+
+43.1 Upheld the Claimant’s mileage claim. Notwithstanding the grievance outcome, at the commencement of this hearing no mileage claim had been paid to the Claimant. During the course of the hearing the Claimant withdrew her mileage claim, on terms agreed with the Respondent;
+43.2 The grievance stated that the outstanding study days for 24th May and 7th June had now been processed;
+43.3 The underpayment of overtime was agreed, and the Claimant was assured that 65 hours would be changed to reflect time and a half;
+43.4 In respect of annual leave, it was conceded that there had been a delay in processing the Claimant’s annual leave. However it went on to conclude that no annual leave hours had been lost;
+43.5 The Claimant’s assertion of a missing shift was dismissed;
+43.6 Some, but not all, of the Claimant’s missing sick leave allocation was upheld.
+
+44. The Claimant’s last day in the Respondent’s employment was 6th October 2023, when her employment ended upon the expiry of an agreed notice period [852]. The Claimant asserted at [MB148] that her final pay slip [1036] recorded a deduction of £8,475.55 to correct an overpayment of salary that the GRS system said she owed. The Claimant asserts that the GRS system is error prone and cannot be relied on as an accurate record of a staff member’s shifts, study leave, annual leave and overtime.
+
+45. We turn now to the applicable law that guides us, in our deliberations.
+
+[6] The Law
+
+46. The law that is relevant to the Claimant’s claims is as follows:
+
+47. Time. All of the Claimant’s claims that are affected by time issues are Equality Act claims. Section 123 EqA sets out the position on the applicable time limits,
+
+as follows:
+
+123 Time limits
+
+(1) … proceedings on a complaint within section 120 may not be brought after the end of —
+
+(a) the period of 3 months starting with the date of the act to which the complaint relates, or
+(b) such other period as the employment tribunal thinks just and equitable.
+
+(3) For the purposes of this section—
+
+(a) conduct extending over a period is to be treated as done at the end of the period;
+(b) failure to do something is to be treated as occurring when the person in question decided on it.
+
+(4) In the absence of evidence to the contrary, a person (P) is to be taken to
+
+decide on failure to do something—
+
+(a) when P does an act inconsistent with doing it, or
+(b) if P does no inconsistent act, on the expiry of the period in which P might reasonably have been expected to do it.
+
+48. The statutory time limit test in discrimination cases is whether it would be just and equitable to extend the time limit to allow the claims to proceed. The onus lies on the Claimant to seek the exercise of the Tribunal’s discretion to extend the time limit. The Tribunal should consider all relevant factors including the balance of convenience and the chance of success: Rathakrishnan v Pizza Express (Restaurants) Ltd [2016] ICR 283, EAT.
+
+49. The list of factors set out in s33 Limitation Act 1980 may be of some use, as long as it is not used formulaically as a check list: Adedeji v University Hospitals Birmingham NHS Foundation Trust [2021] EWCA Civ 27. Those factors are:
+
+49.1 the length of, and the reasons for, the delay on the part of the Claimant;
+49.2 the extent to which, having regard to the delay, the evidence adduced or likely to be adduced by the Claimant or the Respondent is or is likely to be less cogent than if the action had been brought within the time limit:
+49.3 the conduct of the Respondent after the cause of action arose, including the extent of responses to requests reasonably made by the Claimant for information or inspection for the purpose of ascertaining facts which were or might be relevant to the case;
+49.4 the duration of any disability of the Claimant arising after the date of the accrual of the cause of action;
+49.5 the extent to which the Claimant acted promptly and reasonably once he/she knew of the act or omission of the Respondent;
+49.6 the steps, if any, taken by the Claimant to obtain legal or other expert advice and the nature of any such advice he/she may have received.
+
+50. It is possible to run together acts constituting different types of discrimination in order to establish conduct extending over a period, provided that as a matter of fact there is a connection between them: Robinson v Royal Surrey County Hospital NHS Foundation Trust [2014] UKEAT/0311/14. However, a Claimant may not run together discriminatory acts with others which are not discriminatory: South Western Ambulance Service NHS Foundation Trust v King [2020] IRLR 168, EAT.
+
+51. In Logo v Payone GMBH, Schrader & Boyens [2025] EAT 95 HHJ Taylor provided guidance on the just and equitable extension of time for detriment claims. In that case the Tribunal extended time for the complaints despite a substantial delay, on the grounds that the Respondent had either been able to adduce evidence and defend the complaints, or had admitted the facts behind the allegation, such that no prejudice to the Respondent could be established. HHJ Taylor noted that prejudice to the Claimant had been established in that an otherwise good claim that had been upheld would be dismissed on the time point alone.
+
+52. Constructive Dismissal. The statutory basis for constructive dismissal is set out in section 95(1)(c) of the Employment Rights Act 1996 (‘the ERA’) which
+
+states:
+
+’95 Circumstances in which an employee is dismissed.
+
+(1) For the purposes of this Part an employee is dismissed by his employer if:
+
+(c) the employee terminates the contract under which he is employed (with or without notice) in circumstances in which he is entitled to terminate it without notice by reason of the employer’s conduct.
+
+53. If the employer is guilty of conduct which is a significant breach going to the root of the contract of employment; or which shows that the employer no longer intends to be bound by one or more of the essential terms of the contract; then the employee is entitled to treat himself as discharged from any further performance: Western Excavating (EEC) Ltd v Sharp [1978] IRLR 27 CA. The employer shall not without reasonable and proper cause conduct itself in a manner calculated and/or likely to destroy or seriously damage the relationship of confidence and trust between employer and employee.
+
+54. The conduct relied on as the breach must, objectively, be likely to destroy or seriously damage the degree of trust and confidence the employee is reasonably entitled to have in his employer’ Mahmud v Bank of Credit and Commerce International SA [1997] IRLR 462 HL An employment tribunal will err in upholding a claim for constructive dismissal where it had failed to ask itself whether the employer had acted in a way which was calculated or likely to destroy or seriously damage the relationship: Tullett Prebon plc v BGC Brokers LP [2011] IRLR 420.
+
+55. The legal test is whether looking at all of the circumstances objectively, that is from the perspective of the innocent party, the contract breaker has clearly shown an intention to abandon and altogether refuse to perform the contract. In assessing the issue of repudiatory breach of contract the objectively assessed intention of the alleged contract-breaker towards the employees is of a paramount importance.
+
+56. The employee must be entitled to say ‘you have behaved so badly that I should not be expected to have to stay in your employment’ and the Tribunal must be prepared to conclude that overall that the faults of the employer were so egregious that no reasonable employer could have acted in that way: Claridge
+
+v. Daler Rowney Ltd [2008] IRLR 672, Elias P at paras 38 and 52. Conduct which is'so intolerable’ that it amounts to a repudiation of the contract will qualify. The Tribunal's function is to look at the employer's conduct as a whole and determine whether it is such that its effect, judged reasonably and sensibly, is such that the employee cannot be expected to put up with it: Woods v WM Care Services (Peterborough) Ltd [1981] ICR 666.
+
+57. The Claimant must resign in response to the breach (causation) and not delay too long in terminating the contract in response to the Respondent’s breach (waiver): BG v O'Brien [2001] IRLR 496. In respect of the causation question it is at least requisite that the employee should leave because of the breach of the employer’s relevant duty to him, and that this should demonstrably be the case. It is not sufficient if he leaves in circumstances which indicate some other ground for his leaving other than the breach of the employer’s obligation to him: Norwest Holst v Harrison [1984] IRLR 419.
+
+58. It is open to the employer to show that such a dismissal was for a potentially fair reason. If he does so, it will be for the Employment Tribunal to decide whether the dismissal for that reason, both substantively and procedurally, fell within a range of reasonable responses and was fair: Sainsbury v Hitt [2003] IRLR 23.
+
+59. Lawful conduct is unlikely to be capable of constituting a repudiation even though it may be unwise or unreasonable in industrial relations terms: Spafax Ltd v Harrison [1980] IRLR 442, CA. The activity of the Respondent, subject to the criticism, must be without cause or justification in order for it to constitute the relevant breach: BG v O'Brien [2001] IRLR 496. Employer conduct which is prima facie repudiatory will not breach the term of trust and respect if the employer has reasonable and proper cause for it: Hilton v Shiner Ltd [2001] IRLR 727, EAT. Delays in responding to a grievance can amount to a breach of the implied term of trust and confidence.
+
+60. A course of conduct by an employer can, when looked at as a whole, amount to a fundamental breach of contract even if the ‘last straw’ incident which prompts the employee to resign is not in itself a breach of contract: Lewis v Motorworld Garages Ltd [1986] 157 CA. For cases concerning the last straw doctrine, there are five questions to be posed:
+
+60.1 What was the most recent act (or omission) on the part of the employer which the employee says caused, or triggered, his or her resignation?
+60.2 Has he or she affirmed the contract since that act?
+60.3 If not, was that act (or omission) by itself a repudiatory breach of contract?
+60.4 If not, was it nevertheless a part (applying the approach explained in Omilaju) of a course of conduct comprising several acts and omissions which, viewed cumulatively, amounted to a (repudiatory) breach of the Malik term? If it was, there is no need for any separate consideration of a possible previous affirmation.
+60.5 Did the employee resign in response (or partly in response) to that breach?
+
+61. Harassment. Where the same incidents are relied on as both harassment related to race and race discrimination, the Equality Act directs Tribunals to determine whether unwanted conduct is capable of amounting to harassment, and if so, uphold that claim. If not, the Tribunal can then consider whether the same conduct was detrimental, for the purposes of a direct discrimination claim. This means that any single act cannot be both an act of harassment and an act of detriment.
+
+212 General Interpretation
+
+(5) Where this Act disapplies a prohibition on harassment in relation to a specified protected characteristic, the disapplication does not prevent conduct relating to that characteristic from amounting to a detriment for the purposes of discrimination within section 13 because of that characteristic.
+
+62. The Claimant asserts that she was subject to conduct that was related to her race which she found harassing. Turning to the statutory test for harassment
+
+that does apply, s26 EqA states:
+
+26 Harassment
+
+(1) A person (A) harasses another (B) if—
+
+(a) A engages in unwanted conduct related to a relevant protected characteristic, and
+(b) the conduct has the purpose or effect of—
+(i) violating B's dignity, or
+(ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B.
+
+(4) In deciding whether conduct has the effect referred to in subsection (1)(b), each of the following must be taken into account—
+
+(a) the perception of B;
+(b) the other circumstances of the case;
+(c) whether it is reasonable for the conduct to have that effect.
+
+(5) The relevant protected characteristics are … race, sex;
+
+63. Harassment related to race claims require 3 elements, namely (i) unwanted conduct; (ii) having the purpose or effect of either (a) violating the claimant's dignity; or (b) creating an adverse environment (as defined); (iii) which is related to the Claimant’s race (Richmond Pharmacology v Dhaliwal [2009] IRLR 336).
+
+64. In order to decide whether the conduct has either of the proscribed effects under sub-paragraph (1)(b) a Tribunal must consider both whether the putative victim perceives themselves to have suffered the effect in question and whether it was reasonable for the conduct to be regarded as having that effect (Reverend Canon Pemberton v Right Reverend Inwood, former acting Bishop of Southwell and Nottingham [2018] IRLR 542, CA).
+
+65. The requirement for the conduct to be ‘related to’ race or sex for harassment needs a broader enquiry than whether conduct is “because of race or religion” as is required for direct discrimination (Bakkali v Greater Manchester Buses (South) Limited UKEAT/0176/17).
+
+66. To constitute unlawful harassment the unwanted and offensive conduct must be ‘related to a relevant protected characteristic’. However offensive the conduct, it will not constitute harassment unless it is so related, and a tribunal that fails to engage with this point will err: London Borough of Haringey v O’Brien [2016] EAT 0004/16.
+
+67. In Tees Esk and Wear Valleys NHS Foundation Trust v Aslam [2020] IRLR 495, the EAT held that the question of whether conduct is ‘related to’ a protected characteristic is a matter for the appreciation of the Tribunal, making a finding of fact drawing on all the evidence before it. The fact that the complainant considers that the conduct related to a particular characteristic is not necessarily determinative, nor is a finding about the motivation of the alleged harasser. Nevertheless, in any given case there must still be some feature or features of the factual matrix identified by the Tribunal which properly leads it to the conclusion that the conduct in question is related to the particular characteristic in question, and in the manner alleged in the claim. The tribunal therefore needs to articulate distinctly and with sufficient clarity what feature or features of the evidence or facts found, have led it to the conclusion that the conduct is related to the characteristic. Section 26 EqA does not bite on conduct which, though it may be unwanted and have the proscribed purpose or effect, is not properly found for some identifiable reason also to have been related to the protected characteristic relied upon.
+
+68. In Logo v Payone GMBH, Schrader & Boyens [2025] EAT 95 HHJ Taylor observed that it was often helpful to break a harassment claim down into its constituent parts and notes one of them as ‘the conduct must be related to a relevant characteristic’. The Judge quoted from the Judgment of Slade J in Bakkali v Greater Manchester (South) t/a Stage Coach Manchester [2018] ICR 1481 ‘The change in the statutory ingredients of harassment requires more intense focus on the context of the offending words or behaviour. … A tribunal will determine the complaint on the material before it, including evidence of the context in which the conduct complained of took place’.
+
+69. As to whether the conduct had harassing effect, there are subjective considerations, the Claimant’s perception, and also objective considerations, whether it was reasonable for it to have that effect. The words of section 26(1)(b) must be carefully considered. Conduct which is trivial or transitory is unlikely to be sufficient. In Richmond Pharmacology Ltd v Dhaliwal [2009]
+
+ICR 724) Mr. Justice Underhill noted:
+
+“…We accept that not every racially slanted adverse comment or conduct may constitute the violation of a person’s dignity. Dignity is not necessarily violated by things said or done which are trivial or transitory, particularly if it should have been clear that any offence was unintended. While it is very important that employers, and tribunals, are sensitive to the hurt that can be caused by racially offensive comments or conduct (or indeed comments or conduct on other grounds covered by the cognate legislation to which we have referred), it is also important not to encourage a culture of hypersensitivity or the imposition of legal liability in respect of every unfortunate phrase…”
+
+70. In HM Land Registry v Grant [2011] EWCA Civ 769, Elias LJ said: “Tribunals must not cheapen the significance of these words. They are an important control to prevent trivial acts causing minor upsets being caught by the concept of harassment.”
+
+71. For harassment to have occurred, the person must have been aware that it had happened in order to perceive that it was harassment (Greasley-Adams v Royal Mail [2023] 86 EAT). Therefore, if comments are made behind an employee’s back that they become aware of later on, for example because of an investigation into their grievances about other matters, to determine whether harassment has taken place, the correct approach is to look at the Claimant’s perception of the situation at the date time the alleged harassing incident took place. Consequently, if the Claimant was not aware of the harassment at the time, they could not perceive that they had been harassed at the time. Such harassment could only have occurred from the date the Claimant became aware of the comments or conduct.
+
+72. Direct Race Discrimination. For those acts that are not harassment, the Claimant asserts that they were acts of discrimination because of her race.
+
+73. Where there is more than one reason put forward for the alleged treatment it must be a significant factor, being more than trivial (Barton v Investec Henderson Crosthwaite Securities limited [2003] IRLR 332). The characteristic needs to be a substantial or effective cause of the discriminatory treatment but doesn’t need to be the sole or intended cause of it (R v Commission for Racial Equality, ex parte, Westminster City Council [1984] IRLR 230). We have to determine, if there was more than one reason for the treatment, what the predominant reason was. Only the predominant reason can sustain a claim.
+
+74. Sections 13 and 39 of the EqA deal with direct discrimination. They state:
+
+13 Direct Discrimination
+
+(1) A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.
+
+39 Employees and Applicants
+
+(2) An employer (A) must not discriminate against an employee of A's (B)—
+
+(a) as to B's terms of employment;
+(b) in the way A affords B access, or by not affording B access, to opportunities for promotion, transfer or training or for receiving any other benefit, facility or service;
+(c) by dismissing B;
+(d) by subjecting B to any other detriment.
+
+75. The Claimant bears the initial burden of proof (Ayodele v Citylink Limited [2017] EWCA Civ. 1913). Unreasonable behaviour of itself is not evidence of discrimination (Bahl v The Law Society [2004] IRLR 799).
+
+76. The Equality Act 2010 sets out how Tribunals should approach the burden of proof when assessing whether complaints of detrimental treatment amount to
+
+acts of discrimination. S136 EqA states:
+
+136 Burden of proof
+
+(1) This section applies to any proceedings relating to a contravention of this Act.
+
+(2) If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+
+(3) But subsection (2) does not apply if A shows that A did not contravene the provision.
+
+77. The burden of proof does not shift to the Respondent simply on the Claimant establishing a protected act and unfavourable treatment. Those bare facts only indicate a possibility of discrimination. They are not, without more, sufficient material from which a tribunal ‘could conclude’ that the Respondent had committed an unlawful act of discrimination (Madarassy v Nomura International Plc [2007] IRLR 246 CA). ‘Could conclude’ must mean that ‘a reasonable tribunal could properly conclude’ from all the evidence before it. This would include evidence adduced by the Claimant in support of the allegations of discrimination. It would also include evidence adduced by the Respondent contesting the complaint. The tribunal needs to consider all the evidence relevant to the discrimination complaint, ie whether the detrimental acts complained of occurred at all, and any available evidence of the reasons for the unfavourable treatment. If the tribunal ‘are satisfied that the reason given by an employer is a genuine one and does not disclose either conscious or unconscious discrimination then that is an end to the matter.’ Laing v Manchester City Council 2006 ICR 1519.
+
+78. The comparison in direct discrimination cases must be a comparison focusing on the individual claiming to have been discriminated against (Her Majesty’s Chief Inspector of Education, Children’s Services and skills v Interim Executive Board of C School [2017] EWCA Civ 1426). There are two aspects to direct discrimination that must be considered by the tribunal. One is less favourable treatment and the other is the reason for it. Whether less favourable treatment is proven requires a comparison to a suitable comparator. There is a general requirement that there be no material difference between the people being compared either actually or hypothetically.
+
+79. In every case the tribunal has to determine the reason why the Claimant was discriminated against. Nagarajan v London Regional Transport [1999] IRLR 572 at 575, HL. Lord Nicholls stated ‘this is the crucial question’. It is for the Claimant to prove the facts from which the Tribunal could conclude an unlawful act of discrimination, ie that the alleged discriminator has treated them unfavourably and did so on grounds of the protected charateristic (Igen Ltd & Others v Wong [2005] IRLR 258 CA).
+
+80. The explanation for the unfavourable treatment does not have to be a reasonable one; it may be that the employer has treated the Claimant unreasonably. The mere fact that the Claimant is treated unreasonably does not suffice to justify an inference of unlawful discrimination (London Borough of Islington v Ladele [2009] IRLR 154). The Tribunal must assess not merely whether the Respondent has proved an explanation but that it is adequate to discharge the burden of proof on the balance of probabilities that the protected characteristic was not a ground for the treatment in question. For direct discrimination to have occurred the protected characteristic must have had at least a ‘significant influence’ (in the sense that it is more than trivial) on the decision to act in the manner complained off: Gould v St John’s Downshire Hill 2021 ICR, EAT.
+
+81. Failure to make reasonable adjustments. Sections 20-21 of the EqA provides
+
+as far as relevant:
+
+20(1) Where this Act imposes a duty to make reasonable adjustments on a person, this section, sections 21 and 22 and the applicable Schedule apply; and for those purposes, a person on whom the duty is imposed is referred to as A. 20(2) The duty comprises the following three requirements. 20(3) The first requirement is a requirement, where a provision, criterion or practice of A puts a disabled person at a substantial disadvantage in relation to a relevant matter in comparison with persons who are not disabled, to take such steps as it is reasonable to have to take to avoid the disadvantage. 21(1) A failure to comply with the first, second or third requirement is a failure to comply with the duty to make reasonable adjustments. 22 (2) A discriminates against a disabled person if A fails to comply with that duty in relation to that person”.
+
+82. The expression ‘provision, criterion or practice’ was considered in Ishola v Transport for London [2020] ICR 1204. A ‘PCP’ did not apply in every case of unfair treatment. The Tribunal’s task is to set out the nature, effects and extent of the alleged substantial disadvantage and assess it objectively. In other words, it must consider why the PCP puts the Claimant at the alleged disadvantage and ask itself what specific thing is it about the PCP that puts the Claimant at the alleged disadvantage. The comparator is merely someone who was not disabled: Griffiths v Secretary of State for Work and Pensions [2016] IRLR 216. They need not be in a like for like situation, but should be identified by reference to the PCP, so as to test whether the PCP puts the Claimant at the substantial disadvantage.
+
+83. In Environment Agency v Rowan [2008] IRLR 20, the EAT restated guidance on how an Employment Tribunal should approach such a complaint, saying that
+
+tribunals must identify:
+
+(a) the provision, criterion or practice applied by or on behalf of an employer, or;
+(b) the physical feature of premises occupied by the employer;
+(c) the identity of non-disabled comparators (where appropriate); and
+(d) the nature and extent of the substantial disadvantage suffered by the Claimant.
+
+84. Unlawful Deductions From Wages. The relevant provisions within sections 13
+
+and 14 of the ERA state:
+
+13 Right not to suffer unauthorised deductions.
+
+(1) An employer shall not make a deduction from wages of a worker employed by him unless (a) the deduction is required or authorised to be made by virtue of a statutory provision or a relevant provision of the worker’s contract, or (b) the worker has previously signified in writing his agreement or consent to the making of the deduction.
+
+(3) Where the total amount of wages paid on any occasion by an employer to a worker employed by him is less than the total amount of the wages properly payable by him to the worker on that occasion (after deductions), the amount of the deficiency shall be treated for the purposes of this Part as a deduction made by the employer from the worker’s wages on that occasion. 14 Excepted deductions.
+
+(1) Section 13 does not apply to a deduction from a worker’s wages made by his employer where the purpose of the deduction is the reimbursement of the employer in respect of (a) an overpayment of wages, or (b) an overpayment in respect of expenses incurred by the worker in carrying out his employment, made (for any reason) by the employer to the worker.
+
+85. Where a payment by way of salary or wages for a period is reduced by the recovery of an overpayment in a previous period, that reduction is a “deduction” for the purposes of s8 ERA. The deduction and its purpose should be identified on the itemised pay statement relating to the payment. Thus the sums recovered by the Respondent amount to a deduction in law: Ridge v Her Majesty’s Land Registry [2010] UKEAT/0098/10.
+
+86. At issue in this case is whether the Claimant can present a claim under s13, or whether such a claim is ‘excepted’ or ousted by s14. The parties took us in their submissions to different sections in Harvey’s Industrial Relations and
+
+Employment Law4. The complete text is as follows:
+
+‘[363] It is for the party claiming the s14 exemption to show it applies. It is therefore not enough for the employer merely to assert that one of the s14 grounds applies. In order to determine whether the tribunal's jurisdiction is ousted by s14, the tribunal must first make findings of fact to determine whether, for example, there has been an overpayment of wages or expenses or whether the worker actually took part in a strike or other industrial action. If it were otherwise, the employer could simply oust the tribunal's jurisdiction by relying on a section 14 ground in its response to the claim. [363.01] However, once it is established that a deduction truly falls within one of the categories in s14 (eg because a sum has been deducted to reimburse an overpayment of wages) then that is the end of the matter. From that point the tribunal has no further jurisdiction to determine the legality of the deduction or even whether the employer has deducted the correct amount. Such disputes have to be litigated in the civil courts (see Sunderland Polytechnic v Evans [1993] IRLR 196, EAT.
+
+[364] In SIP (Industrial Products) Ltd v Swinn [1994] IRLR 323, EAT the determining factor when considering the exclusions in s14 was the purpose of the deduction. Whether the deduction was unlawful was irrelevant for these 4 Division B1, Section 7(F)(2) Scope of the Tribunal’s enquiry purposes. S14(1)(b) was broadly worded to cover any overpayment of expenses 'for any reason'. That being the case, the exclusion applied and the dispute between the parties was properly characterised as a common law dispute which should be resolved in the civil courts.
+
+87. I have also considered another first instance Tribunal decision involving this Respondent, the decision of Martin-Harris v West Midlands Ambulance Service University NHS Foundation Trust [Claim No. 1304980/2023] by Employment Judge Camp. The Claimant in that case was a paramedic until the termination of her employment on 5th June 2023. She claimed that the Respondent had, on the termination of her employment, unlawfully deducted approximately £3,000.00 from her wages. Stephanie Aitchison was a witness in that claim. Judge Camp found that the Tribunal’s jurisdiction to assess the value of any deduction of wages was ousted by s14(1) Employment Rights Act 1996, and accordingly Ms Martin-Harris’ claim for unlawful deductions from pay was dismissed. The Respondent’s GRS system did not escape unscathed,
+
+however. Judge Camp held (at paragraph 16):
+
+‘The impression I have been given is that most paramedics who work for the Respondent for less than 10 years are in deficit in terms of their working hours. This is not through any particular fault of their own. They have not been slacking or failing to turn up for work, or knowingly overtaking annual leave or working different shifts from those assigned to them. This is an unsatisfactory state of affairs. … It should not be beyond the wit of someone to devise a system whereby a paramedic who works the shifts she is directed to work by management is not automatically overpaid; a system whereby over the course of a year, she actually gets paid what she is entitled to be paid, not more or less than that.’
+
+88. Nonetheless, the permissible extent of our enquiry into the deductions from a worker’s wages that are exempt from s13 by reason of s14 is to determine whether the Respondent has established that it’s deductions were to recover either (i) an overpayment of wages, or (ii) an overpayment of expenses. Once a Respondent has established that, the Tribunal does not have the jurisdiction to go on to determine whether the Respondent deducted the correct sums or not. That determination is a matter for the civil courts.
+
+[7] Our Conclusions
+
+89. We now turn to our conclusions on the various claims and the List of Issues that we have been tasked to resolve. Time.
+
+90. The starting point is to establish the ‘out of time’ date for the Claimant’s claims and then determine which acts relied on fell on either side of that date. The Claimant notified ACAS of a dispute on 11th October 2023. Working back 3 months less 1 day from that date is 12th July 2023. Incidents before this date are out of time, unless they were part of a single act of discrimination extending over a period, or unless the Tribunal considers it just and equitable to extend time.
+
+91. The Claimant’s employment terminated on 6th October 2023. Accordingly the Claimant’s constructive unfair dismissal claim has been presented in time.
+
+92. The Claimant relies on the same acts of detrimental treatment as acts of harassment related to race and direct race discrimination. Our determination as to whether a factual allegation has been presented out of time, and if so, by how much is below. (Note the determination of whether it would be just and equitable to extend time for out of time acts will be considered at the same time as the determination of the merits of each allegation). In respect of the detrimental acts relied on (be refence to the numbering in the original List of Issues):
+
+92.1 [6.2.1] The initial refusal to permit the Claimant to undertake the ACP course. Whilst this issue was stated as covering the period from July 2022 until October 2022, the Claimant was granted a funded place on 19th July 2022. Thus the period of any continuing act for this issue ran from 5th July 2022 until 19th July 2022. Ms Whorton asked for EOIs for the ACP course on 1st June 2022 [999]. She informed the Claimant that she had not secured a funded place due to 2 failed audits on 5th July 2022 [VW7]. Ms Whorton told another candidate (Craig Foster) that he had been successful in securing a funded place on 5th July 2022 at 8.41am [1008]. After the Claimant requested feedback on why she had not been successful [353] Ms Whorton looked into the matter and discovered that the Claimant had not failed any audits. As a result Ms Whorton sent the Claimant the Advanced Clinician Practitioner MsC application on 19th July 2022 [998]. The Claimant’s completed ACP Learning agreement was sent on 31st July 2022 [998].
+92.2 Thus the last date for any continuing act for this allegation is the date that the initial refusal was reversed, namely 19th July 2022. As the ‘Out of Time’ date is 12th July 2023 this allegation was presented some 53 weeks out of time.
+92.3 [6.2.2] Between March 2023 and the end of the Claimant’s employment the Respondent refused to permit her to take 15 weekly hours of study leave. This is an awkwardly expressed issue as the Respondent accepts delays in crediting the Claimant’s GRS record with her correct Study Leave. The Respondent asserts that any such delays cannot be ‘a refusal to permit study leave’ as the Claimant was always free to take the Leave. The Claimant asserts that a failure to credit the GRS with the appropriate Study Leave was tantamount to a refusal to permit her to take it, as she was charged with any missed days’ work that had not been credited to the GRS.
+92.4 In any event the Claimant’s Study Leave was showing as allocated to GRS for April to July, with two missing study leave days on 24th May
+
+[718] and 7th June [719]. The GRS report recording the leave is at [576- 580]. In the circumstances this issue relates to the period in March 2023 (before the April dates were added). The claim for that period was presented between 3 and 4 months out of time.
+
+92.5 [6.2.3] On 13th June 2023 Ms Whorton told the Claimant that the ACP studies had not been approved for funding. This is a single incident allegation that was presented 1 month out of time.
+92.6 [6.2.4] From March 2023 Ms Whorton’s omission to note the Claimant’s Study Leave on the GRS system. The Claimant emailed Ms Whorton on 17th May 2023 to assert that the GRS was not recording her study leave [478]. On 22nd May 2023 Ms Whorton emailed Scheduling to request that the Claimant’s records be updated [478]. No action had been taken by 27th June 2023 [478] or by 6th July 2023 (the Claimant chasing) or 10th July 2023 [478]. There was a meeting arranged for 11th July 2023 [VW26]. Ms Whorton emailed Scheduling again as the Study Leave had not been added by 11th July 2023 [VW28] and [480]. Ms Whorton confirmed that the details were not yet corrected on 25th July 2023 [483]. The GRS record sheet [857] shows that the correct Study Leave was not added as at September 2023. The revised October 2023 shows a 15 hour increase to ‘worked absence’. This Study Leave was added between September and October 2023. In the circumstances this allegation was presented in time.
+92.7 [6.2.5] The Claimant’s resignation, being partly caused by alleged race discrimination, on 6th July 2023. Unlike the Claimant’s constructive dismissal claim (for which time runs from the effective date of termination of the Claimant’s employment) for the purposes of determining the out of time date as a complaint of race discrimination, time runs from the date that the Claimant decided to resign on notice. This date is 6th July 2023 [470, 471], making the presentation of that claim 6 days Out of Time.
+
+93. Thus 4 of the 5 detrimental acts were presented between 1 year and 6 days out of time.
+
+94. We now consider the merits of the Claimant’s claims of harassment related to race and, in the alternative, direct race discrimination. Harassment related to race.
+
+95. As recited in our analysis of the law, in Tees Esk and Wear Valleys NHS Foundation Trust v Aslam [2020] IRLR 495, the EAT held that the question of whether conduct is ‘related to’ a protected characteristic is a matter for the appreciation of the Tribunal, making a finding of fact drawing on all the evidence before it. In any given case there must be some feature or features of the factual matrix identified by the Tribunal which properly leads it to the conclusion that the conduct in question is related to the particular characteristic in question, and in the manner alleged in the claim. Section 26 EqA does not bite on conduct which, though it may be unwanted and have the proscribed purpose or effect, is not properly found for some identifiable reason also to have been related to the protected characteristic relied upon.
+
+96. We have considered the 5 acts of detriment with great care in order to determine whether there is any feature or features of the factual matrix identified which properly leads us to the conclusion that the conduct in question is related to the Claimant’s race, namely mixed-race heritage, Black Caribbean and White British. The incidents said to be related to the Claimant’s race at [8.1.1 to 8.1.5] all relate to her ACP course and the correct recording of her Study Leave on the GRS. There is no factual feature of these complaints that we conclude are related to her race.
+
+97. The Claimant in her witness statement referred to historic comments made about the skin tone of newly born babies and the Black Lives Matter protests. We would have had no hesitation in concluding that these comments were related to race. However those incidents are not part of the Claim and are not relied on by the Claimant as actionable acts of harassment.
+
+98. We also note that we reminded the Claimant’s Counsel during the course of the hearing that we would welcome his submissions on the Claimant’s harassment claim. Counsel did provide us with a 15 page final submissions document, supplemented by oral submissions, but he did not address us on the harassment claim at all.
+
+99. In the circumstances, as allegations of harassment, issues number [8.1.1] to [8.1.5] all fail and are dismissed. Direct race discrimination.
+
+100. We now turn to the Claimant’s claim of direct race discrimination. For this analysis we are concerned with the reason for any acts of detrimental treatment, not whether the treatment itself was related to race. To consider this we can take into account historic incidents that are not claims in themselves, but are raised by the Claimant for the purpose of assisting us in drawing an inference that the Claimant’s actual complaints might have been tainted by race.
+
+101. The historic allegations relied on by the Claimant for inference drawing purposes are set out in the Claimant’s witness statement [MB48-MB109].
+
+102. The Claimant told us that in August 2019 Kay Alexander said to her that she (Ms Alexander) (i) was relieved that her son Alex was unlike her – ie born a lighter skin colour, (ii) her parents had expressed concern about how dark her baby might be, and (iii) the Claimant had her weave done (a comment about the Claimant’s hair). The Claimant referred to name calling after describing the Black Lives Matter protests in June 2020 as peaceful, and Lea Griffiths telling the Claimant that she was ‘spitting her dummy out’ when she complained about discussion over Black Lives Matter protests and others telling her that ‘All Lives matter’.
+
+103. The Claimant told us that in March 2020 at the beginning of Covid she was racially abused by a patient who spat at her and coughed in her face. She also told us that Mindhy Jhamat had made a comment at a meeting on 30th June 2020 to discuss racism concerns about the Claimant’s mental health. In addition she told us that Melanie Fox had observed that the Claimant was ‘playing the race card’ after the meeting on 30th June 2020. The Claimant referred to a press article dated 2nd June 2020 that reported that the Trust’s Assistant Chief Ambulance Officer, Steve Wheaton had ‘blacked up’ to play BA Baracus at a themed party [892].
+
+104. These matters are not allegations of race discrimination relied on by the Claimant. However, the Claimant gave evidence on these incidents in her statement as background information. The Claimant struck us as an honest witness. The Claimant’s evidence on these early incidents was not challenged in cross examination and no evidence was adduced by the Respondent to rebut them. We accept and find as a fact that the historic incidents occurred as the Claimant described. They cover a period between August 2019 and June 2020. The allegations of direct race discrimination that we are tasked to resolve cover the period July 2022 until her resignation in July 2023. They involve different alleged discriminators and are very different in nature. We have determined, in respect of the actual claims before us, whether the incidents relied on occurred as the Claimant asserts and if so, we have considered the reason for them. In so doing we reminded ourselves that (i) if we accepted that an incident occurred and (ii) rejected the Respondent’s explanation for it, then we would consider the background information in determining whether an inference of race discrimination could be made.
+
+105. [6.2.1] This issue relates to the Respondent’s initial refusal to permit the Claimant to undertake the ACP course. Whilst this allegation was said to have covered the period July to October 2022, we find that the refusal was for a far shorter period of time. Ms Whorton asks for EOIs for a funded ACP course on 1st June 2022 [999]. Ms Whorton informed the Claimant that she had not been shortlisted for funding due to 2 failed audits on 5th July 2022 [VW7]. This was a refusal to permit the Claimant to proceed with a funded ACP place. Ms Whorton told another candidate (Craig Foster) that he had been successful on 5th July 2022 at 8.41am [1008]. The Claimant requested feedback on 5th July 2022 at
+
+9.08 am [353]. Upon enquiry Ms Whorton was told that the Claimant had in fact passed all of her audits. By chance a successful candidate pulled out of the process and Ms Whorton was able to send the Claimant the MsC application on 19th July 2022 [998]. The ACP Learning agreement was sent on 31st July 2022 [998]. In the circumstances this alleged act of discrimination lasted between 5th to 19th July 2022. This allegation was presented 53 weeks out of time.
+
+106. The Respondent accepted5 that there was a refusal and that the refusal was capable of being a detriment. Accordingly, and for the period between 5th and 19th July 2022, this allegation is made out on its facts.
+
+107. What was the reason for the treatment? The Claimant told us that the reason she was given was that she had two failed audits [352-353]. The Claimant told Jeremy Brown in an email dated 18th October 2022 [359] that she checked with an auditor who told her that she had no fails, She asserts that Ms Whorton was adamant that she had, and showed her a handwritten sheet that showed multiple failed audits. When Ms Whorton checked with Victoria Bignell (who had originally told her that the Claimant had failed two audits) Ms Bignell checked and discovered that she had given incorrect information, and that in fact the Claimant had no audit fails [VW8].
+
+108. We accept as a fact that Ms Whorton showed the Claimant a handwritten note showing multiple failed audits. This was incorrect. We understand that the audits could have been checked on line and are colour coded red or green for failed or passed audits. Neither Ms Bignell or Ms Whorton checked this, instead relying on a handwritten table. This was a serious mistake, on the part of both managers which demonstrates carelessness on both their parts. Had another candidate not dropped out, the Claimant would have been denied a place by reason of this mistake.
+
+109. Ms Whorton has provided a reason for refusing the Claimant a funded place: namely she relied in good faith on information provided by Ms Bignell (two failed audits) and that subsequently the reason relied on was shown to be incorrect. We find that the burden did pass to the Respondent on this issue, but we accept Ms Whorton’s explanation for the refusal. The Claimant has not done enough to prove facts from which we could conclude race discrimination and this allegation fails as direct race discrimination. The drawing of an inference of race discrimination is not necessary where the Respondent’s explanation for the treatment is accepted, and in any event, the matters relied on as background are so far removed in time and people involved that we do not think we can
+
+5 Paragraph 21 of the Final Submissions of Mr Melis
+
+infer racism on the part of Ms Whorton. In the circumstances this allegation of direct race discrimination fails and is dismissed.
+
+110. In considering the factors relevant to extending time, we note:
+
+110.1 As stated, this allegation was presented to the Tribunal 53 weeks out of time. There is no adequate explanation for the delay in presenting the claim, the length of, and the reasons for, the delay on the part of the Claimant;
+110.2 We do not consider that the extent of the delay caused the evidence to be or likely to be less cogent than if the action had been brought within the time limit, given the documentary and witness evidence available:
+110.3 No complaint is made or found by the Tribunal regarding the conduct of the Respondent after the cause of action arose (including the extent of responses to requests reasonably made by the Claimant for information or inspection for the purpose of ascertaining facts); which were or might be relevant to the case;
+110.4 Whilst the Claimant is disabled by a physical impairment, there is no disability of the Claimant which could account for the delay in presenting her claim on this issue;
+110.5 The Claimant was aware of the initial refusal as soon as it occurred. The Claimant failed to act promptly and reasonably once she knew of the refusal by the Respondent.
+
+111. Taking into account the legal guidance set out above, we do not consider that it would be just and equitable to extend time by the necessary 53 weeks for this allegation to proceed.
+
+112. [6.2.2] The Claimant asserts that between March 2023 and the end of her employment the Respondent refused to permit her to take 15 weekly hours of study leave. This is an awkwardly phrased issue, as the heart of this allegation is not that the Trust refused to permit her to take study leave, but that it failed to record the time taken as study leave on GRS. We accept that to the Claimant, this distinction is one of little significance, given her evidence that Clinical Navigators would be calling her at 6am on her study leave days asking why she was not at work. Nonetheless, there is no evidence that the Claimant was refused the time required to attend the ACP course or to study for it.
+
+113. The data that we have seen indicates that the Claimant’s study leave was allocated to her GRS record for April to July, save for two missing study leave days on 24th May [718] and 7th June [719]. Ms Whorton told Lynne O’Conner to action the updating of the Claimant’s study leave hours on 22th May 2023 [478]. Harry de Voil wrote on behalf of himself and Daniel Barnett on 25th June
+
+[474] to say GRS had not updated for them on 1st June and that he had not been able to submit for May as the shifts were still incorrect. Ms Whorton apologised to Mr de Voil on 1st July 2023 stating that she had not realised his records had not been updated [474]. The Claimant has failed to establish that Vikki Whorton refused to let her take study leave. The Claimant took her study leave and was allowed to take it. There was clearly an issue with her study leave being correctly recorded on GRS. The available evidence suggests that both the Claimant and her comparators had issues with their study leave being added to GRS. Mrs Whorton asked Ms O’Conner to update the records of both the Claimant and her comparators. All experienced delay in this happening. The evidence that Mr de Voil’s concerns were addressed more speedily is anecdotal, namely that as the bundle contains no follow up or chasing concerns from Mr de Voil, his complaints must have been addressed more promptly. This is not sufficient for the Claimant to prove facts from which we could conclude that race discrimination had occurred. In the circumstances this allegation fails on its facts.
+
+114. The start date for this allegation is March 2023. That start date was between 3 and 4 months out of time. However, as it was said to have lasted until the end of her employment, had we found that Vicki Whorton had refused to let the Claimant take study leave from March until the end of her employment, we would have considered this to be a single act of discrimination that lasted throughout that period, and accordingly this allegation would have been presented in time.
+
+115. [6.2.3] In this allegation the Claimant asserts that on 23rd June 2023 Ms Whorton told the Claimant that the ACP studies had not been approved for funding. This is a single incident of alleged discrimination that was presented one month out of time. The Claimant expands on this at [MB136]. She relies on an email from Matthew Ward (Head of Clinical Care) [SupB19] dated 6th June 2023 at 12.45. The email said: ‘I can confirm Usha had not been informed of the funding changes and we have clarified and confirmed the new funding with HEE today. We are seeking confirmation of placement funding for cohorts commencing before September 2022 as there is a gap between HEE funding commencing in March 2022 and September 2023, HEE have gone away to look at that funding and hopefully will include a yet to be confirmed amount in payment to the Trust so that I can ask placement providers to invoice us for this funding.’
+
+116. The Claimant also relies on an email she received from Usha on 25th May 2023 at 2.05pm [Sup B23] headed ‘ACP Placement’ which stated ‘we are waiting for HEE to confirm funding at the moment. Matt Ward will inform the providers when funding is confirmed’. At [MB136.3] the Claimant told us ‘I think they got this from Vicky Whorton. It wasn't true.’ There is no evidential basis for this assumption. The allegation is that ACP studies had not been approved (ie the University fees). The emails that the Claimant relies on relate to the funding made to organisations to offer work placements, not the university course fees. Of the ACP studies fees Ms Whorton confirmed [VW10] that the course had started in March 2023, so there was no way she would have said that the funding for the University studies had not been approved. At the IEUC Clinical Team meeting on 10th August [499], the Claimant observed that the placement fee was only £1000 for the whole year. This suggests she was aware of the difference between ACP studies fees and ACP placement fees. In the circumstances this allegation fails on its facts.
+
+117. [6.2.4] The next allegation is that from March 2023 Ms Whorton failed to note the Claimant’s study leave on the GRS system. On 17th May 2023 the Claimant emailed to say that the GRS was not recording a study leave shift taken by the Claimant [478]. On 22nd May 2023 Vicki Whorton emailed Scheduling to request that the records be updated [478]. A further study leave shift on 7th June was also not recorded on GRS. The effect would be to show a negative balance on hours worked by the Claimant. No action was taken by Scheduling by 27th June 2023 [478] or by 6th July 2023 (with the Claimant chasing) or 10th July 2023 [478]. A meeting was arranged on 11th July 2023 to discuss the matter [VW26]. Ms Whorton emailed Scheduling again, as the Claimant’s study leave still had not added by 11th July 2023 [VW28] and [480].
+
+118. Ms Whorton confirmed that the Claimant’s correct study leave details had still not yet been corrected on 25th July 2023 [483]. The GRS sheet [857] shows study leave not added as at September 2023. The revised October 2023 record shows a 15 hour increase to ‘worked absence’. Thus it appears that the study leave added between September and October 2023.
+
+119. In the circumstances this allegation is in time, and in our judgment the allegation is made out on its facts. The Claimant first raised the issue on 17th May 2023, and it was not corrected until after she had resigned because of it, in October 2023.
+
+120. Ms Whorton is ultimately responsible for ensuring that the Claimant’s study leave was added and/or to chase any person she delegated that task to. Mr Moore asserts in his final submissions that Harry de Voil’s GRS concerns were resolved within a month [CSkel 27] based on [475]. We consider that Harry de Voil and Daniel Barnett are in a comparable situation to the Claimant. All were doing ACP Masters qualifications and all had delays in their study shifts being added to GRS. We have been given no evidence that being on a different shift pattern is a material difference. Counsel for the Claimant asks us to conclude Harry’s complaint was resolved in a month, but there is no evidence of that, and we do not feel that the absence of a further complaint from Harry after 23rd June as evidence that his complaints were resolved more quickly. Ms Whorton asked Lynne O’Conner to update Mr De Voil’s record 14 days after this complaint [475]. Ms Whorton asked Ms O’Conner to update the Claimant’s record 5 days after her complaint [478].
+
+121. We are deeply concerned about the Respondent’s failure to have a robust, reliable and accurate system of recording the hours worked by its staff. It is completely inappropriate that employees are required to continually chase the Respondent to get this right. There was no evidence that the Claimant had failed to attend a shift, arrived late or left early. We were also concerned that the Trust counted back many years, in the Claimant’s case as far back as 2016, in assessing what sums could be said to be due to the Trust. The errors affect pay and can lead to the Trust to seek thousands of pounds from employees on the termination of their employment, in circumstances in which we are far from sure that the figures claimed are accurate.
+
+122. However, whilst the Claimant has established that Ms Whorton and others failed in their duty to accurately record the Claimant’s hours in a timely manner, the Claimant has failed to adduce facts from which we could conclude that her race was the reason for this exceptionally shoddy system. We conclude that the Trust did not discriminate in its abject failures in this regard. As a complaint of race discrimination, this allegation fails on its facts.
+
+123. [6.2.5] In the next allegation the Claimant asserts that she resigned because of the Respondent’s failures to accurately record her hours and that the failure was an act of race discrimination. As we have concluded that the Claimant’s race had nothing whatsoever to do with the failure to accurately record her hours on GRS, the Claimant’s resignation, on 6th July 2023 was not because of race discrimination [470, 471]. We are fortified in this conclusion because the Claimant made no mention or allusion to race being an explanation for the failure to correctly record her hours in the GRS, in resignation email or explanation email [470-471]. There was no mention of race as the explanation in the Claimant’s grievance dated 7th September 2023 regarding the same factual issue, namely study leave being left off GRS [528].
+
+124. In the circumstances this allegation of race discrimination fails on its facts.
+
+125. We note that this allegation, was presented 6 days out of time. Had it succeeded we would have concluded that it would have been just and equitable to extended time by the necessary 6 days for this issue to have progressed. Disability Discrimination: A failure to make reasonable adjustments.
+
+126. We turn now to the Claimant’s complaint of disability discrimination, namely that the Respondent failed to make reasonable adjustments to remove any disadvantage posed by the Claimant’s endometriosis and uterine adenomyosis.
+
+127. The Claimant relies on one provision, criterion or practice (‘PCP’) namely that the Trust required the Claimant to work a shift rota without taking sufficient breaks. The Claimant’s Occupational Health report August 2020 advised that the Claimant was fit return to work on 2nd September 2020 undertaking sedentary duties in Patient Transport Control [303]. The Claimant joined the Clinical Validation Team in early 2022. The Claimant told us that she was required to call back category II patients (those who had suffered heart attacks, strokes) for people that had waited 8 hours in an ambulance [MB36]. The Claimant asserted that she and her colleagues were under pressure to stay at her desk and we accept that evidence. [ND12] Natahsa Donnell told us that for a 12 hour shift the rules allowed staff in the Claimant’s team to take two 30 minute breaks and two 20 minute breaks. It was flexible as to how the breaks were taken. We conclude that the said rest breaks rule was a PCP applied by the Respondent.
+
+128. The Occupational Health report dated 27th March 2023 [452] advised that, as an adjustment to its normal rules on breaks, the Claimant be allowed to take regular brief breaks to rest and recuperate as dictated by her symptoms, as well as her regular planned breaks (my emphasis added). The Claimant asserts that given the pressure to complete call backs and calls she did not have time for appropriate toilet breaks. She asserted that the operation of the phone system was not explained to her, and that the ‘auto-in’ function automatically assigned calls to her. She asserts that she was not told about the code to permit breaks.
+
+129. We accept that the Claimant needed the recommended adjustment and that she did not take them, as she had never been told that she could. Rose Poyner did meet the Claimant after occupational health report and then emailed the Clinical Navigators, Vickie Whorton and Natasha Donnoll [457] to say that the Claimant ‘may also need to take unplanned breaks if pain or bleeding is becoming unmanageable during the shift’. There is no evidence that this fact was communicated to the Claimant, or that Ms Whorton or Ms Donnell confirmed to the Claimant that she could take unscheduled breaks. Unless the Claimant is told that she can take unscheduled breaks as well as her scheduled breaks then the adjustment recommended by occupational health has not been put into place. We consider that doing so would have been reasonable and that it would have been effective in removing or minimising the disadvantage that the Claimant faced.
+
+130. On balance, we consider it more likely that not that the Claimant did know how to take unscheduled breaks, but that in the absence of being told that she could, we find, on the balance of probabilities that the Claimant did not take them. We make this finding because we consider that the Claimant had a strong work ethic, was honest, and followed the rules set by her employer, even if they placed her at a disadvantage because of her physical disability. Ms Whorton recalled a conversation with Rose Poyner, after meeting with the Claimant, which was related to the Claimant’s request to swap shifts [VW20].
+
+131. The Claimant told us in evidence [MB36.3] that working from home was not allowed on the instruction of Jeremy Bowen. She asserts that both Ms Whorton and Ms Poyner told her that Mr Bowen had given that instruction. We accept that evidence. In the circumstances our findings on the adjustments that could have been made to the PCP is as follows:

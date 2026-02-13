@@ -1,0 +1,526 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The unanimous judgment of the Tribunal is that:
+
+1. The claimant’s complaint of unfair dismissal under section 98 of the Employment Rights Act 1996 is not well founded and is dismissed
+
+2. The claimant’s complaint of direct discrimination under section 13 of the Equality Act 2010 is not within the jurisdiction of the Employment Tribunal as it was not submitted within the period determined under section 123 Equality Act 2010 and that complaint is dismissed.
+
+3. The claimant’s complaint of discrimination arising from disability under section 15 of the Equality Act 2010 is not well founded and is dismissed.
+
+4. The claimant’s complaint of indirect discrimination under section 19 of the Equality Act 2010 is not within the jurisdiction of the Employment Tribunal as it was not submitted within the period determined under section 123 Equality Act 2010 and that complaint is dismissed.
+
+5. The claimant’s complaint under sections 20 and 21 of the Equality Act 2010 (failure in duty to make reasonable adjustments) is not well founded and is dismissed.
+
+4107494/2023 Page 2
+
+6. The claim for unpaid wages in respect of accrued but untaken holiday pay, having been withdrawn by the claimant, is dismissed under Rule 51 of the Employment Tribunal Procedure Rules 2024.
+
+REASONS
+
+Background
+
+1. The claimant was employed by the respondent as a Band 6 Occupational Therapist. In was agreed that the claimant was dismissed by reason of capability (a potentially fair reason in terms of section 98(2)(a) of the Employment Rights Act 1996 (‘the ERA’)). The claimant’s position is that that dismissal was an unfair dismissal in terms of section 98(4) ERA and that the respondent acted unlawfully towards her under the Equality Act 2010, relying on her protected characteristic of disability. It was accepted by the respondent that the claimant has the protected characteristic of disability in respect of (1) dyslexia (2) auto immune homiletic anaemia. These were the only conditions relied upon by the claimant in respect of her having the protected characteristic of disability under section 6 of the Equality Act 2010. There was reference to the claimant having other medical conditions but these were not relied upon in respect of the claimant having the protected characteristic of disability or in respect of the respondent’s statutory duties towards the claimant under the Equality Act 2010. It was accepted that the respondent had knowledge of the claimant’s disability status at the material times.
+
+2. There were Case Management Preliminary Hearings (‘CMPHs’) on 26 February, 14 June and 1 November 2024 (when the Final Hearing arranged to take place in November 2024 was postponed). Case Management Orders were issued to ensure preparation for the Final Hearing. At the commencement of the Final Hearing, the claimant confirmed that there were no issues with her accessing and reading the documents being referred to in the hearing.
+
+3. The legislative basis of the complaints was identified as:
+
+a. Section 13 EqA (direct discrimination on the grounds of the claimant’s disability);
+b. Section 19 EqA (indirect discrimination on the grounds of the claimant’s disability);
+c. Section 15 EqA (unlawful discrimination arising from the claimant’s disability); and
+d. Section 20 / 21 EqA (failure in duty to make reasonable adjustments). 4107494/2023 Page 3 Issues
+
+4. This Judgment is lengthy because of the number of issues to be determined, including time bar issues, the number of which over which the allegations relied upon took place and the relevant findings in fact necessary to be made to determine the issues. The List of Issues attached as Appendix A was discussed and agreed to be the issues for determination at this Final Hearing (‘FH’).
+
+Proceedings
+
+5. A Joint Bundle was prepared for this FH. This Joint Bundle (‘JB’) contained 276 documents, in 1326 pages. Documents are referred to in this Judgment by their page number (JB1 – JB 1326). All evidence was heard on oath or affirmation. It was agreed that the respondent’s case would be presented first. The respondent’s witnesses were: Claire Stewart; Louise Watson; Les McQueen; Alistair McKinnon; Joanne Findlay; Victoria Cox; Catherine Nivison; Stuart Gaw; Melanie McColgan and Audrey Slater Evidence was then heard from the claimant, who called no other witness.
+
+6. To ensure adequate processing time for the claimant and her representative, the FH was adjourned following the conclusion of the evidence on 17 June 2025. A Note of Proceedings (‘the Note’) was issued. That Note included:-
+
+ A summary of proceedings to date
+
+ A note of the adjustments made in the course of these proceedings  Information on the Employment Tribunal’s overriding objective in terms of Rule 3 of the Employment Tribunal Procedure Rules 2024 (‘the Tribunal Rules’).  Reference to the guidance in the Equal Treatment Bench Book being taking into account in these proceedings.  Confirmation of the arrangements for exchange of submissions and for oral submissions on 25 August 2025.  Information on the matters to be included in the submissions (on the basis that the claimant’s representative was not required to make written submissions but had the opportunity to do so).  Information on the burden of proof and standard of proof.  Information on the format of the Tribunal’s written decision.
+
+4107494/2023 Page 4
+
+7. Written submissions were then exchanged and both representatives spoke to these submissions on 25 August 2025.
+
+8. Apologies are given to parties for the delay in this decision being issued. That delay was due to EJ McManus’ absence for ill health.
+
+Findings in fact
+
+9. The determination of the issues did not require findings in fact to be made in respect of all evidence heard. The following material facts were admitted,
+
+non-contested or found by the Tribunal to be proven:-
+
+10. The respondent is a Health Board employing approx. 28,000 employees. The claimant has the protected characteristic of disability in respect of (1) dyslexia and (2) auto immune homiletic anaemia. The claimant commenced her employment with the respondent on 18 October 2004. The Claimant was dismissed on 7 November 2023, by reason of capability. The ET1 was submitted on 23 December 2023. ACAS notification was on 13 October 2023. The ACAS Early Conciliation Certificate (‘ECC’) was issued on 24 November 2023.
+
+11. The claimant was employed by the respondent as a Senior Occupational Therapist (Band 6) from 18 October 2004 until the termination of her employment on 7 November 2023. That was a full time role. The competency framework for the role of a Band 6 Occupational Therapist [JB 462 – JB468] sets out the requirements for that role. The ability to effectively communicate with patients and other clinical practitioners is essential. At the time of her recruitment, the claimant notified the respondent of her diagnosis of dyslexia. The respondent sought support from Access to Work, who assessed the claimant in January 2005. Access to Work then provided a report to the respondent dated 21/1/05 [JB138 – JB140]. Five specific deficits were identified and items of hardware and software were recommended, on the basis that these would be “greatly reduce but not eliminate the difficulties she experiences”. Adjustments were put in place for the claimant by the respondent as set out in [JB305 – JB308]. That included provision of various ‘Dyslexia packages’, training on communication and procurement of a laptop with capacity to run various recommended software packages.
+
+12. In 2015 the claimant moved from working in the Western Infirmary to the Acute Stroke unit at the Queen Elizabeth University Hospital in Glasgow (‘QUEH’). The respondent instructed a review from Access to Work in 2015. The claimant was assessed by ‘Momentum Skills’, who then provided a Needs Assessment Report to the respondent in August 2015 [JB204 – JB210]. In that report, the claimant’s role was summarised as: “Heather
+
+4107494/2023 Page 5
+
+assesses patients who have disabilities, primarily stroke. Heather would be looking to provide adaptive equipment, offer support to carers, writes documentation regarding patients and adaptations etc as required through Code of Ethics and the NHS. Heather has to communicate internally and externally and can supervise junior staff or train as appropriate. Heather's role is now much more IT based and she has to interact with various computers across various locations.” The Needs Assessment Report recommended various equipment and software. These were not put in place at that time.
+
+13. In November 2015 concerns were raised about the claimant’s clinical judgment, particularly in patient’s referrals to rehab wards rather than having their rehabilitation needs met at home [JB 211]. This was a particular concern given the pressures on discharge and good use of available stroke beds.
+
+14. The claimant was managed by the respondent under their Employee Capability Policy and Procedure [JB141 – JB149]. Claire Stewart (Team Lead OT Stroke), held an informal capability meeting with the claimant on 26 November 2015. The notes from that meeting [JB 212 – JB215] are an accurate record of what was discussed and agreed at that meeting. A Supported Improvement Plan (‘SIP’) [JB216 – JB225] was then produced and agreed with the claimant. That SIP identified objectives, the areas requiring improvement to meet those objectives, the support required, the success criteria and the relevant evidence. The identified objectives were for the claimant to:
+
+(1) Improve her ability to participate in effective and appropriate communication with OT colleagues and multidisciplinary team.
+
+(2) Improve joint working with band 6 colleague and support worker
+
+(3) Develop her own clinical skills including specialist stroke skills to ensure competence and to support junior staff in supervision and training. As part of ongoing support provided to the claimant under that SIP, Les McQueen (Senior Learning and Education Advisor) met with the claimant to develop her communication skills [JB 219].
+
+15. In March 2016, concerns were raised with the senior staff responsible for the claimant about the claimant’s clinical practice, inaccuracy of recording interventions and poor clinical reasoning. It was considered that there was a potential risk to patients and direct supervision of the claimant was put in place. The claimant had periods of absence in 2016 from 24 February to 11 April and from 19 September to 14 October [JB 178]. During this period, a
+
+4107494/2023 Page 6
+
+specialist laptop, mouse and keyboard were procured for the claimant’s use at work. In November 2016 the claimant was again assessed by Momentum Skills and a further Needs Assessment Report was produced for the respondent. That report [JB253 – JB259] summarised the claimant’s role as had been set out in the August 2015 report, adding: “Heather is at present working in a hyper acute ward which has much quicker discharges placing additional strain in regard to the paperwork element of her role and remembering specifics from one patient to another without effective strategies
+
+being in place.”
+
+16. The November 2016 Needs Assessment Report recorded that the recommendations had “not been put in place and were only just about to be made available”. It noted “However over the past 15 months Heather has had to continue to carry out her role without the support that was recommended following specialist assessment. This shows Heather has effective strategies but doesn't highlight how much harder Heather may have to work to maintain this level of output without specialist intervention.” It also noted that the claimant’s Line Manger (Claire Stewart) “.. had reported she felt that Heather managed her ICT side of her role effectively” and that “Instead Claire highlighted some areas around communications, working with non-verbal cues, memory and highlighted some coaching sessions may be of benefit” and that “On further discussion with Heather this is something that may be of benefit to try and build additional support strategies for her in her workplace.” Dyslexia awareness training for team members and supervising personnel was recommended as being useful to the staff team as a whole to “…help improve understanding of some of the difficulties that Heather's dyslexia presents.”
+
+17. The hardware and software recommended was put in place and the training was completed by end January 2017. In January 2017, Les McQueen informed Claire Stewart what had been covered in his sessions with the claimant [JB 262]. Les McQueen’s position was that he had “not seen any major changes’ and that he ‘almost felt as if [he] was back at square one.” This feedback was agreed to be shared with the claimant and her Trade Union representative [JB267].
+
+18. On 24 January 2017, Claire Stewart met with some of the claimant’s colleagues to discuss some concerns about the claimant which those colleagues had raised with Claire Stewart. The Note at [JB270] is an accurate record of what was discussed. Further concerns about the claimant were raised with Claire Stewart in March 2017 [JB303 – JB 304]. The respondent put in place a supported improvement plan (‘SIP’) for the claimant, under their Band 6 Competency Framework for Occupational Therapists. That SIP set out agreed Objectives to be met by the claimant. Management of the
+
+4107494/2023 Page 7
+
+claimant’s capability was done by Claire Stewart (Occupational Therapist Team Lead and Stroke Lead). Several informal stage (Stage 1 Capability) meetings took place with the claimant in April 2017. The claimant attended those meetings with her Trade Union representative. Claire Stewart’ letters to the claimant of 11 April 2017 [JB309 – JB311], 24 April 2017 [JB313 – JB315] and at [JB324 – JB325] accurately reflect what was discussed and agreed. In letter at [JB309 – JB310] it was recorded that the claimant had received “a large investment in one to one training” from Learning and Education and from a Practice Development OT, including “many hours spent with the previous band 6 that worked with you in 1C to assist in team building and more effective team working.” It recorded that the claimant had attended specific ‘SAGE AND THYME’ communication training and dyslexia training and had been provided with an updated dyslexia software package and a more powerful Surface Pro laptop. Staff members within the team had attended dyslexia awareness training. Regular meetings were held with the claimant for support and to discuss the SIP. The claimant was shadowed while carrying out clinical work and presentations. The Objectives which had not been met by the claimant and the reasons why those objectives had not been met were set out. The claimant was told that as the required improvements and performance targets had not been achieved during the informal stage, in accordance with the board's employee capability policy and procedure it was necessary to progress to formal stage one of the capability procedure.
+
+19. The letter at JB310 – JB311 records the claimant’s position as being: “You advised you felt under additional pressure throughout the period of the Supported Improvement Plan as you felt your colleagues were being asked about you. I advised your colleagues were not being asked about you but we're approaching me with concerns. You stated you felt a temporary move to another area during the period of the stage 1 capability process would alleviate some of these pressures and allow you to concentrate on the SIP as although you have a good working relationship with your colleagues you would feel uncomfortable going back into the team as some of your colleagues have highlighted issues recently with your work in the form of written statement”.
+
+20. The outcome of that informal stage was that the claimant was to progress to Stage 1 of the formal procedure. The claimant’s request to move to the Royal Alexandria Hospital (‘RAH’) was agreed [JB 309]. Letter from Claire Stewart to the claimant at [JB 313 – JB 314] records that it was agreed that the claimant be temporarily moved from the stroke unit at the QEUH to the stroke unit at RAH. That move was to a supernumerary role, for a 3 month period, to allow the claimant to “focus on achieving Objective 1 within the action plan.” The Objectives identified in April 2017 were:
+
+4107494/2023 Page 8
+
+(1) To further develop an effective and appropriate communication style
+
+(2) To evidence sufficient development in communication and reflective skills in order to effectively supervise students and / or junior staff.
+
+21. The claimant was referred to Occupational Health (‘OH’) who provided report dated 28/4/17 [JB316 - JB320]. That suggested that the claimant be given time in her working week to complete tasks required in the capability process and reduce the amount of written tasks. The claimant returned to work on 3 August 2017, having been absent since 29 March 2017 [JB178]. She commenced her supernumerary role in the RAH stroke unit on her return to work in August 2017. Claire Stewart met with the claimant on 21 September 2017 to discuss the position in terms of the outcome of the Stage 1 Capability Meetings in April 2017. Claire Stewart’s letter to the claimant at JB 324 - JB 325] is an accurate record of what was discussed and agreed at that meeting. The claimant was again referred to OH. That letter records that it was agreed that Joanna Quinn (Clinical Specialist) “..will continue to meet with you for weekly supervision and will monitor your progress towards meeting these targets over the next 3 months whilst at RAH with myself every three weeks. It has been agreed that we will score the targets at the 3 weekly meetings to ensure you are informed of the progress. A Formal Stage 1 Mid Review Meeting will be arranged in 3 months and a Final Review Meeting will be arranged in 6 months. I must advise that if the required improvements and performance targets are not achieved by the Final Review Meeting in accordance with the Board's Employee Capability Policy and Procedure it may be necessary to progress to Formal Stage 2 of the Capability procedure”.
+
+22. The claimant was absent from work from 2 October 2017 [JB178] until 4 February 2018 [JB 178]. Following the claimant’s return to work at the RAH in February 2018, some concerns were raised by the claimant’s colleagues about the claimant’s assessment and choosing appropriate treatments for patients [JB 326].
+
+23. The claimant was assessed by Access to Work in April 2018. Access to Work then prepared a Holistic Needs Assessment Report for the respondent [JB331 – JB346]. The recommendations made were sourced and put in place by the respondent, with partial funding from an Access to Work grant. That included purchase of a new laptop to run the various recommended software packages. There was some delay while the recommended equipment was procured and licenses obtained [JB347 – JB357].
+
+24. In August 2018, Louise Watson (Chief AHP Clyde) held Stage 1 Final Review Meetings with the claimant under the respondent’s Employee Capability Policy and Procedure. Her letter to the claimant of 22/8/18 [JB359 – JB361]
+
+4107494/2023 Page 9
+
+is an accurate summary of discussions at that meeting and agreed next steps. It records that the performance issues discussed were:
+
+“- Professional trust and integrity as a band 6 professional
+
+- Ability to demonstrate expected level of clinical care as band 6 OT
+- Ability to evidence sound clinical reasoning and knowledge of OT process
+- Ability to demonstrate level of communication skills expected within role
+- Time scale for completion of band 6 competences.”
+
+25. There was discussion on the regular supervision meetings which the claimant had had. The letter records: “You advised me that you had been positive about your experience although time management had been raised as an issue with you but by that time you had caught up. You reminded me that you still did not have the software requested to support you which may cause you to be slower but I pointed out but one of the competences you have successfully signed off was in relation to documentation. However I agreed to check progress on this matter for you. However I remained more concerned that you have not achieved other competences involving clinical decision making and have been giving incorrect and unsafe advice we discuss this in more detail using examples and your responses indicate to me that you did not always accept other opinions or sought to justify your own with a different version of events despite more senior competent explanations having been given to you.”
+
+Louise Watson concluded:
+
+“We agreed to continue with the performance targets and action plan for a further 6 weeks to allow a further opportunity to demonstrate competency. You will continue to manage a caseload with direct supervision as I am not sufficiently reassured that you can practise safely and competently unsupervised. Therefore your period of Formal Stage 1 Capability has been extended to further support you. I must advise that if the required improvements and performance targets are not achieved during the extension, in accordance with the Board’s Employee Capability Policy and Procedure it will be necessary to progress to Formal Stage 2 of the Capability procedure. I also stressed that the competences outlined are basic band 5 competences, and not the additional competences required of a band 6 Occupational Therapist
+
+4107494/2023 Page 10
+
+and that this matter is extremely serious as ultimately I have to consider your fitness to practise in basic terms.”
+
+26. The claimant continued to work under supervision, with records taken [JB362 – JB364]. In September 2018 concerns were raised with the respondent by some of the claimant’s colleagues in relation to the claimant’s assessment of patients for discharge [JB365]. The claimant had 6 training sessions with Colourfield Training. They produced for the respondent a ‘Final Coaching Report’ on these sessions in September 2019 [JB366 – JB368]. That recorded that the claimant has a weakness in ‘Auditory Working Memory’ and the advice and training given to her on software and strategies to assist her.
+
+In that report it was:
+
+- Noted that “Texthelp R&W was still not fully operational after the completion of the final session and the Pro add-ins were not installed”
+- Recommended that an additional 2 hours training be arranged for the claimant once that software was installed
+- Recommended that the claimant would also benefit from ‘Ginger Software’
+- That the claimant would need time to embed the strategies learned, familiarise herself with the software and become up to speed with Dragon NS speech recognition.
+- Recommended that the claimant be given regular time slots familiarise herself with the software, over a 12 week period.
+
+27. In October 2018 the claimant, with the assistance of her Regional TU representative, raised a grievance, claiming disability discrimination [JB369 – JB392]. They relied on the delay in identified adjustments being put in place for the claimant, and the claimant being subjected to the capability process although those adjustments were not all in effect. As part of that grievance, a concern was raised into ‘Process Issues’, [JB376] including: “A grading of ‘2’ was assigned before any collaborative discussion had taken place. This was before all of Ms Rennie’s reflective logs had been received. in addition Ms Rennie had tabled comments disputing most of the statements made by Claire Stewart at the meeting on Wednesday 5 April 2017.” That grading was later relied on by the claimant as having been ‘falsification’.
+
+28. That grievance was investigated by Joan Smith (Head of People and Change). There was correspondence between Joan Smith and the claimant’s UNISON representative [JB393 – JB408]. It was agreed that the grievance be resolved by the Capability process being ‘restarted from Stage 1’ [JB404], intended to be for a period of 4 weeks, with the regional TU representative
+
+4107494/2023 Page 11
+
+being present at the claimant’s regular supervisory meetings [JB409]. In November 2018 a new SIP for the claimant, with SMART objectives, was agreed, for discussion at the following supervisory meetings [JB410 – JB418]. Louise Watson met with the claimant and her TU representative under Stage 1 of the Capability process on 21 December 2018 and 21 February 2019. Louise Watson’s letter to the claimant of 10 April 2019 [JB423 – JB425] was in relation to discussions at those meetings. The claimant had been given options to consider, as set out in letter to the claimant at [JB423].
+
+29. Included in those grievance documents are records of Claire Stewart’s discussions in 2017 with the dyslexia awareness training provider [JB381]. Those record the trainer’s concern at what was being requested by the claimant included points not normally associated with dyslexia. In particular his position was that communication issues are not normally linked with dyslexia. The notes record that Claire Stewart then discussed that with the claimant.
+
+30. As the claimant had not met the agreed objectives she was progressed to Stage 2 of the Capability Procedure [JB 423]. The claimant was advised of the outcome of the Stage 1 process in letter from Louise Watson of 18 April 2019 [JB423 – JB425]. That letter set out the claimant had required to consider:
+
+- options for the claimants placement for the Stage 2 process “to allow potential for success within a reasonable time scale.”
+- The ongoing concerns that “despite considerable time and support the lack of achievement to date in completion of the smart objectives, noting that within six months in the OAUU [the claimant had] only managed to sign off completion of the record of care.”
+- “The ongoing concern around your ability to practise as an occupational therapist without continual supervision.”
+
+31. That letter confirms that the claimant had not demonstrated the expected level of progress and that the Stage 2 process would begin. As the claimant was unable to identify another area of OT practice which she felt would allow her to make the necessary progress, it was agreed that the claimant remain within the OAAU in RAH. In the Stage 2 process, the claimant was to continue to work towards the objectives identified in the SIP at Stage 1. The claimant was to be directly supervised by Gillian Caldwell and Joanna Quinn, with weekly supervision sessions with the claimant accompanied by her TU rep. The Stage 2 process was set to be for a 4 week period. The claimant had requested additional support in respect of her dyslexia. A referral of the claimant was made to HCPC. The claimant was told that Robert McCormack
+
+4107494/2023 Page 12
+
+of Colourfield Consultancy and Training advised that he could provide the claimant with support for ‘chunking’ information and how to pull into a conclusion but that “He was very clear that any clinical reasoning or perception of situations was not within his area of expertise”. The letter to the claimant of 18 April 2019 included:- “I also stressed that the competences outlined are basic band 5 competences and not the additional competencies required of a band 6 occupational therapist and that this matter is extremely serious as ultimately I have to consider your fitness to practise in basic terms.”
+
+32. The claimant was absent from work from 28 February 2019 and in May 2019 was referred to OH, who produced a report for the respondent [JB419 – JB422]. In response to the question on support required for the claimant the advice was “I have discussed this with Heather today and she reports her current absence is due to the emotional and psychological impact of the current capability process. I have advised Heather that as this is a management process it should be addressed by management with support from appropriate agencies such as HR and union representatives. I understand from Heather that previous advice given from access to work may be relevant in addressing her concerns regarding documentation and support strategies. If this can be addressed it is likely Heather will be fit to return to work with the support of a phased return.”
+
+33. The claimant was absent from work due to ill health from 28 February 2019 until March 2020. Louise Watson met with the claimant and her TU representative in July 2019 for a Formal Absence Review. Louise Watson’s letter to the claimant of 12 July 2019 [JB426 – JB427] accurately records discussions at that meeting, including agreement that, when she was fit to do so, the claimant would have a phased return to work for 2 weeks and thereafter commence the 4 week Stage 2 capability process outlined in the letter of 18 April 2019 [JB423 – JB425]. There were further absence review meetings in in August and October 2019.
+
+34. During the claimant’s absence, in December 2019, a grievance was raised by the claimant’s TU Rep (at that time Susan Burns) on behalf of the claimant in respect of the referral having been made to HCPC and the continued involvement of Louise Watson and Joanna Quinn with the claimant’s capability process [JB428 – JB434]. In email from Joan Smith to the claimant’s TU rep Susan Burns of 11 February 2020 [JB447] it was noted that TU Rep Matt McLaughlin “attended many of the supervision sessions with Heather and there had been no mention of any concern around Joanna and Louise’s involvement despite many meetings until the week before she was due to commence to stage 2 of the capability process.”
+
+4107494/2023 Page 13
+
+35. A Stage 1 Grievance Hearing was arranged to take place on 9 March 2020 [JB449 – JB450]. UNISON reps prepared the claimant’s statement of case [JB452 – JB541]. A management statement of case was also prepared [JB515 – JB520]. That Grievance hearing did not take place because on the morning of that arranged hearing, it was agreed that Louise Watson and Joanna Quinn would no longer be involved in the Capability process re the claimant. It was agreed that that grievance be resolved on an informal basis. Correspondence to the claimant of 7 & 22 April 2020 [JB537 – JB538 and JB540 – JB541] records: “As all of the supports that you had requested had already been identified and being put on hold during your absence the management team confirmed that they would start working on putting them in place for you as soon as they were notified that you were fit to return to the workplace.”
+
+36. Following the claimant’s TU rep’s request [JB448], the claimant received full pay on ‘Special Leave’ rather than proceed to nil pay for absence after February 2020. From March 2020 (onset of covid pandemic arrangements) the claimant’s absence was recorded as ‘special leave’, under shielding arrangements [JB521 – JB529]. Notes were taken of telephone calls made by Joanne Findlay to keep in touch with the claimant during her absence [JB548 – 550].
+
+37. The claimant was assessed by OH on 27/3/20 [JB534], 20/8/20 [JB543 – JB547], 30/3/21 [JB 585] and on 15/10/21 [JB 638]. The OH report in August 2020 advised that the claimant was fit to return to work but that a COVID RTW (return to work) risk assessment should be carried out to identify any further adjustments [JB547]. In November 2020, the claimant was assessed under the respondent’s procedures assessing occupational risk of contracting COVID [JB556 - JB 575]. The claimant was assessed in be in the ‘high risk category’. Joanne Findlay (Associate Chief AHP Clyde Sector) had a virtual meeting with the claimant and Matt McLaughlin in December 2020. The letter to the claimant of 11/12/20 at [JB576 – JB577] accurately records discussions at that meeting. The claimant continued to be absent from work under shielding arrangements. Joanne Findlay had a meeting with the claimant and Matt McLaughlin in March 2021. Her letter to the claimant of 12/3/21 at [JB578 – JB580] accurately records what was agreed following discussions
+
+at that meeting. It was agreed that there would be:
+
+- A 6 week phased return to work, working in a non-clinical role
+- A further Access to Work assessment to identify all required adjustments
+- Previously provided software packages be updated 4107494/2023 Page 14
+- OH referral, to include consideration of place of work
+- Heath risk assessment inc. to identify suitable PPE
+- Training provided to claimant on new IT systems and software updates
+- The Capability Process continue, on the basis of the claimant being at Stage 2 of that process and with a view to the claimant achieving competency at her substantive grade of Grade 6 OT, which would include ‘signing off some basic competencies at Band 5 and building from that.” [JB580]
+- The capability process “cannot start until all reasonable adjustments are in place and fully functional.” [JB580]
+- HCPC recommendations be factored into capability and return to work processes, as appropriate.
+- The claimant continue to be paid as Band 6 OT
+- Annual leave entitlement from 2021/22 be carried forward and factored into return to work
+- Outcome of agreed outcome to Grievance confirmed
+
+38. As a result of the claimant’s ill health absence and COVID shielding arrangements, the claimant was absent from work from 28 February 2019 until November 2021 [JB 178]. During her absence, the claimant was assessed by OH on 30/3/21 [JB 581 – JB585]. Their report included advice on whether the claimant should wear a FPP3 face mask on her return to work. OH advice was: “I would advise requirement for this be risk assessed when Heather is returning to clinical duties but should not be required in her initial office based return. I would advise Heather trial FPP3 and face fit testing during her initial six weeks to allow her to build up a tolerance.” [JB585].
+
+39. In April 2021 the respondent issued updated advice for shielding employees [JB607 – JB609]. The claimant was advised that following advice from the Scottish Government, ‘all employees shielding will be expected to return to work’ from 26 April 2021 and contacted to arrange risk assessments prior to her return to work [JB587]. There followed emails between Joanne Findlay and Matt McLaughlin in relation to the claimant’s return to work and adjustments to be put in place [JB587 – JB590]. Joanne Findlay wrote to the claimant on 28 April 2021 [JB591]. That confirmed that the claimant would revert to sickness absence from 26 April 2021. She stated “In anticipation of the levels reducing I think it is still important we arrange to meet to complete
+
+4107494/2023 Page 15
+
+the required risk assessments prior to your return and to comply with all FC attendance policy as your absence will exceed 29 calendar days.”
+
+40. On the claimant’s return to work, she was to be based in a room adjacent to one of the kitchens used for patients’ OT assessments. As part of the risk assessments, there was consideration of the respondent’s Standard Operating Procedure (‘SOP’) for COVID 19 patients in therapy areas in the OT department at RAH [JB592]. Decisions on the supply of protective equipment were taken in accordance with the guidance at [JB539] and [JB536].
+
+41. The claimant, with the assistance of her Unison rep (Matt Mclaughlin), raised a Grievance under NHS Scotland Workforce Grievance Policy in May 2021
+
+[JB595 – JB603 and JB620 – JB621]. That sought:
+
+“- removal of Joanna Findlay & Margaret Glen from all future dealings with the claimant’s return to work and capability process
+
+- that the claimant be placed on Special Leave until conclusion of the grievance and agreement on her safe return to work
+- that the claimant be ‘placed in a team which have no prior knowledge of her workplace issues where she can be supported to return to work and complete and agreed capability process in a manner that is fair and reasonable.”
+
+42. A Grievance Hearing took place in June 2021 [JB604 – JB605]. A Management case for this hearing was prepared and sent to Matt Mclaughlin [JB606 & JB612 – JB619]. The outcome of the Grievance is set out in letter from the Chair of that hearing, Victoria Cox (General Manager, Clyde Older People and Stroke Service) dated 20 July 2021 [JB622 – 625]. The outcome was:
+
+- It was found that there had been no intention to mislead claimant and Joanna Findlay & Margaret Glen would not be removed from the processes as requested
+- The claimant remain on COVID 19 Special Leave “Until such times as you have sought advice from your GP who has previously advised that you should refrain from work until Scotland moves to COVID-19 protection level 1” (noted as being likely to be on 19 July 2021).
+- That on the evidence presented at the grievance hearing there was no justification that would merit a change of work location to conclude the capability process. 4107494/2023 Page 16
+- Clarification would be sought from OH on their recommendation on the claimant working within a patient rehabilitation setting.
+
+43. On 1 August 2021, the outcome of that Grievance was appealed to Stage 2 by the claimant and her UNISON advisor (Matt McLaughlin) [JB626 – JB630]. That appeal was withdrawn on 18 August, following UNISON having taken external legal advice [JB631].
+
+44. Matt McLaughlin had email correspondence with Joanne Findlay in relation to arrangements for the claimant’s return to work [JB632 – JB633]. OH were asked if the claimant was fit to return to work. The position in the OH report of 15 October 2021[JB634 – JB638] was that the claimant was fit to return to work, on the understanding that that would be non-clinical duties, and that ‘…agreement has been reached about certain other aspects such as regular breaks and working in well ventilated areas and that plus appropriate risk mitigation measures enable her to return to clinical work as the time is deemed right but not with confirmed or suspected cases of COVID.’ In relation to any further adjustments, the OH report stated: “There are some issues that need further discussion - the main overarching one is her heightened anxiety around a return to RAH and she'd want to discuss further the possibility of resuming to an alternative locality preferably in South sector. This in itself may need consideration - she continues to attend for regular frequent OPD clinic reviews and has also been advised that she cannot drive for 12 months. I am uncertain around the validity of that advice and she needs to clarify it with the clinician who gave that advice. If the advice is valid then she should inform the DVL A and clearly there will need consideration as to how she gets to and from work which may introduce increased fatigue - she is deconditioned due to the impact of her conditions and medication and this may take some time to recover. Finally she will need an updated assessment to ensure all relevant software and other equipment relating to access to work involvement is in place before any performance related aspects can be addressed.”
+
+45. A return to work meeting took place on 8 November 2021 to finalise plans for the claimant’s return to work. The claimant was accompanied by Matt McLaughlin (Unison Regional Organiser). Joanne Findlay's letter of 15 November 2021 [JB639 – JB641] accurately records the discussions at that meeting. That included that the claimant had raised a concern that COVID positive patients could be have an OT assessment carried out in the kitchen adjacent to the room where the claimant was to be based. Arrangements were put in place to ensure that the claimant would not be adjacent to COVID positive patients. Any kitchen assessment of COVID positive patients was carried out later in the afternoons, when the claimant was not in the building. The claimant was working mornings only. Infection control guidelines were
+
+4107494/2023 Page 17
+
+followed. There was a deep clean of the assessment kitchen after use by a COVID positive patient. Joanne Findlay updated the claimant and Matt Findlay in relation to the procedures being applied [JB642]. On 10 November 2021, the claimant commenced a phased return to work, in a non-clinical role.
+
+46. An Access to Work application was made and a DWP ‘Holistic Workplace Assessment’ was carried out re the claimant in March 2022, with report provided on 24/3/22 [JB645 – JB656]. That report recommended:
+
+- That the claimant utilise Workplace Strategy Coaching
+- The claimant use noise cancelling headphones
+- Disability Awareness Training for the claimant, her line manager and colleagues. The recommendations were procured through Access to Work [JB657 – JB661].
+
+47. The claimant was absent from work due to ill health from 28 March 2022 until 25 September 2022 [JB 179]. The reasons for that absence included haemolytic anaemia. An Absence Review Meeting took place on 29/8/22, including the claimant, her TU rep (Matt McLaughlin) and the Consultant Occupational Physician who had provided advice on the claimant’s return to work. Joanne Findlay’s letter of 29 August 2022 [JB 665 - JB670] accurately records what was discussed at that meeting. The claimant requested to return to her original post at QEUH stroke team, rather than return to RAH [JB 668]. A further referral was made to OH and input sought from the Consultant Occupational Physician who had attended the meeting and a further OH report was provided [JB671 – JB683]. In September 2022 there was a virtual meeting to discuss the OH report. The discussions are accurately reflected in Joanne Findlay’s letter to the claimant of 30/09/2021 [JB684 – JB689]. The claimant confirmed that it was her preference to return to work at the stroke unit of QEUH and that she had no issues with Claire Stewart [JB685] managing her. It was agreed that the claimant would commence her phased return to work on 4 October 2022, with a review meeting on 28 October 2022.The claimant commenced a phased return to work on 4/10/22 [JB 179].
+
+48. The claimant returned to work at QEUH in December 2022, with activities as set out at JB702 – JB704. A Return to work meeting took place on 11 January 2023. Letter to the claimant from Joanne Findlay of that date [JB720 – JB723] summarised discussions and noted that the content of the SIP was agreed by the claimant and her trade union regional rep. The agreed SIP [JB770 – JB786] commenced from 30/1/23 [JB 727]. From that time the claimant attended regular supervision meetings with Claire Stewart, where there was discussion on the claimant’s set objectives [JB771 – JB797] [JB805 – JB843]
+
+4107494/2023 Page 18
+
+and [JB932 – JB966]. The supervisory notes include “Claire enquired from a dyslexia perspective were there any issues with communication in the huddles, Heather advised there was not” [JB820]. A Stage 2 review meetings also took place and letters were sent to the claimant detailing the discussions in February [JB 798 – JB802], 13 March [JB 869 – JB878] and 29 March 2023 [JB 917 – JB928].The Stage 2 review period was extended, with the claimant continued to work 8am to 2pm [JB1058], while being paid for full time hours. The claimant was referred to OH and seen by them on 19/4/23 [JB 929]. The claimant’s position to OH was that not all adjustments had been put in place. The OH report states [JB930] “All appropriate adjustments have been discussed at length and agreed upon and should have been implemented although I understand that there may have been some delays or challenges with IT provision or software support for dyslexia. This obviously needs to be rectified if it hasn't been.” The OH opinion was that the claimant was ‘fit with adjustments’ and that ‘other than ensuring all previously agreed and understood adjustments are in place there is nothing further.”
+
+49. At the Stage 2 Final Review Hearing on 22/5/23 there was consideration on whether the claimant had met the SIP objectives. The discussion is accurately summarised in letter from Catherine Nivison to the claimant of 29 May 2023 [JB1052 – JB1065]. The management case was that the claimant had not achieved satisfactory improvement in the SIP objectives 1, 2, 3, 4, 5, 6, 7, 9, 10 and 11. There was discussion on examples of patient health and safety risks raised during the extended review period [JB1056 – JB1058]. It was noted that the claimant had not escalated any IT issues during the review period, although had been in touch with IT re system ‘crashing’ [JB1058]. The claimant and her trade union representative presented the claimant’s position. Their position was that there were ‘outstanding reasonable adjustments with IT and software which remain to be implemented fully which have had a detrimental impact on Heather achieving these objectives’. The objectives identified by the claimant and her representative as having been impacted by IT issues were objectives 1, 2, 3, 4, 5, 6 and 11. The letter states [JB1062] “… we discussed this supported improvement plan focuses on assessment, clinical reasoning and goal setting for patients; IT software is to help document not clinically assess.”
+
+50. The outcome was that as the claimant had not achieved satisfactory improvement in objectives 1, 2, 3, 4, 5, 6, 7, 9, 10 and 11 (i.e. 10 out of 11 set objectives) her performance would proceed to be addressed under Formal Stage 3 of the Capability Policy [JB1064]. The claimant had the opportunity to appeal that decision but did not do so. The letter confirmed that redeployment was discussed with the claimant at that meeting. The claimant did not wish to explore redeployment [JB1064]. The letter records [JB1063] “I asked how you feel you have progressed throughout the supported
+
+4107494/2023 Page 19
+
+improvement plan and extended review period. You stated whilst you have not fully achieved the objectives, you feel you have improved in most areas and furthermore you feel you have identified learning and thus achieved objective 11. Ms McStay asked if you have felt supported throughout this process. You said in the most part you have felt supported. You said there were occasions it would be obvious to colleagues you were under a performance process…”
+
+51. The claimant was invited to a Stage 3 hearing to take place on 28/7/23 and provided with a copy of the Management Case (by letter of 23 June JB1139 – JB1140]. The Management case was prepared and presented by Catherine Nivison (Case and appendices at [JB1072 - JB 1138]). In summary, the Management Case was that the claimant did not meet the core competencies required from a Band 6 OT, that adjustments had been identified and put in place (with considerable input from OH and Access to Work), that support had been given to the claimant over an extended period and that redeployment had been discussed but the claimant had not wanted to pursue that option. UNISON prepared the claimant’s case for that hearing [JB1100 – JB1101]. The claimant’s case was:
+
+(1) that ‘there has never been a point at which all reasonable adjustments for Heather have been fully in place and reliably functional’ and that ‘while not all of the SIP objectives are directly impacted by the failure to fully implement agreed reasonable adjustments, the added stress, anxiety and distraction caused impacts on all areas of Heather’s work.’
+
+(2) While acknowledging the SIP and that ‘there are areas where the standards set out have not been met on the timelines set out’ that there were ‘mitigating arguments’, being that, ‘on refection’, the ‘fast pace and intensity’ of the working environment in the QEUH stroke team ‘tends to exacerbate Heather’s dyslexia, causing greater anxiety and undermines her ability to perform to the standard set out in the SIP’; that stress and anxiety caused by the process had undermined her performance and that there had been insufficient recognition of areas of improvement; and
+
+(3) that the claimant now sought redeployment.
+
+52. The notes at [JB1149 – JB1157] are an accurate record of what was discussed. The claimant was informed of the outcome of Stage 3 in letter to her from Stuart Gaw (General Manager, Older People and Stroke Service – South Sector) of 4 August 2023 [JB 1158 – JB1162]. Stuart Gaw made the decision to dismiss the claimant. That letter set out the considerations which had been made and the reasons for his conclusion that the claimant be
+
+4107494/2023 Page 20
+
+dismissed on capability grounds. In relation to the claimant’s position at the Stage 3 meeting, the letter stated: “I was clear to ask what you felt had not been put in place for you. You advised me of a number of adjustments however, you would then follow up to advise these had been put in place. As an example of this you discussed the issue of wearing masks but then confirmed this had been put in place. You also gave an example of not being able to take fresh air breaks due to time constraints but then advised me you told staff you were taking a break outside and took the time. I made sure to allow time and asked for an adjournment asking for you and your rep to consider what had not been put in place. However, on resuming the hearing after 15 minutes, I was still not advised of any reasonable adjustments which had not been put in place. You then spent some time advising me of issues you were having with IT software in the form of Dragon Software and that this had not been fully implemented. During the course of the hearing I heard that significant effort had been made by IT in which they spent 1:1 time with you comparing different systems, responding to calls you made, provided additional RAM memory to support the operating system and also provided new equipment in the form of a laptop and additional pieces of equipment. I also heard that Ms Stewart spent time with another staff member to investigate potential issues and comparing the system, however no issues were identified. In addition further changes were made to allow you to use paper based clinical notes which were uploaded to the system. It was advised from the management case you were not utilising all features of the software which included the voice feature. As such I disagree that redeployment and reasonable adjustments had not been put in place or discussed with you and found all supports suggested had been explored.”
+
+53. As set out in his letter of 4 August 2023 at JB1159 – JB1161, Stuart Gaw considered the information before him to decide whether the claimant “would be able to achieve and maintain the required standard of performance within [her Band 6 OT] role within a reasonable time.” He took into account:
+
+- The prepared Chronology of Events [JB1145 – JB1148]
+- The SIP which had been ongoing since 2017
+- That ‘significant support’ had been put in place ‘which included 2 Band 7 mentors, a change of site to the RAH, use of a single office, a reduction in caseload to 5 with focus on 3 patients a day and a change of record keeping.”, considered against “the expected normal caseload of a Band 6 OT which would be around 8 [patients] per day.” 4107494/2023 Page 21
+- That during the SIP out of the 11 objectives set only one had been achieved, with an extension of Stage 2.
+- That the claimant believed she was functioning at a Band 6 level.
+- Professional advice given in respect of the standards for occupational therapists.
+- That the claimant was not practising as an autonomous practitioner as the claimant had “required ongoing support from [her] Band 7 colleagues” during the SIP and that on completion of the Stage 2 SIP the claimant had been “unable to continue in a clinical role as the objectives were not achieved.”
+- That in relation to the claimant’s ability to assess patients (Objectives 2 and 4) there were examples of “incomplete assessments, inaccurate assessments and safety concerns for the patient during interventions”.
+- That the claimant “had required continued support and refresher training” and was “unable to demonstrate the training [she] had received during the SIP.”
+- That Dragon software is “challenging to use” but “is a means of recording information and the quality of the information recorded with regards to accurate information, decision making and goal setting is still the responsibility of the practising OT.”
+- That Access to Work could not support with “clinical reasoning or perception of situations”.
+- That “Communication and the ability to communicate effectively is core to the role of the OT the ability to observe adopt and modify communication techniques is essential in the delivery of care. For any healthcare professional that is the ability to perceive the less obvious needs of our patients and act accordingly.” That the supervision notes “highlighted concerns where [the claimant] was unable to recognise when a patient was in distress or anxious and offer any reassurance or modify her practise to support the patient.” That had been viewed as a recurring theme during the SIP.
+- That Objectives 6 & 7 were in relation to communication with colleagues and that during the SIP there were incidences where the claimant was “not passing on relevant information to colleagues in a timely manner and inaccurate information was provided at huddle.” The supervision notes highlighted examples where “incomplete and inaccurate information was fed back to OT colleagues after the huddle 4107494/2023 Page 22 and a discharge was delayed as [the claimant] did not communicate that the patient could go home.”
+- That on consideration of Band 6 clinical competences, there was no evidence that the claimant was “achieving, involved or meeting the standard for the other pillars of practice i.e. leadership, research / development and education.”
+- There was “no consistency or ability to sustain any of the learning that was provided during the SIP.”
+- As a Band 6, the claimant “would be expected to meet the core competencies and the higher level of decision making, knowledge and skills.”
+- That “no evidence or further information” was presented by the claimant or her trade union rep at the stage 3 meeting “to contradict the statement of case provided by management.”
+
+54. The possibility of redeployment for the claimant was discussed at every Stage 2 Capability Hearing [JB802, JB878, JB926, JB1064, JB1082]. The claimant’s position at Stage 2 of the Capability procedure was that she did not wish to be redeployed [JB1101]. Redeployment was considered at Stage 3. The claimant’s position was that any redeployment would have to be at Band 6 level post. As set out in his dismissal letter [JB1161] Stuart Gaw concluded
+
+that the claimant should not be redeployed because:
+
+- The claimant was not functioning as a Band 6 OT
+- The claimant sought redeployment as a Band 6, in a different field of OT practice, despite her not having had experience in one of her suggested areas (paediatrics) for around 20 years.
+- The information before him led him to conclude that a patient facing role would not be suitable for the claimant
+- Most Band 6 roles available for redeployment were nursing roles which the claimant was not qualified for.
+- There was concern about the claimant’s lack of insight into her abilities.
+- Any Band 6 role requires “a large element of autonomous practice” which the claimant had “not been able to demonstrate”.
+- Band 6 posts require “autonomous clinical judgments and decision making” which, on the information before him, Stuart Gaw did not believe the claimant possessed. 4107494/2023 Page 23
+- The claimant had been offered the opportunity to explore redeployment and declined this.
+- The claimant sought a period of induction on redeployment before going back on any SIP.
+- Stuart Gaw felt there was no recognition from the claimant of “the need to change”.
+- The claimant did not indicate that she wished to explore lower bandings, despite being invited to consider this. Stuart Gaw therefore reached the view that “there was no self-awareness or recognition of the level [she was] operating at and what is required to do [her] role effectively.”
+
+55. For these reasons, Stuart Gaw concluded “I therefore do not believe you are likely to achieve the standards expected of you in your post and that the Board has exhausted all other reasonable options. For this reason, the decision has been made that there is no alternative but to terminate your contract of employment, in line with the Capability Policy. Having taken into account the details outlined above, I advise that I am dismissing you from your post of Band 6 Occupational Therapist on the grounds of capability.” The claimant’s employment with the respondent terminated on 7 November 2023 (having been extended from 1 November 2023). The claimant received payment of notice period and for untaken accrued holidays.
+
+56. The claimant appealed the decision to dismiss. The claimant’s statement of case for the Appeal Hearing was prepared by UNISON. [JB1251 – JB1253]. The appeal was made on the ground that redeployment had not been explored. The appeal did not challenge the decision on the claimant’s capability. Redeployment was sought at Band 6 level [JB1251]. The appeal did not contest the capability concerns which were the reason for the dismissal. The Management Case for the dismissal appeal was prepared and presented by Stuart Gaw [JB1241 – JB1250]. That included the prepared chronology at [JB1243 – JB1245]. The Appeal Hearing took place on 15 March 2024. At that hearing it was the position of the professional advisor on the panel, Alison Leiper, that the claimant was not performing even to the level of a Band 3 or 4 OT Assistant. The claimant was informed of the appeal outcome by letter issued to her dated 26 March 2024 [JB1255 – JB 1258]. The decision of the appeal panel was not to uphold the appeal, for reasons set out in the letter at JB1257 – JBJB1258]. The considerations included that:
+
+4107494/2023 Page 24
+
+- The respondent has a duty to safeguard employees / patients and must minimise the risk of harm by ensuring that no actions of employees places anyone in a position of vulnerability
+- The capability issues of the claimant could not be overlooked and the claimant was not successful over a prolonged period in achieving standards required for a Band 6 occupational therapist post
+- The claimant had exhibited a pattern which demonstrated ongoing failure to benefit from the adjustments and support provided to her, with little evidence that this position is likely to change in the foreseeable future
+- Account was taken of the level of support which the claimant had been given and the opportunities to improve her competences which had been afforded
+- That there had been concerns about the claimant’s clinical practice and communication which had come to the forefront when the claimant had transferred to the QEUH from a smaller team at the Western Infirmary.
+- That the claimant had not met Core Dimension 1 of the NHS Knowledge and Skills Framework, on communication, which applies to all roles within NHS Greater Glasgow and Clyde
+- Consideration of an alternative to dismissal would not have been appropriate given the concerns with the claimant’s reasoning, decision making and inconsistency with communications.
+- That the claimant had been working on modified duties and there was no possibility of the adjustments enabling the claimant to return to normal duties.
+
+57. The claimant was paid as a full time Band 6 Occupational Therapist from the time of her appointment to that Band until her dismissal, including from February 2020 until November 2023, during periods of sickness absence, special leave, reduced hours and while working in a supernumerary role The claimant was absent from work as set out in records at JB177 – JB180 and JB1169 - 1196. That included:  the period from 17 March 2020 until 9 November 2021 when the claimant did not undertake work because she was shielding due to the COVID 19 pandemic [JB178] and [JB1169]  phased return in the period from 10 November 2021 until 15 December 2021 [JB178 – JB179] and [JB1169 – 1170].
+
+4107494/2023 Page 25
+
+ Sickness and Special Leave absence 28 March 2022 until 30 September 2022 [JB1172].  Phased return from 3 October 2022 until 4 November 2022 [JB1173].  Absence from work from 4 August 2023 [JB180].
+
+Relevant law
+
+Unfair dismissal
+
+58. The law relating to unfair dismissal is set out in the Employment Rights Act 1996 (‘the ERA’), in particular Section 98 with regard to the fairness of the dismissal and Sections 118 – 122 with regard to compensation.
+
+ERA Section 98 states:
+
+(1) ‘In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show –
+
+(a) the reason (or if more than one, the principal reason) for the dismissal, and
+(b) that it is either a reason falling within subsection (2) or some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held……
+
+(2) A reason falls within this subsection if it –
+
+(a) relates to the capability or qualifications of the employee for performing work of the kind which he was employed by the employer to do,…
+
+(3) In subsection (2)(a)—
+
+(a) “capability”, in relation to an employee, means his capability assessed by reference to skill, aptitude, health or any other physical or mental quality,..
+
+(4) Where the employer has fulfilled the requirements of subsection (1), the determination of the question whether the dismissal is fair or unfair (having regard to the reason shown by the employer)—
+
+(a) depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the 4107494/2023 Page 26 employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee, and
+(b) shall be determined in accordance with equity and the substantial merits of the case.”
+
+59. That determination includes a consideration of the procedure carried out prior to the dismissal and an assessment as to whether or not that procedure was fair. The question when considering overall fairness is whether the employer's decision was within the range of reasonable responses (Iceland Frozen Foods Ltd V Jones [1982] IRLR 439). In capability cases it is sufficient that the employer honestly believes on reasonable grounds that the employee is incapable or incompetent. It is not necessary for the employer to prove as a fact that the employee is incompetent (Alidair Ltd V Taylor [1978] ICR 445 at 451). In capability cases, whether the employer has acted fairly in offering or not offering alternative employment is assessed with reference to the range of reasonable responses. It cannot be said that dismissal on the grounds of capability without offering alternative employment is necessarily unfair (Gair
+
+v. Bevan Harris Ltd 1983 SLT 487, at 489). The length of time which it is fair to give an employee to improve their performance can be variable and will depend on what is reasonable in the circumstances. A period of six months might, for instance, be a reasonable period to give the employee the opportunity to improve (Evans V George Galloway & Co [1974] IRLR167). It is an error of law for the Tribunal to substitute its decision for that of the employer (London Ambulance Service NHS Trust V Small [2009] IRLR 563). Where an employee has appealed, the Tribunal ought to consider the overall process (Taylor V OCS Group Ltd [2006] ICR 1602). Any procedural issue must be significant in order to amount to unfairness (Sharkey V Lloyds Bank UK EAT/0005/15).
+
+60. The tests in relation to whether a dismissal was unfair, and whether a dismissal involved unlawful discrimination, are different. It does not follow that a dismissal is automatically unfair even where there has been discrimination (City of York Council V Grosset [2018] ICR 1492, at 54).
+
+Disability Discrimination - Equality Act 2010 (‘EqA’)
+
+61. Section 13 EqA sets out the provisions in respect of unlawful direct discrimination:
+
+(1) ‘A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.’
+
+62. Section 15 EqA sets out the provisions in respect of unlawful discrimination arising from disability:
+
+4107494/2023 Page 27
+
+“(1) A person (A) discriminates against a disabled person (B) if—
+
+(a) A treats B unfavourably because of something arising in consequence of B's disability, and
+(b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim.”
+
+63. Following City of York Council v Grosett [2018] ICR 1492, CA, section 15 requires an investigation of two distinct causative issues:  Did A treat B unfavourably because of an identified ‘something’; and  Did that something arise in consequence of B’s disability.
+
+64. The ‘something’ must ‘more than trivially’ influence the treatment but it need not be the sole or principle cause (e.g. in Pnaiser v NHS England [2016] IRLR 170, EAT). The Tribunal should determine, was the claimant’s disability the cause, or a significant (more than trivial) influence on or for that unfavourable treatment? If so, the question is, has the respondent established that it had a legitimate aim? Then, if so, has the respondent established that the treatment of the claimant by the respondent was a proportionate means of achieving that legitimate aim? The test of justification under section 15(1)(b) is an objective assessment by the ET. To be proportionate, a measure has to be both an appropriate means of achieving the legitimate aim and reasonably necessary in order to do so (Homer v Chief Constable of West Yorkshire [2012]I.C.R. 704, at [22]). It need not be the only option available. In assessing proportionality, the Tribunal ought to weigh the reasonable needs of the employer against the effect of the treatment (MacCulloch v Imperial Chemical Industries plc [2008] IRLR 846).
+
+65. Section 19 sets out the provisions in respect of indirect discrimination: “(1) A person (A) discriminates against another (B) if A applies to B a provision, criterion or practice which is discriminatory in relation to a relevant protected characteristic of B’s.
+
+(2) For the purposes of subsection (1) a provision, criterion or practice is discriminatory in relation to a relevant protected characteristic of B’s if
+
+–
+
+(a) A applies, or would apply, it to persons with whom B does not share the characteristic,
+(b) it puts, or would put, persons with whom B shares the characteristic at a particular disadvantage when compared with persons with whom B does not share it, 4107494/2023 Page 28
+(c) it puts, or would put, B at that disadvantage,
+(d) A cannot show it to be a proportionate means of achieving a legitimate aim.
+
+66. There is a distinction between a PCP and a one-off act (Ishola v Transport for London [2020] I.C.R. 1204, at [38]). The identified PCP must itself put the relevant individuals at a disadvantage (Griffiths v Secretary of State for Work and Pensions [2017] I.C.R.160, at [46]). In terms of justification, the ET must consider both whether the PCP was an appropriate means of achieving the aim and whether it was reasonably necessary for that purpose. The employer does not have to show that there was no other route by which its legitimate aim could have been achieved (Hardy and Hansons plc v Lax [2005] ICR 1565). Where the PCP is a general policy which has been adopted in order to achieve a legitimate aim, it is the proportionality of the policy, in terms of the balance between the importance of the aim and the impact on the disadvantaged class, which must be considered, rather than the impact on the individual (Seldon v Clarkson Wright and Jakes [2012] UKSC 16, at [63] – [66]).
+
+67. Section 21 sets out the provisions for enforcement of a claim under section 20, which is the duty to make reasonable adjustments and is in the following terms: “(1) Where this Act imposes a duty to make reasonable adjustments on a person, this section, sections 21 and 22 and the applicable Schedule apply; and for those purposes, a person on whom the duty is imposed is referred to as A.
+
+(2) The duty comprises the following three requirements.
+
+(3) The first requirement is a requirement, where a provision, criterion or practice of A’s puts a disabled person at a substantial disadvantage in relation to a relevant matter in comparison with persons who are not disabled, to take such steps as it is reasonable to have to take to avoid the disadvantage….”
+
+68. In a case of an alleged failure to make reasonable adjustments, the burden of proof is on the employee to establish that there was a PCP or failure to provide an auxiliary aid, that a substantial disadvantage had thus been created, and that there was a potential reasonable adjustment or auxiliary aid that would alleviate that disadvantage (Project Management Institute v Latif [2007] I.R.L.R. 579, at [54] and [55]). There is a distinction between a PCP and a one-off act (Ishola). The proposed adjustment must alleviate the disadvantage (Environment Agency v Rowan [2008] I.C.R. 218 and Conway
+
+v. Community Options Ltd [2012] Eq. L.R. 871, at [19]). The question is 4107494/2023 Page 29 whether a PCP puts a disabled person at a substantial disadvantage in comparison to someone who is not disabled; it follows that a disabled person must be put at some greater disadvantage than a non-disabled person was or would be by a PCP (Sheikholeslami v University of Edinburgh [2018] I.R.L.R.1090, at [48] and [49]). The proposed adjustment must also be reasonable; the focus is on practical outcomes (Royal Bank of Scotland v Ashton [2011] I.C.R. 632).
+
+69. In determining the claims under the Equality Act 2010, we had regard to the guidance in the Equality and Human Rights Commissions Statutory Code of Practice on Employment (‘the EHRC’) (2011).
+
+Time Bar
+
+70. Section 123 of the Equality Act 2010 sets out the provision on the time limits within which a claim for unlawful discrimination under that Act should be submitted to an Employment Tribunal. The relevant provisions are:
+
+(1) Subject to section 140B, proceedings on a complaint within section 120 may not be brought after the end of—
+
+(a) the period of 3 months starting with the date of the act to which the complaint relates, or
+(b) such other period as the employment tribunal thinks just and equitable.
+
+(2) ….
+
+(3) For the purposes of this section—
+
+(a) conduct extending over a period is to be treated as done at the end of the period;
+(b) failure to do something is to be treated as occurring when the person in question decided on it.
+
+(4) In the absence of evidence to the contrary, a person (P) is to be taken to decide on failure to do something—
+
+(a) when P does an act inconsistent with doing it, or
+(b) if P does no inconsistent act, on the expiry of the period in which P might reasonably have been expected to do it.
+
+71. The Court of Appeal has provided guidance on what constitutes ‘conduct extending over a period’ (a continuing course of conduct) under section 123(3)(a). In Hendricks, Lyfar v Brighton and Sussex University Hospitals
+
+4107494/2023 Page 30
+
+NHS Trust 2006 EWCA Civ 1548, CA, the Court of Appeal approved the approach in Commissioner of Police of the Metropolis v Hendricks 2003 ICR 530, CA. That approach is that, in order to determine if the act complained of was a continuing act, the tribunal must determine if there was an ongoing situation or a continuing state of affairs in which the claimant was treated less favourably. A continuing act is distinct from an act with continuing consequences (Barclays Bank plc v Kapur & oths 1991 ICR 208). Even if the same individual is involved in several separate incidents those incidents do not necessarily form a continuing act (Greco v General Physics UK Ltd EAT 0114/16). Following Rovenska v General Medical Council [1996] EWCA Civ 1096 [1998] I.C.R. 85, where a discriminatory policy is operated by a respondent, time begins to run afresh each time the policy is operated to the detriment of the claimant.
+
+72. An extension of time beyond the three month time limit is the exception rather than the rule (Robertson V Bexley Community Centre t/a Leisure Link 2003 IRL R434 at 25). The burden lies on the claimant to persuade the Tribunal that time ought to be extended (Polystar Plastics v Liepa [2023] EAT 10, at 44). Where the claimant relies on ignorance of a matter such as their ability to bring a claim, such ignorance will only give rise to an extension of time where that ignorance is reasonable. That applies equally to the reasonably practicable and just equitable extensions (Perth and Kinross Council V Townsley UKEATS/0010/10 at 41). The length of and the reasons for a delay in bringing a claim are particularly relevant factors in the Tribunal’s assessment of whether to extend time (Adedeji v University Hospitals Birmingham NHS Foundation 2021 EWCA Civ 23 at 37).
+
+73. In British Coal Corporation v Keeble 1997 IRLR 336, the Court of Appeal set out the factors to be taken into consideration when considering whether it would be just and equitable to extend the three month time limit. The guidance from the Court of Appeal in Adedeji v University Hospitals Birmingham NHS Foundation Trust 2021 ICR D5, CA was that it is not necessary for the factors set out in British Coal Corporation v Keeble and ors to be used as the framework for considering of the decision on whether to allow an extension of time on just and equitable grounds under section 123 EqA. The Court of Appeal’s guidance was that the best approach for a tribunal in considering the exercise of the discretion is to assess all the factors in the particular case that it considers relevant, including in particular, as Mr Justice Holland noted in Keeble, the length of, and the reasons for, the delay. Following the guidance from Mr Justice Langstaff, then President of the EAT, in Habinteg Housing Association Ltd v Holleron EAT 0274/14, a multi factorial approach should be applied to the application of extension of time under section 123 of the Equality Act, with no one factor being determinative. Following the Court of Appeal in Chief Constable of Lincolnshire Police v
+
+4107494/2023 Page 31
+
+Caston 2010 IRLR 327, CA there must be material on which the Tribunal could exercise its discretion to extend the time period under section 123. They clarified there is no general principle that it will be just and equitable to extend the time limit where the claimant was seeking redress through the employer’s grievance procedure before embarking on legal proceedings. The onus is on the claimant to convince the tribunal that it is just and equitable to extend the time limit (Robertson v Bexley Community Centre t/a Leisure Link
+
+2003 IRLR 434, CA)
+
+74. In Langley v GMB and ors 2021 IRLR 309, QBD, the High Court provided guidance on the duty of care owed by a trade union to its members when advising and acting in employment disputes. The duty is to exercise reasonable skill and care in the provision of practical industrial relations and employment advice. It requires the reasonable knowledge and experience expected of a trade union in both individual and collective negotiations, and includes having a general understanding of employment, HR, and industrial relations issues; being reasonably well informed about employment law in general terms; having a reasonable level of skill and expertise in persuasion and negotiation; and being able to provide strategic and tactical advice on how to resolve a situation in the best interests of its members.
+
+75. Where a claimant has a debilitating illness or condition, that may usually only constitute a valid reason for extending the time limit if it is supported by medical evidence. Such medical evidence must not only support the claimant’s illness; it must also demonstrate that the illness prevented the claimant from submitting the claim on time(e.g. Pittuck v DST Output (London) Ltd ET Case No.2500963/15).
+
+76. The existence of an impending internal appeal is not in itself sufficient to justify a finding that it was not reasonably practicable to present a complaint to a tribunal within the time limit (Bodha v Hampshire Area Health Authority 1982 ICR 200, EAT, expressly approved by the Court of Appeal in Palmer and anor
+
+v. Southend-on-Sea Borough Council 1984 ICR 372, CA). Burden of proof
+
+77. As noted by Lord Hoffman in Re B (Children) [2008] UKHL 35 “If the tribunal is left in doubt, the doubt is resolved by a rule that one party or the other carries the burden of proof.”
+
+78. The standard of proof applied in Employment Tribunal cases is the civil standard of proof of ‘on the balance of probabilities’.
+
+79. The burden of proving that the dismissal was a fair dismissal lies with the respondent.
+
+4107494/2023 Page 32
+
+80. For claims under the Equality Act 2010 (‘EqA’), the approach to the burden of proof is as set out in s136 of Equality Act 2010 and the Barton Guidelines as modified by the Court of Appeal in Igen Ltd. (formerly Leeds Careers Guidance) and ors. –v- Wong and others 2005 ICR 931, CA (as approved by the Supreme Court in Hewage –v- Grampian Health Board [2012] IRLR 870). We accepted the respondent’s representative’s reliance on in Madarassy v Nomura International plc [2007] ICR 867 and Efobi v Royal Mail Group Ltd [2021] I.C.R. 1263.
+
+81. We required to consider the strength of all the evidence and decide whether the claimant has made out her case, on the balance of probabilities. For the complaints made under the EqA, the initial burden of proof lies with the claimant to demonstrate her case and prove facts from which, absent a reasonable explanation, the Tribunal could conclude discrimination has occurred. If the claimant is able to show, on the face of it, that there has been treatment that could amount to discrimination, then the burden of proof will shift to the respondent. At that stage, the respondent must prove on the balance of probabilities that its treatment of the claimant was not unlawful.
+
+82. In Project Management Institute v Latif [2007] IRLR 579 EAT, Mr Justice Elias, then President of the EAT, approved the guidance on the application of the burden of proof on reasonable adjustments cases, stating at paragraphs 54- 55 of the judgment: “54. In our opinion the paragraph in the Code is correct. The key point identified therein is that the claimant must not only establish that the duty has arisen, but that there are facts from which it could reasonably be inferred, absent an explanation, that it has been breached. Demonstrating that there is an arrangement causing a substantial disadvantage engages the duty, but it provides no basis on which it could properly be inferred that there is a breach of that duty. There must be evidence of some apparently reasonable adjustment which could be made.”
+
+Code of practice
+
+83. In determining the claims under the Equality Act 2010, the Tribunal had regard to the Equality and Human Rights Commissions Code of Practice on Employment (‘the EHRC’) (2011).
+
+Equal Treatment Benchbook
+
+84. We took into account the relevant guidance in the Equal Treatment Benchbook (‘ETBB’), including Chapter 1 – Litigants in Person and Lay Representatives and Appendix B – Disability Glossary – Dyslexia
+
+4107494/2023 Page 33
+
+Submissions
+
+85. Directions on submissions were set out in the Note. Both parties were then given extended periods to lodge their submissions. It was agreed that the claimant’s representative’s submissions, if wished to make them, would be by way of comment on the respondent’s representative’s submissions. Both representatives also made oral submissions on 25 August 2025.
+
+86. The position relied on in the claimant’s representative’s submissions was not supported by the evidence and was not entirely in line with the issues. We appreciated that the claimant and her representative are not legally qualified. Our determination is on the issues, applying the relevant law to our findings in fact. At all times we sought to further the overriding objective set out in Rule 3 of the Tribunal Rules.
+
+87. The respondent’s representative spoke to his extensive written submissions and relied on a number of authorities. We accepted the respondent’s representative’s reliance on the authorities mentioned in this Judgment.
+
+Comments on evidence
+
+88. The respondent relied on substantive documentation which contemporaneously recorded procedures which had been followed in relation to the claimant, and adjustments made. The documentary evidence showed these primary facts, that:  The claimant was represented throughout the internal proceedings by a Trade Union Representative, including the Regional Representative.  The respondent sought advice from Access to Work and Occupational Health.  At the stage of dismissal it was accepted by the claimant and her trade union representative that the respondent had put into place all adjustments recommended by Access to Work and Occupational Health.  At appeal of the decision to dismiss it was not contested that the claimant had not met the required objectives.
+
+89. The lack of adjustments relied upon before us were that Dragon Dictate software was not running at optimum level and that certain items had not been provided. It was accepted that all adjustments recommended by Access to Work had been put in place, including provision of identified equipment. It was the claimant’s representative’s position that adjustments had not been put in place to address the claimant’s issues with ‘working memory’. The claimant’s representative’s position was not supported by the evidence. We required to
+
+4107494/2023 Page 34
+
+make our decision based on the application of the law to the facts found. The claimant’s representative’s position that there had been equipment which was requested but not supplied was not supported by the contemporaneous documentary evidence, either the minutes of meetings, letters or reports. At the Stage 3 Capability Hearing the claimant and her trade union representative did not present any evidence to challenge the management case on the claimant’s capability and did not identify any further adjustments which ought reasonably to be put in place. The claimant’s representative’s position in his submissions was that the respondent had ‘done what was requested by Access to Work but nothing else’.
+
+90. The claimant’s representative did not challenge most of the respondent’s witnesses’ positions. The claimant made a number of concessions which did not support her claim. She accepted in cross examination that there had been some issues with her capability. The claimant conceded:  That the contemporaneous documentation (minutes of meetings and the content of letters setting out what had been discussed and agreed) were accurate records.  That all adjustments recommended by Access to Work had been put in place by the time of her dismissal (it being her position that Dragon ran slowly and not to its full capability)  That she had understood what was required from her as set out in the SIP.  That all adjustments recommended by Occupational Health were put in place.  That in accordance with the relevant guidance, the claimant had been provided with the appropriate SSP facemask.  That she felt safe at work with the surgical face mask.  That arrangements were in place so that Covid positive patients requiring to be assessed in the kitchen area next to where the claimant worked at the RAH were assessed at the end of the day, when the claimant was not in the building.  That she was not exposed to Covid positive patients while working at
+
+RAH
+
+ That all adjustments recommended by Access to Work had been put in place by the time of her dismissal
+
+4107494/2023 Page 35
+
+ That she had weekly meetings with IT to try to solve issues she was experiencing with Dragon.  That she was represented by a Trade Union representative throughout the capability process.  That redeployment was discussed (it being the claimant’s position that
+
+she was not sent a list of vacant posts)
+
+91. The claimant was not an entirely reliable witness. She replied ‘unsure’ and / or ‘I can’t recall’ to a considerable number of cross examination questions. Although it was the claimant’s position in her evidence that she had asked for additional items, including a Dictaphone and scanner, that was denied by the respondent’s witnesses and the considerable documentary evidence did not support the claimant’s position. The claimant’s representative was frequently reminded that if the claimant’s evidence was to be a different version of events, then it was important that that version of events was put to the respondent’s witnesses in cross examination so that they had the opportunity to comment on the claimant’s position. The claimant’s representative did not challenge the respondent’s witnesses’ evidence that the claimant had not asked for additional equipment which had not been provided. There was no explanation for why the respondent would not have provided those items, given that all other requested items had been put in place. At the stage of appeal of the dismissal it was not suggested that any other items ought to have been provided. For these reasons we concluded that the additional equipment had not been requested to be provided to the claimant by the respondent.
+
+92. The respondent’s witnesses’ versions of events were consistent with the considerable contemporaneous documentary evidence and, in some occasions, the evidence of more than one witness. The respondent’s witnesses were all credible and reliable in their evidence. They all answered the questions put to them in a straight forward way, without avoidance. Where unable to recollect detail, that was credibly explained by the passage of time and the matter was recollected when referred to the contemporaneous documentation. We accepted the respondent’s representative’s submissions on the credibility of the respondent’s representatives, including in respect of examples of the claimant’s incapability given by Claire Stewart [JB826] and Louise Watson [JB326], [JB360].
+
+93. For all these reasons, where there was a conflict in the evidence of the claimant and the evidence of a respondent’s witness, the evidence of the respondent’s witness was found to be more credible than the claimant’s version of events.
+
+4107494/2023 Page 36
+
+94. We accepted the respondent’s representative’s submissions on the credibility and reliability of the claimant and of the respondent’s witnesses. We accepted his submission that in relation to the complaints under the EqA the claimant had not met the initial burden of proof.
+
+95. Claire Stewart was not found “to have falsified information and outcomes during the early process” as alleged by the claimant. The considerable documentary evidence shows that Claire Stewart was ‘removed from the process’ because the claimant asked for that to be done. The considerable documentary evidence shows that the claimant and her trade union representative agreed that the claimant move back to QEUH and that Claire Stewart be again involved.
+
+96. It was significant that at the Stage 3 Capability hearing the claimant and her trade union representative did not challenge the Management Case that the claimant had failed to meet Band 6 Clinical Competencies and was not operating as a Band 6. They did not challenge the Management Case that the claimant was not capable of operating as a Band 6 OT. They did not challenge the Management Case that the claimant was not operating autonomously and the concerns about her clinical decision making. They did not challenge the concerns about the claimant’s communication with colleagues and patients. The statement of case prepared by the claimant’s trade union representative for the Stage 3 hearing includes “It is common ground that Heather’s case contains genuine capability issues.” [JB1251]. All the issues taken into account by the Stuart Gaw in reaching his decision to dismiss (set out at JB1159 – JB1160) were uncontested.
+
+Decision
+
+Unfair dismissal
+
+97. We accepted the respondent’s representative’s reliance on the relevant law on a capability dismissal. The case law relied upon is set out in the ‘Relevant Law’ section above. The decision to dismiss the claimant, for the reasons set out in the letter dated 4 August 2023, was a decision which was in the circumstances within the range of reasonable responses for the employer to take. Stuart Gaw honestly believed on reasonable grounds (as set out in the letter of 4 August 2023) that the claimant was not capable of working at Band 6 level. The claimant only wanted redeployment if it was at Band 6 level. The claimant’s representative’s position was variously that the process was rushed or that it took too long. The length of the capability process was impacted by the claimant’s significant sickness absences, absences for shielding reasons during COVID and by her being on Special Leave. It was further protracted because the respondent sought input from OH and Access to Work to identify appropriate adjustments and then source and implement
+
+4107494/2023 Page 37
+
+the recommendations. The claimant was given additional time to meet the agreed objectives set in the SIP. There was significant input from IT. The claimant accepted in cross examination that the process was not rushed. The claimant was given an extended period of time to try to meet identified objectives, which were identified against the core competencies required of a Band 6 OT. The claimant met one of 11 of the set objectives in the SIP, despite considerable training, resources and supervision. The claimant had not met the identified objectives in the SIP, although targets had been reduced, adjustments had been identified and implemented. In his submissions the respondent’s representative’s relied on the lack of challenge of the respondent’s witnesses’ evidence on the claimant being incapable to do the job of a Band 6 OT. We accepted that submission. The claimant did not contest that she was incapable of doing a Band 6 job. In all the circumstances (including the size, nature and administrative resources of the organisation) and in accordance with equity and the substantial merits of the case, the respondent acted reasonably in treating capability as a sufficient reason for the dismissing the claimant. Stuart Gaw honestly believed, based on reasonable grounds, that the claimant was not capable of doing her job as a Band 6 OT and that the issues with the claimant’s performance were so significant that that redeployment at the level then sought by the claimant was not appropriate. Stuart Gaw’s decision to dismiss the claimant was within the reasonable range of responses. The procedure was protracted but was not unfair, in terms of the ACAS Code of Practice or otherwise. The claimant was represented throughout by a Trade Union representative and had many opportunities to improve and discuss what was required from her. The claimant’s dismissal was a fair dismissal in terms of section 98(2) and (4) of the Employment Rights Act 1996.
+
+98. In consideration of what is set out at issues 1- 3 in the attached List of Issues, the claimant was dismissed on 7 November 2023 by reason of her capability and that was a fair dismissal under section 98(4) of the ERA.
+
+99. In consideration of what is set out at issue 4 (a – d) in the attached List of Issues:

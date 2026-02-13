@@ -1,0 +1,569 @@
+RESERVED JUDGMENT
+
+1. The Claimant’s complaint that he was automatically unfairly dismissed and subjected to detriment for having made protected disclosures, (whistle blowing) are not well founded and are dismissed.
+
+2. The Claimant’s complaint that he was unfairly dismissed contrary to Section 98 of the Employment Rights Act 1996, (ordinary unfair dismissal) is well founded and succeeds.
+
+REASONS
+
+Background
+
+1. Mr Middleton was employed by the Respondent as a Conservation Officer between 29 October 2001 and 5 May 2023. After Early Conciliation with regard to the First Respondent between 6 and 10 July 2023 in respect of the Second Respondent between 27 and 31 July 2023, he issued these proceedings on 3 August 2023 claiming automatic unfair dismissal and detriment for having made protected disclosures and ordinary unfair dismissal. Case Number: 3309451/2023.
+
+2. The matter came before me for a Preliminary Hearing on 10 July 2024, when I set it down for this Final Hearing and made Case Management Orders.
+
+The Issues
+
+3. The Tribunal was provided with an Agreed List of Issues. The Representatives confirmed to us at the outset of the hearing that we could rely upon this List of Issues in deciding the outcome of the case. We replicate the List of Issues set out below by way of cut and paste.
+
+1. Unfair Dismissal
+
+1.1 What was the reason, or if more than one reason, the principal reason for the Claimant’s dismissal? [The Claimant avers that he was unfairly dismissed because he made a protected disclosure. The Respondent avers that dismissal was for redundancy.]
+1.2 Was the Claimant’s dismissal fair or unfair having regard to:
+1.2.1 S.103A of the 1996 Act?; alternatively
+1.2.2 the test found in s.98(4) of the 1996 Act?
+1.3 If the dismissal is found to be unfair, did the Claimant contribute to the dismissal by culpable conduct?
+1.4 If the dismissal is found to be unfair, would the Claimant have been fairly dismissed in any event and by what date?
+
+2. Detriment
+
+2.1 Did the Claimant make a qualifying protected disclosure within the meaning of ss.43A and 43B(1) Employment Rights Act 1996? Specifically, the Claimant relies upon the following:
+2.1.1 His discussion on 2nd December 2022 with Martin Reader via Zoom (detailed in paragraph 12 of the Details of Claim) whereby he stated that:
+
+a. Correct processes were not being followed with regard to the dismissal of staff;
+b. Unnecessary ex-gratia payments were being made representing a misuse of charitable funds.
+c. That staff were being subjected to unnecessary surveillance in the office and that meetings had been covertly recorded by the Second Respondent; Case Number: 3309451/2023.
+d. The IT systems were not secure and exposed the First Respondent to risk;
+a. That the Second Respondent’s management style and interactions with third parties was not being undertaken in the best interests of the First Respondent or its reputation, (the “First Disclosure”); and/or
+
+2.1.2 His email of 21st February 2023 sent to Dr Andrew McCulloch (detailed in paragraph 22 of the Details of Claim) whereby he stated that:
+
+a. He had expected his first meeting upon his return to work to be one to demonstrate how the First Respondent as his employers were going to facilitate his transition back to work;
+b. Upon receiving a copy of the OH report, he was surprised to read that the First Respondent had been considering significant changes to his role;
+c. That it was clear that the Second Respondent did not want him to remain working for the First Respondent;
+d. That he would not have an ‘off the record’ conversation with the Second Respondent as he had seen what had happened to other staff members;
+e. That the Second Respondent actions were not conducive to the Claimant’s recovery five days after he had undergone an operation, (the “Second Disclosure”).
+
+2.2 Was the disclosure in the belief of the Claimant:
+
+a. made in the public interest; and
+b. tending to show that a person had failed, was failing or was likely to fail to comply with any legal obligation to which they were subject? Specifically, the Claimant relies upon the following:
+i. the termination of employment contracts in accordance with s.98 of the Employment Rights Act 1996;
+ii. the Trustees’ duties to act in the best interest of the First Respondent and its beneficiaries under the Charities Act 2011;
+iii. the Second Respondent’s obligations as a director of the First Respondent to promote the success of the company and to exercise reasonable care, skill and diligence as set out in the Companies Act 2006 (as modified for directors of charitable companies) the “First Disclosure”); and/or Case Number: 3309451/2023.
+iv. the termination of the termination of employment contracts in accordance with s.98 of the Employment Rights Act 1996;
+v. the Trustees’ duties to act in the best interest of the First Respondent and its beneficiaries under the Charities Act 2011;
+vi. the Second Respondent’s obligations as a director of the First Respondent to promote the success of the company and to exercise reasonable care, skill and diligence as set out in the Companies Act 2006 (as modified for directors of charitable companies (the “Second Disclosure”).
+
+2.3 Was the disclosure in the belief of the Claimant:
+
+a. made in the public interest; and
+b. tending to show that a miscarriage of justice had occurred, was occurring or was likely to occur? Specifically, the Claimant relies upon the following:
+i. the unfair dismissal of employees contrary to s.98 of the Employment Rights Act 1996;…] (the “First Disclosure”); and/or
+ii. the unfair dismissal of employees contrary to s.98 of the Employment Rights Act 1996; and
+ii. the likely unfair dismissal of the Claimant (the “Second Disclosure”).
+
+2.4 Was the disclosure in the belief of the Claimant:
+
+a. made in the public interest; and
+b. tending to show that information tending to show any matter falling within paras.2.2 or 2.3 above had been, was being or was likely to be deliberately concealed? Specifically, the Claimant relies upon the following:
+i. the Second Respondent’s failure to inform the trustees of the First Respondent of the matters set out in 2.1.1 above; and/or
+ii. the First Respondent and/or the Second Respondent’s failure to notify the Charity Commission of the matters set out in 2.1.1 b above (the “First Disclosure”).
+
+2.5 In each of 2.2-2.4 above, was the Claimant’s belief a reasonable one?
+2.6 Was the Claimant subjected to a detriment by the First Respondent and/or Second Respondent within the meaning of s.47B of the 1996 Act? (The Claimant avers that both Respondents subjected the Claimant to each detriment.) Specifically the Claimant relies upon: Case Number: 3309451/2023.
+
+a. The instruction by the Second Respondent to Human Capital Department on 3rd January 2023 to investigate the conduct of the Claimant (paragraph 15 of the Details of Claim);
+b. The letter dated 15th February 2023 sent to the Claimant advising him that it proposed to make changes to his contract, those changes being:
+a. The reduction in the Claimant’s people management responsibilities.
+b. A phased reduction in the Claimant’s working hours.
+c. A change from company to pool vehicle to remain on-site out of hours and for other staff to use.
+c. The failure to uphold the Claimant’s grievance (paragraph 25 of the Details of Claim);
+d. The initiation of disciplinary action on 13th March 2023 (paragraph 26 of the Details of Claim);
+e. The refusal of the Claimant’s request for a postponement of the disciplinary hearing (paragraph 28 of the Details of Claim);
+f. The decision to terminate the Claimant’s contract of employment with immediate effect due to ‘redundancy’ on 5th May 2023 (paragraph 31 of the Details of Claim);
+g. The release of a misleading formal statement to the Respondent’s volunteers (paragraph 32 of the Details of Claim);
+h. The sending of a ‘cease and desist’ letter to the Claimant on 12th May 2023 (paragraph 34 of the Details of Claim);
+i. Threatening litigation against the Claimant’s daughter and her partner via a letter dated 26th May 2023 (paragraph 36 of the Details of Claim).
+
+2.7 If the Claimant was subjected to a detriment, what was the reason for this?
+
+3. Time Limits (Detriment)
+
+3.1 Is the Tribunal barred from considering any of the Claimant’s complaints of detriment on the basis that it was not presented before the end of the period of 3 months (plus any applicable EC period) beginning with the date of the alleged detriment (including, where the alleged detriment is part of a series of similar acts or failures to act, the last of them)? Case Number: 3309451/2023.
+3.2 If yes, is the Tribunal able to consider the Claimant’s complaint on the basis that it was presented within such further period as the Tribunal considers reasonable, the Tribunal having concluded that it was not reasonably practicable for the complaint to have been presented within time?
+
+4. Remedy – Unfair Dismissal
+
+4.1 What Basic Award is payable to the Claimant, if any?
+4.2 Would it be just and equitable to reduce the Basic Award because of any conduct of the Claimant before dismissal?
+4.3 If there is a Compensatory Award, how much should it be? The Tribunal will decide:
+4.3.1 What financial losses has the dismissal caused the Claimant?
+4.3.2 Has the Claimant taken reasonable steps to replace his lost earnings, for example by looking for another job?
+4.3.3 If not, for what period of loss should the Claimant be compensated?
+4.3.4 Did the Claimant contribute to his dismissal? If so, should the Claimant’s compensation be reduced? By how much?
+4.3.5 Is there a chance that the Claimant would have been fairly dismissed anyway if a fair procedure had been followed, or for some other reason? If so, should the Claimant’s compensation be reduced? By how much?
+4.4 Did the ACAS Code of Practice on Disciplinary and Grievance Procedures apply?
+4.5 If so, did either party unreasonably fail to comply with the ACAS Code of Practice?
+4.6 If so is it just and equitable to reduce or increase any award payable to the Claimant? By what proportion, up to 25%?
+4.7 Does the statutory cap of fifty-two weeks’ pay apply?
+
+5. Remedy – Detriment
+
+5.1 What financial losses has the detriment caused the Claimant?
+5.2 Has the Claimant taken reasonable steps to replace lost earnings, for example by looking for another job? If not, for what period of loss should the Claimant be compensated?
+5.3 What injury to feelings has the discrimination caused the Claimant and how much compensation should be awarded for that? Case Number: 3309451/2023.
+5.4 Is there a chance that the Claimant’s employment would have ended in any event? Should his compensation be reduced as a result?
+5.5 Should the Claimant be awarded damages for personal injury?
+5.6 Did the ACAS Code of Practice on Disciplinary and Grievance Procedures apply?
+5.7 If so, did either party unreasonably fail to comply with it?
+5.8 If so is it just and equitable to reduce or increase any award payable to the Claimant? By what proportion, up to 25%?
+5.9 Should interest be awarded? How much?
+
+4. In evidence and in closing submission, no reference was made by the Claimant or Ms Ismail to the suggestion that the alleged disclosures tended to show a miscarriage of justice, or that something was likely to be deliberately concealed. The Tribunal has taken it that this aspect of Mr Middleton’s case is not pursued.
+
+Respondent’s Application for Supplementary Evidence
+
+5. The Respondent applied to introduce in evidence a supplementary witness statement by Dr McCulloch and to rely on 576 pages of supplemental documentary evidence.
+
+6. The evidence appeared to us to be irrelevant. It related to events which occurred after dismissal and did not relate to the alleged detriments relied upon. Mr Keen submitted the additional evidence from Dr McCulloch:
+
+6.1 Put into perspective matters referred to by Mr Middleton and his witnesses in their statemenst;
+6.2 Would be relevant on remedy, if arising, going to whether Mr Middleton, if unfairly dismissed, would have been dismissed fairly anyway;
+6.3 Goes to whether Mr Middleton subjectively believed that the information provided tended to show unlawful conduct, or matters of public interest and whether any such belief was objectively reasonable, and
+6.4 Further, he said the Respondent wished to defend itself in respect of some of the allegations that had been made by Mr Middleton and his witnesses.
+
+7. We note no explanation was given in the supplementary witness statement of Dr McCulloch as to why the supplemental evidence and documents, if they were relevant, were not included in the original disclosure exercise and in his original witness statement, statements having been exchanged in February. Case Number: 3309451/2023.
+
+8. Having regard to the overriding objective and the relative prejudice to the parties, we refused the application. We noted there was no good reason for the evidence not having been included in the original disclosure exercise and exchange of witness statements but in any event, the evidence appeared to us to be irrelevant as to the issue of liability. The application was made very late, on 12 June 2025. The content of Dr McCulloch’s supplemental witness statement had no bearing on the issue of liability and its probative value is very little as compared to the disproportionate amount of time it would take up in considering the evidence and hearing cross examination on it. We recognised some of the content of Dr McCulloch’s supplemental witness statement could potentially have some relevance to the issue of remedy, but the Tribunal was going to consider liability first and we were already under time constraints, the case having been listed for seven days and our having lost one day, so that it must be dealt with in six. It is inevitable that if successful, the issue of remedy will have to be dealt with at a later date.
+
+9. We acknowledged Mr Middleton’s witness statements and those of his witnesses, also contain passages that are irrelevant to the issues and pertain to events which occurred after dismissal. We indicated we do not expect Mr Keen to cross examine on the same.
+
+The Evidence
+
+10. For the Claimant, we had witness statements before us from:
+
+10.1 Mr Middleton himself, including a supplemental witness statement commenting on documents disclosed late by the Respondent;
+10.2 Ms Angela Glynn, former Fund Raising Officer for the Respondent;
+10.3 Professor David Harper, Trustee of the Respondent; and
+10.4 Ms Tracey Bigwood, former volunteer and latterly Social Media Officer for the Respondent, also Mr Middleton’s partner.
+
+11. For the Respondent we had witness statements from:
+
+11.1 Mr Adrian Blumfield, Chief Operations Officer;
+11.2 Dr Andrew McCulloch, Chair of the Respondent’s Board of Trustees; and
+11.3 Mr Martin Reader, Trustee of the Respondent.
+
+12. We had before us a properly paginated and indexed Bundle of documents originally running to page 966. During the course of the hearing there was further disclosure from the Respondent, some of it quite remarkable:-
+
+12.1 We were provided with two further versions of a document entitled, “The Business Case for Changes to Staff Structure and Conditions of Employment”, one of which had at the foot, “May 2023 (final)”. Case Number: 3309451/2023. Originally at paragraph 117 of his witness statement, as signed by Mr Blumfield on 5 February 2025 and as exchanged, he purported to assert that this document represented the situation as presented to the Board of Trustees at a Board Meeting in December 2022. At the outset of his evidence, Mr Blumfield agreed that paragraphs 117 and 118 of his witness statement should be deleted. His evidence was that this was a document that had changed from time to time and that the version he produced to the Respondent’s solicitors for disclosure was the latest version, he said it had been rewritten a number of times and he had misread it. He said that he had made a mistake. We did not find that a credible explanation. A further version of the document was inserted in the Bundle at page 163a – 163d.
+12.2 We were later provided with a further undated document entitled, “Notes on Meeting with Martin Reader” paginated at page 550a;
+12.3 We were provided with the Chief Operations Director Report to a Board Meeting on 15 December 2022, inserted at page number 967 – 969. The explanation for this late disclosure is that whilst the Respondent had provided it to the solicitors, the solicitors had neglected to disclose it.
+12.4 We were provided with notes of a private meeting of the Trustees of the Respondent on 28 March 2023, inserted in the Bundle at page
+
+970. Dr McCulloch told us he had noticed this document was missing from the Bundle when he was preparing for the hearing, he searched for it, provided it to the solicitors and it was disclosed.
+
+12.5 Inserted at page 971 is an email from the Respondent’s Human Resources Advisor Mr Lawrence to Mr Blumfield of 2 March 2023 which speaks of Mr Middleton potentially, “smelling a rat”. The explanation for this document not being disclosed is that the Respondent had thought that it was subject to litigation privilege, Mr Keen identified that it was not and arranged for it to be disclosed.
+12.6 At page 972 – 974 was inserted an email exchange between Dr McCulloch and Mr Blumfield on 24 March 2023, making pejorative comments with regard to Mr Middleton, suggesting that proposals should be made for termination of his employment. Again, the explanation for this not having been disclosed sooner was that those advising the Respondent took the view that it was subject to litigation privilege, which it is not.
+
+13. We spent the first day of the hearing reading the witness statements and reading or looking at in our discretion, the documents referred to therein. I gave the usual warning to the parties at the start of evidence, not to assume that we have read everything and that they must make sure they take us to what they consider to be relevant content in the documents during the hearing of evidence. Case Number: 3309451/2023.
+
+The Law
+
+Public Interest Disclosure
+
+14. Mr Middleton says he was subjected to detriment for having made protected disclosures, (whistle-blowing) and that he was dismissed because of those disclosures. The relevant law is derived from the Employment Rights Act 1996, (the “ERA”).
+
+Protected Disclosure
+
+15. Lord Justice Mummery explained the purpose of the whistleblowing legislation in ALM Medical Services Ltd v Bladon [2002]IRLR 807 CA as follows: The self-evident aim of the provisions is to protect employees from unfair treatment (ie victimisation and dismissal) for reasonably raising in a responsible way genuine concerns about wrongdoing in the workplace. The provisions strike an intricate balance between
+
+(a) promoting the public interest in the detection, exposure and elimination of misconduct, malpractice and potential dangers by those likely to have early knowledge of them, and (b) protecting the respective interests of employers and employees.
+
+16. What amounts to a protected disclosure is defined in the ERA at Section 43A as a qualifying disclosure. That in turn is defined at Section 43B as: “… Any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and tends to show one or more of the following – …
+
+a) that a criminal offence has been committed, is being committed or is likely to be committed,
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
+(d) that the health or safety of any individual has been, is being or is likely to be endangered,
+(e) that the environment has been, is being or is likely to be damaged, or
+(f) that information tending to show any matter falling within any of the preceding paragraphs has been, or is likely to be deliberately concealed.
+
+17. In summary:
+
+17.1 There must be a disclosure of information; Case Number: 3309451/2023.
+17.2 The worker must reasonably believe that the disclosure is in the public interest, and
+17.3 The worker must reasonably believe that the disclosure tends to show one of (a) to (e).
+
+18. The requirement is for the disclosure of information; i.e. conveying facts. It is not enough to make an allegation, see Cavendish Munro v Geduld UKEAT/0195/09. The mere expression of an opinion does not tend to show that the Respondent is likely to be in breach of any legal obligation, see Goode v Marks & Spencer Plc UKEAT/0442/09. However, there is a need for care; information can be disclosed within an allegation. The concept of “information” is capable of covering statements which might also be characterised as allegations. The correct question is to ask whether the disclosure contained information of sufficient factual content and specificity that it is capable of showing one of the matters listed in section 43B(1). This is a matter of evaluative judgment in light of the facts and the context in which it was made. See Kilraine v London Borough of Wandsworth [2018] ICR 1850 CA.
+
+19. The disclosures need not be factually correct, nor amount to a breach of the law, provided that the claimant reasonably believed them to be so, see Babula v Waltham Forrest College [2007 IRLR 346. The words used in relation to breach is, “tends to show” not, “shows”. A qualifying belief may be wrong but may be reasonably held.
+
+20. The expression, “reasonable belief” must be considered having regard to the personal circumstances of the discloser, in particular their “inside knowledge”, what they know about the field in which they work, about their employer, about the subject matter to which the disclosure relates. The test is subjective as to what belief the discloser had and objective, in terms of the reasonableness of that belief, in context, see Korashi v Abertawe Bro Morgannwg University Local Health Board [2012] IRLR 4.
+
+21. The claimant must also reasonably believe that the disclosure is in the public interest; there must be genuine subjective belief at the time of the disclosure and such belief must be reasonably held. In Chesterton Global Ltd (T/A Chestertons) v Nurmohamed & Others [2017] EWCA Civ 979, the Court of Appeal held that there were no absolute rules in deciding whether a disclosure was in the public interest; the essential point was that the disclosure has to serve a wider interest than the personal or private interest of the discloser. Relevant factors would include the numbers in the affected group, the nature of the interest affected, the extent to which they were affected, the nature of the wrongdoing and the identity of the alleged wrongdoer. That said, the number affected is not determinative; it is not a case of merely one other person being required to make it in the public interest. However, the larger the number affected, the more likely it is that it will engage public interest. Case Number: 3309451/2023.
+
+22. There is no requirement in the statute that the claimant’s motive for making the alleged disclosure must be that it is in the public interest to do so, although as Underhill LJ observed in Chesterton Global Ltd, it would be rare if a disclosure was believed to be in the public interest, that did not form at least part of the motive.
+
+23. If the question arises as to whether one of the situations listed in section 43B(1) is, “likely” to arise, the test is whether it is, “more likely than not” to arise, see Kraus v Penna Plc [2004] IRLR 260.
+
+24. The burden of proof lies with the Claimant to show that he made a protected disclosure.
+
+Ordinary Unfair Dismissal
+
+25. The right not to be unfairly dismissed is provided for at section 94 of the Employment Rights Act 1996, (ERA). Section 98 (1) and (2) of that Act set out 5 potentially fair reasons for dismissal, including conduct, redundancy and some other substantial reason.
+
+26. If an employer is able to satisfy the Tribunal that the reason that the employee was dismissed was one of those potentially fair reasons, the Tribunal must go on to apply the test of fairness set out at section 98(4): “Where the employer has fulfilled the requirements of subsection (1), the determination of the question whether the dismissal is fair or unfair (having regard to the reason shown by the employer) –
+
+(a) depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee, and
+(b) shall be determined in accordance with equity and the substantial merits of the case.”
+
+27. Redundancy is defined at section 139(1) of the ERA which includes where: “(b) the fact that the requirements of that business—
+
+(i) for employees to carry out work of a particular kind, or
+(ii) for employees to carry out work of a particular kind in the place where the employee was employed by the employer, have ceased or diminished or are expected to cease or diminish.” Findings of Fact
+
+28. The First Respondent is a charity. Its purpose is conserving wild birds of prey and their habitats. It maintains two nature reserves, one in Somerset known as Shapwick Moor and one in Norfolk, known as Sculthorpe Moor. Case Number: 3309451/2023. We glean from its annual accounts that in March 2022 it had 27 employees, in March 2023, 30 employees and in March 2024, 20 employees.
+
+29. Mr Middleton has been a volunteer with the First Respondent since 1985. He became employed in the title role of Conservation Officer on 29 October 2001.
+
+30. Mr Blumfield joined the First Respondent as Chief Operations Director in September 2016. He became Mr Middleton’s Line Manager. Mr Blumfield reported to the First Respondent’s Board of Trustees. He had operational responsibility for the running of the Trust day to day.
+
+31. Sometime in 2019, we are not entirely sure of the date, Mr Blumfield dismissed a person we shall refer to as ZS who held the title of Peregrine Officer. ZS reported to Mr Middleton. He was not consulted about the dismissal. He says that the dismissal caused unrest amongst the volunteers, who were unhappy.
+
+32. During 2021, organised and supervised by Mr Middleton, the First Respondent carried out work along the banks of the river Wensum as it passed through Sculthorpe Moor. The work entailed clearing out a dyke and placing the removed material on the river bank, within nine metres of the edge of the river. Mr Middleton and Mr Blumfield took the view that the First Respondent did not need a permit to carry out the work, the Environment Agency disagreed. A meeting with the Environment Agency took place on site on 15 November 2021. The meeting was attended by Mr Middleton, Mr Blumfield and one of the Trustees, Professor Harper. We accept Professor Harper’s evidence about this meeting. He described the representative from the Environment Agency as aggressive throughout and as a person who required tact to deal with, because he would not listen to any argument contrary to his own views. The Environment Agency representative issued Mr Middleton with a caution, he said on the basis he was legally obliged to do so as he believed that Mr Middleton was the person responsible for the work which had been carried out. Mr Middleton did not behave inappropriately towards the Environment Agency Officer in any way. The only time the Environment Agency representative was irritated, was when Mr Blumfield refused to confirm his date of birth and said that he would refer the question to his solicitors.
+
+33. Subsequently, on 13 June 2022, the First Respondent received a letter from the Environment Agency requiring remedial works to be carried out as the work undertaken was deemed to have significantly increased flood risk. That is something with which the Claimant, Mr Blumfield and Professor Harper disagreed, but nonetheless in due course, the remedial work was carried out.
+
+34. In May 2022, Mr Middleton’s Assistant, TS, was dismissed for gross misconduct. The allegations against him included an indirect threat via a third party to assault Mr Blumfield. Mr Middleton was interviewed in the investigation process, on 11 April 2022, (page 220) but he was not Case Number: 3309451/2023. involved in the decision making process. A settlement agreement was reached with TS which included a payment of money.
+
+35. We note that at a Board Meeting on 12 July 2022, (page 251 Item 3) Professor Harper is referred to as the First Respondent’s consultant. It is recorded that there was a difference of opinion over the Environment Agency matter, “…but as they act as judge and jury, we may have to invoke the appeal process which may be very complex and expensive.”
+
+36. We also note that in the Board Meeting of July 2022, Mr Blumfield reported on the dismissal of TS for gross misconduct, that he had appealed, that a settlement agreement had been reached about which there were misgivings but it was felt they needed to achieve closure, in light of the time and effort that could be involved in such matters.
+
+37. The First Respondent agreed to manage a common in the village of Guist in North Norfolk. In due course, Mr Middleton is criticised for the Respondent falling out with the Trustees of the Guist Common. Reference is made to an email from a representative of Guist Common dated 14 September 2022, complaining that he had been chasing Mr Middleton for an update on the expected grazing of cattle on the Common, noting that nothing appeared to have been done for its management in the previous two years. During the period of Covid 2020 / 21 the First Respondent had been short on volunteers. Mr Blumfield and Mr Middleton had agreed between them that they could not continue with the maintenance of Guist Common due to lack of manpower. They agreed to engage contractors instead. Mr Middleton sought a quote, but one was never provided.
+
+38. On 13 September 2022, the Respondent’s then Social Media Officer LW resigned. They gave some personal reasons for their resignation and also recited unresolved staff issues creating an unhealthy work environment.
+
+39. At a meeting of the First Respondent’s Trustees Finance Committee on 22 September 2022, we note from the minutes at page 256:
+
+39.1 Remedial work to Sculthorpe Moor was due to start at a cost of several thousand pounds, covered by insurance subject to an excess, and
+39.2 It was noted that Lottery funding would shortly be coming to an end and certain members of staff were covered by that funding. Savings were discussed by potentially reducing hours, not extending contracts on two individuals and replacing two members of staff who had recently left with a single person.
+
+40. Following this meeting, Mr Blumfield emailed the Respondent’s Human Resources Advisor, a Mr Peter Lawrence, employed by a business known as Human Capital Department. Mr Blumfield informed Mr Lawrence that a decision had been made with regard to these proposed changes. Mr Case Number: 3309451/2023. Lawrence’s advice in reply, (page 532) was that when reducing hours or making redundancies, there has to be a consultation process and identification of those at risk of redundancy.
+
+41. In a Report to the Board at a meeting on 17 October 2022, (page 262) Mr Blumfield reported progress on the restoration work at Sculthorpe Moor and changes to staff including non-replacement of two people whose contracts had expired and the resignation of the Social Media Officer. He set out a list of four individuals who were funded by the Lottery funding due to come to an end, including in that list Mr Middleton, of whose salary, 80% was said to come from this Lottery funding. The Tribunal notes that of course Mr Middleton had been employed since 2001, not since the receipt of the Lottery funding for the particular project, (the Fen Project, as it was known). A potential restructure for the Visitor Centre was also raised, with the possibility of reducing the staffing level by one person.
+
+42. On 31 October 2022 an Administration Assistant, SE, resigned her employment, (page 595). Also a volunteer, she gave as her reason for resigning that she had a number of times been upset by her manager, (that I,s the manager of the Visitor Centre, BR). The resignation followed an earlier email trail, (page 566 – 569) in which Mr Blumfield had written to SE by email challenging her because she had walked out and had,
+
+“Failed to deliver your contracted hours of employment.”
+
+43. In due course, Mr Middleton expresses his concern that Mr Blumfield had not done enough to try and prevent this person from resigning.
+
+44. On 16 November 2022, Mr Middleton had a conversation with one of the Trustees, a Mr Holms, in which he expressed his concerns about Mr Blumfield’s management style. Mr Holms suggested that Mr Middleton should raise his concerns direct with the Board of Trustees Chairman, Dr McCulloch, (page 540).
+
+45. Mr Middleton therefore wrote to Dr McCulloch on 17 November 2022 saying that he was concerned about the future of Sculthorpe and asking if they could meet face to face.
+
+46. Dr McCulloch met Mr Middleton via Zoom on 21 November 2022. Mr Middleton was accompanied by his partner Ms Bigwood, who made notes, (page 548). Dr McCulloch made notes himself, (page 547). Dr McCulloch’s note records that he said he did not wish to go through the detailed concerns at that stage, he just wanted to establish the nature of the concerns. He records Mr Middleton saying that his concerns were about inappropriate management style on the part of Mr Blumfield. He indicated he was not prepared to participate in an informal three way discussion on the issues. Dr McCulloch records that he would look to set up a process to deal with the concerns and get back to him. Ms Bigwood’s note further records Mr Middleton making it clear that he had no personal vendetta, that his concerns were management styles, the long term safety of Sculthorpe and the reputation of the First Respondent. He referred to Case Number: 3309451/2023. Mr Blumfield as being controlling, losing volunteers and provoking animosity toward him. He made reference to the recent resignation. He reported saying to Mr Blumfield they were losing staff and volunteers due to his attitude and that if he, (Mr Middleton) were to walk out tomorrow, all the staff and volunteers would follow him, to which Mr Blumfield is reported to have responded,
+
+“Then why are you still here?”
+
+47. Mr Middleton queried why the Trust was paying compensation on sacking somebody for, “gross incompetency”. He expressed the view that Mr Blumfield’s management style was affecting the long term safety of the First Respondent.
+
+48. Trustee Mr Martin Reader was appointed to hear Mr Middleton’s concerns. A meeting took place between Mr Reader and Mr Middleton via Zoom on 2 December 2022. An agreed note of this conversation appears in the Bundle at page 551. Mr Middleton relies upon the matters that he raised during this meeting as amounting to his first protected disclosure. In the introductory discussions Mr Middleton emphasised that he did not have a personal issue with Mr Blumfield, his concern was about his management style and that he’d had a reasonably good relationship with Mr Blumfield. We will quote from the minute those sections that have been quoted by Ms Ismail in her written submissions, representing what she says are the disclosures relied upon by Mr Middleton: “i. Other examples of not being included was the whole TS business. Nigel really does not understand if the Trust had grounds to dismiss, and questions why he did not have a big payout? Should we be paying staff that had been dismissed? All the circumstances around the people who have been dismissed are worrying. Nigel does not think TS was fairly treated but he can’t talk about it due to the payout. The notes Nigel sent were ignored and Adrian just got rid of TS. Nigel thinks that DS was a thorn in their side since he was appointed and Adrian didn’t want him there. Paying someone off does not seem right as there could be a bit of cash flow problems, still needing £100k worth of work done. Nigel’s concerns are that the £94k he has from his Green Recovery Challenge budget (and is ear marked for expenses as per the project budget and agreed with the Lottery) when mentioned to Adrian, he was told that Adrian had to watch the cashflow and that this money is in the reserve pot and used. Nigel is concerned that if he presents a £100k bill tomorrow for the project, would there be any money available to pay for it.
+
+ii. When ZS went for an interview with Adrian, Adrian would not allow Nigel to go into the meeting which [they] had requested, Case Number: 3309451/2023. and [they] wasn’t allowed any support in that office. [they] walked out and just said “he sacked me”.
+iii. There are cameras in offices and the girls in the office feel they are being watched all day. Yes, it is fine to have them in the shop, but not necessary in an office until people leave. The security cameras went in when Adrian started. … staff do not feel like they are trusted and are monitored constantly by CCTV.
+iv. The website needs upgrading, as it’s terrible. I have to do a valuation of the project. Adrian had asked my partner, Twiggy, [that is, Ms Bigwood] to do it. And she has been asked to do social media. Twiggy has asked for three pages to go up which are necessary for the final payments for the lottery projects and is part of the formal agreement. Adrian has been reluctant to let that happen. When she has gone into the old technology Joomla – why doesn’t he use word press? But he prefers Joomla 1990’s company that isn’t supported any more. Everything is corrupted on the page. It looks so amateur. As part of the HLF for the Wensum project, there was money in the budget to upgrade it. If the lottery look closely they will know that we haven’t spent any of that money on the website which is what it is for.
+v. At the moment there is a shop but only six items are available. It is not safe to sell anything on the website in the current form but if this was updated Carolyn, who runs the shop now, could easily upload new products with integrated shop-front software, and we could sell a wide range of items. In addition because it is not an online shop, and merely a form, to fill in, forms have been going to the wrong place and customers let down.
+vi. The accountant came in when Adrian and Nigel were meeting. So Nigel left and got called back in. The dog walked out with a tape recorder in its mouth from under the desk. I think everything has been taped which is not on.”
+
+49. Mr Reader did not investigate any of the matters mentioned regarding named individuals. Dr McCulloch said that he investigated the most serious of the allegations. He concluded there was no substance to the allegations. There is no note or any other record of any such investigation.
+
+50. Dr McCulloch met with Mr Middleton on 9 December 2022, Dr McCulloch’s note of that meeting is at page 612. Dr McCulloch explained to Mr Middleton that his planned way forward was that on Mr Middleton returning to work in the new year, he would hold a one to one meeting with Mr Middleton, followed by a one to one meeting with Mr Blumfield and then a Case Number: 3309451/2023. meeting with both of them to discuss ways of working, communication and management style. He suggested the outcome would be a clear sense of direction and ground rules for the future that everybody would work to. Mr Middleton agreed to co-operate.
+
+51. There was a Trustees Board Meeting on 15 December 2022, the minutes are at page 264. Mr Blumfield’s report to the Board for that meeting is at 967, another late disclosed document. The issue with the Environment Agency was discussed. It was noted that Mr Middleton and Mr Blumfield both felt that the Environment Agency was looking for somebody to blame and therefore, care had to be taken in comments made. A meeting was planned for 20 December 2022 where it was hoped the current issues would be resolved
+
+52. Mr Blumfield is recorded as telling the Board that he had some complaints and would seek advice on how to handle them. They were alleged complaints about Mr Middleton and Ms Bigwood.
+
+53. On 2 January 2023, Mr Blumfield sent an email to Mr Lawrence at Human Capital Department saying that before Christmas he had received several complaints about two staff members, (i.e. Mr Middleton and Ms Bogwood) relating to their conduct in the workplace, insubordination towards the organisation, fellow employees and superiors. He asks Mr Lawrence if he can assist with investigating so that he, Mr Blumfield, can remain impartial.
+
+54. In the meantime on 8 January 2023, Mr Middleton wrote to Dr McCulloch explaining he no longer wished to proceed with the matters he had raised insofar as they relate to him personally. In short, he did not think it would be in the interests of the First Respondent and its projects if there was any further tension between him and Mr Blumfield. He did, however, explain that in respect of matters that he had raised in relation to other members of staff, with their permission, he would request that the Trustees deal with those personally with the individuals concerned. Dr McCulloch replied saying that he could not, “unhear” what Mr Middleton had said and that the Trustees cannot ignore the issues.
+
+55. On 9 January 2023, Mr Lawrence produced a “Preliminary Investigation Report”, (page 616). This in relation to the matters raised by Mr Blumfield, which related to Mr Middleton and Ms Bigwood. We note the following:
+
+55.1 Mr Lawrence had met with the manager of the Visitor Centre BR, who reported that Mr Middleton had made inappropriate comments about allocation of Trust revenues, mismanagement of finances, referred to Mr Blumfield as an idiot and discussed confidential meetings inappropriately.
+55.2 BR is recorded as having said that there were issues over Mr Middleton’s management of the Visitors Centre, apportioning some blame to Mr Middleton for the above mentioned resignation of the Social Media Officer. It was suggested there was a lack of action Case Number: 3309451/2023. on the part of Mr Middleton in the face of low level bullying amongst staff.
+55.3 BR suggested that Mr Middleton was responsible for the hostile reaction of the Environment Agency.
+55.4 Mr Lawrence observed that all management issues should be addressed in a timely and appropriate manner and some of these matters appear to have been left unchallenged. He advises going forward, incidents are dealt with promptly. He suggested allegations of unsupportive behaviour and gossiping and not observing confidentiality should be addressed through the disciplinary process.
+55.5 In relation to what he describes as ineffective supervisory response, he observed Mr Middleton was a long serving member of staff with a high media profile late in his career, what would previously have been regarded as retirement age. He suggested that Mr Middleton’s role could be adopted to take account of this, the Respondent could adopt an employer – justified retirement age or offer part time or flexible working options to ease into retirement.
+55.6 Mr Lawrence noted it was difficult to make any conclusion in respect of the Environment Agency without more information.
+55.7 Mr Lawrence warns that the disciplinary process would have to be handled carefully or there would be a risk of a claim of constructive dismissal, unfair dismissal and age discrimination.
+
+56. Also on 9 January 2023, after receiving Mr Lawrence’s report, Mr Blumfield sent an email to Dr McCulloch, (page 614). He referred to an earlier conversation. He referred to several complaints having been received with regard to Mr Middleton and Ms Bigwood. Most of the complaints related to their conduct in the workplace, inappropriate and insubordinate. He said that their conduct could not continue unchallenged. He said that he had met with Ms Bigwood that morning, who denied being unsupportive. He said he advised her that her contract would not be extended beyond 17 April 2023. With regard to Mr Middleton, Mr Blumfield said that the Trust could not afford to ignore his conduct, that the Trust was fortunate not to face an Employment Tribunal claim in relation to the resigned Social Media Officer and he said that, “There is more than sufficient additional evidence (board report of December 2022) that he needs to be totally removed from the management of the organization before he creates an even bigger issue.” The Board report of Mr Middleton at 967, (provided late) does not appear to contain such, “more than sufficient evidence”. Case Number: 3309451/2023.
+
+57. Mr Blumfield commented that if they proceed down the disciplinary route, he doubted it would end well. He proposed that Mr Middleton be reduced from full time to one day a week on a one year contract, at the end of which he would retire. He should lose management of Sculthorpe and a new member of staff appointed to deliver on that. It would be made clear to him he would act in an advisory and consultancy capacity only. He would lose full time use of the company vehicle and other benefits. The company vehicle would become a pool vehicle.
+
+58. Dr McCulloch replied, (page 927) to say that they would need to go through this in detail in view of the seriousness of the position and he expressed disappointment that Mr Blumfield had not informed him that he had initiated an independent investigation commenting, “…as this could have left me in a difficult position, fortunately avoided due to the fact that I hadn’t been in touch with Nigel in a substantive
+
+way.”
+
+59. From that and the remarkable timing of these matters being raised by Mr Blumfield following Mr Middleton’s approach to Dr McCulloch on 17 November 2022, we glean that it seems Dr McCulloch must have in some way, informed Mr Blumfield that Mr Middleton had raised with him matters that would need to be discussed. Dr McCulloch denied this in cross examination. We did not find his denial convincing. The timing of Mr Blumfield’s actions are a remarkable coincidence. We conclude that Dr McCulloch must have made Mr Blumfield aware that Mr Middleton had raised matters about him.
+
+60. It is clear from the continuing email correspondence on 10 January 2023, Dr McCulloch commenting,
+
+“We need the Board behind the direction of travel.”
+
+that they are both of a mind that Mr Middleton must go. On Dr McCulloch’s part, perhaps in the phased way suggested by Mr Lawrence, but on Mr Blumfield’s part, as soon as possible.
+
+61. Mr Blumfield and Dr McCulloch had a conversation on 13 January 2023, recorded in a report which appears at page 268, (duplicated at page 622). The report must have been written, or completed, after 28 January 2023, because it refers to an Occupational Health report of that date. The report referred to there being significant concerns about the work and performance of Mr Middleton and the risks arising therefrom for the Trust which is said to fall into three main areas: “1. Management of staff and his ability to deliver and incompetency.
+
+2. Financial risks to the Trust.
+
+3. Physical and mental well-being and their impact.” Case Number: 3309451/2023.
+
+62. The report proceeds to set out at length the concerns in relation to Mr Middleton, which includes concern that the Social Media Officer resigned because he had failed to address conflict between staff at the Visitors Centre. The report of Mr Lawrence was recited. There was a lengthy critique of Mr Middleton’s lack of management skills. There was a critique of the lack of works being carried out at Sculthorpe Fen. There was criticism of damage to a vehicle dating back to January 2018, an accident in April in 2019 and in relation to an invoice for some work carried out dating back to May 2021. Mr Blumfield blamed Mr Middleton for the issue relating to the Environment Agency saying that he should have been aware that a permit was needed.
+
+63. Arising out of the meeting between Mr Blumfield and Dr McCulloch on 13 January 2023, it was decided to refer Mr Middleton to Occupational Health. He was due to undergo knee replacement surgery. They wanted to ask Occupational Health to advise in relation to what he called serious concerns on Mr Middleton’s ability to deliver his role physically and mentally. He asked Mr Lawrence to assist in preparing a referral. Mr Lawrence replied, (page 930) that he would need a bit of time as the request was a little unusual.
+
+64. A copy of the Occupational Health Referral is at page 639. It highlights as the reasons for referral, “mental health and musculoskeletal”. The referral asked whether the employee was fit for work, if there were any adjustments to support a return to work and what the long term prognosis was? In the narrative, it is suggested that pain and discomfort due to his knee may have taken a toll on his mental health, the report states, “We are concerned about Nigel’s mental health from a stress point of view, although Nigel has never mentioned this directly he doesn’t seem to cope well with stress.” It says that project deadlines have been missed and pressure from management may not have helped. It states that they are considering moving his role to part time consultancy with no management responsibilities.
+
+65. We were told that the mental health concerns were based upon three days self-certified absence from work at a time when Mr Middleton was feeling the effects of Covid and felt exhausted after working seven days in a row without a break.
+
+66. Mr Middleton attended for his Occupational Health appointment on 28 January 2023. He learned from the Occupation Health Nurse, the contents of the Referral and in particular the proposal he should be moved to part time or a consultancy and have his management responsibilities removed. This came to him as a shock.
+
+67. The Occupational Health Report was produced dated 28 January 2023. A copy is at page 654. The Report does confirm that Mr Middleton was becoming increasingly physically and emotionally tired, finding it difficult to Case Number: 3309451/2023. cope with the pain and immobility, it said that such symptoms should settle after the surgery. Not surprisingly, the Occupational Health Nurse said that it was too soon to assess what might be necessary to accommodate Mr Middleton. It is suggested that after Mr Middleton had returned to work, his line manager should meet with him to discuss whether the feelings of stress have persisted and that this meeting perhaps should be delayed until the third or fourth week after his return. A phased return to work was recommended which, it is suggested, should be discussed and agreed when he is ready to return.
+
+68. Mr Middleton underwent knee replacement surgery on 10 February 2023. There was a Trustee Board Meeting on 13 February 2023, the Minutes for which are at page 287. The report referred to above prepared by Mr Blumfield and Dr McCulloch arising out of their meeting on 13 January 2023, was produced at this meeting, (page 268). The cryptic entry at Item 1 refers to Dr McCulloch as Chair having in a private session given to the Trustees an overview of how he saw the HR issues and the need to tackle them in a compassionate and balanced way. That is a reference to Mr Middleton. At Item 3, it is recorded the Board agreed that the strategy proposed should be followed, the current situation perceived as unsustainable but a compassionate solution required with a limited focused role on conservation, which would add value for the Trust and provide a dignified exit from managerial responsibilities. Equally, it was said, they would need to be firm. Mr Blumfield was to take detailed advice from HR on tactics. It was said that the process would likely be difficult and time consuming.
+
+69. By letter dated 15 February 2023, (page 661) five days after his knee surgery, Mr Middleton received a letter inviting him to a meeting to discuss proposed changes to his terms and conditions of employment, including a reduction in people management responsibilities, a phased reduction in working hours and the loss of his company vehicle. This is said to be necessary because of financial constraints and the need for an internal restructure. The proposed meeting was to take place on 2 March 2023.
+
+70. On 21 February 2023, Mr Middleton emailed Dr McCulloch to protest. He remarked that Mr Blumfield’s covering email which attached that letter had referred to a back to work meeting. However, it was apparent from the content of the letter that it was not a back to work meeting that was proposed. This email is relied upon by Mr Middleton as a his Second Protected Disclosure. The 2 passages quoted by Ms Ismail in her written submissions, relied on as amounting to disclosures, are: Zoe Smith- invited to a meeting, she requested that I attend, and Adrian refused this option, 10 minutes later she was dismissed. This led to a pay out to Zoe from the Trust. Was this good use of charitable funds? Case Number: 3309451/2023. Tim Smith – again invited to an “off the record meeting” and also not allowed to have support at this meeting, consequently put on garden leave then suspended and finally dismissed. This also involved a pay out to Tim. Was this good use of charitable funds?
+
+71. Dr McCulloch replied by letter of 24 February 2023, (page 666) inviting Mr Middleton to expand upon his email in line with the Trust’s grievance procedure and informing him that Mr Lawrence of Human Capital Department would hear his grievance on 9 March 2023.
+
+72. On 28 February 2023, Dr McCulloch emailed Mr Middleton to explain in relation to a Heritage Lottery Fund application Mr Middleton had made for funding in respect of something referred to as Project Hoot, the Respondent had been asked for evidence of a £15,000 promised donation which had been referred to in the application. Dr McCulloch asked if Mr Middleton could provide something in writing to confirm the promised donation. Mr Middleton replied that day, (page 670) to explain that the donor referred to, who had also promised funding of a £26,000 salary for an Education Officer, had not provided anything in writing, they had just made a promise of the donation. He then wrote, “[They] are also great supporters of my work at Sculthorpe and, because of the uncertainty of my role in Project Hoot and my future at the Reserve, [they] are waiting to see what happens with me before committing this further £41,000.”
+
+73. He explained that individual was also a personal friend of employee SE who had been dismissed and he wrote, “The potential donor is horrified with the way that [they have] been treated too. Therefore this £15,000 will not be released at present.”
+
+74. We should note at this point for convenience, although Dr McCulloch did not know it, Mr Middleton had not told this prospective donor about what was happening to him. He had not approached the donor, SE had.
+
+75. Dr McCulloch and Mr Blumfield sought advice and asked Mr Lawrence to draft a letter to Mr Middleton. We do not see any documentation in relation to the seeking of advice, but we see the advice provided in an email of 2 March 2023, page 971, one of the documents disclosed during the course of this hearing. Mr Lawrence wrote: “I have not found a suitable letter in our library to cover this [we have something relating to post-termination but not appropriate at this time], so suggest we should write NM a short note reminding him that, in line with HR guidelines, whilst he is off sick and recuperating from the operation he is not expected and he should not be undertaking any work for the Trust. [this includes the use of work email]. Case Number: 3309451/2023. The breach of confidentiality is definitely part of the disciplinary but he might smell a rat if we specifically mention it at this point. Perhaps a reminder about confidentiality could be sent out to all staff - …”
+
+76. Mr Blumfield and Dr McCulloch told us in evidence that they were unable to explain what the, “rat” was that Mr Middleton might smell.
+
+77. In the meantime, Mr Middleton submitted a formal grievance about the letter of 15 February 2023, page 677. The “reparation” he sought was a written apology from Mr Blumfield together with a formal written program for his return to work in accordance with the Occupational Health Report. The grievance meeting was due to take place on 9 March 2023. On 8 March 2023, Mr Lawrence wrote an email to Mr Blumfield and Dr McCulloch, (page 671) in which he wrote of the pending grievance meeting, (9 March was a Thursday): “It might be better if I were to deliver the decision on Friday am to show that it has been considered carefully. We can then instigate the disciplinary process [also on Friday]. As the matters are of a serious nature I think it appropriate to start the process even though NM is currently off – sick.”
+
+78. The grievance meeting with Mr Lawrence and Mr Middleton took place on 9 March 2023 by Zoom, Mr Lawrence’s minute of that meeting is at page
+
+675. Mr Middleton questioned Mr Lawrence’s independence, given that he was engaged by the Trust to support their HR function. He explained why he felt the letter he had received was inappropriate. He confirmed that he was looking for an apology, stating that the letter was untimely, unfair and he wanted a phased return to work plan.
+
+79. Mr Lawrence gave an outcome to the grievance the next day as he indicated he would, on 10 March, page 678. He found that the letter did not purport to be an invitation to a back to work meeting as Mr Middleton had portrayed it, but rather an invitation to discuss proposed changes to his terms and conditions and as part of a consultation process. He wrote that the topics of return to work and consultation about changes to terms and conditions are linked to his ill health and the referral to Occupational Health, as the Trust was considering what reasonable adjustments should be made to his duties and responsibilities, one of which was transitioning to a part time consultancy role. He acknowledge that the invitation to the meeting was, with the benefit of hindsight, ill timed as he had not recovered from his operation, but this was not deliberate or malicious and did not merit a written apology.
+
+80. Following the Grievance Outcome, on 13 March 2023, Dr McCulloch wrote to Mr Middleton to inform him that he was under investigation because of the email that he had sent on 28 February 2023. A possible outcome of the investigation was that it may be necessary to implement a formal disciplinary process. Case Number: 3309451/2023.
+
+81. Mr Blumfield conducted the investigation. He prepared a report, which appears at page 689. He did not meet with Mr Middleton, or anybody else, in the preparation of this report:
+
+81.1 The first heading reads, “Gross Misconduct – Manipulation of a donor, blackmailing of the Trust and breach of the Employment Contract”. The Report proceeds to recite the contents of the letter, the contract of employment and draws a conclusion that Mr Middleton was attempting to blackmail the Trust.
+81.2 The second heading of the report entitled, “Gross Misconduct – Bringing the name of the Trust into disrepute and Unprofessional conduct”. Here Mr Blumfield criticised Mr Middleton’s conduct as he describes it, befriending a very generous donor out of work, exhibiting lack of professional integrity, foresight and potentially exposing the Trust to a Charity Commission investigation and a conflict of interest. He goes on to refer to the Environment Agency incident, the fact that Mr Middleton was issued with a caution implying that he was in some way culpable for that by his behaviour in the site meeting, thereby bringing the Trust into disrepute.
+81.3 The third heading of the report is, “Gross Misconduct – Inappropriate remarks, derogatory comments and defamation of character”. Here Mr Blumfield returns to the historic matters raised about comments Mr Middleton was alleged to have made relating to the allocation of funds and in relation to Mr Blumfield including the allegation that he had been referred to as an, “idiot”.
+81.4 The fourth sub-heading of the Report is “Gross Misconduct – Insubordination at work”, in which he set out complaints, many of them historic, about the way Mr Middleton spoke about the Trust and his alleged failings in performance. There is criticism of his failure to deliver on time.
+81.5 Under a heading “Mis-use of Company Property”, Mr Blumfield set out again reference to a parking fine in January 2022, an allegation that he had seen Mr Middleton driving his company vehicle when he should not have been, in a place where he should not have been, in October 2022.
+
+82. By letter dated 15 March 2023, Mr Middleton was summoned to attend a Disciplinary Hearing on 23 March 2023, attaching the above mentioned report.
+
+83. By a second letter dated 16 March 2023,(page 686) Mr Middleton was suspended.
+
+84. On 22 March 2023, Mr Middleton requested a postponement. To begin with he merely said, “due to a number of circumstances”. Mr Lawrence replied to ask whether there was any specific reason why he could not attend, in response to which Mr Middleton replied explaining he was Case Number: 3309451/2023. awaiting an emergency appointment regarding his knee operation and that he had been certified unfit for a further four weeks, a copy of which he would send through shortly. Mr Lawrence replied to say that he had taken instructions, (that was from Mr Blumfield and Dr McCulloch) and that the request for a postponement was refused.
+
+85. The Disciplinary Hearing before Mr Lee of Human Capital Department and Mr Henry Robinson, a Trustee and Director convened on 23 March 2023, notes of the hearing are at page 721. The notes record that those present waited until 10:40, (ten minutes after the schedule start time) and then decided to proceed in Mr Middleton’s absence. Mr Lee of Human Capital Department is recorded as making the following observations:
+
+85.1 Some of the issues identified in the Investigation Report should have been dealt with under performance management and appraisal. Those present were unsure whether or not that had been done.
+85.2 Allegations relating to use of the Trust vehicle probably did not amount to gross misconduct.
+85.3 With regard to the Environment Agency, more documentation and information would be required.
+85.4 In relation to “potential blackmail”; it could be considered gross misconduct and Mr Robinson agreed but wanted to hear Mr Middleton’s views.
+85.5 Mr Lee felt that there was a very clear breakdown in the relationship between Mr Middleton and the Trust, with which Mr Robinson agreed.
+85.6 Given some of Mr Middleton’s actions, Mr Lee could not see how his employment with the Trust could continue.
+
+86. Mr Robinson prepared his own note of this hearing, in which he recorded that he had expressed the view that the hearing could not proceed without Mr Middleton being present, “Naturally it is very inconvenient and wastes time, but natural justice means that even if it is permissible in law I suggest it looks uncaring and should be avoided.” He wrote of the strongest part of the Respondent’s case being the perceived threat to grant money which could be gross misconduct,t but other matters seemed less so. He concluded that the relationship between Mr Middleton and Mr Blumfield had deteriorated to the point of being unworkable. He doubted it was repairable. He described the Respondent’s case as, “fair but not excellent” and he suggested that to avoid a Tribunal, they should start a process of reaching financial settlement with Mr Middleton, which was likely to be expensive. Case Number: 3309451/2023.
+
+87. On 24 March 2023, (page 972, further late disclosure during the course of this hearing) Mr Blumfield wrote to Mr Lawrence expressing disappointment that the Disciplinary Hearing had not proceeded. He suggested that Mr Middleton was using delaying tactics, “…at every corner and proposal we make. We are all in agreement that this cannot continue.” He suggested that Mr Lee should arrange a without prejudice meeting with Mr Middleton to propose terms of settlement on which he would leave the Respondent’s employment. He referred to Mr Middleton engaging time delaying tactics and that therefore, a two week window must be imposed. Dr McCulloch was a party to this correspondence.
+
+88. In accordance with his instructions, Mr Lee emailed Mr Middleton on 27 March 2023 to explain he had been asked to meet with him and enquiring when he would be free. We observe that at this point, Mr Middleton had not been told what had happened at the Disciplinary Hearing, he did not know the outcome and he did not know that it had been adjourned.
+
+89. There was a Board Meeting on 28 March 2023, the Minutes are at page
+
+295. After that meeting there had been a private meeting of the Trustees, (page 970 – more late disclosure during the course of the hearing). Dr McCulloch reported the Disciplinary Hearing did not proceed because it was felt it would be unfair in Mr Middleton’s absence. They had reached the view that further charges were extensive and two or three could amount to gross misconduct, the evidence was not always strong, however, they felt it was clear that the relationship with Mr Blumfield had broken down and therefore Mr Blumfield and Dr McCulloch had agreed the HR Consultant should try and negotiate an exit agreement. Dr McCulloch expressed his personal view that there was significant wrongdoing but that it was hard to evidence to a sufficient degree to guarantee winning a Tribunal. He expressed his personal view that Mr Blumfield was not at major fault, but he could improve his performance management / handling of staff.
+
+90. The minutes of the Board Meeting merely record Mr Blumfield had said they may need to take the redundancy option.
+
+91. We do not know the precise timing or the details, but we were told that an offer was made to Mr Middleton and it was rejected.
+
+92. Subsequently, on 27 April 2023, Mr Blumfield wrote to Mr Middleton to inform him that he was at risk of redundancy and a period of seven days consultation was commencing.
+
+93. At this point, Mr Middleton was still suspended from work and the disciplinary process was pending. Case Number: 3309451/2023.
+
+94. On 4 May 2023, solicitors acting on behalf of Mr Middleton emailed Mr Lawrence to explain that Mr Middleton could not engage in meaningful consultation about redundancy until he was able to understand the arrangements for the ongoing disciplinary process. Further, she pointed out that Mr Middleton was on annual leave until 12 May 2023 and would not engage in consultation during that period. There followed correspondence in which it was suggested that Mr Middleton was not on annual leave. His solicitor produced a screen shot of the Respondent’s management system leave calendar showing that he was indeed on pre- arranged leave.
+
+95. On 5 May 2023, Mr Middleton received a letter informing him that notice he attend a disciplinary hearing was withdrawn, (page 737). Twenty minutes later, he received a letter informing him that he was dismissed with immediate effect, (page 739) saying that he had refused to attend a meeting, would not discuss matters with them and they therefore had no alternative but to make his position redundant.
+
+96. On 11 May 2023, Dr McCulloch sent an email or posted a message to the Respondent’s volunteers which included the following: “As some volunteers may know, our Sculthorpe Warden – Nigel Middleton, has been on medical leave since February. Considering several unrelated factors, please be advised that Nigel will not be returning as employee of the Trust. The Trustees wish to acknowledge and thank Nigel for his work at Sculthorpe and wish him well for the future.”
+
+97. That day, Mr Middleton posted on Facebook the following: “Contrary to the statement issued by the Hawk and Owl Trust to their volunteers, the fact is there is no other reason for me leaving Sculthorpe only that the Trust has made me redundant. I am fit and well and had no desire to leave Sculthorpe.”
+
+98. On 12 May 2023, Solicitors instructed by the Respondents wrote to Mr Middleton referring to his defamatory publication on Facebook, demanding that he cease and desist from making any further defamatory statements and if he fails to do so, they would consider further action.
+
+99. On 23 May 2023, the same solicitors on instructions from Mr Blumfield wrote to Mr Middleton’s daughter, (page 755). She had grazed cattle on the Trust’s land since 2005; two steers which were regarded as family pets. The solicitor’s letter suggested that these animals were on the Trust’s property without knowledge or permission and demanded that they remove them within ten days. They warned that if they did not comply, County Court proceedings would be issued for trespass, resulting in a Judgment that would be recorded on the register for Orders, Judgments and Fines. Case Number: 3309451/2023.
+
+Conclusions
+
+100. Contrary to the sequence set out in the List of Issues, we must first decide whether or not Mr Middleton made protected disclosures, before we go on to consider whether he was dismissed for making such disclosures and thereafter, whether he was subjected to detriment for having made such disclosures. Did Mr Middleton make protected disclosures?
+
+101. Mr Keen’s comments in his written closing submissions on the absence of evidence from Mr Middleton in his professionally drafted witness statement about what information he says that he conveyed to the Respondent and what he believed that such information showed, or tended to show, as a breach or a likely breach of the law, are points well made.
+
+102. It is all very well, with the benefit of hindsight and legal advice, to say that one believed at the time what one was saying amounted to a breach of a legal obligation, (or a miscarriage of justice, or that something might be concealed) but even with that benefit, Mr Middleton has not set out clearly in his witness statement any such belief in specific respect to each alleged disclosure relied upon. When he was asked about this in cross examination, we did not find his evidence convincing in this regard.
+
+103. We will consider each alleged protected disclosures in turn, adopting for ease of reference, the numbering from the List of Issues.
+
+2.1.1 – disclosures to Mr Reader in the meeting on 2 December 2022; 2.1.1.a – correct processes were not followed in relation to dismissals:
+
+104. At paragraph 111 of his witness statement, Mr Middleton said that he believed staff were being dismissed without following proper procedures, which could be a breach of employment law. He does not explain what he means by that.
+
+105. The note of the meeting does record Mr Middleton saying that ZS had wanted him to accompany them into the meeting with Mr Blumfield, who would not allow it and they were dismissed in the meeting. There are arguably the bare bones of an allegation that ZS was not allowed their right to be accompanied at a disciplinary hearing, which would be a breach of a legal obligation. However, there is not sufficient factual content or specificity in what is written, to show a breach of a legal obligation. Importantly, Mr Middleton does not say to Mr Reeder that this is what he is alleging. The context is, Mr Blumfield’s poor management.
+
+106. We find that Mr Middleton did not believe he was disclosing breaches of employment law. He did not believe that he was disclosing something that tended to show, or was or was likely to be, a breach of a legal obligation. We find his belief was that what he was disclosing was his opinion that Mr Case Number: 3309451/2023. Blumfield’s management of staff was poor. That is not a protected disclosure.
+
+107. We further find that Mr Middleton did not believe what he was disclosing was in the public interest. Disclosure of poor management, even in respect of a charity, is not in the public interest but even if it were, that was not Mr Middleton’s belief at the time. 2.1.1.b – unnecessary ex gratia payments being made and in turn misuse of funds:
+
+108. There was not sufficient factual content or specificity in what is recoded as having been said as to be capable of showing a breach of a legal obligation.
+
+109. We find that Mr Middleton did not believe he was disclosing misuse of charitable funds in the sense of tending to show there was a past, present or likely future failure to comply with a legal obligation, as opposed to poor management.
+
+110. Had Mr Middleton held such a belief, he would not have done so on reasonable grounds, because he did not know the circumstances of the payments. Payment to outgoing employees who have been dismissed are common place and not an indication necessarily, of wrong doing by the employer, but a commercial decision made in light of the management time and resources that might be expended in resisting a claim that may have little or no merit.
+
+111. There is no evidence that Mr Middleton believed that what he was disclosing was in the public interest, nor was it. Undoubtedly, a disclosure that a charity was misusing funds is likely to be in the public interest but not in respect of settlement payments being made to dismissed employees. There is no evidence that Mr Middleton made these disclosures believing them to be in the public interest.
+
+2.1.1.c – unnecessary surveillance and recording:
+
+112. There was not sufficient factual content or specificity in what is recoded as having been said as to be capable of showing a breach of a legal obligation; there mere presence of CCTV cameras and people feeling watched and unhappy is not a breach of a legal obligation.
+
+113. This was not information that tended to show a past, present or likely future failure to comply with a legal obligation. It is not suggested by Mr Middleton he thought the Respondent was not entitled to have those cameras in place. We find that he did not believe that what he disclosed amounted to the same.
+
+114. As to the reference to a dog walking out of the room with a tape recorder in its mouth, on the basis of which he makes an allegation that everything has been recorded; covert recordings of employees might be a breach of Case Number: 3309451/2023. a legal obligation, but Mr Middleton has not set out that is what he believed or why he believed it and that it tended to show past, present or likely future failure to comply with a legal obligation. We find that he did not so believe. This is again, a complaint about management style.
+
+115. If there were covert recordings, in breach of Data Protection legislation, that certainly has the potential to be in the public interest given that the First Respondent is a charity, but there is no evidence from Mr Middleton that is what he believed at the time. We find that he did not so believe at the time.
+
+2.1.1.d – IT systems not secure and Respondent at risk:
+
+116. In the passage relied upon as set out above in paragraph 48(iv) and (v), that is not what is said. What is set out in the passage relied upon is an allegation about the poor quality of the Respondent’s website, (not that its IT system is insecure). What is relied upon is not information, it is an allegation, an expression of an opinion. It does not have sufficient specificity to be capable of amounting to a breach of a legal obligation.
+
+117. Further, this does not, and Mr Middleton did not believe that, it tended to show a past, present or likely future failure to comply with a legal obligation.
+
+118. That a charity has a poor website is not something that would be in the public interest, (that it had insecure IT systems might be). We find that Mr Middleton did not at the time have a belief that what he was raising was something that was in the public interest. 2.1.1.e – Mr Blumfield’s management style and his interactions with third parties not being undertaken in the best interests of the First Respondent, or its reputation:
+
+119. Mr Middleton was certainly complaining about Mr Blumfield’s management style. He also expressed concern at Mr Middleton’s failure to develop relationships outside the reserve. The relevant passage is not quoted in Ms Ismail’s written closing submissions, which would seem to indicate the allegation is not pursued.
+
+120. In any event, it is a complaint and an expression of an opinion, not a disclosure of information.
+
+121. We find that in this regard, Mr Middleton did not believe he was disclosing information that tended to show a past, present or likely future failure to comply with a legal obligation.
+
+122. There is no evidence that at the time, he believed he was disclosing something that was in the public interest and we find that he did not. Case Number: 3309451/2023.
+
+2.1.2 – email to Dr McCulloch of 21 February 2023; 2.1.2.a – Mr Middleton’s expectation that his first meeting on his return to work after his knee operation be about facilitating his transition back to work:
+
+123. This is not a disclosure of information, it is just a statement by Mr Middleton as to what his expectation was.
+
+124. Holding such a return to work meeting, whilst common place and good employment relations practice, it is not per se a legal obligation. What Mr Middleton wrote was not, nor did he believe it to be, something which tended to show a past, present or likely future failure to comply with a legal obligation.
+
+125. Mr Middleton did not believe that it was, nor was it, something that was in the public interest.
+
+126. We note that no reference is made to this in Ms Ismail’s closing submissions. 2.1.2.b – that Mr Middleton was surprised to see in the OH report that the Respondent was considering changing his role:
+
+127. Mr Middleton was expressing how he felt; that is not a disclosure.
+
+128. It is not, nor did Mr Middleton believe it to be, something which tended to show a past, present or likely future failure to comply with a legal obligation. Nor did he believe, nor was it something that was, in the public interest.
+
+129. Again, we note this is not something relied upon in Ms Ismail’s written closing submissions. 2.1.2.c That it was clear Mr Blumfield did not want Mr Middleton to continue working for the First Respondent.
+
+130. This is an allegation, an expression of an opinion, not the provision of information.
+
+131. Mr Middleton did not believe that, nor did it, tend to show a past, present or likely future failure to comply with a legal obligation. Nor did he believe, nor was it, something which was in the public interest.
+
+132. Again, this is not something that was relied upon in Ms Ismail’s closing submissions. 2.1.2.d – that Mr Middleton would not have an off the record conversation with the Second Respondent as he had seen what had happened to others: Case Number: 3309451/2023.
+
+133. This is something that is referred to in Ms Ismail’s closing submissions. See paragraph 70 above where we have set out the passages quoted by Ms Ismail.
+
+134. We dealt with the ZS not being accompanied point above. Here, we also have a reference to TS not being allowed support. We make the same point. There is not sufficient factual content and specificity capable of showing a breach of a legal obligation.
+
+135. Further, we find that Mr Middleton did not believe that he was disclosing information that showed or tended to show a past, present or likely future failure to comply with a legal obligation. Nor is it, nor did Mr Middleton believe, that these matters were in the public interest. 2.1.2.e – the Second Respondent’s actions were not conducive to Mr Middleton’s recovery five days after his operation:
+
+136. This is not a provision of information, it was an expression of opinion and of one’s feelings.
+
+137. Furthermore, this did not, nor did Mr Middleton believe it to, tend to show a past, present or likely future failure to comply with a legal obligation. Nor was there evidence that, nor did Mr Middleton believe that, this was something that was in the public interest.
+
+138. This is not something that was relied upon in Ms Ismail’s closing submissions.
+
+2.3 – miscarriage of justice; and
+2.4 – deliberate concealment:
+
+139. No evidence has been presented and no submissions have been made, with regard to these alleged potential categories in which the alleged disclosures could fall. We assume they are not pursued but for the avoidance of doubt, we find that Mr Middleton did not believe that any of the foregoing showed or tended to show a past, present or likely future miscarriage of justice or concealment as between Mr Blumfield and the Trustees, or between either of the Respondents and the Charity Commission.
+
+Conclusion on Protected Disclosures
+
+140. In conclusion on protected disclosures, for the reasons set out above, we find that Mr Middleton did not make any protected disclosures to the Respondents and therefore, his complaint of unfair dismissal for having made protected disclosures and of having been subjected to detriment for having made protected disclosures, fail and are dismissed. Case Number: 3309451/2023.
+
+Unfair dismissal
+
+141. Neither counsel advanced any representations on the issue of ordinary unfair dismissal contrary to s.98 of the Employment Rights Act 1996. That said, Mr Keen did not formally concede on behalf of the First Respondent that Mr Middleton was unfairly dismissed.
+
+Reason for dismissal
+
+142. The first part of the test set out in s.98 of the ERA is to establish what was the reason or principal reason for dismissal and whether that was a potentially fair reason. We begin by considering what was the reason?
+
+143. Mr Middleton spoke of his concerns about Mr Blumfield’s management style to Dr McCulloch on 21 November 2022 and to Mr Reeder on 2 December 2022.
+
+144. There was a further meeting between Dr McCulloch and Mr Middleton to discuss the way forward, on 9 December 2022.
+
+145. At a Trustees meeting on 15 December 2022, Mr Blumfield referred to having received complaints about Mr Middleton and said that he would seek advice. That is a remarkable coincidence of timing.
+
+146. The matters raised by Mr Blumfield with regard to Mr Middleton are historic, which also makes the timing of their being raised, remarkable.
+
+147. Advice was received from the human resources advisors on 9 January 2023 and Mr Blumfield very quickly, (the same day) forwarded that advice to Dr McCulloch, saying there was more than sufficient evidence that Mr Middleton should be totally removed from management. Dr McCulloch replies as quoted at our paragraph 58.
+
+148. The foregoing has led us to conclude that a campaign against Mr Middleton was launched by Mr Blumfield because he came to learn that Mr Middleton had raised concerns about him. At this point, his motive was not to achieve dismissal, because he could see that, based on advice, it would, “not end well”. However, his proposal to remove Mr Middleton from management of Sculthorpe and reduce him to one day a week in an advisory or consultancy capacity would, (if not agreed to) have amounted to constructive dismissal. It was clear that Mr Blumfield was aiming to ultimately remove Mr Middleton from the business. We note in respect of this proposal, that Mr Middleton was to be replaced; it follows that it was not a redundancy situation.
+
+149. Dr McCulloch had also formed the view, influenced by Mr Blumfield, that Mr Middleton must go. He wrote of needing to get the Board, “behind the direction of travel”.
+
+150. Mr Blumfield and Dr McCulloch subsequently collaborated in the drafting of an undated report, (page 268, paragraph 61 above) and in extraordinary Case Number: 3309451/2023. instructions to Occupational Health, before Mr Middleton had even undergone his surgery, in which they were clearly looking for some justification for their proposed course of action.
+
+151. Mr Blumfield was impatient, he could not wait, he wrote to Mr Middleton five days after his surgery, proposing a meeting to discuss his future.
+
+152. Mr Middleton’s response of 28 February 2023, (page 670) to Dr McCulloch’s enquiry about the donor, provided Mr Blumfield and Dr McCulloch with an opportunity to expedite their plans to remove Mr Middleton. Dr McCulloch probably genuinely thought that Mr Middleton had approached the potential donor and poisoned their mind with regard to the First Respondent, but he did not reflect that perhaps he ought to look to Mr Middleton for an explanation before he formed his view.
+
+153. Trustee Mr Robinson saw the potential pitfalls. He too had formed the view that Mr Middleton must go, but based upon what he had been told by Mr Blumfield and Dr McCulloch. The decision was to seek a financial settlement and in the alternative should that fail, proceed with redundancy.
+
+154. When discussions about financial settlement did not procure agreement for Mr Middleton’s departure, the Respondent resorted to its back up idea, redundancy.
+
+155. In the Tribunal’s judgement, redundancy as a purported reason for dismissal was nothing more than a sham.
+
+156. The reason for Mr Middleton’s dismissal was that he had complained about Mr Blumfield’s management style. That is not a potentially fair reason for dismissal and Mr Middleton’s claim for unfair dismissal therefore succeeds.
+
+157. The procedure followed by the Respondent in dismissing Mr Middleton was a woeful tale of unfairness in process. It might usually be regarded as somewhat harsh to be overly critical of procedures followed by a fairly small charity. The Tribunal is enjoined by s.98(4) to have regard to the size and administrative resources of the employer. We should not and do not judge the Respondent by the same standards one might expect of a larger organisation or a profit making business. That said, Mr Blumfield wrote in his witness statement that he had considerable experience in running an organisation, he had decades of experience as an employer, he was accustomed to managing staff and had an understanding of how to run a business. Dr McCulloch wrote that he has years of experience in the Civil Service achieving the grade of Deputy Director, followed by eleven years’ experience as Chief Executive of a larger nationally well known charity, with significantly more employees than the Respondent, that he had over 40 years of experience on Boards and Committees. The Respondent also had the benefit of external professional human resources advisors. With that in mind we make the following observations about the process followed:- Case Number: 3309451/2023.
+
+157.1 The Respondent did not investigate the matters raised by Mr Middleton about Mr Blumfield. Whilst he withdrew his complaints insofar as they related to himself, he asked the Respondent to investigate the matters which he had raised relating to other people. It did not.
+157.2 The referral to Occupational Health before Mr Middleton had even undergone his surgery to enquire about his fitness and return to work, is quite extraordinary. Reference to his mental health was based upon an absence from work for three days, self-certified, because he was feeling exhausted having worked through a bout of Covid. It seemed to us spurious and mischievous.
+157.3 The Respondent ignored Occupational Health advice. In particular, that after he returned to work, they should meet with Mr Middleton to discuss how he was feeling in terms of his mental health and that in the meantime, he should be provided with a phased return to work.
+157.4 The timing of the letter inviting him to discuss the future of his employment just a few days after major surgery, is crass.
+157.5 A singular mindset is revealed by Dr McCulloch not speaking to either Mr Middleton or the donor, when he is told by Mr Middleton the proposed donation will, “not be released at present”.
+157.6 The decision to dismiss Mr Middleton was taken before any attempt at process was followed.
+157.7 The Respondent decided to dismiss Mr Middleton, and then searched for a reason to do so.
+157.8 Reference to smelling a rat indicated there would be no genuine investigation into Mr Middleton’s grievance and that there was a conspiracy to procure his removal, the outcome was predetermined.
+157.9 The conclusion of the grievance that the sending of the letter inviting Mr Middleton to discuss his employment future whilst he was recovering from an operation, as not warranting an apology, is surprising, wrong and indicative of the Respondent’s mindset.
+157.10 The Respondent invited Mr Middleton to attend a Disciplinary Hearing without having carried out any form of investigation.
+157.11 The obdurate refusal to postpone the Disciplinary Hearing was unfair.
+157.12 Not informing Mr Middleton for a matter of weeks, that the outcome of the Disciplinary Hearing was that it was postponed was unfair. Case Number: 3309451/2023.
+157.13 Informing Mr Middleton that he was at risk of redundancy was spurious.
+157.14 Denying and disregarding Mr Middleton’s solicitors pointing out that he was on annual leave when consultation regarding redundancy was proposed, when according to the Respondent’s own records, he was on pre-booked leave, was unfair and indicative of an unreasonable mindset.
+157.15 Informing Mr Middleton that he was no longer subject to disciplinary action and then 20 minutes later, informing him that he was dismissed with immediate effect, because he was redundant, was unfair.
+
+158. As we have found, there was no potentially fair reason for dismissal and therefore Mr Middleton’s complaint of unfair dismissal succeeds. Had there been a potentially fair reason, the procedural failings set out above would inevitably have led to a conclusion that the dismissal was unfair in any event.

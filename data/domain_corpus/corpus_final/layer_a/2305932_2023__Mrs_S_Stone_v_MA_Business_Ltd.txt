@@ -1,0 +1,654 @@
+RESERVED JUDGMENT
+
+1. The Tribunal initially broke to deliberate on 13 June 2025, having adjourned the hearing and envisaging that the parties would return to receive oral judgment.
+
+2. In fact, the Tribunal Panel reached conclusions on the case by 18 June 2025.
+
+3. A date for the hearing to resume was listed for 3 October 2025, but needed to be changed due to availability of all three Panel members.
+
+4. Regrettably, the Panel was not informed that the Claimant wrote to the Tribunal on 23 July 2025, requesting written reasons be given in light of the wait to 3 October 2025, as the wait was having a profound impact on her life. The Respondent wrote to the Tribunal on 29 July 2025, reiterating its position (made orally in the hearing) that it would prefer to have judgment delivered orally for reasons connected to its publication business, and this was also not shown to the Panel.
+
+5. After the adjourned hearing was relisted for 15 December 2025, the Employment Judge was made aware of the correspondence from the Claimant on 23 July and from the Respondent on 29 July. The Panel, by email, discussed whether in light of that correspondence to reserve judgment so as to send the parties a written judgment, and determined to do so on 19 September 2025. The parties were informed of that decision on 23 September 2025.
+
+6. By consent, the Respondent’s name is changed to MA Business Limited.
+
+The complaints
+
+7. The Claimant’s claim is one of disability discrimination and victimisation, contrary to the Equality Act 2010 (the 2010 Act).
+
+8. She avers:
+
+a) That she was directly discriminated against because of disability, contrary to section 13 of the 2010 Act. The Claimant makes seven complaints of direct disability discrimination, identifying her colleague, Angie Cole, as her non-disabled comparator for that purpose;
+b) That the Respondent failed in its duty to make reasonable adjustments for her, contrary to sections 20 and 21 of the 2010 Act. The Claimant says that the Respondent applied four provisions, criteria or practices (PCPs) to her which placed her at a substantial disadvantage where that disadvantage could have been substantially ameliorated by reasonable adjustments;
+c) That the Respondent harassed her related to disability on three occasions, in breach of section 26 of the 2010 Act; and
+d) That, following two protected acts, the Respondent subjected her to six forms of detriment because she had done a protected act/protected acts, in breach of section 27 of the 2010 Act.
+
+9. The details of each of the Claimant’s 20 complaints are more fully described in the Facts section below.
+
+10. The Respondent resists each of these complaints, but it accepts that the Claimant is, and was at the relevant time, disabled for the purposes of the 2010 Act by reason of her dyslexia and neurodivergence, which the Claimant refers to as a single condition, and she says that it is her dyslexia which is the disabling factor.
+
+The hearing
+
+Representation
+
+11. The Claimant presented her own case. The Respondent was represented by its HR Director, Ms Conetta, and at times by its Chief Executive Officer, Mr Allen.
+
+Documentary evidence
+
+12. The parties had prepared a hearing bundle which ran to 1,118 paginated pages. The Respondent considered some of the contents of the bundle to be superfluous, but did not object to any of the documents it included coming before the Tribunal.
+
+13. The Claimant asked for three audio recordings to be included in evidence, being recordings of each of the grievance meeting and the grievance appeal meeting, each running to more than an hour in length, and a third recording of a voicemail message left by the Claimant. The Respondent did not object to the admission of that evidence, noting that transcripts of the meetings (prepared by the Claimant) were already included in the bundle. On the basis of that non-objection by the Respondent, the Tribunal agreed to admit that evidence, but noted that it would not have time to listen to all of those recordings, and if either party wished the Tribunal to listen to excerpts from those recordings it would need to identify the time at which the relevant parts of those recordings began. Neither party referred the Tribunal to any part of these recordings.
+
+14. The Claimant also wished to refer to a document entitled “Comparative graph AC and SS combined”. While this was thought to be in the Bundle, it turned out that it was partly cut off and shown in black and white, whereas the Tribunal needed to read coloured lines, and so this document was separately admitted into evidence without objection from the Respondent. This document was referred to by the Claimant.
+
+15. More generally, the parties were informed that the Tribunal Panel would read all the documents it was taken to (whether by cross-references in witness statements, oral evidence, or in the course of submissions), but the parties could not rely on the Panel having otherwise read other documents in the bundle (although it may do so).
+
+16. Regrettably, the bundle did not comply with the Directions of EJ Siddall in terms of its arrangement. The pleadings and Tribunal correspondence were mixed in amongst the evidence, and it was very hard to find material. Running to four lever arch files, the pdf of the bundle was the easiest way for the Tribunal to navigate it, but the pdf page numbers did not match their pagination because of 25 pages of index. The bundle was not of the quality that the Tribunal would normally expect, for which the Respondent apologised.
+
+17. Moreover, the Respondent’s witness statements referred to evidence contained in the bundle, but without cross-referencing pages in the bundle. Time was lost when each witness gave their evidence by the Respondent’s representative then identifying the appropriate cross-references to the Bundle evidence.
+
+18. The Claimant had cross-referred to evidence in the bundle, but by way of comments, and so the Tribunal had to transpose the Claimant’s multiple references in comments to a bundle whose pagination did not match the pdf numbers.
+
+19. This meant that our reading time was much slower than it should have been, and as a result oral evidence did not start until day two of the five day hearing window.
+
+Adjustments
+
+20. The Claimant had applied, ahead of the hearing, for the following adjustments:
+
+a) Regular breaks;
+b) Her own break-out room; and
+c) For the Respondent’s witnesses not to be present in the hearing save when they were giving evidence.
+
+21. Upon discussion with the Tribunal, it was agreed that the Claimant would ask for breaks when she needed them, outside of the regular breaks that a hearing provides for.
+
+22. A break-out room was provided for the Claimant.
+
+23. The Employment Judge was concerned that, as the Respondent was self- represented by its HR Director that its willingness to agree to its other witnesses (Ms Conetta, representing the Respondent, was also one of its witnesses) not being present save when giving their evidence could disadvantage the Respondent in the presentation of its case. This was because witnesses who attend throughout hearings have the benefit of hearing the evidence of other witnesses, and more generally of following what is happening in the course of the hearing.
+
+24. While the Employment Judge noted that the CVP used to record the hearing could be used to enable the Respondent’s witnesses to observe the proceedings without being physically present (and they could have their cameras off when doing so), it was explored with the Claimant whether her concerns could be addressed by the Respondent’s witnesses sitting out of her line of sight when she was giving her evidence (and behind her when she is not). The Claimant thought that would enable her to be more comfortable, and the Employment Judge encouraged her to say if in fact her anxiety about the witnesses’ presence remained, and the CVP solution could be reconsidered. In the event, no difficulty was expressed by the Claimant, and so the Respondent’s witnesses remained in the hearing room.
+
+25. When taking the stand, the Claimant asked to use an ipad to view the bundle because of some soreness to her fingers. The Respondent did not object, and the Claimant understood that she was not to use the ipad to communicate with anyone during her evidence (and indeed her attention was very focused on the questions put to her, and there was no suggestion that she was simultaneously communicating with anyone by that means).
+
+26. The Claimant also asked to be permitted to use a blank piece of paper and a pen to take notes during her evidence, noting that her processing difficulties because of her dyslexia, meaning that she has poor short-term memory. She wished to take notes as an ‘aide memoire’. Again, the Respondent did not object and this was permitted.
+
+Witness evidence
+
+27. The Tribunal heard evidence from:
+
+a) The Claimant on her own behalf;
+b) Angela Cole, Digital Event Executive of the Respondent, who had worked alongside the Claimant;
+c) Julie Knox, Event Director of the Respondent, who had been the Claimant’s line manager;
+d) Ben Allen, the Chief Executive Officer of the Mark Allen Group, the corporate group of which the Respondent is part;
+e) Jon Benson, the Respondent’s Chief Operating Officer and the Managing Director of MA Business at Hawley Mill; and
+f) Elizabeth Conetta, the Respondent’s Director of HR.
+
+28. The Respondent also provided written witness statements from the following other individuals:
+
+a) Ruby Kitt, who had been the HR Manager of the Mark Allen Group, but who had since the date of making the statement (14 November 2024) left the Respondent’s employment; and
+b) Katina Toumba, the Respondent Group’s Operations Director.
+
+29. At the outset of the hearing, when running through the list of Respondent witnesses, the Tribunal observed that there was a mismatch between the number of witness statements presented by the Respondent and the number of its witnesses which it anticipated would be available to give oral evidence. It turned out that this was because the Respondent was intending to present only four of its seven witnesses for cross-examination and Panel questions.
+
+30. The Employment Judge informed Ms Conetta that written witness evidence, where those witnesses are not available for cross-examination or Panel questions were typically given little weight (the amount of weight to be given being a matter of discretion for the Tribunal, about which the parties would be expected to make representations). Ms Conetta replied that four witnesses were available from the Respondent, but that a former employee, Ms Kitt, was experiencing difficulty being released from work to attend the Tribunal and present herself for cross-examination and Panel questions. The Employment Judge drew the Respondent’s attention to Rule 34 of the Employment Tribunal Procedure Rules 2024 (the ET Rules), and the fact that, should it wish to do so, the Respondent could apply for a witness order requiring Ms Kitt to present herself for oral evidence.
+
+31. The next day, upon reflection, Ms Conetta confirmed that the Respondent was not minded to make that application.
+
+32. In the event, an extra witness attended on behalf of the Respondent (so five in total), leaving two witnesses who had provided statements but not attended – Ms Kitt and Ms Toumba.
+
+33. The Tribunal heard representations from each party as to the weight to be given to those statements.
+
+34. In relation to Ms Kitt’s statement:
+
+a) The Respondent invited the Tribunal to give weight to it. The Respondent said that:
+(i) Ms Kitt’s statement is supported by a huge amount of documentary evidence;
+(ii) Ms Kitt no longer worked for the Respondent group, and the circumstances of her departure were described to the Tribunal, including the distress and mental health impact the Claim has had on her; and
+(iii) Ms Kitt had commenced new employment, and the Respondent did not want to cause any damage to Ms Kitt’s new employment relationship.
+b) The Claimant disagreed, and thought that little weight should be given to Ms Kitt’s statement. The Claimant said that there were questions she would have wished to put to Ms Kitt, which she could not by her non- attendance.
+
+35. Rule 43 of the ET Rules makes it clear that the Tribunal has the power to admit hearsay evidence – i.e., a statement made by someone other than a person who attends and enters their statement in by confirming personally to the Tribunal that they wish that statement to stand as their evidence, having sworn to tell the truth and confirmed their belief in its accuracy. Factors relevant as to whether to admit such a statement include:
+
+a) Why the witness is not available to the tribunal; and
+b) The availability of other evidence on the point in question. For example, if there were only two people present at the time of the act complained of, a respondent witness and the claimant, written evidence before the tribunal provided by a third person to whom the claimant shortly afterwards told about the event might be important to consider. On the other hand, if there are witnesses present to give oral evidence to the tribunal on the same point, the evidence of the non-available witness may not be probative.
+
+36. However, the fact that the witness is not available for cross-examination or to answer tribunal questions goes to the veracity of that evidence, as it has not been tested by those means. The reliability and weight to be given to hearsay evidence are matters for the tribunal.
+
+37. In this case, the Tribunal noted that:
+
+a) Ms Kitt and Ms Toumba are the only individuals who can give first-hand evidence of their reasons for acting in the way they did, which reasons are critical to the success or failure of some of the Claimant’s complaints;
+b) The reasons for not calling Ms Kitt were strong ones;
+c) The reasons for not calling Ms Toumba were considerably weaker.
+
+38. Given the relevance of Ms Kitt and Ms Toumba’s evidence, the Tribunal determined to admit their statements into evidence, but sought representations as to the relative weight to give them.
+
+39. The Tribunal notes that Ms Kitt was involved in the events surrounding the
+
+following Allegations (described below):
+
+a) Allegation 4 – a complaint of failure to make reasonable adjustments;
+b) Allegations 6 and 7 – complaints of direct disability discrimination; and
+c) Allegations 14 and 15 – complaints of victimisation.
+
+40. While Ms Kitt’s witness statement contains a statement of truth, her reasons for acting in the way that she did are significant to whether the complaints in Allegations 6, 7, 14 and 15 succeed or fail, and the Tribunal does not consider it appropriate to give more than little weight to her statement of those reasons given the inability of the Claimant to cross-examine her or the Tribunal to ask questions of her.
+
+41. As for Ms Toumba, who remains a senior member of the Respondent’s organisation, her reasons for not attending were very weak, being:
+
+a) Other people talk to the issues Ms Toumba was involved in; and
+b) She is organising the annual summer party for the Respondent’s organisation taking place on the last day of the hearing.
+
+42. The Tribunal also noted that Ms Toumba’s statement does not contain a statement of truth.
+
+43. The Tribunal determined to give very, very little weight to Ms Toumba’s statement.
+
+44. In the event, neither party referred us to either witness statement. The Tribunal was sufficiently confident of our conclusions in relation to Ms Toumba’s actions from the documentary evidence and the evidence of attending witnesses, and so we took no account of Ms Toumba’s statement. In relation to Ms Kitt’s statement, again the documentary evidence and the evidence from attending witnesses was sufficient for us to be confident of our conclusions, so we only took account of Ms Kitt’s statement when considering whether to make any inference of discrimination from secondary facts.
+
+List of issues
+
+45. The Employment Judge talked to the parties about the list of issues appended to EJ Siddall’s 11 July 2024 Orders, and the amendments made to that list by EJ Siddall (after written representations from the parties) on 12 September 2024. While an apparently updated version of that list had been provided by the Respondent, in fact that version had deleted many sections removed. The Employment Judge talked to the parties and from that discussion understood the list of issues to be that appended to this judgment.
+
+46. In the course of that discussion on the first day of the hearing it became clear that both parties agreed that the correct respondent was MA Business Limited, and so the Respondent’s name was changed by consent.
+
+Facts
+
+47. The Respondent organisation is part of a family-owned publishing and information group. It publishes magazines, and holds exhibitions and events. The Respondent group is a sizeable organisation of more than 500 people.
+
+The Claimant worked for the Respondent on a freelance basis
+
+48. The Claimant was engaged by the Respondent on a freelance (independent contractor) basis in the Respondent’s Events team from 22 March 2022. At the same time, the Respondent engaged Mrs Cole as a permanent, full-time employee to work in that team.
+
+49. Both the Claimant and Mrs Cole performed work for the Respondent supporting its Events function. Mrs Cole supported in-person and digital events, and the Claimant digital-only events. Both were managed by Mrs Knox, Event Director.
+
+50. The parties agree that the Claimant provided her services to the Respondent for around 20 hours per week, with those working hours arranged around her childcare responsibilities and allowing her to work as an Occupational Psychologist (also on a freelance basis). The Claimant invoiced the Respondent in respect of that work.
+
+51. The parties disagree about whether the arrangement between them during this time was one whereby the Claimant would only work during school term time.
+
+52. The Claimant and Mrs Cole were both involved in supporting the administration and broadcast of client webinars. They used an Excel spreadsheet to plan which webinar was happening when, and the tasks that needed to be completed in connection with that webinar.
+
+53. One set of tasks that fell to them to be completed ahead of a webinar delivery date was to send a series of four emails as part of the marketing campaign for that webinar. A software package was used by the Respondent for setting up the content and structure of those emails, and that programme (called Adestra) provided that different templates could be set up into which the client-provided synopsis of the webinar and the profile of speakers could be added, as could details of when the webinar would be taking place, etc. The evidence from Mrs Cole and Mrs Knox was that it was very important to use those templates, as all the GDPR specifications had been pre-set, as had the client-specific list of people who had objected to receiving emails from them.
+
+54. The process of ‘lifting and dropping’ the material from the client and the details of the webinar into those templates was not straightforward. Mrs Cole, who was described by the Claimant as “speedy”, said that it would take her between one and two hours to prepare an email. If the formatting was lost, that had to be corrected.
+
+55. When they started working for the Respondent in March 2022, the Claimant and Mrs Cole were both trained on the use of Adestra by a colleague, Amy Lucas, but were not provided with external training.
+
+56. The Claimant, Mrs Cole and Mrs Knox all agree that the Claimant found it very difficult to use Adestra, and that the Claimant made it plain from the beginning of her freelance arrangement that she did not wish to do so, and that she did not in fact use it. The Claimant and Mrs Cole adapted accordingly, sharing the work between them so that Mrs Cole did the Adestra-based work (such as setting up the emails for the campaigns), and the Claimant led on other tasks, such as hosting the webinars, contacting the client for the information required, etc.
+
+57. The Respondent was pleased with the quality of the Claimant’s work, and sought to engage her as a permanent employee to perform the same work. On 20 December 2022 the Respondent invited staff to a summer party to be held on
+
+23 June 2023
+
+58. Katina Toumba, the Respondent’s Operations Director, sent an email on 20 December 2022, on behalf of the directors and the Respondent, to all staff to an all-day summer party to be held on 23 June 2023. The email included the following: “Further information will be sent in the New year. As it is a day which will require attendance by every member of all teams, only those with exceptional reasons for being unable to attend will be excused. It is certainly an occasion not to be missed.” Pre-contract correspondence with the Claimant about her employed role
+
+59. Although the parties agree that Mrs Knox, Mrs Cole and other of the Claimant’s team members were already aware of her dyslexia, when Mrs Knox and the Claimant were discussing the Claimant’s upcoming employed role (when Mrs Knox had just agreed to change the job title for the role as the Claimant had requested) in a Teams conversation on 31 March 2022, Mrs Knox asked: “If you’re happier with Digital Event Exec that isn’t a problem. Any other changes/suggestions?”, to which the Claimant replied: “Ah thank you! Yes that would be awesome, I appreciate it. I am dyslexic (I know [a colleague] mentioned she was) and I wanted to find out if [the Group] has a policy for adjustments/neurodiversity stuff?”
+
+60. Mrs Knox did not respond to this question in her reply, which read: “I managed to negotiate that the last year you’ve been working for us counts towards your continuous service and took away the probation period.”
+
+61. The contract entered into by the Claimant and the Respondent on 4 April 2023 did not contain a probation clause, but there were provisions of the contract which
+
+referred to a period of probationary employment:
+
+a) Her ability to join the Respondent’s personal pension scheme applied “After successful completion of the probationary period or after 3 months continuous service, whichever is shorter”;
+b) Her entitlement to sick pay, which was conditional on her completion of “the probationary period”; and
+c) The obligation on either party to give notice to terminate the contract, which was stated only to apply “Following the successful completion of any probationary period”.
+
+62. The parties disagree about whether they had a common intention for the Claimant’s employed role to be a term-time role. The Respondent says that they did, the Claimant denies this. It is clear that the Claimant did, in fact, work some of the school holidays while employed by the Respondent, and that that was known by Mrs Knox and Mrs Cole. There is also documentary evidence that supports the Respondent’s contention that their was an understanding that the
+
+Claimant was employed on a term-time basis, including:
+
+a) In a Teams chat on 6 March 2023 (ahead of the parties signing a contract of employment), Mrs Knox wrote to the Claimant: “Hi Sophie, good news for you (I hope). I have approval to put you on the payroll proper from April. Need to discuss with HR and get everything sorted so perhaps we can chat this week just to get an idea days/hours before I approach HR. I put in for a term-time role and Jon has approved a.5 person role so we just need to iron out the details.” (Emphasis added.)
+b) The Claimant replied the next day: “Good morning Julie [emoji] Ah that’s fantastic news, thank you! Yes all sounds good – the school holidays do have some flexibility I just need to be on it when organising childcare. Looking forward to chatting through this week.” (Emphasis added.)
+
+63. Mrs Knox wrote to Ms Kitt in the Respondent’s HR team on 22 March 2023, giving her details for the Claimant’s arrangement to be reflected in her contract of employment: “Permanent contract, term time only, 20 hours per week… Flexibility around working school holidays.”
+
+64. From the evidence the Tribunal has seen, the Tribunal finds that:
+
+a) The Respondent’s expectation was that the contract was to be term-time only, but with some flexibility on the Claimant’s part should the business need her to work in the school holidays.
+b) The Respondent communicated that to the Claimant ahead of the parties entering into a contract of employment.
+c) If the Claimant had a different understanding, she did not take the opportunities that arose to correct that assumption. We make no finding as to whether that was intentional or not, because we find it perfectly plausible that the Claimant simply did not correct that because there were a lot of other things happening at the same time.
+
+65. These conclusions are also consistent with the documentary evidence from June 2023, when Mrs Knox realised that the Claimant’s actual contract did not, in fact, reflect term-time only working, which came as a surprise to her (Mrs Knox). The Claimant commenced employment with the Respondent, 1 April 2023
+
+66. The Claimant commenced employment with the Respondent on 1 April 2023.
+
+67. Her work as an employee of the Respondent was in the main the same as the work she did as a freelancer. She continued to work alongside Mrs Cole and to report into Mrs Knox. The one difference in her role as an employee compared to that as a freelancer was that as an employee she was expected to use a software package, called Adestra, when Mrs Cole was on leave.
+
+68. The Claimant and the Respondent signed a written contract of employment on 4 April 2023. That contract provided that:
+
+a) The Claimant would be based remotely, but may be required to come to the Respondent’s office at Hawley Mill in Dartford one day every month.
+b) She would work 20 hours a week, with her schedule to be agreed with her manager – but she may be required to extend her hours as necessary in order to meet the requirements of her job without being eligible for overtime for that work.
+c) It was not a term-time contract.
+
+69. The Tribunal finds that the failure of the Respondent to include appropriate drafting to the effect that the Claimant’s employment was to be term-time only, but with some flexibility on her part to work during school holidays if needed, was an omission rather than intentional. It was a material omission, as the agreed arrangement itself was unclear, and this confusion was later compounded by the fact that the written contract between them was not a term-time contract. The Respondent applied PCPs to the Claimant, 1 April 2023 onwards
+
+70. The Respondent agrees that it operated and applied the following PCPs to groups of people which included the Claimant for the period of her employment:
+
+a) The requirement that staff use Excel and Adestra; and
+b) The requirement that staff attended the summer party on 23 June 2023.
+
+71. In relation to the third - that staff might be expected to attend back-to-back meetings without a break – the Respondent says that that might be true of senior management, but not of staff at the Claimant’s level. The Respondent says that it was open to non-management staff to manage their own diaries, and that if they received meeting invites which, if accepted, would not allow them sufficient breaks between meetings, it was open to staff to refuse those invitations.
+
+72. The Claimant avers that each of those PCPs put her at a substantial disadvantage compared to someone without dyslexia, and therefore that the Respondent was obliged by section 20 of the 2010 Act, to make reasonable adjustments in respect of her to ameliorate that disadvantage, which the Claimant says it failed to do. Her complaint that:
+
+a) The Respondent failed to comply with the duty to make reasonable adjustments in respect of the first of those PCPs - the requirement that staff use Excel and Adestra - is referred to as Allegation 1;
+b) The Respondent failed to comply with the duty to make reasonable adjustments in respect of the second of those PCPs - the requirement that staff might be expected to attend back-to-back meetings without a break - is referred to as Allegation 2; and
+c) The Respondent failed to comply with the duty to make reasonable adjustments in respect of the third of those PCPs - the requirement that staff attended the summer party - is referred to as Allegation 3.
+
+73. The facts pertaining to each of those Allegations are considered chronologically as they arise.
+
+74. In relation to Allegation 1, and the part of the first PCP that relates to the requirement that staff use Excel:
+
+a) This part of the Claimant’s work was unchanged from her time as a freelancer - the Claimant had used Excel when working for the Respondent’s Events team since March 2022.
+b) The Claimant and Mrs Cole used an Excel spreadsheet to record information about the upcoming webinars. For example, an email was sent in each of the four weeks ahead of a webinar marketing the webinar to an email list. Key information about the webinar itself (such as whether it was to be rehearsed, whether it was live) and those kind of tasks and whether they had been completed, was recorded in the spreadsheet. Mrs Cole and the Claimant used and maintained it.
+c) In giving her evidence to the Tribunal the Claimant explained that, for her, the large amount of information on the spreadsheet could be chaotic, and so she had tried to introduce a ‘traffic lights system’ – a way of quickly identifying outstanding tasks and the prioritisation of those tasks according to red, amber and green colour-coding – but, she says, neither she nor Mrs Cole stuck to the system enough to make it work.
+d) Another challenge with the Excel spreadsheet, the Claimant says, was that it relied on some coding, and while the previous incumbent before she and Mrs Cole had been engaged had been good with coding, the Claimant said that neither she nor Mrs Cole knew how to do the coding, and so over time it had been lost and data had to be manually copied across multiple sheets, which the Claimant struggled to do.
+e) The Claimant says that she needed:
+(i) A project management tool to help her immediately understand the priority that was given to individual tasks; and
+(ii) More training on Excel so as to manage the coding.
+
+75. In relation to Allegation 1, and the part of the first PCP that relates to the requirement that staff use Adestra:
+
+a) One thing that did change was that the Claimant was expected to cover the work of Mrs Cole when Mrs Cole was absent (for example, due to annual leave), which meant more work for the Claimant on the Excel spreadsheet, and meant using Adestra.
+b) Upon the Claimant commencing employment with the Respondent, the Claimant asked Mrs to Cole show her how she (Mrs Cole) used Adestra, which Mrs Cole did. Mrs Cole’s method is something which the Claimant refers to as ‘the cheat method’, whereby if the formatting goes awry upon adding text to Adestra, that text can be copied into a Word document, reformatted, and that pasted back into Adestra retaining the new formatting.
+c) Even after Mrs Cole’s demonstration, the Claimant described her experience of using Adestra as part of her employed role as “absolute agony”, given the many steps that had to be taken, and the Claimant’s challenges with processing attributable to her dyslexia.
+d) The Claimant made it very clear upon Mrs Cole’s return to work after her holiday in April 2023, that while the Claimant had covered for Mrs Cole by using Adestra (with Mrs Cole having done most of the work on that before she went on leave so as to minimise what the Claimant would need to do), that she had been very stressed doing so, and had been in floods of tears.
+e) The Claimant’s dyslexia diagnosis from 2004 by a Consulting Psychologist records that the Claimant has “moderate to severe dyslexia. The problem has more to do with information processing than with reading and writing”. In relation to processing specifically, the Claimant is described as having “a relatively poor working memory and processes information very slowly”.
+f) This is consistent with the Claimant’s description of the difficulties she experienced with having to complete numerous steps along the way to carrying out the tasks that needed to be undertaken on Adestra, for example, the creation of template emails for webinar marketing campaigns. Mrs Cole described the time it took for her to create a template email as one-to-two hours, whereas the Claimant said the equivalent task could take her four hours, and that if she was interrupted or her focus distracted at any point during it (for example, by an email arriving in her inbox), she would need to start the whole thing again.
+g) The Claimant asked for external training on Adestra, which Mrs Knox refused on the basis that Mrs Knox had completed that training herself and considered it to be little help, being no more than a marketing tool for add- ons to the software that the Respondent did not need.
+h) Evidence in the bundle shows that, on 9 June 2023, Mrs Knox was still considering how to respond to the Claimant’s difficulties with Adestra. Teams chat between her and Mrs Cole shows that Mrs Knox:
+(i) Considered that the training the Claimant had already had on Adestra should have been “more than adequate”;
+(ii) Was contemplating asking the same colleague who had already given the Claimant training on Adestra at the outset of her freelancing arrangement to give her some more training;
+(iii) Was thinking about asking a colleague in another team, Chris Jones, who was an Adestra super-user, to give the Claimant some training;
+(iv) Expressed the view that “its [a question of] finding the right way to show her so it sticks”.
+
+76. In relation to Allegation 2, the Tribunal finds that the Claimant has failed to show that the Respondent operated the PCP that staff might be expected to attend back-to-back meetings without a break. The only evidence provided to the Tribunal on this point is an invitation to a single meeting that was scheduled to begin immediately after a previous meeting on 14 June 2023. There is no evidence whatsoever that the Respondent operated a practice in this regard for non-senior management staff. Allegation 2 therefore does not succeed.
+
+The Claimant informed HR that she is dyslexic
+
+77. The Claimant emailed Ms Kitt in the Respondent’s HR team, copying Mrs Knox, on 4 April 2023, noting that she had signed her contract of employment. That email contained the following: “I’m also dyslexic – do you have a system for looking at adjustments please?”
+
+78. Ms Kitt’s reply included: “Sorry for my ignorance, what system are you referring to when it comes to adjustments? We’ll be more than happy to support and accommodate if you let me know”.
+
+79. The Claimant did not reply to that email. Averred change to level of internal communications with the Claimant, 1 April 2023
+
+(approximately) to 9 June 2023
+
+80. The Claimant contends that, from approximately 1 April 2023 until 9 June 2023, the Respondent reduced her contact with other teams in the business, which she says was less favourable treatment because of disability (Allegation 4). The Claimant compares her treatment to that of Mrs Cole. The Respondent resists this allegation, saying that there is no evidence to support the Claimant’s contention.
+
+81. The Claimant has pointed to two documents as illustrating both what she says happened to her own level of internal communications and the difference between her and Mrs Cole:
+
+a) A graph which shows, for each month in the period March 2022 to July 2023, the mean daily emails sent and received by the Claimant (represented by a blue line) and those sent and received by Mrs Cole (represented by a red line) (the Email Traffic Graph); and
+b) A table, identifying each team member by initials, and summarises for each week in the period 3 April 2023 to 3 June 2023 the number of comments made by that team member in a team Teams chat for the Communications Business Group (the Team Chat Comments Table). The Email Traffic Graph
+
+82. In relation to the Email Traffic Graph, this shows the mean number of emails sent and received month-to-month by the Claimant and Mrs Cole for the period March 2022 to July 2023, i.e., covering the period of the Claimant’s freelance engagement and her employment with the Respondent.
+
+83. Given Allegation 4 concerns only the period 1 April 2023 to 9 June 2023, the only part of the Email Traffic Graph that needs to be considered is the change between March 2023 and June 2023. That period sees:
+
+a) Mrs Cole’s email traffic dive from March to April, i.e., the average daily email traffic on Mrs Cole’s email account in March was considerably higher than that average for April. This ties in with Mrs Cole having had a holiday in April 2023;
+b) The Claimant’s email traffic rose from March to April, which is unsurprising, given she was covering Mrs Cole’s holiday absence;
+c) The Claimant’s email traffic fall from April to May, which is also unsurprising, given the Claimant took a holiday in that period;
+d) Mrs Cole’s email traffic rise as the Claimant’s falls, because Mrs Cole covered the Claimant’s holiday absence;
+e) The Claimant’s email traffic continues to fall from May to July. The Claimant had two weeks’ holiday in May, and then was absent due to ill health from 13 June 2023.
+
+84. The Tribunal therefore finds that the Email Traffic Graph does not support the Claimant’s contention that the Respondent reduced her contact with anyone. Moreover, the allegation is specifically that the Respondent reduced the Claimant’s contact with other teams, and the Claimant’s email traffic shown in the graph, and Mrs Cole’s, is not confined to email traffic to and from other teams. The Tribunal cannot know what portion of that email traffic relates to the complaint the Claimant is making.
+
+The Team Chat Comments Table
+
+85. In relation to the Team Chat Comments Table:
+
+a) The Claimant says that it shows that the level of internal communications with her, and her project responsibilities, dropped sharply in May 2023.
+b) The table she has provided in the Bundle is based on information she obtained from the Respondent. That table identifies the number of comments made by each member of the Events team (the team in which the Claimant sat) and the Comms Business team, on a Teams group chat for the Comms Business Group.
+c) Mrs Knox says that this table purports to show the number of interactions of various people in one Teams group chat, but there were other Teams group chats that she and the Claimant were part of, and so the data shown here is incomplete.
+d) The table does not distinguish between the interactions each person had with their own team, or with the other team. Allegation 1 is confined to the interactions the Claimant had with other teams in the business, and so this is not a reliable data set.
+e) Another problem with the Team Chat Comments Table is that this does not demonstrate that the reason the Claimant’s comments on this Teams chat dropped was because the Respondent reduced them.
+
+86. The Tribunal finds that the Claimant has not proven that the Respondent reduced the Claimant’s contact with other teams in the business in the period 1 April 2023 to 9 June 2023. Allegation 4 therefore does not succeed. The Claimant signed up for a free trial of a new piece of software, May 2023
+
+87. In May 2023, the Claimant signed up for a free trial a piece of project management software, Monday.com. The Claimant and Mrs Cole used it during that trial period. The Claimant found Monday.com helped her to see immediately how she and Mrs Cole were prioritising tasks, whereas the Claimant struggled to do so in their Excel spreadsheet.
+
+88. By contrast, Mrs Cole told the Tribunal that the benefits of Monday.com were also achieved in Excel, and indeed, Excel could do more, and the spreadsheet the team already used conveyed more information. Mrs Cole told the Tribunal that she did not consider that Monday.com added any benefit to the way she and the Claimant worked.
+
+89. The Claimant produced a sample of the product created by Monday.com, and sought to share that with Mrs Knox as part of the Claimant’s request, made on 7 June 2023, for Monday.com to be provided for her use in her work with the Respondent. The Claimant received notification from Monday.com that Mrs Knox had not viewed that sampler by 10 June 2023.
+
+90. The Claimant avers that the Respondent refused her request for it to purchase a licence to use Monday.com, but it evidently did not. Mrs Knox explained to the Claimant that being able to do so would require authorisation from the Respondent’s IT department, and that a case would need to be put to them as to why that spend was appropriate. That was perfectly appropriate. Without the Claimant having explained why Monday.com helped her in relation to the difficulties she experienced with Excel, which she had also not explained, it was not reasonable for the Respondent to fail to purchase Monday.com – but in any event it had not reached a decision not to do so. The Respondent may have subsequently done so when the Claimant failed to provide an explanation as to its value to her (the Claimant has suggested that responses to her SARs requests indicate that a decision had been taken not to purchase it), but it was willing to consider it if it could understand why that was needed or would be helpful. The Claimant offered to help the Respondent create a policy on neurodiversity, 9 May
+
+91. The Claimant met Ben Allen, the Respondent’s CEO, on 9 May 2023, at an induction event for new joiners.
+
+92. The Claimant emailed the Respondent’s HR team on 10 May 2023, copying Mrs Knox, observing that the Respondent had no dedicated policy on neurodiversity, and offering to help inform the Respondent’s approach and bring about change in that area. The Claimant referred in that email to the fact she is neurodivergent, without describing what that means for and to her. Correspondence about the Claimant’s contract of employment and her term-time-only working arrangement, 25 May to 9 June 2023
+
+93. The Claimant avers that, in the period (clarified by the Claimant in submissions, and confirmed as having been understood to mean this by the Respondent) May 2023 to July 2023, she was provided with misleading information about her contract of employment by each of Mrs Cole, Mrs Knox and Ms Kitt. This is Allegation 5.
+
+Mrs Cole
+
+94. The Claimant says that Mrs Cole sent her misleading information about the Claimant’s contract of employment when, in May 2023, Mrs Cole sent the Claimant a calendar marked up with colour-coding to show the school holiday weeks and the other weeks when the Claimant was working, while at the same time knowing that the Claimant was working on webinars for 28 and 29 May 2023, which fell during the school holidays and the Claimant’s apparently non-working time.
+
+95. The information provided by Mrs Cole to the Claimant in May 2023 was misleading – it indicated that the Claimant was working under a term-time contract, when she was not in fact doing so. However the Tribunal has found that the Respondent was operating under the mistaken belief that its contract of employment with the Claimant was a term-time contract. Mrs Cole had never had reason to look at the Claimant’s contract of employment, so Mrs Cole understanding of the Claimant’s working arrangements derived from the Respondent’s misunderstanding of them. The reason why Mrs Cole sent misleading information to the Claimant was because Mrs Cole believed that information to be accurate. She would have done the same to non-disabled colleague whom she understood to be working a term-time contract. Disability was not the reason for the treatment, so as per the Shamoon case, the complaint of direct disability discrimination as it relates to Mrs Cole does not succeed.
+
+Mrs Knox
+
+96. The Claimant says that Mrs Knox sent her misleading information about her contract of employment when, from 1 June and into July 2023, Mrs Knox communicated with other members of the Respondent’s organisation upon realising that the Claimant’s written contract of employment was not a term-time contract – namely, Mrs Cole, Ms Kitt and Ms Conetta. The Claimant describes this as providing her misleading information “by omission”, by Mrs Knox’s failure to tell the Claimant of the error.
+
+Ms Kitt
+
+97. When Mrs Knox could not find a term-time working provision in the Claimant’s written contract of employment on 1 June 2023, it was Ms Kitt she contacted to ask about that. The Claimant says that Ms Kitt similarly gave the Claimant misleading information about her contract “by omission”, when in June and July 2023 Ms Kitt failed to tell the Claimant that her written contract was not a term- time contract.
+
+98. The Claimant has not pointed to either Mrs Knox or Ms Kitt sending her misleading information in relation to her contract. Rather, the Claimant has put to the Tribunal that by failing to share their newly-gained understanding that the Claimant’s written contract of employment did not provide for term-time working (which we see evidence of from 1 June 2023), they misled her. This is arguably a change to the complaint brought, but even if the allegation was properly put as being ‘a sin of omission’, the Tribunal finds that the reason why Mrs Knox and Ms Kitt did not raise this with the Claimant at the time was because the mistake was sufficiently serious that Ms Conetta needed to deal with it. We are unpersuaded that the reason why had anything to do with disability.
+
+99. Allegation 5 does not succeed.
+
+Events of 9 June 2023
+
+100. The Claimant emailed Ms Toumba, the person who organised the summer party, requesting that she be provided with a break-out area at the summer party on 23 June 2023. The Claimant did not receive a response to that email. This forms the basis for the Claimant’s following complaints:
+
+a) That Ms Toumba ignored the Claimant’s written request of 9 June 2023 for a reasonable adjustment at the summer party, and that this less favourable treatment of the Claimant compared to an appropriate hypothetical comparator, was because of disability, i.e., direct disability discrimination (Allegation 6); and
+b) That the Respondent failed to make reasonable adjustments for her in relation to its requirement, applicable to all staff, that they attend the summer party (which is Allegation 4 above).
+
+101. The Claimant attended a team meeting on the Teams platform. At that meeting:
+
+a) The Claimant referred to the fact that she had sent an email to Ms Toumba requesting an adjustment to the summer party. The Claimant says that Mrs Knox told her in this meeting that the Claimant should not have put a request for a reasonable adjustment in writing on 9 June 2023, and that this was less favourable treatment because of disability, and direct disability discrimination (Allegation 7);
+b) The Claimant says Mrs Knox put a stop to a discussion about reasonable adjustments, saying that they were not “work-related”. This the Claimant says was harassment related to disability, and this is referred to as Allegation 8. Mrs Knox recalls this part of the discussion differently. Mrs Knox says that another member of the team who is neurodivergent, “JS”, suggested in response to the Claimant’s reference to her request for a break-out space to Ms Toumba, that she (JS) was planning to go to her car if she got overwhelmed, and she wondered if that might work for the Claimant; and
+c) The Claimant and JS were talking, and Mrs Knox said something to them at the close of the meeting. The Claimant says that Mrs Knox used words like they should “stop being all outside the box”. This, the Claimant says, amounted to harassment related to disability, and this complaint is referred to as Allegation 9. Mrs Knox agrees that she said something to the Claimant and the neurodivergent colleague at the conclusion of the meeting, but she gave a very different account of it. Mrs Knox says that, at the end of the team meeting, when the business of the meeting had concluded, the Claimant and the colleague were talking about what to wear at the summer party, and that she sought to bring the meeting to a close. She says that she said words to the effect that “that’s enough chat, let’s get back to work”.
+
+102. Mrs Knox sent the Claimant an Outlook invitation to attend a one-to-one meeting on 14 June 2023, for an hour, in ‘the pod’ at the Dartford office. This was scheduled for 11:30-12:30, so as to follow the Claimant’s pre-existing meeting at 11:00-11:30 with the Respondent’s HR team to discuss her suggestion that the Respondent put in place a neurodiversity policy.
+
+103. The Claimant emailed Mrs Knox to ask about the purpose of the meeting, and some correspondence went back-and-forth between them about that. The Claimant asked if the meeting could also include discussion of training for the Adestra tool. Mrs Knox replied: “All in good time, we’ll talk about it on Wednesday”.
+
+104. Mrs Knox also sent the Claimant a template probation feedback form, noting that “Although not officially on probation, I think it is important for us to check in regularly to ensure that role expectations are met (both sides) and to do that, we need to come up with something documented to measure against it”. The Claimant says that Mrs Knox’s action in sending her the probation form subjected the Claimant to less favourable treatment than the treatment given to Mrs Cole, and that the reason for the difference was the Claimant’s dyslexia. This direct discrimination allegation is referred to as Allegation 10. The Respondent (and Mrs Knox) says that the form was sent, with an explanation that the Claimant was not in fact on probation (which the Claimant already knew), so as to aid discussion in the Claimant’s upcoming one-to-one about some appraisal goals.
+
+105. The probation form template itself had unpopulated boxes for:
+
+a) Probation objectives, to be assessed over a two month period;
+b) Manager evaluation;
+c) Employee evaluation; and
+d) End of probation assessment by both Manager and Employee.
+
+106. Mrs Cole was not sent a probation form at this time. Mrs Cole’s evidence was that she was subject to annual and half-year appraisals, running from her employment start date in March 2022. She was therefore not appraised in June 2023. In response to questions about any form that Mrs Cole is sent ahead of her appraisal meeting, Mrs Cole said that she was sent an appraisal form to fill in, and her manager also filled one in, to assist with discussion at the appraisal meeting. Mrs Cole noted that she was sent the probation form to assist with equivalent discussion at meetings held during her probationary period at the start of her employment in March 2022.
+
+107. The Claimant, working from home when she received the probation form, started to emotionally de-regulate.
+
+108. In the afternoon of 9 June 2023, Mrs Cole and Mrs Knox “chatted” over Teams,
+
+and that included the following messages:
+
+109. The Claimant says that:
+
+a) The adverse comments made about her by Mrs Knox to Mrs Cole in these messages was an act of direct disability discrimination (Allegation 11); and
+b) The adverse comments made about her by Mrs Cole to Mrs Knox in these messages was an act of direct disability discrimination (Allegation 12).
+
+110. The Respondent says:
+
+a) The Claimant only became aware of this correspondence due to her data subject access request response. These comments were not made to her directly, and she was not therefore subjected to any less favourable treatment.
+b) The reasons for the correspondence, as shown from the context in the surrounding pages of the previous messages in the Teams chat, were:
+(i) The need to get clarity about the Claimant’s working days, which had been causing difficulties as regards calculation of the Claimant’s sick pay; and
+(ii) A concern that the Claimant had become very focused on advising the Respondent’s HR team on matters relating to the Respondent’s approach to neurodiverse staff, and this had result in her neglecting her work duties.
+
+111. The facts in relation to each of those Allegations are now considered in turn.
+
+Allegation 6
+
+112. Allegation 6, that Ms Toumba ignored the Claimant’s written request of 9 June 2023 for a reasonable adjustment at the summer party, the evidence shows the Tribunal that:
+
+a) Ms Toumba has significant responsibility for organising the Respondent’s summer party, which is for around 500 people.
+b) The Claimant emailed Ms Toumba on Friday 9 June 2023 to make her request for an adjustment, two weeks ahead of the date of the party.
+c) The Claimant does not normally work Mondays, and did not receive a response on Monday 12 June 2023.
+d) On 13 June 2023, the Claimant reported that she was unfit for work, and provided a Statement of Fitness for Work which applied from 12 June 2023 that informed the Respondent that the Claimant was “not fit for work”. That Fit Note applied for a two-week period, ending 26 June 2023, i.e., after the summer party, which was to be held on 23 June 2023.
+e) The Claimant wrote to Claire Wise, the Talent Director within the Respondent’s HR team, on 13 June 2023, expressing an intention to raise a grievance about various matters. The Claimant’s email complained, among other things, about the fact that her request sent to Ms Toumba on 9 June 2023 had been ignored “to date”. In the same email the Claimant described her health: “[After communication following the 9 June 2023 meeting] The stress became too much for me and I experienced a breakdown. I requested an emergency appointment with my doctor surgery and have been subsequently signed off sick with stress.”
+f) The Tribunal can see that this 13 June email was passed on to Ms Kitt, because she corresponds with Mrs Knox on 16 June 2023 telling her that she (Ms Kitt) has emailed the Claimant about the matter exploring whether it can be resolved informally.
+g) On 14 June 2023, Ms Kitt emailed Ms Toumba stating “Sophie Stone is signed off sick and won’t be attending the summer party.”
+
+113. In light of the above, the Tribunal finds that Ms Toumba did not “ignore” the Claimant’s request for a reasonable adjustment. Rather, Ms Toumba was informed, three working days after she received the request, that the Claimant would not be attending the party. It was reasonable for Ms Toumba not to respond to the request in the two previous working days – the party was for around 500 people, and there would have been logistics to check so as to respond to the request (i.e., was it possible to provide a private break-out space for the Claimant, and how was this to be kept private at the party).
+
+114. It was reasonable for Ms Kitt to understand that the Claimant would not be attending the summer party, given the period for which the Fit Note stated the Claimant would not be fit for work encompassed the date of the summer party. The Fit Note contained a second option, whereby the medical assessor could have selected that the Claimant “may be fit for work taking account of the following advice”, and detail could have been included that the Claimant would be fit to attend the summer party with the adjustment sought – but it did not do so.
+
+115. While the Claimant avers that her 13 June email made it plain that she was still expecting a response to her adjustment request, the Tribunal disagrees – it does not say that. Moreover, the Claimant’s description of the state of her health made it reasonable for Ms Kitt to assume that the Claimant was unlikely to be well enough to return to work earlier than the expiry of the Fit Note.
+
+116. Neither Ms Toumba, nor the Respondent more generally, ignored the Claimant’s request for a reasonable adjustment in relation to the summer party. Ms Toumba reasonably did not respond in the period 9 to 14 June 2023, whereupon it understood the request to no longer apply. Allegation 6 therefore does not succeed.
+
+Allegation 7
+
+117. This allegation, that Mrs Knox told the Claimant in this meeting on 9 Juen 2023, that the Claimant should not have put a request for a reasonable adjustment in writing on 9 June 2023, cannot be definitively answered because there was no recording taken of what was said in the team meeting.
+
+118. We do, though, have what appears to be a contemporaneous account from a WhatsApp message the Claimant sent her husband (it is not dated, but appears to be from that day) which described this incident in the following terms: “I told Julie that I had requested a break out area, she said I shouldn’t have gone to katina I should have spoken to her and there is lots of space at the venue and I can sit in the car for a break”.
+
+119. This is consistent with Mrs Knox’s account, that instead of telling the Claimant not to put the reasonable adjustment request in writing (Allegation 7), Mrs Knox instead told the Claimant that Ms Toumba was the wrong person to ask if the Claimant wanted an answer, as Ms Toumba is generally known for not answering emails and would be extremely busy in the run-up to the party, and that the Claimant would have been better to direct the request to her (Mrs Knox).
+
+Allegation 8
+
+120. The Claimant and Mrs Knox disagree whether, in this 9 June 2023 meeting, Mrs Knox referred to discussion around the Claimant’s request to Ms Toumba for a break-out space, and JS’s description of her plan to respond to her needs as a neurodivergent person, as not being “work related” – the Claimant says this was said, Mrs Knox says it was not.
+
+121. The Claimant exchanged some WhatsApp messages with her husband shortly after the meeting on 9 June 2023, and a few days later when she was reflecting on that meeting. We find it significant that the Claimant did not mention this matter in those messages, when they go into detail about other matters.
+
+122. We accept Mrs Knox’s account that she said something to the Claimant and JS when they were talking about the summer party and adjustments to the effect that the team meeting needed to be drawn to a close and they needed to get on with work. We find that Mrs Knox did not say that their discussion about reasonable adjustments was not work-related.
+
+123. Allegation 8 therefore does not succeed.
+
+Allegation 9
+
+124. This allegation, that at the meeting Mrs Knox told the Claimant and JS to “stop being all outside the box”, is also denied by Mrs Knox.
+
+125. There is no recording or notes of what was said at the meeting, but there are several pieces of documentary evidence that describe what occurred:
+
+a) A WhatsApp message from the Claimant to her husband on 11 June 2023, which includes: “I’ve been going over the team meeting where Julie said ‘no thinking out side the box, get back in your boxes’ which given that I have not choice in being outside the box is really problematic for me. She is basically saying, mask, act neurotypical and don’t rock the boat”;
+b) What the Claimant wrote about it in her email of 13 June 2023 to Ms Wise (described below). In that email, the Claimant said: “I raised that I had made the request with Julie Knox at our team meeting on Friday she said that I ‘Should not have written to Katina to request a reasonable adjustment’. This prompted a discussion on how the stress of social engagement would be too much for me… My colleague [JS] suggested going and sitting in my car as a possible solution to which Julie responded ‘Stop being all outside the box and get back in your boxes’. I consider this direct harassment. Ridicule of my neurotype is completely unacceptable and I feel that my human right to be respected has been violated”;
+c) Notes of what Mrs Knox said about the matter to Ms Conetta on 7 July 2023, which record: “don’t remember saying this at all remember lots of chatting about non work related and from memory said ‘get back to it’. If said get back in box – related to back to work box”; and
+d) In the grievance appeal outcome letter from Mr Allen sent on 6 October 2023, Mr Allen records, in relation to this incident: “we have spoken to [JS], who was the other party subject to this statement and witness to this exchange, who has confirmed Julie’s version of events. Indeed, [JS] stated the following: ‘Never was a sentence said to me using derogative words such as “in your box” or “in your lane”. And certainly not from Julie”.
+
+126. There is also some context to Mrs Knox’s feelings about the Claimant from the Teams messages she exchanged with Mrs Cole, copied above – Mrs Knox was frustrated that the Claimant seemed to be so different from her freelancer self, was looking to tread carefully and find a solution for the Claimant’s needs, but was frustrated with the Claimant’s focus not being on her work when the team was so busy.
+
+127. Taking these matters in the round, we find that Mrs Knox said something like “get back in your work box”, attempting to switch the Claimant’s mindset from being focused on the summer party and adjustments related to that, and back to the workload in front of her. In doing so we have given far less weight to JS’s apparent account, as whilst we heard evidence from Mr Allen that that is what JS said, we have not been able to question JS about it. Moreover, the Claimant tells us that JS’s first language is not English, and so the connotations of “getting back in the box” for a neurodivergent person might not be picked up on by a person whose first language is not English, and so might not be remembered by them two months after the meeting.
+
+Allegation 10
+
+128. This allegation, that by sending the Claimant a probation form Mrs Knox directly discriminated against the Claimant on the ground of disability, is also denied by Mrs Knox.
+
+129. It is clear from the evidence of the Claimant that receipt of the probation form distressed her. She did not know how she was to fill it in, and she felt like she was being asked to “make things up” given it referred to objectives at points in time that had already passed (day 2, end of week 2, end of month 1, end of month 2).
+
+130. The Claimant also interpreted the part of Mrs Knox’s message explaining why the form had been sent as indicating that she may in fact be on probation. The message began “Although not officially on probation…”, and the Claimant took that to mean that she could be on some sort of unofficial probation.
+
+131. Allegation 10 is one of direct disability discrimination, and so the Tribunal must determine why Mrs Knox sent the form.
+
+132. Mrs Knox says that she did so to try to set an expectation for what would be discussed in their one-to-one meeting, so as to alleviate any worries the Claimant may otherwise have had about being invited to a meeting without apparent agenda. Mrs Knox believed it was very clear that the Claimant was not on probation, and so did not envisage her message or the form causing the upset it did, not least because the Claimant’s response to being sent the probation form and Mrs Knox’s accompanying explanation about it being “important for us to check in regularly to ensure that role expectations are met (both sides)”, was “Great! I love this kind of thing!”. Mrs Knox said that, as she and the Claimant had not previously discussed objectives or key performance indicators, the appraisal form was not appropriate to send, and the situation was more akin to a probation discussion meeting as it involved initially setting goals rather than discussing progress towards pre-existing ones.
+
+133. The Tribunal notes that on 18 May 2023, not long before the probation form was sent, Mrs Knox provided a reference for the Claimant in the context of the Claimant looking to undertake some care work. Mrs Knox answered some of the
+
+questions in that reference as follows:
+
+134. It was a very positive reference.
+
+135. The Tribunal also notes that the probation form was sent on the same day (albeit earlier in the day) as the Teams correspondence took place between Mrs Knox
+
+and Mrs Cole, in which:
+
+a) Mrs Cole describes the fact that the Claimant had been very stressed and upset when covering Mrs Cole’s work;
+b) Mrs Cole referred to the fact that the Claimant considered the training she had received on Adestra to be inadequate;
+c) Mrs Cole referred to the Claimant having been upset at the earlier team meeting about the summer party;
+d) Mrs Knox had said “Yes I think I’m going to have my work cut out”, and referred to her concerns about the Claimant;
+e) Mrs Knox observed “It’s like I’ve employed two different people. The one pre-contract and the one after”; and
+f) Mrs Knox concluded: “We’ll sort it. Just need to tread carefully and try not to offend”.
+
+136. The Tribunal finds, in light of the above, that Mrs Knox did not intend to imply that the Claimant was on probation, or that her job was at risk. She thought well of the Claimant (shown by the fact she employed the Claimant after the freelancing arrangement, the reference she gave for the Claimant, and the fact that she took steps to remove the probationary period from the Claimant’s employment contract). As the concluding quote above makes plain, Mrs Knox believed that the difficulties she and the Claimant were experiencing could be sorted out. We therefore find that Mrs Knox’s reasons for sending the Claimant the probation form were two-fold:
+
+a) To get the Claimant thinking about possible appraisal targets; and
+b) To get the Claimant’s focus back on her job, given there was a concern that she had been distracted by seeking to advise the Respondent on neurodiversity following the induction day.
+
+137. The reason for sending the probation form was not disability, and therefore Allegation 10 fails.
+
+Allegation 11
+
+138. This allegation, that adverse comments made about the Claimant by Mrs Knox to Mrs Cole amounted to direct disability discrimination, calls for the Tribunal to determine the reason for the correspondence.
+
+139. The Claimant says it was because of her dyslexia, the Respondent says the reason for it was uncertainty about the Claimant’s working arrangements given Mrs Knox’s recent realisation that the Claimant’s written contract was not a term- time contract.
+
+140. The Tribunal finds that the reasons for this correspondence were:
+
+a) Mrs Cole was “swamped” with work, and Mrs Cole and Mrs Knox felt that the Claimant was becomingly increasingly focused on the Respondent’s neurodiversity approach after her discussion with Mr Allen during the induction day, and she was not performing her work-related tasks. The combination of these matters was causing some frustration on their parts; and
+b) They genuinely considered that the Claimant’s approach had changed quite significantly from the time period when she was engaged as a freelancer, when there were clear issues with Adestra but otherwise the Claimant’s attitude was to get on and do the other work she could do, and the time when the Claimant was employed, when she seemed increasingly focused on adjustments for her dyslexia, not limited to Adestra, which meant she was regarded by them as doing much less of the tasks that fell to be shared between her and Mrs Cole. Allegation 12
+
+141. The Tribunal finds the reason for the adverse comments made about the Claimant by Mrs Cole to Mrs Knox was the same as for Allegation 11.
+
+The Claimant commenced a period of sick leave, 13 June 2023
+
+142. The Claimant commenced a period of sick leave on 13 June 2023 and never returned to work. The reason identified for the Claimant’s absence on her Fit Notes was “stress”.
+
+143. The Claimant wrote to Ms Wise, the Talent Director within the Respondent’s HR team, on 13 June 2023, expressing an intention to raise a grievance about various matters. The Claimant’s email to Ms Wise is accepted by the Respondent as being a “protected act” for the purposes of section 27 of the 2010 Act (victimisation), and is referred to as PA1 below.
+
+144. Ms Wise was not the appropriate person to deal with this, and so it was passed on to Ms Kitt, and Ms Wise told the Claimant she was doing that.
+
+145. The Claimant then sent a WhatsApp message to Ms Kitt on 13 June 2023, apologising for approaching the wrong person and seeking to set up a call to discuss. Ms Kitt replied to say that she had emailed the Claimant, and asking whether the Claimant would like her to forward that to the Claimant’s personal email account, which the Claimant was grateful for. Ms Kitt then wrote, in WhatsApp: “Just sent through, let me know if you have any questions. If we could keep communication in one place and via email that would be great.” The Claimant replied:
+
+“Great! Much appreciated.”
+
+146. Ms Kitt emailed the Claimant on 14 June 2023, noting that the Claimant was considering raising a grievance against Mrs Knox, and asking therefore that the Claimant not contact Mrs Knox until the matter is resolved. Ms Kitt also informed Mrs Knox of that, without giving Mrs Knox the details of the Claimant’s complaints.
+
+147. Ms Kitt also wrote Ms Toumba on 14 June 2023, informing her that the Claimant was signed off sick and would not be attending the summer party.
+
+148. The meetings scheduled between the Claimant and HR, and between the Claimant and Mrs Knox, both on 14 June 2023, did not take place.
+
+149. On 16 June 2023, some correspondence took place between Ms Kitt and Mrs
+
+Knox:
+
+a) Mrs Knox wrote to Ms Kitt: “Hi Ruby, I just wanted to check in on the Sophie situation. Even though I’ve been told not to worry about it I can’t help but be anxious as I don’t yet know the nature of the complaint and if it is against me personally or the team or the company. Anything you can do to alleviate these feelings would be greatly appreciated.”
+b) Ms Kitt replied: “Hi Julie, I emailed Sophie regarding the matter asking to solve it informally first… You are mentioned in the grievance however it is more around the lack of support from the business I think and us not accommodating her request to ensure she can carry out her role properly. Please do not panic, we are here to support you too and we need to get this sorted as her behavior’s not ok either. I would appreciate keeping this totally confidential until we find out how she would like to proceed.”
+
+150. The Claimant complains that this second message, from Ms Kitt to Mrs Knox, amounted to detrimental treatment of her, and that it was done because she had sent an email to Ms Wise raising concerns. This victimisation complaint is referred to as Allegation 13. WhatsApp correspondence between the Claimant and Ms Kitt on 26 June 2023
+
+151. The Claimant avers that Ms Kitt’s WhatsApp messages to her on this date subjected her to detriment, and that this was done because the Claimant had done a protected act, i.e., PA1.
+
+152. The detriment that the Claimant describes these messages as subjecting her to is three-fold:
+
+a) Firstly, the Claimant had understood from Ms Kitt on 13 June 2023 that their correspondence was to be confined to email, and Ms Kitt’s WhatsApp messages on 26 June therefore alarmed her;
+b) Secondly, the time at which the last message was sent, being 20:20, and outside working hours; and
+c) Thirdly, the Claimant felt harangued by Ms Kitt’s last message, after the Claimant had said that Ms Kitt should “leave it with [her]” to confirm whether she could meet Ms Kitt in Herne Hill on the days Ms Kitt suggested.
+
+153. This victimisation complaint is referred to as Allegation 14. The correspondence between Ms Kitt and the Claimant is copied below. The Claimant’s messages are on the left hand side, and Ms Kitt’s on the right hand side:
+
+154. This correspondence shows that Ms Kitt initiated the WhatsApp conversation on 26 June, after agreeing with the Claimant on 13 June that contact between them would be in email, but it also shows that the Claimant did not object to it.
+
+155. The Claimant emailed Ms Kitt to complain about the 20:20 WhatsApp on the evening of 26 June, and Ms Kitt replied the next morning: “I understand, however you was due to return to work today so wanted to inform you I won’t be in Dartford today as didn’t want you heading in and me not being there.”
+
+156. It is evident to the Tribunal that the reason why Ms Kitt sent the latest of the messages in the chain was to check that the Claimant understood that Ms Kitt would be working from home the next day. Ms Kitt had made that point clear in her previous message, but the Claimant had not acknowledged that the only options for meeting in person were on the Wednesday and Thursday, and the Claimant had expressed that her thoughts had been a bit discombobulated (as she forgot to pick her son up). It was understandable that Ms Kitt would not wish for the Claimant to make a wasted journey.
+
+157. The Tribunal finds that the reason for Ms Kitt’s message was to try to ensure the Claimant did not have a wasted journey. This is consistent with other correspondence from Ms Conetta a few days later, where Ms Conetta is trying to find a solution to the Claimant’s concerns. It would be inconsistent with that approach for Ms Kitt to subject the Claimant to a detriment because she had sent the 13 June email to Ms Wise (PA1). Correspondence between the Claimant and Ms Conetta about amending the Claimant’s contract of employment, July 2023
+
+158. In relation to these matters, the Claimant says:
+
+a) The information given to her by Ms Conetta about her contract was misleading, and by doing so Ms Conetta treated her less favourably than she would have treated a hypothetical comparator, and the reason for that difference in treatment was disability. This direct disability discrimination allegation is referred to as Allegation 15. Specifically, the Claimant says that:
+(i) In her notes of her meeting with Mrs Knox on 7 July 2023, Ms Conetta refers to the Claimant’s contract as a term-time contract; and
+(ii) When Ms Conetta sent the Claimant a revised draft contract of employment on 11 July 2023, the Claimant was only expecting that contract to have a different start date (17 April 2023, because they had agreed that they would treat her prior work as performed under her previous freelancing arrangement), but the draft that came through also described that the Claimant was a term-time employee but Ms Conetta did not point that out;
+b) By seeking to change her flexible working arrangement in this way, the Respondent was looking to apply a PCP to her of requiring her to work structured hours of five hours a day, four days a week. This, she contends, put her at a substantial disadvantage compared to a person without her dyslexia, in that she needs to retain her ability to work the hours she chose and that were convenient for the business, without fixed hours, given that she can experience overwhelm, which can result in her shutting down, and she needs to be able to take a break from work and then return to it when that has become manageable again. The Claimant therefore says that the Respondent was obliged to make reasonable adjustments when seeking to apply this PCP to her, and that it failed to do so. This is referred to as Allegation 16; and
+c) The email sent to her by Ms Conetta on 12 July 2023 subjected her to detriment, which the Claimant says Ms Conetta did because the Claimant had made one or more protected acts. This victimisation complaint is referred to as Allegation 17. That email contained the following:
+
+159. The Respondent accepts that this email was sent to the Claimant, but it resists the victimisation complaint and says that it is important to see the email in the context of seeking to resolve the Claimant’s concerns.
+
+160. This email was clearly sent because the Claimant did PA1.
+
+The Claimant raised a formal grievance, 19 July 2023
+
+161. The Claimant raised a formal grievance on 19 July 2023, and sent it to Mr Benson. This is accepted by the Respondent to be a “protected act” for the purposes of section 27 of the 2010 Act, and is referred to as PA2 below.
+
+Grievance hearing, 2 August 2023
+
+162. Mr Benson met with the Claimant to hear her grievance on 2 August 2023.
+
+163. At that meeting, Mr Benson committed to respond to the Claimant’s grievance within seven days.
+
+Grievance outcome, 10 August 2023
+
+164. The Claimant wrote to Mr Benson after working hours closed on 9 August 2023, noting that Mr Benson and Ms Conetta had, in the grievance meeting, agreed to respond to her within seven days, and that time had passed. Mr Benson, who was abroad on holiday at the time. replied shortly afterwards that same day, stating: “You will have the letter of response tomorrow; a few elements of the investigation have taken longer than anticipated.”
+
+165. Mr Benson sent the Claimant the outcome of her grievance the next day, on 10 August 2023. The Claimant contends that the Respondent’s failure to respond to her grievance within the stated time period subjected her to detriment, which she says was done because she had done one or more protected acts (i.e., PA1 and/or PA2). This victimisation complaint is referred to as Allegation 18.
+
+166. This allegation of victimisation requires the Tribunal to determine why Mr Benson was late in responding to the Claimant’s grievance.
+
+167. The Tribunal notes that Mr Benson’s grievance outcome letter was four pages of dense text. It responded to six grounds of complaint, and clearly had taken some work to put together. Mr Benson’s explanation to the Claimant and to the Tribunal that it had simply taken longer than the seven days he had anticipated to complete his work on that letter is entirely credible. It is also noteworthy that at the time he sent it, he was abroad on holiday – it is very likely he would have preferred to send it on time. There is no reason to suppose that the response was later than planned because the Claimant had raised the grievance it responded to (PA2), or because the Claimant had made the complaint to Ms Wise on 13 June 2023 (PA1). Allegation 18 therefore does not succeed.
+
+168. Mr Benson did not uphold the Claimant’s grievance. His letter, which ran to four pages of dense text, contained the following: “I am saddened by the events that occurred which you feel have been dismissive, on occasion ignored and viewed as discriminatory. Sophie, you have been freelancing with the business from March 2022, we acknowledged the great work that you had done and moved you to a permanent contract. A term-time contract
+
+which no other employee in the business has.”
+
+169. It is the last sentence of that excerpt that the Claimant cites when she says that, in his grievance outcome letter, Mr Benson provided her with misleading information about her contract of employment by referring to it as being a “term- time contract”. This, she contends, was an act of direct disability discrimination, i.e., it was less favourable treatment than a hypothetical comparator would have received, and the reason for the difference in treatment was disability. This is Allegation 19.
+
+170. The Tribunal heard evidence from Mr Benson that he had never looked at the Claimant’s contract of employment himself. He was relying on information supplied to him by the Respondent’s Human Resources team. This makes it even more surprising that the letter referred to the Claimant’s contract as being a term- time contract, given Ms Conetta had sent the Claimant a draft term-time contract a month previously due to the confusion over the actual operational arrangement between them, and that draft written contract had not yet been signed and returned by the Claimant. It seems, therefore, that the letter was describing the Respondent’s understanding of how the employment relationship between it and the Claimant operated in practice, rather than what was written in the contractual documentation between them.
+
+171. There is no reason to suppose that this part of Mr Benson’s letter was written so as to mislead the Claimant (it would be an extremely surprising thing to do in a grievance outcome letter), or that he wished to mislead her because of disability. A far more plausible explanation is that this was considered by the Respondent’s Human Resources team to describe the on-the-ground working arrangement that applied between it and the Claimant, albeit that this could have been made clear in the drafting.
+
+172. We find that the reason the letter included this text is because Mr Benson understood this to be accurate, and the Human Resources team considered it to accurately reflect the working relationship between the parties.
+
+173. The “reason why” was not disability, and so this Allegation 19 does not succeed (Shamoon). The Claimant appealed against the grievance outcome, 14 August 2023
+
+174. Mr Benson’s letter had referred to the Claimant’s right to appeal the grievance outcome to Mr Allen.
+
+175. The Claimant did so on 14 August 2023, by email, at 4:25 pm.
+
+176. Mr Allen sent an email to the Claimant in reply at 4:45 pm, also on 14 August 2023, in the following terms: “Hi Sophie Thank you for your email. I am on annual leave from tomorrow until the end of August, so any meeting will have to wait until early September. In relation to obtaining a medical assessment, this must be done through your NHS GP, who will be able to advise the most appropriate NHS health professional to assess your requirements. Once we have that assessment, we can assess whether any reasonable adjustments should be made. I will be in touch on my return to the office. Kind regards Ben”
+
+177. The Claimant alleges that this email subjected her to detriment, and that it was because the Claimant had done one or more protected acts (i.e., PA1 and/or PA2). This victimisation complaint is referred to as Allegation 20.
+
+178. Allegation 20 requires the Tribunal to reach a conclusion on whether Mr Allen’s email subjected the Claimant and if so, whether that was because she had done a protected act.
+
+179. On the factual question, the email was evidently sent because the Claimant had done a protected act – it was responding to the Claimant’s appeal against a grievance outcome.
+
+Grievance appeal hearing, 28 September 2023
+
+180. A grievance appeal hearing took place between the Claimant and Mr Allen, with a colleague in attendance on the Respondent’s side to take notes, on 28 September 2023.
+
+Grievance appeal outcome, 6 October 2023
+
+181. Mr Allen did not uphold the Claimant’s appeal, and wrote to her with that decision and explanation on 6 October 2023.
+
+Subject access request response, March 2024
+
+182. The Claimant made a data subject access request on 29 January 2024. The Respondent (Ms Conetta) acknowledged that request on 31 January 2024, and wrote: “We are currently processing your request and aim to provide a full response within the required timeframe i.e. 29th February 2024. Please note that due to the nature and scope of your request, we may require additional time to gather and review the relevant information. If this is the case, we will inform you before the deadline, explaining the reasons for the delay and providing an updated deadline for our response.”.
+
+183. In response to a chaser email from the Claimant, the Respondent wrote to her on 29 February 2024, explaining that there would be a delay, mainly due to an issue that the Claimant had raised with the sick pay she had received (which resulted in a further payment to the Claimant). The response to the subject access request was sent on 4 March 2024.
+
+184. The Claimant says that the Respondent’s actions in missing the deadline for responding to her subject access request subjected her to detriment, and was done because she had done one or more protected acts (i.e., PA1 and/or PA2). This victimisation allegation is referred to as Allegation 21 below.
+
+185. Ms Conetta’s explanation, that:
+
+a) The Respondent’s Human Resources team was very stretched, comprising only two members of staff for around 500 employees;
+b) They had received an email from the Claimant querying the value of the sick pay that had been paid to her, and they prioritised resolving that over the Subject Access Request so as to ensure the Claimant was not out-of- pocket for longer than she had been already; and
+c) The Respondent at that time had two different HR systems, one for pay and a different one for absence, which did not communicate with each other and were, using Ms Conetta’s word, “abysmal”, and so checking the sick pay sums that had been paid to the Claimant and those that should have been paid to her was a time-consuming manual exercise, was not challenged by the Claimant.
+
+186. The Tribunal finds that the reason for the Respondent’s delay in responding to the Claimant’s Subject Access Request was its decision to prioritise resolving her sick pay query in circumstances where it had inadequate HR resources. Any detriment the Claimant suffered as a result of the delay (which was three business days) was not because the Claimant had done a protected act.
+
+187. Allegation 21 therefore does not succeed. Are there any inferences of discrimination that should properly be drawn from considering the totality of the primary facts?
+
+188. The Tribunal is conscious that, as observed by Neill LJ in King, direct evidence of discrimination is unusual, but it does not mean that discrimination has not occurred. The Tribunal therefore needs to consider, in light of the totality of the primary facts (those agreed by the parties together with those found by the Tribunal), whether it is appropriate for us to infer from those facts, and all the circumstances of the case, that there was a disability ground for the acts the Claimant complains of (Qureshi). We are also reminded that any inferences drawn must be based on evidence, not by making use (without evidence) of a verbal formula such as ‘institutional discrimination’ (Stockton on Tees BC v Aylott [2010] ICR 1278).
+
+189. We concluded that no such inferences should be drawn.
+
+190. There were aspects of the factual matrix that gave us cause for concern:
+
+a) Despite being a sizeable organisation, there were a number of instances of mistakes and mishandling by the Respondent’s human resources team:
+(i) The written contract for the Claimant was not a term-time contract, despite that being the Respondent’s intention. This caused confusion and ultimately distress. (More generally it is clear that the contract was carelessly put together – e.g., despite removing the clause on probationary period, it still referred to probationary period in a number of places);
+(ii) There was no internal expertise or process on how to respond to requests for reasonable adjustments or declarations of neurodivergence;
+(iii) The Claimant commenced a period of sickness absence for stress, when she was communicating that stress derived from work, and there was no referral by the Respondent to Occupational Health, or request for medical information on the Claimant’s dyslexia (until the grievance appeal process two months after that absence had begun) (It appears that an Occupational Health referral was made, but not until April 2024, some ten months after the Claimant’s sickness absence commenced);
+(iv) There does not appear to have been any process for managing sickness absence, such as an understood protocol of how to communicate with a off-sick employee, and how to support them back to work;
+(v) When the Claimant did not want to return to work in Mrs Knox’s department and refused the offer of mediation, she was told by the Respondent’s Human Resources team that the only option available to her was to resign. This was shocking. The Claimant could have been presented with a list of vacancies and those vacancies explored with her, before in turn exploring whether the line managers of those vacant posts could accommodate the Claimant’s working pattern flexibility. It is entirely possible that had the Respondent been in the possession of a sufficiently expert occupational health report it could have better-understood the Claimant’s needs, and that might have enabled the working relationship between Mrs Knox and the Claimant to be salvaged;
+(vi) At a more basic level, the human resources team should have understood that communication between different neurotypes can present challenges: neurotypical people can find it hard to understand the difficulty/ies experienced by a neurodiverse individual, and vice versa. This is where a subject-matter expert comes in, and the Claimant already had a diagnosis that could have helped the Respondent understand some of the difficulties she was experiencing. Suitably expert occupational health can be another valuable resource; and
+(vii) A witness statement supplied by a former member of the Respondent’s Human Resources team who was not available for oral evidence referred to the Claimant’s “allegation of neurodiversity”. This was crass and inappropriate language, and greatly concerning coming from someone in Human Resources; and
+b) There was a casual approach by the Respondent to responding to the Claimant’s known difficulties with Adestra. That resulted in distress for the Claimant, which could have contributed to her perception of later events as being tainted by discrimination or victimisation even though there was a logical non-discriminatory explanation. This was avoidable if action had been taken upfront to understand the Claimant’s strengths and challenges.
+
+191. However, it is important to put these matters into their proper context when considering whether they should form the basis for an inference of discrimination:
+
+a) It does appear that the mistakes made by the Respondent in its drafting of the Claimant’s contract and its calculation of sick were the result of the team being insufficiently skilled, under-resourced and overwhelmed. There is no indication that they were consciously or unconsciously motivated by discrimination;
+b) While the Claimant considered she was clear in her communications of what she needed, she did not aways explain why she needed what she was asking for, and so while the Respondent knew she is dyslexic, it did not know with sufficient clarity how her dyslexia affected her in ways that were relevant to how her work arrangements operated. The Claimant has explained to the Tribunal, without the use of more than the 2004 diagnosis she could have shown the Respondent, why she found things difficult. She could have done that with the Respondent but did not;
+c) Nor did the Claimant provide any medical evidence to the Respondent as to how her dyslexia affected her. This is not always necessary, but where the Claimant herself has failed, or is unable, to express why her dyslexia means that she needs an adjustment, medical evidence could ‘step in’ and communicate that why to the Respondent – but that did not happen in this case. She had a 2004 report that would have helped, and which might have prompted the Respondent to seek Occupational Health Advice; and
+d) Most significantly, the Claimant did not appear to experience any insurmountable problems when she worked for the Respondent as a freelancer. We find this very, very significant. The only aspect of her work that changed upon accepting the employed role was the need for her Adestra. This was poorly-handled by the Respondent, but we also consider that the Claimant’s attitude changed in a meaningful way upon her being taken on as an employee by the Respondent. She became increasingly fixated on the Respondent’s approach to neurodiversity and less interested in doing her job. It was reasonable for the Respondent to be greatly concerned by this, and to expect her to perform those parts of her role that she could do without difficulty as a freelancer.
+
+192. We consider that, looking at the evidence and all the circumstances of the case, it is not appropriate to draw any inferences that there were the averred discriminatory grounds for the acts complained of.
+
+Law
+
+Direct discrimination
+
+193. Section 13(1) of the 2010 Act describes the prohibited conduct of direct discrimination as follows: “A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.”
+
+194. In other words, two conditions must be satisfied for a complaint of direct disability discrimination to be made out:
+
+1. The employer must have treated the claimant less favourably than it treated or would treat others; and
+
+2. The reason for that difference in treatment is a protected characteristic.
+
+195. The assessment of whether treatment is less favourable is an objective one, i.e., whether the tribunal finds it so, not whether the claimant perceived it as such (Land Registry v Grant (Equality and Human Rights Commission intervening) [2011] ICR 1390).
+
+196. Section 13 involves the comparison of treatment afforded the claimant against a named or hypothetical comparator (“than A treats or would treat others”), and section 23(1) provides that: “there must be no material difference between the circumstances relating to each case” [i.e., there must be no material difference between the circumstances of the claimant and the comparator].

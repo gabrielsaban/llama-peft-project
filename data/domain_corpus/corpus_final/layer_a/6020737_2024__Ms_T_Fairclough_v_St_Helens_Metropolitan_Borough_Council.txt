@@ -1,0 +1,112 @@
+JUDGMENT
+
+1. The claimant’s oral application to amend her claim to add a complaint of direct age discrimination in relation to a flexible retirement request is refused.
+
+2. The remainder of the claimant’s age discrimination complaint is dismissed on withdrawal.
+
+3. The respondent’s application to strike out the complaint of unfair dismissal is refused.
+
+4. The respondent’s application for a Deposit Order in respect of the complaint of unfair dismissal (or in respect of certain allegations within that complaint) is also refused.
+
+5. The claim of unfair dismissal will proceed to a final hearing on a date already notified to the parties.
+
+REASONS
+
+Introduction
+
+1. This Judgment should be read alongside the Case Management Summary and Case Management Orders of the same date. Reasons for the Tribunal’s decision to refuse the claimant’s application to amend her claim were given orally. This written Judgment sets out the Tribunal’s determination of the respondent’s applications for strike out (alternatively for deposit orders) which were reserved.
+
+The Hearing
+
+2. This was a public preliminary hearing held by CVP. Despite some minor technical issues, the hearing proceeded with no real difficulties. The application was determined on submissions. I invited the claimant to give evidence about her financial means, but the claimant indicated that she would be in a position to pay any deposit order made by the Tribunal up to the figure of £4,000 (which seemed to be the likely maximum) and so no evidence was ultimately taken.
+
+The claim and the respondent’s application
+
+3. I have outlined the facts which I have relied on to determine the application below. For the most part, I understand these to be uncontroversial, but I make clear that I have made no formal findings of fact and that nothing said here binds the parties or the Tribunal at any final hearing. I also remind myself that I must take the claimant’s case at its (reasonable and realistic) highest in considering a strike out application, and assume that her evidence will make good the factual matters that she relies on.
+
+4. Ms Fairclough was employed by the respondent as a People Management Business Partner (“PBMP”). She worked in a team of seven, with six PMBPs reporting to one Senior Business Partner. Although all of the PMBPs worked under the same terms and conditions, in practice Ms Fairclough was assigned to the council’s “Places” directorate and her work supported the work of that department.
+
+5. In 2024 a reorganisation was proposed. This would replace the seven team members identified above with four Strategic Business Partners (“SBPs”) and three Employee Experience Business Partners. Overall headcount would therefore remain the same. The Senior Business Partner was mapped into a SBP role as being an equivalent level post. The post-holder was therefore “assimilated” into the new role without any selection process. The six PMBPs were entitled to apply for the remaining SBP roles. Ms Fairclough did so, along with three others. These three roles were associated with different directorates within the council, including one specifically associated with the “Places” directorate.
+
+6. Ms Fairclough’s case, put at its highest, is that there was sufficient overlap between her existing role supporting the Places directorate, and the new SBP role, to mean that the roles should have been assimilated i.e. she should have been moved into the new role without any selection process (notwithstanding that it was paid at a higher grade). She argues that she was contractually entitled to be treated in that way having regard to the respondent’s redundancy policy. The respondent’s position is that this was a reorganisation not involving redundancy, and so the redundancy policy did not apply.
+
+7. Instead, the respondent invited all of the PMBPs to apply for the SBP roles. Statements were made prior to the application process that it was expected that appointments would be made from the existing PMBPs, provided sufficient applications were received. Four colleagues applied and were assessed via interview. One was deemed appointable and duly appointed. Three others, including the claimant, were deemed not to be appointable, which left two SBP roles unfilled.
+
+8. On receiving the news that she had been deemed not appointable, the claimant tendered her resignation with immediate effect. There was some correspondence over the following days which I will not set out in detail here. The claimant now argues that the respondent took insufficient steps to try to dissuade her from resigning.
+
+9. The respondent says that it has not sought to appoint anyone else to the two outstanding SBP roles, and instead kept the unsuccessful candidates on in their original roles. The reorganisation, therefore, has not been fully put into effect.
+
+10. We clarified the issues in the case before I considered this application. Ms Fairclough will seek to argue, firstly, that her resignation should be treated as a dismissal in line with the Kwik-Fit (GB) Ltd v Lineham 1992 ICR 183 line of authorities. If that is unsuccessful, she will argue that this is a ‘standard’ constructive unfair dismissal claim. Although it was clear to me on reading the claim that the respondent’s failure to appoint the claimant to the role of SBP had prompted her resignation, it was less clear to me how she said that that failure to appoint amounted to a fundamental breach of contract, in circumstances where the appointment was a promotion and her own role was not at risk.
+
+11. The respondent’s written submission, prepared before today’s clarification of the case, emphasised the different levels of the claimant’s old role and the SBP role and contended that there could be no ‘right’ to be promoted and that the respondent must be acting within its powers to utilise a selection procedure and, having done so, to deny the claimant the role. Mr Tinkler expanded on that submission today making a similarly forceful attack on the idea of a ‘Kwik-Fit dismissal’ given the chronology of communication around the claimant’s dismissal, and on the various allegations of matters said to amount to breaches of the implied term.
+
+Relevant Legal Principles
+
+12. Rule 38 Employment Tribunal Rules of Procedure 2024 sets out the circumstances where a Tribunal may strike out “all or part of a claim” on various grounds, including that it “has no reasonable prospect of success”.
+
+13. Rule 40 deals with Deposit Orders and provides as follows: Where at a preliminary hearing the Tribunal considers that any specific allegation or argument in a claim, response or reply has little reasonable prospect of success, it may make an order requiring a party (“the depositor”) to pay a deposit not exceeding £1,000 as a condition of continuing to advance that allegation or argument (“a deposit order”).
+
+14. In considering whether to make a deposit order, the Tribunal is not restricted to a consideration of purely legal issues, and is entitled to have regard to the likelihood of a party being able to establish the factual basis of their claims, and to reach a provisional view as to the credibility of allegations being put forward.
+
+15. It is now firmly established that neither a strike out order not a deposit order should be used as a substitute for properly analysing and clarifying the claims that the claimant seeks to bring, particularly where the claimant is a litigant in person (Cox v Adecco 2021 ICR 1307, Amber v West Yorkshire Fire and Rescue Service 2024 EAT 146).
+
+16. Even if it is established that a allegation or argument has little reasonable prospect of success, the Tribunal retains a discretion as to whether to make a deposit order. The discretion is be exercised in accordance with the overriding objective, taking into account factors such as party costs and Tribunal resources, and the need to focus on the real issues in the case (Hemdan v Ishmail 2017 ICR 486).
+
+Discussion and conclusions
+
+17. It is helpful to set out here the way the claim is being put, following clarification in today’s hearing. This is an extract from the List of Issues circulated to the parties:
+
+Dismissal
+
+1.1 Should the claimant’s resignation be treated as a dismissal on the basis that it was a ‘heat of the moment’ resignation and the respondent had an obligation to investigate whether the claimant genuinely wanted to resign and failed to do so?
+1.2 If not, can the claimant nonetheless, prove that there was a dismissal? Breach of express contractual term
+1.2.1 The claimant asserts that the respondent was contractually obliged to assimilate her to the new role of strategic business partner for the “Place” directorate, due to requirements set out in the respondent’s redundancy policy (the respondent says the redundancy policy did not apply). Was the respondent in breach of the claimant’s contract of employment by failing to assimilate her to the new role?
+1.2.2 If so, was that a repudiatory (fundamental) breach? Breach of implied term
+1.2.3 Did the respondent do the following things:
+1.2.3.1 In July 2023 the claimant made a flexible retirement request, this was “put on hold” and was still outstanding at the date of her resignation.
+1.2.3.2 Even if not contractually obliged to assimilate her into that role, the claimant asserts that the respondent ought to have done, taking account of the significant level of overlap in the roles and previous practice in relation to other exercises.
+1.2.3.3 Engaging in a non-transparent selection process, which did not disclose that one outcome could be that one or more of the Strategic Business Partner roles would be left empty.
+1.2.3.4 Adopting a flawed process in respect of assessing the suitability of the PMBMs who applied for the new strategic roles, in particular by failing to provide any opportunity for candidates to outline their skills and experience in an application document and instead basing the assessment purely on the interview.
+1.2.3.5 The respondent opting not to recruit to two of the replacement strategic roles on the grounds that the claimant (and colleagues) were “not appointable” based on interview assessment.
+1.2.4 Did that breach the implied term of trust and confidence? (NB if a breach of the implied term is established, such breach will be a repudiatory breach). Taking account of the actions or omissions alleged in the previous paragraph, individually and cumulatively, the Tribunal will need to decide:
+1.2.4.1 whether the respondent had reasonable and proper cause for those actions or omissions, and if not
+1.2.4.2 whether the respondent behaved in a way that when viewed objectively was calculated or likely to destroy or seriously damage the trust and confidence between the claimant and the respondent.
+1.2.5 Was the fundamental breach of contract a reason for the claimant’s resignation?
+1.2.6 Did the claimant affirm the contract before resigning, by delay or otherwise? The Tribunal will need to decide whether the claimant’s words or actions showed that they chose to keep the contract alive even after the breach. (NB the respondent is likely to rely on waiver/affirmation to the extend that the claimant establishes a breach of contract in relation to the flexible retirement request only. It does not take waiver/affirmation points in relation to the complaints arising out of the restructure). Reason
+1.3 Has the respondent shown the reason or principal reason for the fundamental breach of contract?
+1.4 Was it a potentially fair reason under section 98 Employment Rights Act 1996?
+1.5 If so, applying the test of fairness in section 98(4), did the respondent act reasonably in all the circumstances in treating that reason as sufficient reason to dismiss the claimant?
+
+18. I will start by saying that from my initial reading of the respondent’s Grounds of Resistance and the Note prepared by Mr Tinkler for today’s hearing it did appear that the Ms Fairclough’s case was weak. As is so often the case, talking to a claimant about what has caused them to bring their claim turned out to be the best way to understand the real core of the grievance.
+
+19. Ms Fairclough drew my attention to documentation which she says evidences the respondent’s original intention to fulfil the three new SBP roles from the four PMBP applicants. In particular, an email from Vicky Willet, directly to Ms Fairclough, on 23 July 2024 in which it was stated: “All three of the vacancies will be appointed to from those colleagues that have expressed an interest in being appointed.”
+
+20. More context is provided in an email from Graham Charsley dated 6 September 2024 in which it was said: “4 candidates, all of whom are currently People Management Business Partners, have Expressed an Interest in the Strategic People Management Business Partner role (which is a promotional opportunity) as part of a ring- fenced selection process, and all 4 have been invited to participate in this process. … As one of the 4 Strategic Business Partner vacancies in our new structure has been filled by a matching process, it is expected that 3 of the candidates will be appointed to the Strategic Business Partner role, even if a development plan is required to enable one or more of the candidates to
+
+satisfactorily perform the role.”
+
+21. Whilst I appreciate this second email was not sent the claimant, it does lend support to her position that there was a strong expectation that she would be appointed to the SBP role, provided she was one of the top three candidates, and that the roles would not be left vacant.
+
+22. It is against that backdrop that Ms Fairclough was informed, post-interview, that she had been assessed as being “unappointable” and that the roles (in particular the role associated with the Places directore, which she considered she had already been doing to a large degree) was to be left unfilled.
+
+23. When the context is fully understood I can see a credible argument that the respondent breached the implied term of trust and confidence by reneging on the original understanding as to how the roles would be filled. That is not to say that the claim will succeed – far from it – but I would not judge it as an argument which has “little reasonable prospect of success” (far less “no reasonable prospect of success”).
+
+24. Ms Fairclough makes subsidiary arguments about the way the selection process was conducted, essentially contending that she was given insufficient opportunity to demonstrate that she was appointable to the SBP role. Again, set in the context I have outlined, those are arguments which potentially align with and support the main argument. In particular, the fact that there was an expectation that the selection process would fill all three roles, but it nevertheless resulted in three out of four of the candidates achieving very, very poor scores, does beg the question as to whether this was a process which enabled these existing post-holders to fully demonstrate their skills and experience. This argument cannot be said to have little reasonable prospect of success, and should be allowed to proceed, so the Tribunal can determine it on the evidence.
+
+25. There are other arguments which form part of the claimant’s case which are, in my view, distinctly more problematic:
+
+25.1 The ‘Kwik Fit dismissal’ argument i.e. that the claimant’s resignation should be treated as a dismissal, is one such point. This was not a case of words spoken in the heat of the moment, nor a case where the claimant tried to retract the resignation. (Paragraph 1.1 List of Issues)
+25.2 The argument that there was an express contractual obligation on the respondent to assimilate the claimant into a new role, when the new role amounted to a promotion, seems unlikely to succeed. The claimant had not produced the redundancy policy today and was unable to explain with any specifity what the contractual terms were that she said had been breached. (Paragraph 1.2.1 List of Issues)
+25.3 The argument that the respondent breached the implied term of trust and confidence by delaying its response to the claimant’s flexible working request may succeed, but it seems unlikely, in all the circumstances of the case, that the claimant will be able to show that she resigned in response to that breach. It therefore seems unlikely that the constructive unfair dismissal claim will succeed to the extent that it is based on that alleged breach (albeit I appreciate that this may a background allegation with the issues around the restructure providing a ‘final straw’). (Paragraph 1.2.3.1 List of Issues).
+
+26. The failure of the claimant’s case in respect of any of these allegations is not fatal to her sole claim of (constructive) unfair dismissal. Strike out orders and deposit orders are frequently made in respect of parts of a claim, rather than the entire head of claim (e.g. certain allegations of direct discrimination may be struck out, with others remaining live) and the wording of the both Rule 38 (“all or part of a claim”) and Rule 40 (“specific allegation of argument”) permits this approach.
+
+27. Considering strike out first, despite my doubts I cannot say unequivocally that any of these weak points have “no reasonable prospect of success”. They are properly arguable and the threshold for strike out is not met.
+
+28. Looked at in isolation, I would be prepared to say that the first two of those arguments has “little reasonable prospect of success”. Whilst the ultimate determination will depend on an examination of the evidence, it is difficult to see the determination going in the claimant’s favour, for the reasons briefly articulated above. (In respect of the third argument (flexible working) I can see that this may succeed as part of the background to a ‘last straw’ argument.)
+
+29. The means that it is open to me to make a deposit order in relation to either or both of the first two allegations. However, as I have noted above, this is a discretion. It seems to me that it is right to be cautious in exercising that discretion in relation to arguments within a head of claim (unfair dismissal) which I have otherwise found to have reasonable prospects. There is not the clear gain in terms of Tribunal time saved, or simplification of the evidence, that can often be made in (say) discrimination cases with many disparate allegations which are not interdependent. Conversely, if a part of the argument is ruled out because the claimant chooses not to pay the deposit, the Tribunal at the final hearing may feel that it is artificially constrained in the approach that it takes to its analysis of the case. Taking a broad view, I feel there is relatively little to be saved by encouraging the claimant to formally withdraw these allegations (which is the purpose of a deposit order) in circumstances where the full context of the respondent’s restructure and the claimant’s resignation decision will inevitably be examined in evidence in any event.
+
+30. For those reasons the respondent’s application for strike out or a deposit order is refused.
+
+31. I would, however, encourage the claimant to think carefully about the way the claim is being put forward and about the emphasis placed on each part of the argument in her evidence. It is in her interests, as well as the respondent’s, that time at the final hearing is not taken up with weak arguments. If, reflecting on this Judgment, she feels that she no longer wishes to rely on one or both of the arguments identified above, she should write to the respondent to confirm that decision, and the parties should produce an updated List of Issues for the final hearing.

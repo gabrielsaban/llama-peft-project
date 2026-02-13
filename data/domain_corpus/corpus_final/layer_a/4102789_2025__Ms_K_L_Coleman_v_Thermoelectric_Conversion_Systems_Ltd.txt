@@ -1,0 +1,398 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+1. The claimant was constructively unfairly dismissed.
+
+2. The parties agreed that the compensation to be awarded in such an event results in the claimant being entitled to the following sums:
+
+a. A basic award of £1,230.76; and
+b. A compensatory award of £4,923.04 plus £500 in respect of loss of statutory rights, with an uplift of 25% namely £1,355.76, resulting in a total compensatory award of £6,778.80. The recoupment regulations do not apply to this award.
+
+3. The respondent wrongfully dismissed the claimant by not paying her notice pay but the sum sought in that regard has been taken into account in the compensatory award and no additional sum is due.
+
+REASONS
+
+1. The claimant presented a claim for unfair constructive dismissal and for notice pay. There had been no earlier case management and so time was spent on
+
+4102789/2025 Page 2
+
+the first day working with the parties to discuss the specific issues arising in relation to the complaints. A list of issues was agreed with the parties.
+
+2. Although the claimant’s agent was not an employment law specialist, he was a trainee solicitor with knowledge of employment law and procedure and certified trade union representative with a scientific qualification. He understood the issues arising and was able to conduct the claimant’s case.
+
+3. The Hearing began with a discussion of the overriding objective and of the need to ensure decisions that were taken were just and fair taking account of cost and proportionality and ensuring the parties were placed on an equal footing. A discussion also took place as to how evidence is led, with decisions being made on the basis of the evidence led before the Tribunal (whether orally or in writing).
+
+Evidence
+
+4. The parties had produced a joint bundle of 249 pages. The Tribunal heard evidence from the claimant, Ms McGarvie (a colleague of the claimant), Mrs Knox (Finance Director and latterly HR director who was also responsible for other duties), Dr Siviter (managing director), Professor Knox (technical director) and Dr Buckle (head of product development). The parties had agreed that witness statements be provided in respect of each witness which considerably assisted the parties in cross examination and ensured the Hearing was able to conclude in the time allocated.
+
+Issues
+
+5. The parties narrowed the issues in this case. By the time the Hearing called the following were the issues to be determined:
+
+1. The claimant relied upon 4 distinct actions which were said individually or cumulatively to amount to a breach of the implied term of trust and confidence. The first issue is whether these 4 things happened:
+
+(a) The respondent’s unlawful access of the claimant’s personal information on or around 1 June 2025 by means of access to her personal Whatsapp messages that could be accessed through the work computer;
+(b) By the respondent’s use of 30 or so pages of personal conversations gleaned from its access to the claimant’s Whatsapp messages and relying upon that material to initiate disciplinary action; 4102789/2025 Page 3
+(c) The bringing of an unjustified misconduct disciplinary proceeding (which the claimant maintains was entirely unmeritorious per se); and/or
+(d) A breach of section 10 of the Employment Rights Act 1996 as a result of the refusal to allow Mr McVeigh to act as the claimant’s representative at the hearing, this also being the final straw that led to the claimant’s resignation. 2 If the foregoing acts happened, did the conduct that occurred breach the implied term of trust and confidence? Taking account of the actions or omissions alleged in the previous paragraph, individually and cumulatively, the Tribunal will need to decide: whether the respondent had reasonable and proper cause for those actions or omissions, and if not whether the respondent behaved in a way that when viewed objectively was calculated or likely to destroy or seriously damage the trust and confidence between the claimant and the respondent.
+
+3. Was the fundamental breach of contract a reason for the claimant’s resignation.
+
+4. The parties had agreed that in the event the claimant was successful, of consent what the basic and compensatory awards would be.
+
+5. The final issue was whether or not the claimant was due to be paid notice pay in the an agreed (gross) sum which was included in the amount that would be issued in a compensatory award if awarded (such that no additional sum would be payable). The respondent argued the claimant had given notice to end her contract immediately. The claimant argued she had made it clear she was giving notice with her immediate resignation.
+
+6. At the submissions stage, evidence having been concluded, the claimant sought to adjust the specific acts relied upon as breaches. The respondent conceded the above was a fair representation of the position. However, the claimant’s agent argued that the final act had been summarised as the failure to allow Mr McVeigh to represent her which was said to be a breach of section 10. The claimant argued this in fact included 2 elements. The first was a failure to allow Mr McVeigh to be the claimant’s representative at the hearing (which was what he had said the issue was at the outset of the Hearing). The second element was said to be the respondent’s refusal to allow Mr McVeigh to put the claimant’s case, sum up the position or answer questions and instead only allow his access to support the claimant.
+
+4102789/2025 Page 4
+
+7. The claimant’s agent argued the way he had framed the position initially was a failure to allow Mr McVeigh to represent her which was a broad proposition. He had not appreciated the need to be precise. That general failure from the evidence comprised 2 elements – the failure to allow him to accompany the claimant and the statement that all he could do (if the meeting were to proceed) was to accompany the claimant in the sense of sit with her at the meeting. I balanced the prejudice and hardship to both parties in assessing whether to allow this alteration to the claimant’s case. The respondent had led all relevant evidence in relation to the point and there was no prejudice or hardship to the respondent if the change were permitted. The respondent’s agent argued there was prejudice to the respondent as there was a greater risk the claim could be upheld and the claimant’s agent ought to have made it clear this was being relied upon.
+
+8. Having balanced the prejudice and hardship to both parties, I decided that it was in the interests of justice to allow the claimant to rely upon the respondent’s failure to properly set out what the companion could do (or at least not correct the error) and the failure to allow Mr McVeigh to represent the claimant as the final act relied upon and final straw. The claimant’s position was that the respondent had not permitted Mr McVeigh to represent her which meant both represent her in the sense of attend the hearing but also represent her in the sense set out by section 10. Although the claimant’s agent had not been clear in this regard, the respondent had led evidence to fully respond to the position now advanced and the Tribunal was able to fairly determine the matter. It was fair and just to allow the alteration.
+
+Facts
+
+6. I was able to make the following findings of fact from the evidence submitted, both orally and in writing. I only make findings that are strictly necessary to determine the issues (and not in relation to all disputes that arose nor in relation to all the evidence led before the Tribunal). Where there was a conflict in evidence, the conflict was resolved by considering the entire evidence and making a decision as to what was more likely than not to be the case with regard to what was written and said at the time (when viewed in context). I am grateful to the parties for their statement of agreed facts and disputed issues.
+
+Background
+
+7. The respondent in a research and development company which began with around 3 staff and grew to employ 10 staff. The claimant was employed from 12 September 2022 until her resignation on 9 June 2025 as a finance administrator. Mrs Knox was director responsible for finance (and had been
+
+4102789/2025 Page 5
+
+responsible for HR). Professor Knox is Mrs Knox’s husband and he was technical director (having formed the company in 2014). He is retired from the day to day operations but guided the company using his expertise and network. Dr Siviter is managing director and has been since 2016 He oversees many facets of the organisation including commercial management research development and IT. He sat behind the claimant in the office. Dr Buckle was head of product development and take a new design from concept to production. He worked in the same office as the claimant. The office was small and the staff knew each other.
+
+8. The claimant entered into a contract of employment with the respondent. There were also a number of policies, which Mrs Knox had created, usually having checked relevant ACAS documents.
+
+9. The respondent had an Internet Usage Policy. This stated that use of the internet by employees is permitted and encouraged to support the goals and objectives of the respondent. It stated that: “We do not want to restrict your access to websites of your choice but we expect all using the services to exercise good judgment and remain productive at work while using the internet… We want to avoid inappropriate or illegal use that creates risks for our legality and reputation…. This Policy includes accessing data using personal devices including but not limited to mobile phone, tablet, laptop and smart watch”.
+
+10. Under the heading “Computer email and internet usage” the policy stated; “The equipment services and technology used to access the internet are all the property of ours and we reserve the right to monitor internet traffic, access data composed and received through its online connections”.
+
+11. The policy stated that “Emails sent using the company email system and/or Wi-Fi connection should not contain content that could be considered to be offensive. This includes but not restricted to the use of vulgar or harassing language and/or images. You are expected to use the internet responsibly and productively. Internet access is encouraged especially when it is for job related activities that include research and educational tasks that would assist
+
+with your role.”
+
+12. It continued: “All internet data that is composed, transmitted and/or received by our computer systems is considered to belong to us and is recognised as part of our official data. It is therefore subject to disclosure. All sites and downloads may be monitored and/or blocked if they are deemed to be harmful and/or not productive to the needs of the business.”
+
+13. Under the hearing “unacceptable use of the internet” the Policy gave examples, including sending or posting defamatory materials, sending or
+
+4102789/2025 Page 6
+
+posting discriminatory, harassing or threatening messages or images on the internet or via the email service, fraud, downloading, viewing or sending on any pornographic material.
+
+14. The company also had a disciplinary policy This was not provided to the Tribunal. Personal WhatsApp messages downloaded onto respondent’s computers
+
+15. Staff had been asked to download their personal WhatsApp accounts to their work computers which resulted in any WhatsApp communications being downloaded onto the respondent’s equipment. The claimant did so.
+
+16. On around 31 May Dr Siviter required to obtain a spreadsheet which had an up to date list of purchases and transactions needed for a grant project update and claim. Dr Siviter had been told by Mrs Knox that the information might be on the claimant’s computer. Dr Siviter had administrative access to all machines and accessed the claimant’s computer (by resetting the password).
+
+17. Upon logging into the claimant’s machine, the claimants WhatsApp application opened and Dr Siviter saw an active personal chat between the claimant and a colleague (which appeared to be a discussion out of working hours). This involved private and personal discussions but Dr Siviter noticed various comments he considered inappropriate in relation to Mrs Knox which included: “She’s just so rude its unbelievable”. He decided to investigate further and read the private messages on the claimant’s WhatsApp account from the respondent’s work device. Dr Siviter read around 30 pages of personal conversations.
+
+18. A number of messages were discovered that concerned Dr Siviter, including a message from the claimant saying “I swear to fucking god, I am going to slam Kyles face against his desk if he keeps it up”. Dr Siviter believed the claimant was a trained military cadet instructor and he considered this to be a threat. In fact the claimant’s colleague had been repeatedly slamming a door in the office which had made windows shake and he had been asked on a number of occasions not to do so. This was a comment the claimant made to a colleague and friend (in a private capacity) as an expression of anger. It was sent on a personal device outside of working hours.
+
+19. In another message the claimant said: “I am listening to my book and it has just got steamy (again) to which the colleague replied “haha oh ur big dragon porn” which Dr Sivitier thought might be a breach of the internet policy. Staff were permitted to listen to audio books while working. Staff knew the claimant was an avid reader of fantasy fiction and knew the book in question (a widely available fantasy book available in all good bookshops). That message was sent on the claimant’s personal device to her friend and colleague.
+
+4102789/2025 Page 7
+
+20. Dr Siviter told Mrs Knox about the messages and they decided to take matters to a disciplinary hearing with Mrs Knox taking control of matters and seeking ACAS guidance.
+
+Suspension
+
+21. On 3 June 2025 Mrs Knox issued a letter to the claimant as follows: “.. the directors have taken advice from ACAS and have decided to suspend you from work while they investigate these matters ahead of a disciplinary hearing. Grounds for the suspension that will be on full pay is the risk to the business should you be in the office before the hearing. The grounds for the disciplinary hearing are: threats you have vocalised in the office and put in writing against another member of staff; your unacceptable use of language, your inappropriate use of company equipment during working hours (non work related WhatsApp messaging); your statement regarding the sick pay policy and ways to maximise holiday entitlement against company policy; taking personal calls within your working hours for another paid position (cadets); the negativity you display and comments made against other members of staff and your disruptive behaviour in the office”. No specifics were provided in relation to the broad allegations set out.
+
+22. The letter stated: “We consider all these gross misconduct”.
+
+23. Mrs Knox intended the suspension letter to amount to the invite to the disciplinary hearing too. The letter concluded: “Your disciplinary hearing will be held on 9 June at 10am in the office. You have the right to furnish the committee with your side of the story ahead of this meeting which should be sent by email.”
+
+Email communications in run up to disciplinary hearing
+
+24. Following receipt of the letter the claimant emailed Mrs Knox as follows: “I write in response to the letter received today informing me I have been suspended without prejudice pending a disciplinary hearing scheduled for Monday 9 June 2025. As it appears that the company have chosen not to follow ACAS guidelines and carry out a preliminary investigation hearing to obtain further information prior to commencing disciplinary hearings, I write to inform I will be in attendance. I formally request full disclosure of all allegations made against myself and any evidence in support of these prior to the meeting to allow me to adequately prepare a response. It is my expectation these will be provided at the earliest opportunity and a failure to provide will be considered strong evidence to be presented at a future appeal or any Employment Tribunal hearing.”
+
+25. The claimant also stated that: “I inform you I will be exercising my statutory right to be accompanied by a qualified trade union representative. I have
+
+4102789/2025 Page 8
+
+already consulted with one and he is available to attend on Monday. While I am not a member of a trade union ... the ACAS Code states I am entitled to be represented at the meeting by a representative and that representative has the right to address the meeting to put my case, sum it up, respond on by behalf to any view and confer with me”.
+
+26. Ms Knox spoke to someone from ACAS. On 4 June Ms Knox replied to the claimant as follows: “We have taken advice from ACAS on this matter and are following their guidance. You are suspended due to the perceived risk to the business should you return to work before our investigation is completed. The details of the allegations are noted in the letter sent and evidence will be supplied when appropriate. To assist with this investigation we need your input too. As per the ACAS Code we require proof your companion is a qualified trade union representative in plenty of time to verify their credentials. They can be sent to this email address. ACAS advise that as we have a policy in place, that policy has been supplied to you and it is considered a reasonable policy then we are able to use the terms laid out within it. Your companion is there to support you only, not speak on your behalf.”
+
+27. Later that day the claimant replied: “I passed [your response] to my representative who is both a qualified TU representative and practising solicitor and has advised the following. Firstly your letter provides no details of the allegation other than broad and general terms. He has looked over the disciplinary process and notes the allegations are vague and not specific enough for me to adequately prepare a response per section 9 of the ACAS Code which states the notification ‘should contain sufficient information about the alleged misconduct .. and possible consequences to allow the employee to prepare an answer the case. It would normally be appropriate to provide any written evidence including witness statements’. You have provided no specific instances of behaviour which constitute breaches of the terms of my employment for the gross misconduct you claim to have established. You have provided no evidence to myself to support your claim. As such I am in a position where I am unable to answer the allegations or provide you with my version of events as I am unclear what I am being accused of.”
+
+28. The claimant continued: “As you have chosen to proceed directly to a disciplinary hearing you clearly feel you have sufficient evidence from your investigation to take further action regardless of my response to your allegations. As is outlined in the ACAS Code it is your responsibility to carry out an effective and prompt investigation of potential disciplinary matters and your failure again to give me an opportunity to put across my responses at an investigation hearing prior to your decision to proceed to disciplinary action is something I will be raising at a future tribunal should disciplinary action be taken.”
+
+4102789/2025 Page 9
+
+29. The claimant asked again for the evidence to support the allegations to allow her to prepare for the meeting. She said that her representative held the necessary credentials which he would present at the hearing. She said he was under no obligation to verify his identity prior to the hearing (as this is not in the Code). She also said that asking the information in advance is a breach of data protection rules.
+
+30. She stated that: “As for your claim that my representative cannot speak on my behalf, this is a clear breach of section 17 of the ACAS code which clearly states the companion should be allowed to address the hearing and put and sum up the worker’s case, respond on behalf of the worker to any views and confer during the hearing. A failure to allow my representative to speak on my behalf is a breach of the ACAS Code which again would be strong evidence at any future tribunal and may result in up to 25% increase in damages”.
+
+31. The claimant concluded by asking for proof of discussions with ACAS to allow the claimant’s representative the ability to check the information. She noted that if the respondent’s assertions are inaccurate “there would be potential further recourse available as there would be dishonesty which irreparably breaches my trust and confidence in my employer which is (according to my contract documents) a gross misconduct offence on your part. It would also be significant evidence that you have misrepresented the company in my disciplinary proceedings and denied me my right to a fair disciplinary process which we would present to a future Employment Tribunal hearing. I look forward to the evidence”.
+
+32. On 6 June 2025 Mrs Knox replied to the claimant stating: “We confirm it is our right to verify the written certification stating your companion has undertaken the appropriate training to allow him to attend a meeting as a companion. It would be easier if we could do this today however it does have to be done prior to the meeting commencing. As you are aware we are conducting an investigation however we will not have all the evidence collated today. If you want to postpone the meeting until we can supply all documentation please let me know otherwise we will supply what we can.”
+
+33. The claimant replied just over half an hour later saying: “My representative will confirm his credentials at our meeting on Monday as already discussed. He has confirmed with his union and ACAS and he is not under any obligation to provide with you any details of his credentials for verification prior to the meeting. As for the meeting on Monday the date was provided by yourself as you felt you already had sufficient evidence to proceed directly to a disciplinary hearing. I do not wish to postpone the meeting any further and wish to get a final resolution as soon as I can. The situation has caused me enough stress already”. She asked again for all information held to prepare
+
+4102789/2025 Page 10
+
+her response. Mrs Knox replied confirming the meeting would proceed on Monday 9June at 10am.
+
+34. Mrs Knox sent the claimant a file on 6 June 2025 at 430pm headed “For Kirsty”. That included a document prepared by Professor Knox headed “Examples of grounds for gross misconduct dismissal”. It stated: “The following is taken from screenshots of a WhatsApp conversation between the claimant and a colleague. This conversation was stored on a company owned computer located on company premises.”
+
+35. Under the heading “Theft dishonesty and fraud which includes stealing lying and deception” the note said: “Friday 30 May at 0953 “I wouldn’t either hahah” (referring to owning up to making errors and letting others carry the blame)”. There was reference to a picture which was likely to be of the WhatsApp message.
+
+36. The next entry was “Physical violence and aggression: Actions causing harm or threatening harm”. This had 2 entries – “29 May comment from the claimant saying “I swear to fucking god I am going to slam Kyles face against the desk if he keeps it up””. It had the comment: “In light of the above and the claimant’s training in the armed forces, we had no option but to take this threat as genuine and suspend her whilst conducting a wider investigation into her conduct”. The next comment was a 1 June comment, where the claimant said “She really doesn’t know what she has let herself in for does she” which was stated to be evidence of the claimant “planning something intended to harm either the company or the individual.”
+
+37. Under the hearing “Serious insubordination which includes refusing reasonable instructions or demonstrating a clear disregard for authority” the event given was that on 1 June the claimant said: “Why did it take us working for her for them to realise she is an actual dick” which was said to be about the claimant talking to people outside of work about their manager.
+
+38. Under the heading “pornography: accessing pornographic content on company devices is considered a misuse of company resources” the note referred to Thursday 29 May and the claimant’s comment: “I am listening to my book and it has just got steamy (again) with the colleague referring to it as “dragon porn”.
+
+39. Under the heading “breakdown of trust and/or confidence” the note said the WhatsApp conversation demonstrated unjustified criticism, distrust, completely false statement about colleagues and total disrespect of management without reasonable cause and that the claimant was seeking alternative employment.
+
+4102789/2025 Page 11
+
+40. Finally under “Serious breaches of company policies” the note gave one act: “use of the company network and recourses for personal use”.
+
+41. There were no examples given under the other headings in the note, namely gross negligence, offensive or discriminatory behaviour, breach of health and safety, substance abuse, illegal activity, damage to property or incapacity due to drugs or alcohol.
+
+42. The Note ended saying: “Individually and collectively the above amounts to gross misconduct and warrants dismissal. The company has no reason to believe this behaviour will change in the future.”
+
+43. Mrs Knox also sent the claimant 30 pages worth of screenshots of her private WhatsApp messages and a document headed “comments of line manager”. This was a one page document with comments from Mrs Knox saying she was surprised and shocked with the comments the claimant had made. She alleged the claimant had been responsible for a bad working atmosphere and recently required to speak with the claimant about her performance. Mrs Knox felt the claimant’s comments are “negative and abusive”. Reference was made to taking personal calls, whether from the Cadets or her mum. There was a suggestion the claimant was “using company equipment for personal use which means she is not being productive with the job she is employed to undertake”.
+
+44. The attachment also included short handwritten statements from colleagues who were close family members of Mrs Knox. The information provided suggested staff were invited to a meeting with Dr Buckle and Mrs Knox and asked if there were any issues in relation to the claimant. Staff had been told the directors were “conducting an investigation on the claimant that the directors considered a gross misconduct offence”. Comments were taken from colleagues as to the claimant’s performance at work.
+
+45. The respondent had not provided the precise details of the particular allegations the claimant was to face. On the evening before the hearing claimant drafts her resignation
+
+46. The claimant was concerned about the meeting given the way in which the investigation had been carried out and how she had been treated. She considered that a decision had already been made given what the material said. She believed that whatever happened the respondent had made its mind up such that the claimant’s dismissal was inevitable. The communication she had received from the respondent had stated in terms that the respondent believed she had been guilty of gross misconduct that justified dismissal and that the behaviour would not change. She felt she could no longer trust the respondent given the accusations made against her and the way in which the
+
+4102789/2025 Page 12
+
+matter had been dealt with. She was concerned she would not receive a fair hearing.
+
+47. She had spoken to her adviser. She was concerned that there would be tension at the hearing and she was worried the respondent might not allow her representative to attend the meeting or that there would be complications. She decided to prepare a letter of resignation which would be tendered if there were any issues in connection with the hearing.
+
+Events on the day of the disciplinary hearing
+
+48. The claimant and her representative entered the respondent’s premises to attend the hearing and were greeted by Dr Buckle and Professor Knox.
+
+49. Mr McVeigh showed his union card, driving licence and his mobile phone which had an email from the training manager of the union stating the claimant had completed the relevant training (which was the information required under section 10 of the Employment Relations Act 1999). Professor Knox left to get his glasses and upon return asked the documents be handed to him because he wanted to take them into the office to “verify the credentials”. Mr McVeigh said there was no need to do so as he was happy to show them. Professor Knox left to go into the office and turned with paperwork from the ACAS website. Mr McVeigh noted that there was no requirement that he provide the documents sought and said he had provided the necessary information. Professor Knox said Mr McVeigh could not enter and the meeting could proceed with the claimant alone if she wished.
+
+50. The discussion was heated and Professor Knox said that Mr McVeigh would not be allowed to represent the claimant as he had failed to identify himself (despite Mr McVeigh having offered the relevant and necessary documents).
+
+Claimant resigns because of treatment on day
+
+51. As a consequence of how the claimant had been treated, she decided that she could not remain employed by the respondent. The claimant’s representative produced the pre-written resignation letter and handed it over.
+
+52. The letter stated: “I am writing to formally notify you of my resignation from my position as Administrator effective immediately. This has not been an easy decision for me to make. Throughout my time I have contributed significantly to the workload of the company but [there has been] a strained workplace environment, challenging interpersonal relationships and the unabashed and unlawful invasion of my privacy and subsequent disclosure of my personal information has left me with no other recourse than to seek alternative employment elsewhere… The recent breaches of data protection have irreparably damaged the trust and confidence”.
+
+4102789/2025 Page 13
+
+53. She said that “As Mrs Knox feels I may pose a potential risk to the business by being present in the office I will assume (as per the precedent set with a colleague) the company will pay me in lieu of the required notice period.”
+
+54. She continued: “As I am still a serving employee until expiry of my notice period, I wish to raise the following grievances which I expect to be fully investigated in an open and transparent manner”.
+
+55. The 3 matters raised by the claimant were breach of her privacy rights and unauthorised disclosure of data (with reference to the access to her WhatsApp material); unfounded disciplinary action being raised and unjustifiable unprofessional conduct in relation to other parties.
+
+56. The claimant felt she had not been given a proper opportunity to present her position and be appropriately accompanied. She considered that the trust required for the employment relationship to continue had been destroyed.
+
+Remedy
+
+57. The parties agreed a basic award would be £1,230.76 with the compensatory award of £4,923.04 with loss of statutory rights valued at £500 and an agreed uplift of 25% amounting to £1,355. There was no evidence of the claimant having secured any statutory benefits.
+
+Observations on the evidence
+
+58. The Tribunal considered the evidence carefully and in context of all the evidence before this Tribunal, whether in writing or oral.
+
+59. The claimant was clear and considered in her evidence. While the claimant had been asked to download WhatsApp to her work computer she did not consider the respondent would read her personal messages. She felt the respondent had treated her unlawfully by accessing and reading her personal WhatsApp messages. She believed that her personal messages and comments would not be matters the respondent would consider. The claimant’s expectation of privacy was one shared by other staff, for example including Professor Knox who did not expect his private WhatsApp messages to be read by the respondent. The claimant’s expectation of privacy was not unusual or unreasonable and the internet policy had not clearly stated that obviously personal messages (particularly those sent on personal devices to her friend and colleague which happen to be downloaded onto the respondent devices) would be conversations that would be read by managers.
+
+60. It was clear the claimant was concerned about the inherent unfairness in the approach taken the investigation. It appeared that information was being obtained but a lack of detail was being provided. Rather than a structured investigation into particular issues, the respondent had singled the claimant
+
+4102789/2025 Page 14
+
+out and carried out a fishing expedition asking colleagues if they had any issues about her. The claimant did her best to seek the relevant information from the respondent as to the allegations she was to face. She had spoken with her friend and adviser who tried to help the claimant seek clarity. The information presented to the claimant abjectly failed to specify precisely what it was that she had done wrong and that issue was not rectified as the process proceeded. Given the claimant had been told the matters, in the respondent’s eyes, amounted to gross misconduct that justified dismissal (without any caveat) she rightly feared that she was at risk of dismissal (and that a decision had been made) and therefore wished to do the best to protect herself. She genuinely (and justifiably) believed that a fair hearing would not be possible given the way in which the respondent had dealt with the allegations.
+
+61. The claimant did not feel able to attend to the disciplinary hearing herself and sought the support and advice of Mr McVeigh. She took his advice and wished him to accompany the claimant. The claimant felt that the respondent had not acted reasonably and had prevented her from setting out her position. She felt she had not been given the opportunity to have a fair hearing given her representative was being prevented from exercising his function. The claimant believed from the information she had been given that the respondent had already made its mind up. That was not an unreasonable conclusion to have reached given the terms of the information sent to the claimant and way in which the process was handled.
+
+62. The final straw for the claimant was the way in which the respondent dealt with her companion on the day. The respondent refused to accept the information he had presented, which comprised his driving licence, trade union card and email confirming his authorisation. I accepted the claimant’s evidence that Mr McVeigh had provided the respondent with all the information section 10 required. Mr McVeigh had verified the position from his union but Professor Knox and Dr Buckle refused to consider the information. Having refused the claimant’s companion entry the claimant considered she had no option but to resign. While the respondent’s agent argued the authorisation letter had not been produced to the Tribunal, the claimant’s evidence had been clear. She stated that Mr McVeigh had checked with senior officials from his union that the information he had received in the email (about his being a relevant representative in terms of section 10) was all that he needed and therefore the information he had was sufficient. The respondent had not read the email when it was presented to them. I was satisfied on the balance of probabilities from the claimant’s evidence and context that the information Mr McVeigh had in the email was sufficient. I accepted the claimant’s evidence this was why she resigned, the final straw.
+
+4102789/2025 Page 15
+
+63. The respondent had also not corrected its earlier error in saying Mr McVeigh was only there to support the claimant which was part of the reason the claimant could not remain employed by the respondent. The respondent had in essence told the claimant (without correcting the position) that Mr McVeigh’s role in the meeting would only be to accompany her. That was an error given what the statute entitles a companion to do and was part of the claimant’s reason in believing she was not being offered a fair hearing.
+
+64. Ms McGarvey’s evidence by and large related to issues she had with the respondent. There was no cross examination needed as a result.
+
+65. Mrs Knox had done her best to recall matters but had some difficulty recalling precisely what she had done and what she had been told. On occasion Mrs Knox sought to answer a different question to that asked, for example being unable to set out what the purpose the respondent had in reading the private WhatsApp messages. There was also a lack of clarity in some respects, such as in the detail Mrs Knox said she obtained when seeking advice from ACAS (given the error made in saying a companion can only attend the meeting to support the worker). Mrs Knox also denied knowing that Mr McVeigh was a trade union representative despite that information having been communicated in writing to the respondent in advance.
+
+66. Mrs Knox had been by ACAS told to ensue a reasonable investigation was carried out and then potentially convene a disciplinary hearing. Regrettably the process that was followed failed fairly to set out the issues arising and the approach taken in inviting the claimant to a disciplinary hearing failed to reasonably and fairly outline the allegations. The claimant had been suspended because the respondent believed she was guilty of gross misconduct. Time had not been taken, however, to set out with any degree of precision the specific acts relied upon and the information the claimant was given was lacking in precision. It appeared from the information presented that, as the information said, a decision had been taken that the claimant was guilty of gross misconduct. Of greater concern was that the respondent had told the claimant in writing they believed she had been guilty of gross misconduct which justified her dismissal, prior to setting out the allegations precisely and, crucially, prior to hearing the claimant’s response.
+
+67. Dr Siviter had discovered the messages when accessing the claimant’s computer. The difficulty he had was that while he had a legitimate purpose in looking for work related material, that was not a justification for his decision to read obviously personal messages the claimant had sent to her friend and colleague. Dr Siviter appeared to find the comments “offensive and shocking” which lacked credibility when properly viewed in context. There was no legitimate basis for Dr Siviter trawling through pages of personal WhatsApp messages given the purpose in accessing the claimant’s machine was to
+
+4102789/2025 Page 16
+
+identify a work related file. It was also difficult to understand why the context of the messages said to be so offensive was not properly considered. Dr Siviter’s and others took a particular interpretation from the material that failed to take the context on board.
+
+68. Professor Knox had taken that approach when viewing the correspondence. He also considered Mr McVeigh to be aggressive and hostile by shouting and stomping which was more likely than not be his perspective of Mr McVeigh being concerned that the respondent was preventing him from carrying out his statutory duties. It was clear that the discussion was heated but Professor Knox had not been able to view matters from the claimant’s perspective, given she had not been given a fair note of the precise matters which she faced and given she had been told in a Note Professor Knox had written that the material he had viewed amount to gross misconduct (without qualification). It was not surprising the claimant was concerned that a decision had been taken and that the respondent was not going out of its way to ensure a fair and objective hearing and assessment of the facts and context was undertaken.
+
+69. Professor Knox was not entirely clear as to what happened on the day of the disciplinary hearing and I considered that the claimant’s recollection was more likely than not to be what happened. Professor Knox believed that he had not been told Mr McVeigh’s name but it was clear Mr McVeigh had tendered his driving licence and an email which disclosed the requisite information. It was more likely than not that Professor Knox believed he was entitled to take the material from Mr McVeigh and check matters and when Mr McVeigh refused to do, Professor Knox had decided not to progress matters. He had not checked the legal position and assumed that Mrs Knox had done so but the position was unclear as to precisely what had been communicated as to the position and the absence of anything in writing did not assist. It was open to Professor Knox to have taken note of the details that were provided if he wished to check the details but instead he assumed that as the material was not being handed to him, he was able to prevent Mr McVeigh from attending.
+
+70. Dr Buckle was also unable to recall precisely what had occurred on the day in question. He said he did not remember Mr McVeigh tendering his driving licence and trade union card (which was not the same as it not having occurred). Given Mr McVeigh had provided that identity it was difficult to see why Dr Buckle and Professor Knox maintained that they did not know of Mr McVeigh’s name or details. It was more likely than not that professor Knox believed that if Mr McVeigh refused to allow them to take the material to check the position, the hearing need not proceed and that as a result no steps were taken to look at what was being presented.
+
+71. Dr Buckle was of the view that Mr McVeigh had been “irritated” which he then clarified to mean “loud and threatening” which was not entirely consistent with
+
+4102789/2025 Page 17
+
+Professor Knox’s assessment of Mr McVeigh being “aggressive and hostile”. It was more likely than not that the discussion was heated and tempers were frayed. Regrettably the purpose of the day – to provide the claimant with the opportunity to present her response to what had been provided and fairly assess the full factual matrix and make a decision – appeared to have been forgotten with the focus more on insisting her companion hand over the information he had provided to allow the respondent to verify the information and that issue became the principal focus.
+
+The law
+
+Unfair constructive dismissal
+
+72. The unfair dismissal claim was brought under Part X of the Employment Rights Act 1996. An unfair dismissal claim can be pursued only if the employee has been dismissed as defined by Section 95. Section 95(1)(c) which provides that an employee is dismissed by his employer if: “the employee terminates the contract under which he is employed (with or without notice) in circumstances in which he is entitled to terminate it without notice by reason of the employer’s conduct.”
+
+73. The principles a constructive dismissal were set out by the Court of Appeal in Western Excavating (ECC) Limited v Sharp [1978] IRLR 27. The statutory language incorporates the law of contract, which means that the employee is entitled to treat himself as constructively dismissed only if the employer is guilty of conduct which is a significant breach going to the root of the contract of employment, or which shows that the employer no longer intends to be bound by one or more of the essential terms of the contract.
+
+74. The term of the contract upon which the claimant relied in this case was the implied term of trust and confidence. In Malik and Mahmud v Bank of Credit and Commerce International SA [1997] ICR 606 the (then) House of Lords considered the scope of that implied term and the Court approved a formulation which imposed an obligation that the employer shall not: “…without reasonable and proper cause, conduct itself in a manner calculated [or] likely to destroy or seriously damage the relationship of confidence and trust between employer and employee.”
+
+75. It is also apparent from the decision of the then House of Lords that the test is an objective one in which the subjective perception of the employee can be relevant but is not determinative. Lord Nicholls put the matter this way at page 611A: “The conduct must, of course, impinge on the relationship in the sense that, looked at objectively, it is likely to destroy or seriously damage the degree of trust and confidence the employee is reasonably entitled to have in his employer. That requires one to look at all the circumstances.”
+
+4102789/2025 Page 18
+
+76. The objective test also means that the intention or motive of the employer is not determinative. An employer with good intentions can still commit a repudiatory breach of contract.
+
+77. In Bournemouth University Higher Education Corporation v Buckland [2010] ICR 908 the Court of Appeal confirmed that the test of the “band of reasonable responses” is not the appropriate test in deciding whether there has been a repudiatory breach of contract of the kind envisaged in Malik.
+
+78. Not every action by an employer which can properly give rise to complaint by an employee amounts to a breach of trust and confidence. The formulation approved in Malik recognises that the conduct must be likely to destroy or seriously damage the relationship of confidence and trust. In Frenkel Topping Limited v King UKEAT/0106/15/LA the Employment Appeal Tribunal chaired by Langstaff P (as he then was) put the matter this way (in paragraphs 12- 15): “12. We would emphasise that this is a demanding test. It has been held (see, for instance, the case of BG plc v O’Brien [2001] IRLR 496 at paragraph
+
+27) that simply acting in an unreasonable manner is not sufficient. The word qualifying “damage” is “seriously”. This is a word of significant emphasis. The purpose of such a term was identified by Lord Steyn in Malik v BCCI [1997] UKHL 23 as being: “… apt to cover the great diversity of situations in which a balance has to be struck between an employer’s interest in managing his business as he sees fit and the employee’s interest in not being unfairly and improperly exploited.” 13. Those last four words are again strong words. Too often we see in this Tribunal a failure to recognise the stringency of the test. The finding of such a breach is inevitably a finding of a breach which is repudiatory: see the analysis of the Appeal Tribunal, presided over by Cox J in Morrow v Safeway Stores [2002] IRLR 9. 14. The test of what is repudiatory in contract has been expressed in different words at different times. They are, however, to the same effect. In Woods v W M Car Services (Peterborough) Ltd [1981] IRLR 347 it was “conduct with which an employee could not be expected to put up”. In the more modern formulation, adopted in Tullett Prebon plc v BGC Brokers LP & Ors [2011] IRLR 420, is that the employer (in that case, but the same applies to an employee) must demonstrate objectively by its behaviour that it is abandoning and altogether refusing to perform the contract. These again are words which indicate the strength of the term. 15. Despite the stringency of the test, it is nonetheless well accepted that certain behaviours on the part of employers will amount to such a breach. Thus in Bournemouth University Higher Education Corporation v Buckland [2010] ICR 908 CA Sedley LJ observed that a failure to pay the agreed amount of wage on time would almost always be a repudiatory breach. So too will a reduction in status without reasonable or proper cause (see Hilton v Shiner Builders Merchants [2001] IRLR 727). Similarly the humiliation of an employee by or
+
+4102789/2025 Page 19
+
+on behalf of the employer, if that is what is factually identified, is not only usually but perhaps almost always a repudiatory breach.”
+
+79. I have been able to take into account the summary of the law in this area recently set out by Lady Poole in paragraphs 5 to 9 of Nelson v Renfrewshire Council 2025 EAT 189 confirming the legal test and approach in this area.
+
+80. In some cases the breach of trust and confidence may be established by a succession of events culminating in the “last straw” which triggers the resignation. In such cases the decision of the Court of Appeal in London Borough of Waltham Forest v Omilaju [2005] IRLR 35 demonstrates that the last straw itself need not be a repudiatory breach as long as it adds something to what has gone before, so that when viewed cumulatively a repudiatory breach of contract is established. However, the last straw cannot be an entirely innocuous act or be something which is utterly trivial. The Court of Appeal recently reaffirmed these principles in Kaur v Leeds Teaching Hospitals NHS Trust [2018] EWCA Civ 978.
+
+81. It is also important to establish, from the facts, whether the reason for the resignation was the breach of contract.
+
+Right to be accompanied
+
+82. Section 10 of the Employment Relations Act 1999 states that where a worker ‘reasonably requests’ to be accompanied at a disciplinary hearing, the employer must permit the worker to be accompanied by a ‘companion’. Section 10(3) says the companion must be (a) employed by a trade union of which he is an official within the meaning of the Trade Union and Labour Relations (Consolidation) Act 1992; an official of such a trade union whom the union has reasonably certified in writing as having experience of, or as having received training in, acting as a worker's companion at disciplinary or grievance hearings, or another of the employer's workers.
+
+83. As to what the companion can do, section 10(2B) states that the companion may address the hearing in order to put the worker’s case, sum up that case and respond on the worker’s behalf to any view expressed at the hearing and confer with the worker but the employer is not required to allow the companion to answer questions on behalf of the worker.
+
+84. What amounts to a ‘reasonable’ request is not specified and paragraph 15 of the ACAS Code of Practice on Disciplinary and Grievance Procedures states the request does not have to be made in writing or within a certain time frame but a worker ‘should provide enough time for the employer to deal with the companion’s attendance at the meeting’. Workers should consider how they make their request so it is clearly understood, for example, by letting the
+
+4102789/2025 Page 20
+
+employer know in advance the name of the companion and identifying whether he or she is a fellow worker or trade union official or representative. The ACAS Guide on the Code says that it can be helpful in some cases for the companion and employer to make contact before the hearing.
+
+Notice pay
+
+85. It was agreed that in this case the legal issue as to notice pay boiled down to the correct interpretation of the claimant’s letter of resignation. The claimant’s position was that she had resigned immediately but expected her notice period to be honoured (and paid). The respondent’s position was that she had resigned and ended her employment immediately and without notice.
+
+Submissions
+
+86. Both parties had provided detailed written submissions and were given the chance to consider each other’s submissions and provide supplementary oral submissions and answer questions in relation to the issues. The submissions have been taken into account fully but are not replicated in the interests of proportionality. Each of the arguments presented has been fully considered.
+
+Discussion and decision
+
+87. I approached each of the issues to be determined in turn, considering the facts, the law and the parties’ submissions.
+
+Constructive unfair dismissal
+
+88. The claimant had been represented by a legally qualified agent who had presented the claim in a very precise and specific way. The constructive unfair dismissal complaint was based upon 3 specific and carefully worded breaches of contract. I shall address these in turn.
+
+89. The first act said to be a breach of the implied term was the respondent having “unlawfully accessed the claimant’s WhatsApp messages”. There was no doubt that the conduct of the respondent in reading the obviously personal messages of the claimant was wholly unreasonable and entirely without justification. Dr Siviter knew when he saw the chat that it was a personal chat and decided nonetheless to read more and see what was being said. There was no justification for doing so given the terms of the policy and context. This was a purely personal conversation (carried out in the claimant’s own time via her own devices) in respect of which the respondent had no right to review.
+
+90. However the issue I have to determine is not whether the conduct of the respondent in reviewing the personal messages was unreasonable (which it undoubtedly was) but instead whether the conduct was unlawful. This was the basis upon which the first act had been set out. The claimant’s agent spent
+
+4102789/2025 Page 21
+
+about 13 pages setting out what he considered the law to be in Scotland around the right to privacy and the invasion thereof by an employer, including assessing right to privacy and other provisions.
+
+91. The respondent’s agent’s position was clear. Their principal position was that the Employment Tribunal has no power to determine whether or not the interception of the communication in this case was unlawful. That is a matter for another jurisdiction to determine.
+
+92. While I may well have a view on the lawfulness or otherwise of the respondent’s actions, the respondent’s agent is correct in that I am unable to determine the lawfulness of the respondent’s actions in this case in determining whether the respondent’s actions were unlawful as alleged. The approach would be no different if, for example, the claimant argued the respondent had committed fraud or some other offence. Unless a court of Tribunal of competent jurisdiction has made such a finding, the Employment Tribunal cannot determine whether or not the actions are unlawful. The position is obviously different if the Employment Tribunal has the power to make such a finding, such as if the conduct was said to be unlawful because it was in breach of the Equality Act but for matters in respect of which statute has now empowered the employment Tribunal to assess lawfulness, it would not be competent for me to assess that issue. Nothing has been presented to me that suggest the Employment Tribunal has the power to make a formal finding as to the lawfulness of the respondent’s use of the private messages in this case.
+
+93. Had it been necessary to do so, I would not have found the respondent’s agent’s submissions to have merit. The approach taken by the respondent had no work related justification. The material was clearly and obviously private and not for others to read. The claimant had no reasonable expectation that the private messages she sent to her friend and colleague on her personal device about a colleague would be read (a view Professor Knox shared). The respondent had no justification to read that material. The respondent’s policy made no provision that entitled the respondent to read private messages that bore no connection to any work related issue. Had there been a finding by a proper court or Tribunal that the approach taken was unlawful, as alleged by the claimant’s agent, that would have amounted to a fundamental breach of the claimant’s contract of employment.
+
+94. I considered whether it was possible to read this issue as being based upon unreasonable actions of the respondent in assessing whether or not it amounted to a breach of the implied term but I concluded to do so would be unfair. The claimant’s agent had clearly framed this issue as being an unlawful action. The case was not based on (the considerably lesser allegation of it being) unreasonable action of the respondent. Because it is not possible to
+
+4102789/2025 Page 22
+
+determine that the respondent acted unlawfully in relation to the reading of the claimant’s personal messages, this act had not been established.
+
+95. The second and third acts relied upon in support of the assertion that the implied term was breached was that the respondent had used 30 or so pages of personal conversations as a basis for disciplinary proceedings and that the disciplinary proceedings were unjustified.
+
+96. The claimant’s position was that the reliance on information obtained unlawfully undermined the integrity of the disciplinary process. The principles of natural justice it was said require evidence to be obtained lawfully and transparently. The claimant’s case was that the respondent based the entire disciplinary process upon the content of the WhatsApp messages. That approach was unlawful. The second and third acts were predicated upon a finding that what the respondent had done was unlawful.
+
+97. The respondent’s agent argued that “some personal conversations” were used but not 30 conversations. While it was said that this had not been established in evidence, Dr Siviter was clear that he did trawl through the material from the claimant’s WhatsApp messages. The factual basis of the allegation had been established since the respondent had used the 30 pages of material on which to initiate disciplinary proceedings. It was also clear that had the context been taken into account, it is unlikely the claimant had said or done anything that breached the respondent’s policies.
+
+98. The respondent justified the bringing of the proceedings by saying that the comment made in a private message was “defamatory” and “threatening”. The message is: “I swear to fucking god I am going to slam Kyles face against the desk if he keeps it up”. The respondent argued the fact the claimant was in the cadets meant they perceived the claimant’s message as a threat. When viewed in context the claimant had been having a private discussion with a colleague, a rant about an annoying habit a colleague had (and his failure to heed requests to cease). This was not a threat and not defamatory. It was the claimant’s anger about a colleague being communicated to her friend. It was a tongue in cheek exchange of views with a friend. This only became an issue when the respondent decided to use the personal material and raise it with the colleague and others as a disciplinary issue, with the claimant having no expectation such a discussion would ever become known by the respondent.
+
+99. The respondent also relied upon the fact the claimant was listening to a science fiction book which was said to get “steamie” (which a colleague described as “dragon porn”) was downloading something connected with pornographic material. There was no fair basis to make that assertion given the obvious context and fact that the claimant was listening to a book (which staff were permitted to do). No information was presented to show that the
+
+4102789/2025 Page 23
+
+book being listened to was in any way inappropriate and the respondent relied solely upon the WhatsApp exchange.
+
+100. There was merit in the claimant’s arguments that the bringing of the proceedings was unjustified in that they lacked merit. However, the purpose in a disciplinary hearing is to allow the worker a chance to present their position (and show, for example, the allegations lack merit). No authority was presented that showed the bringing of unjustified proceedings by itself could amount to a fundamental breach of contract. It was possible in certain cases for such conduct to amount to a fundamental breach but the difficulty in this issue is that the claimant has relied upon the unlawful nature of the information rather than upon the unreasonable nature of it. There was no doubt the respondent acted unreasonably in accessing and relying upon the material but the Tribunal has no power to assess the lawfulness (irrespective of the view of the Tribunal). On that basis it is not possible to find that this act had been established. It could not be said that the respondent had acted unlawfully.
+
+101. The claimant had indicated in her evidence that she had resigned because she believed the respondent had made its mind up and that was part of why she believed the hearing she was being invited to was not fair. That was not, however, how the claim had been set out. The claimant’s case in relation to the second and third breaches of the implied term was entirely predicated upon the unlawful nature of the information the respondent acquired. The case was that it was unlawful to use the information and that made the proceedings unjustified. As I am unable to determine the lawfulness of the use of the information, it is not possible to find that the second and third grounds in support of the constructive dismissal complaint had been established, notwithstanding the unreasonable and unfair approach the respondent took in relation to the process.
+
+102. I considered whether it was possible to find that the factual basis of the complaint had been established by assessing the reasonableness of the respondent’s actions. That was not, however, the case had been made out with the claimant’s agent’s submissions relying upon the unlawfulness of the approach tainting the process and thereby resulting in a breach of the implied term. It was the unlawful nature of the process that the claimant had chosen to rely upon rather than the fact the process undertaken was unreasonable. That was clearly the position advanced in relation to both grounds. The claimant’s agent had a law degree and understood the case that was being presented. I determined that it would not have been fair to the respondent to determine this aspect of the case on a ground different to that presented notwithstanding my view of the way in which the claimant had been treated.
+
+4102789/2025 Page 24
+
+103. In relation to the fourth act, the claimant argued the respondent prevented her from having a fair hearing because they had prevented Mr McVeigh from attending as her companion and said he was only there to support her, not speak on her behalf, which acts were said to be a breach of section 10.
+
+104. The first aspect of this was that Mrs Knox had told the claimant Mr McVeigh could only support her and not carry out the statutory functions. That error had not been corrected. That serious error was part of the claimant’s reason for believing trust and confidence had been destroyed. It was part of the reason why the claimant believed she was not going to be given a fair hearing. It occurred within the contact of what the claimant had been told, which included that the respondent believed she had been guilty of gross misconduct (before it had heard what the claimant’s response was).
+
+105. The second aspect of the assertion that the claimant had been denied a fair hearing was that upon attendance at the meeting, the claimant’s agent was not permitted to attend and exercise his statutory function and the meeting could not proceed. Despite the required material having been provided that set out his identity and qualification, Professor Knox insisted that he “verify the credentials”. The claimant’s companion had provided all that was legally required. Professor Knox had not checked what had been provided and instead insisted upon him being given the material to take away. While the respondent’s agent is correct in saying the statute does not say the respondent cannot ask for the material, and it may be preferable to do so, provided the worker provides the information set out by section 10, the statutory right is engaged.
+
+106. The claimant had done all that was required of her. While the Code suggests that information should be given in advance, the respondent knew that the claimant was bringing a relevant trade union representative. The respondent knew when Mr McVeigh attended that he was attending as such. Mr McVeigh offered all that he needed to offer. Instead of taking or checking that information, the respondent asked to be given the information to take away. Rather than simply take a note of what had been provided, the respondent made Mr McVeigh’s attendance conditional upon him handing over the material to allow the respondent to “verify his credentials”. No explanation was given as to why the information that was given was not noted and then verified which would have achieved the same purpose. The position had become heated and instead of focussing on the main purpose of the hearing (to listen to the claimant’s response to the allegations) the focus was on the claimant’s companion’s credentials being verified, which failing the meeting would not proceed. The respondent assumed that Mr McVeigh could be prevented from attending because he refused to hand over the material and insisted the claimant attend herself or the hearing be cancelled. The respondent had
+
+4102789/2025 Page 25
+
+prevented the claimant from attending the hearing with her companion and denied her a fair hearing.
+
+107. This act was relied upon as destroying or seriously damaging the trust and confidence and was the final straw which caused the claimant to resign. The claimant believed the respondent had no intention of allowing her a fair hearing (and had already made its mind up as to the position). The claimant’s belief was objectively justifiable from the facts.
+
+108. The respondent argued they acted lawfully and that the respondent had not acted as the claimant maintained. The respondent’s position was that the claimant’s representative had failed to provide written evidence from his union that he had the relevant experience. However, I was satisfied from the evidence presented that on the balance of probabilities Mr McVeigh had presented the necessary material. The claimant’s evidence was clear. The respondent’s witnesses did not know what had been provided as they had not read the email. The email was on Mr McVeigh’s phone which he had shown Professor Knox at the time. I was satisfied from what the claimant said that Mr McVeigh had checked the material satisfied the terms of section 10 from senior officials and that it did in fact do so.
+
+109. I concluded that the respondent’s approach did, without just or proper cause, destroy or seriously damage the trust and confidence required for the employment relationship to continue in the manner advanced by the claimant. I preferred the claimant’s evidence to of the respondent in relation to the exchange as between the claimant, Mr McVeigh, Dr Buckle and Professor Knox. The respondent knew the claimant wished to defend her position but prevented her from exercising her statutory rights and prevented the meeting from proceeding. Mr McVeigh had done all that was technically required.
+
+110. The respondent told the claimant her companion could not accompany her and that despite her presenting the appropriate information, the respondent wished to take the information away, rather than take note of what had been shown. The approach taken by the respondent in denying the claimant a fair hearing, viewed objectively, went to the root of the employment relationship.
+
+111. I took into account the fact Mr McVeigh did not give evidence and that the trade union certification document had not been produced but I was satisfied from what the claimant had said that necessary the information had been presented and was in order. The respondent had chosen not to verify the position at the time. The claimant was entitled to rely upon Mr McVeigh, as a union representative (and law graduate) to have satisfied himself from senior members of the union, as he said to her that he had done, that the information he presented to the respondent was what was required. I accepted the claimant’s evidence in that regard.
+
+4102789/2025 Page 26
+
+112. The claimant believed that she was not being given a fair opportunity to defend herself. She believed that she was being forced to attend a meeting with her companion not being able to exercise his statutory rights. The context of the respondent’s approach is key. The context was that the claimant had been told of a list of very general acts some of which were supported by reference to private WhatsApp messages the claimant had sent to a friend and colleague. The claimant had been told by the person to chair the disciplinary hearing that the respondent considered her conduct to be gross misconduct which justified dismissal (without qualification). Objectively viewed, the conduct of the respondent on the day in question justified the claimant’s belief that the necessary trust and confidence required for the employment relationship to continue had been lost.
+
+113. The respondent had told the claimant that her companion was only there to support her and not speak on her behalf. That was incorrect. The respondent had also refused to permit Mr McVeigh to accompany her to the hearing which could not then take place. The respondent had fundamentally breached the claimant’s contract of employment by not allowing a fair hearing to proceed.
+
+114. Even if section 10 had not been breached, I would have been satisfied that the respondent had prevented the claimant from fairly presenting her position which what the claimant in essence said fundamentally breached the implied term. I would have been satisfied the act relied upon as a breach of the implied term was not a breach of section 10 per se but rather the respondent’s actions in not providing her with a fair hearing (which is what the claimant’s agent said was a breach of section 10). That fundamentally differed from the previous 2 acts which were predicated upon there being an unlawful act.
+
+115. The claimant believed she had done all she needed to do by advising the respondent in advance that she was bringing a relevant trade union representative. The claimant had wrongly been told he could only accompany her. Mr McVeigh had provided the relevant information on the day. While he refused to provide a hard copy, the respondent was able, had they wished, to take details and verify the position. The respondent focussed on Mr McVeigh’s refusal to provide hard copies of the information to take away rather than upon the information that was presented to prevent the hearing from proceeding.
+
+116. Individually both acts relied upon were very serious and went to the root of the employment relationship. The cumulative effect of the conduct in question fundamentally beached the implied term of trust and confidence required for the relationship to continue.
+
+Did the claimant resign in response to the breach
+
+4102789/2025 Page 27
+
+117. I then considered whether the claimant resigned because of the fundamental breach or for some other reason. I was satisfied the claimant resigned because she considered the respondent would not give her a fair hearing, having prevented her agent from exercising his rights to accompany her to the meeting. The claimant had considered matters the previous evening and had resolved to submit her letter of resignation if further issues arose. Further issues did arise and they went to the heart of the employment relationship justifying the claimant’s resignation. The fundamental breach was a reason for her resignation. The claimant was constructively unfairly dismissed.
+
+Notice pay entitlement
+
+118. While it was not necessary to do so, I considered whether the respondent had breached the claimant’s contract by not paying her notice. I concluded that they had done so. The claimant’s letter of resignation was unclear. She had not said she was leaving her employment with immediate effect. On an objective view, she said she was resigning with immediate effect. That did not necessarily mean she was leaving with immediate effect. By later referring to her notice period, a fair interpretation of what she said was that she was resigning immediately but with notice. The claimant had not breached her contract by resigning immediately without notice. The claimant was still suspended with pay and she was therefore not required to attend work. The respondent failed to clarify the position. By assuming the claimant had resigned without notice with immediate effect (despite what the letter said) and by failing to pay notice pay, the claimant had been wrongfully dismissed.
+
+Liability was agreed
+
+119. The parties had advised that in the event the dismissal was found to be unfair, liability had been agreed. Given the claimant was unfairly dismissed she is therefore entitled, of consent, to the following sums:
+
+a. A basic award of £1,230.76;
+b. A compensatory award of £4,923.04 plus £500 in respect of loss of statutory rights, with an uplift of 25% namely £1,355.76, resulting in a total compensatory award of £6,778.80.
+
+120. There was no evidence the claimant had secured relevant statutory benefits to engage the recoupment regulations and so the regulations do not apply. Entered in register: 14 January 2026 and copied to parties

@@ -1,0 +1,125 @@
+JUDGMENT
+
+The judgment of the Tribunal is as follows:
+
+1. It is not likely that on determining the complaint to which the application relates the tribunal will find that the reason or principal reason for the claimant’s dismissal was that she made protected disclosures.
+
+2. Interim relief is therefore not appropriate in this case.
+
+REASONS
+
+Issues
+
+1. The claimant was dismissed on 12 October 2025. On 19 October 2025 she submitted her ET1 including claims for automatic unfair dismissal for making a protected disclosure, age discrimination and race discrimination. As part of that claim, she applied for interim relief. This hearing is to determine that application.
+
+2. I must make a summary assessment, on the basis of the evidence and witness statements before me, whether the claimant is likely to show at a final hearing that she had been dismissed for making protected disclosures.
+
+3. This requires me to form a view first, whether she is likely to show that she has made protected disclosures and, if so, whether these were the sole or principal reason, for her dismissal.
+
+Evidence
+
+4. I read witness statements from the claimant, Charlotte Stratton (Head of HR) and Nuno Castro (Junior Protection Manager). I also had a bundle from the respondent of 120 pages, a bundle from the claimant of 71 pages and a skeleton argument from counsel for the respondent.
+
+Facts
+
+5. The background facts are as follows:
+
+6. The respondent is a flower and plant wholesaler serving the retail market. The claimant was employed from 23 July 2025 by the respondent as Line Leader in the warehouse operated by the respondent in Alconbury Weald. She worked night shifts. Her employment was subject to a three-month probationary period.
+
+7. The claimant’s manager was Ahmed Hefni (Ahmed).
+
+8. In the first few weeks of the claimant’s employment, Ahmed received feedback from the claimant’s colleagues that she was difficult to work with and that she could be rude and patronising.
+
+9. On the shift beginning in the evening of 9 September 2025, Ahmed carried out a four- week review with the claimant, which is part of the respondent’s standard procedure for new starters. He recommended to HR that she should fail her probation.
+
+10. On 11 September 2025, the claimant complained to HR about Ahmed, stating that he had screamed at her and she compared her treatment to that of her colleagues.
+
+11. The claimant alleges that she made her complaint about Ahmed before the four-week review but that is not borne out by the documentary evidence. She maintains that the dates on the documents have been changed. This is not something I could resolve on a summary assessment of the evidence.
+
+12. HR did not accept Ahmed’s recommendation to terminate the claimant’s employment and her employment continued.
+
+13. In response to the complaint of 11 September 2025, Vladislav Penchev (HR Advisor) contacted the claimant and asked to meet to address the issues she had raised. They met on 12 September 2025 and the meeting was treated as a grievance hearing. The claimant complained that Ahmed had asked her to sign the four-week review document without showing her the contents and that he had removed her from the team’s Whatsapp group.
+
+14. Following the grievance hearing, a meeting was held between the claimant, Ahmed and HR on 17 September 2025 and it was agreed that there would be a fresh start to the working relationship.
+
+15. The claimant alleges that on 22 September 2025 and 10 October 2025 she made disclosures to Oana, another manager, regarding health and safety breaches. She accepts that she did not escalate these matters once she raised them with Oana and they do not appear to form part of the contemporaneous documentary evidence.
+
+16. The claimant made a further complaint to HR on 23 September 2025 about Ahmed’s treatment of her. The following day, 24 September 2025, she retracted the complaint following a ‘positive chat today with Ahmed’.
+
+17. On the same day, Ahmed recorded the challenges he and his colleagues were facing working with the claimant in relation to both her performance and her attitude.
+
+18. On 8 October 2025, Ahmed raised his concerns about the claimant’s performance and conduct formally to HR. He set out various incidents that had caused him concern and asked for appropriate action to be taken, such as moving her to a different department.
+
+19. A probation review meeting was arranged for 12 October 2025 and was carried out by Ahmed’s line manager, Nuno Castro, instead of Ahmed, due to the previous complaints raised by the claimant about Ahmed. During the meeting the claimant was given an opportunity to explain some of the performance issues which had arisen and to make any other comments. Following the meeting, Nuno Castro decided to terminate the claimant’s employment due to the ongoing breakdown in working relationships with both management and peers. He took the view that the working relationship and broken down beyond repair and could not be effectively restored. The claimant’s employment was terminated with effect from that day. The dismissal was confirmed in writing on 13 October 2025.
+
+20. The claimant challenged the factual basis of the decision in email correspondence and presented an appeal dated 13 October 2025. The appeal hearing has not yet taken place.
+
+Law
+
+21. Section 128 Employment Rights Act (ERA) 1996 provides:
+
+128. Interim relief pending determination of complaint
+
+(1) An employee who presents a complaint to an employment tribunal that he has been unfairly dismissed and –
+
+(a) that the reason (or if more than one the principal reason) for the dismissal is one of those specified in –
+(i) section 100(1)(a) and (b), 101A(1)(d), 102(1), 103 or 103A, or
+(ii) paragraph 161(2) of Schedule A1 to TULRCA 1992,… may apply to the tribunal for interim relief.
+
+22. The question to be considered upon an application for interim relief is set out in s129
+
+ERA 1996:
+
+129. Procedure on hearing of application and making of order
+
+(1) This section applies where, on hearing an employee's application for interim relief, it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find that the reason (or if more than one the principal reason) for the dismissal is one of those specified in section 100(1)(a) and (b), 101A(1)(d), 102(1), 103 or 103A
+
+23. Interim relief can therefore be ordered where the Tribunal finds that it is likely that a final hearing will decide that the reason (or principal reason) for dismissal was the employee having made protected disclosures contrary to s 103A ERA1996.
+
+24. The meaning of the word 'likely' for these purposes has been considered in several cases. In Taplin v C Shippam Ltd [1978] IRLR 450 EAT, (decided under similar provisions relating to interim relief applications in dismissal for trade union reasons) the EAT held that it must be shown that the claimant has a 'pretty good chance' of succeeding, and that that meant something more than merely on the balance of probabilities.
+
+25. A 'pretty good chance' of success was interpreted in the whistleblowing case of Ministry of Justice v Sarfraz [2011] IRLR 562, EAT, Underhill P said “in this context ‘likely’ does not mean simply ‘more likely than not’ – that is at least 51% - but connotes a significantly higher degree of likelihood.”.
+
+26. The Claimant must show the necessary level of chance in relation to each essential element of automatic unfair dismissal, see Simply Smile Manor House Ltd and ors v Ter-Berg [2020] ICR 570.
+
+27. The Claimant must therefore show that it is likely that the Tribunal at the final hearing will find that:
+
+27.1 she made the disclosures to the employer;
+27.2 she believed that they tended to show one or more of the matters listed in the ERA 1996 s 43B(1);
+27.3 her belief in that was reasonable;
+27.4 the disclosure(s) was or were made in the public interest; and
+27.5 the disclosure(s) was or were the principal cause of the dismissal.
+
+28. In determining whether the reason for the Claimant’s dismissal was her alleged disclosure, it is not sufficient for the disclosure to be “in the employer’s mind” or for it to have influenced the employer. The Tribunal must consider whether that disclosure was the “sole or principal reason” for her dismissal.
+
+Submissions
+
+29. The claimant asserts that the principal reason for dismissal was that she had made protected disclosures. In her witness statement and submissions, she alleged that she had made protected disclosures relating to sexual comments, verbal abuse and health and safety breaches. She accepted that the claim form did not refer to sexual comments or health and safety breaches. She alleges that the breakdown in the relationship only occurred after her disclosures.
+
+30. The respondent contends that the clamant did not make any qualifying disclosures. The reasons relied on by the respondent for termination of employment is the irretrievable breakdown in trust and confidence between the claimant’s managers and colleagues and her. This is evidenced by written contemporaneous emails, reports and performance review documents. The respondent contends that these reasons are more likely to be the reasons for dismissal than any alleged disclosures and therefore the claimant is unlikely to be able to show causation.
+
+Conclusion
+
+31. I must assess whether it appears likely that a final hearing would find that the claimant had succeeded in each of the elements of an automatically unfair dismissal claim under section 103A Employment Rights Act 1996.
+
+32. In the context of this case, I need to decide whether it was likely that the tribunal would find at a final hearing that there were protected disclosures and those disclosures were the principal reason for dismissal, rather than a breakdown in the working relationship as put forward by the respondent.
+
+33. I can only reach my decision on the basis of the claimant’s pleaded case in her ET1. This is set out in Box 8.2. I take the following wording to be the protected disclosures relied on:
+
+33.1 I blow a whistle on my manager about the fraudulent activities of writing a review deforming my character and giving false information to Human Resource about myself.
+33.2 Previously I had approached this manager regarding his yelling, screaming and shouting to me and other members of staff including agency staff. I felt this was degrading and dehumanising that someone of authority cannot talk to other members of staff without yelling, screaming and shouting at them…I reported this to HR citing the hostile and toxic environment the Manager has created and how he treats workers who can't speak English and older staff including me as I am 48yrs old.
+33.3 I have reported to HR both verbally and on an email on his verbal abuse and sexual abuse of other staff members who can’t speak English or understand English. I sent an email to HR on 11 September 2025.
+
+34. There is no reference to allegations of breach of health and safety or sexual misconduct. The claimant’s case at today’s hearing is that she made such disclosures and that these were part of the reasons for her dismissal.
+
+35. I find that the claimant has not shown that it is likely, at the final hearing, that her complaint to HR as set out in the ET1 was a protected disclosure:
+
+35.1 she has not identified the actual words relied on which she asserts amount to a protected disclosure, as required by the whistleblowing provisions;
+35.2 she has not identified the legal wrongdoing to which the disclosure relates as required by the whistleblowing provisions – it is not necessary to identify such wrongdoing in order to bring a grievance but not every grievance is a protected disclosure;
+35.3 the evidence suggests that her complaints were about her personal situation rather than in the public interest, contrary to the whistleblowing provisions which requires disclosures to be in the public interest.
+
+36. I also find that the claimant has not shown that it is likely at the final hearing that the sole or principal reason for dismissal was the fact that she had made protected disclosures. I note that her employment was continued after her four-week review when the respondent could have terminated it. I also note that Nuno Castro’s witness statement explains his reasons for dismissal as related to the claimant’s conduct and performance. These reasons are supported by contemporaneous documentary evidence.
+
+37. The claimant has not put forward any reason why I should not accept the evidence of Nuno Castro at face value regarding his reasons for terminating her employment.
+
+38. The claim for interim relief fails.

@@ -1,0 +1,427 @@
+JUDGMENT
+
+1. The claimant was unfairly dismissed under section 104 of the Employment Rights Act 1996.
+
+2. The respondents dismissed the claimant without giving two weeks of notice in breach of contract.
+
+3. The claimant was not paid accrued untaken holiday for the period 1 January 2021 to 1 February 2021.
+
+4. The claimant was subject to unauthorised deductions from wages from 6 September 2019 to 3 December 2021. He can only recover deductions from 14 March 2020 under section 23(4A) of the Employment Rights Act 1996. The deductions relate to difference between hours worked and money paid, and failure to pay contractual and statutory sick pay.
+
+5. The claimant did not suffer unlawful deductions from wages relating to furlough pay.
+
+6. The respondents failed to give the claimant itemised payslips from April 2021 to January 2022.
+
+REASONS
+
+1. I gave oral judgment and reasons at the hearing. Both parties requested written reasons orally at the hearing. I am therefore providing these.
+
+Procedural Background
+
+2. The claimant filed the claim on 14 March 2022 naming Supersafe Security Limited as the respondent.
+
+3. There were administrative problems sending the claim to Supersafe Security Limited so the response was filed on 18 August 2022 after full claim sent to it on 15 August 2022.
+
+4. A substantive hearing was listed before Employment Judge Muir Wilson on 1 September 2022. It was converted to a hearing for case management, unsurprisingly given the lack of preparation time. The judge produced a case management order from this.
+
+5. A second substantive hearing was listed to take place before Judge Muir Wilson on 23 November 2022. It was also converted to a hearing for case management. Security Smart Limited was added as a respondent, though the claimant then claimed that Supersafe Security was never an intended respondent. Security Smart Limited changed its name to H&S FM LTD on 14 June 2023 but in this decision I will call it Security Smart Limited. The resulting case management order was delayed in being sent to 28 February 2023.
+
+6. The ET1 was then served on Security Smart Limited. It sent a response on 29 March 2023. That response contains no name or contact details except the address of company. The response raised that Moshrafh Ali worked for it from 6 September 2019 to 30 September 2019. The response claimed that he was not the same person as Mr Uddin. This was disingenuous as it is now accepted that Mr Ali was the claimant.
+
+7. The third attempt at a substantive hearing was before Employment Judge Allen on 4 July 2023. It was converted to a hearing for case management due to length of bundle. That bundle was 1586 pages and agreed. Following that hearing, bundles for the final hearing (which was before me) were meant to be prepared on 1 August 2023. This appears to have been done with the 1586 page bundle (called the “big bundle” in this decision) being agreed. The case management order also contained an agreed list of issues.
+
+8. The hearing with me took place on the dates mentioned above. It was recorded using the Cloud Video Platform. That recording is the record of proceedings and should be consulted in the event of any dispute about what was said at the hearing.
+
+9. At the hearing the documents I was meant to consider were unclear because respondents decided to provide a new bundle (the “new bundle”), without consulting the claimant, just before the hearing. It has proven to be the case that many documents material to the case were not included in the new bundle, including all the claimant’s evidence of the work he claims to have done for which he claims not to have been paid. The respondents also added new documents, such as HMRC evidence, to the new bundle. I mention this not because it is material to my findings, but because it is helpful to understand what I did end up considering. The documents I ended up
+
+considering are:
+
+(a) The new bundle
+(b) The bundle of the claimant’s witness statements (also helpfully prepared by the respondents, in a red folder)
+(c) The big bundle
+
+10. On the first day of the hearing Rani Matharu represented Security Safe Limited. She initially described herself as a McKenzie friend. When I explained to her that to fill that role, Security Safe Limited needed also to be present and representing itself, she agreed that she was acting as a lay representative. She was not able to attend the second day. The Respondents did not seek to postpone due to her absence and it was fair to proceed without her as the respondent had known about the hearing for nearly a year and Mr Hoque authorised to represent both respondents.
+
+11. The claimant represented himself throughout. The claimant used a Bengali Sylheti interpreter. The interpreter disclosed he was a member of the same mosque as Mr Hoque and the former director of both respondents, Mr Shahidul Islam (who was present throughout the hearing, helped Ms Matharue and Mr Hoque find documents, and occasionally addressed me). No participant objected to the interpreter continuing in his role and I decided it was fair and in the interests of justice to proceed.
+
+12. At the hearing we agreed the list of issues. This was as set out in CMO of Judge Allen except:
+
+(a) the issues of the identity of the employer were not material because both were now a party to the claim,
+(b) the respondent accepts that the claimant was also the person known to Security Smart Limited as Moshrafh Ali, and
+(c) the date of termination of employment is not material except to the amount of any remedy if any claim is upheld.
+
+13. The list of issues was consequently:
+
+3. Unfair dismissal
+
+3.1 Was the claimant dismissed? The respondents accept that the claimant was dismissed.
+3.2 Was the reason or principal reason for dismissal that the claimant had asserted statutory rights and complained that he had not be paid sick pay and had not been provided with itemised pay slips. If so, the claimant will be regarded as unfairly dismissed.
+3.3 What was the reason or principal reason for dismissal? The respondent says the reason was conduct. The Tribunal will need to decide whether the respondent genuinely believed the claimant had committed misconduct.
+3.4 If the reason was misconduct, did the respondent act reasonably in all the circumstances in treating that as a sufficient reason to dismiss the claimant? The Tribunal will usually decide, in particular, whether:
+3.4.1 there were reasonable grounds for that belief;
+3.4.2 at the time the belief was formed the respondent had carried out a reasonable investigation;
+3.4.3 the respondent otherwise acted in a procedurally fair manner;
+3.4.4 dismissal was within the range of reasonable responses.
+
+4. Remedy for unfair dismissal
+
+4.1 If there is a compensatory award, how much should it be? The Tribunal will decide:
+4.1.1 What financial losses has the dismissal caused the claimant?
+4.1.2 Has the claimant taken reasonable steps to replace their lost earnings, for example by looking for another job?
+4.1.3 If not, for what period of loss should the claimant be compensated?
+4.1.4 Is there a chance that the claimant would have been fairly dismissed anyway if a fair procedure had been followed, or for some other reason?
+4.1.5 If so, should the claimant’s compensation be reduced? By how much?
+4.1.6 Did the ACAS Code of Practice on Disciplinary and Grievance Procedures apply?
+4.1.7 Did the respondent or the claimant unreasonably fail to comply with it by [specify alleged breach]?
+
+5. Wrongful dismissal/Notice pay
+
+5.1 What was the claimant’s notice period? The respondent says it is the minimum statutory requirement of 2 weeks
+5.2 Was the claimant paid for that notice period? The respondent accepts that the claimant was not paid
+5.3 If not, was the claimant guilty of gross misconduct? / Did the claimant do something so serious that the respondent was entitled to dismiss without notice?
+
+6. Holiday Pay (Working Time Regulations 1998)
+
+6.1 Did the respondent fail to pay the claimant for annual leave the claimant had accrued but not taken when their employment ended? The respondent accepts that some holiday pay is owed.
+6.2 What was the claimant’s leave year?
+6.3 How much of the leave year had passed when the claimant’s employment ended?
+6.4 How much leave had accrued for the year by that date?
+6.5 How much paid leave had the claimant taken in the year?
+6.6 Were any days carried over from previous holiday years?
+6.7 How many days remain unpaid?
+6.8 What is the relevant daily rate of pay?
+
+7. Unauthorised deductions
+
+7.1 Did the respondent make unauthorised deductions from the claimant’s wages and if so, how much was deducted? The claimant says that:
+7.1.1 he was not paid for all the hours that he worked from 6 September 2019 to 2 December 2021
+7.1.2 the respondents claimed and received furlough money up until September 2021 but did not pay the claimant furlough pay from July 2020 until furlough was stopped by the government.
+7.1.3 he was not paid sick pay between 29 December 2020 to 21 August 2021.
+
+8. Section 11(2) of the Employment Rights Act 1996
+
+8.1 Is the respondent in breach of its statutory duty to give the claimant itemised pay slips.
+
+9. Remedy
+
+9.1 How much should the claimant be awarded?
+
+14. At the hearing I heard evidence from first the claimant on day one and then from Mr Hoque on day two. They were the only witnesses. When the claimant began his evidence he produced yet more documents, which were old logbooks from the respondents’ client sites. He had not disclosed these before. The respondent reviewed them and had no objection to them in principle. The claimant did not in fact refer to them at any point in the hearing.
+
+15. I made various minor case management decisions during the hearing and had to intervene often to ensure questions were put effectively and comprehensibly to the witnesses. I also asked a number of questions of my own of the witnesses to understand their evidence properly and ensure they addressed the issues I need to decide.
+
+16. I heard closing submissions from Mr Hoque and Mr Uddin.
+
+Facts
+
+17. I will set out the facts that are material to the claim. I find these on the balance of probabilities. They are based on the evidence I have been provided and I have heard, looked at in the round.
+
+Who’s who
+
+18. I will begin by explaining who the people involved in this case are.
+
+The Claimant
+
+19. The claimant is a man who is originally from Bangladesh. Aspersions have been cast on his credibility in part based on his use of two identifies and it is therefore necessary to explain what these are.
+
+20. When he started working for Security Smart Limited on 7 September 2019 the respondents say he went by the name Mosarafh Ali with the date of birth 22 April 1974. They produced a contract showing this at page 1188 of the big bundle. I note that at the CMA on 23 November 2022 the claimant is recorded saying that he accepted that contract was genuine.
+
+21. There is a biometric residence permit showing a photo of the claimant with that name and date of birth, the national insurance number SK525739D, and refugee leave to remain issued on 6 July 2018. There is also a refugee travel document, British driving licence and DBS check with the same details issued on 12 November 2018 and 16 November 2018 and 11 January 2019 respectively.
+
+22. The claimant completed a change of name deed on 25 April 2019 adopting the name Mohammad Jamal Uddin. He swore this before Md Anwar Kabir Khan of Nova Solicitors. It is therefore unexplained why he used his former name after doing this when starting employment with Security Smart Limited in September 2019.
+
+23. There is a driving licence issued on 10 September 2019, biometric residence permit issued on 12 June 2019 and Security Industry Authority Licence issued on 9 September of an illegible year in the name Mohammad Jamal Uddin. However the driving licence and residence permit have a date of birth that is 2 September 1973. Mr Hoque said he believes that the photo of the man in the biometric residence permit is the claimant. I am unconvinced that it is him, particularly as the signature is totally different to that on the driving licence or deed of change of name.
+
+24. The claimant rightly said that his identity is a matter between him and the Home Office. All the documents show he had the right to work throughout his employment. The issues in this case relate to his relationship with the respondents and they accept that the claimant is the person who worked for both respondents. However, although I realise that just because someone may not be truthful about one thing, it does not mean they are lying about another thing, I accept the point from the respondents that this affects the overall credibility of the claimant. There are unanswered questions about his identity documents that he has shied away from engaging with in these proceedings.
+
+Mr Hoque
+
+25. Mr Hoque deals with administration at Supersafe Security Limited. He started there on 1 June 2022. He therefore did not work at either respondent during the period about which this claim is made. His knowledge of what happened is based entirely on written records and information he was told by other people.
+
+Shahidul Islam
+
+26. Mr Shahidul Islam was a director of Security Smart Limited from 23 January 2018 to 1 April 2022. He was also a director of Supersafe Security Limited from 4 December 2019 to 2 February 2021. I was told by Mr Hoque that after his resignation he continued to be involved in the company. According to records at Companies House, the termination of his appointment was only filed on 16 April 2022. Although he attended the hearing, he declined to give evidence at it.
+
+Other People
+
+27. Matinul Islam is a current director of Supersafe Security Limited. He was appointed on 20 July 2022.
+
+28. There are various other people who dealt with administration and I will refer to them when required in the rest of this decision.
+
+Commencement of Employment and Contractual Terms
+
+29. I find that the claimant was initially employed by Security Smart Limited under the name Mosarafh Ali on 7 September 2019 and signed a contract to this effect. The respondent submits that the circumstances of his transfer to Supersafe Security Limited are clear because of the contract and payslips for that company which show work beginning there from 1 October 2019 in the claimant’s current name. The claimant has said he was never formally transferred. I prefer the claimant’s evidence on this because I can see that the administration of both companies was mixed together because there are numerous messages in the big bundle from “sabina” to the claimant booking him for shifts which are signed off by “Operations Team, Security Smart Limited”. It is clear to me that the separate contracts do not reflect the reality of the relationship, which is that both companies were mixed together for administrative purposes. Both respondents were and remained the claimant’s employer for the purposes of this case.
+
+30. This raises an obvious question about the origins of the contract with Supersafe Security Limited. I am unable to say if the claimant did in fact sign this. Recollections fade and the claimant only has limited English so would be unlikely to fully understand the document. It is hard to see what the respondents would gain from counterfeiting this document because the material terms are the same as in the contract with Security Smart Limited, on which they could potentially rely. What therefore matters is not the genuineness of this second written contract, but the understanding of the terms of employment between the parties.
+
+31. I find that the claimant and respondents had agreed that the claimant was on a zero hours contract. The reality of this relationship was that he was regularly booked to do work. I also find that the agreement was that the claimant would be paid national minimum wage.
+
+32. Both written contracts refer to the claimant being entitled to full pay for 30 continuous sick-leave days and statutory sick pay thereafter. It therefore appears undisputed that the claimant was entitled to such pay.
+
+33. Both written contracts also provide for 28 days of paid holiday in addition to statutory/bank holidays. They say the holiday year runs from January to December and that holiday must be taken in the relevant year unless agreed with the employer. They say that on termination, unused paid holiday will be paid on a pro-rata basis. It was clearly set out and forms the correct basis for a calculation of accrued unpaid holiday as a result.
+
+34. Both contracts provide for the employee receiving statutory minimum notice of termination. However there is an odd letter dated 25 September 2019 in exhibit 2 of the new bundle that says the notice period was four weeks. I take this to mean, consistently with the contracts, the period the claimant had to give was four weeks. I find that the claimant was entitled to statutory minimum notice.
+
+Work and Pay
+
+35. The process for booking work was that the respondent would send a text message to the claimant telling him about a booking. The typical wording of a booking message is:
+
+Brother (Md Jamal Uddin)
+
+You are booked for the following job. Please find details below.
+
+[SITE DETAILS]
+
+[DATES AND TIMES OF SHIFTS]
+
+[WHO TO SAY YOU WORK FOR AS THEY WERE
+
+SUBCONTRACTORS]
+
+[HOW TO BOOK ON TO SITE]
+
+Any queries, please talk to [WHO TO CONTACT AT PRIME
+
+CONTRACTOR AND RESPONDENT]
+
+[DRESS CODE]
+
+Please confirm by message (Yes, Confirmed” if you are clearly understood the instructions.
+
+Kind regards
+
+Operations Team
+
+M- 07484838440 (control)
+
+P- 02036334243 (24h)
+
+www.securitysmartltd.co.uk
+
+36. This example is based on the message from 1101 of the big bundle, giving shifts on 18 and 19 July 2020.
+
+37. Mr Hoque said that the same message might be sent to more than one person so it would be filled on a first-come-first-served basis. I do not accept this. The wording of the message is clearly a booking and I was told about no documents showing the claimant saying he would do a booking and then being refused because someone else had taken it.
+
+38. The claimant says that the method by which he would end up being paid was by providing monthly timesheets. These are at pages 479 to 503 of the big bundle. Ms Mathura suggested that these were documents the claimant had created and therefore were unreliable for showing his actual hours worked. However the respondent has provided no evidence at all of either how the claimant’s hours of work were recorded or how this resulted in payments to him. The claimant has backed up his timesheets with copious copies of the messages through which he was booked to work. The respondent has totally failed to engage with this evidence and suggested it was irrelevant to the claim by producing the new bundle from which it was excluded. That was misconceived. If the respondent wished to dispute the hours worked, they should have explained how they arrived at the hours shown on the payslips.
+
+39. Those payslips, which were also not in the new bundle except for those for 2021, are unbelievable. This is because they show the claimant working 78 hours every month from October 2019 to March 2021. It is improbable that someone on a zero hours contract with flexible hours would work the same number of hours every month for 17 months. The only person who testified to the claimant doing this work is Mr Hoque, who was not a witness of the actual work the claimant did for either respondent. He based his knowledge on the information in the payslips, but that presuppose that those payslips are accurate.
+
+40. On balance, I find that the claimant worked the hours set out in his monthly timesheets.
+
+41. I therefore need to look at what the claimant was paid for that work. As mentioned above, the payslips of the claimant have been provided and show regularly payments. It was put to him that he cannot have been underpaid because otherwise he would have stopped working earlier. He replied that it was difficult to tell he was underpaid as he kept receiving different payments.
+
+42. The respondent did not try to explain the payments to the claimant. However the claimant provided his bank statements, which were included in the big bundle starting at page 324. I can see from these that the claimant received the pay as shown in the payslips but also received additional payments from Supersafe Security Limited that are not contained in the payslips. These is no breakdown for these and the respondent has never sought to explain why they were paid.
+
+43. It appears that in April 2020 these payments changed from being made by Supersafe Security Limited to being made by Shohidul Islam personally. The first of these payments is at page 357 of the big bundle on 14 April 2020. I mention this because the respondent sought to make a counterclaim earlier in these proceedings for repayment of a loan. The numbers described as the “loan” correspond to the payments made by Shahidul Islam personally.
+
+44. The claimant said in oral evidence that the “loan” payments were actually payments for work. I accept his evidence because it is obvious that they make up the some of the deficit between the hours which he worked and the hours being paid by Supersmart Security Limited during the period when the extra payments from Supersmart Security Limited stopped (i.e. from April 2020). I am aware in finding this that I effectively deal with the matter of the loan that was not within the jurisdiction of the Tribunal. However the claimant’s case has, since he provided the breakdown of his pay, been that these payments were part of his remuneration. That was clear when he included the “loan” payments as part of his remuneration in his schedule of loss in December 2022.
+
+45. The claimant provided a full breakdown of his work hours and pay at pages N5 and N6 of the bundle of his statements. In relation to the working hours, there are slight discrepancies with the timesheets for November, December 2019 and January 2020, and April 2021. I have not been able to cross-check the figures in the bank statements because there are simply too many payments. The respondent should have, if it wished to, done this in advance of the hearing. This would have been particularly easy as the claimant provided page reference numbers to check every figure. (This is a step that the respondent will now need to take to calculate remedy.)
+
+46. Overall I find the calculation is correct in showing underpayments for the work done in most months, with the occasional overpayment. There was never a gap in underpayments of more than two months.
+
+Sickness
+
+47. In late December 2020 the claimant contracted covid. This resulted in him being unfit to work in January and, he says, February 2021. For these months, the respondent continued to issue payslips showing him working for 78 hours each month. There is no evidence he was in fact paid that money.
+
+48. In August 2021 the claimant was again unwell and did not work. The respondent continued to create payslips. However this time it was because the respondent was saying the claimant was on furlough. The claimant accepts receiving this money, but not the payslips.
+
+49. The claimant also produced for the Tribunal sick notes showing:
+
+(a) He was in hospital with covid in January 2021
+(b) He could only work 3 hours per week from 16 March 2021 to 11 April 2021 dated 16 March 2021
+(c) He was unfit to work from 12 April 2021 to 20 June 2021 on two sicknotes dated 20 April 2021 and 24 May 2021
+(d) He was unfit to work from 3 July 2021 to 5 September 2021 dated 2 September 2021
+
+50. The respondent described these in the new bundle as “counterfeit sick notes”, yet at the same time relied on them to say that the claimant cannot have worked during the relevant periods because he was too unwell.
+
+51. The claimant said that he did not provide the sick notes to the respondent and just said verbally that he was sick. The respondent does not claim to have received them prior to the proceedings. However there are in fact messages in Exhibit 13 of the new bundle at pages 2 and 3 showing them being sent to the respondent on 10 and 12 September 2021. I find they were sent to the Respondent at that time.
+
+Furlough
+
+52. The payslips of the claimant show that from April to October 2021 the respondent claimed he was on furlough. I do not accept the claimant was in fact on furlough because the timesheets show he was working and the payslips are clearly an unreliable record of the claimant’s work given the did not reflect his actual working hours prior to furlough.
+
+53. At this time, furlough was flexible. Mr Hoque confirmed my understanding that this meant a person could work while on furlough, but their furlough payments had to be reduced proportionately. The claim the company could make to the government for furlough pay was 80% of normal earnings, based on a reference period for a person on a zero hours contract.
+
+54. There is no evidence that the claimant was sent his payslips for the furlough period by post or email. Mr Hoque suggested that the claimant collected these by hand from the respondent’s office. I do not accept this for the following reasons.
+
+55. First, I do not accept that the claimant was regularly provided with his payslips. Exhibit 17 of the new bundle has emails in on which payslips for September 2019 to October 2020, and, separately, July and August 2020 were attached. The emails were sent on 13 November and 13 September 2020 respectively. There is no suggestion on these emails that the payslips that were attached had already been provided to the claimant.
+
+56. Second, there is no evidence from anyone who would distribute payslips before me. It was never put to the claimant that he collected them in person. The absence of evidence from Sabina or Shahidul Islam is striking.
+
+57. Third, there are emails in the big bundle at 1127, 1128 and 1130 showing the claimant still requesting his payslips for the furlough period in 2022. It is unlikely that he would do so if he already had these documents.
+
+58. Overall I find the claimant was not provided with his payslips for April 2021 to January 2022 during his employment.
+
+59. There is a furlough contract at page 15 of Exhibit 5 of the new bundle. It is purportedly signed by “M ISLAM” for the respondent and the claimant on 1 March 2021. It describes the claimant being entirely furloughed with no work, and says furlough would end on the scheme ending, him ceasing to be eligible for funding or the respondent deciding to bring him back to work.
+
+60. For the reasons set out above, I find this contract was not followed. Mr Hoque was also unable to tell me who M ISLAM, who signed it, was. Matinul Islam was not yet appointed to the respondent. Mr Hoque speculated it might be Shahidul Islam using the initial M for Mohammed. Given that I find that the claimant did in fact work during furlough without this being declared on his payslips, I find on balance that this document was created to perpetuate a fraud on the exchequer in order to claim furlough money.
+
+Conduct at Work
+
+61. The claimant claims that on 2 December 2021 he spoke to Shahidul Islam about the lack of itemised payslips and his underpayments, and as a result he was dismissed.
+
+62. The respondent claims that the claimant was dismissed after a complaint from Hyundai Motors UK Limited that the claimant was found asleep during his shift from 8pm on 2 December 2021 to 8am on 3 December 2021 and failed to complete the logbook at the site.
+
+63. There are effectively two competing claims. I will look at each in turn.
+
+Claimant’s Claim
+
+64. I find that the claimant did have a conversation with Mr Shahidul Islam on 2 December 2021. In fact the respondent earlier produced a witness statement dated 8 November 2022 from a man named Akhter Ali Khan saying he witnessed that conversation. Mr Khan did not give evidence at the hearing before me. But neither did Mr Islam in order to try to rebut the claimant’s account. I think it probable that by 2 December 2021 the claimant realised that he was not being paid for the work that he was doing and had suspicions about the use of furlough, and he brought this to the attention of Mr Islam.
+
+Respondent’s Claim
+
+65. However the respondent says this is not the reason the claimant was dismissed. The respondent says it was misconduct shortly after this which entitled the respondent to dismiss the claimant. I am conscious that for the purposes of this part of my fact finding I must look at what was in the mind of the respondent.
+
+66. The difficulty doing that is that Mr Hoque was not working for Supersafe Security Limited at the time. His knowledge is based on what he had been told by other people and the documents he has been provided with.
+
+67. The respondents says the complaint from the customer was made by telephone. They have been unable to tell me who received the complaint or provide any contemporaneous record. This is despite providing emails from customers regarding the claimant dated 15 April 2020 and 11 November 2021.
+
+68. The parties agree that after the shift, the messages at Exhibit 8 of the new bundle were exchanged. I set them out here in some detail as they are critical to the respondents’ case for why they dismissed the claimant. They contain many grammatical anomalies which I have not sought to highlight as the meaning remains clear enough.
+
+69. The respondent sent a message to the claimant saying the daily report in the logbook was missing and asking the claimant “to write a report regarding their queries and send us at your earliest convenience as we need to reply them within”. The claimant replied with a handwritten log of what he did.
+
+70. The respondent replied:
+
+Thanks bhai
+
+I think there is no report there were asked. If you kindly look into the queries and write accordingly… will be highly appreciated.
+
+Kind regards
+
+71. The claimant replied:
+
+this is a logbook 02.12.2021 I have not found any logbook
+
+72. On 6 December 2021 the respondent wrote back saying: Ok, Have you informed us? There’s no [THE REST OF THIS MESSAGE
+
+IS CUT OFF]
+
+73. The respondent claims they then sent the letter at page 1 of Exhibit 8 of the new bundle inviting the claimant to a meeting on 13 December 2021. There are a number of problems with this letter.
+
+74. First, it refers to a suspension but there is no evidence that the respondent had suspended the claimant.
+
+75. Second, it does not say who the meeting was with. It is signed by Angelika Barbara Tokarczyk but nobody has suggested she was a decision-maker.
+
+76. Third, it says: The consequences that could arise from the meeting might be reinstate your work rota with us or may go further inquiries to improve your performance.
+
+77. It therefore does not mention the possibility of dismissal.
+
+78. Fourth, it does not set out any details of the complaint about the shift on 2 December 2021 except it was on that date and with Hyundai Motors.
+
+79. There are no records of the meeting on 13 December 2021 taking place without the claimant. It is undisputed that the claimant did not attend.
+
+80. The respondent claims they then sent an email on 14 January 2022 which is Exhibit 9 in the new bundle. It recounts the documents I have set out above. It adds that the respondent found that officers attending the same site before and after the claimant did complete the logbook. Copies of these entries are pages 6 to 9 of Exhibit 8 of the new bundle.
+
+81. The email concluded: Office believes, for not maintaining a logbook report while a security officer is on duty, it’s a gross misconduct of a Sia license holder. You need to clarify your position within seven days from the date of the notice why you won’t be terminated from employment. Your satisfactory explanation may reinstate your work with us.
+
+82. The email was signed by Angelika B Tokarczyk. There is no evidence before me of who made the decision that the claimant had committed gross misconduct.
+
+83. On 1 February 2022 the respondent generated a P45 for the claimant and accepts that brought his employment to an end. There is no correspondence showing that this was communicated to the claimant.
+
+Conclusion on Reason for Dismissal
+
+84. I find that the claimant did not complete the logbook on 2 December 2021. I do not accept that this was the genuine reason that the claimant was dismissed. Even bearing in mind that the respondent is a small business, the evidence is inadequate to show me that the respondent genuinely believed that this was a sackable offence. This is particularly the case because the written complaint from 11 November 2021, which Ms Matharu sought to rely on as evidence that the claimant was generally performing poorly, is about the same issue yet no disciplinary action at all was taken against the claimant.
+
+85. It is more likely, and I find to be the case on the balance of probabilities, that when the claimant asked about his statutory rights on 2 December 2021, the respondent decided to punish him, partly because proper pay would cost money and partly because proper disclosure would expose fraud on the furlough scheme. The failure of the claimant to complete the logbook was used as a way to hide the real reason for dismissal.
+
+86. It has also been suggested that another reason for dismissal was that the claimant’s SIA licence expired on 9 January 2022. That has not been disputed. However it was not referred to at any point leading up to the claimant’s dismissal. It is therefore impossible for me to conclude on the evidence that it was the reason the respondent decided to dismiss the claimant. It might be relevant to whether the claimant could have been dismissed fairly after 9 January 2022 had he not been dismissed unfairly instead.
+
+Law
+
+87. Section 104 of Employment Rights Act 1996 (the “ERA”) says:
+
+(1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
+
+(a) brought proceedings against the employer to enforce a right of his which is a relevant statutory right, or
+(b) alleged that the employer had infringed a right of his which is a relevant statutory right.
+
+(2) It is immaterial for the purposes of subsection (1)—
+
+(a) whether or not the employee has the right, or
+(b) whether or not the right has been infringed; but, for that subsection to apply, the claim to the right and that it has been infringed must be made in good faith.
+
+(3) It is sufficient for subsection (1) to apply that the employee, without specifying the right, made it reasonably clear to the employer what the right claimed to have been infringed was.
+
+(4) The following are relevant statutory rights for the purposes of this section—
+
+(a) any right conferred by this Act for which the remedy for its infringement is by way of a complaint or reference to an employment tribunal,
+(b) the right conferred by section 86 of this Act, (c)the rights conferred by sections 68, 86, 145A, 145B, 146, 168, 168A, 169 and 170 of the Trade Union and Labour Relations (Consolidation) Act 1992 (deductions from pay, union activities and time off)
+(d) the rights conferred by the Working Time Regulations 1998, the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58), the Merchant Shipping (Working Time: Inland Waterway) Regulations 2003, the Fishing Vessels (Working Time: Sea-fisherman) Regulations 2004 or the Cross- border Railway Services (Working Time) Regulations 2008, and
+(e) the rights conferred by the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+
+(5) In this section any reference to an employer includes, where the right in question is conferred by section 63A, the principal (within the meaning of section 63A(3)).
+
+88. It is not necessary to set out the law of ordinary unfair dismissal as I have found on the facts that the claimant was dismissed because he asserted his statutory rights.
+
+89. Wrongful dismissal and notice pay is governed by contract, which is statutory minimum notice. The claimant was entitled to two weeks of notice of termination of employment.
+
+90. As explained above, in relation to holiday, the contract is more generous than the statutory minimum as the claimant had 28 days of annual leave plus public holidays. His leave year is January to December but the contract provides for carryover from one year to the next.
+
+91. Unauthorised deductions from wages are explained in section 13 of the Employment Rights Act 1996 as follows: 13 Right not to suffer unauthorised deductions.
+
+(1) An employer shall not make a deduction from wages of a worker employed by him unless—
+
+(a) the deduction is required or authorised to be made by virtue of a statutory provision or a relevant provision of the worker’s contract, or
+(b) the worker has previously signified in writing his agreement or consent to the making of the deduction.
+
+(2) In this section “relevant provision”, in relation to a worker’s contract, means a provision of the contract comprised—
+
+(a) in one or more written terms of the contract of which the employer has given the worker a copy on an occasion prior to the employer making the deduction in question, or
+(b) in one or more terms of the contract (whether express or implied and, if express, whether oral or in writing) the existence and effect, or combined effect, of which in relation to the worker the employer has notified to the worker in writing on such an occasion.
+
+(3) Where the total amount of wages paid on any occasion by an employer to a worker employed by him is less than the total amount of the wages properly payable by him to the worker on that occasion (after deductions), the amount of the deficiency shall be treated for the purposes of this Part as a deduction made by the employer from the worker’s wages on that occasion.
+
+(4) Subsection (3) does not apply in so far as the deficiency is attributable to an error of any description on the part of the employer affecting the computation by him of the gross amount of the wages properly payable by him to the worker on that occasion.
+
+(5) For the purposes of this section a relevant provision of a worker’s contract having effect by virtue of a variation of the contract does not operate to authorise the making of a deduction on account of any conduct of the worker, or any other event occurring, before the variation took effect.
+
+(6) For the purposes of this section an agreement or consent signified by a worker does not operate to authorise the making of a deduction on account of any conduct of the worker, or any other event occurring, before the agreement or consent was signified.
+
+(7) This section does not affect any other statutory provision by virtue of which a sum payable to a worker by his employer but not constituting “wages” within the meaning of this Part is not to be subject to a deduction at the instance of the employer.
+
+92. Section 23(4A) of the ERA says: An employment tribunal is not (despite subsections (3) and (4)) to consider so much of a complaint brought under this section as relates to a deduction where the date of payment of the wages from which the deduction was made was before the period of two years ending with the date of presentation of the complaint.
+
+93. Section 11 of Employment Rights Act 1996 says: 11 References to employment tribunals.
+
+(1) Where an employer does not give a worker a statement as required by section 1, 4 or 8 (either because the employer gives the worker no statement or because the statement the employer gives does not comply with what is required), the worker may require a reference to be made to an employment tribunal to determine what particulars ought to have been included or referred to in a statement so as to comply with the requirements of the section concerned.
+
+(2) Where— (a)a statement purporting to be a statement under section 1 or 4, or a pay statement or a standing statement of fixed deductions purporting to comply with section 8 or 9, has been given to a worker,
+
+and]
+
+(b)a question arises as to the particulars which ought to have been included or referred to in the statement so as to comply with the requirements of this Part, either the employer or the worker may require the question to be referred to and determined by an employment tribunal.
+
+(3) For the purposes of this section— (a). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (b)a question as to the particulars which ought to have been included in a pay statement or standing statement of fixed deductions does not include a question solely as to the accuracy of an amount stated in any such particulars.
+
+(4) An employment tribunal shall not consider a reference under this section in a case where the employment to which the reference relates has ceased unless an application requiring the reference to be made was made—
+
+(a) before the end of the period of three months beginning with the date on which the employment ceased, or
+(b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the application to be made before the end of that period of three months. (5). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Section 207B (extension of time limits to facilitate conciliation before institution of proceedings) also applies for the purposes of subsection (4)(a).
+
+94. The law in this case has not been disputed so it is unnecessary to set out further details here.
+
+Result
+
+95. The claimant was unfairly dismissed by the respondent on 1 February 2022 under section 104 of the ERA because he was dismissed because he asked for correct pay and itemised pay statements.
+
+96. The claimant was dismissed in breach of contract. He is entitled to two weeks of notice pay.
+
+97. The claimant was entitled to pay for untaken accrued holiday between 1 January 2021 and 1 February 2021 (one twelfth of annual entitlement) based on an entitlement to 37 days of annual leave. This is 28 days plus 9 days of public holidays because in 2022 there was an extra public holiday on 3 June 2022 for the Platinum Jubilee. (There was also a further extra public holiday on 19 September 2022 for the funeral of the Queen, but as this could not have been known about at the time of termination, I cannot accept the holiday entitlement could have accrued by that time.)
+
+98. The claimant suffered unauthorised deductions from wages from the commencement of his employment on 7 September 2019 to his last shift finishing on 3 December 2021 when he was not paid for the actual hours he worked. He can recover deductions from 14 March 2020, which is two years before he brought his claim, because of section 23(4A) of the ERA.
+
+99. The claimant was not paid furlough money but he was not entitled to this as he had not agreed to be furloughed. The claimant therefore suffered no unauthorised deduction from wages in respect of failure to pay the money claimed from the government to him.
+
+100. The claimant suffered an unauthorised deduction from wages for 30 days of sickness in January 2021. After this he exhausted his entitlement to company sick pay. He could have been paid statutory sick pay, subject to the rules for providing medical evidence. There is no medical evidence of him being found unfit to work in February 2021. The claimant is therefore only entitled to statutory sick pay, and subject to the rules for obtaining this, in August 2021.
+
+101. The respondents breached their duty to give the claimant itemised payslips.
+
+Remedy
+
+102. The remedy was not possible to calculate in the time available in the hearing and because the claimant’s pay records were, as a result of the respondents’ failure to give correct itemised payslips, incorrect. I therefore provided a separate case management order setting out the steps required to calculate remedy and listed a further hearing before me for this purpose. The process begins with the respondents recalculating the claimant’s gross and net pay based on the hours he actually worked since commencement of employment.
+
+103. Following the question from Mr Hoque, I confirmed at the hearing that both respondents are jointly and severally liable following this judgment because it is impossible to separate out their roles. Apportionment will be a matter between them.
+Tribunal Judge D Brannan acting as an

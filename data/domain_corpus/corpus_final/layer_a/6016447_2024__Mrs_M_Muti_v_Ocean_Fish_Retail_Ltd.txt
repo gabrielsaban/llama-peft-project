@@ -1,0 +1,359 @@
+JUDGMENT
+
+1. Claimant’s strike out application is dismissed.
+
+2. The Respondent’s deposit order application is granted in relation to the allegation that the Respondent failed to pay for time off work to attend midwife appointments on 12, 14 and 28 June 2024. This has little reasonable prospect of success. This has been pleaded under three heads of claim: as an allegation of pregnancy and maternity discrimination, harassment related to sex and as an unlawful deduction from wages.
+
+3. The remaining parts of the Respondent’s deposit order application are dismissed.
+
+Background
+
+1. A Preliminary Hearing took place on 20 June 2025 before Employment Judge Bradford. The issues in relation to the claim were discussed and set out at the end of the Case Management Order from that hearing, dated 23 June 2025 and sent to the parties on 14 July 2025 (the “CMO”). At paragraph 13 of the CMO, the parties were required to write in to the Tribunal by 4 August 2025 to raise with the Tribunal if they thought the List of Issues was wrong or incomplete. No such correspondence was received by the Tribunal.
+
+2. Employment Judge Bradford listed a public hearing for 25 October 2025 to determine the Claimant’s application to strike out the Response and the Respondent’s application for a Deposit order. The hearing was postponed on 23 October 2025 due to lack of judicial resources. A separate letter was sent to the parties on 12 November 2025 which stated “The 1-day preliminary hearing before an Employment Judge sitting alone to determine the issues set out in the Case Management Order sent to the parties on 14 July 2025 has been re-listed. Accordingly, there will be a preliminary hearing in public at Bodmin Employment Tribunal, Bodmin Magistrates’ Court, Launceston Road, Bodmin, PL31 2AL on 8 December 2025.” (page 115).
+
+3. After receiving a skeleton argument from the Respondent dealing with the deposit and strike out applications. The Claimant’s representative wrote to the Tribunal on Saturday 6 December 2025 saying that she had understood that the hearing was to determine the List of Issues. The Claimant’s representative stated that she had not prepared for the hearing on the basis of the deposit and strike out applications being considered, even though the hearing had only been cancelled two days prior to the previous listing for 25 October 2025.
+
+4. I considered that it was nevertheless appropriate and necessary to determine those applications at this hearing. This is because it had been postponed once and postponing any further could lead to the final hearing being put at risk of postponement. The Claimant’s representative was given time to consider her submissions. She opted for a 15 minute period but had been offered longer.
+
+5. At paragraph 4 of the CMO Employment Judge Bradford stated that in relation to this hearing, the Claimant would “need come prepared to provide information and evidence as to her income. This includes household income and state benefits if applicable. It is a requirement that the Judge hearing the application makes enquiries in this respect if an order is to be made.” (emphasis as in original) (page 80).
+
+6. The Respondent provided a hearing bundle of 256 pages to the Tribunal. Page references in this judgment are to pages in the hearing bundle.
+
+7. Each party made submissions in relation to time limits and the strike out/deposit order application.
+
+The Issues
+
+8. The issues in the case were set out at in the CMO by Employment Judge Bradford as follows (page 89) as follows. This has been amended to reflect the dates provided by the Claimant in relation to the allegation that the Respondent failed to pay for time off work to attend midwife appointments on 12, 14 and 28 June 2024
+
+“1. Limitation
+
+1.1 The date of receipt by ACAS of the EC Notification was 21/10/24 (Day A). The date of issue by ACAS of their Certificate was 25/10/24 (Day B), by email. The Claimant’s claim was received by the Tribunal on 27th October 2024. The Claim was therefore submitted within one month of Day B and the date before which claims may be out of time is therefore 22nd July 2024 (being one day after three months before Day A).
+1.2 Were the dismissal complaints made within the time limit in s111(2) Employment Rights Act 1996, and article 7 Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994? The Tribunal will decide:
+1.2.1 Was the claim made to the Tribunal within three months (plus the Early Conciliation extension) of the effective date of termination of employment?
+1.2.2 If not, were the claims made within a further period that the Tribunal considers reasonable? The Tribunal will decide:
+1.2.2.1 Whether it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+
+1.3 Were the discrimination complaints made within the time limit in s123(2) Equality Act 2010 (‘EA 2010’)? The Tribunal will decide:
+1.3.1 Was the claim made to the Tribunal within three months (plus the Early Conciliation extension) of the act to which the complaint relates?
+1.3.2 If not, was there conduct extending over a period? 1.3.3 If so, was the claim made to the Tribunal within three months (plus the Early Conciliation extension) of the end of that period?
+1.3.4 If not, were the claims made within a further period that the Tribunal thinks is just and equitable? The Tribunal will decide:
+1.3.4.1 Why were the complaints not made to the Tribunal in time?
+1.3.4.2 In any event, is it just and equitable in all the circumstances to extend time?
+
+2. Pregnancy Discrimination (Equality Act 2010 s18)
+
+2.1 Did the Respondent treat the Claimant unfavourably by doing the following things:
+2.1.1 Failing to pay for time off work to attend midwife appointments;
+2.1.2 Dismissing her.
+2.2 Did the unfavourable treatment take place in a protected period? This is not in dispute.
+2.3 Was the unfavourable treatment because of the pregnancy?
+2.4 Was the unfavourable treatment because the Claimant was on compulsory maternity leave / the Claimant was exercising or seeking to exercise, or had exercised or sought to exercise, the right to ordinary or additional maternity leave?
+
+3. Harassment- s26 EA 2010
+
+3.1 Did the Respondent engage in unwanted conduct, as follows:
+3.1.1 Failing to pay for the Claimant time off work to attend midwife appointments;
+3.1.2 On 18 September 2024 Billy Dickson, Operations Manager shouted at her saying he didn’t want the Claimant, he could not use her because she was pregnant. He also told her that her employment had ended, and she’d been made aware by an email from HR, Jenny Worsley 12 July 2024;
+3.1.3 Lucy Mellum, a few days after the meeting with Billy Dickson, shouted at the Claimant, in response to the Claimant’s husband saying they would take legal action, that as the Claimant had less than 2 years employment she could not bring a claim.
+3.2 Was the conduct related to the Claimant’s protected characteristic of pregnancy?
+3.3 Did the conduct have the purpose or effect of violating the Claimant's dignity or creating an intimidating, hostile, degrading, humiliating or offensive environment for the Claimant?
+3.4 If not, was it reasonable for the Claimant to consider that the unwanted conduct had that effect?
+
+4. Automatic Unfair Dismissal- s99 ERA 1996
+
+4.1 Was the Claimant dismissed?
+4.2 What was the reason or principal reason for dismissal? Was it of a prescribed kind, namely did it relate to pregnancy?
+4.3 Was the decision to dismiss a fair sanction, that is within the range of reasonable responses open to a reasonable employer when faced with these facts?
+4.4 Did the Respondent adopt a fair procedure?
+4.5 If it did not use a fair procedure, would the Claimant have been fairly dismissed in any event and/or to what extent and when?
+
+5. Wrongful dismissal
+
+5.1 What is the Claimant’s notice period?
+5.2 Was the Claimant paid for that notice period?
+5.3 If not, was there a lawful reason for making any deductions made?
+
+6. Unlawful Deduction of Wages
+
+6.1 Were the wages paid to the Claimant less than the wages they should have been paid? The claimant’s contract stated: “entitled to an unpaid lunch break of half an hour for every day on which their working hours exceed six hours.” The Claimant says that most of the time, more than 30 minutes break was deducted. The Claimant says she only ever had breaks of 30 minutes.
+6.2 The Respondent failed to pay for time off work to attend midwife appointments on 12, 14 and 28 June 2024.
+6.3 Was any deduction required or authorised by statute?
+6.4 Was any deduction required or authorised by a written term of the contract?
+6.5 Did the Claimant have a copy of the contract or written notice of the contract term before the deduction was made?
+6.6 Did the Claimant agree in writing to the deduction before it was made?
+6.7 How much is the Claimant owed?
+
+7. Remedy
+
+7.1 If the Claimant's discrimination claims are upheld in whole or in part:
+7.1.1 Should there be a declaration of any proven unlawful discrimination and recommendations?
+7.1.2 What financial losses has the Claimant sustained as a result of the any acts of discrimination which the tribunal finds to be made out?
+7.1.3 Has the Claimant made reasonable attempts to mitigate her losses?
+7.1.4 Is an injury to feelings award appropriate in the circumstances?
+7.1.5 If so, how much should the injury to feelings award be, taking into consideration the bands set out in Vento v Chief Constable of West Yorkshire Police (No 2) [2003] IRLR 102?
+7.2 In relation to Wrongful dismissal:
+7.2.1 Was the Claimant paid for her notice period?
+7.2.2 If not, how much is she owed?
+7.3 In relation to unfair dismissal:
+7.3.1 What is the Claimant’s basic award, based on her age, length of service and earnings at the date of dismissal?
+7.3.2 Are there any grounds on which the basic award should be reduced?
+7.3.3 What compensatory award should be made to the Claimant, taking into account what is just and equitable in all the circumstances having regard to the loss sustained by the Claimant in consequence of the dismissal in so far as that loss is attributable to action taken by the employer? In particular:
+7.3.4 What financial loss has the Claimant sustained as a result of her dismissal?
+7.3.5 What steps has the Claimant taken to mitigate her losses?
+7.3.6 For what period of financial loss should the Claimant be compensated?
+7.3.7 If the dismissal is found to be procedurally unfair, would the Claimant have been dismissed fairly in any event? If so, by how much? (Polkey v Dayton [1987] IRLR 503).
+7.3.8 Should any award for unfair dismissal be reduced because of any conduct of the Claimant?
+7.3.9 If the dismissal is found to be substantively unfair, would the Claimant have been fairly dismissed by reason of some other reason within a short period thereafter?
+7.3.10 Does the statutory cap apply?
+
+9. The Claimant was invited to confirm whether these were the correct issues or provide any corrections as part of the Further and Better Particulars she was ordered to provide by 4 August 2025. She did not do so; therefore, the above issues are those which I based my decisions on. The List of Issues has now been amended, the correct version to be used at the final hearing is set out in the Case Management Order issued at the same time as this judgment.
+
+The Claimant’s Strike out Application
+
+10. The Claimant confirmed that the strike out application is made under Rules 38(1)(a) and 38(1)(b) as follows:
+
+a. the Respondent’s defence has no reasonable prospects of success, the Claimant points to facts and documents which the Claimant says contradict the argument that the Claimant resigned. In particular, there was a holiday request made by the Claimant on 9 July 2024 and the email from the Respondent dated 12 July 2024, refers to the Claimant being absent and does not refer to any resignation by the Claimant;
+b. the Respondent has conducted the proceedings unreasonably. The Claimant alleges that the Respondent had a private conversation with the judge at the previous preliminary hearing, and that the Respondent telephoned the Tribunal without the Claimant’s involvement. The Respondent’s Deposit Order Application
+
+11. The Respondent’s deposit order application is made on the basis that:
+
+a. the Claimant has little reasonable prospect of satisfying the Tribunal that her complaint is within time. The application was made before the previous case management hearing. Today the Respondent limits this application to all complaints other than those at paragraph 3.1.2 and 3.1.3 of the List of Issues;
+b. further, in relation to the complaints regarding a failure to pay the Claimant for attending ante-natal appointments, the Respondent says that it has little reasonable prospects of success on its merits. There is evidence in relation to two days (12 and 28 June 2024) that the Claimant did not work those dates, and in relation to 14 June 2024 that she was at work throughout the whole day and did not attend any appointment. The Facts
+
+12. The Claimant was employed by the Respondent as an Operative/Packer from February 2024. The start date is in dispute between the parties. It is also in dispute the date on which the Claimant’s employment came to an end.
+
+13. The Claimant commenced the Early Conciliation process with ACAS on 21 October 2024. The Early Conciliation Certificate was issued on 25 October 2024. The claim was presented on 27 October 2024.
+
+The Law
+
+Time Limits
+
+Time Limits in relation to automatic unfair dismissal, wages and breach of contract complaints.
+
+14. Section 23(2) of ERA sets out time limits in relation to detriment complaints as follows. “(2) …an employment tribunal shall not consider a complaint under this section unless it is presented to the tribunal: (a)in the case of a complaint relating to a deduction by the employer, the date of payment of the wages from which the deduction was made
+
+(4) Where the employment tribunal is satisfied that it was not reasonably practicable for a complaint under this section to be presented before the end of the relevant period of three months, the tribunal may consider the complaint if it is presented within such further period as the tribunal considers reasonable.”
+
+15. Section 111 (2) of ERA sets out time limits in relation to dismissal complaints as follows. “…an employment tribunal shall not consider a complaint under this section unless
+
+it is presented to the tribunal:
+
+(a) before the end of the period of three months beginning with the effective date of termination, or
+(b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.”
+
+16. In relation to the wrongful dismissal allegation, the time limit is set out in the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 at article 7 as follows.
+
+“Time within which proceedings may be brought
+
+7. Subject to article 8B, an employment tribunal shall not entertain a complaint in respect of an employee’s contract claim unless it is presented—
+
+(a) within the period of three months beginning with the effective date of termination of the contract giving rise to the claim, or
+(b) where there is no effective date of termination, within the period of three months beginning with the last day upon which the employee worked in the employment which has terminated, or
+(c) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within whichever of those periods is applicable, within such further period as the tribunal considers reasonable.”
+
+17. The three month time limit can be extended by time spent conciliating through ACAS as set out in section 207B of ERA (with similar wording set out in article 8B of the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994), as follows.
+
+(2) In this section—
+
+(a) Day A is the day on which the complainant or applicant concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+(b) Day B is the day on which the complainant or applicant concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection
+
+(11) of that section) the certificate issued under subsection (4) of that section.
+
+(3) In working out when a time limit set by a relevant provision expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(4) If a time limit set by a relevant provision would (if not extended by this subsection) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(5) Where an employment tribunal has power under this Act to extend a time limit set by a relevant provision, the power is exercisable in relation to the time limit as extended by this section.
+
+18. Section 207B(4) of ERA does not apply where the limitation period has already expired before the Claimant notifies ACAS: Pearce v Bank of America Merrill Lynch and ors EAT 0067/19.
+
+Reasonably Practicable
+
+4. In Northamptonshire County Council v Entwhistle UKEAT/0540/09/ZT Underhill J (President) (as he then was) reviewed the authorities regarding the operation of the “not reasonably practicable” test in the context of a case where the Claimant had access to a skilled adviser as follows. “5. There has been a great deal of authority about the effect of the “not reasonably practicable” test and, in particular, about its application in circumstances where a Claimant has consulted skilled advisers who have failed to give him proper advice about the applicable time limits. The cases to which I have been referred are Dedman v British Building and Engineering Appliances Ltd [1974] ICR 53, Walls Meat Company Ltd v Khan [1979] ICR 52, Riley v Tesco Stores Ltd [1980] ICR 323, Palmer and Saunders v Southend-on-Sea Borough Council [1984] IRLR 119, London International College v Sen [1993] IRLR 333, Marks & Spencer PLC v Williams-Ryan [2008] ICR 193 and Ashcroft v Haberdasher’s Aske’s Boys School [2008] ICR 613. I will not attempt a full analysis of what those cases decide; the points relevant to the argument in the present case can be summarised as follows.
+
+(1) Section 111 (2) (b) should be given “a liberal construction in favour of the employee”. This was first established in Dedman. There have been some changes to the legislation since but this principle has remained: see, most recently, paragraph 20 in the judgment of Lord Phillips MR in Williams-Ryan, at page 1300.
+
+(2) In accordance with that approach it has consistently been held to be not reasonably practicable for an employee to present a claim within the primary time limit if he was, reasonably, in ignorance of that time limit. This was first clearly established in the decision of the Court of Appeal in the Walls case, but see most recently paragraph 21 of Lord Phillips’ judgment in Williams-Ryan and, in particular, the passage from the judgment of Brandon LJ in Walls there quoted, at pages 1300 to 1301.
+
+(3) In Dedman the Court of Appeal appeared to hold categorically that an applicant could not claim to be in reasonable ignorance of the time limit if he had consulted a skilled adviser, even if that adviser had failed to advise him correctly. Lord Denning MR said this at page 61 E-G: “But what is the position if he goes to skilled advisers and they make a mistake? The English court has taken the view that the man must abide by their mistake. There was a case where a man was dismissed and went to his trade association for advice. They acted on his behalf. They calculated the four weeks wrongly and posted the complaint two or three days late. It was held that it was ‘practicable’ for it to have been posted in time. He was not entitled to the benefit of the escape clause: see Hammond v Haigh Castle & Co Ltd [1973] ICR 148. I think that was right. If a man engages skilled advisers to act for him, and they mistake the time limit and present it too late, he is out. His remedy is against them. Summing up, I would suggest that in every case the Tribunal should inquire into the circumstances and ask themselves whether the man or his advisers were at fault in allowing the four weeks to pass by without presenting the complaint. If he was not at fault, nor his advisers, so that he had just cause or excuse for not presenting his complaint with the four weeks then it was not practicable for him to present it within that time. A court has then a discretion to allow it to be presented out of time if it thinks it right to do so, but if he was at fault, or his advisers were at fault in allowing the four weeks to slip by, he must take the consequences. By exercising reasonable diligence the complaint could and should have been presented in time.” Lord Denning made a similar point in his judgment in the Walls case, at page 56 D-E. In his judgment in the same case Brandon LJ, after referring to the fact that a complainant could in principle seek to rely on ignorance or mistake about the time limit, said this, at pages 60-61: “Either state of mind will further not be reasonable if it arises from the fault of the complainant in not making such inquiries as he should reasonably in all the circumstances have made or from the fault of his solicitors or other professional advisers in not giving him such information as they should reasonably in all the circumstances have given him [my emphasis].”
+
+(4) In Riley, Stephenson LJ cautioned against treating Dedman as laying down a rule of law, observing that “every case must depend on its own facts”: see page 329 C-
+
+D. In Sen Sir Thomas Bingham MR went further and questioned the rationale of the rule itself: see paragraph 16, at pages 335-6.
+
+(5) However, in Williams-Ryan Lord Phillips reviewed the relevant authorities in some detail with a view to identifying whether it was a correct proposition of law that, as he put it at paragraph 24 (page 1301): “…if an employee takes advice about his or her rights and is given incorrect or inadequate advice, the employee cannot rely upon that fact to excuse a failure to make a complaint to the Employment Tribunal in due time. The fault on the part of the adviser is attributed to the employee.” He concluded squarely at paragraph 31 (page 1303): “What proposition of law is established by these authorities? The passage I quoted from Lord Denning’s judgment in Dedman was part of the ratio. There the employee had retained a solicitor to act for him and failed to meet the time limit because of the solicitor’s negligence. In such circumstances it is clear that the adviser’s fault will defeat any attempt to argue that it was not reasonably practicable to make a timely complaint to an Employment Tribunal.” The passage from Dedman there referred to is part of the passage which I have set out at (3) above. I think it is clear that Lord Phillips was intending to confirm that what he elsewhere called “the principle in Dedman” is a proposition of law and, to that extent, to decline to endorse Stephenson LJ’s observations in Riley, which he referred to as having been obiter, or Sir Thomas Bingham’s doubts in Sen.
+
+(6) Subject to the Dedman point, the trend of the authorities is to emphasise that the question of reasonable practicability is one of fact for the Tribunal and falls to be decided by close attention to the particular circumstances of the particular case: see, for example, the judgment of May LJ in Palmer at page 385 B-F. I should refer also to the comment by Stephenson LJ in Riley, at page 334 D that: “When judges elaborate or qualify the plain words of a statute by gloss upon gloss, the meaning of the words may be changed, the intention of parliament not carried out but defeated and injustice done instead of justice.” Lord Phillips acknowledged this at paragraph 43 of his judgment in Williams-Ryan (see page 1305).”
+
+Discrimination Complaints
+
+19. Section 123 of the Equality Act 2010 (“EqA”) provides that:
+
+“123 Time limits
+
+(1) Subject to section 140B proceedings on a complaint within section 120 may not be brought after the end of—
+
+(a) the period of 3 months starting with the date of the act to which the complaint relates, or
+(b) such other period as the employment tribunal thinks just and equitable. …
+
+(3) For the purposes of this section—
+
+(a) conduct extending over a period is to be treated as done at the end of the period;
+(b) failure to do something is to be treated as occurring when the person in question decided on it.”
+
+20. Section 140B EqA permits an extension of time where ACAS early conciliation is undertaken.
+
+Just and Equitable
+
+21. The Court of Appeal in Abertawe Bro Morgannwg University Local Health Board v Morgan [2018] EWCA Civ 640 summarised the position at paragraphs 18 and 19: “[18] … It is plain from the language used (“such other period as the employment tribunal thinks just and equitable”) that Parliament has chosen to give the employment tribunal the widest possible discretion. Unlike section 33 of the Limitation Act 1980, section 123(1) of the Equality Act does not specify any list of factors to which the tribunal is instructed to have regard, and it would be wrong in the circumstances to put a gloss on the words of the provision or to interpret it as if it contained such a list … [19] that said, factors which are almost always relevant to consider when exercising any discretion whether to extend time are: (a) the length of, and reasons for, the delay and (b) whether the delay has prejudiced the respondent (for example, by preventing or inhibiting it from investigating the claim while matters were fresh).”
+
+22. Legatt LJ went on to say [25] “As discussed above, the discretion given by section 123(1) of the Equality Act 2010 to the employment tribunal to decide what it “thinks just and equitable” is clearly intended to be broad and unfettered. There is no justification for reading into the statutory language any requirement that the tribunal must be satisfied that there was a good reason for the delay, let alone that time cannot be extended in the absence of an explanation of the delay from the claimant. The most that can be said is that whether there is any explanation or apparent reason for the delay and the nature of any such reason are relevant matters to which the tribunal ought to have regard.”
+
+Strike Out
+
+23. Rule 38 of the Employment Tribunal Rules of Procedure 2024 sets out the following in relation to strike out. "38.— (1) The Tribunal may, on its own initiative or on the application of a party, strike out all or part of a claim, response or reply on any of the following grounds—
+
+(a) that it is scandalous or vexatious or has no reasonable prospect of success;
+(b) that the manner in which the proceedings have been conducted by or on behalf of the claimant or the respondent (as the case may be) has been scandalous, unreasonable or vexatious;”
+
+24. As set out in Malik v Birmingham City Council UKEAT/0027/19: “30. It is well-established that striking out a claim of discrimination is considered to be a Draconian step which is only to be taken in the clearest of cases: see Anyanwu & Another v South Bank University and South Bank Student Union [2001] ICR 391. The applicable principles were summarised more recently by the Court of Appeal in the case of Mechkarov v Citibank N.A [2016] ICR 1121, which is referred to in one of the cases before me, HMRC v Mabaso UKEAT/0143/17.
+
+31. In Mechkarov, it was said that the proper approach to be taken in a strike out application in a discrimination case is that:
+
+(1) only in the clearest case should a discrimination claim be struck out;
+
+(2) where there are core issues of fact that turn to any extent on oral evidence, they should not be decided without hearing oral evidence;
+
+(3) the Claimant’s case must ordinarily be taken at its highest;
+
+(4) if the Claimant’s case is “conclusively disproved by” or is “totally and inexplicably inconsistent” with undisputed contemporaneous documents, it may be struck out; and
+
+(5) a Tribunal should not conduct an impromptu mini trial of oral evidence to resolve core disputed facts.
+
+32. Of course, that is not to say that these cases mean that there is an absolute bar on the striking out of such claims. In Community Law Clinics Solicitors Ltd & Ors v Methuen UKEAT/0024/11, it was stated that in appropriate cases, claims should be struck out and that “the time and resources of the ET’s ought not be taken up by having to hear evidence in cases that are bound to fail.”
+
+25. In Cox v Adecco Group UK & Ireland [2021] ICR 1307, EAT HHJ Tayler set out the following summary of principles established by the authorities: “(1) No-one gains by truly hopeless cases being pursued to a hearing;
+
+(2) Strike out is not prohibited in discrimination or whistleblowing cases; but especial care must be taken in such cases as it is very rarely appropriate;
+
+(3) If the question of whether a claim has reasonable prospect of success turns on factual issues that are disputed, it is highly unlikely that strike out will be appropriate;
+
+(4) The Claimant’s case must ordinarily be taken at its highest;
+
+(5) It is necessary to consider, in reasonable detail, what the claims and issues are. Put bluntly, you can’t decide whether a claim has reasonable prospects of success if you don’t know what it is;
+
+(6) This does not necessarily require the agreement of a formal list of issues, although that may assist greatly, but does require a fair assessment of the claims and issues on the basis of the pleadings and any other documents in which the claimant seeks to set out the claim;
+
+(7) In the case of a litigant in person, the claim should not be ascertained only by requiring the claimant to explain it while under the stresses of a hearing; reasonable care must be taken to read the pleadings (including additional information) and any key documents in which the claimant sets out the case. When pushed by a judge to explain the claim, a litigant in person may become like a rabbit in the headlights and fail to explain the case they have set out in writing;
+
+(8) Respondents, particularly if legally represented, in accordance with their duties to assist the tribunal to comply with the overriding objective and not to take procedural advantage of litigants in person, should assist the tribunal to identify the documents in which the claim is set out, even if it may not be explicitly pleaded in a manner that would be expected of a lawyer;
+
+(9) If the claim would have reasonable prospects of success had it been properly pleaded, consideration should be given to the possibility of an amendment, subject to the usual test of balancing the justice of permitting or refusing the amendment, taking account of the relevant circumstances.”
+
+26. Once there is a finding that a claim has no reasonable prospect of success, the employment judge should go on to consider whether to exercise their discretion as to whether the claim should be struck out: Hasan v Tesco Stores Ltd UKEAT/0098/16.
+
+Deposit Orders
+
+27. Rule 40 of the Employment Tribunal Rules of Procedure 2024 sets out the following in relation to deposit orders. “40.—(1) Where at a preliminary hearing the Tribunal considers that any specific allegation or argument in a claim, response or reply has little reasonable prospect of success, it may make an order requiring a party (“the depositor”) to pay a deposit not exceeding £1,000 as a condition of continuing to advance that allegation or argument (“a deposit order”).
+
+(2) The Tribunal must make reasonable enquiries into the depositor’s ability to pay the deposit and have regard to any such information when deciding the amount of the deposit.
+
+(3) The Tribunal’s reasons for making the deposit order must be provided with the order and the depositor must be notified about the potential consequences of the order.
+
+(4) If the depositor fails to pay the deposit by the date specified by the deposit order, the Tribunal must strike out the specific allegation or argument to which the deposit order relates.”
+
+28. The guidance set out in Adecco v Cox in relation to the process of analysing the claim also applies in relation to assessing the prospects when considering whether to make a deposit order: Amber v West Yorkshire Fire and Rescue Service 2024 EAT 146.
+
+29. When deciding whether to make a deposit order under Rule 40, disputes over matters of fact can be taken into consideration, including a provisional assessment of credibility (Jansen Van Rensburg v Royal Borough of Kingston-upon-Thames and ors EAT 0096/07.). The Tribunal must “have a proper basis for doubting the likelihood of the party being able to establish the facts essential to the claim or response” [27].
+
+30. In the case of Sami v Nanoavionics UK Ltd and ors 2022 IRLR 656, EAT, Michael Ford QC, Deputy Judge of the High Court gave the following guidance. “Nonetheless, the practical effect of a deposit order on the right of access to justice
+
+- probably due more to the costs warning if the case is pursued than to the deposit sum itself - means that there must be a proper basis for making such an order. As it was put by Simler P (as she then was) in H v Ishmail [2017] IRLR 228 at [12] in comparing deposit orders with strike outs: “The test, therefore, is less rigorous.... but nevertheless there must be a proper basis for doubting the likelihood of a party being able to establish facts essential to the claim or defence. The fact that the tribunal is required to give reasons for reaching such a conclusion serves to emphasise the fact that there must be a proper basis.” Simler P went on to state that, in light of the purpose of a deposit order to save cost, time and anxiety, the assessment of whether a claim has little reasonable prospects must necessarily be summary, adding that if “there is a core factual conflict it should properly be resolved at a full merits hearing where evidence is heard and tested” [13]. Those concluding words are guidance and should not be understood as replacing the wording of rule 39, nor as preventing a tribunal, in an appropriate case, from deciding that a factual allegation has little reasonable prospects of success. But they underline the need for caution before making a deposit order where core facts are in dispute, and the important safeguard of sufficient reasons before deciding a claim or allegation has little reasonable prospect of success.” [26]
+
+31. Like with a strike out, the Tribunal must go on to consider whether to exercise its discretion as per Hemdan v Ishmail [2017] IRLR 228, EAT: “Once a tribunal concludes that a claim or allegation has little reasonable prospect of success, the making of a deposit order is a matter of discretion and does not follow automatically. It is a power to be exercised in accordance with the overriding objective, having regard to all of the circumstances of the particular case. That means that regard should be had for example, to the need for case management and for parties to focus on the real issues in the case. The extent to which costs are likely to be saved, and the case is likely to be allocated a fair share of limited tribunal resources, are also relevant factors. It may also be relevant in a particular case to consider the importance of the case in the context of the wider public interest.” [15]
+
+Discussion and Conclusions
+
+Strike out – no reasonable prospect of success
+
+32. Strike out is a draconian step: I would be preventing the Respondent from defending the claim. A central part of the Claimant’s strike out application is to point out inconsistencies in the case which are said to undermine the Respondent’s main argument: that the Claimant resigned.
+
+33. Even if the Claimant is correct in saying that she did not resign, she does not have sufficient service for an “ordinary” unfair dismissal complaint and therefore her allegation that the dismissal was because of a reason connected with her pregnancy is key to her complaints. This requires more than being treated unfairly, there must also be discriminatory motivation (whether conscious or unconscious), and in relation to the automatically unfair dismissal the reason for her dismissal must be solely or mainly her pregnancy. I note that the Claimant’s representative told me in submissions that the Claimant’s father-in-law was treated in the same way: he was also dismissed in the same material circumstances. I was told he did not bring any claim because he did not have the requisite service for unfair dismissal. This would be an evidential comparator indicating the lack of a discriminatory “reason why” underlying the decision to dismiss the Claimant and/or it being principally because of something connected with pregnancy.
+
+34. The entire basis of the Claimant’s strike out application in relation to the “no reasonable prospect of success complaint” relies on disputes of facts between the parties. I cannot simply accept that what the Claimant says is correct here, I must take the Respondent’s case at its highest. The Respondent’s position is that it has witnesses who will give evidence that the Claimant did resign, notwithstanding that the documentation has been lost.
+
+35. I consider that the matters relied on by the Claimant are matters which must be determined by a tribunal having heard the evidence of both parties. Discrimination cases are complex. I cannot make a finding that the Respondent has no reasonable prospect of establishing the facts they put forward. This will depend on witness evidence and cross examination as well as the documents before the tribunal.
+
+Strike out – unreasonable behaviour
+
+36. The Claimant alleges that at the last hearing the Respondent and the judge were speaking to one another without the Claimant present. This is based on an email, copied to the Claimant, attaching documents requested by the judge on the morning of the previous hearing. Ms Hornblower was present at the previous hearing and is an officer of the court. She tells me that the judge did not speak to the Respondent directly, but the clerk had communicated to the Respondent before the hearing that the judge had asked the Respondent to send a document to the clerk or to Bristol as the judge was not able to access it. The Respondent sent an email to the clerk/Bristol attaching the document, copying the Claimant/her representative. This was raised by the Claimant at the previous hearing, and the judge gave a similar explanation and asked the Claimant to move on.
+
+37. The second limb of this is that in relation to re-listing this preliminary hearing, the Tribunal had sent the parties an email asking for availability between February 2026 and November 2026. The Respondent had sent numerous emails querying this because the final hearing was listed to take place in March 2026, so the Respondent asked the Tribunal to confirm whether this was a typographical error and was intended to refer to dates between November 2025 and February 2026. Eventually the Respondent’s solicitors telephoned the Tribunal and were told that the correct date range was November 2025 and February 2026. They then sent an email to the Tribunal confirming the telephone discussion and including the relevant dates of availability. The Claimant was copied to this email. The Claimant’s position is that it was unreasonable behaviour to telephone the Tribunal without the Claimant being joined to the call.
+
+38. I do not make a finding of unreasonable behaviour:
+
+a. speaking to the judge via the usher to get a document is not unreasonable. This was initiated by the judge. There is nothing inappropriate about asking for assistance with documents; and
+b. calling the Tribunal is not unreasonable conduct. There is no bar against either party seeking clarification in relation to administrative matters in a telephone call without the other party being present. The information was quickly passed on to the Claimant by email.
+
+39. I dismiss the application to strike out under this heading as well.
+
+Deposit Order
+
+Time Limits – reasonably practicable test
+
+40. The reasonably practicable test is relevant to the complaints of automatic unfair dismissal, wrongful dismissal/notice pay, and unlawful deduction from wages.
+
+41. The relevant dates these acts took place are as follows:
+
+a. there is a dispute between the parties about date of dismissal, the Respondent says that the employment ended on 8 July 2024 and the Claimant’s case is that it did not end until September 2024;
+b. the unlawful deductions relate to dates between 12 and 28 June 2024 (with the latest payment date being on 5 July 2024).
+
+42. If the Respondent’s position regarding dismissal is upheld, all of these complaints are out of time. The primary three month time limit expired on 7 October 2024. The Claimant contacted ACAS on 21 October 2024. Therefore, no ACAS extension would apply. The Claim was presented on 27 October 2024, around three weeks late.
+
+43. On the Claimant’s case her dismissal was in September 2024, and the complaint is therefore in time.
+
+44. The Respondent’s deposit order application requires me to treat the dismissal date as being out of time. This is very much a disputed fact as between the parties and will depend on the assessment of the witness and documentary evidence. I cannot determine without having heard the full evidence, that there is little reasonable prospect of showing that the dismissal date was in fact later, as alleged by the Claimant.
+
+45. The Claimant has stated that she is illiterate and unable to access the internet without assistance. She would not be able to submit notification to ACAS or file a claim on her own. She does not have anyone else who could help her, her family members have similar difficulties although not as significant. Ms Bates is a former colleague who worked at the Respondent. She is providing significant support to the Claimant. Ms Bates could not help before she did start helping the Claimant because she was also an employee of the Respondent who feared for her own job if she helped the Claimant to bring a claim against the Respondent (the former employer of both the Claimant and Ms Bates).
+
+46. It is hard to meet the test of showing that it was not reasonably practicable to submit a claim within three months. This may be one of the exceptional cases where that hurdle is met. On its face, these could be matters which would mean that a judge would find that it was not reasonably practicable to present the claim within the primary time limit. It is possible that submitting it within three weeks of the deadline could be considered a further “reasonable period”.
+
+47. On this point, again I consider that, without testing the evidence, I cannot say that there would be little reasonable prospect of establishing that it was in fact not reasonably practicable.
+
+48. For those reasons I do not make a deposit order on this basis.
+
+Time Limits – Equality Act 2010 complaints
+
+49. The acts relied on as discrimination are between June 2024 and July/September 2024 depending on whose case is successful on that point.
+
+50. The date of the acts of harassment range between June 2024 and September 2024.
+
+51. I consider it is arguable that there was conduct extending over a period, given that there are two pleaded acts of harassment which are in time, even if the Respondent is successful in its arguments regarding the date of dismissal. These acts of harassment, which are distinct from the dismissal, are said to have taken place in September 2024. If there is conduct extending over a period, the dismissal may not be out of time even if it took place in July 2024.
+
+52. The Respondent did not made submissions about real practical prejudice caused by the delay. If the Tribunal concludes that there is no course of conduct, it may nevertheless consider that it is just and equitable to extend time for the reasons set out above regarding the reasonably practicable test.
+
+53. On that basis, I cannot conclude that there is little reasonable prospect of the Tribunal having jurisdiction in relation to the discrimination complaints.
+
+54. No deposit order is made in relation to this part of the Respondent’s application.
+
+Factual argument
+
+55. The Claimant has alleged that she was not paid for attending ante natal appointments on 12, 14 and 28 June 2024. This has been pleaded under three heads of claim: as an allegation of pregnancy and maternity discrimination, harassment related to sex and as an unlawful deduction from wages.
+
+56. The Respondent’s position is that the clocking in records at pages 235 and 237 show unequivocally that two of the dates upon which the Claimant relies, she was not working (12 and 28 June 2024), and that on the third she clocked in and was paid for the entire day (14 June 2024). The payment being shown on the payslip at page 199.
+
+57. The Claimant’s position is that these can be manually amended and the clocking in/out records are fraudulent.
+
+58. In light of the document showing clocking in and out times, taken together with matching payslips showing the same hours, I consider that there is little reasonable prospect that the Claimant will establish that she was not paid for maternity appointments on these dates. Whilst I acknowledge it is not for me to conduct a mini trial, the clocking in records and matching payslips do appear conclusive, and there is nothing before me which would support the allegation of fraudulently amending these. I do make a deposit order in relation to this allegation, which is pleaded as discrimination, harassment and unlawful deduction from wages.
+
+59. Although the Claimant was ordered to provide it, there was no evidence of her financial means. She told me that she does not work and has split up from her husband. She receives £1000 a month in benefits. Her rent is £800 and she manages to meet her other expenses each month from what she has left. She does not receive housing related universal credit.
+
+60. The Respondent did not make submissions in relation to the amount of the deposit order.
+
+61. Given the Claimant’s extremely limited means, I set the deposit amount at £1 per allegation. Since these facts are pleaded under three different heads of claim, if the Claimant wishes to pursue them under all three heads, she must pay £3.
+
+62. I explained to the Claimant that there is no obligation to pay a deposit. Claimant has a choice of whether or not to make the deposit payments. If she does not do so, those parts of her claim will not proceed and will be struck out. The Claimant may choose to pay one or more of the deposits and not others.
+
+63. I also explained that if the Claimant does decide to proceed with the complaints in relation to which the deposit order was made, she also has a greater risk of being ordered to pay the Respondent’s legal costs if she is unsuccessful in these complaints, because she is now on notice that these complaints have little reasonable prospect of success.

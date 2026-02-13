@@ -1,0 +1,467 @@
+JUDGMENT
+
+The unanimous judgment of the Tribunal is as follows:
+
+1. The complaint of unfavourable treatment because of something arising in consequence of disability, pursuant to section 15 of the Equality Act 2010, is not well-founded and is dismissed.
+
+2. The complaint of failure to make reasonable adjustments for disability pursuant to sections 20 and 21 of the Equality Act 2010 is not well-founded and is dismissed.
+
+REASONS
+
+Background
+
+1. By way of a Claim Form presented on 30 June 2024, following ACAS Early Conciliation between 28 April 2024 and 9 June 2024, the claimant presented claims of disability discrimination and unfair dismissal arising out of the respondent’s withdrawal, on 23 April 2024, of a job offer made to the claimant. In its Response, the respondent denied the claims.
+
+2. There was a Preliminary Hearing on 2 October 2024 in front of Employment Judge Gardiner. The claimant did not have two years’ service so as to bring a claim for ordinary unfair dismissal but argued his dismissal was automatically unfair. Employment Judge Gardiner decided that there was no automatic unfair dismissal claim within the Claim Form and refused permission to add such a claim by way of amendment. The disability discrimination claim was discussed and a List of Issues set out.
+
+3. Thereafter, the claimant lodged a second Claim Form. There was a further Preliminary Hearing before Employment Judge Shore on 3 March 2025. The claimant withdrew his second claim, which covered the same facts as the first, but maintained he had a claim of automatic unfair dismissal. Employment Judge Shore disagreed. The claimant applied to add a claim of wrongful dismissal and that application was rejected. The List of Issues was modified. Conduct of the Hearing
+
+4. Employment Judge Shore had suggested, in Case Management Orders on 18 March 2024, that there was a need for simultaneous transcription of the hearing and suggested it proceed on Microsoft Teams which has such a facility. The need for this adjustment was said to be related to the fact the claimant had multiple sclerosis (“MS”) which affected his eyesight.
+
+5. Unfortunately, the final hearing had been listed to take place on CVP and HMCTS had not made provision for any live transcription. The Tribunal made enquiries about such provision but it was not clear initially it could be set up. As such, the initial discussion between the parties took place on CVP, which the claimant was content to do and able to participate in.
+
+6. When we discussed the need for transcription, the claimant indicated it would assist him to understand questions, which he found easier in written form, and because he had issues with his memory, so may forget questions put orally. He also pointed out that English is not his first language. These appeared to be different reasons to those Employment Judge Shore had understood. During the course of the morning, we were told a hearing on Teams using live transcription could be set up and we decided, to assist the claimant as far as we could to overcome any difficulties he may have, we would use it. After we took lunch on the first day, and before any evidence was given, the hearing transferred to Teams.
+
+7. During the initial discussion, the claimant raised an issue with disclosure and the bundle. Disclosure had taken place March 2025 and pursuant to Employment Judge Gardiner’s Orders, the bundle was supposed to be agreed by 26 March 2025 and the respondent was to send the claimant a hard copy of it.
+
+8. The claimant told us that the respondent had disclosed documents to him on 3 March 2025 by sharing a link to an electronic folder but that he had been “excluded” from using it. He later told us that he could not access the shared folder but did not wish to reveal why. The final hearing bundle had been sent to him as a hard copy as required, but it was returned. The claimant said it was not accessible. The bundle was then sent as attachments to emails. The claimant complained that the respondent had sent the bundle to him on 3 April 2025 in 28 separate emails, each with an attachment of less than 5MB, which was overwhelming. He did not make an application to the tribunal in relation to the bundle at that time.
+
+9. We established that despite the fact it was provided in 28 separate files, he had been through the bundle by 6 May. He was unhappy with the order of the documents. He suggested the respondent had deliberately failed to put the documents in chronological order to make events harder to understand. The respondent’s solicitor informed us she had used software to automatically break down the bundle. It was not done deliberately to cause him difficulty. We accept that explanation as likely.
+
+10. We reassured the claimant that he could refer to us any documents in the bundle he thought to be relevant, it was not unusual for documents not to appear chronologically and we would be able to piece together the chronology.
+
+11. The claimant also complained that he had not received the 22-page witness statement bundle, though he had seen the witness statements that made it up as separate documents.
+
+12. It was agreed that the respondent would send the bundle to the claimant again by email over a smaller number of emails, together with the witness statement bundle. It did so and the claimant said he would combine it into one PDF for use at the hearing but would need about 30 minutes to do so. He told us he thought he had been disadvantaged as a result of the respondent’s solicitor’s conduct and was not on an equal footing. We asked him if he needed further time before starting the evidence. If so, we could delay the start of the hearing or if he was not comfortable with that, he could apply for a postponement and we would consider it.
+
+13. The clamant did not want the hearing to be postponed as he had taken time off work to attend. However, he wanted us to take account of the issues with the bundle, which we did. We permitted the claimant as much time as he needed to find documents in the bundle. We also admitted the separate 231 page bundle he had prepared and served the day before the hearing and invited him to take us to any relevant pages in it if he so wished. The respondent’s counsel had read this bundle and did not issue with it being treated as a supplemental bundle.
+
+14. We took approximately 2 hours to read the witness statements and documents we were referred to. That gave the claimant time to combine the bundle into one PDF. After that, the claimant said he was ready to start his evidence at about 3pm on day 1 and did not need to make any further application.
+
+15. We set this out in some detail because the claimant suggested that these issues were relevant to liability, and because he said he continued to feel disadvantaged. He appeared to be arguing we should draw inferences from the way the respondent, or its solicitors, had conducted themselves in the preparation for the hearing. We deal with that further below.
+
+16. During the initial discussion, the claimant also invited us to depart from Employment Judge Shore’s Case Management Order pertaining to unfair dismissal, which he has appealed against. We explained that we could not do so and so the case was to proceed without such a claim.
+
+17. Employment Judge Shore had noted the claimant wished to have frequent breaks. The claimant initially suggested he would like a break of 10-15 minutes every 10-15 minutes. We were concerned that would be very disruptive to the hearing and would likely mean the hearing would not finish in the allotted time. There was no medical evidence supporting such frequent breaks nor were breaks at that level of frequency identified in the previous case management orders. After discussion, we suggested scheduling an agreed break every hour but that if the claimant wanted to have a break before the scheduled break, he should just ask for one and we would take one. He was content to try that approach and in practice, this did not prove to be an issue as claimant did not generally seek more frequent breaks.
+
+18. During the claimant’s cross examination on the morning of the 2nd day at about 11:55am, he said he did not feel like he could continue because he felt burnt out. We decided to have a break, initially for 20 minutes, and to see how the claimant felt thereafter. On his return, he did not feel able to continue. He felt the questions he was having to answer were “excessive” and he was struggling to explain himself. We suggested having an early and long lunch to see how he felt thereafter, but he felt to do so would put him under further pressure. He said he was not feeling well, had a headache and wanted to adjourn and see how he was the following day. Having heard from the respondent, we granted the application to adjourn at around 12:30pm and agreed to hear the rest of the claimant’s evidence at the start of day 3.
+
+19. The next day, the claimant said he was ready to proceed but felt like he might need a break every 10-15 minutes. After further discussion, we agreed that we would schedule a break every 30 minutes but that if he wished to have a break at any time before the 30 minutes elapsed, he should ask for one and we would have one. The claimant agreed and was able to participate effectively, declining a break on occasion when he was in the flow of cross examination.
+
+20. The claimant finished giving evidence at around 12:15 on day 3. The respondent’s first witness, Ms Beckwith, was then sworn in. She confirmed there were no amendments to her statement. Before the claimant started cross-examining, he said that he had not appreciated cross examination would be so detailed and wanted to highlight that he hadn’t had enough time to prepare because of the issues with the bundle. At that point, he made an application to postpone so he could have more time to prepare. We refused that application, as is recorded in a Case Management Order sent out after the first 3 hearing days, for reasons given orally at the time. The claimant had the rest of the day to cross-examine Ms Beckwith, time he utilised, but we did not have time to hear from Mr Coates. The case went part-heard.
+
+21. We discussed breaks again on the morning of the 4th day. The claimant said that because he was cross examining, not answering questions, he felt breaks were not needed as frequently and that scheduled hourly breaks, with the option to ask for more frequent breaks if he felt he needed one, would be sufficient and that is how the hearing proceeded. It did so effectively and the claimant did not request more frequent breaks. We heard from Mr Coates and then heard submissions from both parties.
+
+22. The claimant said he would prefer to receive the decision in writing because it would assist him in understanding any decision. We decided to use the 5th day entirely for deliberation and reserved our decision.
+
+Evidence
+
+23. The Tribunal heard evidence from
+
+a. The Claimant;
+b. Emma Beckwith, Service Manager for Acute and Medicine and then Service Manager in Elderly Care & Medical Staffing;
+c. Jamie Coates, Head of People in Resourcing and Retention.
+
+24. Both of the respondent’s witnesses had assistance drafting their witness statements but their statements were their own and there was no evidence there was anything improper about the assistance they received.
+
+25. The claimant sought to cast doubt on the honesty of Ms Beckwith and Mr Coates. His case, in essence, was that they were not telling the truth in relation to the reason for the withdrawal of his job offer. We are satisfied having heard their evidence and reviewed the documents that all of the witnesses were doing their best to recollect events honestly and gave their evidence in a straightforward manner.
+
+26. We also had regard to documents in the 593 page bundle the respondent had provided and the 231 page bundle the claimant provided, where we were taken to those documents.
+
+The Issues
+
+27. An amended draft List of Issues was prepared by the respondent after the last Preliminary Hearing in front of Employment Judge Shore to take account of his decision. Unfortunately, it omitted the reasonable adjustments claim and so Ms Sharp sent us an updated version which did include that claim. As such, the issues we are required to determine on liability are set out below. The claimant did not agree with the List because he did not agree with Employment Judge Shore’s decision.
+
+28. There are two matters set out as the alleged something arising in the section 15 Equality Act claim below. Both were identified in the List of Issues we were provided with at the start of the hearing. In closing, the Claimant’s case was that the something arising was his request for a reasonable adjustment, namely being collected from the train station on 31 January 2024, not a perception of mobility issues as was recorded by Employment Judge Gardiner. Given both appeared in the List we were sent initially, we deal with both.
+
+29. As such, the issues are:
+
+1. Discrimination arising from disability (section 15 Equality Act
+
+2010 (“EA”))
+
+1.1 Did the Respondent know, or could it reasonably have been expected to know that the Claimant was disabled? If so, from what date? The Respondent admits the Claimant was disabled by reason of reason of Multiple Sclerosis (MS) but denies knowledge of the Claimant's disability.
+1.2 Did the Respondent treat the Claimant unfavourably by:
+1.2.1 Withdrawing the offer of employment on 23 April 2024?
+1.3 Did the following arise in consequence of the Claimant's disability:
+1.3.1 The claimant was perceived as having mobility difficulties;
+1.3.2 The Claimant requesting, as a reasonable adjustment, the Respondent to collect him from a train station to attend an in-person ID check on 31 January 2024?
+1.4 If so, was the unfavourable treatment because of that something arising?
+1.5 Was the treatment a proportionate means of achieving a legitimate aim? The respondent says that its aim was:
+1.5.1 Delivering its healthcare services to patients in a safe, professional and timely manner, without disruption.
+1.6 Was the treatment an appropriate and reasonably necessary way to achieve those aims?
+1.7 Could something less discriminatory have been done instead?
+1.8 How should the needs of the claimant and respondent be balanced?
+
+2. Failure to make reasonable adjustments: s20/21 EA
+
+2.1 Did the respondent apply a provision, criterion or practice that those attending the recruitment office in Harlow, to provide documents required as part of pre-employment, were expected to make their own way to the recruitment office.
+2.2 If so, did the PCP place the claimant at a substantial disadvantage compared to a person without the claimant’s disability? The claimant relies on the substantial disadvantage of mobility difficulties preventing him from walking from Harlow station to the recruitment office.
+2.3 Did the respondent know or could it have been reasonably expected to have known that the claimant was likely to be placed at a substantial disadvantage as a result of the alleged PCP?
+2.4 What adjustments does the claimant state should have been implemented by the respondent to avoid the substantial disadvantage? The claimant says he should have been provided with transport from Harlow station to the recruitment office.
+2.5 Did the respondent fail to take those steps?
+2.6 Was it reasonable for the respondent to have to take those steps? Findings of Fact
+
+30. The following findings of fact are made on the balance of probabilities. The Tribunal has not made findings on every aspect of the evidence presented, which it has carefully considered where relevant, but the facts it has been necessary to resolve to make a determination of the issues. The Claimant’s Disability
+
+31. The claimant was diagnosed with MS in 2016. The respondent accepts he was at all material times a disabled person within the meaning of the EA. However, the respondent denies it knew or ought reasonably to have known the claimant was disabled by reason of MS at the material time.
+
+32. As a result of his disability, the claimant has mobility difficulties and fatigues more easily when walking for long distances.
+
+Before the Claimant’s Application for Employment
+
+33. In June 2022, the claimant, whilst employed elsewhere, booked a 1 day Advance Life Support (ALS) course provided by the respondent’s Medical Education department through the respondent’s website.
+
+34. He was not happy with the course which he failed. He lodged a formal complaint on 21 June 2022 which included a complaint that when he tried to come closer to the monitor of the defibrillator to read the monitor, he was shouted at and asked to remain in place. He wrote “it sounded as if the instructor was not trained enough to work with disabled candidates or to understand that not every disability is visible.” The correspondence did not mention the fact he had MS.
+
+35. In the claimant’s witness statement, he said he had disclosed his disability to the respondent in June 2022 but when asked about this in cross examination, he said he had disclosed his disability to all prospective employers by his published work in the respiratory field (see further below). He did not specifically aver that he declared his disability when applying for the ALS course or when complaining about it thereafter.
+
+36. He lodged a further complaint on 23 September 2022 in which he referred to a lack of guidelines “for making reasonable adjustments for disabled candidates under Equality Act 2010.” He did not however identify what his disability was nor what adjustments he required.
+
+37. We conclude he did not inform the respondent of his MS in advance of, or after, the course on 18 June 2022.
+
+38. In any event, the information that was provided by the claimant for the purposes of applying for and complaining about the ALS course was not information held by the respondent’s HR department or known to those who later dealt with his application for employment. The claimant suggested Ms Beckwith had searched for this information during the recruitment process. We accept her denial of that suggestion, for which there was no evidence.
+
+Application for Employment
+
+39. The claimant applied for employment with the respondent on 29 August 2023 as a Specialist Registrar in Respiratory. The application form is 19 pages long covering a variety of matters. On page 11 it referred to the claimant’s PhD qualification next to which there was a hyperlink to his thesis.
+
+40. Within the thesis, in the “Acknowledgement” section he referenced the fact he had an “unannounced lifelong visit” from “multiple sclerosis”. He did not highlight this section in the application form, ask anyone to read it and it was not referred in the interview. Rather, his evidence was that he expected the respondent to read his thesis in detail. We find it was not read by those on the interview panel. It was not their usual practice to do so, nor was it necessary to do so for the respondent to be satisfied that he had the PhD he claimed, nor to be satisfied that he was qualified to do the job.
+
+41. At the end of the application form was an Equal Opportunities Monitoring Form (“the Monitoring Form”). The respondent detached this from the application form so that those interviewing the claimant would not see it. The form states it is only to be used for monitoring purposes in an anonymised format. It contained a section on disability. One of the questions was about disability. The claimant did not wish to disclose whether or not he had a disability and did not answer that question. However, he answered yes to the question “if you have a disability, do you wish to be considered under the guaranteed interview scheme if you meet the minimum criteria as specified in the personal specification?”. Mr Coates told us, and we accept, that question was only used for the purposes of shortlisting to decide who should be offered an interview and it was not thereafter referred to.
+
+42. The monitoring form specified that reasonable adjustments would be available should the claimant be invited to interview. The claimant was invited for interview. He did not identify any need for adjustments before the interview, nor did he mention any disability. Of course, he was not required to.
+
+43. The claimant was interviewed online by Emma Beckwith and Dr Ugo Ekeowa on 27 October 2023 via MS Teams. He was asked if he needed assistance during the interview and confirmed he did not. He did not mention the fact he had MS or any need for adjustments in the interview and his disability would not have been apparent to those interviewing him. He confirmed he was required to give 3 months’ notice and would be available from around 15 January 2024.
+
+44. The role the claimant was applying for was on the Government’s Shortage Occupation List.
+
+Conditional Offer of Employment
+
+45. The claimant’s application was successful and he received on 30 October 2023 a conditional offer of employment on a 12 month fixed term contract as a Specialty Registrar in Respiratory. The offer was “subject to successful completion of our pre-employment checks.” Information was provided about the required checks. The claimant accepted the offer the same day.
+
+46. The formal offer letter asked the claimant to arrange an identity check appointment, part of the pre-employment checks, within five days.
+
+Pre-Employment Checks
+
+47. The claimant successfully progressed some aspects of the pre-employment checks including references, an occupational health assessment and he completed a DBS application form. The Occupational Health assessment was completed in November 2023. The respondent’s recruitment team were told it had been a success and the claimant was “fit with no restrictions”. The claimant’s MS was not mentioned.
+
+48. When it was put to the claimant that it appeared he had not informed the respondent’s occupational health department of his MS, he said he “put it on the application”. By this, he was referencing the mention of his thesis and the request for a guaranteed interview if he was disabled on the monitoring form. He later said he could not remember telling occupational health about his MS and made the point that with MS, there can be periods of remission with no or limited symptoms. This all suggested to us there was no specific disclosure to Occupational Health of his MS and we conclude he did not mention it. The Occupational Health physician is most unlikely to have read his thesis or the monitoring form
+
+49. There were problems in completing an ID check, to verify his identity and address. A virtual ID check failed, seemingly on the basis that the claimant’s passport could not be validated “due to a Chip Failure between the document’s MRZ and the scanned chip”. This did not identify there was no chip in the claimant’s passport as the claimant averred during the hearing. The address check also failed. On 15 November 2023, the claimant was sent an email from Freya Cannon, a People Hub Advisor, reminding him he had been invited to a face-to-face ID check and asking him to reply so his application could be proceeded with and a start date booked.
+
+50. The claimant responded the same day confirming an ID check had been carried out virtually. He received a reply, also the same day, from Ms Cannon stating that the respondent was aware of the virtual check but it had failed, so the claimant was required to book a face-to-face appointment. He asked to be resent the booking link as he was unable to find it. It was sent that day.
+
+51. It is not clear from the evidence we heard why an in-person check was not then booked by the claimant. However, it was not and it is clear no satisfactory check took place.
+
+52. On 11 December 2023 Rebecca Camplin, Medical Recruitment Team Leader, emailed the claimant inviting him to call to book an appointment to have his last two employment checks signed off. He was also asked if he needed a Certificate of Sponsorship. He replied on 12 December saying he would call the following day and confirming he did need a Certificate of Sponsorship.
+
+53. There was no evidence before us that he did call the next day. In any event, the face-to-face appointment was not booked or confirmed at that time.
+
+54. There was then a delay until 18 January 2024. By this stage, it had been anticipated when the offer was made that the claimant would have started, or be about to do so. On 18 January, Lucy Spivey, Recruitment Support, emailed the respondent’s People Hub noting the claimant had still not satisfactorily completed his ID check and right to work check.
+
+55. The next day, the claimant was asked to complete a Certificate of Sponsorship checklist and send it back as soon as possible.
+
+56. A follow-up email was sent on 25 January asking if the claimant had completed the checklist because the respondent was keen to have a Certificate of Sponsorship issued and asking if he was no longer interested in the post could he let the respondent know.
+
+57. On the same day, in a Service Review Meeting including respiratory team consultants, registrars and nursing staff, Emma Beckwith reported that there had been issues which were causing delays with the claimant’s recruitment. This was her first chance to explain the delays and she wanted to make sure the same recruitment demands existed. There was a discussion about not proceeding with the claimant’s recruitment and instead using the budget to pay for a different role, such as a pharmacist, senior house doctor or a permanent registrar, given the claimant was only going to be on a 12 month fixed term contract. There was concern that when the claimant’s fixed term was due to expire, the same recruitment issues may reappear. However, no decision was taken to withdraw the offer at that stage. Nevertheless, it was being contemplated before the events of 31 January. 31 January 2024
+
+58. On 31 January 2024, following a conversation with Adline John, People Hub Coordinator, the claimant was told that a face-to-face ID check appointment had been booked for him the same day at 2 pm. He was asked to bring his documents to the respondent’s Kao Park address. The email to him concluded “we are on the first floor. Please ask for Adline John or a member of the recruitment team at the reception”. This suggests that the claimant was to make his own way to reception.
+
+59. At 12:03, the claimant emailed Ms John confirming he was on his way but might be late. This email however went to a generic address for the recruitment team and was not picked up.
+
+60. At 14:36, he emailed Miss John again (at the generic address) stating: “I have been waiting at Harlow Mill station for me [sic] than 30 minutes, but no taxi or buses at all to your address. If you can send someone to collect me within 30 minutes from Harlow Mill, I would appreciate that. Otherwise I will have to return and we need to rearrange my travel to you.”
+
+61. There was no suggestion in his email that any arrangements had previously been requested or put in place for the respondent to transport him from Harlow Mill station to its premises, which were approximately 2 miles away. In evidence, the claimant said he could not remember making such arrangements. We find that no such arrangements were requested by the claimant or put in place prior to him setting off, rather the plan was that the claimant was to make his own way to Kao Park, as applicants normally would. That is because claimant did not suggest to Ms John or indeed anyone else involved in the recruitment process that he needed such arrangements because of his disability or symptoms arising therefrom. Indeed, it appears the claimant had taken a positive decision not to reveal his disability or his mobility difficulties.
+
+62. The claimant did not receive a reply to his email, in all likelihood because it was not picked up by anyone.
+
+63. He called Miss John but she did not answer. He returned home and requested to reschedule the appointment and “arrange for someone to collect me from the station”. He again did not explain why he wished for someone to collect him. As such, the ID check was not carried out nor was the COS form delivered.
+
+Progressing Pre-Employment Checks
+
+64. On 8 February Rebecca Camplin emailed the claimant, the subject line stating “URGENT – Notice of Application Withdrawal – 7 day warning…” stating “we have been attempting to contact you for some time regarding your recruitment with no response. As a reminder, your offer of employment is contingent on both the completion of mandatory preemployment checks and active engagement with the on boarding process. If you are still interested in this post, please respond to this email and complete the following actions by Friday 16th February 2024; failure to do so will result in your application being withdrawn with immediate effect”. The outstanding tasks were said to be ID check, COS checklist and DBS application.”
+
+65. The claimant responded the next day confirming he was fully engaged with the process, suggesting that there have been a misunderstanding and explaining the events of 31 January from his perspective. In his email he notes that when he arrived at Harlow Mill station, he was waiting for local transport (not transportation organised by the respondent) for more than 30 minutes. He said: “I can arrange another ID check appointment but I need someone to collect me from Harlow Mill station. Please confirm my ID check appointment accordingly. If the check can be done virtually (online) that would be very much appreciated.”
+
+66. Again, he did not explain why he needed someone to collect him or that it was being requested as a reasonable adjustment and he made no reference to his disability.
+
+67. On 11 February 2024 there was another departmental meeting which highlighted concerns about the claimant’s responsiveness.
+
+68. On 22 February, Lucy Spivey asked the claimant to book an appointment for a face-to-face ID check. The claimant responded not by doing so but by stating “the trust ID has been completed (attached confirmation)” by which he meant virtual check had been completed. On 26 February he was asked to contact HR who would conduct the ID check and 2 days later he was asked, again, to book a face-to-face ID check because the trust ID was unable to verify all of his documents.
+
+69. On 29 February, rather than booking a face-to-face ID check the claimant asked which documents were “missing” so he could provide them using trust ID again. He went on: “Otherwise, I would need someone to collect me from Harlow Mill station as the last time I’ve been waiting in the station for more than an hour without any local transport available or any response to frequent emails and calls to your office. Please confirm my ID check appointment accordingly.”
+
+70. Again, he did not explain that he needed someone to collect him because of his disability or because of mobility issues, but rather because of the local transport difficulties he had encountered on 31 January.
+
+71. On 7 March, Rebecca Camplin emailed the claimant informing him his identity and address had still not been verified via the online process and she was not sure a third time would work. She asked him to make arrangements for an ID check at the main hospital and asked if he could travel to Harlow. The claimant describes this email as dismissive but we do not agree.
+
+Lead Up to Offer Withdrawal
+
+72. Having not heard anything further, on 19 March 2024 Emma Beckwith sent an internal email to Jamie Coates and Rebecca Camplin raising concerns about the process. She noted the claimant had been given a 7-day warning in February and she then heard no more. She continued: “a JD was being re-written and we were preparing to put the position back out to advert. On the Establishment meeting on 7th March I was told that the SpR was still joining the Trust as in those 7 days notice he had brought his documents in. None of this information is on the report…I can see his documents were requested on 7th March – the same day as the establishment meeting. Please could you advise if the doctor has now had his ID check? If these are still outstanding, are we able to withdraw the offer please?”
+
+73. This shows that Ms Beckwith’s concern at that time was the fact the pre- employment check process was taking such a long time to complete. She was enquiring about withdrawal of the offer for that reason.
+
+74. On 20 March, Ms Camplin responded to confirm the claimant had not replied to her 7 March email in which she offered him an onsite [hospital] ID check because he was struggling to get to Kao park. The reference to struggling in this email is not because Ms Camplin knew the claimant had mobility difficulties due to his disability but because of the difficulties the claimant had encountered and reported with local transport on 31 January. Ms Camplin sought advice from Mr Coates.
+
+75. On 21 March following a telephone conversation between the claimant and Adline John, a face-to-face ID check appointment was booked for the claimant for 13 May 2024. Ms John is a junior employee in Mr Coates’ team.
+
+76. On the same day, during a departmental meeting concerns were again noted about the claimant’s responsiveness.
+
+77. On 13 April 2024 the respondent received an email stating the claimant’s DBS application would expire in 7 days and that the ID check would need to be completed to avoid the claimant having to fill in a new form.
+
+78. On 17 April 2024, the respondent was still asking the claimant to provide the completed COS checklist and he was asked to do so ASAP.
+
+79. On 19 April 2024 at 12:09, Ms Camplin emailed Mr Coates and Ms Beckwith chasing a response to her email of 20 March 2024 enquiring about withdrawal. She said they had been chasing the claimant’s COS checklist since January and asked “at what point do we withdraw”.
+
+80. Ms Beckwith responded at 12:18: “I would like to retract the offer on this position. It has been discussed with the triumvirate and we are unhappy with his lack of engagement with his employment checks. Please could this be arranged?
+
+81. The triumvirate is a reference to the Operations Manager (Ms Gail De Souza), Nursing Director (Ms Joanne Ward) and Divisional Director (Dr Bob Ghosh) for the relevant area. Ms Beckwith told us they and the consultant body had collectively decided that they had waited long enough. Her view, expressed in evidence was that: “In April still things were outstanding – we had to draw the line somewhere… enough is enough”.
+
+82. Despite that on 19 April at 15:16, Ms Camplin emailed the claimant again issuing another warning about the offer being withdrawn, stating that despite best efforts, neither the COS checklist or a completed ID check had been received. She said: “Due to service needs we cannot hold a post open indefinitely, therefore if we are unable to clear these two actions within seven days we will be withdrawing the offer. Please let us know what date you can attend next week to provide your ID documentation and COS checklist.”
+
+83. Mr Coates then informed Ms Beckwith that an email had been sent to the claimant and if he did not comply with what had been requested within the next week, the offer would be withdrawn.
+
+84. The claimant replied attaching the COS checklist and said that the ID check had now been booked on 13 May 2024.
+
+85. Ms Camplin replied to him stating: “You are required to complete your ID check within 7 days of this email as per the below 7 day warning. 13th May has been cancelled please do not attend.”
+
+86. In response, on 19 April 2024 the claimant emailed confirming he could not attend within 7 days: “Sorry, I have already booked a leave to attend the ID check on 13th May based on our previous discussion and your/your teams agreement over the phone. I am on clinical duties next week. As you might appreciate, taking a leave to attend in person would need a reasonable advance notice. Therefore, I can only complete the ID check within seven days if this was done by virtual means. Please send me a trust ID link so I can do this for you as a matter of urgency.”
+
+87. On 22 April 2024 at 08:26, Ms Beckwith responded to Mr Coates’ email of 19 April: I appreciate that there is a process to follow but this is the third time he has been given 7 days notice. His offer was made in October ’23. I am unclear why we are still trying to pursue this, the department and the triumvirate have requested during establishment meetings that this offer is withdrawn. It would be good to get a timeline since the offer was made in October of contact and discussions taken place. Please could we have this for discussion in this Thursday’s establishment meeting.
+
+88. On 22 April at 08:42, Mr Coates sent the claimant another trust ID link and pointed out that if it fails the claimant would need to be seen in person before 13 May, asking him to complete it as soon as possible. He told the Claimant “we are willing to be flexible on timings for you to come and see us”. By this, he meant the respondent was willing to see the claimant outside of core hours if that assisted given his commitments. It was not a comment related to the claimant’s disability, as the claimant submitted.
+
+89. Although Mr Coates was aware there had been previous warnings issued to the claimant, as he was copied into email correspondence, he overlooked that when agreeing that the claimant could have another 7 days to do the checks online. We make that finding because his recollection was that he was unaware of the previous warnings, though we conclude his recollection is mistaken in that respect. We think he had also overlooked the fact that numerous online ID checks had failed and the fact the claimant had said he could not attend within 7 days in person.
+
+90. Mr Coates then told Ms Beckwith, in an email at 08:49, he had given the claimant another opportunity to try online verification and if not, he would need to come in person before 13 May. In response shortly thereafter, Ms Beckwith, who was not happy with Mr Coates’ decision and was aware of the previous failed online checks and that the claimant had already told Ms Camplin that he could not attend within 7 days, asked Mr Coates to meet later that day.
+
+91. Ms Beckwith, as the person responsible for the recruitment budget for the respiratory department, had been continually having to update “the triumvirate” at biweekly meetings about why there was such a delay with the claimant’s recruitment. Until the claimant commenced the role, part of the budget was being used on a locum, which was more expensive. She also had in mind the discussions that had occurred in the monthly Service Review Meetings about the difficulties recruiting the claimant and about redirecting resource elsewhere.
+
+92. When Ms Beckwith met with Ms Coates, she explained that there had been a review of resource in the department given the passage of time and as a result, a decision had been taken that the 12-month fixed term role was no longer required. The output from the meetings with the consultant body in the respiratory team was that it was now felt the respondent ought to recruit a permanent registrar in a role which contained a pathway to consultant, which it was thought might attract a wider pool of candidates from overseas. As such, she and the respiratory team wished to withdraw the offer.
+
+93. The reason she wished the offer to be withdrawn was the fact that the claimant’s pre-employment checks still had not been completed, nearly 6 months post offer, and the delay had caused the department to revisit the need for the type of post that had been offered to the claimant. She did not believe the checks would soon be completed given once the ID checks were complete, the claimant still had to pass his DBS check and establish his right to work.
+
+94. Despite his recent email to the claimant, Mr Coates agreed that the offer should be withdrawn. As Head of People in Resourcing and Retention, Mr Coates had to agree the withdrawal. He did so for the same reasons as Ms Beckwith, which he had been persuaded of.
+
+95. Mr Coates sent an email to Rebecca Camplin explaining the decision at 08:00 on 23 April. The email said “I spoke with Emma yesterday and we are withdrawing this role from the establishment due to a change in workforce skillmix. Please could you call the doctor to let him know and follow up with a letter. Can we be clear that a review had taken place in this role is no longer required, also mentioning that the role was offered conditionally and he was required to meet our pre-employment check standards – the length taking to recruit is outside our acceptable level of time (>6 months.”
+
+96. The recruitment process, during which the checks are carried out, usually takes no longer than 3 months at most. As such, the claimant’s recruitment was well outside normal timeframes. The respondent’s Key Performance Indicator was that checks should be completed within 20 days.
+
+Withdrawal of the Offer
+
+97. At 16:07 on 23 April, Rebecca Camplin telephoned the claimant to inform him of the decision to withdraw the offer. We think it likely she gave the same reasons to the claimant as had been provided to her. If there was mention of funding, it is likely it related to the fact the respondent was funding a locum at higher cost. We do not accept she told the claimant the reason for the withdrawal was because of funding. That is not what she had been told by her seniors, it is not right and it is not consistent with what she put in writing to him the same day, in which the reasons were expressed to be:
+
+• “length of time for preemployment checks: the completion of our pre-employment checks has taken longer than our acceptable standards, and unfortunately it has fallen outside the expected timeframe;
+• Skill mix review: we have recently reviewed our skill mix within our department, and upon further assessment, we have determined that this role is not aligned with our establishment’s current needs.”
+
+98. The following day, 24 April 2024, the claimant replied saying he had already given notice to his existing employer and that his pre-employment checks had been completed. The latter was not accurate as the ID check (name / address) had still not been completed and neither had an up to date DBS check been carried out. He urged the respond to reconsider or let him know any procedure to raise a complaint.
+
+99. Mr Coates responded to the claimant confirming that the respondent advises candidates not to hand in notice until checks are complete. He said even after submission of ID documents, it can still be months before visas are issued and DBS checks completed. The claimant had not yet completed even a satisfactory ID check.
+
+100. The claimant took issue with Mr Coates’ email. He maintained his documents were ready for the appointment on 13 May 2024 and that the respondent had provided different excuses for its decision. He asked Mr Coates to confirm he had “provided us with your final resolution as the case will be escalated for a legal action.”
+
+101. Mr Coates confirmed the ID check, DBS check and right work in the UK remained outstanding and the reasons for withdrawal were as set out in the email the claimant had received. In a later email, the claimant asked Mr Coates a series of questions and asked for the details the respondent wished to use for legal purposes. When Mr Coates responded, he did not answer the questions posed by the claimant but provided his details should the claimant wish to take legal advice.
+
+102. The role of permanent respiratory registrar with a pathway to consultant was advertised by the respondent in July 2024.
+
+The Parties Submissions
+
+103. Both parties provided submissions in writing and supplemented them by oral submissions. We had careful regard to both and deal with them, to the extent necessary, in the context of our decision below.
+
+The Law
+
+Section 15 Equality Act 2010
+
+104. Under s15 of the EA
+
+(1) A person (A) discriminates against a disabled person (B) if—
+
+(a) A treats B unfavourably because of something arising in consequence of B's disability, and
+(b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim.
+
+(2) Subsection (1) does not apply if A shows that A did not know, and could not reasonably have been expected to know, that B had the disability.”
+
+105. There are therefore 3 key parts to the test in s15(1):
+
+a. Unfavourable treatment;
+b. Because of something…;
+c. …arising in consequence of disability.
+
+106. In relation to the latter two aspects, Langstaff P held in Basildon and Thurrock NHS Foundation Trust v Weerasinghe [2016] ICR 305 that a tribunal: “… might ask first what the consequence, result or outcome of the disability is, in order to answer the question posed by “in consequence of”, and thus find out what the “something” is, and then proceed to ask if it is “because of” that that A treated B unfavourably. It might equally ask why it was that A treated B unfavourably, and having identified that, ask whether that was something that arose in consequence of B’s disability.”
+
+107. The EAT, Simler J, in Pnaiser v NHS England and Coventry City Council [2016] IRLR 170 explained the correct approach to these provisions. At §31
+
+…
+
+b. The Tribunal must determine what caused the impugned treatment, or what was the reason for it. The focus at this stage is on the reason in the mind of A. An examination of the conscious or unconscious thought processes of A is likely to be required, just as it is in a direct discrimination case. Again, just as there may be more than one reason or cause for impugned treatment in a direct discrimination context, so too, there may be more than one reason in a section 15 case. The ‘something’ that causes the unfavourable treatment need not be the main or sole reason, but must have at least a significant (or more than trivial) influence on the unfavourable treatment, and so amount to an effective reason for or cause of it.
+c. Motives are irrelevant. The focus of this part of the enquiry is on the reason or cause of the impugned treatment and A’s motive in acting as he or she did is simply irrelevant: see Nagarajan v London Regional Transport [1999] IRLR 572. A discriminatory motive is emphatically not (and never has been) a core consideration before any prima facie case of discrimination arises, contrary to Miss Jeram’s submission (for example at paragraph 17 of her Skeleton).
+d. The Tribunal must determine whether the reason/cause (or, if more than one), a reason or cause, is “something arising in consequence of B’s disability”. That expression ‘arising in consequence of’ could describe a range of causal links. Having regard to the legislative history of section 15 of the Act (described comprehensively by Elisabeth Laing J in Hall), the statutory purpose which appears from the wording of section 15, namely to provide protection in cases where the consequence or effects of a disability lead to unfavourable treatment, and the availability of a justification defence, the causal link between the something that causes unfavourable treatment and the disability may include more than one link. In other words, more than one relevant consequence of the disability may require consideration, and it will be a question of fact assessed robustly in each case whether something can properly be said to arise in consequence of disability. …
+e. This stage of the causation test involves an objective question and does not depend on the thought processes of the alleged discriminator.”
+
+108. As with direct discrimination claims, the Tribunal must consider the thought processes of the decision makers, to ascertain whether the ‘something’ alleged to have arisen in consequence of the Claimant’s disability formed any part of the reason why the unfavourable treatment took place (see for example, Robinson v Department of Work and Pensions [2020] IRLR
+
+884, CA._
+
+109. The Respondent has a defence under Section 15(2) Equality Act 2010 if it did not know that the Claimant had a disability. Knowledge can be actual knowledge or constructive knowledge.
+
+110. The EHRC Employment Code 2011 states that an employer must do all that it can reasonably be expected to do, to find out whether a person has a disability. At §5.14: “[e]mployers should consider whether a worker has a disability even where one has not been formally disclosed, as, for example, not all workers who meet the definition of disability may think of themselves as a “disabled person” para 5.14.
+
+111. The Code also states that knowledge of a disability held by an employer’s agent or employee (e.g. an occupational health adviser) will usually be imputed to the employer (§5.17).
+
+112. Mentioning a medical issue in passing or as an explanation for something else may not be sufficient to give rise to actual or constructive knowledge. It was not in Mefful v Citizens Advice Merton and Lambeth Ltd [2024] EAT 198, when the claimant mentioned a shoulder problem in passing as a reason for rescheduling a meeting, even though he referred to “constant and sometimes unbearable” pain.
+
+113. The fact an employer is told by its occupational health advisor that a claimant is not disabled does not automatically mean the employer does not have constructive knowledge. It should still proceed with caution (Gallop v Newport City Council [2014] IRLR 211).
+
+114. It is not necessary for the respondent to know that the “something” is in fact “something arising in consequence of disability”.
+
+Reasonable Adjustments : s20/21 Equality Act
+
+115. Section 20 of the Equality Act 2010 sets out the duty: “...where a provision, criterion or practice of A's puts a disabled person at a substantial disadvantage in relation to a relevant matter in comparison with persons who are not disabled, [there is a requirement] to take such steps as it is reasonable to have to take to avoid the disadvantage.”
+
+116. In Environment Agency v Rowan [2008] IRLR 20 the EAT restated guidance on how an employment tribunal should act when considering a claim that an employer has discriminated against an employee pursuant to (the old) s3A(2) of the DDA 1995 by failing to comply with the (old) section 4A duty. Accordingly the tribunal must identify:
+
+(a) the provision, criterion or practice applied by or on behalf of an employer, or;
+(b) the physical feature of premises occupied by the employer;
+(c) the identity of non-disabled comparators (where appropriate); and
+(d) the nature and extent of the substantial disadvantage suffered by the claimant".
+
+117. An assessment needs to be made about whether the particular adjustment does in fact avoid the substantial disadvantage caused by the PCP applied by the employer. This is necessary to determine whether the adjustment is reasonable or not. An objective test is to be applied (see Royal Bank of Scotland v Ashton UKEAT/0542/09, [2011] ICR 632).
+
+118. The knowledge requirement is set out in para 20 of Schedule 8 to the EqA. In Secretary of State for the Department of Work and Pensions v Alam [2010] IRLR 283 (approved by Underhill P in Wilcox v Birmingham CAB Services Ltd [2011] All ER (D) 73 (Aug)) the EAT held that the correct statutory construction (of the old DDA provision which was not materially different) involved asking two questions:
+
+a. Did the employer know both that the employee was disabled and that his disability was liable to affect him in the manner set out in section 4A(1)? If the answer to that question is: 'no';
+b. Ought the employer to have known both that the employee was disabled and that his disability was liable to affect him in the manner set out in section 4A(1)?
+
+119. If the answer to both questions is “no”, there is no duty to make adjustments. Per Underhill P said in Wilcox: “…to spell it out, an employer is under no duty under section 4A unless he knows (actually or constructively) both (1) that the employee is disabled and (2) that he or she is disadvantaged by the disability in the way set out at in section 4A(1). As Lady Smith points out [in Alam], element (2) will not come into play if the employer does not know element (1).'
+
+120. In Ridout v TC Group [1998] IRLR 628, the claimant had informed the respondent she had a disability, photosensitive epilepsy. When interviewed, she realised the lighting might trigger an epileptic attack and did express some disquiet. She had with her a pair of sunglasses but did not use them. She did not display any symptoms during interview. The tribunal, upheld by the EAT, concluded the employer was not aware of the need to make any further adjustments and was not reasonably to be expected to have made further factual enquiries. According to the EAT, the employer was entitled to take applicants “very much on the basis of how they present themselves”. Burden of Proof
+
+121. The burden of proof provisions are contained in s136 of the EA 2010. The leading cases on the burden of proof pre the EA were the Court of Appeal cases of Igen Ltd v Wong [2005] EWCA Civ 142 and Madarassy v Nomura international Plc [2007] EWCA Civ 33, [2007] IRLR 246. The principles still from those cases till apply under the EA.
+
+122. Primary attention should be paid to the statutory language rather than to its interpretation by the courts (see Madarassy §9). It is important not to over- emphasise the importance of the reversed burden of proof provisions. In Hewage v Grampian Health Board [2012] the Supreme Court approved the guidance given in Igen and Madarassy (and said no further guidance was necessary) and Lord Hope continued at §32: [A]s Underhill J (President) pointed out in Martin v Devonshires Solicitors [2011] ICR 352, para 39, it is important not to make too much of the role of the burden of proof provisions. They will require careful attention where there is room for doubt as to the facts necessary to establish discrimination. But they have nothing to offer where the tribunal is in a position to make positive findings on the evidence one way or the other.
+
+123. It is for the claimant to prove on the balance of probabilities facts from which the Tribunal could conclude, absent adequate explanation from the respondent, that the respondent has committed an act of discrimination. Unless the claimant does that, the claim fails. Only then, does the burden move to the respondent to show it did not treat the claimant less favourably on prohibited grounds. The respondent’s evidence can be taken into account at both stages but the tribunal is to assume at the first stage that there is “no adequate explanation” for the facts relied upon.
+
+The Tribunal’s Decision
+
+124. We shall deal with the issues set out above in turn.
+
+Knowledge of the Claimant’s MS
+
+125. We conclude that at the material time, indeed from the point of application to the point when the offer was withdrawn, the respondent did not know and could not reasonably have been expected to know that the claimant had MS.
+
+126. When he applied for, attended and complained about the 1 day ALS course provided by the respondent’s medical education department, he did not at any stage say that he had MS. There was no evidence of a request for any adjustments before the course began. The closest he came to declaring his disability was in his letter of complaint afterwards, suggesting the instructor was not trained enough to work with disabled candidates or understand that not every disability was visible. However, this was in the context of a complaint about being shouted at when the claimant tried to come closer to read a monitor. That did not indicate, or even suggest, that he had MS or mobility issues. If anything, it suggested he may have an issue with his eyesight and that any symptoms he may have been experiencing due to his MS would not have been visible to those teaching the course. The respondent could not reasonably have been expected to know from this that the claimant had MS.
+
+127. Nor do we believe the respondent ought to have known of his MS from the information he had provided. The claimant had attended this one day course in June 2022 not as an employee of the respondent but as an external delegate. He had written a short letter of complaint about it afterwards. It was not, in our opinion, reasonably obliged to further investigate what the claimant had said nor do we think if it had, it would likely have discovered the claimant had MS.
+
+128. Even if we are wrong and he had declared he had MS, that information was held by not by the respondent qua employer or potential employer at the relevant time. It was not held by its HR department or by an agent on their behalf, but rather was submitted to a separate department offering discrete training to third parties. It was not information that was or could or should have been available to those dealing with his application for employment. Although we did not have to decide the point because of our finding in the preceding paragraph, we would also have concluded that revealing his disability in this specific context over a year before applying for a role would not have fixed the respondent with knowledge of disability in the context of a later application for employment.
+
+129. Neither do we accept that the respondent had knowledge of disability, actual or constructive, as a result of the application form, whether as a result of the hyperlink to the claimant’s thesis or the equal opportunities monitoring form:
+
+a. The thesis was not read by those dealing with his application nor could they reasonably have been expected to read it. It was not necessary to do so to be satisfied he had the qualifications he claimed and we consider it highly unlikely the interviewing team would have had time to do so. In any event, the reference to the claimant having MS was contained within the Acknowledgements section, and we think it unlikely it would have been picked up even had the thesis been reviewed;
+b. In the equal opportunities form, the claimant did not disclose whether he had a disability or not, and certainly did not disclose his MS. Although he answered yes to the question “if you have a disability, do you wish to be considered under the Guaranteed Interview Scheme…”, this did not confirm whether he did have disability or not. His contention that his answer to this question effectively revealed he had a disability is inconsistent with him deliberately not answering the question of whether he had a disability because he did not wish to declare it. In any event, that information was only used to decide whether to offer an interview or not. Once an interview was offered, there was no reason to enquire further into the answer. As such, it cannot be said the respondent had constructive knowledge of MS because it ought to have set in a chain an enquiry that would have revealed it.
+
+130. The interview was conducted remotely and neither the claimant’s MS or mobility issues were revealed nor could they have been reasonably detected. He also confirmed he did not require any adjustments for the interview.
+
+131. We have found above the claimant did not mention his MS during his Occupational Health screening.
+
+132. Thereafter, throughout the period November 2023 – April 2024, at no stage did the claimant reveal he had MS, including in his correspondence pertaining to collection on 31 January 2024. The natural reading of that correspondence was that he had encountered local transport issues on 31 January which preventing him making the circa 2 mile journey from the station to the respondent’s premises. That is not sufficient, in our view, to mean that the respondent ought reasonable to have inferred, or asked questions to elicit, the fact that the reason for the request was that the claimant had MS.
+
+133. It would have been a simple matter for the claimant to tell the respondent of his MS post offer, particularly when discussing collection. We conclude that for whatever reason, he deliberately chose not to do so. Therefore even had the respondent probed further, we are doubtful the claimant would have revealed his disability anyway.
+
+134. In conclusion therefore, at no stage therefore did the claimant declare that he had MS. Further, we conclude that there was nothing in what he said or did that ought to have led to the respondent to know, or set in chain enquiries that would have revealed, the claimant’s MS. In short, at no relevant stage did it have actual or constructive knowledge of his disability.
+
+135. Given knowledge of disability is prerequisite to both claims, both claims fail and we do not technically need to go on to consider the remaining issues. However, as we have heard evidence and submissions on each liability issue, we set out our conclusions on those issues too.
+
+Section 15 Claim
+
+136. The respondent did treat the claimant unfavourably by withdrawing the offer of employment on 23 April 2024.
+
+Something Arising
+
+137. In relation to the “something arising” relied upon by the claimant, firstly, we do not accept that the respondent did perceive the claimant as having mobility difficulties. There was nothing he said or did that led it to have such a perception.
+
+138. It is right that he requested to be collected from the train station on 31 January 2024. He did not link that request to any mobility difficulties nor to having MS. Rather, everything he said on that day suggested the reason he wanted to be collected was that there were local transport issues upon arrival. The office he was attending was some 2 miles away and the respondent did not infer that the reason he wanted to be collected was because he had mobility issues or had a disability he needed adjustments for. We do not consider that to be unreasonable. The fact that someone does not wish to walk for 2 miles from a station to attend a workplace in the middle of the day does not mean one is likely to infer that they have mobility issues or a disability.
+
+139. The same is true of what he said thereafter in his requests for collection were he to attend for a face-to-face ID check. The impression given was that he was concerned there would be similar local transport issues were he to return. At no stage did he suggest or imply he needed collection because of mobility issues or as a reasonable adjustment for disability.
+
+140. As such, the claimant’s contention that he was subjected to unfavourable treatment because he had requested the respondent to make a reasonable adjustment for his disability falls at the first hurdle. He did not request the respondent make a reasonable adjustment for disability.
+
+141. We have also considered an alternative contention (though it was not clear this is the way the claimant sought to put his case), namely that he was subjected to unfavourable treatment merely because he requested collection on 31 January 2024. Although he did not say or suggest the reason for that request was connected to his disability, and the respondent was not aware that was the reason, in fact it was and so if the respondent subjected him to unfavourable treatment as a result, that would be sufficient to establish unfavourable treatment because of the something arising.
+
+142. The claimant did request collection on 31 January 2024 and we do accept he did so because he had mobility difficulties. If that were the reason for withdrawal of the offer, that would be sufficient to establish the necessary link. A respondent does not need to know that the something arising (here, the request for collection) was in fact linked to the disability. Has the claimant proved facts from which we could concluded that was that the reason for withdrawal?
+
+Reason for Withdrawal
+
+143. We conclude that the claimant has not established facts from which we could conclude that the reason for the withdrawal of the offer on 23 April was the request for collection from the station nearly 3 months earlier. As such, the burden of proof does not transfer to the respondent to explain its decision.
+
+144. The withdrawal of the offer came nearly 6 months post offer, the respondent having anticipated the claimant would start in January. The delays had been significant and by the time of withdrawal, a long way beyond the expected time for completion, and the claimant had been issued with 3 separate warnings that the process would need to be completed within 7 days.
+
+145. At least some of the of the delay, in fact the large swathe of it, appears to be down to the claimant not progressing matters as quickly as he ought e.g. booking an in-person appointment promptly when asked to do so in a number of occasions.
+
+146. Ultimately though, the cause of the delay is less important than the fact there was a delay and it was the delay that appears from the contemporaneous evidence to be what was concerning the respondent and was the subject of correspondence between the parties. By 23 April, there was still no start date and one could not be ascertained until the checks were complete. The claimant had been told he must complete the checks in 7 days but he had said he could not unless it was done online, which had already failed numerous times. The delay also provided an occasion to the respondent to review the recruitment to the role more widely.
+
+147. The fact the respondent did not grant the request for collection either on 31 January or thereafter is not an indication that it objected to it or was concerned about it, but was a product of the fact it was not requested until the claimant arrived at the station on the day. The claimant made no advance request to be collected and the request he did make was emailed to a generic email address. It was by that stage very late to be requesting assistance with transportation. In any event, the respondent quite reasonably expects applicants to make their own way to its offices and the claimant did not provide any good reason, whether on 31 January or thereafter, for why that normal assumption should be displaced.
+
+148. Following 31 January, the respondent continued to engage with the claimant with the aim of completing the pre-employment checks for over 2 more months, until eventually the patience of Ms Beckwith and those in the respiratory department ran out. By then nearly 6 months had passed since the offer was made and the pre-employment checks had still not been satisfactorily completed.
+
+149. There is no evidence, or at least no cogent evidence, to suggest that the reason for the withdrawal was the fact the claimant had requested collection from the station on 31 January.
+
+150. Dealing with some of the specific points the claimant made in support of this claim in his submissions that we have not already dealt with above:
+
+a. We do not accept the respondent knew, after the first attempt on 14 November 2023, that the claimant’s virtual ID check would inevitably fail thereafter and set him up to fail because it wanted to withdraw the offer. The respondent was told the ID check failed because of a chip failure. The claimant asserted when cross examining this is because Syrian passports have no chip but we heard no evidence on that and it was not apparent from the test document. It is implausible that the respondent disingenuously permitted the recruitment process to continue from November 2023 to April 2024, consistently asking for an online ID check knowing throughout the claimant could not pass one. Furthermore, even if true, this alleged disingenuous approach began well before his request for collection on 31 January so could not be causally related to it;
+b. The respondent did not offer an alternative to virtual ID check such as local post office certification: that is true, but the claimant did not suggest alternative checks such as post office certification and that is not something the respondent uses to carry out checks in any event. The respondent did offer an alternative: a face to face check;
+c. It is right that the respondent did not enquire as to the reasons the claimant had requested collection. It understood, reasonably, the reason for the request was that the claimant had encountered local transport difficulties on 31 January and wished to avoid that happening again. It was for him to explain why he needed collection and he proffered no reason for why the respondent ought to organise and pay for transport when that it appeared to be something he could easily do if so wished;
+d. The respondent booked the claimant on 21 March 2024 for an in person check on 13 May 2024 but cancelled it: that is true. Ms John booked the claimant in on 13 May but Ms Beckwith thought that too far away given the passage of time, as did Mr Coates when he learned of it too. The respondent’s approach could certainly have been more “joined up”, the internal communication could and should have been better, but that is not evidence the reason for the cancellation was the request for collection months earlier;
+e. The same is true of the fact Mr Coates sent a 7 day warning notice on 19 April but withdrew the offer before it expired on 23 April. That aspect of the chronology is unfortunate for the respondent. From the claimant’s perspective, he was being told different things and thought he had 7 days from 19 April only to find the offer was withdrawn before that had expired. However, we do not think that sufficient to shift the burden of proof. It does not support a finding that events of 31 January were the cause of that change of position. An analysis of the facts shows the change of position was a product of differences (and poor communication) between those in the People team responsible for progressing the pre-employment checks and those representing the respiratory department. The latter had concluded “enough is enough” whilst the former were initially willing to give the claimant one more chance. Mr Coates’ change of position was because he had spoken to Ms Beckwith who requested the withdrawal for the reasons already identified above, not because the claimant had requested collection from the station on 31 January;
+f. The respondent readvertise the post after it withdrew the claimant’s offer: that is not right. It readvertised a different post – a permanent position, not a 12 month fixed term contract, with a pathway to consultancy;
+g. The job was on the shortage occupation list. The respondent did not dispute this but it withdrew the offer because of the time it had taken to recruit the claimant and because it felt it could use the resource in a different way;
+h. The claimant was not referred to a complaints procedure after the withdrawal despite a request for it. That is true but we do not think it supports an inference the reason for the withdrawal was the something arising the claimant relies upon;
+i. The respondent did not engage with ACAS after the claim was issued or with settlement. The respondent did not object to this apparently privileged material being before us. We do not consider it material from which we could conclude a s15 claim is made out however;
+j. The respondent did not provide evidence a disabled person was recruited into the post. That is true, but does not assist the claimant in his s15 claim.
+
+151. We have particularly carefully considered whether to draw inferences from the fact some criticism can levelled at the respondent for the way it dealt with the pre-employment check process. It could perhaps have been clearer in explaining to the claimant what the issues were, in responding to some of the claimant’s emails or chasing him sooner when he had not booked an in- person appointment. Further, the mixed messages the claimant received at the end were unfortunate to say the least.
+
+152. However, this is not a claim of “unfair withdrawal of an offer” and we are satisfied that although it could have been handled better, the respondent wanted the claimant to pass his pre-employment checks so it could employ him and any criticism that can be levelled at it was nothing to do with his disability and in particular the something arising he relies upon.
+
+153. Further, we do not think it appropriate to draw any adverse inferences from the fact the claimant had issues accessing the respondent’s disclosure or from the fact the bundle was initially sent to him in numerous emails with small attachments. The respondent initially used a common method of file sharing which the claimant could not utilise, for reasons he did not wish to explain. Although it would have been more helpful for the bundle to be sent in a smaller number of emails, this was not done by the respondent’s solicitor, not by the respondent, and was not done to disadvantage the claimant and certainly not because of something arising from his disability. It does not help us determine the legal issues in the claim.
+
+154. The claimant has not proven facts from which we could conclude that the reason for the unfavourable treatment was the something arising in consequence of disability he relies upon. As such, the burden of proof does not transfer.
+
+155. Had the burden of proof transferred, we would have concluded the respondent had discharged it by establishing the reason for the unfavourable treatment was not because of the something arising in consequence of disability, but rather because the pre-employment checks had taken a much longer period of time than had been anticipated and that had caused the respiratory department to reconsider whether the role it had offered the claimant was the best use of resources, or whether the resource could be better utilised elsewhere. In short, we accept the respondent’s evidence about the reasons for withdrawing the claimant’s offer which we consider to be supported by the contemporaneous documents.
+
+156. The Section 15 claim fails.
+
+157. We do not need to deal with section 15(2) of the Equality Act 2010 and issues
+
+1.5 – 1.8 and do not do so, there being no conduct that required justification. Reasonable Adjustments Claim
+
+158. This claim fails because the respondent did not have knowledge of disability but we similarly go on to deal with the other issues.
+
+159. We accept the respondent did apply a provision, criterion or practice (PCP) that those attending the recruitment office in Harlow to provide documents required as part of pre-employment check were ordinarily expected to make their own way to the recruitment office.
+
+160. We accept that exceptions may be made to that general practice if a good reason were provided by an applicant, but that does not mean the general default position did not constitute a PCP.
+
+161. We accept too that the PCP did cause the claimant a substantial disadvantage because he was less able to make his own way to the recruitment office because of his mobility issues arising from his MS.
+
+162. However, the respondent did not know and could not reasonably have been expected to know that the claimant was likely to be placed at a substantial disadvantage as a result of the alleged PCP. As we have found above, it did not know of his disability or his mobility issues. Its Occupational Health department had advised it the claimant was fit for work with no restrictions. There was nothing in the claimant’s request for collection that could reasonably have led the respondent to conclude he was substantially disadvantaged in comparison to a non-disabled person by the expectation he make his own way to the recruitment office. As such, the duty did not arise.
+
+163. The respondent did not ask the claimant why he could not walk 2 miles to the site but we do not consider that it ought reasonably to have done so for the reasons set out above.
+
+164. The adjustment contended for is that the claimant should have been provided with transport from Harlow station to the recruitment office. Did the respondent fail to provide that adjustment: yes.
+
+165. Was it reasonable to do so? We conclude on 31 January it was not, even if we are wrong and the respondent ought to have been aware its PCP caused the claimant substantial disadvantage. Transport was not requested at any time before the claimant arrived at the train station and by then, it was too late to arrange.
+
+166. Nor do we accept that there was a failure to make reasonable adjustments after 31 January:
+
+a. There was in fact no other occasion on which the claimant was asked or sought to visit the respondent’s premises;
+b. At no stage did the claimant tell the respondent he needed collection because he had mobility issues;
+c. The respondent could not send out someone to collect him as the claimant appeared to think could happen, as there would likely have been insurance issues and possibly availability issues;
+d. There appears to be no reason why the claimant could not have organised a taxi in advance, in the much the same way he was organising the rest of his journey and as he in fact he did for the later planned visit on 13 May. He was a job applicant, a registrar in employment, seeking to pass the respondent’s pre-employment checks, not an employee required to travel during the course of work. It would have been easier for him to coordinate a taxi with the rest of his travel plans than it would the respondent. The cost would have been minimal.
+
+167. For all of the above reasons, the claim of failure to make reasonable adjustments fails and is dismissed.
+
+Conclusions
+
+168. For the reasons set out above, both the s15 and s20/21 claims fail and are dismissed.

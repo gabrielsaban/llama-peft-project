@@ -1,0 +1,113 @@
+JUDGMENT
+
+1. The claimant’s employer at the times relevant to this claim was Cranswick Country Foods PLC (the second respondent).
+
+2. The claim against Cranswick PLC (the first respondent) is dismissed.
+
+3. The complaint of constructive unfair dismissal against Cranswick Country Foods PLC (the second respondent) was not presented within the applicable time limit, but it was not reasonably practicable to do so. The complaint of constructive unfair dismissal was presented within a further reasonable period. The complaint of constructive unfair dismissal will therefore proceed.
+
+4. The complaint of protected disclosure detriment against Cranswick Country Foods PLC (the second respondent) was not presented within the applicable time limit. It was reasonably practicable to do so. The complaint of protected disclosure detriment is therefore dismissed.
+
+5. The complaint of disability discrimination against Cranswick Country Foods PLC (the second respondent) was not presented within the applicable time limit, but it is just and equitable to extend the time limit. The complaint of disability discrimination will therefore proceed.
+
+REASONS
+
+Background
+
+1. The background to this hearing is set out in the case management order of EJ Gordon Walker dated 15 October 2025, as follows:
+
+60. The first and second respondents are companies operating in the food business. There is a dispute about which is the claimant’s correct employer. The respondents say it is the second respondent. The claimant says it is the first respondent. The third respondent is employed by the first respondent in the role of operations director for the second respondent.
+
+61. The claimant was employed from 24 January 1994 to 10 January 2024, latterly as the senior manager at the second respondent’s site in Watton, where he had been employed since 2009/10. The claimant lived in a bungalow on site until October 2022.
+
+62. The claimant presented a claim of unfair dismissal, detriment for making protected disclosures and disability discrimination to the Tribunal on 2 June 2024. This followed periods of ACAS early conciliation:
+
+62.1 With the first respondent from 27 March 2024 to 8 May 2024
+62.2 With the second respondent from 7 November 2022 to 23 November 2022
+62.3 With the third respondent from 27 March 2024 to 8 May 2024
+
+2. The purpose of the hearing today was to determine the following issues as set out by EJ Warren in his order of 13 June 2025: To consider whether the Claimant’s claims or any of them, are out of time and if so, whether it is either just and equitable to extend time or whether it was reasonably practicable for them to have been brought in time. For the avoidance of doubt, if any question arises as to whether or not there is a continuing act, such shall be determined at the Final Main Hearing rather than at the Public Preliminary Hearing unless the Employment Judge thinks otherwise is appropriate.
+
+3. It was common ground that in order to decide whether any or all of the claims were out of time I would need to decide the disputed issue of whether the claimant’s employer was the first or the second respondent.
+
+4. I made it clear to the parties that I would not be deciding any questions about whether there was a continuing act in relation to the discrimination claims. Those would be decided by the tribunal at the final hearing.
+
+The Hearing
+
+5. The parties filed a joint bundle of 204 pages. They each filed a skeleton argument. I received two witness statements. One from the claimant and the other from Stephen Glover of the first respondent. Both witnesses attended the hearing and gave evidence on oath. Both counsel made oral submissions.
+
+Relevant findings of fact
+
+6. On 15 March 2010 the claimant was promoted to the position of Senior Manager.
+
+7. On 31 March 2010 the terms of the promotion were set out in a letter confirming the promotion. The letter was from Cranswick Country Foods (Norfolk) Limited (CCFNL). No other contract documents were before me.
+
+8. CCFNL was a subsidiary of the first respondent.
+
+9. On 12 March 2012 the trade and assets of CCFNL were transferred to the second respondent. It is the first and second respondents’ position that employees transferred with the business under TUPE regulations. The claimant has no recollection of this. The second respondent accepts that the claimant had continuity of service dating from 1994 until his resignation.
+
+10. The first respondent is responsible for payroll for all of the Cranswick group’s employees.
+
+11. The claimant’s payslips and P45 showed the first respondent as his employer.
+
+12. On 7 November 2022 the claimant commenced early conciliation against the second respondent. It was not suggested by either party that the matters covered by that certificate were significantly different to those that are the subject of this claim. The claimant did not go on to issue proceedings in the tribunal at that time. It is the claimant’s case that he did not instruct his then solicitor to start conciliation specifically with the second respondent and he was not aware that she had done so. I accept his evidence on this matter as I found his evidence that he did and had believed the first respondent to be his employer to be credible.
+
+13. Mr Glover, the Company Secretary for the first respondent is also the Group Data Protection Officer and deals with all subject access requests for the whole group of companies. In that role, Mr Glover responded to a subject access request from the claimant on 13 February 2024.
+
+Law
+
+14. For claims of unfair dismissal, the relevant law is set out in the Employment Rights Act 1996 111.— Complaints to employment tribunal .
+
+(1) A complaint may be presented to an employment tribunal against an employer by any person that he was unfairly dismissed by the employer.
+
+(2) Subject to the following provisions of this section, an employment tribunal shall not consider a complaint under this section unless it is presented to the tribunal—
+
+(a) before the end of the period of three months beginning with the effective date of termination, or
+(b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months. (2A) Section 207B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (2)(a). …
+
+15. For claims of protected disclosure detriment, the relevant law is set out in the Employment Rights Act 1996
+
+S48 Complaints to employment tribunals
+
+…
+
+(3) An [employment tribunal]1 shall not consider a complaint under this section unless it is presented—
+
+(a) before the end of the period of three months beginning with the date of the act or failure to act to which the complaint relates or, where that act or failure is part of a series of similar acts or failures , the last of them, or
+(b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months. …
+
+16. The relevant law on time limits for a discrimination claim is found at s123 of the Equality Act 2010.
+
+S123 Time Limits
+
+Subject to section 140B proceedings on a complaint within section 120 may not be brought after the end of— (a)the period of 3 months starting with the date of the act to which the complaint
+
+relates, or
+
+(b)such other period as the employment tribunal thinks just and equitable. Decision and Reasons Employer
+
+17. Mr Benjamin relied on the evidence of Mr Glover and the offer letter of 31 March 2012 in support of the respondents’ case that the second respondent was the employer of the claimant. Mr Glover said that the fact that the first respondent was named on financial documentation such as pay slips and a P45 was simply because it was the first respondent who carried out the payroll function. The claimant said that he had understood himself to be employed by the first respondent from the time of his promotion as it was the first respondent who paid him, because at the time of the promotion he had moved from weekly to monthly pay and also due to his conversation with other senior employees. Ms Amesu referred me to Autoclenz Ltd v Belcher [2011] ICR 1157 via the case of Ter-berg v Simply Smile [2023] EAT 2 but there was nothing in the evidence before me which indicated that this was a case in which the truth was not represented in the documents and the respondents’ evidence. No evidence was provided or submission made that the first respondent controlled the work of the claimant or had any control over him in terms of, for example, granting holidays, deciding on promotions. I did not either receive evidence that the second respondent had such control, but would have expected evidence that it did not, and the first respondent did, would have been presented by the claimant if available. The evidence from Mr Glover as to the limited role of the first respondent in terms of the first respondent acting as a payroll bureau was credible and I accept it.
+
+18. I conclude that the claimant’s employer, for the purposes of this claim, is the second respondent, and the claim against the first respondent is dismissed.
+
+Time
+
+19. I have set out below the separate heads of the claim brought against the second respondent and next to each the relevant limitation period from which a conclusion is drawn on whether each head is brought in time. I have then gone on to consider, in respect of claims that are out of time, whether time should be extended under the relevant statutory tests.
+
+19.1 Constructive unfair dismissal: The claimant resigned on 10 January 2024. As the early conciliation certificate relied upon was issued on 23 November 2022 it does not operate to extend the primary limitation period which ended on 9 April 2024. The claim was filed on 2 June 2024, so it is out of time.
+19.2 Protected Disclosure Detriment: The last act (detriment) complained of is in October 2022. No specific date is set out, and I have taken the claimant’s claim at its highest by calculating limitation periods from 31 October 2022. Early conciliation commenced on 7 November 2022 and ended on 23 November 2022. The last day for the filing of this complaint was then 15 February 2023, and the claim is out of time.
+19.3 Disability Discrimination: The discrimination complaint is set out under four separate heads of discrimination law. The claims of harassment and victimisation rely on the dismissal as an act of discrimination. Specific dates are not provided in relation to the reasonable adjustments claim (as set out in the agreed list of issues included in EJ Gordon Walker’s order of 15 October 2025) but I understood the complaint to have been unresolved at the point of resignation. The complaint of direct discrimination includes incidents that took place in the final week of employment. As the early conciliation certificate relied upon was issued on 23 November 2022 it does not operate to extend the primary limitation period which ended on 9 April 2024. The claim was filed on 2 June 2024, so it is out of time.
+
+20. In considering whether time should be extended for the purposes of the dismissal and protected disclosure complaints ss 48 and 111 Employment Rights Act 1996 apply and I must decide if it was reasonably practicable to file in time, and it not whether the claim was filed within such further period as I consider reasonable. In Asda Stores Ltd v Kauser EAT 0165/07 Lady Smith said: ‘The relevant test is not simply a matter of looking at what was possible but to ask whether, on the facts of the case as found, it was reasonable to expect that which was possible to have been done’.
+
+21. For the constructive dismissal claim, medical records before me show the claimant to be suffering from poor mental health from before his resignation up until the time that claim was filed. Ms Amesu said that this was a major factor in why it was not reasonably practicable to file in time. Furthermore, the claimant believed the first respondent to be his employer, and I accept that he had good reason for doing so as it paid him. The second respondent was only included at the point of filing as his solicitor suggested that all possibilities should be covered. The claimant gave evidence that he was unwell during the time that Ms Grieff was instructed, as was she, and that he had few conversations with her. I have accepted the claimant’s oral evidence that he believed the first respondent to be his employer, that he did not give instructions about commencing conciliation with the second respondent to his previous solicitor in November 2022, and was not aware that she had done so. Had he been correct in that the first respondent was his employer then the claim would have been in time. Mr Benjamin noted in his submissions that the claimant has been represented throughout the proceedings. He did not make any submissions on the claimant’s health. While I accept that having a legal advisor is often fatal to an application to extend time under ss 48 and 111, in my view the claimant’s ill health, the ill health of his advisor and the understandable belief of the claimant that his employer was the first respondent mean that this is not simply a matter where the view should be taken that the fault lies with the adviser and the claimant’s redress, if any, lies in that direction.
+
+22. I conclude that it was not reasonably practicable for the claimant to file his claim by 9 April 2024, but it was reasonably practicable for him to do so before the expiry of the limitation period in respect of the claim against the first respondent. He did file it within this limitation period and therefore time for the filing of the claim of unfair dismissal is extended to 2 June 2024.
+
+23. For protected disclosure detriment, the claim, putting the claimant’s case at its highest, should have been filed by 15 February 2023. The claimant asks the tribunal to find that it was not reasonably practicable for him to file that claim for a further two years and four months, the last act complained of being in October 2022. While I accept that the claimant has been unwell with long covid, stress and anxiety to a greater or a lesser degree since at least April 2022, as shown in his medical documents, I do not accept that his ill health has been so consistently bad that he has been unable to file or instruct someone to file a claim for that entire period. I note that he was well enough to attend work, if only on reduced duties, from October 2022 to May 2023. I find that it was reasonably practicable for the claimant to have filed a claim of protected disclosure detriment before the end of the three month limitation period, as extended to take account of early conciliation. As he did not, the claim is out of time, and the tribunal has no jurisdiction to hear it.
+
+24. The test in relation to extending time to file discrimination claims is whether the tribunal finds that it is just and equitable to extend time. In considering whether it is just and equitable to extend time I need to consider a number of factors including the length of the delay and the reasons for it, how the delay might have prejudiced the respondents’ ability to defend the claim, the prejudice to the claimant in being time barred from bringing his claim and I should include a consideration of the merits of the claim. This list is not exhaustive and no one factor is necessarily more important that another.
+
+25. As noted, each of the four heads of the discrimination claim includes allegations that were current at the point of resignation. The tribunal is therefore asked by the claimant to extend time for a period of two months. Had I found that the first respondent was the claimant’s employer, the claims would have been filed in time. I have accepted that although he was ultimately incorrect, the claimant had good reason for believing the first respondent to be his employer. I have seen evidence that he was unwell and unable to work from before his resignation until after the claim was filed. The final hearing is listed in March 2026, and the respondents have not argued any specific or forensic prejudice in their objections to an extension of time. Even though the claimant can pursue his claim of constructive dismissal, it is my view that he would suffer significant prejudice were he not given permission to pursue the claim of disability discrimination. This is a prejudice greater than any to the second respondent in having to respond to a claim that would otherwise be time barred, particularly where the second respondent will need to address many of the same issues in its response to the dismissal case. Time for filing the claim of disability discrimination is extended to 2 June 2024, however I have made no decision about whether any allegations regarding incidents that took place more than three months prior to the date on which ACAS was contacted, the date of contact being 27 March 2024, are in time or whether there was a continuing course of conduct. This is a matter for the tribunal at the final hearing.
+
+26. In respect of the third respondent, Mr Benjamin confirmed that the respondent accepted that the claims against Ms Arrowsmith had been brought in time, and so there was no decision for me to make in that respect. I specify though, that the same caveat applies in respect of allegations about incidents that took place before 27 December 2023, and was clear that the respondents’ concession was only in relation to incidents alleged to have taken place after that date. Whether any incidents that took place before 27 December 2023 were brought in time is a matter for determination by the tribunal at the final hearing.

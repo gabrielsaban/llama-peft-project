@@ -1,0 +1,515 @@
+RESERVED JUDGMENT
+
+1. The claimant’s application to amend his claim is rejected in its entirety.
+
+2. The claims of age discrimination and harassment related to age have no reasonable prospect of success and are struck out in their entirety.
+
+3. The claims of sex discrimination and harassment related to sex have no reasonable prospect of success and are struck out in their entirety.
+
+4. The claim of victimisation has no reasonable prospect of success and is struck out in its entirety.
+
+5. The allegations regarding the claim of unauthorised deduction of wages at paragraph 8.2.2, 8.2.3, 8.2.4, 8.2.5 and 8.2.6 have no reasonable prospect of success and are struck out.
+
+6. The claim of constructive unfair dismissal has no reasonable prospect of success and is struck out.
+
+7. The application for strike out regarding the whistleblowing claim and the allegation of unauthorised deduction of wages at paragraph 8.2.1 of the July List of Issues is rejected.
+
+8. The application for a deposit order regarding the whistleblowing claim and the allegation of unauthorised deduction of wages at paragraph 8.2.1 of the July List of Issues is rejected.
+
+REASONS
+
+Attachments
+
+1. Numerous documents are attached to this Reserved Judgment, as follows:
+
+Reproduced documents that the parties have already had:
+
+1.1 “The July Schedule” – the Schedule of Allegations following the 11 July 2025 hearing – attached for ease of reference;
+1.2 “The July List of Issues” – the list of complaints and issues as they appeared in the Case Management Order following the 11 July 2025 hearing, lifted and placed into a fresh document – attached for ease of reference;
+1.3 “The Reformatted Schedule” – a version of the schedule of 44 allegations that the claimant sought to include in his claim, that schedule being the subject of the amendment application – attached for ease of reference; New documents produced to be read alongside this Reserved Judgment:
+1.4 “6012642.24 EJ Amendment Decision Table” – a table setting out my decision on the individual allegations that the claimant sought to include via his application to amend his claim, heard on 23 September 2025;
+1.5 “6012642.24 CMOs 05.11.25” – case management orders following this decision, incorporating the List of Issues as the claim now stands, in light of the decisions within this Reserved Judgment. Introduction
+
+2. The claimant worked at the respondent as a Customer Assistant in the café of the respondent’s Witney store from 20 October 2019 until his resignation on 9 April 2024, which took effect on 16 April 2024. Early conciliation started on 14 July 2024 and ended on 25 August 2024. The claim form was presented on 24 September 2024.
+
+3. On the face of the claim form, the claimant sought to bring the following claims:
+
+3.1 Constructive unfair dismissal;
+3.2 Age discrimination;
+3.3 Sex discrimination;
+3.4 Whistleblowing;
+3.5 Pay claims (including holiday pay).
+
+4. It later transpired and was recorded that the claimant also sought to pursue claims of victimisation and harassment related to age and sex in the alternative to the direct discrimination claims.
+
+5. I note at this stage that Box 8.2 on the claim form was filled in by the claimant, with the text taking up approximately half the box. In other words, there was more space for the claimant to fill in further detail.
+
+6. The hearing today was listed as part of a continuation of several preliminary hearings, the overall aim being to produce a comprehensive List of Issues for use at a final hearing of the claimant’s claims. Specifically, I listed this hearing at the last preliminary hearing on 11 July 2025 in order to deal with the following preliminary matters:
+
+6.1 To discuss the status of the claimant’s additional schedule, produced the evening before the preliminary hearing on 11 July 2025. Specifically, whether to consider it as an application to amend, and then deal with any application to amend as appropriate;
+6.2 The respondent’s application for strike out and/or deposit order;
+6.3 Case management orders to prepare for the final hearing in 2027, including the length of the hearing and the listing itself to see if it may be possible to obtain earlier dates;
+6.4 Listing a Dispute Resolution Appointment (“DRA”) as necessary, and case management orders for that DRA.
+
+7. For the purpose of today’s hearing, I had before me a bundle of 534 pages. I refer to page X within that bundle as [X]. I also had the benefit of the respondent’s skeleton argument with two appendices and an authorities bundle from the respondent. I also had two emails from the claimant: one email from the claimant at 2322hrs the evening prior to the hearing attaching a document entitled “Matthew Orr Edited Additional Schedule of Allegations” and an email from mid-morning of the hearing (1123hrs) setting out the claimant’s response to part of the respondent’s skeleton argument.
+
+Findings of fact
+
+Procedural history
+
+8. This case has already been the subject of two preliminary hearings, on 23 April 2025 and 11 July 2025, both before me.
+
+9. Prior to the 23 April 2025 preliminary hearing, a Notice of Hearing was sent to the parties containing various orders for further information to be provided by the claimant by 14 January 2025 – [35]-[38]. On 14 January 2025, the claimant sent to the Tribunal and the respondent a “Timeline of Events” regarding his discrimination and whistleblowing claims – covering email at [39], Timeline at [40]-[58]. On 23 February 2025, the claimant sent an email to the Tribunal stating that he wanted to add a claim of disability discrimination – [59].
+
+10. There was, in the lead up to the 23 April 2025 hearing, a large amount of email traffic in an attempt to produce an agreed Draft List of Issues as required by an order within the Notice of Hearing. Both sides ended up drafting their own: the claimant’s is at [120]-[141].
+
+23 April 2025 hearing
+
+11. At the 23 April 2025 hearing, I spent the entire hearing attempting to sift through the issues in the claim. Due to the length of the claimant’s draft list of issues, we were unable to complete this exercise in the allotted time. My suggested way forward was that, regarding the issues within the Claimant’s draft that we had not managed to cover, I would attempt to set them out under the title of the relevant legal heads of claim as I understood them to be on reading the entire document. Orders were then put in place to enable the claimant to comment on my Draft List of Issues produced following the hearing on 23 April 2025. My Case Management Orders arising from that hearing are at [188]-[202]. Referenced in my Draft List of Issues was a Schedule of Allegations produced by me (“the April Schedule”). This document was intended to set out the factual allegations of age and sex discrimination – [203]-[216]. The claimant was ordered to “fill in the blanks” of that Schedule in advance of the next hearing, listed for 11 July 2025. That second preliminary hearing was listed to deal with the following:
+
+11.1 Completion of the List of Issues – to include:
+11.1.1 Any issues of amending the claim to include any complaints that are in the Draft List of Issues, but not in the claim form; and,
+11.1.2 Any further applications made by the respondent (provided they are made at least 14 days before the preliminary hearing).
+
+12. In response to those orders, the claimant did add in detail into the April Schedule – [222]-[240]. He also sent in a document entitled “Disability Discrimination” – [241]-[246]. The respondent, in turn, entered its comments into the April Schedule, primarily to address whether it accepted that the relevant allegation was part of the claim or whether an application to amend was needed – [249]-[270]. The version of the schedule that appears at [249]-
+
+[270] I shall refer to as “the Original Schedule”: it contains both parties’ comments/representations up to the 11 July hearing.
+
+13. The claimant then sent more detail in an email of 8 July 2025, including a response to the respondent’s comments in the Original Schedule, and information regarding his shift patterns, hours worked and breaks – the document regarding shift patterns and so on is at [284]-[300], the claimant’s response to the respondent’s comments in the Original Schedule is at [309]- [331].
+
+14. The night before the 11 July 2025 preliminary hearing, at 2328hrs, the claimant sent an email to the Tribunal and the respondent attaching a further revised Schedule of Allegations at [342]-[370] and a document containing further allegations at [371]-[376].
+
+11 July 2025 hearing
+
+15. At the 11 July 2025 hearing, we were unable to consider the claimant’s further allegations sent in at 2328hrs the night before at [371]-]376], given the lateness of the hour at which it was served. I made orders requiring the claimant to set out those further allegations in the format of an additional schedule within 14 days of the date my Orders were sent to the parties – see paragraph 6 on [378].
+
+16. At the 11 July 2025 hearing, I dealt with the claimant’s application to amend his claim by reference to the further revised Schedule of Allegations dated 10 July 2025 – [342]-[370] and my Draft List of Issues produced following the 23 April 2025 hearing at [193]-[201].
+
+17. My Case Management Orders and Summary following the 11 July 2025 hearing are at [377]-[391], with the new List of Issues at [383]-[391] (“the July List of Issues”) and a new Schedule of Allegations at [392]-[401] (“the July Schedule”). The July Schedule and the July List of Issues reflected my decisions made on 11 July 2025 regarding the claimant’s application to amend the claim. Due to the time it took to deal with the application to amend, despite the hearing being listed for one day, we were unable to also deal with the respondent’s application to strike out the claims or for a deposit order in the alternative. The July List of Issues and the July Schedule are attached for ease of reference.
+
+18. I therefore listed the matter for yet another one day preliminary hearing today.
+
+Preparation for today’s hearing
+
+19. In response to my order, requiring the claimant to convert further allegations sent on 10 July (at [371]-]376]) into an additional schedule, the claimant produced the email at [402]-[404] on 5 August 2025, attaching a table as ordered at [405]-[415]. This document contained 44 allegations.
+
+20. In response, the respondent sent a revised application for strike out or deposit order in the alternative by email of 6 September 2025 – [416]-[420]. On 11 September, the respondent emailed the claimant (not the Tribunal), setting out its position on the 44 allegations (amongst other matters) – [421]-[425].
+
+21. The claimant in turn responded on 20 September 2025 in an email containing an attachment responding to the points made by the respondent – email at [427]-[431], attachment at [432]-[450].
+
+22. On 21 September 2025 at 1057hrs, the claimant sent a further lengthy email at [453]-[460], replying further to the respondent’s email of 11 September 2025.
+
+23. Also on that date, the claimant sought to appeal my decision on his application to amend made on 11 July 2025, first by email at 1947hrs at [469]-[501], then by sending through an updated version – cover email at [502], “appeal” document at [503]-[528]. Unfortunately, the claimant sent these documents to Watford Tribunal, rather than the Employment Appeal Tribunal. During the course of today’s hearing, I told the claimant where he could find information about instituting an appeal on the gov.uk website, a reference which in fact appears as standard in my Orders, for example my Orders following the 11 July 2025 hearing at paragraph 19 – [380].
+
+24. Further, on 21 September at 2312hrs, the claimant sent another email, setting out that he had made errors/duplicates in his 44 allegations of 5 August 2025, at [529]-[533].
+
+25. Finally, on 22 September 2025 at 2322hrs, the claimant sent through an email attaching a document entitled “Matthew Orr Edited Additional Schedule of Allegations”. This is, on inspection, not very much different from his 44 allegations, but in fact deletes some of the allegations as duplicates and adds some helpful points of clarification. It also removes disability discrimination as a head of claim: this is in light of the claimant’s (correct) understanding that I rejected the application to amend his claim to include a claim of disability discrimination at the 11 July 2025 hearing. In other words, all allegations within the 44 allegations are said to fall under the legal heads of claim of sex and/or age discrimination only, not disability discrimination as well.
+
+26. Evidently, given the lateness of the hour once again, this email is not within the hearing bundle, but I have a copy of it in front of me in reaching my decision today. It is referred to herein as “the 22 September Schedule”.
+
+The Reformatted Schedule
+
+27. The 44 allegations received from the claimant were reformatted by the respondent to enable it to be more “user friendly” document, and it is that version to which I will make reference when determining the application to amend. I will refer to it as “the Reformatted Schedule”. It is attached to this Judgment for ease of reference. The claimant is to be assured that the content has not been altered from his 44 allegations submitted on 5 August 2025: all that has been done is that allegations have been broken down with sub- numbering (such as “1.1 to 1.4”, instead of four allegations falling under “1”) for ease of reference.
+
+28. The Reformatted Schedule contains 44 allegations. I have set out my analysis of the individual allegations within that schedule in the table attached to this Judgment (“6012642.24 EJ Amendment Decision Table”). I have set out some general conclusions within the “Conclusions” section below.
+
+Facts regarding time limits
+
+29. Given when the ACAS early conciliation period started, any allegation that occurred before 15 April 2024 is out of time.
+
+30. The claimant’s resignation took effect on 16 April 2024; as such his constructive unfair dismissal claim was presented in time.
+
+31. The claimant’s whistleblowing detriment claim relates to one alleged detriment, as at paragraph 4.1 of the List of Issues: “repeatedly refusing various advancement opportunities” regarding “management training”.
+
+32. No date is attached to that allegation and therefore I am unclear at this stage as to whether this claim was presented within the relevant time limit or not.
+
+33. Only one allegation within the claimant’s unauthorised deduction of wages claim has a date attached to it: that being the allegation at paragraph 8.2.1 of the July List of Issues. The dates attached are November 2023 to March 2024. At this stage, taking the claimant’s case at its highest, and giving him the benefit of the doubt, it is possible that the alleged underpayment for March 2024 did not fall due until his April pay slip. I am not clear as to the day of the month on which the claimant was routinely paid. As such, it is possible that the last alleged deduction occurred on or after 15 April 2024, and is therefore within the 3 month (less a day) time limit. If this is the case, then, in theory, any deductions for work done in November 2023 to February 2024 could form a series of deductions linked the alleged deduction for work done in March 2024. As such, it is not clear at this stage that this claim was presented outside the primary time limit.
+
+34. Taking then the age and sex discrimination/harassment claims, and by reference to the allegation numbers within the July Schedule, there are two different categories:
+
+34.1 Type 1 – allegations that acts occurred throughout employment (those at allegations 2 to 8). The latest date upon which these could have taken place are the last day of the claimant’s employment, on 16 April 2024. These therefore could have been brought within the primary time limit. These are acts allegedly done by Sharon Harley, Lynn Thomas, Carolyn Stevens and Lesley Stewart;
+34.2 Type 2 – allegations that acts occurred on specific dates (those at allegations 11 to 75), the latest allegation in time being allegation 75, dated February 2024. These therefore were all presented outside of the primary time limit. Allegations 36 to 75 (except allegation 65) are allegedly committed by people other than Sharon Harley, Lynn Thomas, Carolyn Stevens and Lesley Stewart.
+
+35. Turning then to the victimisation claims, these encompass the allegations within the July Schedule, and so the same analysis of time applies as at paragraph 34 above. There are additional allegations of victimisation at paragraph 7.2.3 to 7.2.8 of the July List of Issues. Those allegations were all presented outside the primary time limit. The alleged perpetrators of those allegations are said to be Rachel, Georgina and Sharon Grant. The victimisation claim in its entirety was therefore presented outside the primary time limit.
+
+36. In relation to the application to amend heard at the 23 September 2025 hearing, in the claimant’s email of 20 September 2025 at [427]-[450], he raised some mitigation as to why those allegations were raised late:
+
+36.1 The claimant has a full time job;
+36.2 The claimant has depression and anxiety;
+36.3 His home situation was/is extremely difficult regarding his grandparents’ health;
+36.4 He was moving back to his parents’ house;
+36.5 He is a litigant in person.
+
+37. However, the claimant has, despite these hurdles, been able to send to the Tribunal and respondent lengthy, detailed, documents and various iterations of schedules of allegations, over the period since this litigation began. I therefore do not accept that the above reasons are good reasons for the delay, given they have not impeded the claimant’s ability to send so much vast correspondence in this case.
+
+Issues
+
+38. This preliminary hearing was listed to consider:
+
+38.1 The 44 allegations of discrimination contained in the Additional Schedule dated 5 August 2025 (reproduced accurately within the Reformatted Schedule), and whether the claim should be amended to include those allegations; and
+38.2 The respondent’s revised application for strike out or, in the alternative, for a deposit order, dated 6 September 2025. Legal framework – amendment application
+
+39. In considering an amendment application, the Tribunal must (as always) take into account the overriding objective, in that the case must be dealt with fairly and justly – rule 3 of the Employment Tribunal Procedure Rules 2024 (“the Rules”).
+
+40. The power to permit an amendment stems from the Tribunal’s case management powers under rule 30 of the Rules.
+
+41. In considering whether an application to amend is required (or indeed the nature of the amendment sought), it is necessary to scrutinise the claim form, by which is meant the entirety of the claim form. The important question is whether, on a fair reading of the completed claim form, the claimant has raised the claim in question. The case of Chandhok v Tirkey [2015] ICR 527 provides that the importance of the claim form cannot be overstated. It is a basic principle that the claim form must clearly set out the claimant’s case, including the facts on which the claimant will seek to rely.
+
+42. The Employment Appeal Tribunal (“EAT”) has recently reviewed the case-law on amendments in the case of MacFarlane v Commissioner of Police of the Metropolis 2023 EAT 111. In that case, the EAT confirmed that the three relevant factors are:
+
+42.1 the nature of the amendment;
+42.2 the applicability of time limits; and,
+42.3 the timing and manner of the application.
+
+43. The overarching principle is the balance of injustice and hardship of allowing the amendment against the injustice and hardship of refusing it. The EAT highlighted that the focus must be on the substance of the amendment, not its legal form. In terms of time limits, these should not be determinative, however the further away in substance the new claim is from the original claim, the more weight a Tribunal may attach to the issue of time limits.
+
+Nature of application
+
+44. The case of Selkent Bus Co Ltd v Moore [1996] IRLR 661 set out a non- exhaustive list of factors (not to be treated as a checklist, but as guidance) to consider in relation to an amendment application: the first being the nature of the amendment. The EAT held: “Applications to amend are of many different kinds, ranging, on the one hand, from the correction of clerical and typing errors, the additions of factual details to existing allegations and the addition or substitution of other labels for facts already pleaded to, on the other hand, the making of entirely new factual allegations which change the basis of the existing claim. The Tribunal have to decide whether the amendment sought is one of the minor matters or is a substantial alteration pleading a new cause of action”.
+
+45. There are therefore broadly three types of amendments:
+
+45.1 Clerical errors;
+45.2 Relabelling or adding facts to existing claims; and,
+45.3 New factual allegations altering the basis of the legal claim.
+
+46. In determining which type of application the Tribunal is dealing with, the EAT has provided helpful guidance. First, in the case of Foxtons Ltd v Ruwiel UKEAT/0056/08 at paragraph 12, it was held that: “it is not enough even to make certain observations in the claim form which might indicate that certain forms of discrimination have taken place; in order for the exercise to be truly a re-labelling one, the claim must demonstrate the causal link between the unlawful act and the alleged reason for it.”
+
+47. Second, the EAT in Reuters Ltd v Cole EAT 0258/17 found the Tribunal had made an error in allowing an amendment to a s15 and s20/21 Equality Act 2010 (“EqA”) claim to add a s13 EqA claim as a relabelling exercise. The EAT held that the difference in statutory test, and therefore the additional evidence needed, took this out of a relabelling exercise, and the case was remitted to consider the application as a case involving an amendment of the type set out at paragraph 45.3 above.
+
+Time limits
+
+48. Once the nature of the amendment has been determined, the Tribunal must also consider the applicability of time limits. Only in a case of new factual allegations altering the basis of the claim are time limits relevant.
+
+49. An application to amend must be considered on the facts and circumstances as they stood as at the date of the application – Selkent. In turn, this means that the question of time limits must be considered with reference to the date of the application, as opposed to the date of the original claim form.
+
+50. If the date of the application leads to the conclusion that the amended claim is, on the face of it, out of time, the Tribunal may need to consider whether the relevant extension provisions apply. In the case of Galilee v Commissioner of Police of the Metropolis [2018] ICR 634, it was held that the Tribunal need not decide whether time limits should be extended at this stage of proceedings (as part of the amendment application). It is possible to permit an amendment, subject to the time limits issue which can be determined at a final hearing – Galilee, followed by Reuters Ltd v Cole UKEAT/0258/17 and Szymoniak v Advanced Supply Chain (BFD) Ltd EAT 0126/20.
+
+Timing and manner of application
+
+51. The Tribunal need then thirdly to consider the timing and manner of the application, and, in particular, why the application was not made earlier. In Martin v Microgen Wealth Management Systems Ltd EAT 0505/06, the EAT held that the longer the delay in making the application, the greater the likelihood that the balance of injustice and hardship will weigh in favour of rejecting the application. However, case-law makes it very clear that there will be cases in which amendment applications will be delayed, and yet should be permitted to proceed – for example, Ahuja v Inghams 2002 ICR 1485 CA.
+
+52. The EAT in Ladbrokes Racing Ltd v Traynor EATS 0067/06 set out factors for the Tribunal’s consideration regarding the timing and manner of amendment applications – paragraph 20:
+
+52.1 The reason why the application was made when it was, and not earlier;
+52.2 Whether the timing of the application means that there will be delay in the litigation and whether additional costs are likely to be incurred due to that delay, or due to the need for a longer final hearing. The risk of additional costs is particularly relevant if a party is unlikely to recover them;
+52.3 Whether any delay would impact the ability of the respondent to obtain the relevant evidence to defend the new claim, or the quality of that evidence. Balance of injustice and hardship
+
+53. Ultimately, the key issue is the balance of injustice and hardship. In Vaughan v Modality Partnership [2021] IRLR 97, EAT, the EAT gave detailed guidance on the correct procedure to adopt when considering applications to amend Tribunal pleadings. It confirmed that the core test in considering applications to amend is the balance of injustice and hardship in allowing or refusing the application – paragraph 21: “Representatives would be well advised to start by considering,…, what the real practical consequences of allowing or refusing the amendment. If the application to amend is refused how severe will the consequences be, in terms of the prospects of success of the claim or defence; if permitted, what will be the practical problems in responding”.
+
+54. In Kumari v Greater Manchester Mental Health NHS Foundation Trust [2022] EAT 132, the EAT held that, when considering whether to grant an application to amend to add a further out of time discrimination complaint, the Tribunal was entitled to weigh in the balance its assessment that the merits of the proposed complaints were weak. This will factor into the balance of hardship and injustice: the disadvantage of missing out on adding in a weak claim must be less than the disadvantage of not being able to pursue a strong claim.
+
+Legal framework – strike out
+
+55. The power to strike out a claim (or part of a claim) is found within r38(1) of the Rules. The relevant ground for strike out in this case is r38(1)(a), which provides as follows: “38(1) The Tribunal may, on its own initiative or on the application of a party, strike out all or part of a claim or reply on any of the following grounds –
+
+(a) That it is scandalous or vexatious or has no reasonable prospect of success;...”
+
+56. For discrimination claims, the starting point regarding case-law is Anyanwu and anor v South Bank Student Union and anor [2011] ICR 391 UKHL. Here, the House of Lords emphasised that discrimination claims are often fact-sensitive and require close examination of the evidence at a full merits hearing.
+
+57. Further caution has been advised in Bahad v HSBC Bank plc [2022] EAT 83, at paragraph 25: “The approach that should be adopted to applications to strike out is of extremely long standing. From the House of Lords to the EAT, the appellate courts have for many years urged caution in striking out discrimination and public interest disclosure claims. Yet, on occasions employment tribunals having directed themselves that it is an extraordinary thing to do, strike out claims that are far from unusual. Experienced employment judges may sometimes feel that it is pretty clear that a claim will not succeed at trial and wish to save the expense and, possibly, the distress to the claimant of a failed claim. But that is what deposit orders were designed for. To strike out a claim the employment judge must be confident that at trial, after all the evidence has come out, it is almost certain to fail, so it genuinely can be said to have no reasonable prospects of success at a preliminary stage, even though disclosure has not taken place and no witnesses have given evidence. When discrimination claims succeed it is often because of material that came out in disclosure and because witnesses prove unable to explain their actions convincingly when giving evidence.”
+
+58. In Ezsias v North Glamorgan NHS Trust [2007] EWCA Civ 330, the Court of Appeal held that, as a general point of principle, cases should not be struck out when there is a dispute over the key facts. The reference to key facts also encompasses the reasons for a respondent’s conduct, where those reasons are relevant to the applicable legal test – Tayside Public Transport Co Ltd (t/a Travel Dundee) v Reilly [2012] IRLR 755.
+
+59. However, there are some caveats to the general approach of caution towards strike out applications. In Ahir v British Airways plc [2017] EWCA Civ 1392 CA, it was held that, when a tribunal is satisfied that there are no reasonable prospects of the facts needed to find liability being established, strike out may be appropriate. This is caveated by the need to be aware of the danger of reaching that conclusion without having heard all the evidence.
+
+60. Mitting J in Mecharov v Citibank NA [2016] ICR 1121 EAT provided the following guidance at paragraph 14: “…the approach that should be taken in a strike out application in a discrimination case is as follows:
+
+1. Only in the clearest case should a discrimination claim be struck out;
+
+2. Where there are core issues of fact that turn to any extent on oral evidence, they should not be decided without hearing oral evidence;
+
+3. The claimant’s case must ordinarily be taken at its highest;
+
+4. If the claimant’s case is “conclusively disproved by” or is “totally and inexplicably inconsistent” with undisputed contemporaneous documents, it may be struck out; and,
+
+5. A tribunal should not conduct an impromptu mini trial of oral evidence to resolve core disputed facts.”
+
+61. In Cox v Adecco & Others [2021] ICR 1307, HHJ Taylor gave the following summary of general propositions gleaned from the relevant case-law (paragraph 28): “(1) No-one gains by truly hopeless cases being pursued to a hearing;
+
+(2) Strike out is not prohibited in discrimination or whistleblowing cases; but especial care must be taken in such cases as it is very rarely appropriate;
+
+(3) If the question of whether a claim has reasonable prospect of success turns on factual issues that are disputed, it is highly unlikely that strike out will be appropriate;
+
+(4) The Claimant’s case must ordinarily be taken at its highest;
+
+(5) It is necessary to consider, in reasonable detail, what the claims and issues are. Put bluntly, you can’t decide whether a claim has reasonable prospects of success if you don’t know what it is;
+
+(6) This does not necessarily require the agreement of a formal list of issues, although that may assist greatly, but does require a fair assessment of the claims and issues on the basis of the pleadings and any other documents in which the claimant seeks to set out the claim;
+
+(7) In the case of a litigant in person, the claim should not be ascertained only by requiring the claimant to explain it while under the stresses of a hearing; reasonable care must be taken to read the pleadings (including additional information) and any key documents in which the claimant sets out the case. When pushed by a judge to explain the claim, a litigant in person may become like a rabbit in the headlights and fail to explain the case they have set out in writing;
+
+(8) Respondents, particularly if legally represented, in accordance with their duties to assist the tribunal to comply with the overriding objective and not to take procedural advantage of litigants in person, should assist the tribunal to identify the documents in which the claim is set out, even if it may not be explicitly pleaded in a manner that would be expected of a lawyer;
+
+(9) If the claim would have reasonable prospects of success had it been properly pleaded, consideration should be given to the possibility of an amendment, subject to the usual test of balancing the justice of permitting or refusing the amendment, taking account of the relevant circumstances.”
+
+62. In terms of the burden of proof in claims under the Equality Act 2010, this is set out in s136 EqA: “(1) This section applies to any proceedings relating to a contravention of this Act.
+
+(2) If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+
+(3) But subsection (2) does not apply if A shows that A did not contravene the provision”.
+
+63. In Laing v Manchester City Council and anor [2006] ICR 1519, Mr Justice Elias held that: “the onus lies on the employee to show potentially less favourably treatment from which an inference of discrimination could properly be drawn”.
+
+64. This requires the Tribunal to consider all the material facts without considering the respondent’s explanation at this stage. However, this does not mean that evidence from the respondent undermining the claimant’s case can be ignored at stage one – Efobi v Royal Mail Group Ltd 2021 ICR 1263. It is not enough for the claimant to show that there has been a difference in treatment between him and a comparator, there must be “something more”. In Madarassy v Nomura International plc 2007 ICR 867, Lord Justice Mummery held: “The bare facts of a difference in status and a difference in treatment only indicate a possibility of discrimination. They are not, without more, sufficient material from which a tribunal “could conclude” that, on the balance of probabilities, the respondent had committed an unlawful act of discrimination”.
+
+Legal framework – deposit order
+
+65. The Tribunal has the power to make deposit orders against any specific allegations or arguments that it considers have little reasonable prospect of success under r40 of the Rules: “(1) Where at a preliminary hearing the Tribunal considers that any specific allegation or argument in a claim…has little reasonable prospect of success, it may make an order requiring a party (“the depositor”) to pay a deposit not exceeding £1,000 as a condition of continuing to advance that allegation or argument (“a deposit order”).
+
+(2) The Tribunal must make reasonable enquiries into the depositor’s ability to pay the deposit and have regard to any such information when deciding the amount of the deposit.
+
+(3) The Tribunal’s reasons for making the deposit order must be provided with the order and the depositor must be notified about the potential consequences of the order.
+
+(4) If the depositor fails to pay the deposit by the date specified by the deposit order, the Tribunal must strike out the specific allegation or argument to which the deposit order relates. …
+
+(7) If the Tribunal following the making of a deposit order decides the specific allegation or argument against the depositor for substantially the reasons given in the deposit order –
+
+(a) The depositor must be treated as having acted unreasonably in pursuing that specific allegation or argument for the purpose of rule 74 (when a costs order or a preparation time order may or must be made), unless the contrary is shown.
+(b) The deposit must be paid to the other party … Otherwise the deposit must be refunded.
+
+(8) If a deposit has been paid to a party under paragraph (7)(b) and a costs order or preparation time order has been made against the depositor in favour of the party who received the deposit, the amount of the deposit must count towards the settlement oft that order”.
+
+66. The rationale of a deposit order is to warn a claimant against pursuing claims with little merit, which may leave them open to a risk of costs should they proceed with the claim and lose on the same basis as identified as the reason for making a deposit order – Hemdan v Ishmail and anor [2017] IRLR 228.
+
+67. The purpose of such an order is not to restrict disproportionately access to justice, hence any order made must be for an amount that is affordable by a party, and can be realistically complied with – Hemdan.
+
+68. In terms of the test of “little reasonable prospect of success”, the Tribunal is permitted to consider the likelihood of the claimant being able to establish the essential facts of his or her case. In undertaking this exercise, it is entitled to reach a preliminary view on the credibility of the allegations and assertions that the claimant is making in his/her claim – Van Rensburg v Royal Borough of Kingston-upon-Thames [2007] All ER (D) 187 (Nov). The Tribunal must have a proper basis for considering it unlikely that a claimant will be able to establish the necessary facts to prove his/her claim.
+
+69. If the Tribunal decides to make a deposit order, it must give reasons, not only for the fact of the order, but also for the amount of that order – Adams v Kingdon Services Group Ltd EAT/0235/18.
+
+Legal framework – time limits
+
+Equality Act (“EqA”) claims
+
+70. The claims to which the following law applies are the claims of direct discrimination, harassment and victimisation.
+
+71. S123 EqA provides as follows: “s123(1) Subject to section 140B proceedings on a complaint within section 120 may not be brought after the end of –
+
+(a) The period of 3 months starting with the date of the act to which the complaint relates, or
+(b) Such other period as the employment tribunal thinks just and equitable”.
+
+72. The issue as to whether a claim is brought within such time as is just and equitable has been established to be one of fact for the first instance tribunal.
+
+73. It is well established that, despite the broad scope of the “just and equitable” test, it remains the case that time limits should be applied strictly, and to extend time remains an exception to the rule – Robertson v Bexley Community Centre [2003] EWCA Civ 576. The burden is therefore on the claimant to demonstrate to the Tribunal that time should be extended.
+
+74. However, the Tribunal’s discretion is wide: the Court of Appeal commented in recent years that “Parliament has chosen to give the employment tribunal the widest possible discretion” – Abertawe Bro Margannwg University Local Health Board v Morgan [2018] EWCA Civ 640.
+
+75. The EAT in the case of Miller and ors v Ministry of Justice and ors and another case EAT 003/15 held that the prejudice suffered by the respondent in having to answer an otherwise time barred claim is of relevance to the Tribunal’s decision.
+
+76. HHJ Tayler, in the case of Jones v Secretary of State for Health and Social Care 2024 EAT 2, remarked that the comments from Robertson are often cited out of context by respondents. He held that Robertson in fact is authority for the principle that the Tribunal has a wide discretion when it comes to the “just and equitable” test; Auld LJ’s comments in Robertson should be reviewed within that framework and not taken out of context.
+
+77. The accepted approach to be taken to exercising the Tribunal’s discretion is to take into account all the factors in a particular case that the Tribunal considers relevant, including the length of and reasons for delay – Adedeji v University Hospitals Birmingham NHS Foundation [2021] EWCA Civ 23. The strengths and weaknesses of the claim may also be relevant (but not definitive) to a decision on extending time – Lupetti v Wrens Old House Ltd 1984 ICR 348.
+
+78. The Tribunal must consider the balance of prejudice to the parties if the extension is granted or refused – Rathakrishnan v Pizza Express (Restaurants) Ltd 2016 ICR 283.
+
+79. In terms of ignorance of rights as reason for delay, this will only weigh in favour of an extension of time being granted where the ignorance is reasonable. This requires the Tribunal to consider not whether the claimant in fact knew about his rights, but whether the claimant ought to have known about his rights (and associated time limits) – Porter v Bandridge Ltd 1978 ICR 943.
+
+Employment Rights Act (“ERA”) claims
+
+80. The claims to which the following law applies are the claims of unfair dismissal, whistleblowing detriments and unauthorised deductions from wages.
+
+81. s111 ERA (regarding unfair dismissal) makes provision for an extension of time for unfair dismissal cases when the primary time limit is missed, as follows: “111(2) Subject to the following provisions of this section, an employment tribunal shall not consider a complaint under this section unless it is presented to the tribunal –
+
+a. before the end of the period of three months beginning with the effective date of termination, or
+b. within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.”
+
+82. S48(3) ERA (regarding whistleblowing) has similar provisions, as does s23(4) ERA (regarding unauthorised deduction claims).
+
+83. This legislation therefore provides for a two-stage test for tribunals:
+
+83.1 Firstly, the Tribunal must be satisfied that it was not reasonably practicable for the Claimant to have presented his claim within three months less a day from the date of the complaint (the primary time limit); and,
+83.2 Secondly, if it was not reasonably practicable, the Tribunal must be satisfied that the period from the primary time limit to the date when the claim was presented was a reasonable one.
+
+84. The burden of proof regarding both limbs of this test falls to the claimant.
+
+Reasonably practicable
+
+85. The first question must be why the primary time limit was missed. Then the Tribunal must ask whether, notwithstanding those reasons, was the timely presentation of the claim still reasonably practicable.
+
+86. The meaning of “reasonably practicable” has been held to mean “reasonably feasible”– Palmer & Saunders v Southend-on-Sea Borough Council [1984] ICR 372 (page 384). What is “reasonably feasible” has been held to sit somewhere between the two extremes of what is reasonable, and what is physically possible.
+
+87. Ultimately, as per the Employment Appeal Tribunal in Northamptonshire County Council v Entwhistle [2010] UKEAT 0540_09_2505, the issue of reasonable practicability is one of fact for the Tribunal, that needs to be determined on the specific facts of each case – paragraph 5(6).
+
+Ignorance/misunderstanding
+
+88. Where the reason for missing the primary time limit is said to be ignorance or mistake, the question remains whether, in all the circumstances, it was reasonably practicable for a litigant to have presented the claim in time.
+
+89. The Court of Appeal has stated, in a case of mistake, that the term “reasonably practicable” should be given liberal meaning so as to favour a claimant – Lowri Beck Services Ltd v Brophy [2019] EWCA Civ 2490, paragraph 12. One factor of relevance to ignorance/mistake cases will be whether a claimant has instructed a professional adviser. Where a litigant has no professional advice, they need only show that their ignorance or mistake was reasonable. As per Lord Denning in Wall’s Meat Co Ltd v Khan [1979] ICR 52 (page 56): “It is simply to ask this question: had the man just cause or excuse for not presenting his complaint within the prescribed time? Ignorance of his rights – or ignorance of the time limit – is not just cause or excuse unless it appears that he or his advisers could not reasonably be expected to have been aware of them. If he or his advisers could reasonably have been so expected, it was his or their fault, and he must take the consequences.”
+
+90. The question becomes whether the mistake or ignorance is itself reasonable. Brandon LJ in Khan held (page 60)): “The performance of an act, in this case the presentation of a complaint, is not reasonably practicable if there is some impediment which reasonably prevents, or interferes with, or inhibits, such performance. The impediment may be physical, for instance the illness of the complainant or a postal strike; or the impediment may be mental, namely, the state of mind of the complainant in the form of ignorance of, or mistaken belief with regard to, essential matters. Such states of mind can, however, only be regarded as impediments making it not reasonably practicable to present a complaint within the period of three months, if the ignorance on the one hand, or the mistaken belief on the other, is itself reasonable. Either state of mind will, further, not be reasonable if it arises from the fault of the complainant in not making such inquiries as he should reasonably in all the circumstances have made …”
+
+Illness
+
+91. In order to be able to extend time as a result of a litigant’s poor health, it is necessary for the Tribunal to make findings as to the nature of any illness and the extent to which it affected a litigant’s ability to commence litigation. It also requires findings on the effect of the illness throughout the full three month primary limitation period.
+
+92. The Tribunal, in questioning what was reasonably practicable, should look carefully at any change in the claimant’s circumstances (including fluctuating health issues) throughout the full duration of the primary limitation period, as well as taking into account at what stage of that primary period the changes occurred – Schultz v Esso Petroleum Ltd [1999] ICR 1202 , page 1210.
+
+93. In Cygnet Behavioural Health Ltd v Britton [2022] IRLR 906, EAT, the EAT held that, despite the claimant’s health issues, it was reasonably practicable for him to have presented his claim in the relevant time period. The claimant in that case had depression and dyslexia, and his focus during the primary time had been on a regulatory investigation into his fitness to practice as a physiotherapist. The Employment Tribunal had found that it was not reasonably practicable for him to present his claim in time. The EAT overturned that decision, holding as follows: “58. … It would be the work of a moment to ask somebody about time limits or to ask a search engine.
+
+…
+
+60. … Even though during this period he was depressed and had dyslexia, this did not mean that he was incapacitated and it did not mean that it was not reasonably practicable for him to find out the time limits.”.
+
+Reasonable time period
+
+94. What is considered a reasonable period depends on the circumstances at the time. It is not just a question of the time period that has passed since the expiry of the limitation period. For example, a delay of almost five months has been found to be reasonable – Locke v Tabfine Ltd t/a Hands Music Centre UKEAT/0517/10. This was a case in which the claimant had been undergoing treatment for cancer and was very frail.
+
+95. However, the Tribunal does not have unfettered discretion to permit claims to continue, regardless of the length of delay – Westward Circuits Ltd v Read [1973] ICR 301. The length of delay is one factor to be considered, but not to the exclusion of all other relevant factors in any given case – Marley (UK) Ltd v Anderson [1994] IRLR 152.
+
+96. A claimant must present his claim as soon as possible once the impediment stopping him having presented the claim in the initial three month period is removed. For example, in Golub v University of Sussex [1981] 4 WLUK 133, CA, the Tribunal held that claimant delayed too long in bringing his claim so as to make the further period for presenting his claim not a reasonable one. This was overturned at the EAT but reinstated at the Court of Appeal.
+
+97. It is necessary to consider the relevant circumstances throughout the period of delay and, at each point, what knowledge the Claimant had, and what knowledge he should have had if he had acted reasonably in all the circumstances – Northumberland County Council v Thompson [2007] UKEAT 0209_07_1409, paragraph 14.
+
+Conclusions
+
+Conclusions regarding application to amend
+
+98. I reach the following general conclusions regarding the application to amend the claim to include the allegations within the Reformatted Schedule.
+
+Time limits
+
+99. I take the application to amend to have been made on 10 July 2025, when the additional schedule of 44 allegations was sent to the respondent and the Tribunal. To the extent that allegations raise new factual allegations altering the legal claims, the allegations are vastly out of time. The most recent allegation is dated 9 April 2024 (allegation 31 in the Reformatted Schedule) and so should have been presented by 8 July 2024.
+
+100. To the extent that allegations are new factual allegations that add to existing claims, I take into account that the ACAS early conciliation process took place on 14 July to 25 August 2024, and the claim form was presented on 24 September 2024. As such any allegation that predates 15 April 2025 is outside the primary time limit.
+
+Reason for delay – timing and manner of application
+
+101. Given the procedural history of this claim, there is no good reason why the allegations within the Reformatted Schedule were not raised earlier; at least in time to have been considered with the application to amend on 11 July 2025, if not before. The claimant has had numerous opportunities to set out his claim, and has sent into the Tribunal numerous and varying iterations. I have previously, in the application to amend dealt with on 11 July 2025, found that the reasons offered for that delay in raising allegations were not good reasons.
+
+102. At paragraphs 36 and 37 above, I have set out my findings that the claimant’s reasons for delay in presenting the 44 allegations are not good reasons. This finding was based on the fact that those same reasons have not impeded the claimant’s ability to send so much vast correspondence throughout the life of this case.
+
+Balance of hardship and injustice
+
+103. As an overarching point, the claimant has already got a live age/sex discrimination claim of 33 allegations: see the July Schedule. He is seeking to add a further 44. The claimant already has the ability to seek an award at the Tribunal if he is to succeed on any of those discrimination claims. He also has other claims, such as victimisation, for which he will receive a remedy if successful.
+
+104. The claimant must bear in mind that it is not the quantity of allegations that strengthen a claim, but the quality of the allegations.
+
+105. Generally, there is a prejudice to the respondent in being required to defend claims which, for the most part, occurred several years prior to this application being made.
+
+Conclusions on individual allegations
+
+106. I have set out summary findings and conclusions within the table attached to this Reserved Judgment: to provide anything more lengthy would be disproportionate. The time spent on the case management of this claim to reach a stage of having a final list of issues has already been disproportionate. I explained to the claimant at the hearing that, in the majority of cases regarding discrimination/victimisation/whistleblowing, we manage to produce a list of issues and case manage the claim within one three-hour preliminary hearing.
+
+107. In conclusion, for the general reasons set out above and the specific reasons within the attached table, I reject the application to amend the claim to include the 44 allegations within the Reformatted Schedule.
+
+Conclusions regarding the strike out application
+
+108. The claimant’s live claims are as follows:
+
+108.1 Direct age and sex discrimination, as set out in the July Schedule;
+108.2 Harassment related to age and sex, as set out in the July Schedule;
+108.3 Constructive unfair dismissal;
+108.4 Detriments (whistleblowing);
+108.5 Victimisation;
+108.6 Unauthorised deductions from wages.
+
+109. The respondent’s application to strike out the entirety of the claims is based on the assertion that the claims have no reasonable prospect of success on two grounds:
+
+109.1 On the basis that the claims on their merits have no reasonable prospect of success; and/or,
+109.2 On the basis that the claims were presented outside the primary time limit and there is no reasonable prospect of that time limit being extended. Equality Act claims
+
+110. I turn first to consider the allegations within the July Schedule, and ask whether, taking the claimant’s case at its highest, there are facts from which one could draw an inference that the claimant had been discriminated/harassed or victimised in the manner set out within that schedule.
+
+111. The claimant bases his discrimination and harassment case on the assertion that he was one of two young men who worked in the café in question, and he was treated worse than the older women.
+
+112. In terms of the victimisation claim, he says that he made numerous complaints from the start of his employment, and suffered detriments in retaliation.
+
+113. These are bare assertions as to the necessary causal link regarding all three claims of discrimination, harassment and victimisation. The allegations within the July Schedule contain nothing more than a bare assertion that the claimant believes he was treated in certain ways because of his sex, age and protected acts. Although I accept it is rare to find direct or overt evidence of discrimination, and the Tribunal often has to draw inferences from the available evidence, there is nothing on the fact of the allegations (taking them at their highest) that could be said to provide anything that could link the alleged acts to age/sex/protected acts.
+
+114. The claim in his submissions argued that the sheer number of allegations must demonstrate something more than just a bare assertion. I do not accept this proposition: the Tribunal must look at each alleged act and consider whether there is evidence from which one could conclude that the act was discriminatory/victimisation. There is nothing in the allegations that could (if proved) lead to such a conclusion. There is one allegation (allegation 8 in the July Schedule) in which it is said that the claimant and the other young male employee’s names were constantly muddled by the older female employees. That in my finding is still not sufficient to demonstrate the necessary causative link (as was suggested by the claimant).
+
+115. I refer back to the case of Madarassy: there must be something more than just (in the case of direct discrimination) a difference in status and a difference in treatment. Even if the claimant could demonstrate that a hypothetical comparator would be treated differently, he has not set out anything that would equate to a “something more” to satisfy the burden of proof provisions in s136 EqA.
+
+116. In terms of the claims of harassment and victimisation, the claimant has not referred me to anything that could be facts from which the Tribunal could infer harassment or victimisation.
+
+117. I conclude that the claims of direct age/sex discrimination, harassment relating to age/sex and victimisation have no reasonable prospect of success.
+
+118. I conclude that the claimant has no reasonable prospect of meeting the burden of proof placed on him by s136 EqA in relation to the allegations within the July Schedule, whether framed as discrimination, harassment or victimisation.
+
+119. As such, I strike out all allegations within the July Schedule.
+
+120. There are other victimisation claims, as set out at paragraph 7.2.3 to
+
+7.2.8 of the July List of Issues. As with the other allegations of victimisation, I consider that the claimant, even taking his case at its highest, has no reasonable prospect of putting before the Tribunal facts from which the Tribunal could find that the respondent did the acts at paragraphs 7.2.3 to 7.2.8 of the List of Issues because the claimant had done protected acts. As such, I am satisfied that the victimisation claims at paragraph 7.2.3 to 7.2.8 of the July List of Issues have no reasonable prospect of success and they are struck out accordingly. Whistleblowing claim
+
+121. The burden of proof regarding whistleblowing claims rests with the respondent to demonstrate the reason why any alleged act was done – s48(2) ERA.
+
+122. The whistleblowing complaint is limited to the following allegation, that the claimant made the following protected disclosure: “some time between 14 July 2020 and 1 October 2020, the claimant informed Rachel Williamson that Sharon had told him to make something up in relation to fridge temperatures, requiring him to cover up the fact that the requisite temperature checks had not been done. This meant that the respondent could not guarantee that the food had been kept at a safe temperature”.
+
+123. The detriment suffered is said to be: “repeatedly refusing various advancement opportunities, specifically management training”.
+
+124. At this point, I take the claimant’s case at its highest: in other words I work on the basis that the claimant did complain to Rachel as set out above, and that he was refused management training.
+
+125. The burden of proof in a whistleblowing claim requires that the claimant prove on the balance of probabilities that:
+
+125.1 He made a protected disclosure;
+125.2 He suffered a detriment;
+125.3 The respondent was the one who subjected him to that detriment.
+
+126. Once those matters are found to have been proven, the burden is then on the respondent to demonstrate that the claimant was no subjected to any detriment because of any protected act – s48(2) ERA 1996. Taking the claimant’s case at its highest, I must act for present purposes as if the claimant has proven the three matters listed at paragraph 125.1-125.3. Given that the burden then moves to the respondent to show the reason for that detriment, I cannot say at this stage that this claim has no reasonable prospects: that will be a matter that needs resolving on hearing the respondent’s evidence. As such, I do not strike out this claim.
+
+127. I turn to consider the strike out application on the basis of time limits. As set out above, there is no specific date (or dates) placed on the detriment. As such, I cannot properly determine whether there is no reasonable prospect of these claims being in time, as it is not clear to me from when time started to run.
+
+Unauthorised deduction of wages claim
+
+128. This claim is currently set out at paragraph 8 of the July List of Issues, with six specific allegations at paragraphs 8.2.1 to 8.2.6.
+
+129. Following both the 23 April and 11 July 2025 preliminary hearings, the claimant was ordered to provide the dates/times/shifts for which he says he was not paid in order to pursue any claim of unauthorised deductions.
+
+130. The claimant has provided some information in an email of 8 July 2025, found at [278]. He said there that he has a record of his clock out times between 11 November 2023 and 30 March 2024, and that he was not paid correctly. He went on to say: “…I believe this pattern of not being paid correctly can be reasonably extrapolated to the rest of my employment, to find a reasonable approximation of wages owed throughout my employment… … I also have a printed list of what the system says is my hours worked….and I should have my old calendars with most of my work shifts on them, so theoretically I could work out additional hours owed from further back in my employment”.
+
+131. Also in the bundle I have seen a document setting out dates, shifts and clock out times, leading the claimant to the position that he is owed 15.2 hours’ pay between 11 November 2023 and 30 March 2024 – [284-307]. However this still does not make clear the amounts the claimant says he was due, as required at the 23 April and 11 July 2025 hearings.
+
+132. Although the claimant has not clarified the amount of money he is due for overtime, the amount allegedly due should be capable of a straight forward calculation by multiplying the claimant’s hourly rate by 15.2.
+
+133. Looking at the July List of Issues, the above detail is relevant to paragraph 8.2.1, namely the allegation that the respondent failed to pay the claimant for approximately 5 months’ overtime (November 2023 to March 2024). This allegation is repeated at paragraph 8.2.5.
+
+134. Paragraph 8.2.2 is in fact a remedy issue that would attach to a discrimination claim, it is not a claim for wages owed. It therefore cannot proceed as a claim for unauthorised deductions of wages. The same logic may well apply to paragraph 8.2.4: in any event, the allegation at paragraph 8.2.4 remains unparticularised.
+
+135. The allegation at Paragraph 8.2.3 has not been particularised and neither has the claim at paragraph 8.2.6.
+
+136. As such, I consider that the allegations at paragraphs 8.2.2, 8.2.3,
+
+8.2.4 an 8.2.6 have no reasonable prospect of success, given that the allegations are still not clear despite several attempts to clarify the matters set out therein. It is for the claimant to prove that he was paid less than was properly payable on any given pay date: despite now being over a year past the presentation of the claim form, there is still no clarity on these claims, meaning that the claimant cannot hope to prove any quantifiable loss regarding the allegations at paragraphs 8.2.2, 8.2.3, 8.2.4 and 8.2.6. These allegations are therefore struck out.
+
+137. Paragraph 8.2.5 is a duplicate of 8.2.1 and is therefore struck out as a duplicate.
+
+138. In relation to paragraph 8.2.1, I understand the claimant to be saying that he is owed 15.2 hours of pay for work done in that 5 month period. That claim is tolerably clear and as such I do not strike it out. It cannot be said that, taking the claim at its highest, it has no reasonable prospects of success.
+
+139. In terms of the strike out application on the basis of time limits, I do not have sufficient information at this stage to determine when the claimant’s pay day was. If he is right, and he was paid too little for the month of March 2024, it is possible that this money would not fall due until the end of April. If that is the case, and there was a linked series of deductions, then it is possible that the claim for overtime allegedly owed between November 2023 and March 2024 would have been presented within the correct time limit.
+
+140. As such, I am not satisfied that the allegation at paragraph 8.2.1 has no reasonable prospect of success, either in relation to merits or time limits. I therefore do not strike out this claim.
+
+Unfair dismissal
+
+141. The claim for constructive unfair dismissal is based on the assertion that the claimant resigned in response to the acts said to be discriminatory within the July Schedule as well as various other alleged breaches.
+
+142. Turning first to the acts within the July Schedule, given that I have struck out the claims of discrimination, harassment and victimisation within that Schedule, the claimant cannot run the argument that he resigned in response to discriminatory behaviour or victimisation.
+
+143. He would therefore have to argue that the factual matters within the July Schedule were sufficiently serious, whether taken together or separately, to amount to a fundamental breach of contract when combined with the other alleged breaches of contract set out at paragraph 2.1.1 of the List of Issues.
+
+144. Taking the claimant’s case at its highest, and assuming that the respondent acted in the manner set out in the July Schedule, I consider that there are no reasonable prospects of the Tribunal being satisfied that the respondent, in acting as set out in the July Schedule, acted in the necessary manner to equate to a fundamental breach of trust and confidence. The case of Malik v Bank of Credit and Commerce International SA 1997 ICR 606 established that the implied term is defined as follows: “[An employer or employee] will not, without reasonable and proper cause, conduct themselves in a manner calculated or likely to destroy or seriously damage the relationship of trust and confidence between the parties”.
+
+145. Even taking the claimant’s case at its highest, therefore considering the case as if all the acts within the July Schedule took place as pleaded, I am satisfied that there are no reasonable prospects of the Tribunal finding that they could, taken collectively or individually, amount to a fundamental breach.
+
+146. The four additional matters relied upon as breaches are as follows:
+
+146.1 Failure to pay the claimant properly (paragraph 2.1.1.4 List of Issues);
+146.2 Failure to pay the claimant overtime worked (paragraph 2.1.1.7);
+146.3 Failure to permit the claimant to take (part of or the whole of) his statutory rest breaks (paragraph 2.1.1.8);
+146.4 Editing the claimant’s clocking out times.
+
+147. As with the claims for unauthorised deductions of wages (other than for the 15.2 hours’ overtime) the above four allegations are still not clear or properly particularised. It appears that in fact these allegations are in reality a repeat of the unauthorised deduction of wages claim. I therefore conclude that the only alleged act that is sufficiently particularised is the failure to pay overtime – that being the same allegation as at paragraph 8.2.1 of the List of Issues, equating to an allegation that the claimant had not been paid for 15.2 hours’ work over a 4 month period.
+
+148. When one looks at the claimant’s further information regarding dates/shifts/times, his case is that for each shift listed he was underpaid for a handful of minutes. Even taking the claimant’s case at its highest and working on the basis that all of the information provided at [278] to [307] is accurate, I consider that there are no reasonable prospects of a Tribunal concluding that to underpay the claimant for a few minutes on each shift claimed is sufficient to equate to a finding that “without reasonable and proper cause [the respondent conducted] themselves in a manner calculated or likely to destroy or seriously damage the relationship of trust and confidence between the parties”.
+
+149. As such, I consider that the constructive unfair dismissal claim taken as a whole has no reasonable prospect of success. As such, I strike out the claim.
+
+Conclusions regarding the deposit order application
+
+150. Given my decision on the strike out application, I need only consider the deposit order application in relation to the whistleblowing claim and the one allegation of unauthorised deduction of wages (paragraph 8.2.1 of the July List of Issues).
+
+151. Considering the conclusions I have already set out in relation to each of the two individual claims, I am not satisfied that either claim can be said to have little reasonable prospect of success. I repeat my conclusions regarding the burden of proof in relation to whistleblowing claims at paragraph 125 and 126 above. I further repeat my conclusions regarding the unauthorised deduction claim set out at paragraph 138. The claimant’s claim is that he was under paid for 15.2 hours’ work over a period of 4 months. Taking those facts at their highest, this does not demonstrate a claim with (only) little reasonable prospect of success.
+
+152. I therefore reject the deposit order application.

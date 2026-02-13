@@ -1,0 +1,381 @@
+RESERVED JUDGMENT
+
+The judgment of the tribunal is that:
+
+1. The claimant was unfairly dismissed.
+
+2. The respondent has failed to pay the claimant’s holiday entitlement and is ordered to pay the claimant the gross sum of £TO BE CONFIRMED (subject to tax and National Insurance).
+
+3. The claimant’s claim for unreasonable failure to provide a written statement of reasons for dismissal is dismissed.
+
+4. The claimant’s claims for a redundancy payment, notice pay and a contractual inflation linked pay adjustment are dismissed.
+
+REASONS
+
+Introduction
+
+1. The claimant was employed by the respondent on 1 June 1987, initially as Deputy Managing Director but latterly as Commercial Manager. He was summarily dismissed on 18 March 2024. By a claim form presented on 23 August 2024, following a period of early conciliation from 14 June to 26 July 2024, the claimant brings the following claims:
+
+(i) Unfair dismissal.
+(ii) Statutory redundancy payment.
+(iii) Failure to provide written reasons for dismissal.
+(iv) Wrongful dismissal/notice pay.
+(v) Accrued holiday entitlement untaken at the date of dismissal.
+(vi) Contractual inflation – linked pay adjustment.
+(vii) Outstanding expenses.
+
+2. The claimant accepts that the reason for dismissal was not redundancy and, consequently, the claim for a redundancy payment is not pursued. Further, the claimant has been paid his notice pay and contractual inflation linked pay adjustment. Consequently, all three of those claims have been dismissed.
+
+3. The outstanding claims are therefore:-
+
+(i) Unfair dismissal.
+(ii) Holiday pay.
+(iii) Failure to provide written reasons for dismissal.
+(iv) Outstanding expenses.
+
+4. The respondent defends the claims.
+
+The issues
+
+5. The issues were recorded in a case management summary by Employment Judge Michell following a case management preliminary hearing heard on 28 March 2025. They are as follows (only the live issues have been set out):-
+
+“Unfair dismissal
+
+(i) What was the reason or principal reason for dismissal? Was it the Claimant’s conduct?
+(ii) Did the Respondent believe the Claimant was guilty of misconduct? The Respondent relies on matters set out at para 11 of the Grounds of Resistance.
+(iii) If so, was the Respondent’s belief reasonable?
+(iv) Did the Respondent carried [sic] out such investigation as was reasonable in the circumstances?
+(v) Was dismissal within the range of reasonable responses of a reasonable employer? As part of that question, was the lack of appeal process reasonable in the context of the Claimant’s seniority? Failure to provide written reasons for dismissal:
+(i) Did the Respondent fail to provide the Claimant with written reasons for dismissal upon request on 19 March 2024?
+(ii) If so, the Claimant entitled to two weeks’ pay under section 93(2) ERA 1996 as a result? Jurisdictional issues – limitation
+(i) Is the claim for holiday pay for the period prior to 23 August 2022 (or at any point after that date) out of time?
+(ii) Is any such unlawful deduction /breach of contract claim out of time?
+(iii) Should any such claims be struck out or made subject to a deposit order under Rules 38 or 40 of the ET Rules 2024? Holiday pay
+(i) Did the Claimant accrue 698 days of untaken holiday between 2003-2024? How many of those days did he accrue in the 2 years preceding his claim?
+(ii) Was there a contractual express or implied agreement allowing him to carry over holiday? If so, when for how long and in what amount/s?
+(iii) How much is the Claimant entitled to in unpaid holiday pay? Is it £207,703.53, or some other sum? Outstanding Expenses
+(i) Did the Claimant spend some or all of £11,946.96 in expenses?
+(ii) Were the expenses properly incurred and approved in the course of his employment?
+(iii) Has the Respondent unreasonably withheld payment? Remedy
+(i) What (if any) monies ought to be paid to the Claimant and what (if any) interest ought to be payable on them?
+(ii) Should there be an ACAS uplift by reasons of the Respondent’s failure to afford the Claimant an appeal against dismissal? If so, for how much?
+(iii) Should any compensation be reduced under section 123(6) ERA 1996 or otherwise, due to contributory conduct? The Respondent says the Claimant retained company property and/or breached fiduciary or contractual duties (as per para 11 of the Grounds of Resistance) by:
+i. Renting properties to a company linked to his sons without disclosure.
+ii. Failing to secure OFSI licences, causing the Respondent financial loss.
+iii. Failing to defend a legal claim resulting in default judgment.
+(iv) Did the Claimant mitigate his losses following dismissal? The law Unfair dismissal
+
+6. Section 98 of the Employment Rights Act 1996 provides as follows:- “98 General.
+
+(1) In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show—
+
+(a) the reason (or, if more than one, the principal reason) for the dismissal, and
+(b) that it is either a reason falling within subsection (2) or some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held.
+
+(2) A reason falls within this subsection if it—
+
+…
+
+(b) relates to the conduct of the employee …
+
+(4) Where the employer has fulfilled the requirements of subsection (1), the determination of the question whether the dismissal is fair or unfair (having regard to the reason shown by the employer)—
+
+(a) depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee, and
+(b) shall be determined in accordance with equity and the substantial merits of the case.”
+
+7. As per British Home Stores Ltd v Burchell [1980] ICR 303, the respondent has to demonstrate that it genuinely believed in the reason for dismissal and that that belief was based on reasonable grounds following a reasonable investigation.
+
+8. Further, it is not for the tribunal to substitute its view for that of the employer. However, any decision to dismiss must be within the range of reasonable responses of a reasonable employer.
+
+9. In circumstances where the dismissal may be unfair by a reason of procedural failings I need to go on to consider ‘Polkey’, i.e. assess the chances that the claimant would have been dismissed in any event had a fair procedure been adopted. In addition, I need to consider whether there has been an unreasonable failure to comply with the Acas Code of Practice on disciplinary procedures.
+
+10. In addition, I need to assess the extent to which the claimant may have contributed to his own dismissal.
+
+11. The claimant has asserted that the reason for the claimant’s dismissal was gross misconduct. Since the reasons cited by the respondent in support of that conclusion could be said to relate to how the claimant discharged his managerial duties, so I have taken into account the following from the IDS Employment Law Handbook Unfair Dismissal:-
+
+“Nature of conduct
+
+6.13 Conduct does not have to be blameworthy to fall within the ambit of section 98(2), although blameworthiness could be relevant when considering the dismissals fairness.” And: “6.14 The EAT in Philander v Leonard Cheshire Disability EAT 0275/17 confirmed that misconduct can be deliberate or inadvertent. Gross negligence, as well as deliberate wrongdoing, can amount to misconduct and can constitute repudiatory conduct even where the behaviour is not willful, or even blameworthy. For example, in Burdis v Dorset County Council EAT 0084/18 the EAT held that an employment tribunal had been entitled to conclude that the director of a waste partnership project had been dismissed for a reason relating to his conduct on the basis of its finding that he had fundamentally failed to initiate rigorous financial management systems. The tribunal had not erred in finding that the misconduct might encompass serious neglect, omission or carelessness, and had not been bound to find that the dismissal had been a dismissal for “some other substantial reason” or capability. The tribunal in Chin v Arrive London North Limited ET case number 3300259/17 noted that the consequence of negligent conduct are capable of being relevant to the reasonableness of a decision to dismiss but also acknowledged that accidents happen.” Failure to provide written reasons for dismissal
+
+12. Section 92 ERA 1996 provides:- 92 Right to written statement of reasons for dismissal.
+
+(1) An employee is entitled to be provided by his employer with a written statement giving particulars of the reasons for the employee’s dismissal—
+
+(a) if the employee is given by the employer notice of termination of his contract of employment,
+(b) if the employee’s contract of employment is terminated by the employer without notice, or …
+
+(2) Subject to subsections (4) and (4A) , an employee is entitled to a written statement under this section only if he makes a request for one; and a statement shall be provided within fourteen days of such a request.”
+
+13. Section 93 of ERA 1996 provides as follows:- 93 Complaints to employment tribunal.
+
+…
+
+(2) Where an employment tribunal finds a complaint under this section well-
+
+founded, the tribunal—
+
+(a) may make a declaration as to what it finds the employer’s reasons were for dismissing the employee, and
+(b) shall make an award that the employer pay to the employee a sum equal to the amount of two weeks’ pay.”
+
+14. As per the IDS Handbook on Unfair Dismissal at 20.6: “An employee’s request for written reasons may be made orally or in writing at any time after dismissal, or within the notice period if the employer dismisses with notice. Guidance as to what constitutes a request for written reasons was provided by the EAT in H T Greenwood Limited t/a Greenwood Savings and Loans v Miller EAT 499/87. In that case, an employee’s solicitors wrote to their clients former employer requesting a number of documents, including a “statutory letter dismissing her and giving her reason for dismissal”. The EAT stated the letter was arguably too vague to constitute a section 92 request, finding that the provision envisages that a request will be “a separate and specific statement or at any rate a clearly defined sentence.”
+
+Holiday pay
+
+15. In his claim form, the claimant puts the claim in the alternative as follows:- “Payment of the claimant’s outstanding 698 days’ holiday, in accordance with sections 13, 14 and 30 Working Time Regulations 1998, or in the alternative as a claim for unlawful deductions from wages in accordance with section 13 ERA 1996.”
+
+16. As the claim is put in the alternative, so the relevant legislation is set out for both.
+
+17. Regulation 13 of the Working Time Regulations 1998 provides:-
+
+“13 Entitlement to additional annual leave
+
+(A1) This regulation applies to—
+
+(a) a worker in respect of any leave years beginning before 1st April 2024…
+
+(16) Paragraph (17) applies where, in any leave year an employer fails to –
+
+(a) Recognise a worker’s right to annual leave under this regulation or to payment for that leave in accordance with regulation 16;
+(b) give the worker a reasonable opportunity to take leave to which the worker is entitled under this regulation or encourage them to do so; or
+(c) inform the worker that any leave not taken by the end of the leave year, which cannot be carried forward, will be lost.
+
+(17) Where this paragraph applies and subject to paragraph (18), the worker is entitled to carry forward any leave to which the worker is entitled under this regulation which is untaken in that leave year or has been taken bout not paid in accordance with regulation 16.
+
+(18) Annual leave that has been carried forward pursuant to paragraph (17) cannot be carried forward beyond the end of the first full leave year in which paragraph (17) does not apply. “
+
+18. Regulation 14 of the WTR 1998 provides:- “Compensation related to entitlement to leave . . .
+
+(6) Where a worker’s employment is terminated and on the termination date the worker remains entitled to leave in respect of any previous leave year which carried forward under paragraph (14), (15) or (17) of regulation 13 or paragraph (7) or (7A) of regulation 13A, the employer shall make the worker a payment in lieu of leave equal to the sum due under regulation 16 for the period of untaken leave.”
+
+19. Claims for unpaid contractual holiday pay may be made pursuant to section 13 ERA 1996 – Revenue & Customs Commissioners v Stringer [2009] ICR 985, HL.
+
+20. As per the IDS Employment Law Handbook Working Time:
+
+“More favourable contractual rights
+
+4.287 Where the parties have entered into a contractual agreement regarding payment in lieu of unused leave upon termination, there is nothing in the directive or the WTR to limit the amount of pay recoverable. In Beijing Ton Ren Tang (UK) Limited v Wang EAT 0024/09 W was a professor of Chinese medicine. She was recruited through an agency in China to work for BTRT Limited, a herb and health shop in London. One of BTRT Limited’s directors told her at the time of recruitment that she would be entitled to 30 days annual leave and would be paid in lieu of any untaken holiday at the end of her employment. W started work for BTRT Limited in November 2001. During her employment she took only four days leave each year, except for one year when she visited China for 28 days. On 12 February 2008 she was dismissed. She brought a tribunal claim, alleging that her dismissal was unfair and that BTRT Limited was in breach of contract in not paying her for her unused holidays. The employment tribunal found that W and BTRT Limited had entered into an oral contract whereby W would be paid for any unused leave – including leave outstanding from previous leave years – on termination of her employment. During the period of her employment, W had foregone 131.5 days of her contractual leave entitlement. Accordingly, the tribunal awarded her payment in lieu of those days. BTRT Limited appealed to the EAT. With reference to regulation 13(9), it argued that only untaken leave outstanding in a worker’s final leave year can be replaced by a payment in lieu, and that the principle of “use it or lose it” applies to previous leave years. Accordingly, the oral agreement whereby W would be paid for all unused holiday on termination of her employment was caught by reg 35(1)(a) in so far as it related to the basic four week statutory leave under reg 13. Reg 35(1)(a) states that any provision in an agreement (whether a contract of employment or not) is void in so far as it purports to exclude or limit the operation of the WTR… In support of this argument, BTRT Limited referred to Federatie Nederlandse Vakbeweging v Netherlands State [2006] ICR 962, ECJ, where ethe European Court held that, although a member state could provide for unused annual leave to be carried over into subsequent leave years, such leave could not then be replaced by a payment in lieu. Leave carried forward and taken as additional holiday complied with the social policy behind the directive – to allow workers proper periods of rest – whereas the practice of “selling back” unused leave did not. The ECJ added that it is only where the employment relationship is terminated that article 7(2) of the Directive permits a payment in lieu of annual leave.
+4.288 Accepting that BRTR Limited was correct in its interpretation of the Directive and reg 13(9), the EAT stressed that this was a claim brought not under the WTR but under contract. Neither article 7(2) of the directive nor the ECJ’s ruling in Federatie Nederlandse (which did not concern termination payments) placed a limit on the amount of pay in lieu of leave recoverable post- termination under a contract of employment. The disputed term of W’s contract granted her more favourable rights than reg 13(9). Accordingly, it was permissible under reg 17, which provides that where a worker is entitled to annual leave both under the WTR and under a separate provision (including a provision of his or her contract), he or she “May not exercise the two rights separately, but may… take advantage of whichever right is, in any particular respect, the more favourable”. It followed that there was no breach of the WTR and reg 35(1)(a) was not engaged.” Two year limitation period
+
+21. Section 23 (4A) ERA 1996 provides as follows:- “(4A) An employment tribunal is not … to consider so much of a complaint brought under this section as relates to a deduction where the date of payment of the wages from which the deduction was made was before the period of two years ending with the date of presentation of the complaint.”
+
+Expenses
+
+22. Any claim for expenses is a contractual claim.
+
+The evidence
+
+23. I had a hearing bundle of 505 pages.
+
+24. I had witness statements and heard evidence from:-
+
+(i) The claimant
+(ii) Dr Salah Awad, a director of the respondent from 5 October 2022 and the managing director of the respondent from 12 April 2023.
+
+25. The respondent provided a chronology of the case.
+
+26. Both the claimant’s and the respondent’s representatives provided me with skeleton arguments for which I am grateful.
+
+The facts
+
+27. The respondent is a UK registered company, engaged in real estate management. It is a wholly owned subsidiary of the Libyan Foreign Investment Company (LAFICO) which in turn is a subsidiary of the Libyan Investment Authority.
+
+28. LAFICO is the registered owner of five properties managed by the respondent. Four of these are in London and one is in Milton Keynes. The first two are relevant to this case. They are as follows:-
+
+(i) Regency Court, Milton Keynes. A commercial building with 12 self- contained units.
+(ii) 1 Queen’s Gate Terrace, London: A residential property split into a number of flats.
+(iii) 1-3 Oakwood Mansions, London.
+(iv) 24 Red Lion Street, London.
+(v) Jardine House, London.
+
+29. The respondent has gone through several sanctions regimes, namely; following the murder of PC Yvonne Fletcher in April 1984; following the Lockerbie bombing in December 1988; and the most recent sanctions regime was imposed on the respondent on 14 April 2011 following the downfall of President Gaddafi. On 14 April 20211 sanctions were administered by HM Treasury Sanctions Unit and two licenses to operate were issued to the respondent in June 2011.
+
+30. In 2020 the sanctions regime was changed. HM Treasury Sanctions Unit was renamed The Office of Financial Sanctions Implementation (“OFSI”) and in March 2020 the licencing system changed. Previous licences were withdrawn and a more restrictive regime was imposed. New licences had to be applied for and obtained for all activities involving the sending or receipt of money.
+
+31. On the evidence I heard it is clear to me that the licencing system caused significant difficulties in the day to day management of the respondent’s business. The respondent was not allowed to have direct debit or standing orders on its bank account. Directions to make payments from the respondent’s bank account could take weeks if not months for the bank to execute. This caused obvious problems when payment of office utility bills was delayed and the respondent was threatened with the utilities being cut off. In those circumstances, the claimant paid bills from his own resources leading to the expenses claim which I deal with below.
+
+32. Further difficulties may be illustrated by the fact that a three-year lease on 1 Queen’s Gate Terrace, London, to run from 1 October 2010 until 3 September 2013 was only finally executed on 8 November 2012. Further issues were encountered in that Eversheds Solicitors were unwilling to act on the respondent’s behalf due to issues around not being paid on time.
+
+The holiday claim
+
+33. This is an unusual case.
+
+34. The claimant began working for the respondent on 1 June 1987. The offer letter dated 5 March 1987 states as follows:- “You will initially be entitled to a 30 day annual leave plus bank holidays. Any additional holiday shall be at the discretion of the chairman and the managing director.”
+
+35. In 1996 the claimant’s holiday entitlement was raised to 45 days (presumably plus bank holidays) This was not disputed by the respondent.
+
+36. Consequently, I find that from 1987 the claimant had a contractual entitlement to 30 days holiday and that from 1996 the claimant had a contractual entitlement to 45 days holiday.
+
+37. The claimant has produced a table of accumulated holidays 1987-2024. This indicates that in the first three years, from 1987 until 1989 the claimant took no holiday. The claimant’s evidence is that there was only himself and his PA as full-time employees. As there was only the claimant to manage the day-to-day affairs of the respondent, consequently his requests for holiday were refused.
+
+38. I have 22 memos dealing with the claimant’s requests for holiday from 1988 until 1996. These are signed by the then Managing Director, Mr Yousef Abdelmaula. They indicate that the following requests for holiday were refused due to pressure of work:-
+
+(i) 1988: 35 days refused.
+(ii) 1989: 20 days refused.
+(iii) 1990: 37 days refused.
+(iv) 1991: 22 days refused.
+(v) 1992: 19 days refused.
+(vi) 1993: 16 days refused.
+(vii) 1994: 30 days refused.
+(viii) 1995: No record of any refused holiday.
+(ix) 1996: 26 days refused.
+
+39. From 1998 the memos appear to change in that they appear to be recording that the claimant had been unable to take holiday during the years between 1998 and 2002. Mr Abdelmaula has signed the documents, no doubt confirming that the claimant had been unable to take holiday.
+
+40. In his witness statement the claimant states:- “When it almost became the norm that holidays were difficult to have, I wrote to the non-resident managing director of the respondent, who was also the managing director of the parent company in Libya. I requested that, as and when required, I receive payment in lieu of unutilised holidays because of the circumstances of the company. The managing director, Mr Yousef Abdelmaula agreed and signed the document. After years of doing this, it was agreed that there was no need to send any future paperwork for approval or denial and I simply kept a record of my holiday entitlement and my PA, Mrs Glyn Young, retained copies of hers for the same reason.”
+
+41. There is an internal memorandum dated 16 June 2001 which states as follows:-
+
+“Subject: Holiday pay
+
+Dear Mr Abdelmaula, Due to workload in previous years and to the present circumstances of the company, I was unable to utilise much of my holiday entitlements. To this effect each managing director signed off my holidays and these are kept on record at Sabtina. I will therefore very much appreciate your agreement to pay off part of my holiday entitlement equivalent to (5) months holiday pay.”
+
+42. There is written in manuscript on that letter the following:
+
+“Approved to pay 5 months off part of your holiday.”
+
+That is signed and dated 17 June 2001 by Mr Abdelmaula. The claimant was paid £15,150.
+
+43. There is an internal memorandum dated 14 June 2002 which states as follows:-
+
+“Subject: Holiday pay
+
+Dear Mr Abdelmaula
+
+Due to workload at Sabtina in previous years and the current unique situation of the company, I am unable to utilise and benefit from my annual leaves and holiday entitlements. To this effect, each managing director signed off my holidays and these are kept on record at Sabtina. I will therefore very much appreciate your agreement to pay off parts of may holiday entitlements as and when needed by me since the holidays will be virtually impossible to take given the circumstances of the company.” That has written in manuscript “Approved” and is signed and dated 16 June 2002 by Mr Abdelmaula.
+
+44. In 2004 the claimant was paid £14,920 for four months pay in lieu of holiday.
+
+45. In his witness statement the claimant states as follows:- “The Respondent does not have a pension scheme for the employees, and both myself and my PA were saving the holidays we could not have for when needed or at retirement. I was sole signatory for the company for a period exceeding 20 years and could have signed off payments for me and also my PA each year when we could not utilise the holidays. However, I did not do that even though it was within my remit to execute. I was relying on receiving these payments.”
+
+46. I find that it was agreed between the claimant and the respondent that, with effect from the start of his employment, any unused holiday would be recorded and any unused entitlement would roll forward each year. I find that it was agreed between the claimant and the respondent that he would be paid for his holiday as and when needed or at the end of his employment. The reasons I make these findings are as follows:-
+
+(i) The contemporaneous documentation verifies that the claimant was regularly being refused requests for holiday.
+(ii) The contemporaneous documentation confirms that the claimant’s unused holiday was being approved by the managing director and kept on record at the respondent. That can only have been done on the basis that the agreement was that it would roll over.
+(iii) The contemporaneous documentation confirms that the claimant was allowed to take large payments in lieu of holiday entitlement in 2001 and 2004.
+(iv) I find that it is inconceivable that the claimant would not have claimed a payment in lieu of unused holiday on an annual basis if he thought the entitlement would be lost at the end of each holiday year. Had there not been an agreement to roll over his holiday entitlement to be paid at some future stage, I find that the claimant could very easily have submitted a request for a payment in lieu to the managing director which would have been approved as it had always been done in the past.
+(v) The claimant wrote a memorandum in September 2022 complaining about his treatment. The claimant claimed, “…a full settlement of all that is due to me in terms of all my backlog holiday pay…” That was his immediate reaction when he thought his employment had ‘de facto’ been terminated and his head of claim is clearly not a later contrivance.
+
+47. Consequently, I find that the claimant had a contractual right to roll over his unused holiday entitlement year on year and that by 2024 he had accumulated [number to be confirmed] of untaken holiday. The figures need to be confirmed as the table of unused holidays at page 433 of the bundle does not look accurate. For example, 387 accumulated days have been treated as 12.9 months which is based on 30 days per month. That looks to be inaccurate.
+
+48. Although the claimant’s claim is for contractual holiday entitlement, by virtue of the fact that it is brought under section 13 of the Employment Rights Act 1996, so it is not caught by the £25,000 contractual claim upper limit.
+
+49. Insofar as the Working Time Regulations claim is concerned, I make the following findings:-
+
+(i) Prior to 1998 there was no statutory right to holidays.
+(ii) In every year post 1998 the claimant was not informed that any leave not taken by the end of the leave year which could not be carried forward would be lost.
+(iii) Consequently, I find that there was no full leave year in which regulation 13 (17) WTR 1998 did not apply.
+(iv) Consequently, I find that the claimant’s basic holiday entitlement rolled over every year until 2024. Unfair dismissal
+
+50. In 2021 an interim government in Tripoli was appointed. It was led by the Prime Minister, Mr Abdulhamid Dabaiba.
+
+51. In November 2021 the claimant was contacted by Mr Hasan Maghrawi who introduced himself as the representative of LAFICO in the UK. He visited the respondent’s offices in Milton Keynes. Mr Maghrawi is the son-in-law of the Libyan Prime Minister, Mr Dabaiba. At the office Mr Maghrawi stated that he was now the LAFICO representative in the UK and the claimant received a copy of his appointment by the Long Term Investment Portfolio (LTP) by email on 7 February 2022.
+
+52. A new board of directors of the respondent was appointed on 16 May 2022.
+
+53. In his undated memo complaining of his treatment but which the claimant says was dated 29 September 202, the claimant references the new board of directors demanding documentation and he refences over 131 email exchanges.
+
+54. At a board meeting held on 2 July 2022 the claimant was excluded from the majority of the meeting.
+
+55. At a board meeting on 16 September 2022 the claimant was informed by Mr Suliaman (a director) of a resolution by LAFICO dated 1 September 2022 appointing Mr Hasan Maghrawi as managing director of the respondent with effect from 4 August 2022.
+
+56. At the board meeting on 16 September 2022 the claimant was informed verbally that he was to hand over all responsibilities to Mr Maghrawi as of 1 October 2022.
+
+57. Although I do not have the company minutes of the board meeting on 16 September 2022, the claimant’s letter of complaint states:- “On Monday 19 September 2022 at 10.17 Mr Maghrawi sent a copy of the minutes and decisions taken at board meeting of 16/09/2022. The 6th decision by the board states: “Mr Mossadek Ageli will relinquish all responsibilities held currently as Commercial Manager and hand them over to Mr El Maghrawi no later than 3 October 2022.”
+
+58. Given the contemporaneous nature of the complaint, I find that that is what happened. It is corroborated by the claimant’s email of 30 December 2022 (see para 60 below)
+
+59. The claimant was ordered to hand over the keys for all properties and had to relinquish his company car. He was removed as a signatory from the respondent’s accounts. The claimant’s letter of complaint indicates that he thought that he had been effectively dismissed at that stage. Nevertheless, the claimant remained employed.
+
+60. The removal of the claimant’s responsibilities is confirmed by an email he sent on 30 December 2022 to Emad Shebani who had been appointed Chief Operating Officer. The claimant complains that he has no current official position save for being an employee.
+
+61. In addition to his work for the respondent, the claimant managed some properties in France. In March 2023 the board replaced the claimant with four non-resident directors to manage the French property.
+
+62. On 18 March 2024 the claimant received an email from Mr Salah Awad informing him that he had been dismissed for gross misconduct with immediate effect. Although Dr Awad suggested that he had discussed various disciplinary issues with the claimant prior to dismissal, I find that he did not. I prefer the evidence of the claimant that the dismissal came completely out of the blue. On 19 March 2024 the claimant emailed as follows:- “I am shocked to have received your email. I know nothing of the allegations you make against me and note that you have not given me any details of the same. I also note that you have not provided me with any right of appeal; if you had, I would appeal against my dismissal on the grounds that there is no justification whatsoever for your decision.”
+
+63. I find that whilst pointing out that the respondent had not given the claimant any details of the allegations against him may be an implicit request for a written statement of reasons for dismissal, the actual wording used does not constitute a request. Although the respondent accepted that it was in technical breach I find that it was not. The claim for failure to provider a written statement of reasons for dismissal therefore fails.
+
+64. The claimant was not provided with an appeal.
+
+65. I find that the dismissal was clearly procedurally unfair and that the respondent was totally in breach of the Acas Code of Conduct on disciplinary procedures.
+
+66. The respondent has endeavoured to justify the dismissal. Dr Awad suggested that between April and August 2023 he conducted an audit of all the respondent’s activities. In his evidence he told me that the results of his audit were contained in a document which he had presented to the board. He told me that it was the board who had resolved to dismiss the claimant. Neither this investigation document nor the minutes of the board meeting have been produced before me. In my judgment, that casts serious doubt as to whether there was such a document and such a board resolution.
+
+67. The reasons for dismissal advanced in the respondent’s Grounds of Resistance are as follows:- “11. Following Dr Awad’s appointment and a period of familiarisation with the operations of the respondent under the claimant’s control, the Respondent became aware of various regulatory breaches and dereliction of duty by the claimant, for example:
+
+(a) That Regency Court was being rented out without necessary contracts or OFSI licence in place, which was a regulatory breach of the Sanctions regime.
+(b) It was discovered that the Claimant had rented out 6 of 7 Regency Court units to a UK-based company called Studio Regency in which the Claimant’s two sons were directors, since 2017. Suffice it to say, that the Claimant did not disclose this apparent or potential conflict of interest to the Respondent’s Board of Directors.
+(c) It was further discovered that the Claimant did not obtain an OFSI licence to enable the legitimate rental of the properties to his sons’ company, as such the Respondent was unable to collect any rent from the tenant.
+(d) In relation to Queen’s Gate, the Respondent learned that the Claimant, acting on behalf of the Respondent, had entered into a lease agreement with a tenant in November 2012, without obtaining an OFSI licence. The Claimant did not (or could not) collect rent from the tenant for the 9 units nor did he apply for an OFSI licence to enable him to collect rent that was due and payable. Accordingly, the respondent suffered substantial rental income [loss] to the tune of £1.3 million over the relevant period.
+(e) In respect of a “tripping case” against the respondent, the respondent discovered that the claimant failed to take reasonable and active steps to best protect the respondent’s interests, for example, he failed to instruct lawyers and/or prepare a proper defence to the claim, leading to a default judgment being entered against the respondent.” Regency Court
+
+68. On 15 December 2020 the claimant provided a report on Regency Court to the then board of directors.
+
+69. LAFICO purchased Regency Court in 1990. At the time it was fully let.
+
+70. By March 2010, 10 units had become vacant and only two were occupied. The vacant units were advertised by Kirkby and Diamond, letting agents, but no new tenants were obtained. The imposition of sanctions in 2011 did not help. In addition, few improvements were carried out to the vacant units as expenditure on upgrading and refurbishing buildings was held to a minimum.
+
+71. In 2015 the claimant suggested a new approach of letting vacant units to a tenant and permitting the tenant to sub-let the spaces after the tenant had carried out refurbishment work against a rent-free period. The 2020 report expressly references the fact that the directors of the proposed tenant were his own sons. There was no evidence placed before me to suggest that the £5 per square foot rental was below the prevailing market rate. As the respondent was sanctioned, so licences had to be obtained in order to execute the leases. In the circumstances, heads of terms were agreed with the tenants between 2015 and 2018.
+
+72. The claimant did obtain OFSI licences for three of the tenants, namely Barker Ross, Dance Box (two units) and Best Connection Group. That accounted for four units. The respondent used one unit as its office. The remaining seven units were provided to tenants associated with the claimant’s sons between 2015 and 2018 at various rates per square foot. The heads of terms were agreed by the then board and, indeed, the tenant in the 2015 agreement for unit 220 is named as Studio Ageli Surveying, thus showing a connection to the claimant.
+
+73. It was part of the agreement with the tenants associated with the claimant’s sons that the tenant would carry out structural refurbishment and the costs of that would be offset against the rent once an OFSI licence had been obtained and a lease executed.
+
+74. It was clearly to the respondent’s advantage to have the units occupied and to be saved the expense of refurbishment. However, it is not entirely clear as to why the claimant did not more actively pursue the relevant licences. The claimant referred to general difficulties in securing lawyers to act for the respondent in the preparation of the lease as Eversheds had declined to act for them.
+
+75. In his witness statement the claimant states:- “Due to the difficulties in obtaining a licence, the respondent was unable to receive rental monies. However, the tenants were still obliged to pay this, so this would be received once the respondent was able to find a law firm to assist with obtaining these.”
+
+76. I assume that the reference to the tenants being obliged to pay would be upon an action for mesne profits.
+
+77. Between 2015 and 2024 the board must have been aware that rental monies were not being received from many of the units due to a lack of an OFSI licence. The fact is that an OFSI licence was obtained for three tenants but no OFSI licences were obtained for the tenants associated with the claimant’s sons. Consequently, the tenants associated with the claimant’s sons were receiving rent for sub-letting but not having to remit rent due onto the respondent. The claimant pointed to a letter dated 18 February 2022 stating that Studio Regency Ltd would maintain the rental income for Sabtina until such time as licences are obtained and leases established. However, I was told that once licences have been obtained very little has been paid by Studio Regency due to a dispute as to how much was spent in refurbishing the units.
+
+78. I accept and find that the effect of the sanctions caused considerable problems and delays in obtaining the licence and executing the lease. However, I find that licences were obtained for other tenants and so the problems were not insurmountable. No evidence has been placed before me dealing with any applications by the claimant for OFSI licences. All I have are general assertions from both the claimant and Dr Awad that it was very difficult or relatively easy respectively. I find that had a proper investigation been undertaken by the respondent, involving the claimant’s input, the situation would have become a lot clearer. The claimant may have been able to establish a valid reason why the licences were not obtained. However, he may not. There was clearly financial advantage to the claimant’s sons’ company, Studio Regency Limited, in there being no OFSI licence and lease.
+
+79. I find that the involvement of the claimant’s sons in the company that rented 7 units over the years was not hidden and was clearly disclosed to the previous board.
+
+Queen’s Gate Terrace
+
+80. The leave agreement in November 2012 was executed with an OFSI licence. The lease expired on 30 September 2013. The lease was not renewed thereafter as there was no OFSI licence.
+
+81. Once again, the claimant has referred to the difficulties in obtaining an OFSI License and the fact that Eversheds would not act for the respondent. Further, the claimant points to the fact that the respondent board was kept informed. Further, the claimant says that there was a gentleman’s agreement with the tenant that the tenant would undertake refurbishment to the building including replacing the lift.
+
+82. Once again, the true position is very opaque. I find that had a proper investigation been undertaken involving the claimant’s input then he may have been able to justify his actions by reference to audited amounts spent by the tenant on refurbishing the building. There again, he may not.
+
+The personal injury claim
+
+83. In 2018 a lady allegedly tripped and fell in an area outside Regency Court. Whether or not she actually tripped over on land belonging to LAFICO is not known. Upon being contacted by the lady’s lawyers, the claimant notified LAFICO’s insurance brokers but nothing appears to have been done.
+
+84. In due course proceedings were issued and, it is presumed, served on the respondent’s registered office which was the address at Regency Court. However, the proceedings were either not received or not acted on as in due course a default judgment was issued.
+
+85. The next thing the respondent knew was that a winding up petition had been presented against the respondent.
+
+86. For whatever reason, the respondent did not attempt to set aside the default judgment. In due course an OFSI licence was applied for to settle the claim and it was granted. The payment was prepared on 29 March 2023 and two directors, including Mr Hasan Maghrawi, authorised the payment on 27 April 2023. That is obviously very nearly one year prior to the claimant’s dismissal.
+
+The dismissal
+
+87. I find that the reason for the claimant’s dismissal was not gross misconduct, I find that the reason for the claimant’s dismissal was that having been stripped of all his duties which had been allocated elsewhere, the respondent simply wanted to get rid of him. I find that that is not a fair reason.
+
+88. I find that the respondent did not have a genuine belief that the claimant had committed gross misconduct. I find that the respondent did not conduct a reasonable investigation and did not have reasonable grounds to conclude that the claimant had committed gross misconduct. I find this because the respondent was unwilling or unable to provide the claimant with reasons for his dismissal shortly after he, in effect, asked for them.
+
+89. I find that the claimant’s dismissal was clearly procedurally unfair in that he was not notified of the charges against him, was not notified of the evidence against him, was not given an opportunity to represent himself at a disciplinary hearing and was not afforded an appeal. All of those factors put the respondent in breach of the Acas Code of Practice for disciplinary procedures.
+
+90. I find that faced with the claimant’s claim form in this case the respondent went looking for reasons to justify the dismissal. The fact that the respondent has sought to rely upon the failure to respond to the personal injury claim that was known about one year before his dismissal illustrates this point.
+
+91. I find the fact that OFSI licences and leases had not been affected for seven units at Regency Court and Queen’s Gate Terrace was known to the relevant board prior to the new board being put in place in May 2022. As such, there was no new discovery as far as the respondent is concerned even though Dr Awad may not have been aware of those matters.
+
+92. Consequently, I find that the claimant’s dismissal was unfair.
+
+93. I have to go on to consider what were the chances that the claimant would have been dismissed in any event due to the issues surrounding his management of OFSI licences and leases for Regency Court and Queen’s Gate Terrace. I find the mishandling of the personal injury litigation would not have warranted dismissal.
+
+94. Doing the best I can, I find that a proper investigation involving the claimant’s input would probably have taken about six months. I find that there was a 33% chance that the claimant’s conduct would have been found to have been so negligent and/or in breach of fiduciary duty by favouring his son’s company as to have warranted dismissal had a fair procedure been adopted. My assessment of the claimant’s contribution to his dismissal is the same.
+
+Expenses
+
+95. In his witness statement Dr Awad states:- “The respondent has always made it clear that it is willing to reimburse genuine expenses incurred by the claimant on the respondent’s behalf.”
+
+96. During the course of this hearing, I was informed that the respondent accepts that the claimant’s figure of £11,946.96 was properly incurred in discharging utility bills in order to allow the respondent’s office to continue operating.
+
+97. However, I was told that it was a breach of the sanctions regime for a third party to discharge obligations on behalf of a sanctioned company. Further, I was informed that it was a potential criminal offence to do so.
+
+98. I invited the respondent to see if OFSI would grant a retrospective licence for the discharge of these amounts payable.
+
+99. I will need further submissions as to the correct legal position in these circumstances. My preliminary view is that it would be wrong for a judgment to reimburse a third party who is in breach of sanctions and has potentially committed a criminal act.

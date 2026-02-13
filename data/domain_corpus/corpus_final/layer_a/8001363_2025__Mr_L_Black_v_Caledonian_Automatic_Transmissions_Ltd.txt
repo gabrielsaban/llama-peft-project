@@ -1,0 +1,250 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The Judgment of the employment tribunal is that the claimant was constructively unfairly dismissed by the respondent, and the respondent is ordered to pay a basic award of £3,100 and a compensatory award of £8,689.22. The respondent having conceded there was a failure to provide the claimant with a statement of terms and conditions of employment is ordered to pay £1,860.
+
+REASONS
+
+1. The claimant lodged a claim in the Employment Tribunal on 29 May 2025 claiming constructive unfair dismissal and a failure to provide a statement of terms and conditions of employment. The respondent resisted the claims.
+
+2. Both parties prepared a bundle of documents to be relied upon at the hearing. On the morning when submissions were to be heard, the claimant submitted further documents which he referred to in his submissions. These related to the background issue of furlough payments. As these documents were not referred to in evidence, I have not relied on them in coming to my decision.
+
+3. At the outset of the hearing, I went through the purpose of the hearing and process which would follow, wherein the claimant would present his case first, followed by the respondent. I explained that I would hear evidence first from the claimant and his witness, followed by the respondent witnesses. I explained that in questioning his witness the claimant should ask open questions but that when questioning the respondent witnesses, he should
+
+8001363/2025 Page 2
+
+challenge the evidence he does not agree with and that he should put his case to these witnesses. I then explained the process for submissions once evidence was heard.
+
+4. I heard from the following witnesses in the following order:
+
+a. The claimant
+b. Dylan Black (witness for the claimant)
+c. David Tiernay (witness for the respondent)
+d. Craig McFadyen (witness for the respondent)
+e. James Galloway (witness for the respondent)
+
+5. During the course of Mr Tiernay’s evidence, it became apparent that his version of what took place during a meeting on 25 February 2025 was not put fully to the claimant in cross examination. As this related to one of the repudiatory breaches relied upon, I decided to recall Mr Black after Mr Tierney’s evidence to address the dispute.
+
+6. The claimant’s ET1 and evidence referred to furlough payments and the alleged actions of the respondent in that regard. As the Tribunal does not have jurisdiction to consider whether furlough payments were made appropriately, I have not made any findings on this aspect of the evidence.
+
+Relevant Law
+
+7. Section 95(1)(c) of the Employment Rights Act 1996 (“the ERA”) provides that an employee is dismissed, when “the employee terminates the contract under which he is employed (with or without notice) in circumstances in which he is entitled to terminate it without notice by reason of the employer’s conduct”.
+
+8. The leading case on this area of law is Western Excavating (EEC) Ltd v Sharp 1978 ICR 221 CA where the Court of Appeal confirmed that for an employer’s conduct to give rise to a claim of constructive dismissal, there must be a repudiatory breach of contract. As per Lord Denning MR: “If the employer is guilty of conduct which is a significant breach going to the root of the contract of employment, or which shows that the employer no longer intends to be bound by one or more of the essential terms of the contract, then the employee is entitled to treat himself as discharged from any further performance. If he does so, then he terminates the contract by reason of the employer’s conduct. He is constructively dismissed.”
+
+8001363/2025 Page 3
+
+9. An employee must therefore establish the following for a successful constructive dismissal claim:
+
+a. There was a fundamental breach of contract on the part of the employer;
+b. This breach caused the employee to resign;
+c. The employee did not delay too long in resigning.
+
+10. The fundamental breach may refer to the implied duty of trust and confidence as between employer and employee. This duty is set out in Malik v BCCI [1997] IRLR 462 which states that an employer must not without reasonable cause act in a way that is calculated to or likely to seriously damage or destroy the trust and confidence on which the employment relationship is founded. The Court of Appeal in Bournemouth University Higher Education Corporation v Buckland 2010 ICR 908, CA confirmed that the question of reasonable cause should be subject to an objective test.
+
+11. A course of conduct can cumulatively amount to a fundamental breach of contract entitling an employee to resign and claim constructive dismissal even where the last straw itself does not amount to a breach of contract as per Lewis v Motorworld Garages Ltd 1968 ICR 157, CA. The last straw doctrine was also discussed by the Court of Appeal in Omilaju v Waltham Forest London Borough Council 2005 ICR 481, CA who confirmed that the final straw does not need to have the same character as previous acts, nor does it need to be unreasonable or blameworthy conduct. It must, however, contribute, if even slightly, to the breach of contract. An entirely innocuous act on the part of the employer cannot be a final straw, even if the employee genuinely but mistakenly interprets the act as destructive of his trust and confidence in the employer.
+
+12. Where the course of conduct occurs over a period of time, an employee is entitled to rely on the totality of the employer’s acts, provided that the last straw forms part of the series of breaches. This was confirmed by the Court of Appeal in Kaur v Leeds Teaching Hospitals NHS Trust 2019 ICR 1 CA and is the case even if the employee affirmed an earlier breach. As per Langstaff J in Lochuack v London Borough of Sutton EAT 0197/14: “A failure to elect to treat a contract as repudiated does not waive such breaches… If a later incident then occurs which adds something to the totality of what has gone before, and in effect resuscitates the past, then the tribunal may assess, having regard to all that has happened in the meantime — both favourable to the employer and unfavourable to him — whether there is or has been a repudiatory breach which the employee is now entitled to accept.
+
+8001363/2025 Page 4
+
+If so, and if the employee resigns at least partly for that reason, it will find in that case that there has been a constructive dismissal.”
+
+13. The intention of the employer is not a factor in assessing whether there has been a fundamental breach of contract.
+
+14. The formula for calculating the basic award is set out in Section 119 of the ERA and provides that a claimant is entitled to one week’s pay for each complete year of continuous service where the claimant was below the age of 41 but not younger than 22. A week's pay is capped at £700 under statute.
+
+15. As per Secretary of State for Employment v John Woodrow and Sons (Builders) Ltd 1983 ICR 582, EAT, a week’s pay is calculated based on gross pay.
+
+16. The compensatory award is provided for in Section 123 of the ERA and is such amount “as the tribunal considers just and equitable in all the circumstances having regard to the loss sustained” by the claimant in consequence of the dismissal. The loss must be attributable to the actions taken by the respondent employer. As per Norton Tool Ltd v Tewson 1972 ICR 501 NIRC, the compensatory award should include items such as loss of earnings loss between the date of dismissal and the hearing; estimated loss after the hearing; expenses incurred as a consequence of dismissal; and loss of statutory protection rights.
+
+17. Where it is established that the claimant would have been dismissed in any event had the dismissal process not contained procedural flaws, it is for the Tribunal to consider if there should be a deduction to the compensatory award to reflect this. This is often referred to as a Polkey deduction from the lead case of the same name. Software 2000 Ltd v Andrews and others 2007 ICR 825 EAT summarises the up to date position on what is required of the Tribunal in making that assessment. In short, the Tribunal must assess the loss flowing from the dismissal, which involves an assessment of how long the employee would have been employed but for the dismissal. In making this assessment, the Tribunal must have regard to all relevant evidence, including that from the claimant. A finding that an employee would have continued in employment indefinitely should only be made where the evidence to the contrary is so scant that it can be effectively ignored.
+
+18. Where it is established that an employee’s conduct has contributed to the decision to dismiss, the Tribunal may reduce the compensation to the claimant to reflect this. This reduction may be to the basic award, or the compensatory award or both. When considering a reduction to the basic award, Langstaff P (as he was then) stated in Steen v ASP Packaging Ltd 2014 ICR 56, EAT that the reduction considers what is just an equitable.
+
+8001363/2025 Page 5
+
+When considering a reduction to the compensatory award, it is also necessary to look at whether the conduct caused or contributed to the dismissal. Nelson
+
+v. BBC (No.2) 1980 ICR 110 CA determined that when looking at contributory conduct, this considers conduct which is blameworthy or culpable. Steen also confirmed that the assessment of whether the claimant’s actions were blameworthy or culpable is for the Tribunal, who is not constrained by the employer’s decision.
+
+19. A claimant has an obligation to mitigate their loss. It is for the respondent to evidence that the claimant has acted unreasonably. Fyfe v Scientific Furnishings Limited 1989 ICR 648 EAT confirms that the onus of showing the claimant’s failure to mitigate loss falls to the employer. Further in Cooper Contracting Ltd v Lindsey 2016 ICR D3 EAT it is for the employer to prove that the claimant acted unreasonably, not for the claimant to show what he did was reasonable.
+
+20. A failure by an employee to comply with the Acas Code of Practice on Discipline and Grievance can result in an decrease to a successful employee’s compensatory award. As per Kuehne and Nagel Ltd v Cosgrove EAT 0165/13 a breach of the Code will not automatically trigger an adjustment to the compensatory award. Rather, the employee must have acted unreasonably in their breach. The Tribunal has discretion to reduce the compensatory award, having regard to what is “just and equitable in all the circumstances” and further guidance was provided by Underhill P (as he was then) in Lawless v Print Plus EAT 0333/09.
+
+21. Section 1 of the Employment Rights Act 1996 states that “Where a worker begins employment with an employer, the employer shall give to the worker a written statement of particulars of employment.”
+
+22. Section 38 of the Employment Act 2002 provides for the remedy where there has been a failure to provide a statement of particulars of employment.
+
+Findings in fact
+
+23. I came to the following findings of fact on the balance of probabilities after hearing the evidence.
+
+24. The claimant was employed by the respondent as a mechanic at the respondent’s workshop which specializes in repairing and building automatic gearboxes. The respondent is a small organization, run by David Tierney and Craig McFadyen. At the time of the claimant’s resignation, they employed another mechanic, James Galloway and a receptionist, Collette McFadyen. Mr Galloway has since retired as a result of arthritis.
+
+8001363/2025 Page 6
+
+25. Given the niche market within car repairs, it can be difficult to employ and retain mechanics.
+
+26. One of the key areas of dispute was around an altercation on 21 February 2025 where Mr Galloway was assisting the claimant to change the oil in a car. The claimant, Mr Tiernay and Mr Galloway all gave evidence on what took place. The commonality in that evidence was that Mr Galloway continued to pump oil when it was not needed, the claimant attempted to alert him to this with a hand gesture and told him that only three litres were needed. Mr Galloway responded to that direction and walked away. Immediately following this, Mr Tiernay suspended the claimant. What the witnesses differed on was what exactly was said.
+
+27. In the claimant’s version, only Mr Tiernay swore, telling him to “fuck off home”. Mr Galloway maintained that the claimant called him a “stupid fucking old bastard”. Mr Tiernay’s evidence was that everyone (including himself) swore at each other but did not support Mr Galloway’s version.
+
+28. I found on the balance of probabilities that the claimant said words to the effect “I fucking said three” and that Mr Galloway responded “do it your fucking self then” and walked off. As Mr Galloway walked away, the claimant said “fuck off then”. Mr Tierney then said to the claimant “what the fuck is wrong with you?” to which the claimant responded “why is it always fucking me?” Mr Tierney responded by suspending, telling him to go home. The claimant continued to finish the job and Mr Tierney repeated that he should go home. This direction was an attempt to cool things down and not have matter escalate further.
+
+29. I found that while the claimant started the altercation, to describe him as the aggressor was inaccurate as it did not take into account that all three men were aggressive towards each other. Mr Tiernay and Mr Galloway were also aggressors in that altercation. Mr Tiernay did not appear to recognise that asking the claimant “what the fuck is wrong with you?” was an aggressive approach, particularly as one of the owners of the business. Mr Galloway’s response to “do it your fucking self” and walking away was not a de-escalation of the situation. Both men may have felt justified in their responses given that the claimant swore first, but all three were aggressors in the particular incident.
+
+30. The claimant left work as directed while Mr Galloway remained at work. The claimant was paid in full for the day.
+
+31. The claimant attended work as normal on Monday 24 February. When he arrived, he was asked by Mr McFadyen to go into the office within the workshop and wait for Mr McFadyen. The claimant anticipated that this
+
+8001363/2025 Page 7
+
+meeting was to discuss and resolve what had occurred on Friday. Again there was a difference in what exactly was said at that meeting. What was not in dispute was that the meeting between Mr McFadyen and the claimant was over in a matter of seconds. Mr McFadyen expected the claimant to take responsibility for what had happened on Friday. I found that when the claimant asked what would happen with Mr Galloway and stated that Mr Galloway was aggressive, rather than taking responsibility, the claimant was again suspended from work. The claimant was paid in full for the day.
+
+32. After the claimant left work on 24 February, he received an email from Mr McFadyen and Mr Tierney asking him to attend a meeting the following day (Tuesday 25 February) “regarding the recent issue within the workplace…. to see if there is any way to resolve the issue.” The claimant, believing he had been dismissed by Mr McFadyen that morning, responded asking for written reasons for his dismissal. Mr McFadyen and Mr Tierney responded advising that the claimant was not dismissed. They also confirmed that the claimant could bring someone with him to the meeting the following day.
+
+33. The claimant attended his place of work the following day accompanied by his brother, Dylan Black for the meeting. It was the claimant’s position that Mr McFadyen was aggressive in that meeting, by standing throughout, and in particular when asking Mr Dyan Black who he was. Both the claimant and Mr Dylan Black gave evidence that they were taken aback by Mr McFadyen’s approach as he (Mr McFadyen) knew the claimant was bringing someone with him to that meeting. I found that Mr McFadyen was quite direct and to the point when giving his evidence. I found on the balance on probabilities that Mr McFadyen’s direct questioning of Mr Dylan Black without any social niceties was perceived as aggression. So too the decision to stand throughout the meeting.
+
+34. During the meeting, Mr Tierney and Mr McFadyen confirmed that they viewed only the claimant as being at fault on Friday. The claimant attempted to discuss Mr Galloway’s role in the altercation. Mr Tierney and Mr McFadyen dismissed the suggestion that Mr Galloway was aggressive towards the claimant either on 21 February or previously. I found that the claimant also informed Mr Tiernay and Mr McFadyen that Mr Galloway had previously had previously threatened him in that meeting. While Mr Tiernay and Mr McFadyen disputed this, I relied on the fact that it was not in dispute that the claimant continued to raise Mr Galloway’s role in the Friday altercation, the fact that his resignation letter referred to threats made by Mr Galloway and the fact that the claimant believed the respondent would dismiss him and so this was his only opportunity to defend himself.
+
+35. At the end of the meeting, Mr Tierney and Mr McFadyen informed the claimant that he could come back to work the following day to which the claimant
+
+8001363/2025 Page 8
+
+responded that he needed 24 hours to consider the situation and take legal advice.
+
+36. The following day, 26 February, the claimant submitted a certificate of fitness for work citing stress and anxiety as the reason for his absence. He remained absent on sick leave until 28 March.
+
+37. On 28 March, the claimant attended at his work with a letter of resignation which he gave to Mr Tierney. The letter set out that the following as
+
+contributing towards his resignation:
+
+a. his issues around the meetings on the 24 and 25 February;
+b. the suggestion that he was the aggressor on 21 February;
+c. the decisions to suspend him on 21 and 24 February;
+d. the uncertainty about he was dismissed on 24 February;
+e. bullying and threatening behaviour; and
+f. no genuine attempt by the respondent to address the situation fairly.
+
+38. The claimant resigned with immediate effect and so his last day of employment with the respondent was 28 March.
+
+39. The letter also stated that the claimant was raising a formal grievance about the issues he faced in the workplace.
+
+40. The respondent acknowledged this letter on 2 April and within this confirmed that they were prepared to deal with points in his letter by way of a formal grievance. The letter asked the claimant to confirm he was happy with this so that they could organize a meeting to discuss further. The claimant did not engage further with the respondent.
+
+Decision
+
+Failure to provide statement of terms and conditions
+
+41. It was accepted by the respondent that they failed to provide the claimant with a statement of terms and conditions of employment, as per Section 1 of the Employment Rights Act. This was due to the fact that they were a small employer and have since taken steps to rectify this position.
+
+42. I accepted Mr Anderson’s submission that Section 38(2) of the Employment Act 2002 does not give a standalone right to compensation for a failure to provide full and accurate written particulars of employment. Rather, the right to compensation depends on a successful claim, in this instance a successful constructive unfair dismissal claim. As I found the claimant was constructively
+
+8001363/2025 Page 9
+
+unfairly dismissed, I can therefore make an award in respect of the respondent’s breach.
+
+43. Having considered the circumstances and noting that Section 38 requires the award to be just and equitable, I award three weeks’ pay for this failure. I considered that there was a wholescale failure, but that the respondent is a small organization without a HR department and has since taken steps to address the lack of paperwork. A weeks’ pay for the claimant was £620 and so the award is £1,860.
+
+Constructive unfair dismissal
+
+44. The issues to determine:
+
+(i) Was there a fundamental breach of contract?
+(ii) Did the claimant resign in response to that breach?
+(iii) Did the claimant affirm the breach?
+(iv) What remedy is available? Was there a fundamental breach of contract?
+
+45. The claimant is relying on the implied term of trust and confidence. If it is found that this term has been breached, this breach is said to be fundamental.
+
+46. Whether a breach of contract is sufficient or fundamental is a question of law and fact. As above, an employer “will not, without reasonable and proper cause, conduct his business in a manner likely to destroy or seriously damage the relationship of trust and confidence between the employer and employee”. This is an objective test. The subjective perception of the employee can be relevant but is not determinative. The is a demanding test, with “damage” qualified by the word “seriously”. It requires striking a balance between the employer’s interests in managing his business as he sees fit and the employee’s interest in not being unfairly or improperly exploited. The conduct at the heart of the alleged breach must be such that an employee cannot be expected to put up with it. The employer demonstrates by its behaviour that it is abandoning altogether the performance of the employment contract. It is not a test that the employer has to behave reasonably towards employees. Acting unreasonably is insufficient.
+
+47. The claimant’s evidence was that while he was regularly bullied in the workplace, the catalyst for his resignation was his suspension on 21 and 24 February and the failure of both meetings on 24 and 25 February to resolve the issues.
+
+8001363/2025 Page 10
+
+48. The respondent’s justification for suspending the claimant on Friday 21 February was that he was the aggressor in the situation with Mr Galloway and that the claimant needed to cool off over the weekend. While I found that in fact all three men were aggressive in that interaction, I considered that from an objective perspective removing the claimant temporarily from the workplace in order to take the heat out of the situation was not an action likely to destroy or seriously damage the relationship of trust and confidence. The claimant had not perceived the employment relationship destroyed, but instead returned the following Monday expecting a meeting or discussion on how to move forward from what had occurred.
+
+49. The suspension on Monday 24 had a different tenor however. The meeting which resulted in the claimant’s suspension lasted seconds. Mr McFadyen stated that he wanted to find out from the claimant what happened, but in fact what he wanted and expected was the claimant to take responsibility for Friday’s incident and when the claimant asked about Mr Galloway’s role in the altercation Mr McFadyen simply told him to go home. It was such that the claimant assumed he had been dismissed from his role. There was no reasonable or proper cause for this suspension. It was not a disciplinary suspension. The justification from Friday, of taking the heat out of the moment, was no longer present. The claimant was described as smug in the seconds long meeting by Mr McFadyen, but that is not a basis for suspension. When there was no immediate apology or acceptance of responsibility from the claimant, he was told to go home. I considered that this action was serious enough to seriously damage or destroy the employment relationship. It was a fundamental breach of the implied term of trust and confidence.
+
+50. While the meeting on 25 February was pitched as a resolution meeting, there were no proposals from the respondent about how to resolve the matter. Again, there was an expectation that the claimant would take full responsibility for Friday’s altercation. Mr Tierney and Mr McFadyen’s minds were fully made up about the claimant’s role in that altercation. The claimant was met with a wholly closed mindset. Any attempts to suggest Mr Galloway had a role or had been aggressive towards him previously were dismissed out of hand by Mr Tierney and Mr McFadyen.
+
+51. I found that this wholly closed mindset and dismissal of the claimant’s concerns about Mr Galloway was likely to damage the relationship of trust and confidence between respondent and claimant. I did not find however that this breach caused serious damage or was likely to destroy the relationship of trust and confidence. Where there are a series of breaches relied upon, the last breach in the series does not need to have the same character as the previous breaches, so long as the last straw is not an entirely innocuous event. I found that the closed and dismissive mindset, although not serious
+
+8001363/2025 Page 11
+
+enough to amount to a fundamental breach, was not an innocuous event. It can therefore be relied upon as the final straw.
+
+52. As the breach on 24 February was a fundamental breach, and this was relied upon in part in resigning, it is not necessary to make a determination as to whether the history of bullying and threatening behaviour in fact took place. The breach on 24 February and the final straw event on 25 February was sufficient. Did the claimant resign in response to that breach?
+
+53. The claimant resigned on 28 March and cited the above as factors in his decision to resign. It was suggested to the claimant that the real reason for his dismissal was that his statement of fitness for work was expiring. He denied this. There was no other evidence to suggest that the expiry of the sickline was the effective reason, save for the timing. In any event, the crucial question is whether the repudiatory breach is one of the factors relied upon in resigning. It does not need to be the sole factor. Taking into account the claimant’s evidence and the resignation letter, I found that the claimant resigned in response to the meetings on 24 and 25 February. Did the claimant affirm the breach?
+
+54. It is not in dispute that there was delay between the last breach on 25 February and the claimant’s resignation on 28 March. During this period, the claimant was absent from work and signed off by his GP for anxiety. He was prescribed medication for anxiety at that time.
+
+55. Affirmation is an issue of conduct rather than the passage of time and I have considered the guidance in Chindove that the mere passage of time will not in and of itself amount to affirmation, particularly where the employee indicated that he is considering his position. This was the case here. The meeting on 25 February came to a close with the claimant indicating that he wanted to consider his options and take legal advice. He spoke to Acas and was then signed off with anxiety, his mental health impacted by the events of the preceding days. As the claimant was absent, the only performance of his contract which was taking place was the payment of wages. I found that the claimant did not affirm the contract. He indicated that he was unhappy with how things had progressed and wished to take legal advice. He was then absent due to his mental health and so was not carrying out his duties. He then resigned without notice citing, amongst other things, the events of 21 – 25 February which he was taking legal advice on. I found that the claimant did not affirm the breaches.
+
+56. In conclusion, I found that the claimant was constructively unfairly dismissed.
+
+8001363/2025 Page 12
+
+Remedy
+
+Basic award
+
+57. The claimant was 24 at the time of his dismissal and had 5 complete years of service. His gross weekly wage was £620. Using the formula of a weeks’ pay per completed year of service, the claimant is entitled to a basic award of £3,100.
+
+Compensatory award
+
+58. The compensatory award compensates a claimant for actual loss resulting from the dismissal. It is calculated using the net salary the claimant received while employed by the respondent.
+
+59. The claimant had a period of unemployment where he was in receipt of universal credit and also undertook freelance work in his brother’s business. He returned to full time education in August 2025 to retrain as a software developer.
+
+60. The claimant was in receipt of universal credit immediately after his dismissal and received three payments, of £400, £350 and £350. He is required to repay £50 from his first payment. He has also undertaken some freelance work in his brother’s software development company, and received £2,977.50 for this work.
+
+61. Since August 2025, he has been in receipt of SASS payments as he has taken up a full time college place, studying to become a software developer. His total SASS payments received to date are £4,335.
+
+62. The claimant’s income from his dismissal to the date of the hearing comes to £8,412.78.
+
+63. The claimant’s net pay was £503 per week. There are 34 weeks from the date of dismissal to the date of the hearing. His total income during that period would have been £17,102, had he not resigned. This figure differs from the figures in evidence as the compensatory award is based on net rather than gross figures. The claimant’s calculations in evidence were based on gross figures.
+
+64. The claimant’s total loss from date of dismissal to the hearing amounts to £8,689.22 (17,102 – 8,412.78 = 8,689.22).
+
+Losses attributable to the dismissal
+
+65. The respondent submitted that the claimant’s losses crystalized at the point where he became a full time student in August 2025 and that any loss after that period was attributable to his full time education status rather than his
+
+8001363/2025 Page 13
+
+resignation and dismissal. I was not persuaded by this submission. Rather, I considered whether the claimant’s ongoing losses were attributable to the action taken by the respondent and whether it was just and equitable to award compensatory loss.
+
+66. I found that had the claimant not resigned from his role due to the respondent’s actions, he would have remained a mechanic. The role he undertook for the respondent was niche in that it deals primarily with automatic gearboxes. It is not a wide ranging or broad as a mechanic in a garage such as Arnold Clark. He was unable to find work as a mechanic in the immediate months after his resignation and so sought to retrain. He undertook some freelance work as a software developer but required further study to do so on a permanent basis. The losses therefore are attributable to the dismissal. In considering whether just and equitable, I found that it was just and equitable to award compensation, taking into account the fact that the claimant was actively looking for work before undertaking full time education, was in receipt of a SASS and the total period of loss came to just under eight months.
+
+Mitigation of loss
+
+67. The respondent’s position was that the claimant failed to mitigate his loss. It is for the respondent to show the claimant acted unreasonably in mitigating his loss, rather than for the claimant to show that he acted reasonably. The onus is therefore on the respondent, not the claimant.
+
+68. I found that the respondent did not establish a failure to mitigate his losses. The claimant’s evidence was that he undertook some freelance work for his brother and applied for universal credit. In order to receive that benefit, the claimant was assigned a work coach and required to actively seek work. A failure to do would result in cessation of his benefits. No evidence was provided to suggest the claimant was not actively seeking work or that he would have been able to find a suitable role at a similar salary within the timeframe discussed. I found that unable to find alternative employment, the claimant decided to enter education to retrain as a software developer and so take up further work in that area. It was not unreasonable for the claimant to do so, given his inability to find work as a mechanic up to that point.
+
+Polkey
+
+69. It was the respondent’s position in submissions that had the claimant not resigned, they would have disciplined him for his role on 21 February and potentially dismissed him. As such, his compensation should be reduced by 75%. This however was not the position in evidence. Mr Tierney spoke about the difficulty in finding qualified mechanics as opposed to apprentices given
+
+8001363/2025 Page 14
+
+the niche area of their work, that it took some time and a higher rate of pay to replace the claimant and that had they progressed to a disciplinary hearing, they would likely have given the claimant a written warning. I therefore do not find that a Polkey reduction should be made in the circumstances.
+
+70. The respondent also submitted that any award should be reduced due to the claimant’s contributory fault, namely his behaviour on 21 February. Submissions on this point were minimal. In assessing contributory fault, I assessed the culpable nature of the claimant’s behaviour, not constrained by the respondent’s assessment of the wrongfulness of the claimant’s behaviour (Steen).
+
+71. I found that while the claimant had a level of blameworthiness in the 21 February altercation, the catalyst for his resignation was the respondent’s actions on 24 and 25 February. I found that there was no culpable or blameworthy conduct from the claimant on those days.
+
+Reduction due to failure to comply with Acas
+
+72. It was also submitted by the respondent that the claimant failed to follow the Acas Code by not engaging with the grievance process and so again a reduction to compensation should be made. The claimant’s grievance formed part of his resignation letter. His evidence was that he did not engage in the grievance process further as he had lost trust in his employer.
+
+73. This potential adjustment only applies to the compensatory award and where the failure to comply was unreasonable.
+
+74. I found that while the claimant was in breach of the Acas code by failing to engage with the grievance once submitted, it was reasonable for him to do so as he had lost trust and confidence in the employment relationship, hence his resignation and that at the point the respondent was willing to engage in the grievance, he was no longer an employee. As such I decided that the claimant did not act unreasonably and so there no reduction is applied.
+
+75. The claimant’s compensatory award is therefore £8,689.22
+Date sent to parties 23 December 2025

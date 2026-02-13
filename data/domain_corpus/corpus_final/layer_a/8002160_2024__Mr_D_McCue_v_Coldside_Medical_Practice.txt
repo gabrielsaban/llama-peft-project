@@ -1,0 +1,370 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The judgment of the Employment Tribunal is that the claims brought by the claimant fail and are dismissed.
+
+REASONS
+
+Introduction
+
+1. The respondent is a partnership operating as a GP practice. The claims brought by the claimant (who had the benefit of legal advice in preparing his ET1) are that he was constructively unfairly dismissed and that he was subjected to detriments for having made protected disclosures.
+
+2. Although no list of issues was agreed, the scope of the claims was well defined in the ET1 and was discussed at a Case Management Preliminary Hearing (at which the claimant still had legal representation).
+
+3. For the constructive unfair dismissal claim, the claimant points to the following matters as cumulatively amounting to a material breach of his contract of employment:
+
+8002160/2024 Page 2
+
+(i) That in recent years, he received little support from the respondent in his professional development or day-to-day activities;
+(ii) That he was put under significant pressure to handle conflicts amongst the partners of the respondent including a particular issue relating to a retiring partner in November 2023;
+(iii) That in early June 2024, he was informed by the partners that they had decided to appoint a new member of staff without consultation with him, undermining his role overseeing the HR function of the respondent;
+(iv) That in the period from 21 May 2024 to 11 June 2024, he was informed that some significant aspects of his role including payroll and bookkeeping were to be outsourced to a third-party supplier; and
+(v) That on 5 and 11 June 2024, at meetings with the respondent’s partners, he was “lambasted”, subjected to stern criticism and was disparaged in an aggressive and antagonistic manner.
+
+4. The claimant resigned with notice by means of a letter dated 1 July 2024.
+
+5. In his ET1, the claimant identified five disclosures which he claims are protected for the purposes of his detriment claim. Four of these are related, concerning the use of loan monies received by the respondent as part of a Scottish government sustainability scheme for GP practices. In summary, his claim is that he raised concerns about the lawfulness of the way in which the loan monies were being used on three separate occasions before his resignation and on one occasion following his resignation (18 September 2024).
+
+6. The final disclosure put forward by the claimant relates to concerns he said he raised about the process used to recruit his successor.
+
+7. The detriments relied upon by the claimant are:
+
+(i) Being accused of obstructing the recruitment and induction of his successor;
+(ii) The termination of his employment before the end of his notice period and paying him in lieu of the balance;
+(iii) Being verbally harassed on the day of the early termination of his employment; and
+(iv) The provision of an updated reference to a potential new employer which led to the job offer being withdrawn. 8002160/2024 Page 3 The Evidence
+
+8. The claimant gave evidence on his own behalf. At the start of the hearing, he requested that his evidence in chief be taken by means of a witness statement he had prepared. Although there had been no order to produce such a statement, it was agreed by the respondent that the statement could be used. Thereafter, the claimant led evidence from four other witnesses. Three of these were employees of the respondent who had reported to him (two of whom were still employed) and a former partner of the respondent, Dr McMillan, who retired in December 2022.
+
+9. For the respondent, evidence was led from three of the current GP partners (Dr Tahmina Ansar, Dr Andrew Taylor, and Dr Angus Oswald), the claimant’s successor, Mr Alex Brown, and Mrs Elaine Mitchell, an external chartered accountant engaged by the respondent.
+
+10. A number of stark conflicts in the evidence arose during the course of the hearing. The claimant’s position was that all of the respondent’s witnesses were being deliberately dishonest in certain respects. He also suggested that contemporaneous documents were fabricated or created in a way so as to discredit his position. At times, his account of events extended well beyond that set out his ET1 or in his witness statement, creating an increasingly extreme account. Otherwise, the claimant’s witnesses were credible and reliable but had little or no direct knowledge of the subject matter of the claims. In some respects, the claimant’s evidence was not supported by his own witnesses.
+
+11. The evidence of the respondent’s witnesses was found to be credible and reliable. Key chapters of the evidence were supported by multiple witnesses and contemporaneous documents which the Tribunal accepted to be genuine.
+
+12. Particular areas of conflict are set out in the Findings in Fact which follow, highlighting where the claimant’s evidence was unreliable and why the evidence of the respondent’s witnesses was preferred.
+
+Relevant Law
+
+Constructive Unfair Dismissal
+
+13. Employees with more than two years’ continuous employment have the right not to be unfairly dismissed under s94 of the Employment Rights Act 1996 (“ERA”). 'Dismissal' is defined to include what is generally referred to as constructive dismissal. Constructive dismissal occurs where the employee terminates the contract under which he/she is employed (with or without
+
+8002160/2024 Page 4
+
+notice) in circumstances in which he/she is entitled to terminate it by reason of the employer's conduct (s95(1)(c) ERA).
+
+14. The test for whether an employee is entitled to terminate his contract of employment is a contractual one. The Tribunal requires to determine whether the employer has acted in a way amounting to a repudiatory breach of the contract or shown an intention not to be bound by an essential term of the contract (Western Excavating (ECC) Ltd v Sharp [1978] ICR 221). For this purpose, the essential terms of any contract of employment include the implied term that the employer will not, without reasonable and proper cause, act in such a way as is calculated or likely to destroy or seriously damage the mutual trust and confidence between the parties (Malik v Bank of Credit and Commerce international Ltd [1998] AC 20).
+
+15. Conduct calculated or likely to destroy mutual trust and confidence may be a single act. Alternatively, there may be a series of acts or omissions culminating in a ‘last straw’ (Lewis v Motorworld Garages Ltd [1986] ICR 157).
+
+16. As to what can constitute the last straw, the Court of Appeal in Omilaju v Waltham Forest London Borough Council [2005] IRLR 35 confirmed that the act or omission relied on need not be unreasonable or blameworthy, but it must in some way contribute to the breach of the implied obligation of trust and confidence. Necessarily, for there to be a last straw, there must have been earlier acts or omissions of sufficient significance that the addition of a last straw takes the employer’s overall conduct across the threshold. An entirely innocuous act on the part of the employer cannot however be a final straw, even if the employee genuinely, but mistakenly, interprets the act as hurtful and destructive of their trust and confidence in the employer.
+
+17. In order for there to be a constructive dismissal, not only must there be a breach by the employer of an essential term such as the trust and confidence obligation; it is also necessary that the employee resigns in response to the employer's conduct (although that need not be the sole reason – see Nottinghamshire County Council v Meikle [2004] IRLR 703). The right to treat the contract as repudiated must also not have been lost by the employee affirming the contract prior to resigning.
+
+18. The Court of Appeal in Kaur v Leeds Teaching Hospital NHS Trust [2018] EWCA Civ 978 set out guidance on the questions it will normally be sufficient for Tribunals to ask in order to decide whether an employee has been
+
+constructively dismissed, namely:
+
+a. What was the most recent act (or omission) on the part of the employer which the employee says caused, or triggered, his or her resignation? 8002160/2024 Page 5
+b. Has he or she affirmed the contract since that act?
+c. If not, was that act (or omission) by itself a repudiatory breach of contract?
+d. If not, was it nevertheless a part (applying the approach explained in Omilaju) of a course of conduct comprising several acts and omissions which, viewed cumulatively, amounted to a (repudiatory) breach of the Malik term?
+e. Did the employee resign in response (or partly in response) to that breach?
+
+19. If an employee establishes that they have been constructively dismissed, the Tribunal must determine whether the dismissal was fair or unfair, applying the provisions of s98 ERA.
+
+Detriment for Protected Disclosure
+
+20. Workers are protected under ERA from suffering detrimental treatment ‘on the ground that’ they have made a protected disclosure. In Section 43A ERA, “protected disclosure” is defined with reference to Section 43B ERA. Section
+
+43B ERA provides:
+
+(1) In this Part a “qualifying disclosure” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, tends to show one or more of the following—
+
+(a) that a criminal offence has been committed, is being committed or is likely to be committed,
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
+(d) that the health or safety of any individual has been, is being or is likely to be endangered,
+(e) that the environment has been, is being or is likely to be damaged, or
+(f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed. 8002160/2024 Page 6
+
+21. The EAT in Williams v Brown UKEAT/0044/19 held that section 43B(1) requires there to be (i) a disclosure of information, (ii) the worker’s belief that the disclosure is in the public interest, (iii) such belief being reasonably held,
+
+(iv) such belief being that one of the scenarios in sub-paragraphs (a) to (f) of 5 section 43B(1) of ERA exists, and (v) that belief also being reasonably held.
+
+22. The requirement to disclose ‘information’ is important. That can be done verbally or in writing but must involve providing sufficient factual details of the relevant issue and not merely voicing general unhappiness or concern – Cavendish Munro Professional Risks Management Ltd v Geduld UKEAT/0195/09.
+
+Findings in Fact
+
+Background and Working Environment
+
+23. The respondent operates as a GP practice. It is comprised of GP partners, non-partner GPs, other clinical staff and administrative staff. The claimant was employed as practice manager from June 2018 until 18 September 2024. In the latter stages of his employment and at the time of his resignation, the respondent had four GP partners, the three referred to above as having given evidence and a fourth, Dr Heath.
+
+24. As practice manager, the claimant had responsibility for the day-to-day running of the practice including the management of administrative staff, the management of the practice and dealing with accounts. Weekly partners’ meetings took place which were attended and minuted by the claimant. He otherwise had daily interactions with them. He was liked and supported by the staff who worked for him.
+
+25. Until the latter stages of the claimant’s employment, the respondent’s partners had high levels of trust in him and gave him a large degree of autonomy in his role. They supported the claimant’s career development by paying for him to undertake an MBA.
+
+26. Amongst the partner group, Dr McMillan initially had primarily responsibility for financial matters and liaised with the claimant on those. After his retirement, Dr Taylor took on that role although he was less active in the management or scrutiny of financial matters.
+
+27. The claimant had direct access to the respondent’s solicitors and accountants for advice. He was a member of a local practice management group.
+
+28. In his evidence before the Tribunal, the claimant stated that the respondent operated a toxic working environment and that he was provided with inadequate support from the start of his employment. That account is at odds
+
+8002160/2024 Page 7
+
+with the evidence of all others concerned including his own witness, Dr McMillan. It is at odds the claimant’s own documents. Many of his emails to the partners conclude with his thanks for their support or ongoing support. In a document prepared by the claimant dated 20 April 2023, in advance of his appraisal, he listed a number of personal achievements. As part of that, he described himself as having developed sound relationships with key colleagues including GPs.
+
+29. In a document dated 30 April 2024, prepared by the claimant as part of a proposed appraisal meeting for Dr Taylor, the claimant stated that Dr Taylor had supported him on an ongoing basis throughout the year.
+
+30. The claimant’s position is also at odds with his evidence before the Tribunal where he ultimately stated that he had a good working relationship with all of the partners. His characterisation of the working environment is not, therefore, accepted.
+
+31. In relation to the claimant’s position that he was required to handle conflicts between the partners, his account was at odds with that of all of the partners (including his witness, Dr McMillan). Although his evidence before the Tribunal again appeared to suggest that there were ongoing conflicts for all of his employment, his statement refers only to being required to mediate in a conflict between two partners in late 2023. During the course of his evidence, the claimant’s language became increasingly extreme referring to “acts of violence” without any specification at all. He later retracted that and referred instead to “verbal violence” and later “threats” (again without real specification).
+
+32. The position of the respondent’s witnesses (and Dr McMillan) was that tensions did exist from time to time and that the issue in 2023 was an example of that, but the partnership was stable and that disputes were dealt with at partnership level and did not involve the claimant. That is consistent with the evidence of Dr McMillan who stated that it would be inappropriate to involve the claimant in issues affecting the partnership group. Having regard to the weight of evidence against the claimant’s position and his own lack of specification, the Tribunal concluded that the claimant was not put in a difficult position as it related to any conflict between partners or within the partnership group.
+
+Bonus Arrangements
+
+33. In addition to the retirement of Dr McMillan, one other partner retired and one other stepped down within a short space of time. Each had an entitlement to repayment of their capital leading to cashflow issues for the respondent.
+
+8002160/2024 Page 8
+
+34. As a consequence, the claimant was informed in or around April 2023, that the respondent would not be in a position to pay bonuses that year, either to the claimant or any other members of staff.
+
+35. A dispute arose as to whether the claimant was told that his bonus would not be paid or that it would be paid but on a deferred basis. The claimant maintained the latter. That was contrary to the evidence of the partners who gave evidence and also Mrs Mitchell. Mrs Mitchell is a chartered accountant who specialises in advising medical practices operating in Dundee and surrounding areas.
+
+36. The claimant met with Mrs Mitchell at a training event organised by her firm for practice managers. During the course of the conversation, Mrs Mitchell’s evidence was that the claimant stated to her that “the b*stards” were not giving him his bonus. The claimant’s position was that he did not say that and that Mrs Mitchell was lying and colluding with the partners. He could provide no rationale as to why she might do so. Mrs Mitchell’s evidence was that the comment stuck in her mind given the language used by the claimant.
+
+37. The claimant emailed Mrs Mitchell the following day. In the email, he described the partners’ decision as having been unfair and that he was suffering financial detriment. He referred to an argument he might run to the effect that he had a contractual right to the bonus albeit that it was not written. He went on to seek advice about the possibility of putting bonus payments awarded to him to one side with a view to taking a lump sum on his retirement and whether that would be a more tax efficient approach.
+
+38. Mrs Mitchell responded by email of 15 November. She stated that no bonus could be paid unless it was agreed by the partners. She went on to say that she empathised that the claimant felt disappointed in not being paid a bonus but stated that even if a bonus had been paid year on year, it was not an automatic entitlement. In response to the claimant’s questions about setting aside bonus payments, she advised that this would lead to higher tax for the partners and that it would not be possible for the claimant to receive the sums in a tax efficient way on retirement (as opposed to redundancy which was never in question).
+
+39. To the extent that the evidence of the partners and Mrs Mitchell is at odds with the evidence of the claimant on the question as to whether a bonus was refused or merely deferred, the overwhelming weight of evidence supports the respondent’s position (as well as the position of Mrs Mitchell about what the claimant said to her). Their position is supported by the email exchanges involving the claimant himself which run contrary to his own argument.
+
+8002160/2024 Page 9
+
+40. On 2 November 2023, the claimant opened a new bank account for the practice and transferred funds into that account. The sum transferred was 1% of the practice profits that year (being the level of bonus he had been awarded in previous years). He did not inform the partners or Mrs Mitchell that he had done so.
+
+41. Some time in April 2024, Dr Taylor became aware of the separate account when observing the claimant working at his desk. Around that time, the partners had agreed that, given improved cashflow, that the claimant would receive a bonus in respect of the previous financial year. They were concerned that the claimant had opened an account for his own benefit without approval and that he had allocated a bonus payment to himself before it had been approved. Dr Ansar was particularly concerned that when she had asked the claimant to engage locum cover, the claimant had advised that there were no funds to do so whilst knowing funds were sitting in an account for his benefit.
+
+42. The issue was discussed at a partners’ meeting attended by the claimant on 23 April 2024. At that time, the claimant stated that there may be a possibility of his bonus payments being ringfenced from that point until his retirement and that that may be a more tax efficient option for him and the partners alike. The partners were doubtful about the suggestion and instructed the claimant to write to Mrs Mitchell for advice on the point. The claimant did not disclose that he had previously sought advice on that point and had received advice to the effect that his approach was not feasible.
+
+43. He nonetheless emailed Mrs Mitchell again as instructed. Her advice was the same as before.
+
+Sustainability Loan
+
+44. The claimant made an application for loan funding from the Scottish government under a scheme adopted to help GP practices achieve financial stability. The effect of the loan was to make the Government a part-owner of GP practice property so as to reduce the capital exposure of GPs. Loan monies were to be used only for the benefit of property-owning partners. The purpose of the loan as set out in the loan agreement was stated to be meeting any future outgoings in respect of the property or for any purpose connected with the provision of GP services.
+
+45. Part of the rationale for applying for the loan was to allow one of the partners to repay a loan taken against the property and to reduce the capital commitments of the other partners. The respondent took legal and accounting advice in making the application.
+
+8002160/2024 Page 10
+
+46. By email of 1 December 2023, the claimant wrote to the property-owning partners advising them that the loan application had been approved. He referred to the practice’s long-term sustainability and suggested that the payments to reduce capital were not viable. In this context, he had made calculations of the reserves which the respondent should maintain. These included a sum to account for potential redundancy costs in the event that the practice were to close.
+
+47. The partners questioned the claimant on that. In particular it was highlighted that the practice had insurance to cover redundancy costs such that that figure need not be included in the reserves.
+
+48. At a partners’ meeting on 7 February 2024, attended by Mrs Mitchell and the claimant, the loan repayment and capital repayments were discussed and agreed. Reference was also made to a possible second tranche payment. It was agreed that that payment would be used to further reduce the capital of the property-owning partners. As it transpired, the Scottish government, abandoned the scheme before any further payments were made.
+
+49. By email of 1 March 2024, claimant wrote to the property-owning partners advising that the loan monies had been received and that it would be used for the purposes previously agreed.
+
+50. Following the payments to the relevant partners, a portion of the loan monies remained unallocated. The property-owning partners wished to have those monies paid to them to further reduce capital. At a partners’ meeting on 16 April 2024, the claimant stated that it was unaffordable to do so. He advised that the partnership should have reserves of approximately £175,000 and that the money should be used for that purpose. Following the meeting, Dr Ansar emailed Mrs Mitchell to question that. Mrs Mitchell responded to the effect that there was no reason not to use the monies to repay the partners and that she had felt hat this had all been discussed and agreed at the earlier meeting attended by her.
+
+51. A meeting took place between the partners and Mrs Mitchell (but not the claimant) on 21 May 2024. The purpose of that meeting was to discuss a range of issues relating to the claimant, set out in more detail below. As it related to the sustainability loan, Mrs Mitchell confirmed that the payments could be made and that the reserves required were in the order of £80,000 to £100,000.
+
+52. At a partners meeting attended by Mrs Mitchell and the claimant on 4 June 2024 (specifically to deal with accounts), it was agreed that the remaining loan monies would be paid to the property-owning partners as they had requested. Mrs Mitchell followed up the meeting with an email of the same date reflecting
+
+8002160/2024 Page 11
+
+the agreement to make the payments. The payments were made to the partners shortly thereafter.
+
+53. An aspect of the claimant’s evidence as it relates to the loan funds is the suggestion that funds were improperly used to increase the drawings of partners. Drawings are increased from time to time in accordance with advice from the respondent’s accountants. In August 2024 (after the claimant had resigned), increased drawings were approved following liaison with Mrs Mitchell. By email dated 28 August 2024, the claimant noted that he had “pleasure” in attaching a paper outlining the revised drawings. The revised drawings were fixed without any reference to the loan monies.
+
+Other concerns relating to the claimant
+
+54. In addition to the concerns of the partners relating to the bonus issue referred to above, two other issues came to the attention of the partners in May 2024 which caused concern. The first arose when a new partner was offered gym membership. This was stated by the claimant to be a benefit offered by the partnership. The existing partners were not aware of this. It became apparent that the claimant was paying for gym membership of £200 per month. It was noted in the accounts as “staff costs”. Although it was a corporate membership, only the claimant made use of it.
+
+55. The second issue which came to light was a change to the partnership agreement whereby the expenditure cap for sums which the claimant was able to make without approval had changed from £300 to £20,000. The claimant had made that change to the partnership agreement himself. He did not bring it to the attention of the partners. It was contained in an updated agreement put in place at the time of the retirement of a previous partner. The remaining partners were presented by the claimant with a final signing sheet only and were told that the only change was the removal of the retiring partner’s details.
+
+56. The issue came to light when the partnership agreement was being reviewed in view of the forthcoming appointment of Dr Heath.
+
+57. The partners exchanged emails on 7 May 2024 highlighting their concerns about these issues. Dr Ansar described herself as feeling betrayed and devastated. The claimant’s position was that these emails were somehow not genuine and were part of a conspiracy against him. The Tribunal rejected that characterisation. They are contemporaneous documents reflecting an understandable level of disquiet having regard to the issues identified.
+
+58. The partners agreed to meet with Mrs Mitchell alone to discuss these issues (as well as the issues relating to the sustainability loan referred to at paragraph 51 above). In advance of the meeting, they posed certain
+
+8002160/2024 Page 12
+
+questions to Mrs Mitchell by email. In response, Mrs Mitchell confirmed that she was not aware of the gym membership fee. The reference to the staff costs had led her to assume that this was for a staff night out or something of that nature. She also mentioned that the claimant had in the past been deficient in attaching invoices to evidence payments made. In her evidence, she stated that she had never seen a practice manager have an expenditure approval limit in excess of £1,000 in GP practices.
+
+59. Dr Oswald asked a question about the use by the claimant of his wife to help with bookkeeping (which had been authorised in the past). Mrs Mitchell responded to the effect that bookkeeping was a normal part of a practice manager’s role and if the claimant was not able to do it, it should either be delegated or be outsourced to a professional bookkeeping provider. She expressed concerns about the status of the claimant’s wife and whether payments being made to her were properly accounted for from a tax perspective.
+
+60. An unscheduled meeting took place between the claimant and the then four partners on 5 June 2024. The claimant was asked about the gym membership payments. He agreed to repay that sum. He was asked about any other payments he had allocated to himself or for his benefit. He confirmed having used partnership funds to pay for his monthly mobile phone payments. The partners had been unaware of this. The partners subsequently discovered a payment of £2,000 which related to study costs associated with the MBA funded for the claimant. Although there was an agreement to pay the MBA fee, they had not agreed to this additional payment. The claimant did not disclose that at the meeting.
+
+61. The partners also raised the possibility of outsourcing bookkeeping to external accountants. They also questioned the change to the partnership agreement.
+
+62. The claimant’s account is that he was “lambasted” at this meeting. The evidence of the respondent’s witnesses was that he was asked direct questions but that there was no aggression from their side. They described the claimant as being very defensive. The Tribunal preferred the evidence of the respondent’s witnesses. Their evidence was consistent. Whilst it might well have been a difficult meeting for the claimant given the subject matter, there is nothing in his handwritten minute or subsequent correspondence to suggest anything untoward in relation to the conduct of the meeting.
+
+63. By email later that day, the claimant confirmed that he had refunded the gym membership payments which, in his words, he “clearly benefited from”.
+
+64. A further scheduled partners’ meeting attended by the claimant took place on 11 June 2024. The majority of the meeting covered a range of regular agenda
+
+8002160/2024 Page 13
+
+items. Towards the end of the meeting, Dr Oswald stated on behalf of the partnership, that the unanimous decision had been taken to contract out bookkeeping. The claimant reacted angrily to this, suggested that they also outsource payroll, and left the meeting abruptly, slamming the door.
+
+65. The claimant’s position is that he was “lambasted” or verbally attacked for 45 minutes during the meeting. The position of the respondent’s witnesses is that the majority of the meeting was conducted in the normal way without any acrimony and that only when there was a discussion about bookkeeping did the claimant become angry. Their position is that it was he who raised his voice and acted unprofessionally. The Tribunal accepted the clear evidence of the respondent’s witnesses. The claimant’s own minutes present a perfectly normal meeting until such time as the question of bookkeeping was discussed at the end. That is not consistent with the suggestion that he was lambasted for 45 minutes, the meeting having only lasted an hour.
+
+Administration changes
+
+66. The respondent’s partners were concerned about the amount of time spent reviewing hospital referrals, many of which did not require clinical input. On 11 June 2024, Dr Ansar contacted a retired practice manage to enquire about an approach involving administrative staff to perform a screening function. This led to a decision by the partners to train administrative staff in the process. Dr Ansar arranged a meeting between the retired practice manager and the respondent’s assistant practice manager. The claimant was informed of this and in an email of 12 June 2024 to Dr Ansar, he thanked her for keeping him in the loop. The respondent ultimately decided to progress with the initiative.
+
+67. A dispute in the evidence arose as to what that entailed. The claimant characterised it as a recruitment process for a new role. The respondent’s witnesses saw it as an additional administrative task that could be performed by the existing team. The respondent’s position was supported by one of the claimant’s witnesses whose role had been varied so as to include the new task. She saw it as a variation to her existing administrative duties and did not see it as a recruitment. The respondent’s position is, therefore, preferred.
+
+The claimant’s resignation
+
+68. On 23 June 2024, Dr Ansar received a reference request for the claimant from a medical practice in Glasgow. By email of 27 June 2024 she responded in a very positive way concluding that she would “highly recommend him as a practice manager”. She discussed the reference request with other partners, none of whom were aware that the claimant was intending to leave. Although they did not say so to the claimant, each was relieved that the claimant had
+
+8002160/2024 Page 14
+
+chosen to resign. They had significant concerns over the issues discovered and felt the resignation avoided the need to consider disciplinary proceedings. They had prior to this time taken advice from the BMA about the possibility of disciplinary action for what Dr Ansar described as the claiimant’s “multiple dishonesties”.
+
+69. The claimant resigned by means of a letter dated 1 July 2024. He stipulated that his last day of employment would be 9 October 2024 (providing longer notice than required under his contract). He concluded his letter with the words: “Thanks for the amazing opportunity and experience at [the respondent] which I will cherish forever. Good luck.”
+
+70. He also drafted an internal communication which he asked be issued to employees in the following terms: “Dear colleagues, I regret to inform you that I have decided to leave [the respondent] to pursue a fresh career challenge in another GP practice in Glasgow. Since June 2018, I have enjoyed working with all current and former partners, colleagues and extended colleagues. As an integrated, dedicated and caring team, we have achieved impressive successes together, which patients under our care have also benefited from. It is also evident that the external reputation of [the respondent] is admirable. I am personally proud of the business infrastructure now in place which should serve the practice well for moving forward! However, there remains much work to be done and I hope and pray that my successor will continue to learn, improve and make positive changes, whilst adapting to a range of known and evolving environmental factors. …I look forward to working cohesively with you throughout the next three months, during which time, I will, of course, continue to ‘give my all’. All the best and thanks for your ongoing support.”
+
+71. Wording to that effect was issued to staff by email of 4 July 2024.
+
+72. On being questioned as to the discrepancy between the terms and tone of his resignation letter and the reasons for resignation in his claim, the claimant responded to the effect that it was important to maintain relationships with colleagues, that he wanted to see his time out, and that he had good relations with the partners in question.
+
+Recruitment of the claimant’s successor
+
+73. It was agreed that the claimant would be involved in the recruitment of his successor. He prepared an initial advert and job description. The necessary requirements for the role specified were excessive such that only one application was received. The practice manager at a neighbouring practice with 12 years experience in the role told one of the partners that she would not be qualified to apply given the mandatory requirements.
+
+8002160/2024 Page 15
+
+74. Dr Ansar produced a revised advertisement and job description. This resulted in over 70 applications. The partners reviewed the applications and produced a shortlist of candidates for interview. Interviews took place. The interview panel comprised a number of partners and the assistant practice manager. Mr Brown was successful and was offered the position.
+
+75. The claimant was tasked with obtaining references and taking other steps to bring Mr Brown onboard. One reference was obtained from Mr Brown’s previous line manager, a lead anaesthetic consultant in an NHS Trust. The claimant challenged the validity of the reference on the basis that it was in an email rather than on a reference form. Mr Brown is a naval reservist. The claimant challenged the material obtained from his superior officer on the basis that it was not in a format he stated was necessary.
+
+76. The view of the partners and Mr Brown himself was that the claimant was being obstructive in the process, seeking to put hurdles in the way of the appointment which were not justified. A written reference was received from another previous line manager of Mr Brown. It was generally positive in its terms. Upon receipt of the reference, the claimant spoke to the referee. Having done so, he emailed the partners to suggest that notwithstanding the positive terms of the written reference, the referee said that she was glad she was no longer working with Mr Brown and would not employ him again. He stated that she had expressed issues over his honesty and integrity and that she felt he did not have the skills and abilities to take on the role.
+
+77. Upon receipt of that email, Dr Taylor contacted the referee by telephone. She stood by the terms of her written reference and described herself as aghast and upset at how she had been misrepresented by the claimant. She was clear that she had not made the criticisms alleged by the claimant. Dr Ansar also contacted her by email, forwarding on the claimant’s account of the call. The referee responded to the effect that she had already spoken to Dr Taylor and that whilst she had some concerns about Mr Brown’s relevant experience (which were reflected in the original reference), she did not say that she was pleased to no longer be working with Mr Brown.
+
+78. The claimant’s position is that the referee was being dishonest although he could point to no reason why that might be the case. The Tribunal is satisfied based on the evidence of the respondent’s witnesses and the documentary evidence, that there is nothing to suggest that the referee had been dishonest. Instead, the claimant’s approach on this issue is consistent with his wider attempts to disrupt the recruitment process of his successor.
+
+8002160/2024 Page 16
+
+The termination of the claimant’s employment
+
+79. In addition to what the partners saw as obstructive behaviour by the claimant in the recruitment of his successor, and evidence of dishonesty on his part as it related to the reference, the claimant’s behaviour in the workplace gave cause for concern.
+
+80. At a meeting on 4 September 2024, at which all staff and partners were present, the claimant stated in front of staff that they were underpaid and that their job prospects were poor. He blamed the partners for this notwithstanding that it was he who was responsible for setting rates of pay (which the respondent subsequently ascertained were in line with market practice). As a result of these issues, the partners took advice from the BMA and ACAS and it was decided to terminate the claimant’s contract and pay him in lieu of the remainder of his notice period.
+
+81. The partners met with the claimant on 18 September 2024. In advance of the meeting, Dr Taylor produced a handwritten note outlining what he proposed to say. He shared this with the other partners in advance. He read it out at the meeting. In summary, the note confirmed that the claimant’s employment was being terminated with immediate effect with payment in lieu of the remainder of his notice period. In terms of the reason for the decision, the note contains the following: “Unfortunately due to events which I do not wish to reiterate here today, you decided to resign from your post as practice manager. My understanding, and that of the partners, was that we had reached a “gentlemen’s agreement” whereby you agreed to work your notice and during that period assist with and facilitate the procurement and induction of a replacement practice manager. We feel that you have let us down and failed to uphold your side of the bargain. Once again I do not wish to discuss this in any detail. Simply because I do not believe this to be profitable or beneficial to either you or the partners.”
+
+82. The claimant’s position was that the handwritten notes were fabricated for the purposes of this Tribunal. The Tribunal rejected that. The partners were clear on the process and the notes are not inconsistent with the claimant’s own account of what was said to him at the meeting in any event.
+
+83. The claimant reacted very angrily at the meeting. A written letter of termination was passed to him which he threw back on more than one occasion. He used words to the effect that he would bring the practice down and that he would make sure one of the GPs would lose his GMC licence. He also stated that he was going to “whistle-blow”. The partners were puzzled by that reference and were not aware of what the claimant was referring to until they saw his claim form.
+
+8002160/2024 Page 17
+
+84. The letter of termination simply narrated the decision without reasons.
+
+85. The claimant was asked to leave the practice that day. The partners resumed their clinical duties. Later that afternoon, the claimant was still in the office. He was seen putting papers into plastic bags. The partners each spoke to him and asked him to leave but he declined to do so. The claimant was upset and agitated.
+
+86. In his evidence before the Tribunal, the claimant stated that during this period he had severe chest pains and heart palpitations which he disclosed to the partners. His position was that they had ignored these. The evidence of the partners was that no such suggestion was made and that had the claimant done so, they would have immediately called an ambulance. The Tribunal rejected the claimant’s account. The suggestion that four medical practitioners would ignore an individual with severe chest pains and heart palpitaitons in circumstances where they were otherwise trying hard to get him to leave, lacks any credibility.
+
+87. The claimant’s position is that he was shouted at and goaded by Dr Taylor, witnessed by Mr Brown. That account was rejected by Mr Taylor and Mr Brown, whose evidence is preferred. Each of the partners was keen to encourage the claimant to leave and encouraged him to speak to his wife. He was encouraged to have something to drink and eat.
+
+88. Ultimately, Drs Ansar and Oswald left before the claimant did. He shook hands with them and hugged them. Dr Taylor remained at the practice and ultimately called the police at 7.00pm to have the claimant removed. The claimant left before the police arrived.
+
+The claimant’s reference
+
+89. In the context of taking advice from ACAS and the BMA about bringing the claimant’s employment to an end early, a discussion took place about the various concerns which had arisen over the claimant and what Dr Ansar described as his “multiple dishonesties”. The advice from ACAS and the BMA was that providing a positive reference in circumstances which was misleading could result in legal proceedings against the respondent.
+
+90. At this stage, only Dr Ansar’s positive written reference had been provided. Dr Taylor had also been asked for a reference but had not provided one. He felt it inappropriate to do so without the courtesy of having been asked by the claimant and felt uncomfortable about giving a reference in light of the claimant’s conduct.
+
+91. A doctor from the practice in Glasgow contacted Dr Taylor by telephone. During the course of the telephone conversation, Dr Taylor mentioned that
+
+8002160/2024 Page 18
+
+investigations were ongoing. He was asked if there were financial concerns to which Dr Taylor responded by saying that he could not discuss further.
+
+92. It was put to Dr Taylor that the claimant had stated that he had been offered a partnership and was asked if that was correct. Dr Taylor stated that it was not correct. The partners were all clear that the claimant had never been offered a partnership. Whilst he did have a discussion with Dr Taylor on one occasion about the possibility of practice managers becoming partners in a GP practice, it was never pursued.
+
+93. By email of 2 October 2024, Dr Ansar was approached for a further updated “structured” reference for the claimant. She did not complete the form as she felt doing so honestly would require her to confirm that she had concerns over the claimant’s honesty and that she would not be willing to employ him again. Instead, she spoke to a doctor at the practice in Glasgow and followed up with an email. During the course of the telephone conversation, Dr Ansar mentioned the claimant having increased the permitted expenditure limit from £300 to £20,000. That caused the GP seeking the reference concern.
+
+94. In her email, she stated that an analysis of the account [sic] led them to feel reassured that no anomalies were discovered. In her evidence, she stated that this was intended to refer to ‘further’ anomalies.
+
+95. She concluded by saying that she would recommend the claimant as an employee “provided that roles are clearly defined from the outset”. She wanted to tread a line between not misleading whilst not causing the claimant to lose the new job.
+
+96. By letter dated 3 October 2024, the Glasgow practice wrote to the claimant advising him that the offer had been withdrawn. The reason given was unsatisfactory references.
+
+97. The claimant raised a grievance by email dated 9 October 2024. He did not mention whistleblowing or raise the matters which, as part of his claim, he contends amount to public interest disclosures.
+
+Submissions
+
+98. Both parties produced written submissions which were supplemented orally on the final day of the hearing. It appeared from the format and content of the claimant’s submissions that he had had legal assistance in preparing them. He confirmed, however, that he had drafted them himself.
+
+99. In some respects, the claimant’s submissions were at odds with the terms of his claim and his evidence. In particular, in a section identifying the repudiatory breach for the purposes of his constructive dismissal claim, he lists those as:
+
+8002160/2024 Page 19
+
+- exclusion from duties post-disclosures;
+- termination without due process (PILON 18 September 2024);
+- failure to investigate or respond to grievance (9 October 2024); and
+- issuing a damaging post-employment reference causing loss of work.
+
+100. The Tribunal clarified with the claimant whether he was maintaining that the other elements of his constructive dismissal claim were still being pursued. He confirmed that they were. He also accepted that the elements in his submission which postdated his resignation could not logically be part of the reason for that resignation.
+
+101. Equally, for his public interest disclosure claim, he set out only three protected disclosures and only three detriments. He confirmed, however, that he wished all of those set out in his claim form and in his evidence to be considered. Having regard to the claimant’s position as a litigant in person, the Tribunal agreed to proceed on that basis.
+
+102. Otherwise, the terms of both parties’ submissions were considered by the Tribunal in reaching its decision.
+
+Decision
+
+103. The Tribunal first considered the claim of constructive unfair dismissal. The most recent acts relied upon are set out in paragraph 3 (iv) and (v) above. These include two matters said to have taken place on 11 June 2024, the first being the removal of certain of the claimant’s functions and the second being treated aggressively at the meeting that day (as well as on 5 June 2024).
+
+104. For the reasons set out at paragraphs 64 and 65 above, the Tribunal rejected the claimant's characterisation of the meeting of 11 June. He was not lambasted or verbally attacked for 45 minutes or at all. The meeting was largely uneventful. The only contentious issue which arose was the communication by the partners that the bookkeeping function would be outsourced. Contrary to the claimant’s suggestion that he was treated aggressively, he was not. It was he who raised his voice and acted unprofessionally.
+
+105. The same is true in relation to the meeting on 5 June 2024. For the reasons set out at paragraphs 60 to 62 above, the meeting may have been difficult in that the claimant was asked direct questions about alleged misconduct, and the partners floated the idea of outsourcing the bookkeeping function, but there was no aggressiveness towards the claimant. He was not disparaged or treated in an antagonistic manner. He was asked legitimate questions arising from legitimate concerns over his conduct in a number of respects.
+
+8002160/2024 Page 20
+
+106. Those elements of the claim having no foundation in fact, they cannot amount to a repudiatory breach of contract either as a final straw or in conjunction with other acts.
+
+107. Considering the other act on 11 June 2024 - the removal of the bookkeeping function - the Tribunal accepted that such a step is potentially capable of damaging the implied term of trust and confidence. In the circumstances of this case, however the respondent had reasonable and proper cause to take this step. It is clear that the claimant was already outsourcing the function to his wife in circumstances which respondent’s accountant had advised may be problematic. Moreover, in circumstances where legitimate concerns had arisen over the claimant’s propriety in dealing with the accounts, the appointment of a professional bookkeeper was an entirely legitimate step for the respondent to take. Although the claimant was upset by the decision, it was not by itself a repudiatory breach of contract.
+
+108. The Tribunal went on to consider the other elements of the constructive dismissal claim to determine whether, taken cumulatively, they amounted to a repudiatory breach of contract. The Tribunal did not understand there to be any argument from the respondent about affirmation.
+
+109. In relation to the allegations at paragraph 3(i) and (ii) - the alleged lack of support and involvement in partner conflicts - for the reasons set out at paragraphs 28 to 30, the claimant position is wholly unsupported by the evidence. He received significant support from the respondent and was not put under pressure to handle conflicts amongst the partners.
+
+110. The same is true in respect to the final element of the claim. For the reasons set out at paragraphs 66 and 67, the claimant’s characterisation of there having been recruitment for a new role is incorrect. What happened was a perfectly innocuous reallocation of administrative tasks which the partners were perfectly at liberty to implement.
+
+111. There having been no breach of contract at all, a breach cannot have been the reason for the claimant's resignation. It is also relevant to note that the reasons given by the claimant in his letter of resignation are wholly at odds with the reasons he puts forward in his claim. And, whilst the claimant was not held to the terms of his submissions, the inconsistent reasons for resignation advanced there underscore the unreliability of the claimant’s position.
+
+112. For these reasons, the claim for constructive unfair dismissal is dismissed.
+
+113. The Tribunal went on to consider the detriment claim and assessed whether the disclosures said to have been made by the claimant where in fact made, or if they met to the statutory test.
+
+8002160/2024 Page 21
+
+114. As set out at paragraph 5 above, the claimant's position was that he raised concerns about inappropriate or unlawful use of the loan monies received from the Scottish government on four occasions. In his witness statement, he referred to having done so in writing but was unable to point to anything in the bundle to that effect. Whilst it is of course accepted that disclosures may be made verbally, there was a distinct lack of clarity in the claimant’s evidence on these. At its highest, the claimant evidence was that he advised that the loan monies should not, for cash flow reasons, be paid out at particular points in time. At no time did he suggest that the treatment of the funds was contrary to the terms of the loan agreement. The way in which the funds were paid was wholly in accordance with the terms of the scheme and was the reason for making the application in the first place. All payments were made in line with external accounting advice.
+
+115. In relation to the claimant’s position that he repeated the disclosure at the meeting on 18 September 2024, his evidence is rejected. The comments made by the claimant at the meeting are set out at paragraph 83 above. He made various threats and stated a future intention “whistle-blow”. He did not in fact make any reference to the loan at that time and his reference to a future intention to make a public disclosure is inconsistent with is his position that he had already done so.
+
+116. Considering the various elements of the statutory test, the Tribunal was not satisfied that the claimant had made a disclosure of information. Whilst he raised general concerns about cash flow issues, he did not provide sufficient factual details to satisfy the requirement. The respondent’s partners had no idea what he meant by whistleblowing until they saw the ET3.
+
+117. Moreover, there is no evidence of any belief held by the claimant that the issue he raised was in the public interest. It was a matter of internal accounting for the respondent. The approach taken was validated by the respondent’s accountants such that the claimant could not reasonably have believed the approach to be improper, far less that it was in the public interest. Finally, nothing the claimant said tended to show any of the matters set out in section 43B(1) of ERA. The claim accordingly fails in every respect.
+
+118. The other alleged disclosure claimed is concerns the claimant said he raised about the process to recruit his successor. As set out at paragraphs 75 and 76 above, the claimant did raise concerns about certain aspects of the recruitment process as it related to referees and references.
+
+119. Again, however, none of the elements of the statutory test has been established. The claimant did not have a reasonably held belief that he was disclosing information in the public interest. Nothing he said alluded to any of the s43B(1) criteria; nor could he reasonably have believed it did. For the
+
+8002160/2024 Page 22
+
+reasons set out in paragraphs 75 and 76, the concerns he raised were not genuine. He was seeking to be obstructive, and in relation to the concerns he communicated about the verbal reference given, he was presenting a dishonest account.
+
+120. There having been no protected disclosures made by the claimant, it is not necessary to consider the detriments alleged. It is clear, however, that the relevant acts of the respondents were entirely justified and were in no way influenced either by what the claimant said about the sustainability loan or the recruitment process.
+
+121. The claimant was rightly accused of obstructing the recruitment of his successor. The early termination of employment was entirely justified having regard to his unacceptable conduct in the period following his resignation. The provision of an updated reference to his potential new employer was justified having regard to the respondent’s concerns about misleading another medical practice about the claimant’s honesty. The claimant’s account of being verbally harassed on 18 September is rejected for the reasons set out at paragraphs 86 to 88 above.
+
+122. For these reasons, the claimant’s detriment claim is also dismissed. Date sent to parties ______2_2_ _D_e_c_e_m__b_e_r _2_0_2_5_______

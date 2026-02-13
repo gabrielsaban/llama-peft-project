@@ -1,0 +1,556 @@
+JUDGMENT
+
+1. The claimant’s claim of unfair dismissal is dismissed.
+
+2. The claimant’s claims of sex discrimination are dismissed.
+
+3. The claimant’s claims of pregnancy and maternity discrimination are dismissed.
+
+4. The respondent has failed to pay the claimant holiday pay due on termination of employment.
+
+5. The respondent has failed to pay the claimant notice pay due on termination of employment.
+
+REASONS
+
+A. INTRODUCTION
+
+1. The claimant was employed by the respondent as Financial Accountant from 1 August 2018 until her dismissal, which took immediate effect on 31 July 2019.
+
+2. The respondent is the trade association for racecourses in the UK, and represents and supports its member racecourses. We were told that this included such matters as “promoting the highest professional standards in management, medical and veterinary care; health and safety; liaison with the betting industry; representation of racecourses’ interests; fixture list planning and funding; management of the Racegoers Club; and helping racecourses to increase and develop existing and new income streams.” It operates from premises at Ascot Racecourse. In the time period we are concerned with the respondent had around 12 - 14 employees. Maggie Carver was its chair. Initially Stephen Atkin was the Chief Executive, but he stepped down in September 2018 and was replaced by David Armstrong from 1 February 2019. Caroline Davies was the Racecourse Services Director, and was the claimant’s line manager following Stephen Atkin’s retirement. Andy Clifton was the Racing Director. Together with the Chief Executive, they made up the senior management team at the respondent. The respondent’s board of directors included representatives from its member racecourses.
+
+3. A number of other bodies are in some way affiliated with the respondent. We heard of the “Racegoers Club” which seems to be another membership body run under the auspices of the respondent, and Racecourse Technical Services Limited (“RaceTech”), a wholly-owned subsidiary of the respondent with which the respondent shared some facilities and services.
+
+4. The claimant is a qualified accountant. We will address the detail of her contract later but she was employed to work 40 days a year looking after the formal elements of the respondent’s accounts. Another member of staff (the Finance Administrator) carried out day to day bookkeeping along with a range of other tasks including operating the respondent’s payroll. Broadly speaking, the claimant’s role was to oversee this work and eventually to sign off on formal management accounts along with the relevant statutory and regulatory accounts such as VAT returns.
+
+5. The claimant is a woman. She was pregnant at the time she started work with the respondent. Her maternity leave started on 21 December 2018 and ended with her dismissal on 31 July 2019.
+
+6. The claimant brings claims of unfair dismissal (under section 99 of the Employment Rights Act 1996), direct sex discrimination and direct pregnancy or maternity discrimination. These were the subject of a case management hearing on 29 May 2020 during the course of which the case was listed for hearing on 19-21 October 2021. Almost the whole of 19 and 20 October 2021 ended up being taken up with matters of case management. This is described in our separate order of 20 October 2021. The outcome of this was that the issues for us to determine are set out in the list of issues included as an appendix to that order and this judgment, and we listed the case to continue before us (as part-heard) on 2, 3, 4, 7 and 8 March 2021. We had listed this on the basis that the parties would complete their evidence and submissions within three days, but this took 4½ days. In consequence we reserved our decision. It was agreed that the hearing would address matters of liability only, with a date being set for a provisional remedy hearing. I apologise to the parties that it has taken longer than I anticipated to prepare this judgment and reasons.
+
+7. We heard evidence from the claimant, Gary Ballerino (her father), David Armstrong, Caroline Davies and Holly Cook (the Respondent’s Racecourse Services Manager and Company Secretary). The parties provided written submissions and then had the opportunity for brief oral replies. The entire hearing proceeded by video (CVP).
+
+B. THE FACTS The claimant’s role and terms of employment
+
+8. The claimant was appointed to the role of Financial Accountant from 1 August 2018. Her contract contained the following relevant terms:
+
+a. A probationary period of six months (clause 5).
+b. A notice period of three months, following completion of the probationary period (clause 6). This also included provisions for immediate termination of employment (in circumstances which do not apply in this case) and for the respondent to be able to require the claimant to take garden leave during any period of notice.
+c. “Your normal place of work will be from home, however you should also strive to make regular visits to the [respondent’s] offices at Ascot.” (clause 8)
+d. “The post is a part-time post with an agreed base number of 40 working days per annum, and with additional days as agreed between the [respondent] and you.” Provision is then made for payment of those additional days at a daily rate. “Employees rates of pay are subject to review from time to time by the [respondent] (although the [respondent] will not be obliged to increase pay) and any resulting changes will be notified to you in writing and will normally take effect from 1st January each year.” (clause 9)
+e. “… you hereby authorise the [respondent] to deduct from your remuneration any sums due from you to the [respondent] including … any overpayments …” (clause 10)
+f. “You are required to provide a monthly time-sheet detailing the hours worked, and indicating the activities in general in units of not more than 0.5 days. There is no minimum monthly requirement subject to the annual minimum of 40 days per annum.” (clause 11)
+g. 4 days holiday a year, to be taken within a holiday year running from 1 January to 31 December. “If for any reason you do not take all of your holiday entitlement in any holiday year … the [respondent] shall not make any payment in lieu.” and “In the years of commencement and termination of employment your basic leave entitlement will be calculated pro rata. Where on termination of your employment you have taken less annual leave than your entitlement (to be calculated on a pro rata basis) you will be paid in lieu on the following basis: 1/40th of your basic annual salary for each day of leave due to you to make up your entitlement.” (clause 13)
+
+9. The claimant was contracted to work 40 days a year for the respondent. At the same time she had a second part-time job with another business which taken together with the work for the respondent meant she was working full-time or near full-time. This second job was not widely known at the respondent, and was not known to David Armstrong.
+
+10. Her contract of employment was accompanied by a job description (with the job title “Company Accountant”, which seems to have been used interchangeably with “Financial Accountant”). This included, as “core responsibilities”:
+
+“PROVISION OF STATUTORY REPORTING SERVICES FOR:
+
+- the Racecourse Association Limited (RCA), (including consolidated accounts)
+- the Racegoers Club (RGC)
+
+PROVISION OF MANAGEMENT ACCOUNTING INFORMATION FOR:
+
+- RCA
+- RGC
+- RGC Owner’s Groups (RGCOG)
+
+PREPARATION OF ANNUAL CORPORATION TAX RETURNS
+
+- RCA
+- Racecourse Technical Services Limited (RaceTech)
+
+MONITORING OF THE FINANCIAL ADMINISTRATION AND
+
+CONTROLS OF:
+
+- RCA
+- RGC
+- RGCOG”
+
+11. “Specific responsibilities” included the items set out as core responsibilities and “Oversee processing of transactions by Finance Administrator.”
+
+12. In many cases, the materials the claimant was required to produce have notes against them to the effect that the Finance Administrator will produce a draft (or first draft) with the claimant’s role being to review the draft produced by the Finance Administrator. The “specific responsibilities” also include “ad-hoc projects”.
+
+13. In taking on the position of Financial Accountant the claimant was taking on a role previously occupied by a very long-standing employee of the respondent. Her work was not an exact match for his. On his retirement the respondent had re-written the role of Financial Accountant, and it was that role that the claimant took on. In those circumstances there was, understandably, some uncertainty on both sides as to whether 40 days a year would be sufficient and how the new role would work out.
+
+Initial difficulties
+
+14. A theme of these initial months of the claimant’s employment was friction between her and the Finance Administrator. As the claimant puts it in her witness statement, “In the course of my work and as fresh set of eyes, I was not comfortable with ‘signing off’ [the administrator’s] work without thoroughly reviewing and understanding it. I could see that this irritated [the administrator] so I explained that in taking responsibility for her work by signing it off, I needed to be satisfied that it was correct.”
+
+15. The claimant was never the line manager of the Finance Administrator, so complaints and discussions about the Finance Administrator’s work occurred between the claimant and Caroline Davies, who had taken on responsibility for this side of the work on the departure of the Chief Executive.
+
+16. As we explained to the parties during the hearing, it is not part of our role in this case to determine the rights and wrongs of the relationship between the claimant and the Financial Administrator. That is not something that is relevant to the claims she brings. We simply note that it is not surprising that there were at least initial difficulties in circumstances where the claimant was brought in on an amended role following what seemed to be a very long-standing relationship between the previous Financial Accountant and Financial Administrator. The claimant had the task of “signing off” the Financial Administrator’s work, which could be difficult without having had time to build up the necessary trust between the two of them – particularly in circumstances where they would typically be working remotely from each other.
+
+17. Another theme of these early months was the claimant’s view that the work required of her could not be done within the 40 days a year that she was contracted for. She said that it required 2-3 days a week, although as Ms Tharoo pointed out it appeared that the claimant never actually worked more than two days a week for the respondent. Such difficulties are not unusual in a new or redesigned role such as the one the claimant held.
+
+Other matters
+
+18. On 11 October 2018 the Finance Administrator sent an email to the claimant saying “Mark [the IT administrator employed by RaceTech but who also looked after the respondent’s IT] is coming in tomorrow to upgrade Sage [the accounts package used by the respondent] and may need access to your computer, are you available tomorrow if he needs your password?”
+
+19. Subject to one point, no allegation of discrimination is raised by the claimant in respect of the period prior to her maternity leave starting.
+
+20. At some time in November or December 2018 (and not January 2019 as referred to in the list of issues) Caroline Davies sent an email to the claimant with details of a training event in Newmarket. We understand this to be an introduction to the racing industry for those who are new to it. The claimant describes it in this way: “CD offered me the chance to attend an away conference for newcomers to the industry, however she caveated this in her email, saying that the timing possibly wasn’t suitable, as it was scheduled to take place in February 2019, 2 months after the birth of the baby. It is clear that CD made the assumption that as a new mother I would not be able to attend conferences such as this, without even asking me. At the time I drafted a response about how I would be keen to find a way to facilitate my attendance, but I did not send this. I may not have been able to attend but that was for me to consider, not for CD to assume. I have asked the RCA to provide the copy of this email as part of their disclosure, but they have repeatedly failed to do so.”
+
+21. So far as any lack of disclosure is concerned, Ms Davies tells us, and we accept, that she had deleted that email after it was sent and that any deleted emails are later automatically removed from the respondent’s systems.
+
+22. Ms Davies puts it this way in her witness statement: “I asked Helen whether she would wish to attend a week-long residential conference taking place in Newmarket, Suffolk. The course was intended for newcomers to the horseracing industry. I made it clear to Helen that it was entirely up to her whether she attended or not, but that I would understand if she did decline given that she had a very young baby. Helen confirmed that she did not wish to attend.”
+
+23. We will address this in more detail in our discussion and conclusions. The 6 December 2018 meeting and arrangements for maternity leave
+
+24. The claimant met with Caroline Davies, Holly Cook and the Finance Administrator on 6 December 2018 in order to make arrangements for her maternity leave. Her baby was due at the end of the year. The claimant did not qualify for statutory maternity pay from the respondent because of her limited length of service.
+
+25. On the morning of 6 December 2018 the claimant recorded the difficulties with her working hours in an email she sent to the respondent’s chair (with a copy to Ms Davies): “Since commencing my employment with the [respondent] I have found the time requirements of the role considerably greater than that anticipated...
+
+[the claimant addresses her days worked in 2018]
+
+Going forwards there are a number of areas identified that, in addition to the day to day requirements of the role, will require further time input … Additionally GT has advised a change in the audit approach for next year and I am conscious, therefore, that this may also create yet further additional work than previously required. All of the above areas had not been foreseen … but have come to light over the course of the last few months and as time progresses I suspect there may be others that also arise. At present, the progression of these areas is proving difficult, as in order to cover these in addition to the usual workload requires far greater input than 40 days a year, as currently contracted. I am very keen to get these and any other areas resolved as speedily as possible and I am concerned about the potential risk exposure these areas could present to the RCA. It is suggested that increasing my work time to 2 days a week (total 104 days a year) would be required to accommodate the additional workload and to ensure that the ongoing financial needs of the business can be suitably met. I look forward to hearing the board’s views, and if in agreement with my suggestion, would formally request that my contract be amended accordingly”
+
+26. There is a difference of evidence on what was agreed at the meeting on 6 December 2018. The claimant puts it this way in her witness statement: “It was agreed that I would attend ‘Keeping in Touch’ (KIT) days at the company offices and bring the baby with me. My salary would continue to be paid at 1/12th a month.”
+
+27. She further explained this in her oral evidence as being an explicit agreement with Ms Davies that for these KIT days she would bring her baby to the office for the full day, caring for her baby in the office and breastfeeding him as necessary during the day. The tenor of the claimant’s evidence and allegations on what follows is that the agreement reached on 6 December 2018 was that her work duties would continue as normal. She would be on maternity leave, but would carry out her normal work through the means of KIT days. Ms Davies did not accept that this was what was agreed.
+
+28. On 7 December 2018 Ms Davies replied to the claimant’s email about her days of work as follows: “Regarding your 2019 hours, you know the 2019 budget has been confirmed and is based on the existing arrangement. As we discussed yesterday, confirmation of both your and [the Finance Administrator’s] job descriptions and the setting of objectives during the appraisal process will help us to identify the extent of any extra work that is required. As you highlighted, revisions to the audit process are also likely to impact/inform. When we have assimilated all of this information, we can then address future arrangements. This is likely to be in April when you are back to normal hours and hopefully the new Chief Executive is in place.”
+
+29. On 10 December 2018 the claimant sent an email to the respondent’s chair as follows: “On Thursday morning, Caroline, Holly, [the Finance Administrator] and myself had a team meeting to discuss the short-term plans for the delivery of the necessary financial information to the team going forwards, and the audit, alongside my plans for taking leave to have my baby. My baby is due the 30th December, and it is my intention to take leave from this date, providing designated 'Keeping in touch days' on a monthly basis, working from home, broadly as follows;
+
+- 22nd January 2019
+- 19th February 2019
+- 19th March 2019 The exact dates of these are flexible and to be confirmed, subject to the timings of information provided by [the Finance Administrator] and the delivery of financial information to the rest of the team. I have spoken to the auditors and flagged my leave to them and forewarned them that we made need to push back on the timings of the audit this year by two months to April, subject to board confirmation. From April onwards it would be my intention to increase my working days, as necessary for meeting the timeframes required for the audit process and board reporting, dates to be confirmed. It is also my intention to be back working in full capacity by June at the latest. For the purposes of formalising my leave, these are the proposed dates for working during this time, however I could obviously be available on my mobile and email around these dates/times as required. In terms of pay during this time, having spoken with [the Finance Administrator], she has suggested that as my contract is a per-annum day quota, that there should be no change in my pay, as it is anticipated that on an annual basis the working day quota would still be met. I would be grateful If you would confirm agreement of the above working arrangements as an outline or advise of any alternative suggestions you may have if this is not acceptable.”
+
+30. On 20 December 2018 the chair replied approving those arrangements and wishing the claimant well for her maternity leave.
+
+31. The claimant’s email of 10 December 2018 is clearly her attempt to document what had been agreed at the meeting of 6 December 2018 as regards her maternity leave. The difficulty for the claimant is that it does not match what she told us in her oral evidence had been agreed. The email talks only of working from home, not full days in the office with her baby. Her concept that she is to carry out her full duties while on maternity leave is very difficult to reconcile with idea of working three KIT days over three months, when on her own assessment that would require at least 2 days/week, or around 25 days in those three months.
+
+32. The email is drafted by the claimant, so we would expect it to set out her understanding of what was agreed at the meeting. Beyond that, it is copied to two other attendees at the meeting neither of whom intervene to say that the email is not an accurate account of what was discussed. We find that the agreement reached at the meeting on 6 December 2018 is what the claimant sets out in her follow up email of 10 December 2018, not what she now tells us: that she was to be working full days in the office with her baby, and to be carrying out her normal work duties. The agreement was to work a limited number of KIT days across her first three months of maternity leave, possibly building up in April 2019 (around the time of the audit) and “back to full working capacity by June at the latest”.
+
+33. We also note at this point that while it may technically be possible for someone to use their KIT days to continue their full work duties during maternity leave, this is not what KIT days were intended for. It is difficult to reconcile the idea that a person is both on maternity leave and at the same time attempting to carry out their full work duties via KIT days.
+
+34. The claimant’s maternity leave started on 21 December 2018.
+
+Early 2019
+
+January 2019
+
+35. The norm was for the respondent to award pay rises in January each year. It is agreed between the parties that the claimant did not get a pay rise in January 2019 whereas her colleagues did. We will come to the reasons for that in our discussion and conclusions.
+
+36. The claimant worked her intended KIT day on 22 January 2019, apparently from home as previously agreed. In an exchange of emails with the Finance Administrator the claimant says that she wants to sign off the VAT returns as they will be due to be submitted before her next KIT day in February. The administrator says that that can’t be done as she does not have the necessary figures from RaceTech. The Finance Administrator says that “Caroline has suggested that [the RaceTech Finance Director] sign off anything that falls outside of your KIT days”.
+
+37. The claimant had heard that the new Chief Executive, David Armstrong, was due to visit the respondent’s office on 28 January 2019 for introductions prior to formally taking up the job. She wanted to come to the office to be included in the introductions being made to him. This was not one of her planned KIT days. The arrangements for this are recorded in a WhatsApp exchange between her
+
+and Caroline Davies:
+
+“[27/01/2019, 16:56:05] Helen Ballerino : Hi Caroline
+
+Hope you’re having a lovely weekend? I was planning on getting a lift over tomorrow morning to be involved in the meeting of David with everyone, aiming for 10am - is that right? I’m not able to leave [my baby] for very long as yet, so wouldn’t be able to stay much beyond that but promised Sophie some bits that for RGC and OG that I will continue to work on once home again. Was there anything else you needed looking at tomorrow?
+
+Thanks
+
+Helen
+
+[27/01/2019, 17:36:24] Caroline Davies: It will be good to see you. David is due to arrive at 10. It would be helpful for me to have two minutes with you also either before or after David. It will be lovely to meet [your baby] at some point. C [27/01/2019, 17:46:06] Helen Ballerino: I should get over to Ascot before 10, so will come straight to you once in. I think my Dad will remain about the Ascot area with [my baby] so should be able to bring him in to meet everyone... Will finalise plans with him tonight. Looking forwards to
+
+seeing everyone, x
+
+[27/01/2019, 19:30:14] Caroline Davies: Great”
+
+38. We note that the idea that her father will be looking after her baby during most of the visit contradicts what the claimant told us about it having been agreed that she was expecting to care for her baby while working a full day in the office.
+
+39. Exactly what happened on that day is in dispute, but it is not disputed that David Armstrong was delayed in meeting the claimant and that he and Caroline Davies entered the claimant’s office (opening a closed door to do so) to find that she (the claimant) was breastfeeding her baby, whereupon they immediately left.
+
+40. Caroline Davies spoke to the claimant on the day of that visit, asking the claimant whether she wanted her probationary period to be signed off then or to wait until April and her return to work, possibly under an amended contract. The outcome of this is recorded in the following WhatsApp exchange: “[28/01/2019, 15:33:41] Caroline Davies: Lovely to see you today and meet your dad and [your baby]. What a lovely baby he is. Ref our discussion, please can you let me know your preference. Look forward to hearing from you. C [28/01/2019, 21:10:19] Helen Ballerino: Lovely to see everyone too. As the additional time isn’t feasible at present, it probably makes sense to get probation signed off as is and then revise contract for additional time once agreed.
+
+Thanks x
+
+[29/01/2019, 12:07 42] Caroline Davies: Ok. Will sort that. Please look out for an email from [the Finance Administrator]”
+
+41. On 30 January 2019 the claimant sent Ms Davies a WhatsApp message saying that “I have had to push back next KIT day by a week” due to one of her children having a hospital appointment. That would mean a change from 19 February 2019 to 26 February 2019. Ms Davies replied saying “What you suggest is fine. Leave it with me and I will come back to you to see if we can ease the situation for you”.
+
+42. On 1 February 2019 Mr Armstrong formally took up the role of Chief Executive.
+
+Completion of the claimant’s probationary period
+
+43. On 11 February 2019 Ms Davies sent an email to the claimant with the subject heading: “Employment – completion of six month trial period”: “I write further to our meeting and subsequent email correspondence on 28 January 2019. In line with our discussion, I am pleased to inform you that notwithstanding your current period of maternity leave, the RCA has taken the decision to confirm you in post following the successful completion of your six month trial period. During our conversation and as per your previous correspondence with Maggie, we have agreed that we will sit down on or around the time of your return from maternity leave in April to fully discuss and agree the exact remit, duties and responsibilities of your Financial Accountant role. It is important that we are all clear as to what is required of you during your contracted hours and where the fall of responsibilities and functions lie between you and [the Finance Administrator]. In the meantime, and for the remainder of your period of maternity leave, it is our intention to use short-term external support to assist [the Finance Administrator] in her role in preparing the RCA end of year and monthly accounts. In our view this will not only give extra help and support to [the Finance Administrator] but also help to ensure continuity and consistency across the wider accounts function. We also believe it will put us in a better position to discuss and agree the exact scope of your role upon your return so as to ensure that you are both clear and comfortable as to what is required of you. We would very much welcome you using more of your keeping in touch (KIT) days whilst you are off and if you do so we would like you to continue to produce the Racegoers Club end of year, monthly and owners group accounts.”
+
+44. The reference to “external support” is to the engagement by the respondent of external accountants (Crowe) to carry out some of the formal accounting work that had been done by the claimant, including preparing accounts for the year- end audit in April.
+
+Further discussions in February 2019
+
+45. On 20 February 2019 there is the following WhatsApp exchange:
+
+“[20/02/2019, 13:23:44] Helen Ballerino : Hi Caroline
+
+Sorry I’ve not been in touch sooner. Seen the email, thank you. Still intending to do a KIT day next Tuesday, although probably from home this time, will you be about for a catchup telephone call?
+
+…
+
+[20/02/2019, 13:54:35] Caroline Davies: Good to hear from you. I have a meeting on Tuesday, not sure of time though. You ring me when suits. Please can rgc be priority. We have committee meeting in 6/3 so ideally need figures a week in advance.... Hope you are all doing well [20/02/2019, 13:58:35] Helen Ballerino : Okie doke. Yep sure re: RGC.
+
+…
+
+We’re ok thanks. Will touch base at some point Tuesday then.”
+
+46. We note that at this point the claimant does not express any concern about the email of 11 February 2019.
+
+47. Although neither Ms Davies nor the claimant are clear about this in their witness statements it appears there was a conversation between the two of them towards the end of February, possibly during the claimant’s rescheduled KIT day on 26 February 2019.
+
+48. The claimant says that during this conversation she was told by Ms Davies that it would be “inappropriate” for her to breastfeed her baby in the office. Ms Davies says that she said that it would not be appropriate for the claimant to bring her baby into the office for a full day’s work and simultaneously attempt to care for her baby and work.
+
+49. The concept of bringing her baby to work with her for a full day in the office was clearly in the claimant’s mind, but we have set out above our reasons for finding that this was not agreed in the discussions prior to her maternity leave.
+
+50. We find that this discussion in February was about the idea of the claimant bringing her baby into the office for a full work day, rather than the concept of breastfeeding her baby at work. Bringing her baby into the office for a full work day was plainly something that (by that time) the claimant wanted to do. If the discussion in February had been simply about breastfeeding her baby when necessary then it would also have had to include ideas as to how her baby was to be cared for at other times during the working day, and no-one has suggested to us that any plans for that were discussed in the conversation at the end of February. Ms Davies’s objection was to the idea of the claimant simultaneously caring for her baby and working across a full work day, not to her breastfeeding at work.
+
+From February 2019 to the start of redundancy consultation
+
+51. On 7 March 2019, during the course of a discussion about the Finance Administrator’s sickness absence, the following exchange of text messages occurs between the claimant and Ms Davies: [07/03/2019, 12:14:26] Caroline Davies:... There is a lady here from Crowes doing the year end so I will have a word to let her know what is happening and if there are any implications. [07/03/2019, 12:47:49] Helen Ballerino: Fingers crossed [the Finance Administrator] soon recovers. Thanks re: Crowes. In terms of RCA finances and risk exposure, for me this further supports the need for greater overlap between [the Finance Administrator] and myself. There needs to be a contingency plan in place should [the Finance Administrator] fall ill again in the future and/or indefinitely.
+
+[07/03/2019, 14:40:15] Caroline Davies: Quite agreed”
+
+52. We note that the claimant does not object to the involvement of Crowe as external accountants.
+
+53. The claimant’s intended KIT day of 19 March 2019 appears to have taken place without incident.
+
+54. On 8 April 2019 Ms Davies sent a text message to the claimant asking if she had arranged her next KIT day. The claimant replies saying she has just booked this for the last Tuesday of the month, which would be 30 April 2019.
+
+55. On 11 April 2019 the Finance Administrator wrote to her contact at Grant Thornton (the respondent’s auditors) saying “In [the claimant’s] absence our accounts have been prepared by Crowe UK LLP …”.
+
+56. On 16 April 2019 Mr Clifton placed a recruitment advertisement for the first version of the new role referred to below.
+
+57. On 25 April 2019 Ms Davies sent an email to the claimant, including the plans outlined in her email of 10 December 2018 to the respondent’s chair, saying “I hope … all is going well. With regard to your arrangements, are you still on track as per below (with the exception of involvement with the audit as previously discussed)?”. That must be taken to be a reference to the plan for the claimant to increase her working days from April onwards.
+
+58. The claimant’s intended KIT day on 30 April 2019 did not work out well. Around 06:00 that day she sent a text message to Mark Gooch saying “I’m doing a KIT day today but it looks like my password has expired. Can u help me get this sorted so I can get on system and into email as it looks like it’s affected everything.” Mr Gooch replies later in the morning saying he has reset her password. However, that did not seem to have the necessary effect.
+
+59. On 10 May 2019 the claimant replied to Ms Davies’s email of 25 April 2019 in
+
+the following terms:
+
+“Hi Caroline
+
+Following on from our emails below, and our previous conversations in respect of the audit process and breastfeeding, I would propose the following further KIT days from home for May and June;
+
+- Tuesday 21st May
+- Tuesday 18th June In light of the school Summer holidays over July/August I would propose the following working days;
+- Tuesday 23rd July
+- Tuesday 6th August
+- Tuesday 20th August I should be able to resume the full existing working pattern of 1 day a week, from home, from September for the last months of my maternity period to end of December. Should the increase in working time to 2 days per week have now been agreed, then I would propose this similarly starts from September. My maternity period will end in December and from January I would be able to resume in office working. I would be grateful if you would confirm agreement of the outline above or advise of any alternative suggestions if this is not acceptable.”
+
+60. This is a substantial change from the claimant’s original intention. Her return to work is now delayed until September, but it is not clear how she intended this to work given that she also talked about her “maternity period” ending in December. Her ten KIT days would have been used up by or in September.
+
+61. It is agreed between the parties that the respondent had an allocation of tickets for Royal Ascot. It is the respondent’s case that the claimant was informed of this at the start of her employment, but the claimant says the first she knew of this was in a conversation with a colleague in May 2019. She was referred on to the Finance Administrator, who managed the allocation of the tickets. On 21 May 2019 she wrote to her to ask for two tickets for Saturday 22 June, but was told that there were no tickets remaining for that day, although other days were available.
+
+62. The claimant had a KIT day on 21 May 2019, during the course of which she attended the respondent’s office to collect some paperwork for delivery to accountants. The claimant exchanged text messages with Ms Davies expressing her frustration at a “mismatch in expectations” of the Financial Administrator’s role.
+
+The new role
+
+First version
+
+63. In the course of his recruitment for the role of Chief Executive, Mr Armstrong had prepared a presentation headed “Vision for the RCA”. This included, under the heading “Position the RCA as a commercial leader in the sport”, for the respondent to “play a more active role in supporting the commercial agenda across all racecourses”, including “develop insight = growth initiative into detailed benchmarking analysis using anonymised data as necessary. Data and measurement at the heart of strategy.”
+
+64. In his witness evidence Mr Armstrong also told us that on starting his role (1 February 2019) with the respondent he “undertook a review of the business”, and that “based on my review, I identified that the RCA was not effectively providing … commercial support [to its members]. There was a need to provide that support, and it was actually something which had been discussed with me during the interview process.” He goes on to explain that in order to meet this need he intended the creation of a new full-time role: “Business and Financial Analyst” to report to Andy Clifton. A job description was created for this role, and on 16 April 2019 Mr Clifton placed a recruitment advertisement for the role, in the following terms:
+
+“RCA Business and Financial Analyst
+
+The Racecourse Association (RCA) wishes to appoint a talented, ambitious and enthusiastic individual to join its team as Business and Financial Analyst, based at its head office adjacent to Ascot Racecourse. The RCA is the trade body representing all of Britain's racecourses. It provides a wide range of support and advisory services to members, including representing their interests within the sport, with Government and in the media. The successful candidate will support the Chief Executive and Racing Director to provide analysis of racecourse finances, the fixture list and race programme to support the business development of racecourses. They will use their existing racing and betting industry knowledge, creativity and sound analytical skills to ensure that the RCA can best serve its members and the wider racing industry. This is an exciting opportunity for a team player with excellent analytical, financial, presentation and inter-personal skills to develop a career within the horseracing industry. The company provides attractive pension, insurance and healthcare benefits in addition to a competitive salary. Written applications accompanied by a full CV and details of current salary should be submitted by 9.00 am on Monday 13 May 2019 to:
+
+Andy Clifton, Racing Director, Racecourse Association Ltd …”
+
+65. Documents disclosed only during the course of the hearing in March 2022 show that by 29 May 2019 Mr Clifton had, together with Mr Armstrong, shortlisted five candidates for initial interviews with him, due to take place on 5 and 7 June 2019. Following this he intended to put forward two or three candidates for a second interview with Mr Armstrong and Ms Davies.
+
+66. On 23 May 2019 Mr Armstrong prepared a board report setting out his draft “commercial strategy”, including collecting anonymous financial data from members for the purposes of benchmarking.
+
+67. Board minutes dated 30 May 2019 refer (under the heading “development of commercial strategy”) to the respondent’s member racecourses providing anonymised financial information in the interests of “operational benchmarking for racecourses”. There is no mention of any recruitment plans. The respondent’s equal opportunities policy provides that “all vacancies will be circulated internally.” The respondent accepted that this was not done with either the first or second version (see below) of this new role.
+
+Second version
+
+68. In between the first and second interviews, the intended role of “Business and Financial Analyst” was extended to include the claimant’s role of Financial Accountant, under an expanded role of “Finance Manager and Business Analyst”. This is how Mr Armstrong describes what happened: “Andy then held interviews in the first week of June, and reported that the preferred candidates held accountancy qualifications. Following conclusion of the first round interviews, a further review took place and the decision to upgrade the role and merge it with the finance function of the business was taken. This decision was taken on the basis that it was clear the two aspects (being Business and Financial Analyst and Finance Manager) could be combined into one role and it was sensible to do so.”
+
+69. The materials disclosed during the March 2022 hearing show that on 13 June 2019 Mr Clifton sent an email to Mr Armstrong enclosing the “latest JD”, being a job description for the revised, combined, role. Later the same day, Mr Clifton invites two candidates to second interviews on 27 June. The subject of each email is “RCA Business and Financial Analyst”, and he says to both candidates: “I mentioned when we last met that the role was slightly fluid, but we have now finalised a job description with a slightly different title which is attached, and also confirmed that the position will report directly to the CEO, which is a good thing.” The second interviews are to take place with him, Mr Armstrong and Ms Davies.
+
+70. On 14 June 2019 Ms Davies made contact with the claimant to set up a discussion with her, as we will refer to below.
+
+71. A job offer was eventually sent to the selected candidate on 12 July 2019, referring to “a start date in August 2019 to be mutually agreed”.
+
+The decision to dismiss the claimant
+
+72. The claimant had a KIT day scheduled for Tuesday 18 June 2019. Ahead of this Ms Davies had the following exchange by text message with the claimant: “[14/06/2019, 16:49:33] Caroline Davies: Hi Helen. Hope all is well. You will have received an email from Sophie chasing RGC and RGCOG accounts. Please can these be completed on your KIT day on Tuesday. With regard to future arrangements, i would like to meet with you on Tuesday afternoon. As it is royal ascot, please can you suggest a convenient location and I will come to you. Look forward to hearing from you. C [17/06/2019, 12:58:34] Caroline Davies: Hi Helen. Just checking that you received my message on Friday and where and at what time it would be best to meet tomorrow. C [17/06/2019, 13:06:47] Helen Ballerino: Hi Caroline Apologies for not getting in touch sooner. Ive had a lot going on this end. Does just after 9ish work for you, Costa Goldsworth Park? [17/06/2019, 13:11:48] Caroline Davies: Hi. That venue is fine. Look forward to seeing you at 2.30 tomorrow C
+
+[17/06/2019, 13:13:11] Helen Ballerino: Lovely. See u then.”
+
+73. In subsequent text messages on the morning of 18 June the claimant expresses her surprise that the Finance Administrator was off work on her KIT day.
+
+74. The precise details of what was discussed at the meeting on 18 June 2019 are in dispute between the parties, but it is agreed that the claimant was told that her role was at risk of redundancy as a result of the decision to amalgamate her role with the new role, that she was provided with a job description for the new role and invited to apply for it, but at the same time given a draft settlement agreement, with instructions that if she wished to accept it she should do so within five days. The claimant reacted badly to this approach, and criticises the respondent for not giving her any warning that this was what was meant by “future arrangements”, rather than her plans to return to work on extended hours. During the course of the meeting she criticised Ms Davies for doing this to her during her maternity leave.
+
+75. At the end of the meeting the claimant was provided with a draft settlement agreement and a letter headed “notification of potential redundancy”, setting out the respondent’s rationale for saying that “your existing position as Financial Accountant could potentially become redundant”. This describes the claimant’s position as a unique one so that, so far as the respondent was concerned, there was no “pool” for selection for redundancy. It includes the following: “A period of individual redundancy consultation will now begin with you. It is envisaged that the consultation period will last for around 14 days commencing today. During the consultation meetings with you, we will discuss our proposals in further detail and you will have full opportunity to ask any questions or make any representations. In addition and subject to consultation with you as to the proposed removal of your existing Financial Accountant role, we would also welcome your application for the proposed new Finance Manager and Business Analyst position. Whilst our provisional conclusion is that it would not be a suitable alternative role given both its significantly different terms and conditions (eg its full time and office bound nature) and the skills and experience required (in particular its business analysis and racing industry knowledge) we would like to discuss this further with you during the consultation process. We have scheduled your next consultation meeting for Tuesday 25 June 2019.”
+
+76. What followed was essentially an extended stand-off between the claimant and the respondent. The following day, 19 June 2019, Ms Davies wrote to the claimant following up on their meeting, and saying: “I also wanted to reiterate that no final decisions have been made and the RCA's proposals remain subject to the consultation process. Yesterday's meeting was to notify you of the proposals and their impact on your role and we understand that this news might have come as a shock. The consultation process is intended to give you the full opportunity, once you have had the opportunity to take in the information provided to you yesterday, to discuss the proposals, their impact on your role and any other queries you have on this. In liaising with you regarding consultation during your maternity leave, we will be mindful of your childcare requirements and other commitments and will therefore try to ensure that we can make appropriate arrangements for meetings and communications with you. We are keen to keep an open dialogue with you on this. As you know, the consultation process is currently due to start next Tuesday 25 June. We are very happy to discuss alternative arrangements with you for that meeting, including the timing and venue of the meeting (or the possibility of a telephone meeting, if that would be your preference). If the current date of the meeting is not a convenient time for you, please do let me know and I will look at what alternative arrangements we might be able to put in place.”
+
+77. Ms Davies subsequently chased on this with the claimant by text message, and on 20 June 2019 wrote to put their next meeting off to 28 June 2019. The claimant said she could not make this meeting and it was put back to 2 July 2019. Following further discussion with the claimant it was put back to 8 July 2019, with Ms Davies saying: “As you know, as part of its proposals, the RCA is proposing to introduce a new Finance Manager and Business Analyst role. I explained the nature of this proposed role to you when we met on 18 June 2019, as well as providing you with the job description of the role on that day. As we indicated in the letter to you on that date, we do not believe that the new role is a suitable alternative role but we would welcome your application for the role (if you wanted to apply). To date you have not applied for the role or given an indication that you wish to apply for the role. We are in the process of interviewing for the role and it is as part of that recruitment process that we would consider an application from you for the role, including inviting you to interview. However, we are unable to consider you for the role unless you indicate that you wish to be considered for the role. Please let us know as soon as possible and, at the latest during the consultation meeting on Monday 8 July 2019 … whether you wish to be considered for this role. Please note that if I do not hear from you regarding the role by 2pm on 8 July 2019, or during the consultation meeting on Monday 8 July 2019, I will consider that you do not wish to apply for the role.”
+
+78. The claimant did not respond to this, and on 9 July 2019 Ms Davies wrote to her saying: “We would like to provide you with one final opportunity to apply for the role. If you wish to apply for the role, please let me know in writing by 5pm on Thursday 11 July 2019. If we do not receive an application from you by 5pm on Thursday 11 July 2019, we will consider that you do not wish to apply for the role. We will then move forward with the recruitment process for the new role and likely make an appointment to the role. For the reasons detailed in our previous discussions and correspondence, we also want to consult with you as soon as possible on the business's wider proposals and the potential impact on your current role. To enable us to do that, please respond by 5pm on Thursday 11 July 2019 with an indication of whether you would prefer to consult by way of written representations or a consultation meeting. If you would prefer the latter, we will then arrange a consultation meeting to take place next week (the week commencing 15 July 2019).”
+
+79. On 11 July 2019 the claimant wrote saying that any meeting should take place on her next KIT day: 23 July, and saying: “In response to your correspondence I do not understand why I am being asked to apply for the role that is replacing my role whilst at the same time being invited to a consultation meeting to ascertain whether my role is redundant These statements are contradictory. Furthermore it is my understanding that I should have automatically been offered the replacement role rather than being required to apply and interview for it as suggested by your email and letter. I believe the RCA are not following the correct procedures and wish to reiterate that believe I am being discriminated against.”
+
+80. On 12 July 2019 Ms Davies replied saying, amongst other things: “As set out in previous correspondence, we did not believe it appropriate to wait five weeks for our first consultation meeting between the at-risk meeting on 18 June and your next scheduled KIT day on 23 July given the potential impact this would have on the business and other potentially affected parties. To this end, we would like to invite you to a further rescheduled meeting on Wednesday 17 July at 10 30 am in the RCA’s offices We would be happy for you to take this day as one of your paid KIT days.”
+
+and
+
+“Given that despite the above correspondence, you have decided not to directly apply for the proposed new Finance Manager and Business Analyst role, we have now decided to move forward with our recruitment process and provisionally offer the role to an external candidate Prior to doing so and in the absence of a formal application from you, we have nonetheless considered your skill set and experience against both the needs and requirements of the proposed new role and that of the external candidate. The external candidate has knowledge of the racing industry, significant commercial and industry experience and in particular strong analytical skills. In the circumstances, therefore, we feel it appropriate to make a provisional offer to this external candidate, This does not mean that we have made any final decisions in relation to your own ongoing employment within the RCA and for this reason, we think it important that a further consultation meeting takes place as per my comments above.”
+
+81. The same day, an offer letter was sent out to the external candidate.
+
+82. On 16 July 2019 the claimant replied saying that she was “not available to meet until 23rd July” and that she should be offered the new role without any need to apply or be interviewed. She says: “It is transparent that the RCA has sought to orchestrate circumstances purely to be able to appoint the external candidate into my role, and remove their obligations to me on maternity leave, as quickly as possible. Despite any statements to the contrary it would seem evident that the RCA seek to manufacture a redundancy consultation process subsequent to identifying a specific candidate they wish to replace me with permanently.”
+
+83. On 17 July 2019 Ms Davies replied pointing out that she had previously offered to meet on five different dates, but agreeing to meet on 23 July 2019 and asking the claimant to suggest a suitable location and time on that date, if she did not want to meet at the respondent’s offices.
+
+84. On 22 July 2019 the claimant wrote saying: “Given you have previously made it clear your feelings on my decision to continue breastfeeding the only practical approach would be for me to make written representation as you previously suggested however I need your guidance on this as you have already stated during our meeting on 18th June you made it very clear that my existing role had already been “amalgamated” into the new role and therefore I'm not sure what input you are now expecting from me and also commented in your letter that you have already deemed that there are no vacancies that I should be considered for. Please let me know exactly what you wish me to prepare written representations in respect of and I will prepare these from home during my keeping in touch day tomorrow.”
+
+85. Ms Davies replied saying: “We believe that a meeting is the best form of consultation and we are willing to make arrangements for tomorrow's meeting that make your attendance as easy as possible.”
+
+86. The claimant wrote to Ms Davies on 23 July 2019 to say: “I’m very confused by the contents of your email. Firstly in respect to my acceptance of your offer to make representations in writing. I am at a loss as to why you would suggest this in correspondence on numerous occasions if this was going to be a "disappointing" option for you. I feel the RCA goal posts are constantly moving and I am finding correspondence increasingly distressing. Every communication seems to contradict that earlier stated, with this latest email being no exception. Your email professes to request for my representations to be made on matters that have already seemingly been determined by the RCA without my input, and communicated to me as such. Although at present the RCA rationale behind these has not been clarified. Again I reiterate my observation that I am being maternally discriminated against and that the consultation process hasn't been followed appropriately. In light of this I'm not sure what matters there are left for the RCA to “discuss” with me. The actions of the RCA do not suggest that there is any interest in anything I might think or have to say on the matter of the discontinuation of my employment. I note that all my queries that have already been raised in previous correspondence remain unanswered. Perhaps as part of this “discussion” the RCA would answer these? I would be grateful if the RCA grievance policy could also be provided to me.”
+
+87. On 23 July 2019 Ms Davies wrote to the claimant with a copy of the grievance policy, making various points and concluding: “If you do not provide any written representations by 10am on Friday 26 July 2019, the business will make a decision regarding the potential redundancy of your role in the absence of further representations from you.”
+
+88. The claimant wrote to Ms Davies on 26 July 2019, saying: “I acknowledge receipt of your letter dated 23 July 2019 but am disappointed to note that the RCA are still asking me to make representations on points that they themselves have not yet detailed to me, further demonstrating that the correct process is not being followed. Some of the specific questions I therefore have are as follows;
+
+- what are the RCA proposals?
+- how has the RCA constructed the replacement role? why have I not been offered this role?
+- how/why has the RCA "provisionally" selected my role and only my role as at risk?
+- what suggestions does the RCA have as an alternative to redundancy?
+- what vacancies are there within the RCA? Please therefore accept this letter as a formal grievance.”
+
+89. The claimant goes on to describe her grievance in similar terms to this tribunal claim.
+
+90. On 31 July 2019 Ms Davies sent the claimant a lengthy letter, said to address the points the claimant raised in her grievance, and stating, effectively, that as her grievance was largely about the redundancy process it should be dealt with under the redundancy process and was addressed in the letter. The letter concluded by reciting the attempts the respondent had made to meet with the claimant, and dismissing her with immediate effect on 31 July 2019. It said that she had accrued 2.5 days holiday but: “the sums that you would otherwise be paid in lieu in respect of this holiday entitlement will be offset against the sums paid by the Company to you and owing by you to the Company in respect of days that you have not worked.”
+
+and
+
+“As you do not have any statutory or contractual entitlement to maternity pay and you are not eligible for the minimum statutory notice pay entitlement, you are not entitled to any pay in lieu of notice.
+
+91. The letter offered the claimant a right of appeal against her dismissal, but no issues arise in this case in respect of that appeal.
+
+C. THE LAW Unfair dismissal
+
+92. The claimant’s unfair dismissal claim is described in the case management order as being that the principal reason for her dismissal was of a kind set out in section 99 of the Employment Rights Act 1996. In the list of issues this is defined by reference to reg 20(1)(b) of the Maternity and Parental Leave etc Regulations 1999 (“MAPLE”).
+
+93. Section 99 says that dismissals in prescribed circumstances relating to pregnancy, childbirth or maternity will be regarded as unfair. Regulation 20(1)(b) applies this in cases where the reason for dismissal is redundancy but regulation 10 is not complied with. Regulation 10 requires an employer, where there is a suitable available vacancy, to offer an employee on maternity leave alternative employment rather than dismiss them as redundant. Any new contract of employment (regulation 10(3)):
+
+“… must be such that:
+
+(a) the work to be done under it is of a kind which is both suitable in relation to the employee and appropriate for her to do in the circumstances, and
+(b) its provisions as to the capacity and place in which she is to be employed, and as to the other terms and conditions of her employment, are not substantially less favourable to her than if she had continued to be employed under the previous contract.”
+
+94. The respondent places reliance on Simpson v Endsleigh Insurance Services Ltd [2011] ICR 75. This held that the question of whether there is a “suitable available vacancy” must be read against both reg 10(3)(a) and (b), and that such suitability is to be assessed by the employer on an objective basis, bearing in mind what the employer knew about the employee’s personal circumstances. To quote from the IDS commentary on the case (para 4.71): “If any of the terms and conditions associated with the vacancy are substantially less favourable, the employee is not then entitled to be offered the position, even if the work is otherwise suitable and appropriate for her.”
+
+Discrimination generally
+
+95. Under section 13(1) of the Equality Act 2010: “A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.”
+
+96. Under section 18: “(2) A person (A) discriminates against a woman if, in the protected period in relation to a pregnancy of hers, A treats her unfavourably … because of the pregnancy...
+
+(4) A person (A) discriminates against a woman if A treats her unfavourably because she is exercising or seeking to exercise, or has exercised or sought to exercise, the right to ordinary or additional maternity leave.
+
+97. Under s120: “(1) Subject to [provisions in relation to early conciliation] proceedings
+
+on a complaint … may not be brought after the end of:
+
+(a) the period of 3 months starting with the date of the act to which the complaint relates, or
+(b) such other period as the employment tribunals thinks just and equitable...
+
+(3) For the purposes of this section:
+
+(a) conduct extending over a period is to be treated as done at the end of the period,
+(b) failure to do something is to be treated as occurring when the person in question decided on it.”
+
+98. Section 136 applies to this claim: “(2) If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+
+(3) But subsection (2) does not apply if A shows that A did not contravene the provision.
+
+D. DISCUSSION AND CONCLUSIONS Unfair dismissal
+
+99. The claimant alleges that the new job (in its revised form) amounted to a suitable available vacancy that she should have been offered as an alternative to redundancy. We accept the respondent’s submission in relation to Simpson that this is to be assessed by an employer on an objective basis.
+
+100. It is clear that the new role encompassed the claimant’s previous role, but in every other respect it was completely different. The main part of the job concerned business analysis, rather than the financial accounting that the claimant had been involved with. It was a full time role, compared with the claimant’s then 40 day a year role, and was office based, rather than being home based.
+
+101. In those circumstances we have no hesitation in finding that the respondent was under no obligation to offer it as a “suitable available vacancy”. It was an entirely different role, on terms (as to hours and location) that were less favourable to the claimant.
+
+102. The claimant has not demonstrated that the circumstances in section 99 applied to her dismissal. Her unfair dismissal claim is dismissed.
+
+Direct sex discrimination
+
+103. The claimant brings claims of direct sex discrimination under three headings. One of those overlaps with her claims of pregnancy and maternity discrimination, and we will deal with that later.
+
+104. The first distinct claim of sex discrimination is in respect of the residential training in Newmarket.
+
+105. Although we do not have the precise form of words used by Ms Davies in providing details of this training to the claimant, the parties agree on the gist of it. Ms Davies referred the claimant to some residential training available for newcomers to the racing industry but (in the claimant’s words) also said that “the timing possibly wasn’t suitable, as it was scheduled to take place in February 2019, 2 months after the birth of the baby”.
+
+106. The claimant says that “CD made the assumption that as a new mother I would not be able to attend conferences such as this, without even asking me”. We do not see that. On the claimant’s evidence the most that Ms Davies said was that “the timing possibly wasn’t suitable”. This seems to us to be entirely appropriate way of proceeding. There is no indication of an assumption that the claimant would not be able to attend, but by using these words Ms Davies was also avoiding the difficulties that may have arisen if the claimant had thought that she was requiring her attendance at this course, which took place during her maternity leave. Ms Davies had, quite correctly, acknowledged that “the timing possibly wasn’t suitable”. We see nothing in this that would have prevented the claimant, had she wished, from taking up the training. This was not less favourable treatment because of the claimant’s sex.
+
+107. The second also relates to training – it is failing to offer the claimant training to undertake the new role.
+
+108. We accept the respondent’s position that this issue ought only to arise if the claimant expressed an interest in the role. There was nothing to be gained by offering the claimant training for a role that she was not interested in. On that basis there is no sex discrimination.
+
+Pregnancy and maternity discrimination
+
+General discussion
+
+109. The claimant’s claims of pregnancy and maternity discrimination have three main themes. First, there are matters occurring prior to the discussions about her redundancy, and not directly related to the decision to make her redundant. Second, there is the respondent’s decision to make her redundant and its handling of that process. Third, there is the respondent’s handling of her subsequent grievance.
+
+110. A central feature of the claimant’s claim (although not itself an individual allegation of discrimination) was that the new role, or at least the second version which included her role, had not arisen from a genuine business decision but was part of an attempt by the respondent to dismiss her because of her pregnancy or maternity leave. As she puts it at para 15 of her closing submissions, “R had decided that C should be dismissed because of her maternity leave and she was a marked woman.”
+
+111. Although set out under the heading “unfair dismissal” we take it that the claimant’s points at para 18 of her written submissions are the matters she relies upon for us to draw inferences that her treatment by the respondent was affected by her pregnancy and maternity leave. They are: “a. Contrary to the R’s equality policy … the C had not been advised of the vacancy.
+
+b. The R prepared a job advert for BHA board dated 16th April 2019 … for candidates to apply by 13th May 2019.
+c. External candidates were interviewed on 5th and 7th June 2019 and the two shortlisted candidates informed as such on 11th June
+d. It is clear from correspondence provided to the bundle late on 4/3/22, that the candidates were advised of the inclusion of C’s workload in the role at their first interviews...
+e. On 11th June 2019, following the first interviews, second interviews were scheduled to take place on 27th June 2019, just 2 days after the initial intended termination date for C’s employment.
+f. Subsequent to this, between 11th June 2019 - 13th June 2019 the role title was altered twice, to ‘Business Analyst and Financial Accountant’, then ‘Financial Manager and Business Analyst’ so as to distance the role, in name at least, from C’s current title and resent to the shortlisted candidates. Both of these titles differ from that provided in the bundle ‘Finance Manager and Business Analyst’ …, and from that reflected on C’s replacement … LinkedIn profile of ‘Finance Manager’ at [309].
+g. C’s ultimate replacement was told on 12th June 2019 that he was ‘4/6 odds on favourite’ for the role between he and a second external candidate, with no mention of C even being considered for the post, and the updated job title indicated …
+h. Only then on 14th June 2019 … was C contacted to ask to meet on 18th June 2019.
+i. Only at the meeting on 18th June 2019 was the C made aware of any changes surrounding her role and simultaneously presented with a settlement agreement to leave the business quickly and quietly...
+j. The R has omitted from the bundle any further correspondence with C’s replacement between 13th June 2019 and his official offer letter dated 12th July 2019... However, C submits that it is clear from communication up to 13th June 2019 that her replacement had been offered an alternative job elsewhere that he had already been stalling on responding to by and certainly must have received confirmation of his appointment informally via email prior to the date over a month later of ‘around the 12th July 2019’, as indicated by DA during his evidence.”
+
+112. The first point we note from this is that insofar as these submissions consist of statements of fact, they are, broadly, correct. The most significant point we would differ from the claimant on is at point d, where we disagree that the candidates were told of the inclusion of the claimant’s workload during their first interview. The most the documentation shows was that during the first interview it was said that “the role was slightly fluid”.
+
+113. We can add to this a consistent theme raised by both the tribunal and the claimant – surprise at the lack of disclosure by the respondent in relation to either version of the role. This lack of disclosure led us to consider sceptically this introduction by the respondent of the new role.
+
+114. When considering section 136 we have to ignore, at first, any explanation from the respondent. We have no hesitation in finding that the matters identified by the claimant cross the threshold of s136(2) and require an explanation from the respondent. This is particularly so given the lack of documentation disclosed and the fact that the role was not internally advertised, as required by the equal opportunities policy. We consider those are matters from which we could conclude that there had been unlawful discrimination in this case. While acknowledging that this would require individual consideration against each of the allegations of discrimination, we consider it is legitimate to make that broad statement and then look at the respondent’s explanation, since that will inevitably inform our findings in respect of the individual allegations of discrimination.
+
+115. In relation to the failure to internally advertise the role, it was accepted by the respondent that this was not advertised internally, although we note that it was also the respondent’s position that the claimant had been invited to put herself forward for the revised version of the job. For (b) and (c) the respondent’s response is that at this point the job that was being recruited for had nothing to do with the claimant’s position, so there is nothing in the fact of the advertisement to suggest that there was discrimination against the claimant. For (d), the respondent says that while it was “fluid”, at the time of the first interviews there was no mention of the claimant’s role and no intention to include it within the new role. For (e) the respondent says (and we have already accepted) that the new role was not a “suitable available vacancy” such that the claimant had to be offered it in preference to other candidates. The respondent says that its approach to the claimant on 14 June 2019 was at least in part about giving her the opportunity to be considered against the other candidates, and this occurred before the other candidates had had their second interview. We accept that the job title was changed a number of times during the process of revising the job description, but since everyone agrees that the revised job was intended to encompass the claimant’s duties there seems to be little significance to the question of the job title change. We accept the claimant’s point that one of the candidates was told that they were “odds on favourite” before the role had been discussed with her. For (h) the respondent says that 14 June was the earliest the claimant could have been approached, given that the idea of combining the two roles had only arisen after the first interviews and required discussion with Ms Davies on her return to holiday. For (i) we have already set out why this was done at the time, and the respondents say the offer of a settlement agreement was a genuine offer for acceptance by the claimant only if she did not want to put herself forward for the new role. On (j) we have concerns about the apparent lack of written communication with the preferred candidate for a month between the second interviews and his formal job offer, particularly as the earlier correspondence with him suggests that he had been offered (or was in the process of being offered) a job elsewhere. We will discuss below our views on the significance of the lack of documentation produced by the respondent.
+
+116. The respondent’s witnesses had spoken of a “review” of its operations, which suggests to us that there would be some sort of written report or other documentation arising as the outcome of the review. That was particularly so in the case of a membership organisation where the members (including the members’ representatives on the board) could be expected to subject such plans to scrutiny. There was, and remains, no documentation recording the commissioning of the review, what it consisted of and what its outcome was.
+
+117. According to the respondent, one outcome of the review was the construction of a new role. Again, it seemed to us that in an organisation of this size with barely a dozen employees the creation of a new, quite well paid, role would be the subject of a number of written reports, or at least business proposals or plans put to the board for authorisation. There was nothing other than perhaps a job description originally disclosed in respect of this. When we raised the matter again in the March hearing there was some further disclosure as we have referred to above. Nevertheless, there is remarkably little documentation setting out how it was that Mr Armstrong decided to recruit a new employee and how that role then came to encompass the claimant’s role.
+
+118. We spent some time in questioning Mr Armstrong about this lack of documentation and what conclusions we should draw from it. During the course of this questioning, he said that his review had not been documented, and that conclusions arising from that review had been subject to discussion between him, Mr Clifton and Ms Davies as the senior management team. They worked adjacent to each other at the respondent’s offices, so there had been no need for emails or other documentation in the course of their discussions. To the extent necessary, he had conferred with the chair by telephone, as he held regular telephone discussions with her. There had been no need to seek budgetary approval for this role, as it arose following the resignation of a previous employee (that resignation is recorded in papers in the tribunal bundle) so there was no overall headcount increase and the respondent’s payroll costs did not materially increase. As regards the inclusion of the claimant’s tasks in this role, he said that this point had only arisen following the first round of interviews, and was discussed (orally) between him, Mr Clifton and Ms Davies on Ms Davies’s return from holiday around 13/14 June, following which the job description had been varied and Ms Davies given the task of speaking to the claimant.
+
+119. We have concluded, not without some hesitation, that the respondent’s account of events should be accepted by us. That is, that they had a plan for recruiting for one role, held interviews for it, and only after those interviews considered that the claimant’s tasks should be included within that role. This was not, as the claimant saw it, a device concocted to terminate her employment because she was on maternity leave.
+
+120. We reach that decision on the following basis:
+
+a. The limited documentation we have does suggest a change of plan between the first and second interviews. It is apparent that the initial advertisement was for a different job to the one that was eventually offered. We do not see anything substantial to suggest that this was what was intended from the start, or that there was any overall plan to advertise one job and eventually recruit for another.
+b. Given what we have heard from Mr Armstrong we accept that his plans would have been discussed orally with his colleagues in the office and also, to the extent necessary, by telephone with the chair. We also accept that the opportunity for the new appointment arose after the resignation of another employee, meaning that there were no significant budgetary approvals needed.
+c. Having accepted that the respondent genuinely had a change of plan between the first and second interviews, their subsequent discussions with the claimant are explained by that. They sought to speak to her as soon as possible following that decision. She was offered the opportunity to apply for the role. It is clear that the respondent wanted the situation resolved as quickly as possible, perhaps by a settlement agreement, but that is understandable against the background of a role that we have found was almost entirely different to the claimant’s.
+
+121. That is not an end of the matter. We will still look individually at the claimant’s allegations and inferences to be draw, but that is against the background of us having accepted the respondent’s explanation as to its original intentions and later change of plan in recruiting for the new role. The allegations of discrimination up to the decision to consolidate the claimant’s role with the new role
+
+122. We will now consider the issues set out from 4.1 – 4.6.7 inclusive in the list of issues.
+
+4.1 On 28th January 2019, failing to make necessary arrangements for C to attend the office and breastfeed her baby
+
+123. It is agreed by both parties that the claimant attended work on 28 January 2019 in the office. It is also agreed that Mr Armstrong and Ms Davies walked in to the claimant’s office when she was breastfeeding her baby. However, it is not at all clear what “necessary arrangements” the claimant is referring to in this part of her claim. The focus of discussion during the hearing was that Mr Armstrong and Ms Davies entered her office without waiting for permission, but we do not know what “necessary arrangements” the claimant had in mind here. It is clear from the exchange of text messages ahead of her visit that the claimant was not expecting to breastfeed her baby at the office that day. Her father was to take care of the baby, with the claimant simply bringing the baby in to visit people in the office. In those circumstances we do not see that there was any failure to make “necessary arrangements” for the claimant and her baby, nor was there any unfavourable treatment on the basis of pregnancy or maternity.
+
+4.2 Denying the Claimant attendance at the office due to her decision to breastfeed.
+
+124. As we have described above in our findings of fact, there was no agreement for the claimant to attend a full day of work with her baby in the office. To the extent this was a difficulty for Ms Davies, it was because of the claimant’s plan to care for her baby while carrying out a full day’s work, not because of breastfeeding. There was no unfavourable treatment of the claimant because of pregnancy or maternity.
+
+4.3 Not awarding C a pay rise in January 2019;
+
+125. The claimant did not receive a pay rise in January 2019. Others did. The respondent has explained this as being not to do with her being on maternity leave, but on the basis of a general policy that they do not award pay rises during probationary periods, and the claimant was still within her probationary period in January 2019.
+
+126. We accept the claimant’s submission that there is nothing in her contract, nor anything in writing at all, which set out that policy.
+
+127. We also accept the respondent’s submission that there is nothing in the claimant’s contract that gives her a right to an annual pay rise.
+
+128. The respondent belatedly during the course of the March hearing disclosed details of another employee who did not receive a pay rise in January 2019. A spreadsheet of pay rises shows the claimant and this employee as being the only ones who did not receive a pay rise. There are notes by each of their names – respectively “Started Sep 18 – six month trial period” and (for the claimant) “Started Aug 19 – six months trial period”. In those circumstances we accept the respondent’s explanation that the reason for the claimant not getting a pay rise was that she was within her probationary period, not that she was on maternity leave. This was not unfavourable treatment because of pregnancy or maternity.
+
+4.4 Removing some of C’s workload
+
+129. This is, on the face of it, a somewhat unusual complaint for someone to make: that during their maternity leave some of their work was taken away from them. The essence of maternity leave would typically be that the individual does none of their ordinary work, and so they would have all of their work taken away from them. Both ordinary and additional maternity leave are described as periods of “absence from work” in section 71 and 73 of the Employment Rights Act 1996. That would suggest that removal of work from an employee during their maternity leave period is something the employer is obliged to do.
+
+130. The claimant’s particular complaint about this is in the transfer of her VAT work to her colleague working in RaceTech and the preparatory work for the audit to Crowe.
+
+131. The claimant did not complain about this at the time, and it seems to us that something of this nature was an inevitable consequence of the claimant being on maternity leave. Her idea of continuing with her full role during KIT days was, as we have described above, not what was agreed and in any event would have been unrealistic. There is no suggestion that these elements of her work were being removed permanently. The removal of these elements of her work was a necessary consequence of her being (at least partly) absent from work, and not unfavourable treatment on the basis of pregnancy and maternity.
+
+4.5 Reneging on agreements …
+
+132. The difficulty with this section of the claimant’s claim, as Ms Tharoo pointed out, was that it required there to be various agreements in the first place. There was no agreement to resolve the claimant’s issues with the Finance Administrator. At most there were discussions around how this could be done. There was no agreement for the claimant to bring her baby to the office and care for her baby while doing a full day’s work. There was no specific agreement to support the claimant in continuing her work commitments and there was no agreement formally extend her contractual working hours. At most on the latter point there was an agreement to discuss extending hours when the claimant was ready – initially expected to be April but later put back by the claimant to September. This was not unfavourable treatment because of pregnancy or maternity.
+
+4.6 … failing to advise the claimant about …
+
+133. While it is correct to say that no comparator is necessary for a claim of pregnancy and maternity discrimination it can be difficult for a claimant to establish that there has been unfavourable treatment because of pregnancy or maternity without an understanding of how those who are not pregnant or on maternity leave have been treated.
+
+134. The first complaint from the claimant under this heading is that she was not told about the availability of tickets to Royal Ascot. The respondent says that this would have been notified to her on induction, but also that there is no circular or other formal notification of the availability of tickets to those who are at work. In other words, the claimant’s pregnancy or maternity made no difference. The claimant is not able to point to anything to contradict this, or to anyone who was not pregnant or on maternity leave but who was specifically told about availability of tickets to Royal Ascot. In those circumstances we do not find that this was unfavourable treatment because of pregnancy or maternity.
+
+135. As regards team or social events, the respondent’s position was that there were no such events to which either the claimant should have been invited or to which others who were not pregnant or on maternity leave were invited. The claimant was not in a position to contradict this or to point to any specific event she was not invited to. She simply said that the staff were sociable and there must have been such events in the period she was pregnant or on maternity leave. We do not accept this as a sound basis for us to find that there was unfavourable treatment, and we find that there was unfavourable treatment on the basis of pregnancy or maternity.
+
+136. As we have identified above, the claimant did on one occasion (30 April 2019) have difficulty during her KIT days because her software was not up to date. The particular focus of this is on the Sage software that she used for her work, and which appeared to need direct updating on her machine through the use of an administrator account which she did not have access to.
+
+137. As Ms Tharoo says in her closing submissions, “when [the claimant] raised these matters, she was provided with prompt assistance”. The issue is whether, because of her pregnancy or maternity leave, she was not provided with advance notification of the need for an update. She contrasts this with being told (by the Finance Administrator) on 11 October 2018 that Mr Gooch needed to install an update to her Sage software.
+
+138. In her written submissions, Ms Tharoo points to a series of text messages at p318 of the tribunal bundle where the claimant sought assistance from Mr Gooch, and he said he was unaware of any update being required on 30 April 2019. Mr Gooch was responsible for the IT systems operated by the respondent, and he was the person who must have prompted the October 2018 message that was sent to the claimant. There is no reason to doubt his text message that he was unaware of any update required by the 30 April 2019, and if he was unaware of it, a failure to alert the claimant to the need for an update or to provide an update for her cannot have been unfavourable treatment by reason of the claimant’s pregnancy or maternity leave. Her computer was not updated because the person who was responsible for the updates was not aware that there was any update that needed to be applied, not because she was pregnant or on maternity leave.
+
+139. There was disagreement between the parties as to whether there actually was a new database implemented that the claimant should have been trained on. The respondent’s case was that there was no such new database – it had been contemplated but its task was eventually performed by using a spreadsheet. The claimant was not able to contradict this, and we find that there was no pregnancy or maternity discrimination in respect of any issues in relation to a database.
+
+140. The claimant complains that she was not told about the Finance Administrator’s appraisal or training while she was on maternity leave. As we have already described, the claimant was never the Finance Administrator’s line manager and we accept the respondent’s position that this was not something that the claimant should have been involved with. This was not discrimination on the basis of pregnancy or maternity leave.
+
+141. The final element under this heading is not being told of the leave date of colleagues, with the consequence that the claimant was “require[ed] … to repeatedly rearrange working dates”. As Ms Tharoo points out in her written submissions, this would require the claimant to identify a date where this lack of information required her to rearrange a working date, but the claimant has not done this. When KIT days were rearranged, it appeared to be at the instigation of the claimant, rather than required by the respondent.
+
+142. We then move on to the issues that arise from the decision to amalgamate the claimant’s role with the new role. Our conclusions on this take place against the background of our finding that the creation of the second version of the new role was not an attempt by the respondent to dismiss the claimant or to make her redundant because of her pregnancy or maternity leave.
+
+4.6.8 failing to advise C about the business review that led to her position being redundant (despite discussing it with others)
+
+143. The only “others” who were identified as having participated in those discussions were Caroline Davies and Andy Clifton, who together with the Chief Executive made up the respondent’s senior management team. The claimant has not identified anyone at her level within the organisation with whom the business review was discussed, and in those circumstances we do not find that the failure to discuss it with her amounted to an act of pregnancy or maternity discrimination.
+
+4.7 arranging the meeting with C on 18th June 2019 under false pretences
+
+144. This is the claimant’s complaint about being told that the meeting was to be about “future arrangements”, rather than explicitly in relation to redundancy.
+
+145. Where an employer wishes to discuss the risk of redundancy with an employee, on the whole it is considered best practice to do this face to face rather than to do so in writing. The claimant’s position that she should have been notified in advance of the full purpose of the meeting is, perhaps, understandable, but by saying this meeting would be explicitly about the risk of redundancy the respondent would have been delivering this potentially difficult news in writing rather than, as they had intended, face to face.
+
+146. However, the point here is not about the respective merits of notifying someone of the risk of redundancy face to face or in writing, but about whether the respondent’s actions amounted to unfavourable treatment because of pregnancy or maternity. We do not see that this amounted to unfavourable treatment because of pregnancy or maternity.
+
+4.8 following the meeting on 18 June 2019, being instructed by Caroline Davies that ‘the work needed doing’
+
+147. It is clear that the claimant felt strongly aggrieved by the message that was given to her in the meeting. However, we do not see anything wrong with Caroline Davies saying that notwithstanding the difficult message the respondent wished the claimant to continue working. That is often the way things would be, and we do not see that there is anything in this that indicates that the claimant was being treated unfavourably on account of her pregnancy or maternity leave.
+
+4.9 requiring C to meet with R on days which C had not designated as ‘keeping in touch days’
+
+148. We do not see anything wrong with the respondent proposing meetings to discuss the claimant’s redundancy on days which were not KIT days. To have done otherwise would be to have unnecessarily lengthened a difficult process. If the claimant is correct that arranging meetings to discuss redundancy on days which are not KIT days amounts to pregnancy and maternity discrimination, then an employer might never be able to discuss possible redundancy with an employee who is on maternity leave. While there are particular protections given in law to those who are on maternity leave, there is no absolute prohibition on people being made redundant while on maternity leave, and it must follow that it is legitimate for an employer to attempt to arrange meetings to discuss potential redundancy with someone on maternity leave outside any scheduled KIT days. This was not an act of pregnancy or maternity discrimination.
+
+4.10 arranging meetings at short notice and when she could not attend, using this against her
+
+149. Our answer to this is in much the same terms as our answer to point 4.9. We do not see what the claimant is intending by the allegation that meetings were arranged at short notice and then her non-attendance was held against her. It was valid for the respondent to schedule meetings outside her KIT days, and it is not apparent to us what she means by her non-attendance being held against her. This was not an act of pregnancy or maternity discrimination.
+
+4.11 only selecting C for potential redundancy without considering an appropriate pool
+
+150. We do not consider this to be an act of pregnancy or maternity discrimination. The respondent’s proposal was for the claimant’s role to be subsumed within the new role it was creating. In those circumstances we do not see that there was any need to “pool” the claimant with others for consideration of redundancy selection.
+
+4.12 failing to follow the ACAS Code of Practice …
+
+151. The particular allegation here is that the claimant was only given four or five days to accept the settlement agreement, rather than the ten days suggested by the code of practice.
+
+152. It is clear that the claimant was not originally given ten days to accept the settlement agreement, but following representations made by her time was extended so that she did in fact have ten days to accept the agreement.
+
+153. The respondent has produced evidence that two other employees (who were not pregnant or on maternity leave) were (at least initially) given less than ten days to accept settlement agreements they were offered. We accept that evidence, and it follows that this was not pregnancy or maternity discrimination.
+
+4.13 failing to offer C the new position whether permanently or for a trial period
+
+154. As we have previously found, the claimant’s role was completely different to the new role, and in those circumstances we do not see that the respondent was obliged to offer the new role to her, either permanently or for a trial period. This did not amount to pregnancy or maternity discrimination.
+
+4.14 R unfairly used the following as reasons as to why C was not suitable for the new position (also alleged to be direct sex discrimination)
+
+155. In this allegation the claimant raises a number of matters which she says are reasons the respondent said that she was not suitable for the new role. These (except for the direct allegation that this occurred to the claimant because she was a woman, or “inherently discriminatory criteria”) derive from the respondent’s letter of 31 July 2019, by which she was dismissed, and the correspondence leading up to it.
+
+156. We accept that, broadly speaking, these (except for her being a woman or “inherently discriminatory criteria”) were the reasons the respondent gave for not considering the new role to be a suitable alternative role for the claimant (in the sense that would have engaged regulation 20 of MAPLE). To some extent they mirror the reasons why we consider this was not a suitable available role under MAPLE.
+
+157. What we do not see is what relationship there is between that and the claimant’s sex, or her pregnancy and maternity leave. These are simply differences between the two roles. The claimant’s point seems to be that the respondent has made assumptions about her situation that they would not make about a man or someone who was not pregnant or on maternity leave: for instance (as identified at 4.14.6) – that someone who was pregnant or on maternity leave would not be able to be office based.
+
+158. We do not see that the claimant has made out this element of her claim. The respondent is stating the clear distinctions between the roles, not suggesting that her sex or pregnancy or maternity leave make her unsuitable for the role. We do not see this as being sex or pregnancy or maternity discrimination.
+
+159. There are then the complaints in relation to the grievance procedure and the implementation of her dismissal:
+
+4.15 R failed to follow its grievance procedure …
+
+160. The claimant’s complaint here is (taken from her written closing submissions) that “C was informed that the grievance … would be dealt with as part of the redundancy process … there was no separate acknowledgment of the grievance nor any meeting set up to consider it … it should not have been Caroline Davies and David Armstrong.”
+
+161. The claimant also alleges that “the … grievance … [was] dismissed because the outcome of the process and the decision to dismiss C had already been pre- determined”.
+
+162. The respondent’s grievance procedure is at page 69 of the tribunal bundle. This is in standard form, and sets out the usual procedure for a grievance to be dealt with at a meeting. There is nothing specific about which managers will address it, except that any appeal will be to the Chief Executive or Chair, and a grievance about your line manager should be raised with “the next level of management”.
+
+163. The claimant has therefore made out her case that the respondent did not follow its grievance procedure. There is nothing in that procedure that permits the course of action taken by the respondent – an amalgamation of the grievance with an ongoing redundancy process and a written response.
+
+164. The question for us is whether this action (including the eventual dismissal of the grievance) amounted to unfavourable treatment because of pregnancy or maternity.
+
+165. It seems to us that the claimant’s grievance was entirely concerned with her selection for redundancy and matters surrounding that. As Ms Tharoo points out in her closing submissions, the claimant had not engaged with the respondent in its attempts to discuss the redundancy with her. In those circumstances (and including in particular the claimant’s general attempts to delay or put off discussions with the respondent about redundancy) we are not surprised that the respondent decided to address this grievance within the ongoing redundancy process. This seems to us to be a sensible way of proceeding in those circumstances, and it is not an act of unfavourable treatment because of pregnancy or maternity.
+
+4.16 R failed to give C her statutory one week notice period

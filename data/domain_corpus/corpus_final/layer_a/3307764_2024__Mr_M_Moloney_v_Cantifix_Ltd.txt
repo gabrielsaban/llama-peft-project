@@ -1,0 +1,163 @@
+JUDGMENT
+
+1. The respondent’s application to dismiss the claims as time-barred under Rule 28 of the Employment Tribunal Procedural Rules 2024 is refused and the claims proceed.
+
+WRITTEN REASONS
+
+Introduction
+
+2. The claim is about unfair dismissal (redundancy) and breach of contract (unpaid expenses of £3,087.39). The claim for unpaid redundancy payments was withdrawn following payment on 20 December 2024.
+
+Procedural points
+
+3. This matter was listed before me for a 3-hour preliminary hearing to determine whether the claim was time-barred for the purposes of Rule 28 of the Employment Tribunal Procedural Rules 2024.
+
+4. I considered a bundle of 69 pages; a skeleton argument from the respondent’s Counsel; medical letters from the claimant totalling fives pages; email witness statements from the claimant dated 30 March 2025 and 15 June 2025. I heard oral submissions from both parties.
+
+5. I gave an oral judgment at the hearing, before discussing and then issuing case management orders. The final hearing is currently fixed for 2-5 December 2025 by CVP. The respondent orally requested written reasons at the conclusion of the hearing.
+
+Factual background
+
+6. The claimant was employed by the respondent, a glazing company specialising in architectural glazing, as a Project Manager, for sixteen years from 7 December 2007 until 6 February 2024.
+
+7. There is a dispute between parties about whether the claimant was fairly dismissed pursuant to s.98 ERA 1996 and whether the redundancy process that took place from June 2023 was procedurally fair.
+
+8. The chronology of the substantive events of the claim is untested, that being a matter for the final hearing; we did not hear oral evidence about them.
+
+9. From what parties appear to agree and from what is in the bundle, I make the following findings, though do not intend to bind a future Tribunal in respect of them:
+
+10. On 3 November 2023, the claimant was told he was being made redundant and that his effective date of termination (“EDT”) would be 6 February 2024.
+
+11. On 8 January 2024 the respondent asked the claimant to sign an ‘exit agreement’ as a pre-condition for releasing his statutory redundancy pay and unpaid expenses. The claimant refused to sign it and further correspondence continued about that between the parties.
+
+12. On 2 February 2024 the claimant says the respondent seemed to agree that he should not have to sign anything to be entitled to his redundancy pay.
+
+13. 6 February 2024 was the EDT.
+
+14. On 23 February 2024 the claimant was asked again to sign the exit agreement and to submit receipts for his expenses, which the claimant says he already submitted previously.
+
+15. It is agreed that 29 February 2024 was the expected date of payment of anything outstanding, as that would be the date of the usual payroll.
+
+16. On 1 March 2024 the claimant sent an email to the respondent enclosing receipts, however the respondent continued to ask that the claimant sign the exit agreement, for example, for tax reasons, and that he would not be paid for his redundancy or expenses unless he did so.
+
+17. It is on this date the claimant says it became clear to him that the respondent, following these negotiations, would not release the payments. He therefore believed he had a live claim to pursue at the Employment Tribunal on that date. I accept the claimant was being truthful when he told me this and that he genuinely believed that to be the position at the time.
+
+18. Further discussions continued about the necessity of the exit agreement on 8.3.24, 16.2.24, 19.3.24 and 21.3.24. It is said on the latter date the respondent reiterated it would only pay once the exit agreement was signed.
+
+19. On 29.3.2024, the claimant says the respondent intimated it would not send him his P45 without the exit agreement being signed.
+
+20. On 24.4.2024, I find that the claimant was suffering from abdominal cramps and bloating, as supported by his medical letters. I do not find that it was so severe as to have impeded his ability to file the claim form. I find the reason he did not file the ET1 sooner than he did was because of the belief described above at paragraph 17.
+
+21. On 6 May 2024 the claimant went for blood tests; there was evidence of calcified gallstones. Again, whilst no doubt painful, I do not find this was the cause of his delay in bringing the claim. This is because his medical evidence and mention of his condition came at a later stage of proceedings on 15 June 2025 when asked to give his explanation for filing the ET1 out of time; his primary focus was the factual events and correspondence of February/March 2024.
+
+22. On 20 May 2024 the claimant entered the Acas conciliation process.
+
+23. On 1 July 2024, the Acas certificate was issued.
+
+24. On 31 July 2024 the ET1 was filed and served.
+
+25. On 20 December 2024 the ET3 was filed and served.
+
+26. On 20 December 2024 the claimant’s statutory redundancy pay was paid in the amount of £10,288.
+
+Legal framework
+
+27. The following legislation applies to unfair dismissal cases, including redundancy:
+
+Section 111(2) Employment Rights Act 1996:
+
+(2) Subject to the following provisions of this section, an employment tribunal shall not consider a complaint in unfair dismissal unless it is presented to the tribunal—
+
+(a) before the end of the period of three months beginning with the effective date of termination, or
+(b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months. 2A. Section 207B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (2)(a).
+
+28. Article 7, The Employment Tribunals Extension of Jurisdiction (England and Wales)
+
+Order 1994 (applies to breach of contract claims):
+
+Subject to article 8B an employment tribunal shall not entertain a complaint in respect of an employee’s contract claim unless it is presented—
+
+(a) within the period of three months beginning with the effective date of termination of the contract giving rise to the claim, or […]
+(b) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within whichever of those periods is applicable, within such further period as the tribunal considers reasonable.
+
+29. A similar provision regarding time limits exists for claims of statutory redundancy pay where the time limit is 6 months from the date of termination. The respondent accepts the claimant was in time for this part of his claim.
+
+30. Section 207B of the ERA 1996 Act has the effect of pausing these time limits provided the Acas early conciliation process is itself entered into within time. If so, the claimant then has one month from the issue of the Acas certificate by which to issue their claim.
+
+31. The Tribunal has a discretion under 111(2)(b) to hear a claim outside the time limits discussed where it considers that it was “not reasonably practicable” for the claim to be presented within the 3-month time limit and it was presented within a further period that the Tribunal considers to be “reasonable”.
+
+32. The burden of proving that it was not reasonably practicable for the claim to be lodged within the normal time limit is on the claimant, Porter v Bandridge Ltd [1978] IRLR 271.
+
+33. Statutory provisions concerning the reasonable practicability of presenting claims on time are to be given a “liberal construction in favour of the employee”, Dedman
+
+v. British Building and Engineering Appliances Ltd 1974 ICR 53, CA
+
+34. In assessing the “reasonably practicable” element of the test, the question which the Tribunal has to answer is “what was the substantial cause of the employee's failure to comply” and then assess whether, given that cause, it was not reasonably practicable for the claimant to lodge the claim in time, London International College v Sen [1992] IRLR 292, EAT and [1993] IRLR 333, Court of Appeal and Palmer and Saunders v Southend-on-Sea Borough Council [1984] IRLR 119. 33.
+
+35. A common reason why a claimant will not lodge their claim within the normal time limit is either ignorance of, or a mistake regarding, the application of the relevant time limit. The leading case on this is Wall's Meat Co Ltd v Khan [1978] IRLR 49 where, at paras 60-61, Brandon LJ stated : “The impediment [to a timeous claim] may be mental, namely, the state of mind of the complainant in the form of ignorance of, or mistaken belief with regard to, essential matters. Such states of mind can, however, only be regarded as impediments making it not reasonably practicable to present a complaint within the period of three months, if the ignorance on the one hand, or the mistaken belief
+
+on the other, is itself reasonable.”
+
+36. The test for whether it was reasonable for the claimant to be aware of the time limit is an objective one and the Tribunal should consider whether a claimant ought to have known of the correct application of the time limit (see Porter, Khan, Avon County Council v Haywood-Hicks [1978] IRLR 118).
+
+37. Ignorance of a key fact can be a reason that it was not reasonably practicable to present a claim within the time limit, Cambridge and Peterborough NHS Foundation Trust v Crouchman 2009 ICR 1306.
+
+38. The principles that emerge from that EAT case are:
+
+38.1 Ignorance of a fact will make it impracticable for a claimant to comply with the time limit where that fact is crucial or fundamental to the claim: Marley (UK) Ltd and anor v Anderson 1996 ICR 728;
+38.2 A fact is crucial or fundamental if, on learning it, the claimant’s state of mind genuinely and reasonably changes from one in which the claimant does not believe that there are grounds for a claim, to one where they consider that a claim is viable: Machine Tool Industry Research Association v Simpson 1988 ICR 588;
+38.3 It is not to the point whether the information is true. It is a question of whether new information brought about a genuine and reasonable change in belief.
+
+39. Rajabov v Foreign and Commonwealth Office 2022 EAT 112 establishes that information discovered later will not amount to a key purely because it gave greater certainty about the facts underlying the claim.
+
+40. In considering the “further reasonable period”, the case of Nolan v Balfour Beatty Engineering Services EAT 0109/11 suggests that this is a question of considering all of the circumstances of the case, including steps taken by the claimant; the reasons for the delay; and what the claimant can be taken to have known about time limits
+
+41. Discussion
+
+i. Was the unfair dismissal and breach of contract claim brought out of time?
+
+42. The claimant now accepts, having been convinced otherwise until recently, that the original three-month time limit for submitting his claim form was 5 May 2024, as his EDT was 6 February 2024.
+
+43. The claimant was then 15 days out of time in entering the ACAS process on 20 May 2025 to enable the operation of section 207B to “stop the clock”; if he had by 5 May 2024, the claims would be in time.
+
+44. Accordingly, as the claim form was not submitted, nor the Acas process commenced, before 5 May 2024, the claims are out of time.
+
+ii. If not, was it reasonably practicable for the claim to be made to the Tribunal within the time limit?
+
+45. This was the key issue in this case. I have found that the substantial cause of the claimant’s failure to comply was his belief that his claim only came into existence on 1 March 2024, when it became clear that the respondent would not pay him unless he signed an ‘exit agreement’; the passage of his usual payroll day on 29 February 2024, confirmed that expected payment had not been made.
+
+46. I consider, in the particular circumstances of this case, that the claimant’s mistaken belief was reasonable. I find this for the following reasons:
+
+47. The claimant was not litigious from the outset of his being made redundant; his preference was to resolve matters without recourse to the Tribunals. It was the respondent’s insistence that he sign an exit agreement before releasing the claimant’s statutory redundancy pay that gave rise to a sense that the respondent was behaving improperly. That decision to make his redundancy payment conditional on the exit agreement was likely unlawful and has since been rectified, albeit 7 months later. That sense of impropriety brought about by the respondent’s conduct on that particular issue at the time led to a loss of the claimant’s trust which caused him to then question whether the redundancy decision itself was also made unlawfully.
+
+48. The claimant’s focus at this time was on what he regarded as the unlawful withholding of the payment and exit agreement, and not his EDT.
+
+49. I bear in mind here the different time limits that were at work adding a layer of complexity for a litigant in person. The redundancy claim, which was perhaps the most significant part of it at this time, carried a longer time limit of 6 months. The breach of contract claim focused on unpaid monies owed in connection with expenses; other types of money claim, such as unlawful deduction of wages, run from the date of the last deduction, usually the payroll day for many people, and that, too, adds a layer of complexity for a litigant in person who is currently engaged in negotiations about one, perhaps the main, aspect of their claim.
+
+50. A strong argument from the respondent against the claimant here is that he should have taken legal advice about this during negotiations, and clearly this is true. I also bear in mind that many cases involving time limits invariably involve a mistaken belief as to the law and/or facts.
+
+51. However, I find the failure to take legal advice is not fatal to the claimant’s case here when I consider the circumstances of the case as whole, in particular, the stance being taken at the time by the respondent regarding the exit agreement.
+
+52. I also consider that the scenario described above could amount to ignorance of a key fact. The belief that the respondent was unlawfully withholding a statutory payment does, in my view, amount to a crucial or fundamental fact. I find the claimant’s state of mind genuinely and reasonably changed from one in which he did not believe that were grounds for a claim, to one where he considered a claim is viable.
+
+53. This is because a general sense of grievance that the claimant describes having prior to the February/March 2024 correspondence is not the same as concrete evidence of some error or wrongdoing on the part of the respondent. Following that correspondence, and by 1 March 2024, the claimant felt he had that evidence in the emails regarding the exit payment. In his view, this stood as evidence of the respondent being willing to act unlawfully towards him and affected its credibility; he then extended that willingness back to the decision itself to make him redundant, whether rightly or wrongly, and I note here the belief does not have to be true.
+
+54. Another factor in support of the claimant is that he is not arguing the later correspondence which continued into the end of March 2024 was the point at which the time limit ran. By this, he understood there was a point at which it would become unreasonable to delay bringing a claim, notwithstanding that negotiations were ongoing.
+
+55. I therefore find, perhaps exceptionally, that it was not reasonably practicable for the claim to be made within the time limit, again, in this particular set of circumstances.
+
+56. For completeness, I do not consider that the claimant’s gastrointestinal issues during April and May 2024 had any real impact on his decision or ability to bring his claim when he did, rather it was the set of events and his subsequent beliefs that were operative on the timing on his claim.
+
+iii. If it was not reasonably practicable for the claim to be made to the Tribunal within the time limit, was it made within a reasonable period?
+
+57. Considering all the circumstances of this case, I find that the claim was made within a reasonable period. The claimant was 15 days out of time for entering the Acas process which would have otherwise stopped the clock and meant his claim was in time.
+
+58. The respondent invites me to treat the subsequent 10-week intervening period simply as further inexplicable day. However, I treat it as a continuation of the mistaken belief described above. The claimant thought time ran from 1 March 2024 and that he had therefore entered the Acas process in time with its subsequent pause on proceedings. This was wrong but understandable in these particular circumstances.
+
+59. The situation would be very different if the claimant had otherwise delayed before filing and serving his claim form. However, the dates by which he did take steps to bring his claim fit within the chronology of the mistaken time lime he was operating within. In other words, there was no other delay aside from his fundamental mistake as to the date time ran from, albeit he was just in time to meet the Acas deadline of 31 July 2024, if the certificate was issued on 1 July 2024.
+
+60. I therefore find the claim was made within a reasonable period.
+
+Conclusions
+
+61. For these reasons, I am persuaded that it was not reasonably practicable for the claim to be made to the Tribunal within the time limit, and that it was nonetheless made within a reasonable period. The claims therefore proceed with a final hearing due to be heard on 2-5 December 2025. The case management orders I have made remain in place, as issued in the separate CMO.

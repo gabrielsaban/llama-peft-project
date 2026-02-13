@@ -1,0 +1,129 @@
+JUDGMENT
+
+The claimant’s claims are not struck out.
+
+REASONS
+
+Introduction
+
+1. This was the third Preliminary Hearing in the matter, the first having taken place on 20 June 2024. On that occasion EJ Housego listed a hearing to take place in public on 6 December 2024 to consider:
+
+1.1 Whether the claims were presented out of time, and if so whether to extend time;
+1.2 Whether to strike out the race discrimination claim and the disability discrimination claim as having no reasonable prospect of success;
+1.3 Whether the claimant’s conduct has been unreasonable.
+1.4 If the claim was not struck out, whether an application to amend should be considered;
+1.5 To make further case management orders.
+
+2. At that hearing I spent the majority of the hearing clarifying the claims, clarifying the scope of a proposed amendment, and hearing an application to amend. I postpone the hearing of the strike out applications to today. These are the written reasons for my decision not to strike out the claims which I gave to the parties orally.
+
+Procedure
+
+3. I was provided with a 222 page bundle, a 36 page submissions from the claimant with additional attachments, and I heard from both parties on the applications. Ms Palmer helpfully indicated that she would solely be seeking to strike out the claims on time points and not for other reasons. She accepted that one complaint was in time. The law Time limits EA
+
+4. Section 123 EA provides:
+
+(1) Proceedings on a complaint within section 120 may not be
+
+brought after the end of—
+
+(a) the period of 3 months starting with the date of the act to which the complaint relates, or
+(b) such other period as the employment tribunal thinks just and equitable. …
+
+(3) For the purposes of this section—
+
+(a) conduct extending over a period is to be treated as done at the end of the period;
+(b) failure to do something is to be treated as occurring when the person in question decided on it.
+
+5. The key question in determining whether there was conduct extending over a period is whether there was an ongoing situation or continuing state of affairs which amounted to discrimination (Hendricks v Metropolitan Police Commissioner [2002] IRLR 96). The claimant bears the burden of proving, by direct evidence or inference, that numerous alleged incidents of discrimination are linked to each other so as to amount to a continuing discriminatory state of affairs.
+
+6. As to extending time, the Court of Appeal in Abertawe Bro Morgannyg University Local Health Board v Morgan [2018] IRLR 1050 observed that the wording of section 120(1)(b) “such other period as the employment tribunal thinks just and equitable” gives the Tribunal a wide discretion in considering whether to extend time. Leggatt LJ said that “factors which are almost always relevant to consider when exercising any discretion whether to extend time are: (a) the length of, and reason for, the delay and (b) whether the delay has prejudiced the respondent (for example, by preventing or inhibiting it from investigating the claims while matters were fresh).”
+
+7. Tribunals are encouraged to “assess all the factors in the particular case which it considers relevant to whether it is just and equitable to extend time, including in particular… ‘The length of, and the reasons for, the delay’ ” (Adedeji v University Hospitals Birmingham NHS Foundation Trust [2021] EWCA Civ 22).
+
+8. In Kumari v Greater Manchester Mental Health NHS Foundation Trust [2022] UKEAT 132 the EAT held that the potential merits of a claim, which was not so weak as to be struck out under Rule 37, are not irrelevant when it comes to deciding whether it is just and equitable to extend time. If these the merits are weighed in the balance against the claimant the assessment of the merits “must have been properly reached by reference to identifiable factors that are apparent at the preliminary hearing, and taken proper account, particularly where the claim is one of discrimination, of the fact that the tribunal does not have all the evidence before it, and is not conducting the trial”.
+
+9. Reviewing the authorities, the learned editors of Harvey’s set out a non- exhaustive list of factors that may prove helpful in assessing individual case:
+
+9.1 the presence or absence of any prejudice to the respondent if the claim is allowed to proceed
+9.2 the presence or absence of any other remedy for the claimant if the claim is not allowed to proceed;
+9.3 the conduct of the respondent subsequent to the act of which complaint is made, up to the date of the application;
+9.4 the conduct of the claimant over the same period
+9.5 the length of time by which the application is out of time;
+9.6 the medical condition of the claimant, taking into account, in particular, any reason why this should have prevented or inhibited the making of the claim;
+9.7 the extent to which professional advice on making a claim was sought and, if it was sought, the content of any advice given. Time limits and preliminary hearings
+
+10. In the case of E v X and others UKEAT/0079/20 the EAT reviewed previous authorities and identified a number of key principles to be applied when time points are being considered at a preliminary hearing. I set them out in full:
+
+10.1 In order to identify the substance of the acts of which complaint is made, it is necessary to look at the claim form: Sougrin.
+10.2 It is appropriate to consider the way in which a claimant puts their case and, in particular, whether there is said to be a link between the acts of which complaint is made. The fact that the alleged acts in question may be framed as different species of discrimination (and harassment) is immaterial: Robinson.
+10.3 Nonetheless, it is not essential that a positive assertion that the claimant is complaining of a continuing discriminatory state of affairs be explicitly stated, either in the claim form, or in the list of issues. Such a contention may become apparent from evidence or submissions made, once a time point is taken against the claimant: Sridhar.
+10.4 It is important that the issues for determination by the tribunal at a preliminary hearing have been identified with clarity. That will include identification of whether the tribunal is being asked: (1) to consider whether a particular allegation or complaint should be struck out, because no prima facie case can be demonstrated; or (2) substantively to determine the limitation issue: Caterham.
+10.5 When faced with a strike-out application arising from a time point, the test which a tribunal must apply is whether the claimant has established a prima facie case, in which connection it may be advisable for oral evidence to be called. It will be a finding of fact for the tribunal as to whether one act leads to another, in any particular case: Lyfar.
+10.6 An alternative framing of the test to be applied on a strike-out application is whether the claimant has established a reasonably arguable basis for the contention that the various acts are so linked as to be continuing acts, or to constitute an on-going state of affairs: Aziz; Sridhar.
+10.7 The fact that different individuals may have been involved in the various acts of which complaint is made is a relevant, but not conclusive, factor: Aziz.
+10.8 In an appropriate case, a strike-out application in respect of some part of a claim can be approached assuming, for that purpose, the facts to be as pleaded by the claimant. In that event, no evidence will be required – the matter will be decided on the claimant's pleading: Caterham.
+10.9 A tribunal hearing a strike-out application should view the claimant's case, at its highest, critically, including by considering whether any aspect of that case is innately implausible for any reason: Robinson.
+10.10 If a strike-out application succeeds, on the basis that, even if all the facts were as pleaded, the complaint would have no reasonable prospect of success (whether because of a time point or on the merits), that will bring that complaint to an end. If it fails, the claimant lives to fight another day, at the full merits hearing: Caterham.
+10.11 Thus, if a tribunal considers (properly) at a preliminary hearing that there is no reasonable prospect of establishing at trial that a particular incident, complaint about which would, by itself, be out of time, formed part of such conduct together with other incidents, such as to make it in time, that complaint may be struck out: Caterham.
+10.12 Definitive determination of an issue which is factually disputed requires preparation and presentation of evidence to be considered at the preliminary hearing, findings of fact and, as necessary, the application of the law to those facts, so as to reach a definitive outcome on the point, which cannot then be revisited at the full merits hearing: Caterham.
+10.13 If it can be done properly, it may be sensible, and, potentially, beneficial, for a tribunal to consider a time point at a preliminary hearing, either on the basis of a strike-out application, or, in an appropriate case, substantively, so that time and resource is not taken up preparing, and considering at a full merits hearing, complaints which may properly be found to be truly stale such that they ought not to be so considered. However, caution should be exercised, having regard to the difficulty of disentangling time points relating to individual complaints from other complaints and issues in the case; the fact that there may be no appreciable saving of preparation or hearing time, in any event, if episodes that could be potentially severed as out of time are, in any case, relied upon as background to more recent complaints; the acute fact-sensitivity of discrimination claims and the high strike-out threshold; and the need for evidence to be prepared, and facts found (unless agreed), in order to make a definitive determination of such an issue: Caterham Strike out and deposits
+
+11. Rule 38 of the Employment Tribunal Procedure Rules 2024 ET Rules provides:- At any stage of the proceedings, either on its own initiative or on the application of a party, a Tribunal may strike out all or part of a claim or response on any of the following grounds—
+
+(a) that it is scandalous or vexatious or has no reasonable prospect of success;
+
+12. In Mechkarov v Citibank NA [2016] ICR 1121 the EAT summarised the principles that emerge from the authorities in dealing with applications for strike out of discrimination claims: ''(1) only in the clearest case should a discrimination claim be struck out; (2) where there are core issues of fact that turn to any extent on oral evidence, they should not be decided without hearing oral evidence; (3) the Claimant's case must ordinarily be taken at its highest; (4) if the Claimant's case is “conclusively disproved by” or is “totally and inexplicably inconsistent” with undisputed contemporaneous documents, it may be struck out; and (5) a Tribunal should not conduct an impromptu mini trial of oral evidence to resolve core disputed facts.''
+
+13. The guidance in Mechkarov followed from a line of authorities including Anyanwu v South Bank Students’ Union [2001] IRLR 305 and Eszias v North Glamorgan NHS Trust [2007] IRLR 603. Chandok v Tirkey [2015] ICR 527 shows that there is not a “blanket ban on strikeout application succeeding in discrimination claims”. They may be struck out in appropriate circumstances, such as a time-barred jurisdiction where no evidence is advanced that it would be just and equitable to extend time, or where the claim is no more than an assertion of the difference in treatment and a differencing protected characteristic. Eszias also made clear that a dispute of fact also covers disputes over reasons why events occurred, including why a decision-maker acted as they did, even when there is no dispute as to what the decision maker did.
+
+14. In Ahir v British Airways plc [2017] EWCA 1392 the Court of Appeal held that tribunal’s should “not be deterred from striking out claims, discrimination claims, which involve a dispute of fact if they are satisfied that there is indeed no reasonable prospect of the facts necessary to liability being established, and also provided they are keenly aware of the danger in reaching such a conclusion in circumstances where the full evidence has not been heard and explored, perhaps particularly in a discrimination context”.
+
+The evidence
+
+15. The claimant produced a witness statement dated 10 October 2022. In this she set out, among other things, that allegations about the way R2 spoke to her, her unfair appraisal rating along with the race discrimination “are part of the continuum or ongoing sequence, connected together up to and including my resignation on 27th of April 2022”. She said she raised an informal grievance on 10 November 2020, and filed a formal grievance on 2 March 2021. She said the investigation lasted over eight months and a report was provided on 10 November 2021. She said the delay affected her health. The claimant outlined her appeal against the investigation outcome on 23 November 2021, outlined she had appeal meetings on 3 March 2022 and 26 April 2022 and that she was provided outcomes on 10 March 2022 and on 5 May 2022.
+
+16. She set out that she had a meeting with occupational health on 28 April 2022 and 18 May 2022.
+
+17. She asserts that “older events are the same kind of events as a later meeting with Respondent 3 on 28 April 2022, so the early events must be considered as part of the continuous course of events and conduct”.
+
+18. In terms of the merits of her case, the claimant says that R2 and R3 have a “particular view of my performance because of my race and nationality consciously or subconsciously, causing the difference in treatment especially in comparison with Maria (Somalian) and Pierra (Italian).” She refers to being asked “Do you understand? Is it clear to you?” In contrast with how her colleagues were treated. She says R1 did not investigate her grievances properly or in line with the ACAS Code of Practice. She claims she was not provided her appraisal, as required by policy. She says the respondents failed to apply various dignity at work and bullying policies after she reported bullying and harassment, and did not properly deal with her complaints. She said that R1 did not communicate with her properly. She asserts “the grievance process was a part of the conduct and race discrimination and lasted from 10th of November 2020 until 26th of April 2022: the Respondent delayed investigation for 1 year and 5 months, they did not provide a timeframe for resolving my grievances by breaching their own timeframe. They took superficial approach to my grievance and did not evaluate the evidence and look at the evidence properly but dismissed them unreasonably”.
+
+19. At the hearing, the claimant was asked why she brought the claims when she did. She said because the appeal did not work, and she felt she was not being heard. She said she had been bullied for two years, had health issues and felt she should have justice. When asked why she had not brought the claims earlier, she said she brought them after her resignation. She really enjoyed her job, but the respondents made it clear that they did not need her there, they did not investigate, and that it was unbearable. She said she did not take legal advice. She said she had heart pain which she had never experienced before, as well as headaches and mental health problems including panic attacks. She said she was prescribed medication including sleeping tablets.
+
+20. In oral evidence the claimant said that she was now working receiving a monthly income of £1750 net. She pays rent of £800 per month plus £150- £200 bills. She has no debts.
+
+21. Under cross-examination Mr Kennedy put to her that she was actively engaged in preparing the bundle. She agreed she could have provided GP records about her health, but that she did not as they were sensitive. In terms of the deterioration of health in 2020, it was put to her that she worked during this period. She said it was remote working and she did not have contact with R1 and R2, and that she had sick leave in 2021. She agreed that she had been able to progress her grievances and appeals. She agreed she was able to submit her claim to the tribunal. Time limits – the facts and submissions
+
+22. It was established that the claims proceeding to a final hearing, subject to the application to strike out, were as follows (using the numbering of the paragraphs in my case management summary of 6 December 2024):
+
+22.1 Failure to make reasonable adjustments relating to working hours (9.3). The respondent says that no PCP was applied after 10 June 2021 when the claimant was last in the workplace. I says that the claim should have been brought no later than 6 September 2021 but ACAS was not contacted until 20 September 2023 and the ET1 presented on 24 November 2023. It was 2.5 years out of time. The claimant says this was part of an ongoing state of affairs. The respondent refused to make reasonable adjustments, which led to her continued inability to attend work.
+22.2 By amendment, a further adjustment was proposed to the existing adjustments claim (12.1). The respondent says that this also relates to a PCP not applied since 10 June 2021 and that the date of proposed amendment was 8 March 2024, so the claim is almost 3 years out of time. The claimant makes the same arguments as above.
+22.3 Failure to make adjustments, relating to the physical features of the workplace (I indicated to the parties, and Ms Palmer agreed, that this could also be expressed as a PCP claim) (12.2). The timescales and arguments are the same as above from both sides.
+22.4 Racially discriminatory remarks from Ms Shah allegedly made on 24 January 2022 (9.6.1). The respondent says this is one year and two months out of time.
+22.5 9.6.2 the claimant accepted that these complaint was in respect of without prejudice communication and did not pursue it.
+22.6 Grievance outcome which the claimant asserts is disability related harassment, direct disability discrimination and victimisations (the protected act being the grievance) (9.7). The outcome was on 25 April 2022 and the respondent says was a year and a half out of time.
+22.7 The respondent accepts that reframing the return to work meeting of 23 September 2023 (9.5) was in time.
+
+23. The respondent submitted:
+
+23.1 The PCPs were not applied in respect of the adjustments claims since 10 June 2021. In respect of the overstimulating workplace, the claimant was not in the workplace from the same date.
+23.2 There is no common thread in terms of decision makers to connect the acts for them to be a continuing act.
+23.3 In terms of just and equitable extension, the respondent says that the claimant had the benefit of a trade union representative in the workplace and solicitors, for at least a period.
+
+24. The claimant submitted:
+
+24.1 There was a continued failure to make adjustments which made it impossible for the claimant to come back into the workplace. In this sense it was continuing.
+24.2 There was ongoing dialogue and formal process around adjustments.
+24.3 The claimant did not say that the respondent orchestrated all the acts, and could not point directly to an “unseen hand” behind the acts, but considered that she was deliberately discriminated against.
+24.4 The claimant says she has several different diagnoses of severe mental health conditions which adversely impacted her ability to put a claim in on time. Additionally, she says she has autism spectrum disorder, which affects her cognition and her executive function and hampered her ability to put her claim in on time.
+24.5 Addtionally, she sought to resolve her problems within the workplace before going to tribunal. Conclusions
+
+25. Looking again at the guidance in E v X, I am to consider “whether the claimant has established a reasonably arguable basis for the contention that the various act so linked as to be continuing acts, or to constitute ongoing state of affairs”. I bear in mind the “acute fact-sensitivity of discrimination claims and the high strike-out threshold”.
+
+26. I consider that the claimant has raised a prima facie case that there was a continuing act of discrimination. She says that the adjustments were continuously withheld, and that there was dialogue and formal process in respect of them over a period of time. The return to work meeting which she says was discriminatory was on the issue of a return to work, and this, arguably concerned the issue of adjustments not having been made.
+
+27. What is less clear from E v X is how to approach the issue of extension of time. By implication, I must consider whether the claimant has established a reasonably arguable basis for contending that it is just and equitable to extend time.
+
+28. The claimant says she was exhausting an internal process and that her mental health was not good. I am not determining the issue of whether it is just and equitable to extend time, but merely considering whether it is reasonably arguable that time should be extended, there are other issues which I take account of.
+
+29. It may be that in due course a tribunal does not accept the claimant’s contention that it is just and equitable to extend time on the basis of her ill- health and the fact that she was pursuing internal resolution of her complaints. However, for the purposes of a strikeout application on the basis of time limits, claimant has established that it is reasonably arguable that it is just and equitable to extend time. Matters such as the exhausting of internal process and the state of health of the party seeking the extension are the sort of matters of commonly advanced. Obviously, without determining the issues finally, they are certainly reasonably arguable.

@@ -1,0 +1,100 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+1. The respondent made unauthorised deductions from the claimant’s wages under section 13 of the Employment Rights Act 1996 and the claimant is awarded the sum of FIVE HUNDRED POUNDS (£500) payable by the respondent.
+
+REASONS
+
+Introduction
+
+1. This is a claim for unauthorised deduction from the wages of the claimant. It was agreed that the respondent had deducted a total of £500 from the claimant’s wages. The claimant accepted that he had been at fault when an accident occurred to the vehicle he was driving in the early hours of 1 June 2025, and that the damage was greater than the deduction. The deduction represented the insurance excess the respondent had to pay.
+
+8002332/2025 Page 2
+
+2. The hearing was originally fixed to be in person, but the Aberdeen Tribunal was closed and it was agreed with the parties that it be held remotely in light of that.
+
+3. Before the hearing I explained to the claimant and Mr Anderson, the owner and director representing the respondent, about the giving of evidence, cross examination and re-examination. Both the claimant and Mr Anderson gave evidence. The only documents referred to were exchanges of emails referred to below.
+
+The issue
+
+4. Having regard to what was agreed between the parties I identified the following sole issue to be determined: whether there had been unauthorised deductions from the wages of the claimant contrary to section 13 of the Employment Rights Act 1996.
+
+The facts
+
+5. I found the following facts, material to the issues before me, to have been established:
+
+6. The claimant is Mr Fraser Allan.
+
+7. The respondent is Central Taxis (North East) Limited. It is a limited company incorporated about 15 years ago. Mr Paul Anderson is its Managing Director. It is a taxi and coach business with about 150 vehicles and about 200 employees.
+
+8. The claimant was employed by the respondent as an ad hoc taxi driver from March 2022. He remains employed by the respondent. Neither at the time he joined the respondent nor later was he provided either with a written contract of employment, or with the Statement of Particulars of Employment required by section 1 of the Employment Rights Act 1996.
+
+9. On 20 February 2025 a notice was posted on an app used by the respondent which was accessible to their drivers. It had a “reminder of some of the company policies”. One of those had the heading “Damage to company vehicles” and stated:
+
+“Drivers who damage company vehicles will have to pay for
+
+damage up to £500 or what it cost the company. This will be taken from your wages.”
+
+10. The claimant did not read that notice at the time and was not aware of it until raised with him after the deduction referred to below was initially made.
+
+8002332/2025 Page 3
+
+11. On 1 June 2025 in the early hours of the morning the claimant was driving a vehicle of the respondent, and caused damage to it when reversing out of a narrow driveway in the dark. He hit a wall, and damage of £2,416.72 was sustained. The respondent had that repaired, and required to pay the insurance excess of £500.
+
+12. The claimant was at fault in relation to that damage.
+
+13. The respondent had not prior to that incident had any driver formally challenge their policy of requiring drivers who are at fault for damage to pay their insurance excess.
+
+14. The claimant informed the respondent of the damage shortly after it occurred. On 30 June 2025 his payslip showed a deduction of £100 in relation to that damage. The respondent had decided to deduct £100 per month over five months to meet the said excess. It had not informed the claimant of their intention to do so before effecting that initial deduction.
+
+15. The claimant exchanged messages with Ms Sue Grosvenor of the respondent on 3,8,10,19 and 30 July 2025 where each set out their position in relation to the deductions.
+
+16. After the said incident another accident occurred to a different vehicle, a minibus, and the driver involved in that has also challenged the lawfulness of the deduction made.
+
+17. The respondent intends shortly to introduce a new document to be signed by its employees referring to deductions from their wages in the event that they are at fault for damage, or wording to that effect.
+
+Submissions
+
+18. The parties each made brief submissions as to why their position should prevail. The respondent argued in very brief summary that it had been fair and that responsibility for what happened lay with the driver.
+
+The law
+
+19. There is a right not to suffer unauthorised deductions from wages under section 13 of the Employment Rights Act 1996. The material part of that section states: “An employer shall not make a deduction from wages of a worker
+
+employed by him unless –
+
+(a) The deduction is required or authorised by…..a relevant provision of the worker’s contract or 8002332/2025 Page 4
+(b) The worker has previously signified in writing his agreement or consent to the making of the deduction.”
+
+20. There are qualifications to that right under section 14 none of which apply to this case. The matter may be raised in an Employment Tribunal under section 23 of that Act.
+
+21. The EAT in Kerr v Sweater Shop (Scotland) Ltd [1996] IRLR 424 held that a notice issued at a factory was not effective in law to amount to a term of the contract. The notice required to be one individually given to the employee.
+
+22. The position with regard to the incorporation into a contract of employment of a term from custom and practice was considered by the Court of Appeal in two cases Garratt v Mirror Group Newspapers [2011] IRLR 591 and Park Cakes Ltd v Shumba [2013] IRLR 800. In essence it is whether the term is “reasonable, notorious and certain”. In the latter of those the court reviewed case law and considered the EAT decision of Quinn v Calder Industrial Materials Ltd [1996] IRLR 126 a decision of the EAT in Scotland. The Court of Appeal agreed with the general approach in that case, but qualified one element of Lord Coulsfield's judgment to the effect that how what was said or written would be viewed by the reasonable recipient of that was the test, rather than one of what had been intended.
+
+Discussion
+
+23. I was entirely satisfied that each of Mr Allan and Mr Anderson was a credible and reliable witness. They spoke with commendable candour, including in particular Mr Anderson stating that he could not specifically recall what he said to the claimant when the claimant joined such that he did not challenge the claimant’s evidence that that had not been raised with him at that point. Mr Anderson’s position was that there was a widespread practice which had not been challenged before the claimant did, that it was similar to a hire of a vehicle from a hire company that if there was fault one was responsible to pay for that, and that the company had been fair in how they had acted.
+
+24. I have concluded however that the respondent’s position is not correct in law. This is not a question of fairness. The respondent accepted that the claimant had not signified his agreement or consent to the deduction in writing before it was made, or indeed at any point. The respondent must therefore establish that it was a term of the contract.
+
+25. There are a number of difficulties with the respondent’s argument in that regard. Firstly there is no written contract of employment. There is no need for that in law, but there is a statutory duty to issue a Statement of
+
+8002332/2025 Page 5
+
+Particulars under section 1 of the Employment Rights Act 1996, setting out a form of minimum terms and conditions that apply to the employment. It is not itself the contract but can be evidence of the contract. That the respondent is in breach of that provision does not assist it in its argument, although that is not determinative.
+
+26. Secondly the respondent sought to found on a notice in an app. It was not produced as a document, but referred to in oral evidence. It however did not state that it was a term of contract, but that it was company policy. A company policy may or may not be contractual, and often in general terms is not. The use of the word “policy” rather than by reference to a contractual term is at the least ambiguous. If the intention had been to refer to it having contractual effect one would expect that to be stated specifically.
+
+27. Thirdly it was not one sent specifically to the claimant, but was as stated a notice on the app. In my view that is broadly equivalent to the factory notice in Kerr. The circumstances are not quite the same, but the basic principle it seems to me is, which is that such a more general notice to staff is not sufficient to have contractual effect. Here also the claimant said that he had not read the notice, and although Mr Anderson argued that there was something in the app to indicate that he had that had not been produced as one of the documents in the case and was not before me. I accepted the claimant’s evidence. That is a further reason for the notice by the app not to have contractual effect.
+
+28. Fourthly there was no evidence other than the brief evidence from Mr Anderson as to custom and practice in the industry as to recovery of insurance excesses where the driver was at fault. His evidence was almost entirely about the fifteen years’ experience of his company. There was nothing else provided by the respondent, either by oral evidence from someone else or any form of document, that supported the argument that there had been an industry custom and practice. In any event such evidence as to custom and practice does require to be sufficiently clear as to lead to a finding that it is a contractual term, and that evidence was I consider not before me. In addition the claimant’s evidence, including hearsay evidence from three other drivers he had spoken to, was contrary to that suggestion of industry wide custom and practice. It appeared to me that that point had not been proved by the respondent.
+
+29. Fifthly, and related to the last point, the claimant appears not to be the only person challenging this issue, as the driver of a minibus involved in a matter after that with the claimant is also doing so, and the respondent is in the process of introducing a new form. That step it is taking (and it may wish to consider the issue of the Statement of Particulars which at present
+
+8002332/2025 Page 6
+
+it appears to be in breach of) appears to me not wholly consistent with the argument that it is a term of contract in any event. If it is a term of contract, that is sufficient, and the introduction of a new form may suggest a view that it is not in the contract. It may perhaps simply be an exercise in prudence, such that it is not entirely inconsistent with that, but it is a further factor against the respondent’s argument.
+
+30. Sixthly this is not akin to a hire vehicle, or the principle that if damage is caused to property by fault the person doing so is liable in law, as the respondent argued. A hire vehicle comes with a written contract with terms as to liability for damage, a matter within judicial knowledge. In any event the hirer of such a vehicle, or someone generally at fault who causes damage, is not the same as a worker to whom the provisions of section 13 apply. Those provisions in effect qualify the common law position about liability for loss where there is fault.
+
+31. Having regard to all the evidence before me I concluded that there was no term of the contract between the parties permitting a deduction, and (as there was no other agreement signed by the claimant) the deductions made totaling £500 did not meet the requirements of section 13 of the 1996 Act, and were unauthorised accordingly. An award of that sum to the claimant is made in light of that. Entered in register: 14 January 2026 and copied to parties

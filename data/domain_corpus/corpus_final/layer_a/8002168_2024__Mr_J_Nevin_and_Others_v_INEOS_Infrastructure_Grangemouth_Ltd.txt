@@ -1,0 +1,811 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The Judgment of the Tribunal is that:
+
+1. the First, Second, Third and Fourth Named Claimants’ claims of unfair dismissal under Section 94 of the Employment Rights Act 1996 succeed; and
+
+2. the First, Second, Third and Fourth Named Claimants’ claims of automatically unfair dismissal under Section 152 of the Trade Union and Labour Relations (Consolidation) Act 1992 are dismissed.
+
+8002168/2024 & others Page 2
+
+REASONS
+
+1. In these combined cases the claimants bring claims of unfair dismissal under Section 94 of the Employment Rights act 1996 (the ERA), and automatically unfair dismissal under Section 152 (1) (b) and 152(1) (ba) of the Trade Union and Labour Relations Consolidation Act 1993 (TULCRA). A final hearing took place over 5 days from 3 until 11 November 2025, followed by written submissions on 2 December 2025. Mr O’Carroll, counsel, appeared for the claimants and Ms Forrest, solicitor appeared for the respondents.
+
+The issues
+
+2. It is accepted that the claimants were dismissed.
+
+3. The issue for the Tribunal in the section 152 TULCRA claim is one of causation. There was no identification of specific trade union activities or use of trade union services relied upon.
+
+4. It is the respondent’s position that the reason for dismissal in each case was misconduct.
+
+5. In connection with the Section 94 ERA claim, the issue is the reason for dismissal under section 94 (1) and, if that is established, the fairness of the dismissals under section 98(4) of the ERA. The dismissals are said to be unfair on the grounds that the investigation carried out was not reasonable by virtue of the conduct of the investigating officer; that there was no reasonable grounds on which the respondents could form their belief in the conduct for which the claimants were dismissed; and that dismissal was out with the band of reasonable responses.
+
+6. It was agreed given the potential complexity of the issues surrounding quantification of the claim that this hearing would deal with merits only.
+
+The Hearing
+
+7. For the respondents, evidence was given by:  Ms Tracy Harris - (TH), HP Partner, who caried out the investigation into Gary Brown (GB);  Mr Colin Spense (CS) - dismissing officer;
+
+ Karen Cambell (KC) - appeals officer; and
+
+ Ross Murdoch (RM) - appeals officer
+
+8. Each of the claimants gave evidence on their own behalf. In the interests of clarity, the claimants are referred to as follows:
+
+8002168/2024 & others Page 3
+
+ John Edmondson (JE);  Gary Smith (GS);
+
+ Jason Nevin (JN); and
+
+ Alan Snedden (AS).
+
+9. Evidence was also given by Lorna Roberston (LR) a full time Union Official with Unite.
+
+10. The parties lodged a joint bundle of documents.
+
+Findings in fact
+
+The respondents’ Grangemouth site
+
+11. The respondents are a large company operating a refinery and petrochemical site at Grangemouth. Part of the work carried out is loading and unloading tankers with hydrocarbons from a jetty. This area where this work is done is known as the Jetty/ Jetties and the Jetty Tank Farm.
+
+12. The Grangemouth site is rated as a Tier One COMAH (Control of Major Accident Hazards) site in consequence of the nature of the hydrocarbons dealt with. Health and Safety is a very significant concern for the respondents. The contracts of employment issued to each of the claimants contained a clause under the heading Safety, which emphasised the critical importance of Health and Safety and the employee’s responsibility to work safely for their own and others protections.
+
+13. Employees are given Spadeadam training on the hazard awareness on a hydrocarbon site.
+
+14. Parts of site at Grangemouth are zoned for an ATWEX perspective (a blast zone).
+
+15. The site is owned by Forth Ports. There is metal perimeter fence round the areas where plant and hazardous materials are situated. Mobile phones and ignition sources are not allowed inside the fenced area where the plant is located.
+
+16. The fence serves a security purposes. A road runs down the middle of the two fenced off areas of the site leading to the Jetties. There is a Forth Port security gate at the entry point to this road. On entry, photographic ID is required along with an indication of the purpose of the visit. Members of the public fulfilling that requirement can drive onto the road. A number of portacabins (the portacabins) are situated just off this road, outside the perimeter metal fence. The portacabins are in the Jetty Farm area. They are
+
+8002168/2024 & others Page 4
+
+used by contactors carrying out work for the respondents as well as respondent employees. The portacabins have 13amp electric sockets. Items such as kettles, computers and power tools are charged at the portacabins. The portacabins have been risk assessed for the purpose for which they are used. A smoke hut is situated beside the portacabins, where workers are permitted to smoke. The smoke hut has been risk assessed for this purpose. The portacabins and smoke hut are outside the blast zone.
+
+17. There are car charging points at the site headquarters, (HQ) which is situated approximately two kilometres from the Jetty area. Employees have to pay for car charging and be registered to use these points through HR. It is permissible to use a mobile manufacturers cable to charge cars at these sites. The charging points have been risk assessed but personal mobile charging cables used are not PAT tested.
+
+18. There are multiple GMPs (Grangemouth Manufacturing Procedures) which apply to work carried on the site. There are also multiple site standards, including a standard for Electrical Safety Standards, which runs to some 60 pages.
+
+19. The Electrical Safety Standards provide under Scope that they apply “within the fence site, non-operational buildings and installations outside the fence at Grangemouth.” It provides among other things (at Section 13), that there is a statutory requirement to inspect and maintain portable electrical appliances in accordance with a suitable code of practice. Section 13.5 sets out the inspection schedule for equipment. Section 13.4 provides that extension cables should never be used.
+
+20. Permits are required to carry out work on site. The issue of permits involves a risk assessment being carried out.
+
+21. GMP 30 (Management of Building Risk) and standard 44- A-012 (Standard for Temporary Buildings) states the requirements of permitting process, risk assessment and PAT testing.
+
+22. The respondents have what are called ‘Life Saving Rules’ which set out rules adherence to which significantly minimises the potential for fatalities. One of these is no consumption of alcohol or being under the influence of alcohol on company property.
+
+23. The Lifesaving Rules, site standards and GMP’s can be found by employees on the respondent’s intranet.
+
+HR/Disciplinary policy
+
+24. The respondents have an internal HR support. Thay have a human resources policy on Disciplinary Practice and Procedure (the Policy).
+
+8002168/2024 & others Page 5
+
+25. That policy provides for the role of HR in the disciplinary process, which is to provide guidance, attend meetings and help in preparing documents.
+
+26. The policy provides for imposition of a range of disciplinary sanctions from an oral warning; written warning; final written warning; and summary dismissal. It provides that an employee will not be dismissed for a first breach of discipline except in the case of gross misconduct.
+
+27. A non-exhaustive list of conduct which is considered misconduct includes
+
+under the heading: Health, Safety and Environment:
+
+- Failure to comply with health and Safety legislation, and company’s Health, Safety and Environment Policy and applicable safety regulations and requirements.
+
+28. Under the heading Poor Working Practices is included inter alia; Deliberate failure to reach the required standards of performance or carelessness as to whether or not to meet them.
+
+29. Under Property is included: Unauthorised use of company property for private purposes.
+
+30. A non-exhaustive list of conduct which is considered to be gross misconduct includes under Behaviour; Breach of an INEOS lifesaving rule; Physical violence inflicted on another person at work.
+
+31. Under Poor Working Practices is included accepting bribes and fraud
+
+32. Under Health, Safety and Environment is included;
+
+“Serious infringement of health and safety rules; and
+
+Serious negligence which causes or might cause unacceptable loss, damage or injury.”
+
+Unite the Union
+
+33. Unite is a recognised trade union. It had been recognised prior to 2014. Around 2014, the respondents took over the site from a previous operator following which there were industrial relations issued associated with terms and conditions of employment. Unite was derecognised in 2014.
+
+34. Unite were recognised again in 2017/2018.
+
+35. Unite union dues are not deducted at source from wages via payroll. The respondent organisation does not know which employees are members of Unite.
+
+8002168/2024 & others Page 6
+
+The claimants
+
+36. All of the claimants worked at the Jetty area of the site in the role of Availability Technician (AT) or in the role of managing ATs.
+
+37. In terms of hierarchy, the Deputy Shift Manager reports to the Shift Manager. The Shift Manager reported to the Plant Manager. The Plant Manager role was held sequentially by Neill McDonald (NMcD), Fiona Buchanan (FB) and Colin Spence (CS).
+
+38. JE, whose date of birth is 7 January 1978, had been employed by the respondents since 6 January 2001. At the point of dismissal, he held the position of Deputy Shift Manager. His direct line manager was Derek Anderson (DA), the Shift Manager. JE was a member of Unite.
+
+39. GS, whose date of birth is 26 October 1987, had been employed by the respondents since 1 August 2008. At the point of dismissal, he was an AT and had been stepping up to the post of Shift Manager for some time. His line direct was manager Colin Spense (CS), the Plant Manager. GS was the trade union representative for Unite and was the TU safety representative for Hydrocarbons.
+
+40. JN, whose date of birth is 25 February 1998, had been employed by the respondents since 18 August 2916 as an AT. His line manager was Martin Brolly (MB). JN was a member of Unite.
+
+41. AS, whose date of birth is 26 April 1981 had been employed by the respondents since 5 February 2018 as an AT. At the point of dismissal, he was a Deputy Shift Manager, reporting to Ross McLean. AS was a member of Unite.
+
+42. All of the claimants were aware of the significance of health and safety on the Grangemouth site. They all had undertaken Spadeadam training. They were all aware of that the respondents had GMP’s and site standards. They were aware that these were on the respondent’s intranet. Not all GMP’s were applicable to the work carried out by the claimants and they were not aware of the terms of all of them. There were a large number of GMP; GMP’s could be length and contains a great deal of technical detail None of the claimants was familiar with the detail of the electrical standard or GMP as it was not relevant to the work they performed.
+
+43. All of the claimants had clean disciplinary records.
+
+Gary Brown (GB) - investigation
+
+8002168/2024 & others Page 7
+
+44. GB was a Process Technician who was line managed by GS. GS had raised concerns about GB in the past. In November 2023 GB was reported to HR by GS as he suspected that GB had attended work under the influence of drugs or alcohol, in breach of a lifesaving rule. GB failed a with cause drugs and alcohol test on 19 November 2023 and was immediately suspended pending disciplinary action. While waiting for the result of this test, GB told Tracey Harris (TH) of HR that he had been called in for the test because he knew that people were charging their cars at the Jetty Tank Farm using a makeshift cable.
+
+45. TH contacted the Plant Manager Fiona Buchanan (FB), immediately after her conversation with GB and reported his allegations to her. Ms Buchanan was concerned about the health and safety implications of this allegation. Ms Buchanan spoke to with GS on the same day. He told her that he believed a few people had charged their cars at the Jetty Farm in extenuating circumstances. She told GS that it had to stop now and that he was to communicate that to the shift.
+
+46. FB sent an email on 14 November 2023 to the shift managers in the following terms: “I know I say we can't listen to rumours we should only deal with facts but in this case I am making an exception. There is discussion around individuals bringing in cables and charging up their cars from the cabins at the jetty tank farm. I am advising that if this is the case it is not acceptable and I wish you all to have a conversation with your teams advising this. There is no reason why anyone should be doing this especially due to the nature of the area we all work and the dangers that this could potentially bring. As I say I have nothing to substantiate this claim and if it is true it stops now. This could lead to further investigation and disciplinary action.”
+
+47. This was disseminated among the shifts and GS disseminated this information to his shift. Prior to the issue of this email there was no specific instruction to the effect that charging at the Jetties was prohibited
+
+48. None of the claimants believed they were acting in breach of an employer instructions, or doing anything wrong when they charged their cars at the Jetties before this email in November ‘23. JE believed from speaking to NMcD that he had given him permission to keep his car plugged in because of the fault in it; the other claimants made an assumption that car charging
+
+8002168/2024 & others Page 8
+
+was permitted to at least some degree. All of the claimants stopped charging their cars after FB’s email of November 23.
+
+49. GB was called to a disciplinary meeting, but was unable to attend for some time due to ill health, for which he presented fit notes.
+
+50. On 10 June 2024, GB was sent information about his disciplinary proceedings. On 24 June 2024, GB sent an email with photographs attached to Anthea Barret (AB) of HR and CS, headed ‘protected conversation’. In that email GB made a number of allegations about his work colleagues. These included that he had been bullied; people were watching TV on shift; and people were sleeping on shifts. He alleged that cars were being charged using homemade cables that ran 30- 40 feet from roadside to the mains transformer hub. A photograph of GS’s car charging at the Jetty area by the portacabins and photographs of employees standing on a desk and stretched out over chairs were attached to the email. GB alleged that GS encouraged him to sleep on shift and enclosed a WhatsApp message from GS.
+
+51. GB’s email contained the following: “I had a meeting with Terry and Anthea with regards to those within the union who only had thoughts of themselves and not for the whole collective.”
+
+52. It was decided that AB would deal with GB’s allegations from an HR perspective. Neill McDonald (NMcD) the Asset Manager, who CS reported to, appointed CS to investigate matters with GB.
+
+53. A meeting was held with GB on 10 July 2024 attended by AB and CS. In the course of that meeting, GB alleged that he was targeted by union members. He made allegations of staff sleeping on shift. He said that GS was the main culprit, but he was a union rep and was hiding behind the union.
+
+54. At one point in the meeting GB referred to an earlier meeting where he said he had brought matters to the attention of AB and Terry of HR. AB is noted as responding that “no evidence was brought to that meeting. It was a separate issue regarding the collective and union.”
+
+55. GB said the photograph he produced was of GS’ car and that it had been taken at the start of November 2023. GB said that GS, JE and JN had all charged their cars. He alleged that GS and JE made up the cable from materials in the electric store as no cable would stretch far enough. He alleged that the charging was only done on night shift and he likened it with him filling up his car with diesel from the site.
+
+56. GB said he spoke to Scott McDonald a shift manager about it and he told GB to take a photograph of the car charging.
+
+8002168/2024 & others Page 9
+
+57. Scott McDonald was not a member of Unite. He subsequently received a written warning for having failed to report the car charging.
+
+58. GB produced a WhatsApp message he had received from GS on night shift which contained an exchange from GS saying ‘Good Stuff. I will let you get bedded down then’ in support of the suggestion that GS encouraged people to sleep on night shift. GB said GS had a TV in the control room that people watched.
+
+59. GB was dismissed as a result of his failing the drugs/alcohol test.
+
+60. CS was shocked and felt outraged at the behaviours of members of staff alleged by GB.
+
+Investigation meetings
+
+61. Following GB’s interview, CS decided to call each of the claimants to an investigation meeting. He also conducted investigation meetings with the shift managers, MB, AD, Russell McLean (RMcL) and with Euan McKie (EM).
+
+62. CS had only ever conducted one disciplinary hearing prior to this.
+
+63. Letters were sent to GS, JE and JN on 11 and 12 July 2024.
+
+64. All of the letters contained the following: “As you are aware, a formal investigation is being conducted into allegations put forward regarding unsafe work practices and poor standards in the Hydrocarbons area, specifically the Jetties.”
+
+65. The claimants were advised that CS would chair the meeting and that they could be accompanied by a representative. They were told that it was an investigation and not a disciplinary hearing and that CS would decide what further action was necessary in line with the disciplinary policy. A copy of the disciplinary policy was provided.
+
+66. For each of the meetings, CS, AB and a note taker, Rachel Carswell (RC) were in attendance for the respondents.
+
+67. CS adopted a very robust and borderline aggressive approach to his conduct of the interviews with the claimants.
+
+JE investigation – 15 July 2024
+
+68. At the investigation meeting JE was unaccompanied.
+
+69. JE was asked by CS if he knew anything about an unofficial charging point in Hydrocarbons. He responded yes. He explained that when he got his car,
+
+8002168/2024 & others Page 10
+
+it had issues; on a cold day it was dead. It had to be recovered several times from the Jetties and it needed to be connected to a mains supply all the time. He said he spoke to NMcD, who was then the Plant Manager and asked if he could keep it running and that NMcD gave him permission for this. He said that he was not charging the car, it was just to keep the battery pack on.
+
+70. CS asked where he charged and how he reached it. JE said that he used a 13 amp socket and extension cable which ran from the kitchen unit. He confirmed where the charging was taking place the outside the portacabins He was later asked by CS if it was a makeshift cable. He responded that it was just an extension cable and it comes with the its own charger; it was 1.2 kw per hour charge.
+
+71. JE confirmed it was GS’s car in the photograph. He was asked who else was charging their car, but was unable to say. He was asked if GS has permission to charge, and said he did not know.
+
+72. JE was asked if charging was going on, would there be a safety implication? He responded that it was outside the safety line (the metal fence and zoned area), but that it was a smoke potential.
+
+73. JE said that DA was aware he had authorisation.
+
+74. JE was asked who was the first to use the charging site. He said it might have been him; he had spoken to NMcD about it and that DA would confirm it. Interview with Derek Anderson (DA) on 17 July 2024.
+
+75. DA was asked if he was aware of individuals charging their cars with makeshift cables? He said he “could not say charging; JE had spoken about charging points and spoke to NMcD ‘way back’” but NMcD told him there was no charging and DA was not getting involved. DA said he knew that JE spoke to NMcD about an issue with his car to do with charging. CS asked if NMcD gave approval to JE. DA said he did not know, he was not privy to NMcD’s conversation. He denied that NMcD had spoken to him about a conversation he had with JE.
+
+76. DA said he was not aware that JE had plugged his car in.
+
+77. DA was asked about safety issues around charging from an unofficial charging point. He said that if you plugged in unauthorised equipment, it was close to the smoke hut and if it went on fire it could spread outside the fence.
+
+Interview with NMcD on 22 July
+
+8002168/2024 & others Page 11
+
+78. This was conducted by Andy Hughes the Operations Director due to NMcD’s seniority. AB was present.
+
+79. NMcD said he had heard rumours that car charging was happening the previous year but there was no evidence This came from GB. He FB asked to send a note to the shift managers that it should not happen under any circumstances.
+
+80. NMcD was asked if he recalled a conversation with JE about his car issues and had he given him permission to run a 13 app socket and extension cable from the kitchen unit in the Portacabin. He said “absolutely not”. He recalled a conversation with JE regarding some issues with his car range and JE had asked if it was ok to plug it in, to which he had said no and told him that that area did not have the necessary infrastructure; if there was a demand for people charging their cars then it would be looked at.
+
+81. NMcD said he remembered a conversation with DA where he told DA that he and JE had discussed electric car charging infrastructure in Hydrocarbons. Interview with Russell McLean (RM) (Deputy Shift manager) on 11 July 2024
+
+82. On 11 July 2024, Russell McLean (RMcL) was interviewed by CS with AB and a note taker. He said that GS has charged his car, but did not know who else had done so. He alleged that he had seen GS watch the TV.
+
+83. CS was noted as asking if RMcL had seen unsafe practices to which he responded no. CS went on to ask RMcL if he was clear on accountabilities as a supervisor and if he enjoyed his job as shift manager? CS showed him a picture again sent in by GB and asked if he would still say employees were not sleeping? AB asked him questions for him about the culture at the Jetties. She also asked him why GB had made the allegations. RMcL’s response is noted as being to the effect that GS had told serious lies before. He surmised that GB wanted to get GS ‘back’ for reporting him.
+
+Interview with Gary Smith (GS) on 11 July 2024
+
+84. GS was taken by CS to the allegations that GB had made and asked about them. He had not anticipated that these were matters which were going to be raised. He had approached the meeting as part of a broader investigation into what he thought were workplace rumours.
+
+85. The photographs submitted by GB and the allegations in his email were put to GS. He denied being aware of technicians purposely sleeping on shift. He was shown his WhatsApp message and asked to explain it. GS said ‘bedded down’ was a joke; it meant just to get comfortable and the wording was wrong.
+
+8002168/2024 & others Page 12
+
+86. GS said he knew the TV was there but denied it was his.
+
+87. CS asked him what was his involvement in the unofficial charging point. GS said he could not say; he did not have any involvement in it. He said he had potentially once charged his car. He said that he came in once with only 10% charge and used his cable through the contactors’ fob window to get some charge. CS put to him that he had charged on site? GS said it was not on site.
+
+88. CS asked if GS understood the implications of charging a car at non-proper charging point? GS responded that it was designed to do that and the car only charges at 8amp. He said he had ‘no justification’. He was desperately needing to do it to get home and his understanding was that if you were in a stuck position, then it would be okay to do that. AB asked who told him that? GS said that he heard that someone asked at a town hall meeting, there was no plan for a charger. Someone asked about topping up charge to get home, and it was said they would look at that. GS accepted that it was never official. He accepted there was no permission to charge his car, but suggested that possibly people drove past it.
+
+89. CS asked what qualification and experience in electrical background GS had to ensure there was no fire risk? GS said he had no qualifications and made an assumption. He accepted it was his car in the photographs. AB asked if he only charged his car once. GS said it was once or twice. CS asked GS if he knew the serious implications of that going wrong, and wondered what he was thinking? GS responded that it was a serious error of judgment and he was just thinking about getting home. He explained that his house was 6 miles away. It was put to him he should have charged before work and responded that he did not want to miss the handover by stopping to do that.
+
+90. GS asked if anyone else did it, GS provided the names of JE and AS.
+
+91. GS was suspended after the investigation meeting on 15 July 2025.
+
+Interview with Jason Nevin (JN) on 19 July 2024
+
+92. JN attended this meeting accompanied by Ruth Swan and Stuart Smith, Union Conveners.
+
+93. CS advised JN that the purpose of the meeting was to investigate a specific allegation regarding him charging his car at an unofficial charging point and asked him if there was any truth in this.
+
+94. JN responded that he had done it once. He accepted he did not have authorisation, but had heard from others that it could be used until a full charging unit could be installed. JN said he saw a cable lying around and he used it. CS asked him when this happened, to which JN responded he was
+
+8002168/2024 & others Page 13
+
+not sure when, but it was just one day. He was asked about the safety implications to which he responded was not sure. He said that the charging occurred outside the site.
+
+95. JN said that after the email from FB in November he had not used the charging point. He said in hindsight it was ‘silly’ but that FB had confiscated the cable and dealt with it. Interview with Alan Snedden (AS)- 19 July
+
+96. This interview took place by Teams as AS was on holiday.
+
+97. Early in the meeting, CS asked if AS had authorisation to charge at the Jetties AS responded that he did not have direct authorisation but that he knew others had been charging long before he did. He said it was just an accepted practice and he only did it once or twice. He said that he never saw anyone charge, but knew the cable was there and there were rumours of people using them. He said he saw the cable on top of the locker and only used it a few times. It was put to him that this was not an official charging point and it was makeshift? AS responded ‘yes’. CS asked what was it made off? AS said he was sure how it was made up; it was plugged in at night.
+
+98. AS accepted he only used it on nightshift. He said he first did it in March 2023. He was suffering from range anxiety shift and only had 15 miles of charge left to get home. He said it stopped after GS told them about the FB email.
+
+99. CS asked if he thought at any point he should not be charging his car there? AS responded that it did from time to time play on his mind as he knew it was stupid and with hindsight it was daft from a safety point of view. He was asked about the safety implications and said it was ‘fire and all sorts’.
+
+Interview with Martin Brolly (MB) – 22 July 2024
+
+100. When asked about the safety implications of unofficial car charging, he said it was a fire risk. He was told it was only ever done it night shift and asked what he thought if that. He said there were more chance of being caught on a day shift and it did not look great.
+
+Interview with Euan McKie (EM) on 17 July 2024
+
+101. EM said he thought he had quite a good relationship with GB.
+
+102. He said he had heard rumours about guys car charging their cars over the last year or so. He said it was GS and EJ. He expressed the opinion it was theft. He was asked about the implications of charging from an unofficial
+
+8002168/2024 & others Page 14
+
+charging point. He said he was not saying it would burst into flames, but it was unpredictable. He said he doubted NMcD or FB knew about it.
+
+Interview with David Hartly (DH) – 25 July 2025
+
+103. GB’s allegations were put to DH. He was asked by CS to look at the photographs submitted by GB again and asked if he knew any of the employees?
+
+104. DH respond that he did not. It was noted that CS put it to him: “So you want to pursue your career in shift management of which being truthful and honest are many values, so are you sure you don’t recognise anyone?”
+
+105. DH was later in the interview asked about car charging. He said he did not know about it until after November 2023. Asked about the safety implications, he was noted as saying that the car in the photograph was parked on the blaze so potentially there was a cable there; if it charging into a portacabin there was a risk of fire; the respondents were importing ethane; and any incident obstruction to emergency services. Asked what if it went on fire, he responded that the VC unit was massive and it was ‘horrendous’. He said if he caught someone on his shift doing charging, he would report it straight away.
+
+Disciplinary action against the claimants
+
+106. At the end of the investigation, CS prepared a document in which he outlined “allegations” alongside “conduct, comments and evidence” against each claimant. The allegation against all the claimants was car charging. Against that allegation, CS noted “Conduct; Gross Misconduct” based on poor working practices - fraudulently using company’s electricity. Serious infringement/ disregard for health and safety rules and regulation.”
+
+107. In JE’s case, CS added “breach of trust having lied about authorisation to charge” under conduct.
+
+108. In GS’s case, the allegations also included: ownership of TV; name calling/inappropriate behaviour; covering up light; and encouraging sleeping. Unacceptable behaviours/ conduct was added to the conduct. Evidence was recorded as GB’s notes and photographs and RM’s notes.
+
+109. The comment against all the claimants was “Proceed to Disciplinary”.
+
+110. CA considered the ACAS Code, which recommended a separation of the investigatory and disciplinary function, to be guidance only and that he was the direct link between the investigation and disciplinary process.
+
+8002168/2024 & others Page 15
+
+111. By the conclusion of this investigation, CS formed the view that each of the claimants had used an unofficial charging point using makeshift cables while on night shift and that they did not have permission or authority to do so. He accepted NMcD’s statement to the effect that he had not given JE permission to plug in his car. He considered that DA’s statement supported this, and that JE had not been truthful about having permission to plug his car in from NMcD. He considered that JE had committed a breach of trust because he lied about having authorisation to charge his car. He placed considerable of weight on the fact that none of the claimants had come forward when FB sent her email on November 2023, advising that they had permission to charge or that they had been charging their vehicles. He considered that fact they did not do so demonstrated that they had no permission to charge their cars.
+
+112. CS considered that there were serious infringements and disregard for health and safety rules and regulation in the claimants charging cars in this way. He formed the view that the claimants had only charged their cars at nightshift so that they were less likely to be caught out. He also concluded that in having charged their cars the claimants had been fraudulently using the respondents’ electricity. He categorised the use of electricity as ‘poor working practices’.
+
+113. CS also considered that GS’s conduct had been unacceptable and that his trust and integrity came into question.
+
+114. By the conclusion of the investigatory process and prior to the disciplinary hearings taking place, CS had formed a view that each of the claimants was guilty of gross misconduct and going to be dismissed.
+
+115. CS conducted the disciplinary hearings for each of the claimants.
+
+116. They were all invited by letter to attend a disciplinary meeting. These took place on 31 July 2024. JN was first, followed by GS and then EJ. AS’ meeting was on 13 August 2024 because of holidays.
+
+117. The letters inviting the claimants advised that CS would chair the meeting and they could be accompanied by a workmate or TU representative.
+
+118. There were three Plant Magers and three other Mangers at Grangemouth of a sufficient Grade to conduct the disciplinary hearings.
+
+119. On 31 July AB emailed an Aileen McKinnon asking her if there a policy of car charging. Ms McKinnon responded on 1 and then 7 August advising there was no charging policy, but that they had not authorised anyone to charge other that at the HQ chargers.
+
+Disciplinary Hearings
+
+8002168/2024 & others Page 16
+
+120. All of the claimants were invited to a disciplinary hearing. The letters calling them to attend advised the disciplinary charges against them were:  “Serious infringement/disregard for health and safety rules and regulation  Poor working practices - Fraudulent use of company’s electricity.”
+
+121. The letters advised that if the charges were upheld, they could be dismissed. All of the claimants were provided with a copy of GB’s meeting notes and their own investigation meeting notes. JE was also provided with investigation notes for NMcD and DA.
+
+122. In JE’s case, breach of trust was added to the charges. In GS’ case, ‘failure to reach the required standards’ was added to the other two charges.
+
+123. AD and RC were in attendance with CS, who conducted the hearings and who was the decision maker at all of the hearings for the respondents.
+
+Disciplinary hearing of JE on 31 July 2024
+
+124. JE attended accompanied by Mr Stuart Smith of Unite. AD and RC were in attendance with CS for the respondents.
+
+125. JE advised he had mixed up the timings: his car was 1 year older than he had initially said and he realised this when he saw NMcD’s statement. He produced the repair work invoice from Audi to support this.
+
+126. JE said he used his official Audi charger. He also said he had never left this at the Jetties.
+
+127. CS put NMcD’s denial of a conversation granting him permission to JE. JE responded that his recollection was the conversation was only to plug in the car. He had his own Audi supplied 13amp charger and looking to plug in at south gate. NMcD said it shouldn’t be a problem. JE said that at no point did he recall NMcD saying anything about the infrastructure. He said it was a long time ago and our recollections might be watered down. He said that if he had taken it the wrong way as a yes then he was sorry.
+
+128. CS put to him that he had said that DA knew that you had authorisation, however, when asked he could not confirm that.
+
+129. JE responded that he thought he had asked him but maybe he had not done so. CS said that NMcD’s statement is that DA was not in that conversation but he had spoken to him about JE plugging it in his car, however DA denied this conversation taking place. JE suggested why would he risk it if he did not have permission? It was put to him he would have been better to get an
+
+8002168/2024 & others Page 17
+
+email of approval. JE indicated that in hindsight there was no denying maybe he should have.
+
+130. CS asked if JE was aware that all electrical equipment used on site needs to be PAT Tested. JE was not aware of this; he simply knew PAT tests were carried out was for safety. He explained that the Audi cable has a thermal cut off on it. JE explained that his car will take a slight charge, it would be minimal as it was just to kick start it. He assured CS that he was not using a makeshift cable. He also said it was plugged in at night time because it was cold.
+
+131. CS asked JE if he had any mitigating factors to take not consideration? He said that FB had drawn a line in the sand about it; he accepted upon the FB email being read out that his understanding was based on hearsay. He said GS had told him about the email.
+
+132. JE also said that the changing point was outside the fence on a public road. He also indicated that he had good references and appraisals he could provide to CS.
+
+GS disciplinary hearing on 31 July 2024
+
+133. GS attended accompanied by LR of Unite.
+
+134. GS said that from his understanding, he did not think there was anything wrong with charging his car as it was off site and he was using his own manufactures cable, therefore, he thought it was safe to do so. He also was under the impression that permission had been given in extenuating circumstances to charge when the car was short of charge. He said he thought to was safe relying on his own experience as in multi skilled apprentice course covering electric wiring. He had also given CS a note which he had obtained from Nick Kearney, who was a trained IE Technician on site regarding the use of cables, which supported his position.
+
+135. SC asked GS if he was aware that everything needed to be PAT tested. AB said that everyone at HQ understood this, and that she needed it for her hair straighteners.
+
+136. GS said it was an emergency. He denied using it several times and said he only used it twice. He denied using an extension cable; he said he used the official cable and it was plugged into the wall. GS had his manufacturers cable with him and showed this to CS.
+
+137. Asked why it was only done on nightshift, GE explained that his wife had used the car that day and it was low on charge. Asked why he did not use the charging points at HQ, he said that he could not remember if he was registered to use them. He only had 10% charge and it would take 3 to 4%
+
+8002168/2024 & others Page 18
+
+charge to get to HQ. LR said that the fact that his car was charging at the road into the Jetties indicated that there was no intention to hide matters.
+
+138. GS was asked how he was going to pay for the company’s electricity and responded he only used the charger twice.
+
+139. GS was asked why GB would make these accusations. He responded that he had considered that he had a good relationship with GB. He attributed GB’s actions to the fact that he had reported him for attending work under the influence of alcohol.
+
+JN disciplinary hearing - 31 July 2024 (P358)
+
+140. JN was accompanied by Mr Stuart Swan, a Unite Representative.
+
+141. CS asked why JN though that the charging at the Jetties was a temporary measure until an official charging point could be installed, and who told him this? JN responded that he could not remember exactly; 2 or 3 years previously, people started to get electric cars and had asked about getting chargers installed. He had seen other cars in the area and thought it was allowed.
+
+142. CS asked if he thought that, why did he not do it openly and only do it at night shift? JN replied that he did not do it on night shift; he did it on a Monday day shift.
+
+143. Asked if he had changed his position on the safety implications, JN said no, he had not picked up during the investigatory meeting that it was being alleged that makeshift cables were being used. Having read GB’s statement, now he picked up that he was saying that it was makeshift cables. JN had thought that the charging point was something which had been installed as a temporary measure. JN thought it was ok to charge his car as you can smoke and charge your phone in that area. He did not know it was an unofficial charging point.
+
+144. CS asked if JN checked if the cable had been PAT tested. He said he did not think at the time to PAT test. JN confirmed that his supervisor only spoke to him about it when FB’s email was sent in November 2023.
+
+145. JN provided a character reference from Mr Neil Notley, an Area Specialist in the energy team of 30 years’ experience, who had worked with the claimant, and who confirmed that the claimant was always safety focused in his work. CS asked why he displayed such poor judgment on this occasion? JN responded that if he had known it was unofficial, he would never have used it and would have reported it.
+
+8002168/2024 & others Page 19
+
+146. JN was asked by CS if he charged there because he was defrauding the company and did not want to pay for electricity? JN responded that he would never have done that and his car uses so little electricity that he would not have saved any money. He said he was not a thief.
+
+147. JN did say that he was naïve for not thinking more about it beforehand; he should have paid more attention even if it was outside the fence. He had made a mistake and should have asked. If he had known there was a possibility that it was a makeshift cable, he would have reported it immediately.
+
+AS disciplinary meeting – 15 August 2024
+
+148. AS attended with LR. His hearing was later that the others because of holiday arrangements. By the time his hearing took place, the other claimants had been dismissed.
+
+149. He accepted that he knew about PAT testing. He reiterated that he had range anxiety about his electric car.
+
+150. CS put the statement made at the investigatory hearing to the effect that from a safety point of view it was “daft” and that it played on his mind to AS and asked AS if he knew about PAT testing. AS accepted that he did know about PAT testing.
+
+151. LR advised she had carried out some research, and other people use their own and manufacturers cables, which are not PAT tested.
+
+152. CS said that AS had accepted the cables were makeshift in his investigation meeting. LR said the cabled used were manufactures cables. She made the point that manufactures cables are used at the official charging point, to which CS responded that those charging point are risk assessed. LR went on to say that if GS and JE were manufacturing cables. it would be a huge risk, but that was not the case. She reiterated that the location was outside the perimeter fence.
+
+153. LR also said that Tusker (a car supplier for the respondent’s company cars) did not have any cars which went on fire. She said from speaking to AS she knew that individual permission to charge had not been given other than JE, but that there was an assumption that NMcD had okayed it for emergencies. She also pointed out what she thought was an inconsistency in the statements of NMcD and DA about having had a conversation about JE speaking to NMcD about charging his car.
+
+154. CS said the electrical safety rules apply in and outside the fence. He also said he had an email from the facilities manager stating that he would have concerns about anyone just plugging in unless this was confirmed as being
+
+8002168/2024 & others Page 20
+
+okay by the asset engineers as otherwise there was a risk of overlading the buildings circuits.
+
+155. LR asked “what about plugging electric bikes batteries in at HQ?” CS denied any knowledge of this.
+
+156. LR said all the allegations were against GS and his friends on the shift and they were motivated by GB trying to get back at him.
+
+Disciplinary Outcomes
+
+157. At the conclusion of each disciplinary, after a short adjournment of around 10 minutes in each case CS delivered his decision to dismiss the claimants. The decisions were delivered in similar terms. All of the claimants were dismissed with notice. CS sated that given the serious nature of the charges, this would normally be a summarily dismissal, but that notice would be paid because of the circumstances in which the allegations were brought to the company’s attention. In AS’s case, the notes record that CS stated that there was no real material presented at the disciplinary hearing for him to change his mind.
+
+158. With the exception of AS, they all received letters on 31 July 2024 confirming the decision. AS was dismissed by letter dated 16 August 2024.
+
+159. CS recorded findings in respect of JE, GS, JE and AS, which he stated were based on the information gathered during the investigation meeting and the discussion at the disciplinary hearing. In respect of all the claimants, he found:
+
+- In charging their vehicles, they failed to consider any safety implications and demonstrated a serious disregard for the site s health and safety rules which could have had serious implications.
+- By charging their vehicle in an unofficial capacity, they made fraudulent use of the company s electricity
+- They showed poor judgment in their decision making.
+
+160. For all the claimants, apart from JE, he found that they had charged their cars without permission to do so.
+
+161. In JE’s case he found that he had knowingly plugged in a faulty vehicle without proper consideration for safety. He did not accept that he had a conversation and permission from NMcD to do so, on the basis that he had no proof of this and NMcD denied the conversation taking place.
+
+162. In the case of GS. he also found that:
+
+8002168/2024 & others Page 21
+
+“You were aware that others had been charging their vehicles and watching TV whilst on shift, you failed to challenge this or take action, and therefore you have failed to meet the required standards of a manager.”
+
+163. In the case of JN, CS additionally noted that: “Having revisited your investigation interview and that of the disciplinary hearing, your reasons for using the cable do differ, which then makes me question your integrity and whether you have been completely honest during
+
+this process.”
+
+164. In all cases, CS stated that he concluded that given the high risk nature of the activities on site and in particular the Hydrocarbons Asset, he had to act with a duty of care and ensure compliance with the respondents H&S rules which are of paramount importance to a top tier COMAH site. He stated that having considered the relevant evidence available in relation to the allegations, his finding in each case was that the allegations of gross misconduct were upheld for the following reasons: the charges of:  Serious infringement/disregard for health and safety rules and regulation  Poor working practices - fraudulent use of company’s electricity.
+
+165. In GS’ case, “failure to reach required standards” was added to this.
+
+166. CS did not uphold the breach of trust charge against JE.
+
+Appeals
+
+167. All of the claimants decided to appeal. By this stage, they all had trade union assistance and were assisted in drafting the letters of appeal.
+
+JE, GS and JN appeals
+
+168. KC was appointed to deal with the appeals from JE, GS and JN. KC was the central site manager and was a senior and long serving member of staff, however, this was the first appeal she had dealt with. She was not familiar with the terms of the ACAS Code.
+
+169. KC’s appeal hearings took place on 15 August 2024.
+
+170. RM was appointed to deal with AS’s appeal.
+
+171. Each of the claimants was accompanied by LR. KC was accompanied by an HR business partner.
+
+172. Both appeal officers understood their function was to review the discussion to dismiss.
+
+8002168/2024 & others Page 22
+
+173. There were common elements to the appeal submissions from JE, GS and JN. These were that conflicting statements have since come to light which had not taken into account; new supportive safety evidence had been obtained around previous car issues; inequity of treatment around safety of charging cables across site; and that the sanction of dismissal is too severe.
+
+174. JE’s letter of appeal was emailed to NMcD on 6 August by CS. JE appeal
+
+175. JE’s letter of appeal was read out at the start of the hearing.
+
+176. Much of what was said earlier in the process was gone over again at the appeal. LR made submissions to the effect it had occurred three and a half years ago. Makeshift cables were not used and that JE was told by NMcD that he had permission. If JE had been told no, he would never have done it. After FB’s email, neither JE or any of the other claimants charged their
+
+cars
+
+177. LR stated the cables did not need PAT testing; they have their own circuit breakers; it was no different to charging a mobile phone or an electric bike battery; there was no record of Tusker cars going on fire.
+
+178. LR also raised the manner in which CS had conducted some of the investigatory and disciplinary hearings, which was said to be very intimidating and misleading and cited some examples of this such as the question to DH about his career after he failed to identify individuals in a photograph.
+
+179. LR also raised that the four claimants seemed to be friends with GS and that GB had an anti-union agenda. GB had been collecting a dossier for 6 years; he was known to have told lies before about serious matters, and he was heard to say he would ‘get’ GS.
+
+GS appeal
+
+180. The basis of GS appeal was set out by KC. In his case these also included that the finding that GS failed to meet the required standards of a manger did not take account to the timing of alleged infringements
+
+181. LR submitted that CS said NMcD denied giving JE permission. NMcD said he had spoken to DA, but DA was not aware of this and it was a false statement. JE had been given approval. It was GS’s understanding that if you were stuck you could use it. He needed charge to get home; he only used it twice.
+
+8002168/2024 & others Page 23
+
+182. The cable was brand new and did not need PAT testing. It was a manufacturer and not a makeshift cable. The location was off site and not classed as a hazardous area. It was next to a smoke hut and contractors used it to charge tools. He was off the road and off the site. He was asked if he did a check 5 or SIMPOs check. GS said this was not necessary. He did a dynamic risk assessment and it was a normal 13app plug. He changed for 1 hour max, and the car charged at 3Kw per hour.
+
+183. GS did not accept it was fraudulent use of electricity and offered to pay back the cost which would be in the region of £2-3. KC had no idea how much electricity had been used.
+
+184. GS advised that GB reported the car charging after he had reported GB for bring under the influence of alcohol at work. When approached by FB, GS said he had not admitted to charging his car, but said that some people had done it. They were told to stop and everyone did.
+
+185. KC asked if GS had considered the serious health and safety implications and he explained those to his team. GS responded that he did not see any serious health and safety concerns, and went over his reasons for this (it was not on site/ not in a hazardous zone/ other equipment is charged there).
+
+JN appeal
+
+186. JN’s grounds of appeal were read out by KC.
+
+187. Much of what was submitted reflected what had gone before during the disciplinary process with regard to permission to charge, the location outside the hazardous area and the use of manufacturers cables, and what was said in the other appeal hearings. JN reiterated that he had not charged his car after FB’s email. LR pointed out the Cl’s length of service and the combine service of all the claimants (80 years) and the fact that they all had clean disciplinary records.
+
+KC’s investigations after the appeal hearings
+
+188. After the appeal hearings, KS carried out some investigation in order to identify the rules or standards that the claimants had breached and the extent of the risk associated with their actions.
+
+189. She contacted Stuart Baird, the Electrical Power Distribution Manager, who had expertise of the electrical aspects of the respondent’s work.
+
+190. KC emailed him on 15 August 2024 asking for electrical guidance into the potential severity of risk associated with unauthorised charging vehicles within a top tier COMAH site. She advised him that the charger was plugged directly into a 13 amp plug point and not via a generator. KC asked if he
+
+8002168/2024 & others Page 24
+
+would be willing to provide some written background and context based on site standard and safety implications associated if a charger, either manufacturer supplied, or adapted by individuals was being plugged into a temporary cabin. She provided him with the location of the cabin on a map, and asked if he could provide her with the GMP standard that may have been breached when carrying out this activity.
+
+191. Stuart Biard responded, providing detailed information about sockets on site. He also stated: Conventional 13A socket outlets are not rated to supply the high current draw of EV charging for extended periods. Doing so runs the risk of the socket outlet overheating, going on fire or melting insulation presenting a risk of electrocution. We have site experience of this for applications with a lower power demand than EV charging (particularly portable heaters) whilst not directly situated in a zoned area from an ATEX perspective, the charging location is still in close proximity to process equipment and a fire could have impacted on this.
+
+……
+
+A non-standard cable (whether modified, extended or otherwise adapted manufacturers cable, or a completely different cable) is inherently uncertified and unsafe for use. Manufacturers cables are type tested to BS EN 61851 and 62196, however modified cables are non-compliant with these standards. Particularly important is that manufacturers cables have specific measures to protect against the risk of electric shock in the event fault (on either the car or the cable) whereas a non-standard cable do not. Other protective measures such as built in mechanical protection are present on manufacturers cables which are unlikely to be present on non-standard cables (or of the equivalent level of protection). In terms of site standard, 12-A-001 Standard for Electrical Safety Rules covers the use of portable electrical equipment (section 13) that would apply to the charging cables under the Electricity at Work Regulations 1998 Section 4. This would require the charging cables to be formally inspected by a competent person prior to being put into service. Also, 12-A -036 Standard for Temporary Electrical Installations section 11 covers user checks which would require to be completed on a daily basis. Both standards are linked to GMP -32 Electrical Management particularly close 6.4.1..”
+
+192. KC issued all of the appeal outcomes on 19 August 2024.
+
+193. She did not accept that there was any conflict in the statements of DA and NMcD.
+
+8002168/2024 & others Page 25
+
+194. She considered nothing turned on what motivated GB to report the matter as the claimants had all accepted they charged their cars at some point. She did not conclude that permission had been given by NMcD to JE, as she though there was no evidence of his. She did not however believe JE but nor did she conclude that he was lying at the appeal. However, she concluded that none of the claimants had permission to charge their cars. She did not form a clear view as to whether any of the claimants had changed their cars after FB’s email, and did not make any findings about this.
+
+195. KC took into account that as part of a competency matrix all of the claimants would have had training on certain GMP and that the GMP’s were there for all to access on the internet. She considered that the submission that the charging occurred outside the fence line showed a lack of understanding about the implications of a top tier COMAH site. She concluded that the charging took place outside the blast zone but between two hazardous areas. There was no risk assessment or permit obtained for charging. She considered that the submissions regarding the smoke hut could be discounted in that the smoke hut had been risk assessed for that purpose.
+
+196. KC did not accept that there was any inequality of treatment in terms of cable use across the site. She did not consider plugging in a mobile phone was the same as charging a car. She relied on the information provided by Mr Baird to support this, and to support her conclusion that there was a serious health and safety risk associated with the claimants’ actions. She also took into account that she considered the portacabins were portable appliances, subject to particular regulations. She considered it fundamental the claimants had plugged their cars into a portacabin on a top tire COMAH site. She also considered that the claimants did not accept the health and safety risk of their actions. She did not consider in light of the evidence she had, and the potential consequences of the claimants’ actions, that it was fair that the claimants should be given a second chance and she therefore upheld CS’s decision to dismiss.
+
+197. In JN’s case, on basis of the evidence, KC did not conclude that JN had been dishonest, and reflected that in her outcome. She considered that he had been honest with her at the appeal.
+
+198. Subject to some minor variations, KC wrote to each of the three claimants in very similar terms confirming her decision. In all cases, she sated she upheld the original decision to dismiss. She relied directly on Mr Baird email and the regulations cited in her appeal outcome letters to support her decision.
+
+199. The outcome letters all stated inter alia:
+
+8002168/2024 & others Page 26
+
+“It was perceived that charging of EV vehicles at HQ was ‘no different’ to charging via a portable cabin at the Jetties. The EV chargers at HQ are fixed and not portable, therefore classed under BS 7671: 2018+ A2;2022 clause 722.55.101.0.201.1, Requirement for Electrical Installations. This is different to GMP 32 standard 12 -A-001, Standard for electrical safety rules and GMP 3044 a 01/2 standard for temporary buildings therefore no evidence and upheld. ….. INEOS Site Electrical Standards (GMP32 and Electrical management and 12-A-001 Standard for Electrical safety rules) covers the use of Portable electronic equipment (section 13) which covers the charging cables under the Electricity at Work Regulations 1998 Section 4. Standard 12-A -036 Standard for Temporary Electrical Installations section 11 covers user checks which would require to be completed on a daily basis. Both standards are linked to GMP -32 Electrical Management particularly close 6.4.1. GMP30 (management of Buildings and Risk) and standard 44-A-012 (Standard for Temporary Buildings) states the requirements of permitting process is, Risk Assessment and PAT testing. Any variations of the permit associated with temporary buildings must be in accordance with the process outlined in 44-A-012 OPUK. Your belief is that the location of the cabin was safe as it was outside the Factory fence and not in the hazardous area. However, whilst not directly situated in a zoned area from an ATEX perspective, the charging location is still in close proximity and in the blast zone to process equipment. Conventional 13 A socket outlets are not rated to supply the high current draw of EV charging. Doing so runs a risk of socket outlet overheating, going on fire or melting insulation presenting a risk of electrocution There was no evidence of compliance against any of these standards or site process which demonstrates a serious disregard for the health and safety rules and regulations.”
+
+200. KC’s outcome letter did not make any reference at all the charge of fraud. She omitted to make any reference of this as she did not consider it merited a specific mention as was not, in her view ‘evidence based’.
+
+201. In GS’ case, KC’s outcome letter stated that she acknowledged that there was insufficient evidence to substantiate the findings of failing to meet the standards of a manager.
+
+202. On basis of the evidence, KC did not conclude that JN had been dishonest and reflected that in her outcome. She considered there was nothing in the
+
+8002168/2024 & others Page 27
+
+evidence she had to support this conclusion, and she considered that he had been honest with her at the appeal.
+
+203. KC accepted that JN said he had charged his car during the day, but did not consider that made any difference to matters.
+
+AS appeal
+
+204. AS’s appeal was held on 9 September 2024 because of holiday arrangements. RM was a procurement manager and was also a senior member of staff with 4 years’ experience. This was the first disciplinary hearing or apparel he had dealt with. He was unaware of the terms of the ACAS code.
+
+205. AS was accompanied by LR. RM was accompanied by TH.
+
+206. All of AS’s grounds of appeal were discussed in the course of the hearing.
+
+207. The first ground was that there was no reasonable belief that he was responsible for the misconduct for which he was dismissed. AS said he did not think the process was fair the other claimants had been dismissed before his case was dealt with and he knew what was coming. Consistency had been cited as a reason for dismissal and individual circumstances were not taken into account. He also cited the fact that he had been honest
+
+208. The second point was that there was no through or honest investigation or disciplinary process. AS raised that statements had been made about “electric stuff” but there was no qualified electrician to give evidence or say how dangerous it was. He raised the fact that the cars were supplied via the company with 13 amp plug chargers and he could charge this at home.
+
+209. The third point was that the decision to dismiss fell out with the band of reasonable responses. LR referred to the disciplinary process policy submitting that the conduct should have come under misconduct, and no gross misconduct, and that CS had not taken the claimant’s length of service record into account. Dismissal was an overreaction.
+
+210. RM concluded that AS had stopped charging his car after FB’s email on November 2023.
+
+211. RM considered that the decision to dismiss should be upheld. His outcome letter dated 16 September set mattes from the investigation which he took into account.
+
+212. That was that: “During the investigation meeting of 19th July, you confirmed
+
+8002168/2024 & others Page 28
+
+ You had no direct authority authorization to charge your vehicle via the COW cabin in the Jetties area  You also confirmed that this was not an official charging point, it was makeshift.  You acknowledged official charging points were available at INEOS HQ however you ‘don't know’ why these were not utilised.  In parallel with your admission to charging the car at the Jetties once or twice, you admitted it was stupid and with hindsight it was daft from a safety point of view.
+
+213. RM did not consider the timing of matters impacted the severity over the offence or the outcome.
+
+214. RM’s outcome letter than set out in a slightly different format the reasons given by KC, (set out above) in respect of the standard which had been breached and the health and safety implications and risk associated with this. He concluded that: “It is my decision to uphold you dismissal on the grounds of gross misconduct with specific additions, namely:
+
+1. serious infringement of health and safety rules and regulations
+
+2. wilful disregard of company rules regulations and policies
+
+3. serious negligence which causes, or might cause unacceptable loss damage or injury.”
+
+215. RM did not consider that the charge of fraudulent use of electricity should be upheld and he stated that in terms in the outcome letter.
+
+Note on Evidence
+
+216. While there was little significant factual dispute on a good deal of the evidence, much of which was documented in the form of minutes of meetings, and letters or emails, there were some material issues of fact which the tribunal had to determine.
+
+The respondent’s witnesses
+
+TH
+
+217. To the extent that it was material, the Tribunal found TH to be credible and reliable. In any event, her evidence appeared to be in the main uncontroversial and was mostly confined to her interactions with GB after he had been reported by GS, and was suspended from work. The Tribunal
+
+8002168/2024 & others Page 29
+
+accepted her evidence that the respondents do not have a record of which employees are members of a trade union.
+
+CS
+
+218. The Tribunal formed the view that CS’s high degree of conviction as to the rectitude of his own position, and his sense of outrage about what he perceived as misconduct at work, materially influenced the manner in which he conducted the disciplinary process and his decision making.
+
+219. Leaving aside the quality of his decision making, in the Tribunal’s view his evidence did not lack credibility in every aspect. There was however a significant lack of credibility on a very important element of his evidence, which was to the effect that was that he has approached matters throughout with an open mind. This is a matter which is dealt with more fully below.
+
+220. To the extent that the Tribunal did find CS’s evidence not wholly lacking in credibility, it was supported the fact in that CS was regularly prepared to make appropriate concessions in cross examination, even when these were damaging to his own position. For example, he accepted given the size of INEOS there were other managers available qualified to conduct the disciplinary, separately from the investigation. He accepted that GB had an axe to grind which motivated his reporting GS, which meant GB’s statement should be taken with a ‘pinch of salt’, albeit the tribunal did not form the impression he had actually done this. did. He accepted that the presence of two HR representatives at the investigatory meetings where the claimants attended alone could be quite intimidating. He accepted that, in the course of the investigation meeting, JE did not think he had done anything wrong. He accepted the only point of difference between JE’s evidence and that of his managers at the investigation meeting was that of consent to charge, but that he then added breach of trust to the disciplinary charges. He accepted in cross examination that if NMcD instructed the investigation, but NMcD had given JE permission to charge his car, that would have undermined the investigation. Asked if that gave NMcD a cogent reason to deny having given permission, he responded “possibly yes”. He accepted in cross examination that there was no firm line drawn about charging cars at the Jetties and that was the reason for FB’s email in November 2023. He accepted in cross examination that he had no evidence of anyone charging their cars after FB’s Email and he accepted in cross that he was not able to conclude that any of the claimants had charged their cars after FB’s email in November 2023.
+
+221. The Tribunal accepted that when CS was conducting the investigation and disciplinary hearings he did not know as matter of course who was in a trade union, and TU membership only became apparent (other than in GS’s case as he was identified as a TU member by GB) when a claimant attended a
+
+8002168/2024 & others Page 30
+
+hearing with a TU representative. The Tribunal’s was satisfied that on balance CS was genuinely not concerned about whether the claimants were members of Unite or of any trade union and that his actions were not motivated by the claimant’s trade union membership. Rather, it formed the impression that CS was outraged at the behaviours which GB’s had alleged and that he did not in fact take these with a “pinch of salt”. He said in evidence that he was shocked and that he did not think that employees behaved like that. The Tribunal was persuaded that, on balance CS’ sense of outrage and disapproval motivated his actions throughout the disciplinary procedure. This impression was fortified in that, while it was denied that CS had been aggressive at the investigatory meetings, on balance the Tribunal concluded that CS had adopted a very robust approach /borderline aggressive approach in his conduct of those hearings. It was supported in this conclusion in that CS was described variously by AS as not being aggressive, but being on the ‘front foot’; by JN as pushy and borderline aggressive; by GS as being rather aggressive; and by JE as very aggressive. This attitude on the part of CS tended to support the conclusion that from the outset he was coming from a place of significant disapproval. CS’s evidence in cross examination to the effect that if the claimants had known the allegations they were facing at the investigation stage this would have allowed them to ‘get their stories straight,’ tended to support this impression, and suggested that that Cs was motivated to root out what he saw as bad behaviour, rather than an anti-union bias on his part on his part.
+
+222. The material issue of fact and that was whether CS had prejudged the matters prior to conducting the disciplinary hearings for each of the claimants. It was the claimant’s position that he had done so, and the respondents position that he had not.
+
+223. On balance, despite CS’ avowals that he considered matters during the adjournment of the disciplinary hearings, the Tribunal was satisfied that CS had prejudged matters before those hearings commenced. In reaching this conclusion, the Tribunal take into account a number of factors. Firstly, it took into account the fact that CS conducted both the investigatory and the disciplinary hearings for all the claimants, despite the fact that he accepted there were others in INEOS who could have done so. His reason for doing so in breach of the ACAS Code that he was the link between the investigation and disciplinary meetings, was if anything, suggestive of his having formed a view and of prejudgment. Secondly, the Tribunal attached some weight to CS’s addition of a disciplinary charges of ‘breach of trust’, the case of JE in consequence of the fact that he said he had permission to change from NMcD, but NMcD denied having given this to him. Even if CS had been reasonably entitled ultimately to believe NMcD over JE, the addition of this charge in advance of the disciplinary hearing was indicative
+
+8002168/2024 & others Page 31
+
+of a view already having been taken by CS, which suggested that regardless of what was said at the disciplinary hearing, CS was not going to accept JE’s word over NMcD’s.
+
+224. Thirdly the Tribunal attached some weight to the fact that in JN’s case, CS added a finding in the disciplinary outcome letter questioning JN’s honesty during the process. In cross examination, CS said this was because, at the investigation meeting JN could not remember when he had charged his car; he had then changed that at the disciplinary hearing to saying he charged his car on a day shift. The fact that in August 2024, JN could not remember exactly when in 2023 he had charged his car, when asked about this with no prior notice, could not reasonably give rise to an inference of dishonesty. Further, at the investigation, JN had said he charged his car ‘one day’ not on night shift and therefore there was no change in his position as suggested by CS. The fact that CS was prepared to conclude that JN lacked integrity the basis of this, was in the Tribunal’s view indicative of a prejudicial mind set on his part going into the disciplinary hearings, which rendered it likely that no matter what, JN was going be dismissed at the conclusion of the hearing.
+
+225. This impression was also fortified by the fact that, in GS’s case, CS found him guilty of ’failure to reach required standards’ without giving any clear notice of what these standards were, or how they had said to have been breached in advance of the disciplinary hearing, or indeed in the course of the disciplinary hearing.
+
+226. Further the Tribunal attached some weight to that the terms of the table which CS prepared in advance of the disciplinary hearings. This effectively set out in advance of the disciplinary hearing the conduct which CS found against each of the claimants, that it was categorised as gross misconduct, and the evidence he used to support his conclusion. The preparation of a table in advance of the hearings, which reflected what the outcomes actually were after the hearing had taken place, and was suggestive of a conclusion already having been reached by CS.
+
+227. In addition the Tribunal took into account the fact that CS was prepared of find that each of the claimant’s was guilty of fraud due the extent that they had used electricity in charging their cars, in circumstances where he had not reached a conclusion that the cars were charged more than on the few occasions admitted to by the claimants, or how much electricity might have been used. He concluded that amounted to gross misconduct on a standalone basis capable of justifying dismissal. The application of such a serious and emotive term with criminal connotationsand the severity of the sanction to this use of electricity was suggestive of prejudice on the part of
+
+8002168/2024 & others Page 32
+
+CS and tended to support the conclusion that he had a predetermined mind set to dismiss the claimants.
+
+228. Lastly the length time taken at the conclusion of the disciplinary hearings and the delivery of the outcomes was suggestive of the fact that CS had already made up his mind. CS’s evidence was that this took between 30 and
+
+40. The claimant’s evidence was that it shorter at around 5 to 10 minutes. On balance taking into account its impression of the claimant’s credibility generally, the Tribunal accepted that the adjournment period was shorter that suggested by CS and was more likely to sit at around 10 minutes mark. This short time scale is suggestive of a predetermined outcome. Indeed, in AS’s outcome was one the reasons given by CS for his decision was that AS had brought no material which changed his mind, which was a clear indicator of prejudgment.
+
+229. There was also some dispute of fact in relation to the physical site. The first matter was whether the road on which the portacabins were situated was a road with to which the public had unrestricted access. It was the claimants’ position that this was a public road, and that anyone could drive down it if they provided identification at the Forth Ports Security gate and stated the purpose of their visit. CS and KC suggested that access was restricted to the respondent’s employees or contractors who had to demonstrate their work purpose.
+
+230. On balance, the Tribunal preferred the evidence of the claimants on this point. They all impressed the Tribunal as being in the main credible and reliable and it appeared to the Tribunal that they were well placed from the role that they carried out in the Jetty area to confirm who had access to the road.
+
+KC
+
+231. There were no significant issues of facts arising from KC’s evidence, albeit there was considerable argument as to the fairness of her approach to matters. Her reliability was at times an issue as her recollection of matters appeared to have diminished significantly with the passage of time.
+
+RM
+
+232. Again, there were no significant issues of facts arising from RM’s evidence albeit there was considerable argument as to the fairness of his approach which was similar to KCs, other than that did deal with the fraud charge.
+
+The claimants’ witnesses
+
+233. The Tribunal recognises that for the purpose of unfair dismissal claim, it is what the respondents were reasonably entitled to conclude from the material
+
+8002168/2024 & others Page 33
+
+available to them at the time which is relevant, as opposed to the Tribunal’s conclusion on what the claimants did or did not do or believe. The Tribunal assessed the claimant’s credibility and reached conclusions on these matters, only in so much as such findings may become relevant at a later stage on questions on Remedy.
+
+234. The Tribunal found all of the claimants to be in the main credible and reliable witnesses. With one exception on the part of AS, which is dealt with below, they all made appropriate concessions as to what they had said in the course of the disciplinary process. They all accepted, without hesitation, the importance of health and safety on site; that this was specified in their contracts; that they had had Spadeadam training; that the respondents have GMPs and that these could be accessed on the intranet. With the exception of JE, they all accepted that they had not sought direct authorisation to charge their cars.
+
+235. JE gave convincing evidence that he had at the very least thought that he had obtained permission to plug his car in from NMcD. The conversations he gave evidence about with NMcD and DA took place in late 2020, and the tribunal considered nothing adverse to his credibility could be drawn from his inability to clearly recall at the disciplinary hearing when the conversations took place or what was said to whom and when, or from his statement that recollections may be “watered down”. He said that he was pretty sure he had spoken to NMcD on the phone about it, but he conceded that he should have emailed him to confirm this. It was the Tribunal’s impression that JE was prepared to recognise that the passage of time may have dimmed recollections, and this concession tended to render believable that he did genuinely thought that he had permission to act as he did.
+
+236. In cross examination, it was put to JE “so you knew there was a fire risk and that's why you asked permission?” His response was to the effect that he asked permission because “that is the kind of person I am”. Ms Forrest suggested that this supported that he was aware that what he was doing was wrong. It appeared to the Tribunal that that this position was somewhat circular, in that the respondents also submit that they claimants were in the wrong because they did not seek permission to change their cars.
+
+237. The Tribunal found GS to be a credible and reliable witness. It did not consider, as submitted by Ms Forest that his failure to explain at the investigation meeting that permission had been given to JE, impacted his credibility. GS said at the investigation meeting that his understanding was that if he was in a stuck position, then it would be ok to charge. This suggests that he did not understand there to be a prohibition on charging, but rather believed that there was permission of some sort to charge his car.
+
+8002168/2024 & others Page 34
+
+238. The Tribunal found JN to be a credible and reliable witness. It does not consider, as submitted by Ms Forrest, that he displayed ‘arrogance’, or a ‘bad attitude’ but rather formed the view that he gave his evidence in a straightforward manner, pointing out that he had told CS that he changed his car one day (as was recorded in the notes of the investigatory meeting) as opposed to on night shift. It found credible his evidence that he did not think he had done anything wrong; that he did not consider what he did to be a health and safety risk; and that he never charged his car after FB’s email.
+
+239. The Tribunal found AS’ evidence credible with the exception from his suggestion in cross examination that his admittance that what he did was ‘daft’ from a safety point of view at the investigatory hearing, related to the whole circumstances of his having to keep charge in his electric car. Such an explanation lacked credibility in the context of the question asked and answer given at the investigatory meeting. That question was whether he ever thought to himself that he should not be charging cars down there. His response was that: “Aye it did and it did play on my mind as I know it was stupid and with hindsight it was daft from a safety point of view.” This was not suggestive of a general concern about having to keep his car charged, albeit AS did indicate later that he suffered from range anxiety.
+
+240. The Tribunal considered that AS’s statement about accepted practice supported the conclusion that he did not think there was permission to charge he as doing anything wrong before November 23.
+
+Trade union membership /activities – claimant’s evidence
+
+241. JE’s evidence was if he thought there was another reason for his dismissal and responded giving an operational reason. He was then asked if there was there any other reason, and it was only at this stage he said that he though trade union membership played a big part and that since INEOs took over, trade union members had a target in their back. He did, however, go on to accept the reason for CS’s decision to dismiss was the one given in the disciplinary outcome letter.
+
+242. GS did not offer TU membership at all as a reason for dismissal.
+
+243. When asked if any unstated reason for his dismissal JN said that from GB’s statement he thought that the TU was targeted and GS was in particular targeted. He also advanced another theory as to the reason for which was based on operational reason and CS desire to put people he had worked with into jobs.
+
+244. AS was asked it there as any unstated reason for his dismissal and said no.
+
+8002168/2024 & others Page 35
+
+245. There were no issues of credibility in relation to LR‘s evidence, however much of it comprised of her opinion. She was directly involved in attendance at two disciplinary and appeals hearings. Mr O’Carroll’s submitted that she gave cogently stated in evidence to the effect that she considered that GB’s anti-union agenda was being facilitated by the respondent. That, however, comprised of opinion on her part.
+
+Submissions
+
+246. Both parties produced written submissions together with rebuttal submissions. In the interests of brevity these are not reproduced here in full, but are referred to below where relevant.
+
+Consideration
+
+Burden of proof
+
+247. These conjoined claims are made for automatically unfair dismissal under section 152 of TULCR and unfair dismissal section 94 of the ERA.
+
+248. As all of the claimants have sufficient qualifying service to present a claim under section 94 under the ERA the burden of establishing the reason for dismissal is on the respondents for both the section 94 ERA claims and the section 152 TULCR claims. The respondents’ advance conduct as the reason for dismissal.
+
+249. Where the claimants say that the real reason for dismissal is not that advanced by the respondents, but that their dismissals were automatically unfair for trade union reasons under section 152 of TULCR, they acquire an evidential burden to show, without having to prove, that there is an issue which warrants investigation, and which is capable of establishing the competing automatically unfair reason advanced. Once the employee satisfies the Tribunal that there is such an issue, the burden reverts to the employer, who must prove, on the balance of probabilities, which of the competing reasons was the principal reason for dismissal (Maund v Penwith District Council 1984 ICR 143, CA, referred to by Mr O’Carroll)
+
+250. The approach which the Tribunal adopted was firstly to consider the unfair dismissal claims under the ERA. Claims of unfair dismissal under section 94 of ERA.
+
+Reason for dismissal
+
+251. Section 94 of the ERA established the right not to be unfairly dismissed.
+
+252. Section 98 provides:
+
+8002168/2024 & others Page 36
+
+“(1) In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show –
+
+(a) the reason (or, if more than one, the principal reason) for the dismissal, and
+(b) that it is either a reason falling within subsection (2) or some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held.
+
+(2) A reason falls within this subsection if it – …..
+
+(b) relates to the conduct of the employee, …….
+
+(4) Where the employer has fulfilled the requirements of subsection (1), the determination of the question whether the dismissal is fair or unfair (having regard to the reason shown by the employer) –
+
+(a) depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee and
+(b) shall be determined in accordance with equity and the substantial merits of the case.”
+
+253. The burden rests with for the respondents to establish a potentially fair reason for dismissal under Section 98 (1). If they get over that, the fairness of the dismissal is considered under Section 98(4) where the burden of proof is neutral. The Tribunal reminded itself that an objective test of reasonableness, judged against the standards of a reasonable employer applies to the investigation as it does to the substantive aspects of the decision to dismiss (Sainsbury’s Supermarkets Ltd v Hitt [2003] IRLR 23, referred to by Ms Forrest). It also reminded itself that it must not substitute its view for that of the employer: Foley v Post Office; Midland Bank plc v Madden [2000] IRLR 827.
+
+254. The Tribunal began by considering the reason for dismissal.
+
+255. The burden of proof on employers at this stage is not a heavy one. The employer does not have to prove that the reason actually did justify the dismissal. The fairness of the dismissal for that reason is a matter which is assessed when considering the question of reasonableness.
+
+8002168/2024 & others Page 37
+
+256. A ‘reason for dismissal’ has been described as “a set of facts known to the employer, or it may be of beliefs held by him, which cause him to dismiss the employee” - Abernethy v Mott, Hay and Anderson 1974 ICR 323, CA referred to by Ms Forrest.
+
+257. Mr O’Carroll submitted that Ms Forest’s reliance on this brief excerpt from this case was not an authority for the proposition that an employer may harbour certain beliefs without stating them and then fairly dismiss for that unstated reason. There still requires to be facts known to an employer and relied upon as a reason to dismiss. He submitted that that it is for the Tribunal to determine the ‘set of facts known to the employer [at the time of dismissal], or it may be of beliefs held by them which cause them to dismiss the employee’.
+
+258. The Tribunal agree that this is the correct approach and therefore considered the facts known to the respondents which were relied upon as the reason for the dismissals.
+
+259. Common to all cases, at the point when CS took his decisions to dismiss the Tribunal was satisfied that he believed that all claimants had charged their cars at the Jetties without obtaining permission. His grounds for believing that were firstly that all of the claimants had admitted to charging their cars. Secondly, other than JE, they all accepted that they had not sought express permission to do so. In JE’s case, CS rejected JE’s position that he had sought permission and CS accepted NMcD’s denial that he had granted JE permission, which he considered was supported by DA’s statement. CS also held the belief that the claimants charging their cars constituted a health and safety risk. In addition to his own view, he had input from his investigations with TLs, and the fact that charging cars was prohibited by FB in November 23 to support his belief that this action on the part of the claimant constituted a health and safety risk.
+
+260. The Tribunal concluded that at the point when he dismissed the claimants, there were facts known to CS which caused him to dismiss the claimants, and which related to their conduct in charging their cars at the Jetty area.
+
+261. The fact that claimants admitted to charging charge their cars without paying, when there were official charging point at HQ where charging was paid for, was the factual basis for CS’s the belief that the claimants had stolen electricity.
+
+262. GS’s admitted failure to challenge others for charging their vehicles or watching TV, was the ground upon which CS based his belief there had as a failure to reach standards.
+
+8002168/2024 & others Page 38
+
+263. The Tribunal was satisfied that these were the facts known to CS or beliefs held by him which caused him to dismiss the claimants, and that being the case and that the respondents had overcome the burden of establishing a potentially fair conduct reason for dismissal.
+
+Fairness of dismissal under Section 98(4)
+
+264. The Tribunal then went on to consider the fairness of the dismissal under section 98(4). The starting point for consideration of fairness under section 98(4) in a conduct dismissal is the guidance given in the well-known case referred to by both parties of British Home Store v Burchill 980 ICR 303, EAT, to the effect that:  The employer must believe the employee guilty of misconduct;  That the employer must had in mind reasonable grounds upon which to sustain that belief; and  At the stage at which that belief was formed on those grounds, the employer had carried out as much investigation into the matter as was reasonable in the circumstances.
+
+265. For the reasons given above, the Tribunal was satisfied that CS believed that the claimants were guilty of the conduct for which they were dismissed.
+
+266. The Tribunal then considered the third stage of that test and considered the reasonableness of the investigation.
+
+267. The fact that CS carried out both the investigation and disciplinary process for all of the claimants was contrary to paragraph 6 of the ACAS Code of Practice on Disciplinary and Grievance Procedures which provides that: “In misconduct cases, where practicable, different people should carry out the investigation and disciplinary hearing.” In an organisation the size of INEOS, CS accepted that there were other managers at a suitable grade available to carry out one of these functions. Ms Forrest relied on the fact that none of the claimants, who had trade union representation by the point of the disciplinary hearings, objected to CS being the disciplining officer. The Tribunal is however, concerned with the actions of the employer, and whether they acted reasonably, and it could not be said that having the same officer carry out both parts of the process, where there are alternative suitable managers were available, was the action of a reasonable employer.
+
+268. The investigation process encompasses the disciplinary hearing as well as the investigation stages before that. The significant point underpinning the Tribunal’s conclusions as to the fairness of the investigation, is its conclusion that CS had predetermined that the claimants were guilty of gross
+
+8002168/2024 & others Page 39
+
+misconduct and were going to be dismissed in advance of going into the disciplinary hearing in each case. The reasons why the Tribunal reached this conclusion are set out above under Note on Evidence. Such an approach falls well out with the band of reasonable response test which the Tribunal has to apply and renders the investigation one which was not reasonable in the circumstances.
+
+269. The unreasonableness of the investigation inevitably impacted the second limb of the test in Burchill. CS believed the claimants guilty of misconduct. However the point when CS formed that belief was prior to the disciplinary hearings, and it follows that at that point it could not be said that objectively he had reasonable grounds in which to sustain the belief, as his belief had been formed before the claimants had had an opportunity to state their case. In this case this included the information the claimants brought to the disciplinary hearings about the type of charging cables used, and the degree to which they considered their actions raised a realistic health and safety concern.
+
+270. In terms of Burchill, the respondents have to satisfy all three limbs of the test, which the tribunal could not conclude they had done
+
+271. The conduct of the appeal did nothing to remedy the shortcomings at the disciplinary stage. Both appeal managers viewed their role as confined to reviewing of what had gone before, rather than a rehearing of matters, which has the potential to cure earlier defect in the process.
+
+272. Further, both appeal manages also carried out investigations post the appeal hearings, and then on the back of these investigation, took into account material of a technical nature in reaching their conclusion that the dismissal should be upheld in each case. Both appeals officers considered this new and technical material was relevant to their decision to uphold the dismissals, however the claimants had not seen the material relied upon on or been given the opportunity to comment on it. This approach to matters could not be categorised as reasonable, judged against the objective standards of a reasonable employer. It was, as submitted by Mr O’Carroll, justification after the fact.
+
+273. Further, KC did not to deal with the appeal against the finding that the claimants had committed an act of gross misconduct by fraudulently using electricity. While she said that this charge did not merit a separate mention because it was not ‘evidence based’ it remained a very serious charge which had been upheld against the claimants. While ultimately a great deal may not turn on it, it was objectively unreasonable that the claimants would not be told at the conclusion of the appeal if their appeal against that ground of dismissal had been upheld or not.
+
+8002168/2024 & others Page 40
+
+274. Albeit the Tribunal found that the respondents had not fulfilled the Burchell test it also considered the severity of the sanction of dismissal. The relevant authority is Iceland Frozen Foods Ltd v Jones [1982] IRLR 439 which sets out the range of reasonable responses test which applies to the decision to dismiss. The Tribunal is mindful following the guidance in that case that it must not substitute its view for that of a reasonable employer.
+
+275. For the reasons referred to by Mr O’Carroll in his submissions CS’s conclusion that fraudulent use of electricity amounted to gross misconduct fell out with the bad of reasonable response. CS did not reach a conclusion to how much electricity was used, and the application of a term which connotes criminal activity was unreasonable in the circumstances described to him in the disciplinary process as to the extent the claimants charged their cars, where CS did not make any findings that charging had occurred more often than described.

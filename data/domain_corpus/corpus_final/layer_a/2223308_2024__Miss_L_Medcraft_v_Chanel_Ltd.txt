@@ -1,0 +1,829 @@
+JUDGMENT
+
+(1) The claim of protected disclosure detriment (under section 47 Employment Rights Act 1996) is not well founded and is dismissed.
+
+REASONS
+
+1. Written reasons were requested by the Respondent at the hearing. In view of this the Tribunal reserved judgment.
+
+Summary
+
+2. The Claimant alleges that she suffered detrimental treatment because of making six protected disclosures. The claim did not succeed for several reasons.
+
+3. We did not find that the alleged protected disclosures came under the protection of the statutory scheme provided by sections 43B and 47 of Employment Rights Act 1996.
+
+4. The first five alleged protected disclosures were not established because we did not find it was reasonable for the Claimant to believe that the disclosures tended to show the relevant failure. As to the sixth alleged protected disclosure, we found that the Claimant did not believe that this was raised in the public interest, nor would it have been reasonable to believe this.
+
+5. The first eight alleged detriments were complained of out of time. Time was not extended. In any event, the Claimant did not establish that there was detrimental treatment.
+
+6. As to the underlying cause of the dispute between the parties, the Tribunal had considerable sympathy for the Claimant whose job title was left in limbo during a lengthy period during 2022 – 2024. That was frustrating and led to understandable uncertainty for her.
+
+Hearing & procedural matters
+
+7. Additional documents were provided by the Claimant, which was not opposed.
+
+8. We refused the Respondent’s request for protected disclosures to be dealt with as a preliminary issue, for reasons given orally.
+
+9. The hearing was conducted with consideration on all sides throughout. Although it is no doubt an awkward situation to cross-examine and be cross examined by existing colleagues, the Claimant and Respondent witnesses dealt with this situation in a measured way and with courtesy.
+
+10. The Claimant and Mr Proffit communicated with each other well and cooperated to assist the Tribunal with the smooth running of the hearing.
+
+11. The Respondent asserted privilege in relation to a draft version of a grievance appeal report on the basis that Mr Gaff, General Counsel, had provided advice in relation to it. The Tribunal asked the Respondent to look again at this question as a result of which the Respondent pragmatically, without waiving privilege, disclosed the draft report with a privileged comment (no more than half a sentence) redacted. It asserted legal professional privilege in relation to a covering email exchange.
+
+The Claim
+
+12. The Claimant presented her claim on 5 July 2024.
+
+13. An agreed list of issues is attached as an appendix to this claim.
+
+Evidence
+
+14. We heard evidence from the following witnesses who attended to give oral evidence in support of their witness statements:
+
+15. The Claimant herself;
+
+16. The Respondent’s witnesses:
+
+16.1 Ben Williams;
+16.2 Claire Laurin;
+16.3 Rachel Wade;
+16.4 Graham Gibbs;
+16.5 James Chapman;
+16.6 Paul Gaff;
+16.7 Gregory Daines.
+
+17. We received an agreed bundle of approximately 971 pages. References in these reasons in this format [123] refer to page numbers in that bundle.
+
+18. There was a supplementary bundle of 22 pages.
+
+Findings of fact
+
+Policy
+
+19. The Respondent’s Conflict Resolution Policy (December 2020) contains guidance that formal resolution processes should be a last resort and only for cases which are potentially so serious that informal resolution is not appropriate or where informal resolution has been attempted but has not succeeded.
+
+History
+
+20. On 9 May 2011 the Claimant began employment.
+
+21. Her title was originally “Visual Merchandising Manager Department Stores”.
+
+22. In January 2022 the Claimant applied for the position of PA & Fashion Retail Coordinator. She was keen to progress with her career. Unfortunately she was unsuccessful in that application, which was communicated to her in March. The Claimant was given feedback that she had been a strong applicant.
+
+23. The Claimant was keen for her title to progress, or at least not go backward. The Respondent had some constraints, based on the global title structure.
+
+24. From 1 May 2022 the Claimant joined a new team, the Visual Merchandising team, reporting to Nicolas Crequit. At this time her job title changed. There was however some back and forth on the detail.
+
+25. Sophie Penn, HR confirmed the title as “Visual Merchandise Manager & Creative Design Coordinator” from 1 May. The Claimant queried this by email with Ms Penn on 7 May 2022. She pointed out that her new job title, originally on Workday (HR system) it was “Visual Merchandise Manager & Creative Design Coordinator”, but now was “Visual Merchandiser & Creative Design Coordinator”, i.e. the title “manager” was now deleted.
+
+26. The Claimant‘s line manager Nicolas Crequit had been pushing for the word “manager” to be deleted from her job title, since it was policy for the title manager to be given to only grade 12 and above for roles in head office which this role was based. (Outside of head office different rules for the designation “manager” applied.)
+
+27. According to the printouts from the Respondent’s “workday” system, Mr Crequit was the Claimant’s line manager for less than a week. The Claimant’s line manager then changed to Quentin Palaz.
+
+28. From this point on the question of the Claimant’s job title was then in “limbo” for a substantial period of time, and was not fully resolved until the regrading exercise following the outcome of the grievance appeal in 2024. She kept chasing HR for a resolution over a number of months, for example in a message exchange with Sophie Penn in November 2022 when she pointed out that her job position, title, salary and contract were still unresolved.
+
+29. On 6 June 2022 the Claimant appeared to agree to the title “Visual Merchandising And Creative Design Coordinator”.
+
+Pay rise
+
+30. The Claimant was frustrated, for what appears to the Tribunal to be good reason, because she was performing a new role from April/May 2022, but only received an increase in pay backdated only to January 2023, rather than for the entire period.
+
+Alleged forged e-signature
+
+31. The Claimant signed a version of her terms and conditions of employment on 3 May 2022 using the DocuSign software (“the May terms”). She says she initially signed it electronically on her phone, which is confirmed by the DocuSign print out on 179.
+
+32. There is also on the Respondent’s file also a handwritten initial “LM” dated 2 June 2022, also using the DocuSign software (“the June terms”). This second electronic signature has an identical tag number as the first. The second initials are similar but slightly different in appearance to the initials made by the Claimant the previous month. There appears to be one change to the Schedule, which is in relation to overtime entitlement.
+
+33. The provision in relation to overtime entitlement appeared in the May terms as follows:
+
+11. Overtime No payment is made in respect of overtime.
+
+34. This changed in the June terms to:
+
+11. Overtime Overtime worked at night, between the hours of 10pm and 5am, will be paid at a rate of double time and will not attract any time off in lieu. All overtime is subject to the prior approval of your manager.
+
+35. The Claimant maintains that the second signature is “falsified”. Her basis for saying so is that she does not remember signing it, and she is suspicious about the fact that both of these documents were not uploaded onto the Respondent’s system until nearly 2 years later in January 2024 when she was querying matters related to her job title. The document was uploaded on 23 January 2024. One of the Respondent’s witnesses Rachel Wade explained in her evidence there was a backlog in these documents being uploaded to Workday.
+
+36. The Tribunal requires cogent evidence before it finds that the document is fake or forged. We do not find that we have been provided with cogent evidence that there this signature is fake or forged. We have considered whether the Respondent stood to gain from the later version. In fact the June terms are more advantageous to the Claimant than the May terms. The May terms preclude overtime payment altogether. The June terms allow for it.
+
+37. Also, we have found, set out later on in these reasons, that the Claimant has on a number of occasions jumped to the conclusion that there has been foul play based on mere conjecture.
+
+Application for W&FJ Visual Merchandising Manager
+
+38. The Claimant applied for the role of W&FJ Visual Merchandising Manager on 30 August 2022. She went through two stages of an interview process. She was not successful. We accept her evidence that she felt very disappointed.
+
+Application for Event manager role
+
+39. The following month, on 22 September 2023 the Claimant applied for the Fashion Events Manager role.
+
+40. She attended three interviews for this role in the period October-November 2023, which included making a presentation.
+
+41. She was again unsuccessful. The Claimant was particularly upset as she believed that the successful candidate did not go through the process that she did, specifically not having to make a presentation. Also she seems to have been given the impression by colleagues in advance that she had a very good chance of getting the role.
+
+42. On 27 November 2023 the Claimant met Bryony Dean in regard to the unsuccessful application.
+
+Management training
+
+43. Ms Claire Laurin, Regional Director (Fashion Division) dealt with the Claimant’s disappointment in December 2023 in a kind and tactful way by encouraging colleagues to speak to her and by offering the Claimant a development opportunity. She arranged for the Claimant in January 2024 to attend a three day training course for managers, “The Seven Habits of Highly Effective People”, for her professional development. This was ordinarily for more senior managers.
+
+Complaint email
+
+44. On 2 January 2024 the Claimant sent a complaint email to Ben Williams, Head of Employment. Mr Williams is a solicitor.
+
+45. In that email she complained about an unfair interview process, providing detail over approximately 1 ½ pages of close type. She signed the email off hoping for resolution “without creating too much of a difficult and awkward working situation for me. Hence my preference to meet to discuss this first.”
+
+Meeting Ben Williams 5 January 2024
+
+46. On 5 January 2024 the Claimant met Ben Williams regarding her complaint in a Microsoft Teams meeting.
+
+47. We find that Mr Williams inferred from the reference to a discussion that the Claimant was contemplating using the informal process and said something to this effect. We find that would have been a natural inference and in any event in line with the Respondent’s policy (coincidentally written by Mr Williams) which suggests an informal resolution first.
+
+48. Although the Claimant had heard colleagues discussing that a formal process had started, she admitted that Mr Williams was not aware of that conversation.
+
+49. The Claimant appears to have decided that Mr Williams could not be trusted without any proper basis for this conclusion: “I also felt uncomfortable as soon as I saw Ben Williams, I did not get the best first impression from him, and I did not trust him.”
+
+Follow up
+
+50. Later on 5 January 2024 the Claimant overhead a conversation leading to her writing to Mr Williams to tell him that her manager Quentin Palaz had received an email saying that a formal complaint had been made by Lydia Middleton. This lady was a close colleague of the Claimant who had a very similar name. The names of the two were commonly mixed up by colleagues.
+
+51. The Claimant contends that by 15 January 2024 that email from her to Mr Williams had been subtly changed to different wording but with the same meaning.
+
+Formal grievance
+
+52. On 8 January 2024 there was some back-and-forth by email between the Claimant and Ben Williams. Mr Williams tried to hand the matter over to a colleague Gregory Daines to arrange a meeting with the team from the interview process to achieve some sort of informal resolution.
+
+53. The Claimant queried that she had only been given the option of an informal process. Mr Williams made clear that there was the option of a formal approach and attached the Conflict Resolution Policy. Mr Williams also made it clear that if the Claimant wished to go down the formal route then he would recuse himself from any personal involvement, which in fact is what happened, since the Claimant made it clear that she wanted to pursue her grievance through the formal process.
+
+54. The Claimant alleged in the internal investigation that an email from Gregory Daines sent on 8 January 2024 was subtly changed such that two dashes became two bullet points. No convincing reason was advanced by her why anyone would do this.
+
+55. On 9 January 2024 the Claimant wrote to say that she was going to pursue the formal grievance process.
+
+56. Mr Williams then wrote back to say that he would liaise with the relevant person in HR to take this forward.
+
+PD1 – 12.1.24
+
+57. The Claimant’s first alleged protected disclosure, made on 12 January 2024 was contained in an email exchange with Rachel Wade in which she wrote “….. I also noticed some of the emails are missing – so I think some have been deleted by Ben Williams to perhaps protect himself. I shall make sure to screenshot and save as much as I can now going forward.”
+
+58. The Claimant asked if it was possible for someone to access her work Outlook account to make this happen. She said she believed it was a breach of the Respondent’s legal obligations to comply with the Computer Misuse At 1990, Data Protection Act 2018 and GDPR.
+
+59. The nub of this allegation is that Ben Williams had been deleting (or altering) correspondence from the Claimant’s outlook sent items. The Claimant explained that she believed that he was seeking to protect himself given the confusion over the formal/informal resolution process.
+
+60. The Claimant took against Mr Williams by her own admission almost immediately. There is no evidence to corroborate the Claimant’s assertion that he had been deleting or altering emails from her sent items.
+
+61. Ordinarily in most cases the Tribunal does not need to make findings about the underlying truth or not of protected disclosures. The focus is ordinarily on the “reasonable belief” of the maker. In this case serious allegations were made by the Claimant and ultimately reported to Mr Williams’ professional body.
+
+62. On the balance of probabilities we find that Mr Williams did not alter or delete items in the Claimant’s sent items at any stage. This is a serious allegation. There is no cogent evidence to support the Claimant’s conjecture that this happened. We did not find that an alleged confusion about informal or formal grievance process was a plausible reason why Mr Williams, a solicitor, would have done this and thereby risked his professional reputation.
+
+Family hacking incident
+
+63. The Claimant explained that a close family member had experienced hacking.
+
+64. Judging by the comments she made during the Tribunal hearing this had plainly made a significant impression on her. It seems mostly likely that this predisposed her to believe that hacking had occurred in her own case in circumstances where there was no evidence other than Ms Medcraft’s own suspicion to support that it had happened.
+
+Mr Williams’ professional status
+
+65. The Claimant was aware from the outset of her dealing with Mr Williams that he was a “lawyer”.
+
+66. It was only at a much later stage in July 2024 that it occurred to her to report him to the SRA (Solicitors Regulation Authority).
+
+“Realisation” of alleged hacked email
+
+67. The Claimant alleges that she noticed on 15 January 2024 that an email dated 5 January 2024 sent by her to Ben Williams had been “doctored” or reworded.
+
+68. The version in her sent items had: “oh, and sorry Ben, I forgot to mention. My manager Quentin Palaz received an email informing him a formal complaint had been made – but by Lydia Middleton and not me, Lydia Medcraft. This might need sorting”.
+
+69. She claims, with no corroborating evidence at all, but based on her memory of 10 days earlier that the original message said
+
+“OH, AND SORRY BEN, I FORGOT TO MENTION. THE EMAIL
+
+QUENTIN PALAZ RECEIVED ABOUT THE FORMAL
+
+COMPLAINT REFERRED TO LYDIA MIDDLETON AND NOT ME
+
+LYDIA MEDCRAFT. THIS MIGHT NEED SORTING…”
+
+70. Although the wording is slightly different, there is no material difference to the meaning of the two messages. No convincing explanation has been put forward as to why an email would be “doctored” to make such a tiny change in language, nor in whose interests it would be to make it.
+
+Implausibility of Claimant’s allegations
+
+71. The only explanation advanced by the Claimant for this surprising action by Mr Williams was that must have realised that he had somehow fallen into error in trying to suggest to her informal rather than formal resolution of her grievance.
+
+72. To reiterate, the Tribunal would require cogent evidence of a serious allegation such as email tampering. There is no corroborating evidence of the Claimant’s account, which entirely relies upon the Claimant’s recollection of the wording of an email being slightly (although not materially) different 10 days earlier. As to the Claimant’s specific allegation that it was Ben Williams that did this, we find on the balance of probabilities that this did not happen. First, there is no corroborating evidence. Second, it would be a serious matter both as a professional and as a senior colleague for Mr Williams to be tampering with someone else’s email in this way.
+
+73. Third, we find it implausible that Mr Williams would have done something as risky as tampering with a colleague’s email, to make a minor modification which made no material change to the meaning of the email. There was no benefit in it for him or the Respondent business. We did not find that there was anything about the communication on the question of formal or informal resolution which would have left Mr Williams open to criticism. Informal resolution in line with the policy was his preferred first option. There was nothing about the Claimant’s complaint which arose from the disappointing outcome of an internal recruitment process that meant that informal resolution was inherently inappropriate. When Mr Williams realised that the Claimant wanted a formal approach he appropriately followed that approach.
+
+Involvement of security team (PD#2) 15.1.24
+
+74. On 15 January 2024 the Claimant spoke to members of the security team, initially Mohamed Nasr, a Security Supervisor who escalated the matter to involve his line manager Graham Gibbs the Head of Security.
+
+75. Mr Gibbs was Head of Security, UK & Ireland. His remit extended to the physical security of the Respondent’s estate. His remit did not include IT security.
+
+76. It is common ground that the Claimant was visibly distressed and that Mr Gibbs asked her to print off emails to try to evidence what she was saying.
+
+77. Where the Claimant’s evidence differs from Mr Gibb’s evidence, we prefer his version. In particular we find the Claimant’s suggestion that Mr Nasr had suggested that it was likely that Mr Williams was “tampering with evidence” and that he knew people in IT to be unlikely. Insofar as the Claimant seems to have had the impression that the two members of the security team thought her allegations were likely, this was, we find a misunderstanding on her part.
+
+78. Mr Gibbs gave evidence to the Tribunal. The Claimant explained to him her belief that various emails were being deleted. She pointed to various emails saying that they had been deleted. Mr Gibbs recorded the following electronically, which the Claimant relies upon as being the substance of the second alleged protected disclosure: “Lydia alleges that her emails are being accessed and correspondence is being edited. Emailed Ben on 2nd of January with Arianna Weight in copy. On 3rd it was flagged by Arianna and when she met 5th he said he was glad she had gone down and informal process. [“Weight” is a typographic error, the correct name is “Wright”]
+
+79. Mr Gibbs acknowledged that the Claimant was genuinely concerned, but did not follow the logic of her allegation that her email account had been hacked. We accepted his evidence that what the Claimant was saying did not make sense to him and the more she said the less sense it made.
+
+80. Mr Gibbs reported the matter to Paul Gaff, General Counsel. His later involvement was to decide the grievance appeal.
+
+Grievance meeting set up
+
+81. On 16 January 2024 the Claimant had an exchange of messages via WhatsApp with Rachel Wade. She said that her emails have been compromised/hacked. Ms Wade set up a meeting with Ms Marion Couradon-Petard, who was to hear the grievance and had unexpectedly become available. The meeting was labelled “provisional” in the electronic calendar and Ms Wade agrees that she should have updated it once it was clear that the meeting was going to be effective. The Claimant was critical of the use of the word “provisional”, but we did not find that there was anything sinister in the use of that word.
+
+PD#3: IT ticket
+
+82. On 16 January 2024 the Claimant raised a “ticket” with the IT department re email tampering, sent at 01:48 PST (09:48 GMT) in the following terms “Incident description: My emails regarding a confidential matter (a formal resolution case) are being edited and tampered with – I believe by someone involved in the case (Ben Williams). First emails were being deleted and then once I got suspicious they reappeared, but not as they originally were. They had been edited/recreated. I found emails to my HR support (Rachel Wade) in my permanently deleted file – I believe my emails to her have also been edited.”
+
+83. Stepping for a moment forward in the chronology, when the Claimant described these events in the grievance appeal in April 2024 she said that she spoke to someone called Peter. She said that she explained to IT that the emails had been tampered with by Ben Williams and Rachel Wade. No explanation was given at that stage for the expansion of her allegation to include Ms Wade.
+
+84. Returning to 16 January, the Claimant provided her password to the local (i.e. UK based) IT team to enable them to change her password, which they did. She alleges that this local IT team went through and ensured that the emails which she contends had been doctored were “matched” to the originals, in order to remove all traces of the alleged changes before the matter was passed out to the Global IT team (based in France) for external investigation. This was based on her theory that the local IT team had helped Mr Williams alter and delete her emails and in essence they were covering their traces. She has provided no convincing evidence of this which is pure conjecture.
+
+85. On 18 January 2024 the Global IT Team confirmed that after investigation no suspicious behaviour was observed in the main account and they closed the incident. IT ticket marked was as “resolved” by them.
+
+HR documents updated
+
+86. On 23 January 2024 the contractual documents from 2022 were uploaded to “workday”, the Respondent’s HR system, including the May terms and the June terms. This was approaching two years after these documents had originally come into being.
+
+PD#4
+
+87. On 29 January 2024 there was a grievance investigation meeting at which the Claimant alleges that a fourth protected disclosure was made.
+
+88. The meeting was held by Ms. Marion Couraudon-Petard, W&FJ Head of Retail Business, Chanel Limited. The notes were taken by Rachel Wade. The Claimant attended accompanied by her mother.
+
+89. The content of the alleged protected disclosure was something of a stream of consciousness in the meeting, the wording of which is set out in our conclusions below. Essentially the Claimant was continuing to allege that the emails had been edited and deleted.
+
+Alleged breach of confidentiality
+
+90. On 30 January 2024 Ms Couraudon-Petard forwarded an email from the Claimant, together with some attached images to Rachel Wade, who was the HRBP supporting the grievance process.
+
+91. On 6 February 2024 Rachel Wade updated the Claimant by email with Ms Couraudon-Petard to say that they were currently speaking to all of the relevant people that were mentioned. The Claimant later formed the idea that Ms Wade was “representing” her. This seems to the Tribunal to be a misunderstanding of Ms Wade’s role, which was as HR support to a grievance process, which was being investigated by Ms Couraudon-Petard.
+
+Ben Williams’ knowledge of Claimant’s disclosures
+
+92. Mr Williams became aware that the Claimant was raising allegations against him on 29 January 2024, when he was prompted to look at his initial email exchanges with her and to forward these to Rachel Wade.
+
+Marion Couraudon-Petard’s involvement in the grievance
+
+93. One of the allegations raised by the Claimant is that Marion Couraudon-Petard did not have her name on the grievance outcome, despite the fact that she was supposed to be hearing the grievance. The Claimant gave evidence that Ms Couraudon-Petard had acted surprised when the Claimant told her that the had been an outcome to the grievance process. She drew the inference that Ms Couraudon-Petard had not been involved in the final outcome document. The Respondent’s case is that Ms Wade drafted a letter to give effect to the decision reached by Ms Couraudon-Petard.
+
+94. There was an exchange on 14 February 2024 between Rachel Wade and Ms Couraudon-Petard in which the former wrote enclosing “Paul [Gaff’s] changes and comments on so this may help you to review and action the points he has mentioned also please”
+
+95. Ms Couraudon-Petard replied the same day: “Please find attached my comments highlighted in yellow. I tried to follow Paul’s recommendations.
+
+Let me know if I need to amend further.”
+
+Grievance outcome
+
+96. There was an outcome to the appeal on 21 February 2024. Responses were given to the eight points of the grievance.
+
+97. Allegation 2 was partly upheld. In essence the Claimant had been given a further interview as part of recruitment process when the reality was that she was thought to be a weaker candidate than the other two.
+
+98. Allegation 6 was partly upheld, that while the grievance outcome was that the Claimant should not have “manager” as part of her title, this should have been made clearer when she was issued with the contract and job title changed. She was offered a review if the current title did not match the role she was fulfilling.
+
+99. Allegation 7 was partly upheld in that the backdating of salary only went back to 1 January 2023. (This was later than the date on which the Claimant had started a new role).
+
+100. Allegation 8, in relation to the allegations of emails being deleted and amended by Ben Williams, of relevance to the present claim, was not upheld. The investigator explained that there was no technical way for Mr Williams to do what the Claimant alleged. Second, the Claimant had not provided any proof to support this allegation, which was very surprising given its seriousness.
+
+PD5: grievance appeal
+
+101. On 26 February 2024 the Claimant files grievance appeal, which included the following, alleged to be a protected disclosure “Perhaps one of the most significant and disturbing factors of my complaint is the doctoring of emails from my Outlook inbox, inclusive of email deletions of important email chains that support my case of unfair treatment. I have been an employee of Chanel for almost 13 years and at no point during this time have I ever raised security concerns regarding my emails. I am a trusted and honest member of staff who is more than aware of the serious nature of making such accusations and would not do so lightly. The nature of the misconduct that I have raised is inherently to prevent me from being able to prove the background of my case or indeed the action itself. It is no coincidence that this has occurred at a time of exposing other misconduct undertaken by the HR department, in a bid for them to bury the matter, and for it to be unevidenced.”
+
+Grievance appeal
+
+102. The grievance appeal was investigated by Anne Greibach, an external investigator, with support from Amy Roberts (HR).
+
+103. The decision in the appeal was taken by Paul Gaff. The Tribunal found it surprising that Mr Gaff suggested changes on the outcome at the grievance stage and yet was appointed to hear the appeal. It suggests to us that he was not, at the stage of the appeal, fully independent and impartial.
+
+Grievance appeal process
+
+104. Ms Greibach met with the Claimant in person on 13 March and 2 April 2024 and by teams on 19 April and 7 May 2024.
+
+105. She saw carried out 15 interviews with various individuals, which represented a thorough investigation.
+
+Legal advice
+
+106. In April 2024 the Claimant took legal advice.
+
+IT report
+
+107. During the course of the grievance appeal investigation Amy Roberts (HR) and Anne Greibach the investigator asked Mr James Chapman, UK Region Chief Technology Officer to consider the IT/Outlook security aspects of the allegations being raised by the Claimant. He produced a report dated 16 April 2024.
+
+108. The Tribunal had the benefit of his report, which is a five page document comprised of text with some graphic “screen grabs” in its original form and also in a form in which Amy Roberts has added 10 comments added electronically as margin notes. These notes seem to represent explanatory comments provided by the writer of the report. On balance it seems most likely that these were added by Ms Roberts to capture comments made by Mr Chapman in the meeting on 19 April.
+
+109. In summary, this report concluded:
+
+109.1 The wording [of emails] in an inbox could be changed by someone who had access to that inbox.
+109.2 No one other than the Claimant had access to her mailbox.
+109.3 A basic check for the integrity of emails which had allegedly been amended could be carried out by comparing emails in an inbox of the receiver with the sent items of the sender.
+109.4 The dialogue box complained of by the Claimant containing the words “This document contains fields that can share data with external files and websites. It is important that this file is from a trustworthy source.” was not evidence of hacking but was most likely to have been triggered by the inclusion of an image within an email signature, clarified by Mr Chapman to be the “Prosci” qualification image. [Prosci is a change management qualification accredited by an external body.]
+109.5 As to the Claimant’s complaint about mail items ending up in a permanently deleted folder, a possible explanation is put forward which is that accessing outlook from an iPhone would arrange group emails into a single thread. Deleting one item would have the effect of deleting all emails in that thread. Grievance appeal hearing
+
+110. On 19 April 2024 there was a reconvened grievance appeal hearing.
+
+111. Mr Chapman attended this hearing to answer questions in the hearing about the IT report produced by him three days earlier. He reiterated in the meeting that a plausible explanation for the various deleted emails was that the Claimant had deleted an email using her iPhone which had deleted the whole thread of emails as set out in his report.
+
+IT findings
+
+112. In a one page summary document dated 23 April 2024, the findings from the IT part of the ongoing investigation were summarised. In that document it was recorded that tests had been conducted to determine if emails had been doctored or edited. Sent items have been checked for consistency with the original content and emails between the Claimant, Ben Williams and Rachel Wade were compared. No evidence of tampering was found. The conclusion was that there was no evidence to support the Claimant’s allegations of email manipulation or deletion.
+
+113. On 26 April 2024 Chloe Barker confirmed that she had checked emails between Lydia Middleton and Rachel Wade and found that there were no discrepancies. This was not the first time that the two Lydias had been mixed up.
+
+114. We did not hear evidence from Ms Barker to understand what the extent of this mistake was. Mr Daines spoke to her during the Tribunal hearing and relayed her account, which was that she had typed the wrong name but checked the correct emails. She had apparently checked the correct email account (i.e. the Claimant’s) against the printed emails. This was hearsay evidence but seemed to us entirely plausible. It simply would have made no sense at all to check emails in an email account in which the messages did not correspond to the relevant exchanges Mr Williams and Ms Wade.
+
+Grievance appeal outcome
+
+115. And outcome was provided to the grievance appeal by Mr Gaff, who adopted the findings of Ms Greibach, in his letter of 15 May 2024.
+
+116. The overall outcome was that part but not all of the grievance appeal were upheld. There were a number of recommendations.
+
+117. Mr Gaff acknowledged that the job title discussions had become significantly elongated, that the Claimant remained unsatisfied and believed that there had been evolution in her role. In those circumstances Mr Gaff recommended a “review” by the HR team in collaboration with the reward team of her job title and job description.
+
+118. The allegations made by the Claimant regarding Ben Williams’ email were characterised by Mr Gaff as “serious and damaging” and “unsupported speculation”.
+
+119. The recommendations of the grievance appeal outcome report were:  HR to address unhealthy behaviours at all levels in the VM space regarding the confidentiality of the interview and Grievance Processes and ensure a complete embargo on any commentary or communication of the processes other than through HR.  HR to review the support they provide to complainants during the Grievance Process.  HR to ensure there is systemically organised support for unsuccessful internal candidates.  HR to take oversight for all contractual issues so that all issues are sorted on a timely and consistent basis with appropriate oversight and checking.  HR together with the Reward team to review LM’s job title and description. Following this review a contract change letter should be issued and signed.  Particular coaching for LM to provide an opportunity for her to reflect on what has happened with the potential to reframe. This coaching could address any lack of corporate maturity that becomes evident, which may have led to a reliance on speculative comment and a failure to understand the likely impact of making unwarranted accusations on both the individuals concerned and herself.  HR together with the VM Line Management to discuss with LM how to best address her professional goals with Chanel. [emphasis added] Earlier “privileged” draft
+
+120. It became clear during the course of the Tribunal hearing that the Claimant had rightly understood that there was an earlier draft of the grievance appeal report. The only difference between that report and the version we saw was half a line deleted which had been removed following an email exchange involving Mr Gaff in respect of which legal professional privilege was asserted.
+
+Further IT investigation
+
+121. On 5 June 2024 Mathew Quinney, Regional IT Director, wrote to the Claimant by email, following a further complaint by her to look in to concerns in relation to the IT investigation. He confirmed that his review of James Chapman’s investigation led to him concluding that this was appropriately conducted and the executive summary accurate. He offered reassurance that her corporate inbox had not been hacked and that no one other than her had had access to it. She also validated that the Global Team had been involved in the investigation.
+
+ACAS comment about “disciplinary”
+
+122. Between 14 and 18 June 2024 the Claimant and Amy Roberts, Senior HR Business Partner – Corporate had an email exchange entitled “Privileged and Confidential: Early Conciliation”. Notwithstanding that title, the communication that we have seen in that exchange is privileged. It does not contain proposals to settle a dispute. Rather it contains an exchange following on from the outcome of the grievance appeal.
+
+123. In an email dated 15 June 2024 the Claimant alleged that ACAS told her that she had gone through a disciplinary.
+
+124. On 18 June 2024, Amy Roberts responded to the Claimant’s suggestion, based on her conversation with the ACAS conciliator that she was being subject to a disciplinary procedure. Ms Roberts explicitly stated in her email on 18 June 2024 this was “not at all the case”.
+
+Allegation about falsified documents
+
+125. As part of the exchange with Amy Roberts, in an email on 15 June 2024, with Gregory Daines in copy the Claimant made following allegation: I also wish to discuss the documents that were uploaded onto Workday on the 23rd January 2024 without my knowledge. They appear to be a contract in three parts dating from June 2022 with a signature that looks like mine, yet I have never seen these documents before (I discovered them in May 2024). These documents were also never security checked as my contract from May 2022 was (which I am aware of and did sign). I shall need to know who uploaded these documents and why.
+
+PD#6 – meeting 20 June 2024
+
+126. Following on from the recommendation in the grievance appeal outcome that there should be a review of the Claimant’s grade, on 20 June 2024 the Claimant attended an in person meeting with Gregory Daines regarding her job role. Also present at this meeting was Quentin Palaz – Décor & Graphic Design Manager, the Claimant’s line manager. Mr Daines says that Nicolas Crequit, Head of Visual Merchandising, Production & Design, the Claimant’s second line manager was also present, although that detail is omitted from the Claimant’s witness statement. Nothing appears to turn on that slight discrepancy.
+
+127. It was explained to the Claimant that her title would be “evolved” from: Visual Merchandiser & Creative Design Coordinator, to Visual Merchandising & Creative Design Coordinator. This was a job title that the Claimant had suggested in an email exchange approximately two years earlier that she was prepared to accept.
+
+128. After a review of the Claimant’s grade, using the Willis Towers Watson Grading system, the Claimant’s role was confirmed at Grade 11, consistent with the outcome of the process in 2022. As a result there was no reason to re-evaluate the Claimant’s salary.
+
+129. Mr Daines’ evidence is that he told the Claimant that he understood that she would be disappointed with the outcome in empathetic way, demonstrating that he fully understood her disappointment and this was not delivered in a critical or harsh way. We accepted this evidence.
+
+130. Finally the Claimant was offered coaching.
+
+131. The Claimant says that during the course of this meeting and after Mr Daines had explained about her current job title she made the sixth and final protected disclosure, which was that the 3 HR documents uploaded onto Workday on the 23 January 2024 dated 2 June 2022 was part of a falsified employment contract. She says that she alleged that this was not her signature on the document and that she had never signed it. She says that she stated that the signature that was on that document was not hers or someone had signed it without her permission.
+
+132. Mr Daines does not recall any detailed conversation on 20 June about the 3 documents on Workday, although he was already aware, having been copied in an email on 15 June that the Claimant had raised concerns about documents on Workday that she said had not been signed by her. He understood that these matters were being investigated and looked at by others in the business and for this reason did not engage in any conversation about those concerns, but rather focussed on the job title and grade review.
+
+Follow up email
+
+133. No note of the meeting was taken on 20 June, but Mr Daines followed up the meeting in an email sent on 2 July 2024. This confirmed that the Respondent was “evolving” the Claimant’s job title, the outcome of the grade review and the fact that the salary remained unchanged. There was no reference to the allegation made by the Claimant that the 2 June 2022 version of her contract on Workday contained a forged signature.
+
+SRA report
+
+134. On 17-18 July 2024 the Claimant made a report to the SRA regarding Ben Williams. During the submission of that report the SRA administration team emailed the Claimant explaining that they were struggling to download her files and requested that she send documents by email instead. CrowdStrike global outage
+
+135. The Claimant believed that there was a connection between the submission of her complaint to the SRA and the Microsoft/CrowdStrike IT outage the following day which affected millions of computer terminals worldwide.
+
+136. An internal email was sent to Respondent employees at 12:57 on 19 July to the effect that the global service provider, CrowdStrike, which provided cybersecurity monitoring, was experiencing a global outage of services affecting businesses worldwide, which included Chanel. In the email it was explained that “This Major Incident is affecting Wired & Wireless connectivity between Chanel infrastructure equipment, laptops / desktops, iPads, mobile phones to the Chanel networks.”
+
+137. Guidance was given to employees to call a service desk if affected.
+
+138. The Claimant described the events of 19 July at paragraph 235 of her witness statement: 19th July 2024, I woke up to the news of the global Microsoft/CrowdStrike IT outage – I knew this must have something to do with/be a result of the report I had made to the SRA. I saw all the disruption and chaos this caused globally, I felt extremely guilty, but at the same time I knew I had done the right thing going to the SRA. The following week in work it appeared a lot of the people involved in my claim were very anxious and stressed. I also later saw on the news how seriously the situation was all being taken, including the Senior Vice-President for Counter-Adversary Operations at CrowdStrike having to go before Congress to explain what had happened, I believe in September 2024.
+
+[emphasis in bold added]
+
+139. It was explored with the Claimant during the Tribunal hearing whether, with the benefit of hindsight, she still believed that there was a connection between her submission of a complaint to the SRA and the Microsoft/CrowdStrike global IT outage, given that CrowdStrike themselves had accepted responsibility for it.
+
+140. The Claimant maintained that there was a connection.
+
+141. We accepted the Respondent’s characterisation of the Claimant’s evidence on this matter as a far fetched conclusion based on a coincidence of timing and the Respondent’s submission that there was no rational reason Claimant came to this conclusion.
+
+SRA
+
+142. On 21 October 2024 the SRA confirmed by email to the Claimant that no further action would be taken on her complaint about Mr Williams.
+
+Proceedings
+
+143. The ACAS Early Conciliation period was 27 April 2024 to 8 June 2024.
+
+144. On 5 July 2024 the Claimant presented a claim to the Employment Tribunal. The Claimant sought a remedy of “Compensation and to have a review of my job title, grading, description and salary with the HR and Reward Team.”
+
+145. On 15 November 2024 Employment Judge Webster made a case management order approving list of issues.
+
+146. On 29 April 2025 Employment Judge Elliot refused application to amend.
+
+LAW
+
+147. We are grateful to the parties for their submissions.
+
+Protected disclosure detriment (“whistleblowing”)
+
+148. The Claimant identified at the hearing, having been given advanced notice by the Claimant of the following statutory provisions for the purposes of “legal obligation”, of relevance to her protected disclosure claim: Computer Misuses Act 1990 (“CMA 1990”) Section 1(a) (b) & (c)
+
+Section 2(1)(a), 2 (1)(b)
+
+Section 2(3)
+
+Data Protection Act 2018 (“DPA 2018”)
+
+Section 170(1)(a) & (b) & (c)
+
+Section 173(3)
+
+GDPR
+
+Claimant did not have the subsections – the data breach and not informed within the legal limit of 60 days.
+
+149. The Employment Rights Act 1996 (“ERA”) contains the following provisions: 43B Disclosures qualifying for protection.
+
+(1) In this Part a "qualifying disclosure" means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and tends to show
+
+one or more of the following-
+
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject, … 47B Protected disclosures.
+
+(1) A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the worker has made a protected disclosure. 48.— Complaints to [employment tribunals]1. (1A) A worker may present a complaint to an employment tribunal that he has been subjected to a detriment in contravention of section 47B.
+
+(2) On a complaint under subsection … (1A) … it is for the employer to show the ground on which any act, or deliberate failure to act, was done. (2A) On a complaint under subsection (1AA) it is for the temporary work agency or (as the case may be) the hirer to show the ground on which any act, or deliberate failure to act, was done.
+
+(3) An employment tribunal shall not consider a complaint under this section unless it is presented—
+
+(a) before the end of the period of three months beginning with the date of the act or failure to act to which the complaint relates or, where that act or failure is part of a series of similar acts or failures, the last of them, or
+(b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
+
+(4) For the purposes of subsection (3)—
+
+(a) where an act extends over a period, the “date of the act” means the last day of that period, and
+(b) a deliberate failure to act shall be treated as done when it was decided on; 95 Circumstances in which an employee is dismissed.
+
+(1) For the purposes of this Part an employee is dismissed by his employer if (and, subject to subsection (2)..., only if) —
+
+(b) he is employed under a limited-term contract and that contract terminates by virtue of the limiting event without being renewed under the same contract 103A Protected disclosure. An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee made a protected disclosure
+
+150. The burden of proving each of the elements of a protected disclosure is on a claimant (Western Union Payment Services UK Ltd v Anastasiou, 13 February 2014 per HHJ Eady QC at [44]).
+
+151. In Kilraine v London Borough of Wandsworth [2018] ICR 1850 the Court of Appeal held that a sharp distinction between “allegations” and “disclosures” which appeared to have been identified in earlier authorities was a false dichotomy, given than an allegation might also contain information tending to show, in the reasonable belief of the maker, a relevant failure. At [35], Sales LJ said: “In order for a statement or disclosure to be a qualifying disclosure according to this language, it has to have a sufficient factual content and specificity such as is capable of tending to show one of the matters listed in subsection (1).”
+
+152. There is an initial burden of proof on a claimant to show (in effect) a prima facie case that she has been subject to a detriment on the grounds that she made a protected disclosure. If so, the burden passes to the not to prove that any alleged protected disclosure played no part whatever in the claimant’s alleged treatment, but rather what was the reason for that alleged treatment. Simply because the respondent fails to prove the reason does not act as a default mechanism so that the claimant succeeds. The ET is concerned with the reason for the treatment and not a quasi-reversal of proof and deemed finding of discrimination i.e. there is no mandatory adverse inference mechanism (Dahou v Serco Ltd [2017] IRLR 81, CA).
+
+Whether belief reasonable
+
+153. Whether a belief is reasonable is to be assessed by reference to “what a person in their position would reasonably believe to be wrongdoing”: Korashi v Abertawe Bro Morgannwg University Local Health Board [2012] IRLR 4 per Judge McMullen QC at [62]. In that case Mr Korashi was a specialist medical consultant and an assessment of what was reasonable needed to be by reference to what someone in that position would reasonably believe. HHJ McMullen QC said this: “61 There seems to be no dispute in this case that the material for the purposes of s.43B(1)(a)–(e) would as a matter of content satisfy the section. In our view it is a fairly low threshold. The words 'tend to show' and the absence of a requirement as to naming the person against whom a matter is alleged put it in a more general context. What is required is a belief. Belief seems to us to be entirely centred upon a subjective consideration of what was in the mind of the discloser. That again seems to be a fairly low threshold. No doubt because of that Parliament inserted a filter which is the word'reasonable'. 62 This filter appears in many areas of the law. It requires consideration of the personal circumstances facing the relevant person at the time. Bringing it into our own case, it requires consideration of what a staff grade O&G doctor knows and ought to know about the circumstances of the matters disclosed. To take a simple example: a healthy young man who is taken into hospital for an orthopaedic athletic injury should not die on the operating table. A whistleblower who says that that tends to show a breach of duty is required to demonstrate that such belief is reasonable. On the other hand, a surgeon who knows the risk of such procedure and possibly the results of meta-analysis of such procedure is in a good position to evaluate whether there has been such a breach. While it might be reasonable for our lay observer to believe that such death from a simple procedure was the product of a breach of duty, an experienced surgeon might take an entirely different view of what was reasonable given what further information he or she knows about what happened at the table. So in our judgment what is reasonable in s.43B involves of course an objective standard – that is the whole point of the use of the adjective reasonable – and its application to the personal circumstances of the discloser. It works both ways. Our lay observer must expect to be tested on the reasonableness of his belief that some surgical procedure has gone wrong is a breach of duty. Our consultant surgeon is entitled to respect for his view, knowing what he does from his experience and training, but is expected to look at all the material including the records before making such a disclosure. To bring this back to our own case, many whistleblowers are insiders. That means that they are so much more informed about the goings-on of the organisation of which they make complaint than outsiders, and that that insight entitles their views to respect. Since the test is their'reasonable' belief, that belief must be subject to what a person in their position would reasonably believe to be wrong-doing.”
+
+Legal obligation (section 43B(1)(b))
+
+154. In Blackbay Ventures Ltd v Gahir [2014] IRLR 416 in which HH Judge Serota QC, sitting with members, held at paragraph 98 that in considering whether
+
+there had been a protected disclosure:
+
+'Save in obvious cases if a breach of a legal obligation is asserted, the source of the obligation should be identified and capable of verification by reference for example to statute or regulation. …'
+
+155. This approach was cited and approved by Slade J in Eiger Securities LLP v Korshunova [2017] IRLR 115 (EAT). In that case the Employment Appeal Tribunal also considered what amounted to a legal obligation. In Korshunova the communication held by the ET to be a protected disclosure occurred when Ms Korshunova challenged a managing director (who was a compliance officer and registered with the FCA) about using her computer screen in using an online chat with an external trader without identifying himself as not being her. Both K and the third party trader were angry and considered this ‘deception’. Slade J held that it was not enough for the Tribunal to find that K had a reasonable belief in how a client should be treated, or that what she was saying was true and applicable in this industry. She held [46]: “In my judgment it is not obvious that not informing a client of the identity of the person whom they are dealing if the employee is trading from another person's computer is, as in Bolton, plainly a breach of a legal obligation. That being so, in order to fall within ERA s.43B(1)(b), as explained in Blackbay the ET should have identified the source of the legal obligation to which the claimant believed Mr Ashton or the respondent were subject and how they had failed to comply with it. The identification of the obligation does not have to be detailed or precise but it must be more that a belief that certain actions are wrong. Actions may be considered to be wrong because they are immoral, undesirable or in breach of guidance without being in breach of a legal obligation. However, in my judgment the ET failed to decide whether and if so what legal obligation the claimant believed to have been breached
+
+[emphasis added]
+
+156. This approach to identification of the legal obligation may be somewhat stricter than the less legalistic approach taken in earlier cases such as Bolton School
+
+v. Evans [2006] IRLR 500, EAT. The learned editors of Harvey on Industrial Relations and Employment Law suggest that what appears to be a difference in approach might be reconciled as follows: This apparent conflict (or at least difference in approach) was resolved in Arjomand-Sissan v East Sussex Healthcare NHS Trust UKEAT/0122/17 (17 April 2019, unreported) where Soole J held that it depends on the stage of the complaint/action that is involved. The more indulgent (realistic?) approach in Bolton School and Anastasiou was adopted at the stage of the original disclosure to the employer, which must be viewed in a commonsense way, not requiring citation of legal chapter and verse, but rather just enough for the employer to understand the complaint. On the other hand, Blackbay and Eiger concerned the specificity required at the stage of any eventual ET complaint, where it is reasonable to expect the claimant to make clear just what the infringed legal obligation was (especially as Eiger affirms that it must indeed have been a legal obligation, not just a moral or professional one). Tends to show
+
+157. “Tends to show” imposes a relatively light burden on a Claimant (Babula v Waltham Forest College [2007] ICR 1026 per Wall LJ at para 79; Arjomand- Sissan v East Sussex Healthcare NHS Trust UKEAT/0122/17/BA per Soole J para 26).
+
+Public interest
+
+158. The Court of Appeal in Chesterton Global Ltd & Anor v Nurmohamed & Anor [2017] EWCA Civ 979 confirmed that public interest does not need to relate to the population at large, but might relate to a subset, in that case a category of managers whose bonus calculation was negatively affected. It seems that it cannot relate solely to the interest of the person making the disclosure. The following guidance was given on that case as to reasonable belief in the public interest, per Underhill LJ: “27. First, and at the risk of stating the obvious, the words added by the 2013 Act fit into the structure of section 43B as expounded in Babula (see para. 8 above). The tribunal thus has to ask (a) whether the worker believed, at the time that he was making it, that the disclosure was in the public interest and (b) whether, if so, that belief was reasonable.
+
+28. Second, and hardly moving much further from the obvious, element (b) in that exercise requires the tribunal to recognise, as in the case of any other reasonableness review, that there may be more than one reasonable view as to whether a particular disclosure was in the public interest; and that is perhaps particularly so given that that question is of its nature so broad- textured. The parties in their oral submissions referred both to the "range of reasonable responses" approach applied in considering whether a dismissal is unfair under Part X of the 1996 Act and to "the Wednesbury approach" employed in (some) public law cases. Of course we are in essentially the same territory, but I do not believe that resort to tests formulated in different contexts is helpful. All that matters is that the Tribunal should be careful not to substitute its own view of whether the disclosure was in the public interest for that of the worker. That does not mean that it is illegitimate for the tribunal to form its own view on that question, as part of its thinking – that is indeed often difficult to avoid – but only that that view is not as such determinative.
+
+29. Third, the necessary belief is simply that the disclosure is in the public interest. The particular reasons why the worker believes that to be so are not of the essence. That means that a disclosure does not cease to qualify simply because the worker seeks, as not uncommonly happens, to justify it after the event by reference to specific matters which the tribunal finds were not in his head at the time he made it. Of course, if he cannot give credible reasons for why he thought at the time that the disclosure was in the public interest, that may cast doubt on whether he really thought so at all; but the significance is evidential not substantive. Likewise, in principle a tribunal might find that the particular reasons why the worker believed the disclosure to be in the public interest did not reasonably justify his belief, but nevertheless find it to have been reasonable for different reasons which he had not articulated to himself at the time: all that matters is that his (subjective) belief was (objectively) reasonable.
+
+30. Fourth, while the worker must have a genuine (and reasonable) belief that the disclosure is in the public interest, that does not have to be his or her predominant motive in making it: otherwise, as pointed out at para. 17 above, the new sections 49 (6A) and 103 (6A) would have no role. I am inclined to think that the belief does not in fact have to form any part of the worker's motivation – the phrase "in the belief" is not the same as "motivated by the belief"; but it is hard to see that the point will arise in practice, since where a worker believes that a disclosure is in the public interest it would be odd if that did not form at least some part of their motivation in making it.”
+
+[emphasis added]
+
+Causation
+
+159. The causation test for detriment is whether the alleged protected disclosure played more than a trivial part in the Claimant’s treatment (Fecitt v NHS Manchester (Public Concern at Work intervening) [2012] ICR 372, CA).
+
+160. The Equality Act 2010 contains the following provisions:
+
+CONCLUSIONS
+
+1. Time limits
+
+1.1 Given the date the claim form was presented and the dates of early conciliation, any complaint about something that happened before 28 January 2024 may not have been brought in time.
+1.2 Was the Whistleblowing detriment claim brought within time. The Tribunal will decide:
+1.2.1 Was the claim made to the Tribunal within three months (plus early conciliation extension) of the act complained of?
+
+161. The first 8 detriments (issues 3.1.1-3.1.8 inclusive) are alleged to have occurred before 28 January 2024.
+
+1.2.2 If not, was there a series of similar acts or failures and was the claim made to the Tribunal within three months (plus early conciliation extension) of the last one?
+
+162. There is no continuing act of detriment to bring these allegations in time.
+
+1.2.3 [unauthorised deductions] If not, was there a series of deductions and was the claim made to the Tribunal within three months (plus early conciliation extension) of the last one?
+
+163. This was in the list of issues but does not appear to be relevant.
+
+1.2.4 If not, was it reasonably practicable for the claim to be made to the Tribunal within the time limit?
+
+164. The burden is on the Claimant to show that it was not reasonably practicable to present her claim in time. She did not do this. She took legal advice as early as April 2024. We are not satisfied that there is evidence that she was unable to present a claim in time.
+
+165. It follows that there is no extension of time in relation to the first eight alleged detriments. In case we are wrong about that, we have gone on to deal with the alleged detriments in the alternative.
+
+1.2.5 If it was not reasonably practicable for the claim to be made to the Tribunal within the time limit, was it made within a reasonable period?
+
+166. This is not relevant in view of our finding above.
+
+Protected disclosure
+
+2. Protected disclosure
+
+2.1 Did the claimant make one or more qualifying disclosures as defined in section 43B of the Employment Rights Act 1996? The Tribunal will decide:
+2.1.1 What did the claimant say or write? When? To whom? The claimant says they made disclosures on these occasions: The Claimant relies upon the following:
+
+PD1
+
+167. The alleged protected disclosure is: “noticed some of the emails are missing – so I think some have been deleted by Ben Williams to perhaps protect himself”
+
+168. Was there a disclosure of information? On balance, though it might be argued that this is merely an allegation we find that there was a disclosure of information, i.e. that emails had been deleted. The point about emails being deleted by Mr Williams are more of the nature of conjecture, although this was the conclusion that the Claimant drew from her apparent disclosure of fact.
+
+Belief
+
+169. Did the Claimant believe that the disclosure tended to show breach of legal obligation? The Tribunal agreed with Mr Proffitt’s submission that the Claimant believed her allegations. She subjectively believed that the disclosure tended to show tampering of emails by a fellow employee. We accept this would be a breach of legal obligation.
+
+Whether belief reasonable
+
+170. Was it reasonable for the Claimant to have that belief? The Tribunal recognises that it is possible to reasonably hold a belief which is wrong. We are not evaluating whether or not the Tribunal believes ourselves that the disclosure in this case tended to show breach of a legal obligation. The threshold for “tended to show” is low. It is still a threshold, however.
+
+171. We do not find that it was reasonable to believe that the absence of some emails (or the discovery of those emails in deleted items) tended to show that there had been a breach of legal obligation in the sense of deliberate tampering by a fellow employee. Tampering or deletion would have been significant misconduct. In Korashi, the EAT held at paragraph 62 in the context of analysing reasonable belief that there was an expectation of examination of the relevant evidence before making a disclosure. The scheme of the statutory protection is to protect responsible whistleblowers, who might be wrong. It is not to protect wild or irresponsible conjecture with no evidential basis. There had been no investigation by IT at the stage of the first alleged disclosure and there was no information disclosed by the Claimant to specifically suggest Mr Williams’ involvement.
+
+172. We find, even allowing for the low threshold for “tended to show”, that was not reasonable of the Claimant to believe her disclosure tended to show the alleged breach of legal obligation.
+
+173. It follows that this was not a protected disclosure. In case the Tribunal is wrong about that, however, we have looked at the public interest elements.
+
+Public interest
+
+174. Did the Claimant hold the belief that the disclosure was raised in the public interest? The Respondent argues that public interest was not mentioned at all and that this was of the nature of a private dispute.
+
+175. The Tribunal does not agree with the Respondent’s characterisation that this was purely believed by the Claimant to be a private dispute. Subjectively, we find that the Claimant did believe it was raised in the public interest. She did have a genuine concern about this affecting other people which she stated in her oral evidence to the Tribunal. The Claimant knew that that Mr Williams was a solicitor from the beginning. We find that she was especially sensitised to the topic of hacking because of a family member experienced having their emails hacked.
+
+176. Was the Claimant reasonable to believe that this matter was raised in the public interest? We find that objectively it was reasonable for the Claimant to believe that this was being raised in the public interest. The ingredients of this potentially affecting other people and Mr Williams being a solicitor made this objectively a matter of public interest based on the Claimant’s belief.
+
+PD2
+
+177. The alleged protected disclosure is described by the Claimant as follows:
+
+On 15 January 2024 I spoke to both Mohamed Nasr and Graham
+
+Gibbs from Security about the email hacking, and how I suspected it was Ben Williams. I showed them when the missing emails reappeared, and some were doctored. I also showed Graham Gibbs the message that appeared when I pasted Ben Willias emails into Microsoft Word (see paragraph 48) and the emails I sent to Rachel Wade as evidence for my grievance. I believed it was a breach of the Respondent’s legal obligations to comply with the Computer Misuse Act 1990, Data Protection Act 2018 and GDPR.
+
+178. The actual disclosure was captured at the time: “Lydia alleges that her emails are being accessed and correspondence is being edited. Emailed Ben on 2nd of January
+
+with Arianna Weight (sic) in copy. On 3rd it was flagged by
+
+Arianna and when she met 5th he said he was glad she had gone down an informal process. Emails may have accessed between the 2nd of January & the 9th of January. Lydia told him a formal process was in place. Lydia felt pressured into going down the less formal process.
+
+She has message in her inbox that say “Deleted Items”
+
+179. Was there a disclosure of information? Yes, the disclosure was that the Claimant’s emails were being edited and correspondence being edited.
+
+Reasonable belief
+
+180. Did the Claimant believe that the disclosure tended to show breach of legal obligation? Yes, we accept that the Claimant subjectively believed that this tended to show tampering of emails by a fellow employee, which we accept was a breach of legal obligation.
+
+181. Was it reasonable for the Claimant to have that belief?
+
+182. For similar reasons as set out in relation to the first alleged protected disclosure we do not find it was reasonable for the Claimant to have this belief. Again this was conjecture without any evidence basis.
+
+Public interest
+
+183. Did the Claimant hold the belief that the disclosure was raised in the public interest? Yes, for the same reasons as the first alleged protected disclosure.
+
+184. Was the Claimant reasonable to believe that this matter was raised in the public interest? Yes, for the same reasons as the first alleged protected disclosure.
+
+185. This was not a protected disclosure.
+
+PD3
+
+186. The alleged protected disclosure is On the 16th January 2024 I raised a ticket with IT Security. On the ticket I explained emails were being tampered with between Ben Williams and I. Also, with Rachel Wade with some ending up in my permanently deleted folder, and that these emails were strictly confidential. I said I suspected it to be Ben Williams. I believed it was a breach of the Respondent’s legal obligations to comply with the Computer Misuse Act 1990, Data Protection Act 2018 and GDPR.
+
+187. The actual disclosure appears at page 707: My emails regarding a confidential matter (a formal resolution case) are being edited and tampered with - I believe by someone involved in the case (Ben Williams). First emails were being deleted and then once I got suspicious they reappeared, but not as they originally were. They had been edited/recreated. I found emails to my HR support (Rachel Wade) in my permanently deleted file - I believe my emails to her have also been edited.
+
+188. This was a further expansion of the allegation but again without any evidence beyond mere conjecture pointing to tampering or specifically to Mr Williams.
+
+189. For similar reasons to those set out above in relation to the earlier alleged protected disclosures, this was not a protected disclosure.
+
+PD4
+
+190. The alleged protected disclosure is On the 29th January 2024 during my interview with Marion Couraudon-Petard I raised my concerns again about Ben Williams regarding my emails and believing my Outlook account had been hacked. I believed it was a breach of the Respondent’s legal obligations to comply with the Computer Misuse Act 1990, Data Protection Act 2018 and GDPR.
+
+191. What the Claimant said in this meeting was captured as follows in the notes: didn’t feel I was treated not the right way and emails were hacked and deleted and found in permanently deleted and I was speaking to Rachel and I was speaking to Ben Williams as I asked for help and he made me feel uncomfortable as felt he pushed to informal and gone to Sophie and Greg and wanted a meeting to discuss the feedback and sit down with Greg and discuss title and salary and felt uncomfortable and knew formal started and through that but he said informal and said that and I thought I hadn’t gone informal and I felt pushed and I said I want formal so above SP and Greg for someone to look at that and Rachel was assigned and confidential thread and I wanted to show her the thread and noticed bits missing and saw emails had gone and thought maybe editing and gone from sent also and no trace from conversations and through odd and I raised with IT and also looked into more as a big accusation also and emails that sent to Rachel also deleted and I thought that’s strange and cancelled last min and not booked in on teams and all evidence and I spoke to security and they said speak to HR and IT and spoke to Rachel
+
+[emphasis in bold added]
+
+192. For similar reasons to those set out above in relation to the earlier alleged protected disclosures, this was not a protected disclosure.
+
+193. Insofar as this disclosure contained an additional element which is the Claimant say she felt uncomfortable because Mr Williams had “pushed” her to an informal process, this was no more than in line with the process but in any event we did not find that even if she felt that she had been pushed initially towards an informal process this would be a reasonable basis to conclude that Mr Williams had then begun to delete and/or amend her emails.
+
+194. We reiterate that this was a serious allegation and it was not reasonable to belief the very limited information disclosed by the Claimant tended to show it.
+
+PD5
+
+195. The alleged protected disclosure is On the 26th February 2024 in my appeal letter to People Team in response to the outcome letter dated 21 February 2024. The outcome letter dismissed my concerns about Ben Williams and stated I provided no evidence to support my allegation (despite never being given the chance to personally, and I did give evidence to Marion Couraudon-Petard after our meeting). I replied voicing my concerns regarding Ben Williams once again, and inquired what internal investigations had been undertaken to find the individual high up with authority in IT who was helping Ben Williams to access my Outlook account. I also gave all my evidence at this point and asked for the emails between Rachel Wade and I to be compared. I believed it was a breach of the Respondent’s legal obligations to comply with the Computer Misuse Act 1990, Data Protection Act 2018 and GDPR.
+
+196. The appeal letter contained the following: “Perhaps one of the most significant and disturbing factors of my complaint is the doctoring of emails from my Outlook inbox, inclusive of email deletions of important email chains that support my case of unfair treatment. The screenshots within my evidence linked below provide a snapshot of the doctored emails and communications. Ten emails I sent to Ben Williams were permanently deleted from my inbox and then reappeared (3 of them clearly edited) upon me informing Security in confidence of the email hacking on the 15th of January. (I have attached screenshots showing the emails missing at 10.48am and then reappearing at 11.11am on the 15th of January. I informed Security about the email hacking around 9.30am). Why would I permanently delete emails that provide the foundation of my complaint? I have a clear recollection of what was deleted from specific email threads, and I am deeply concerned that Marion Couraudon-Petard is overlooking the seriousness of my complaint. The outcome letter advises that IT have confirmed there is no technical way for Ben Williams to do what I have alleged, yet it would be possible by someone high up with the authority in IT. I would like to know who has the ability to do this, as I strongly believe someone else is involved. I believe Ben Williams was acting in collaboration with another individual who assisted. Please can you advise me what investigations have been undertaken to identify this individual. I would also like to know who ‘resolved’ the ticket I raised with IT for the email hacking shortly after I removed my email exchanges with Rachel Wade that were attached to it, and with no further explanation. The outcome letter also notes that the email trails sent between Ben Williams and I were checked, and match 100%, I do not dispute this. However, the emails between myself and Rachel Wade (and used to reach this outcome), which have yet to be checked have not yet been confirmed as a 100% match. I do not feel the matter has been fully investigated. Please see the list of items below where some form of tampering took place:
+
+• * Emails were first deleted between Ben Williams and I once I mentioned a formal resolution process was in place after the meeting we had on the 5th January, where he only suggested and pushed for following an informal resolution process having spoken to Sophie Penn and Gregory Daines.
+• * The email where I told Rachel Wade about the plan Ben Williams, Sophie Penn and Gregory Daines formed to push me through an informal process, as well as the dates I was available to meet with her and my assigned manager was deleted.
+• * The email where I attached my evidence regarding my lack of a new job title (email and Teams exchanges with Sophie Penn) was permanently deleted.
+• * The emails where Rachel Wade and I discussed suitable dates and times to meet with Marion Couraudon-Petard were permanently deleted. [emphasis in bold added]
+
+197. For similar reasons to those set out above in relation to the earlier alleged protected disclosure, this was not a protected disclosure.
+
+198. The Claimant also alleged that Mr Williams had “doctored” an email sent from him to her on 5 January 2024. The email originally said “WHO IS IT” and she alleges he amended that to a more conversational “Hi Lydia, who was the email to Quentin from please?”
+
+199. Her suggestion that Mr Williams had doctored a message from himself to make it sound more polite is without corroborative evidence. It appears to be from the Claimant’s own recollection, but there is no evidence of it. We have again considered Korashi and the requirement to look at the evidence. It was not reasonable of the Claimant to believe that this tended to show a breach of legal obligation.
+
+PD6
+
+200. The alleged protected disclosure is On the 20 June 2024 I spoke to Gregory Daines in our meeting about the 3 HR documents uploaded onto Workday on the 23 January 2024 and informed him I never signed the Schedule of Non-Contractual Benefits document dated 2 June 2022. That is part of a falsified employment contract. I said that this was not my signature on the document and that I had never signed it. I informed them that the signature that was on that document was not mine or someone had signed it without my permission.
+
+201. Was there a disclosure of information? There was a disclosure of information which is that there was a document that had been uploaded onto Workday which the Claimant herself had not signed.
+
+Reasonable belief
+
+202. Did the Claimant believe that the disclosure tended to show breach of legal obligation? The Tribunal accepts that the Claimant believed that this was a breach of legal obligation, specifically fraud or misrepresentation and a breach of Data Protection Act 2018, section 173(3).
+
+203. Was it reasonable for the Claimant to have that belief? There was a basis for the Claimant to think that something untoward had occurred. The timing followed on from her raising her grievance. She raised her concern that these documents had only recently been uploaded, nearly 2 years after they had purportedly been signed and that the amended June 2022 version had never been seen by her. That was raised by her an email sent on Saturday, 15 June 2024. Amy Roberts replied on 18 June 2024, but ducked the question in relation to the June 2022 contract. She did not answer this.
+
+204. The Claimant reiterated her position in an email of reply sent the same morning. The Claimant was never given a satisfactory explanation as to why there were two different versions of the contract. Although in the Tribunal hearing it was suggested that this June 2022 document was in identical terms to the May 2022 version, in fact there is a material difference in relation to overtime payment.
+
+Public interest
+
+205. Did the Claimant hold the belief that the disclosure was raised in the public interest? Whereas the Claimant says that complaints about emails being deleted or doctored by Mr Williams lead her to a concern about colleagues, turning to PD6, this second version of the contract is not something that she ever said affected anyone else. We did not find that the Claimant held the belief that this disclosure was raised in the public interest. She did not identify any disadvantage suffered by her because of the June terms.
+
+206. Was the Claimant reasonable to believe that this matter was raised in the public interest? Even if we are wrong about the Claimant’s subjective belief about public interest, we did not find that it would have been reasonable for her to believe that this was being raised in the public interest. The June 2022 version was identical save for the overtime payment provision which was more advantageous to the Claimant. In other words there was no disadvantage to her. The matter did not affect anyone else. We cannot see how even based on the Claimant’s own view of this there was a wider public interest, since the change in contract operated in her favour.
+
+2.1.2 Did they disclose information?
+2.1.3 Did they believe the disclosure of information was made in the public interest?
+2.1.4 Was that belief reasonable?
+2.1.5 Did they believe it tended to show that:
+2.1.5.1 a person had failed, was failing or was likely to fail to comply with any legal obligation;
+2.1.6 Was that belief reasonable?
+
+207. Each of these elements is dealt with above.
+
+2.2 If the claimant made a qualifying disclosure, it was a protected disclosure because it was made to the claimant’s employer.
+
+DETRIMENTS
+
+208. Given our finding that none of the six alleged protected disclosures were in law protected disclosures falling within the meaning of the Employment Rights Act 1996, the claim of detriment cannot succeed.
+
+209. The first eight alleged detriments are out of time (3.1.1-3.1.8). Time has not been extended.
+
+210. If we are wrong about the protected disclosure and out decision on the detriments being out of time we have gone on to consider the question of detriment in the alternative, since we heard evidence on these matters.
+
+3. Detriment (Employment Rights Act 1996 section 48)
+
+3.1 Did the respondent do the following things:
+3.1.1 Fail to follow a grievance procedure in line with the ACAS Code of Practice on Disciplinary and Grievance Procedures. The grievance was sent on 2 January to Ben Williams. The issues with the process are:
+
+(i) The process was changed from a grievance process to a disciplinary process without explanation.
+
+211. This is not established.
+
+212. The only basis for this alleged detriment is a comment apparently made by an ACAS conciliator on 4 June 2024. That was after the grievance process had concluded. Apart from that comment, there is evidence that the Claimant was being subject to a disciplinary. None of the documentation suggested that the Claimant was being subject to a disciplinary.
+
+213. The nature of a disciplinary process includes two essential elements. First, is that an employee faces a potential disciplinary sanction. Second, the Claimant is accused of wrongdoing. The Claimant has not identified either of these essential elements.
+
+214. Ms Roberts explicitly confirmed to the Claimant in her email on 18 June 2024 that it was not a disciplinary.
+
+215. Attending a hearing as part of a grievance or grievance investigation is not the same thing as a disciplinary hearing.
+
+(ii) The meeting held by Marion Couraudon-Petard was a disciplinary investigation meeting not a grievance investigation meeting.
+
+216. The same considerations apply as for the previous detriment.
+
+(iii) The Claimant was not told what to prepare for the meeting.
+
+217. Rachel Wade accepts that she could have provided an invitation letter to the grievance investigation. We do not find however that this amounted to a detriment. The Claimant contrary to the suggestions above, was not being subject to a disciplinary hearing. She herself knew the content of her own grievance. The Respondent was entitled to expect that the Claimant would understand that the topic for discussion would be the grievance.
+
+(iv) The person investigating the matter was not the person providing the outcome.
+
+218. The Claimant’s suspicion was aroused by the fact that the letter was signed by “pp Ms Couraudon-Petard” and a WhatsApp exchange with Ms Couraudon- Petard on 21 February 2024 which suggested that she was not aware that the outcome letter had been sent out.
+
+219. What appears to have happened in this case is that the grievance letter, drafted by Ms Wade has had input from Paul Gaff, which Marion Couraudon-Petard adopted. She made changes following his input as documented by her email of 14 February 2024 (419A an addition to the bundle). That email demonstrates that she was involved in the creation of the outcome letter.
+
+220. The Claimant receive the outcome letter in an email from Ms Wade.
+
+221. We accept the submission of the Respondent that it often does fall to an HR Department to document the outcome of a decision made by an operational manager in a grievance or disciplinary matter.
+
+222. We do not find that this allegation does not succeed, although we understand why the Claimant felt disquiet in the circumstances.
+
+3.1.2 Fail to protect the claimant’s personal sensitive data and follow the law in line with the Computer Misuse Act 1990, DPA 2018 and GDPR regulations in that emails were deleted from the claimant’s inbox without her knowledge or consent and when copies of emails were sent to Ms Wade, they were moved from her inbox to her permanently deleted folder.
+
+223. The Claimant clarified that this was not the original email hacking, but alleges that it happened afterward.
+
+224. It is a serious allegation that Mr Williams, or someone acting in his instruction, effectively “punished” the Claimant for raising an allegation that her emails had been “doctored” or deleted by continuing to do the same thing.
+
+225. While the standard of proof required is the balance of probabilities, the Tribunal would need cogent evidence to substantiate such an allegation. We have received nothing approaching the cogency of evidence that would be required to establish such an allegation.
+
+226. The factual basis of this allegation is not established. We do not find that there was a detriment.
+
+3.1.3 Failing to notify the Claimant of the breaches outlined at 3.1.2 above within the legal limit of 60 days.
+
+227. Given our finding that on the balance of probabilities there was no breach, failure to notify the Claimant did not follow in as a requirement.
+
+228. This does not succeed as a detriment.
+
+3.1.4 Having disciplinary action taken against me in reaction to her protected disclosures on the 12 January 2024 to Rachel Wade. The Claimant relies upon the investigation meeting with Ms Couraudon-Petard as being disciplinary action. She confirms that she has not received a disciplinary sanction at any time.
+
+229. There was no disciplinary action.
+
+230. This allegation of detriment cannot succeed.
+
+3.1.5 My treatment by Rachel Wade, who showed a lack of support and transparency throughout the grievance process in that the Claimant was led to believe that this was a grievance process and that Ms Wade purported to represent the Claimant at a meeting on 6 February when she had no authority to do so and without the Claimant’s knowledge.
+
+231. There was no disciplinary action. This was a grievance process. The Claimant was not misled.
+
+232. The Claimant appears to have misunderstood the role of Ms Wade as a representative. We are satisfied that Ms Wade did not misrepresent her role. We find on balance that the claimant misunderstood.
+
+233. No detriment has been established.
+
+3.1.6 Failing to provide the Claimant with details of any allegations made against her that resulted in the disciplinary process that began 12 January 2024.
+
+234. It was made clear to the Claimant that this was not a disciplinary process. There was no proper basis for Claimant to understand that there was a disciplinary process being followed.
+
+235. There is not detriment.
+
+3.1.7 My treatment by the IT Security team on the 18th January 2024 when they ‘resolved’ the ticket I raised with no further explanation, thus dismissing and belittling my concerns.
+
+236. The wording of the “ticket” in which the IT query was resolved is very short. We would understand if the Claimant fell that this was somewhat dismissive. There was however also additionally the wording of the message was sent to the Claimant by Antoine Leuridan [708], which is plainly addressed to the Claimant and, although brief, does explain that there is nothing suspicious about the account. It explained that he had requested a session reset to disconnect anyone who might have access. He also mentions that if she changes her password as specified there should be no further risk. In summary therefore this is brief but is a reasonable outcome.
+
+237. We did not find that that this was a detriment.
+
+3.1.8 My treatment by Ben Williams, Sophie Penn and the Respondent when they uploaded three HR documents to Workday on 23 Jan 2024. This amounted to an attempt to demote me because they had a less favourable treatment than the document that was in fact my contract of employment. This was in response to my email dated 23 January 2024.
+
+238. Ben Williams had no Workday access. We accept his evidence that he did not upload these HR documents. His evidence was “anyone in HR” would have access.
+
+239. The Respondent submits that it is not clear who and why the documents were uploaded to Workday. In the experience of the Tribunal HR system like Workday would ordinarily have a record of which person had uploaded a document. This is not something that we have been shown which is a little surprising.
+
+240. Ms Wade’s unchallenged oral evidence to the Tribunal was that there was a backlog in uploading these contractual documents to the Workday system generally. That would explain why it had been uploaded for significantly over a year. As to why these documents were uploaded when they were, what we can see was uploaded are three documents which are the terms and conditions dated 2 June 2022, which were uploaded on 23 January 2024 at 15:43. That is the afternoon of the same day that the Claimant emailed Arianna Wright in which she flagged up a lack of job title and contract.
+
+241. We do not think it is a mere coincidence that the documents were uploaded at this time. The Claimant’s email of 23 January 2024, we find, most likely prompted someone in HR to upload the contractual documents which had been signed approximately 18 months earlier but not uploaded at that time.
+
+242. Due to the lack of disclosure of the information as to who within the HR Department uploaded this document it is a question of speculation as to what the motivation was for doing so. We reiterate what we have said earlier which is that the terms signed in June 2022 are the same as those signed in May 2022, save that the overtime provision was more generous to the Claimant.
+
+243. We do not accept the Claimant’s contention that this was an attempt to demote her however, or that the uploading in itself was a detriment. Both versions of the contract (May and June 2022) had the title of manager. We cannot see how uploading these contracts had the effect of demoting the Claimant.
+
+244. The alleged detriment has not been established.
+
+3.1.9 Ms Couraudon-Petard sent an email on 30 January 2024 which breached confidentiality and awarded (or was influential in awarding) the role of Events manager, Fashion Department to a different candidate.
+
+245. We accept the Respondent’s case that the decision had been taken in relation to the Events Manager role in November 2023 i.e. weeks before the first protected disclosure in January 2024. At that stage the decision was between two candidates, neither of whom was the Claimant, as detailed in Ms Laurin’s witness statement.
+
+246. We do not find that Ms Couraudon-Petard influenced this decision on 30 January, nor do we find that this was connected to the protected disclosures.
+
+247. As to the suggestion that an email dated 30 January 2024 in which Ms Couraudon-Petard forwarded the Claimant’s desired outcome in the grievance to Rachel Wade in HR, we did not accept that this was a breach of confidence as alleged. The Claimant had not suggested that this was confidential but in any event Ms Wade was the HR support to the grievance process. It was inevitable that she would see documentation relating to the grievance.
+
+248. We do not find any detriment has been established.
+
+3.1.10 Ms Claire Laurin commenced a disciplinary process against me and did not award me the role of Events Manager, Fashion Department (or was influential in ensuring I did not get that role)
+
+249. There was no disciplinary action.
+
+250. We reiterate that we accept the Respondent’s case that Ms Laurin’s input in relation to Events Manager predated the first alleged protected disclosure in January 2024.
+
+251. These allegations of detriment cannot succeed.
+
+3.1.11 The grievance outcome letter dated 21 February 2024 dismissed and belittled the Claimant’s concerns in that it alleged she had not provided any evidence but had not given her a chance to provide that evidence personally.
+
+252. We did not find that the grievance outcome dismissed or belittled the Claimant’s concerns. Several points decided were partially upheld in the Claimant’s favour.
+
+253. As to the Claimant’s contention that evidence had not been provided or that she did not have a chance to provide it personally, we did not come to the conclusion that the Claimant had been shut out from providing evidence as part of the investigation process.
+
+3.1.12 The Respondent’s outcome letter dated 21 February 2024 recommended a review of the Claimant’s job title including that it did not use the word ‘manager’ thus effectively demoting her
+
+254. The Tribunal considers that it is unsatisfactory that the question of the Claimant’s job title was left in limbo for such a long period from 2022 – 2024. It seems to us that the Claimant’s understandable dissatisfaction arising from this is likely the reason why matters have ended up in an Employment Tribunal.
+
+255. We understand why that would cause her to feel a degree of frustration and uncertainty. Nevertheless the outcome of the grievance was in essence to focus on the question of resolving the job title.
+
+256. The Claimant had moved from retail to head office in 2022. She took the title manager with her. The policy of the Respondent was that in retail parts of the organisation staff had to be at a grade 8 to be a team manager, whereas in the head office they needed to be grade 12 or above to be a manager. The Claimant was a grade 11. In other words this problem regarding her title had arisen because of her move in 2022, not because of disclosures made by her in early 2024.
+
+3.1.13 The Respondent failed to follow an appeal procedure in line with the ACAS Code of Practice in that on appeal the Respondent followed a disciplinary process as opposed to a grievance process
+
+257. We reject the allegation that this was some sort of disciplinary. This allegation does not succeed.
+
+3.1.14 In the appeal outcome, Paul Gaff and the Respondent mislabelled the disciplinary procedure as a grievance procedure and wrongly stated that the Claimant went through an informal and a formal process when no informal process took place.
+
+258. There was no disciplinary process.
+
+259. Reading Paul Gaff’s grievance appeal outcome letter as a whole, we did not form the impression that he was stating that the Claimant had been through an informal process.
+
+3.1.15 In the appeal outcome, Paul Gaff and the Respondent concluded that the Respondent was satisfied with the integrity of their interview process for the Events manager role despite the Claimant being interviewed three times (26 Oct, 7 November and 17 November 2023) and the Ms Alice Murphy O’Neil being given the role after only one interview (22 October 2023)
+
+260. The way that this allegation has been framed seems to misrepresent the reality. It is clear from the grievance outcome that Ms Murphy O’Neil had gone through to the next stage interview and presentations.

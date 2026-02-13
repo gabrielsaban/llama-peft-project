@@ -1,0 +1,377 @@
+DECISION ON A PRELIMINARY HEARING
+
+1. The first respondent’s application to strike out all or part of the claimant’s claim is refused.
+
+2. The first respondent’s application for one or more deposit orders is refused.
+
+3. The claimant’s application to amend her claim to add Allegation (i) is refused.1
+
+4. The claimant’s application to amend her claim to add Allegation (j) is granted.
+
+5. The first respondent has permission to serve and file amended grounds of resistance addressing Allegation (j), within 21 days of the day on which this decision is sent to the parties. 1 Allegations (i) and (j) are set out in the Reasons at paragraph 10.
+
+REASONS
+
+A. THE ISSUES
+
+1. The hearing was listed to consider two issues, identified by EJ Camp in a decision dated 3 July 2025:
+
+(1) Does the claim against the first respondent (R1), or any part of it, have no reasonable prospects of success because of time limits, and if so should some or all of it be struck out pursuant to rule 38 of the ET Procedure Rules 2024?
+
+(2) Does the claim against R1 have little reasonable prospects of success because of time limits, and if so should one or more deposit orders be made in accordance with rule 40 of the ET Procedure Rules 2024 (and if so how much for; up to £1,000 per order)? The claimant’s financial means and ability to pay are relevant to this issue.
+
+2. At paragraphs 18.3 of his decision, EJ Camp left open the possibility of time limits being decided as a substantive preliminary issue. For reasons which I gave orally I did not take that path.
+
+3. By agreement of the parties, a third issue arose for consideration today, namely whether the claimant should be given permission to amend her claim as set out in an application made on 15 November 2025.
+
+4. In accordance with EJ Camp’s directions, there was evidence before me in the form of witness statements from the claimant and from her partner David Sandercock (DS), and a bundle of documents running to 399 pages. Mr Randle, counsel for R1, cross-examined the claimant. His cross-examination was limited to the claimant’s application to amend and did not trespass on the question of the applications for strike out or deposit orders.
+
+5. For the purpose of the strike out and deposit order applications I had regard to the claimant’s evidence as set out in those witness statements, and bore in mind the need to take her evidence at its highest.
+
+B. THE PROCEEDINGS
+
+6. The claimant is a Chartered Occupational Psychologist.
+
+7. The relationship between the parties is as follows. The claimant was at all relevant times employed by R3, which describes itself as an umbrella company. R2 is a recruitment agency. R1 is one of R2 clients. R2 introduced the claimant to R1 to carry out an assignment for R1 as an Assessment SME from 13 December 2021, initially for a 12-month period. It was a requirement that she provide her services via an umbrella company, hence R3’s involvement. The assignment was extended several times and was ultimately terminated with effect on 29 March 2024.
+
+8. The claimant’s existing claims against R1 are for pregnancy and maternity discrimination contrary to sections 18(2) and (4) and 41 of the Equality Act 2010 (EqA 2010). The protected period in relation to her pregnancy began in May 2023. She began maternity leave on 7 February 2024 and gave birth on 9 February 2024.
+
+9. The claimant alleges that, because of her pregnancy, because she was seeking to exercise her right to maternity leave, and/or because she was on and/or had exercised her right to maternity leave, R1 subjected her to a series of acts of unfavourable treatment as follows:
+
+(a) deciding, in around October 2023, to end C’s then engagement on 29 March 2024;
+(b) subjecting C to a lengthy recruitment process between October and December 2023 for the role of Group Assessment Lead that was prejudiced in that R1 did not intend to engage C in another role after she informed R1 she was pregnant on 16 October 2023;
+(c) saying, through Mr Nick Crussel in a video call on 6 November 2023, that the role of Group Assessment Lead was ‘the right role at the wrong time’ for C;
+(d) initial failing to offer C a final interview in the Group Assessment Lead recruitment process, and only doing so on 11 December 2023 after repeated requests from C;
+(e) not engaging C in the role of Group Assessment Lead;
+(f) reaffirming its decision, on or around 5 March 2024, to end C’s engagement on 29 March 2024;
+(g) ignoring the application made by C in March 2024 for the role of Leadership and Development Specialist;
+(h) ending C’s engagement on 29 March 2024.
+
+10. By her application to amend, the claimant seeks to add two further allegations:
+
+(i) giving a negative reference about C from Mr Crussel to the lead recruiter for the role of Emerging Talent Lead, MENAT, on or around 10 or 11 June 2024;
+(j) not engaging C in that role, as confirmed by R1 in an email dated 19 July 2024, based on Mr Crussel’s reference.
+
+11. The claimant’s claims against R2 and R3 are put on the basis that R2, because of her pregnancy, and/or because she was on and/or had exercised her right to maternity leave, subjected her to two acts of unfavourable treatment:
+
+(a) ignoring the application made by C in March 2024 for the role of Leadership and Development Specialist at R1; and
+(b) failing to send C roles or enabling her re-deployment in any way, other than by directing her to generic job sites, from 16 February 2024 to date, despite repeated requests by C in that period.
+
+12. The claim against R3 is put on the basis that R3 acted as R2’s agent, and that both are liable for R2’s acts: s109 and s110(1) EqA 2010.
+
+13. The current applications concern the claimant’s claims against R1. Representatives from R2 and R3 attended the hearing but did not actively participate.
+
+14. The claimant presented her ET1 on 10 September 2024, following an early conciliation period in respect of R1 which ran from 3 to 9 September 2024.
+
+15. R1 submitted its ET3 and grounds of resistance on 10 October 2024.
+
+16. The claimant provided further and better particulars of her claims, following which, by permission granted by EJ Camp, R1 submitted amended grounds of resistance on 4 August 2025.
+
+17. As noted above, EJ Camp listed this hearing at the hearing on 2 July 2025. He also gave directions for disclosure of documents relevant to the time limit issues which he identified in paragraph 18 of his case management order, and for witness statements and the provision of a bundle of documents relevant to those issues.
+
+18. The respondent complied with that order for disclosure on 15 September 2025.
+
+19. DS’s witness statement was signed on 27 October 2025, the claimant’s on 3 November 2025. The claimant’s statement contained references to the two allegations which she now seeks to raise by way of amendment, but the actual application to amend was not made until 14 November 2025 (the Friday before the hearing on Tuesday 18 November 2025).
+
+20. In advance of the hearing, Mr Randle produced a comprehensive skeleton argument addressing both the application to amend and the time limits issues.
+
+C. THE APPLICATIONS FOR STRIKE OUT AND/OR DEPOSIT ORDERS
+
+(1) The law
+
+(a) Strike out orders
+
+21. A claim (or part) may be struck out where it has no reasonable prospect of success: ET Rules 2024, rule 38(1)(a). Key principles relevant to this power were summarised by Mitting J in Mechkarov v Citibank NA [2016] ICR 1121 as follows:
+
+(1) only in the clearest case should a discrimination claim be struck out;
+
+(2) where there are core issues of fact that turn to any extent on oral evidence, they should not be decided without hearing oral evidence;
+
+(3) the Claimant's case must ordinarily be taken at its highest;
+
+(4) if the Claimant's case is “conclusively disproved by” or is “totally and inexplicably inconsistent” with undisputed contemporaneous documents, it may
+
+be struck out; and
+
+(5) a Tribunal should not conduct an impromptu mini trial of oral evidence to resolve core disputed facts.
+
+22. In Anyanwu v South Bank Students’ Union [2001] IRLR 305 Lord Steyn at [24] emphasised “the importance of not striking out such claims as an abuse of the process except in the most obvious and plainest cases. Discrimination cases are generally fact sensitive, and their proper determination is always vital in our pluralistic society. In this field perhaps more than any other the bias in favour of a claim being examined on the merits or demerits of its particular facts is a matter of high public interest.”
+
+23. In the same case Lord Hope said at [39]: “Nevertheless, I would have held that the claim should be struck out if I had been persuaded that it had no reasonable prospect of succeeding at trial. The time and resources of the employment tribunals ought not to [be] taken up by having to hear evidence in cases that are bound to fail.”
+
+(b) Deposit orders
+
+24. Where a specific allegation or argument in a claim has little reasonable prospect of success, the Tribunal may make a deposit order of up to £1,000 as a condition of continuing to advance that allegation or argument: r.40(1). That presents a lower threshold than the test for strike-out.
+
+25. In Hemdan v Ishmail [2017] IRLR 228 Simler P (as she then was) explained the purpose of the deposit order regime: “[T]he purpose of a deposit order is to identify at an early stage claims with little prospect of success and to discourage the pursuit of those claims by requiring a sum to be paid and by creating a risk of costs ultimately if the claim fails. That, in our judgment, is legitimate, because claims or defences with little prospect cause costs to be incurred and time to be spent by the opposing party which is unlikely to be necessary. They are likely to cause both wasted time and resource, and unnecessary anxiety. They also occupy the limited time and resource of courts and tribunals that would otherwise be available to other litigants and do so for limited purpose or benefit.”
+
+(c) Time limits
+
+26. Section 123 EqA 2010 provides that (subject to provisions for extension of time for early conciliation) proceedings may not be brought after the end of the period of 3 months starting with the date of the act to which the complaint relates, or such other period as the employment tribunal thinks just and equitable (s123(1)). For these purposes, conduct extending over a period is to be treated as done at the end of the period (s123(3)).
+
+27. The following principles emerge from the authorities before me:
+
+(1) It is for the claimant to satisfy the tribunal that a departure from the primary three- month period is justified: Chief Constable of Lincolnshire Police v Caston [2009] EWCA Civ 1298; Polystar Plastic Ltd v Liepa [2023] EAT 100 at [28];
+
+(2) there is no presumption in favour of extension: see Adedeji v University Hospitals Birmingham NHS Foundation Trust [2021] EWCA Civ 23 at [37];
+
+(3) the discretion to extend time is extremely broad, but the discretion must be exercised judiciously: HSBC Bank plv v Chevalier-Firescu [2025] IRLR 268 at [74];
+
+(4) there is no requirement for the tribunal to go through a list of specified factors, but the tribunal must leave no significant factor out of account when exercising its discretion: Abertawe Bro Morgannwg University Local Health Board v Morgan [2018] ICR 1194 at [18], cited in Jones v Secretary of State for Health [2025] ICR 738 at [29]
+
+(5) factors which are almost always relevant to consider when exercising any discretion whether to extend time are: (a) the length of, and reasons for, the delay and (b) whether the delay has prejudiced the respondent (for example, by preventing or inhibiting it from investigating the claim while matters were fresh): Morgan at [19];
+
+(6) other relevant factors may include the prejudice to each party, including “forensic prejudice” from fading memories (Miller v MoJ UKEAT/0003/15 at [12]–[13]); the effect of delay on evidential cogency; and whether the claimant acted promptly once they knew, or ought reasonably to have known, facts said to give rise to the claim.
+
+28. In Barnes v Commissioner of Police for the Metropolis UKEAT/0474/05, HHJ Richardson held at [19] that a tribunal “will be entitled to ask questions about a claimant’s prior knowledge: when did he first know or suspect that he had a valid claim for race discrimination? Was it reasonable for him not to know or suspect it earlier? If he did know or suspect that he had a valid claim for race discrimination prior to the time he presented his complaint, why did he not present his complaint earlier and was he acting reasonably in delaying? These, of course, are far from being the only questions which the tribunal may ask in order to decide whether it was just and equitable to consider the complaint. The tribunal has to consider all the circumstances…”
+
+29. In Jones v Secretary of State for Health [2025] ICR 738 at [46], Bean LJ said: “Barnes is a 2005 decision of the EAT which remains unreported to this day and is not even referred to in the current version of Harvey. This suggests that para 19 of the judgment does not lay down a formula. But to the extent that it does I cannot agree with it. In many cases involving the “just and equitable” discretion it will be highly relevant if the claimant knew all the facts necessary to establish a discrimination claim but then failed without good reason to act promptly. I am much less persuaded that suspicion, or a firmly-held belief based on suspicion, is a relevant factor. Until 2014 the statutory questionnaire procedure enabled prospective claimants for discrimination to ask questions, with failure to answer them giving rise to the possibility of adverse inferences. That procedure is no longer available. Promptness in bringing ET claims remains important but this court, the EAT and ETs should not encourage cases to be brought on mere suspicion.”
+
+30. In HSBC Bank plc v Chevalier-Firescu [2025] IRLR 268, a decision of a differently constituted Court of Appeal handed down two days before the Court’s decision in Jones, Underhill LJ held: “100. … [W]here a claimant is asking for an extension of time on the basis that they were unaware of important facts material to the viability of their claim it is necessary for the tribunal to consider what the extent of their knowledge (or grounds for suspicion) was, in order to be able to assess what justice and equity require. […]
+
+101. As to whether suspicion, as opposed to knowledge, is sufficient when considering whether a claimant reasonably could or should have brought proceedings sooner, I do not think that this can be a black-or-white question. There is a broad spectrum between certain knowledge, which is obviously sufficient, and mere speculation, which is obviously not; and ‘suspicion’ is an imprecise term which may connote a point anywhere on that spectrum. Clearly it will often be reasonable to expect a person to bring proceedings where their knowledge of the facts material to the prospects of success, or of the availability of the evidence necessary to prove those facts, is less than certain. Whether that is so in any given case depends on the particular circumstances, including, but not limited to, the degree of the uncertainty in question.
+
+102. I would add – though the point is not central to the issue before us - that I agree with Judge Richardson at para 19 of his judgment in Barnes (see para 98 above) that, while the question of whether the claimant knew/suspected that they had a valid claim is always relevant, that is only the starting-point of the enquiry. As he says, it may also be relevant to consider whether, if they did not know or suspect it, they should have done; and, if they did, whether it was nevertheless reasonable of them to delay bringing proceedings. And, as he also says, those may not be the only questions relevant to the overall assessment of what justice and equity require.”
+
+(2) Further background to the application
+
+31. As the claimant accepts, her claims against R1 were not brought within three months of the date of the acts to which they relate. Of her existing complaints (ie leaving aside her proposed amendments) the date of the last alleged act of unfavourable treatment is 29 March 2024. The primary time limit (to use the useful if not precisely accurate shorthand for the three-month period provided for by section 123 EqA) expired on 28 June 2024. She did not present her claim until 10 September 2024, in other words almost 2½ months outside that 3-month period. Because she did not commence early conciliation within that 3-month period, she does not benefit from a statutory extension of time.
+
+32. As set out above, the claimant’s complaints cover the period from October 2023 to 29 March 2024. For the purposes of considering applications for strike out and deposit orders, I proceed on the basis that at trial the claimant would have a reasonable prospect (and better than “little reasonable prospect”) of showing that any proven acts within this period formed part of conduct extending over a period which ended on 29 March 2024. The alleged acts occurred in relatively quick succession over a period of a few months, and they all relate to the end of one role, and, around the same time, her lack of success in applying for another. If these allegations were proven at trial, there would be a good prospect that the tribunal would conclude that they amounted to conduct extending over a period.
+
+33. In order to consider the question relating to time limits it is necessary to add some more detail of the chronology of events as set out above.
+
+34. In late 2023, the claimant’s existing assignment with R1, as Global Assessment Consultant (GAC) was coming to an end: it was due to conclude at the end of December. The claimant applied for a Group Assessment Lead (GAL) role with R1 in October 2023. It is her case that she was encouraged to do so by Nick Crussell (NC), her head of department. She says she passed the online tests and video interview, then waited for the next stage and a Technical Interview was scheduled for 24 October 2023.
+
+35. On 16 October 2023 the claimant’s existing GAC role was extended until the end of March 2024.
+
+36. Later that same day, she told NC that she was pregnant and that she was half-way into her pregnancy.
+
+37. The Technical Interview for the GAL role took place on 24 October 2023, and the claimant says she was told that she had passed the technical interview.
+
+38. On 6 November 2023, ahead of the final stage interview for the GAL role, the claimant and NC had a conversation. On the claimant’s case NC tried to persuade her to withdraw from the process, saying “I think it’s the right role, at the wrong time for you.” The claimant relies on NC’s use of these words as indicative or reflective of a discriminatory motivation on NC’s part in light of C’s pregnancy. R1 accepts that these words were said, but says that NC was simply referring to a lack of relevant experience on C’s part.
+
+39. The claimant continued with her application for the GAL role but on 4 December 2023 she received an automated rejection email in advance of the final stage interview. Nevertheless, at her request, she was interviewed for the role (one of the interviewers being NC). Following this interview she was informed on or around 11 December 2023 that her application was unsuccessful.
+
+40. The Claimant’s last day at R1 was 7 February 2024. She gave birth on 9 February 2024.
+
+41. On 8 March 2024 the claimant applied for another role with R1 as a Leadership and Development Specialist (LDS). The claimant did not hear back in respect of this application. Her evidence is that “On 11 March 2024 I contacted the recruiter at Manpower, the hiring manager, and Nick Crussell to let them know I applied [225]. I did not hear back on this application from HSBC or Manpower. After about a month I suspected I was not being considered. At this point, I did not give too much thought to whether I had been discriminated against in relation to this specific role. I thought that sometimes jobs disappear after you apply for them. It was not until 24 August 2024 that I considered that it was possible Nick blocked my application or said something negative to the hiring manager.”
+
+42. The claimant’s engagement in the GAC role ended on 29 March 2024.
+
+43. As noted above, the claimant did not commence early conciliation until 3 September 2024 and did not present her ET1 until 10 September 2024.
+
+(3) Analysis
+
+(a) The length of the delay
+
+44. The claimant’s claim was brought nearly two and a half months after the expiry of the three-month period following the last act of which she seeks to complain. Although that delay is not extreme, it is likely to be regarded as significant, given the shortness of the time limit laid down by Parliament. I also note that the claim was lodged about 10 months after the first act complained of, which may be a relevant consideration notwithstanding the operation of the principle of conduct extending over a period: Adedeji at [32].
+
+(b) Reasons for delay
+
+45. A factor which is highly likely to be regarded as material to the tribunal’s determination of the question of time limits is why the claimant did not present her claim within three months of the date of the last act complained of (29 March 2024), and why she took until 10 September 2024 to present her ET1.
+
+46. The claimant advances a series of reasons for not bringing her claim in time, which appear to overlap and interact with one another.
+
+(i) Awareness of matters not appreciated until after the expiry of the time limit
+
+47. First, the claimant says that it was not until late August 2024 that she became aware of all of the facts on which she went to rely in her claims. As she puts it in her witness statement, it was only on 24 August 2024 when “I fully realised that I had been treated unfairly.”
+
+48. As of 29 March 2024, the evidence suggests that the claimant had a belief or at least a suspicion that she had been discriminated against in relation to at least some of the matters which form the basis of her claim.
+
+49. So far as the potential GAL role is concerned, the claimant certainly had a degree of belief in late 2023 that she was being discriminated against because of her pregnancy in relation to the GAL role. Her evidence is that when she had her conversation with NC on 6 November 2023 “I suspected that Nick was treating me differently because of my pregnancy. I believed it was likely that discrimination was occurring...” (witness statement, paragraph 13). At that time she also told her partner DS that “I think they are discriminating against me” (DS witness statement, paragraph 7). Her evidence in paragraphs 15 and 16 of her witness statement is that when she received the automated rejection email on 4 December 2023 “at this point I believed it was highly likely that my application was prejudiced. I suspected something shady had happened. I did not think I would get the job.” She says that NC interviewed her “reluctantly” and that “of course, I did not pass.” At paragraph 17 she says “I walked away believing that this may have been discrimination.” At paragraph 53.a she is more categorical: “On 4 December 2023, I believed I had been discriminated against for the [GAL] role”; at paragraph 56, she is more categorical still: “I realised I was discriminated against on 4 December 2023.” (Emphasis added throughout).
+
+50. As for the ending of her existing GAC role in March 2024, the position is rather different. The claimant does not accept that she believed or even suspected that she was being discriminated against with regard to the GAC role. Her position is that she knew that she had been replaced by Ed Rivlin (ER), but ER was a contractor rather than an employee. The claimant says that she did not know of his status at the time, and assumed that her position may simply have been converted to a role for a permanent employee, so that she was not really being “replaced”. She says that it was only on 24 August 2024, having contacted him via Linkedin, that she realised that ER was a contractor like her, and indeed that his contract had been extended until Christmas. Her account is supported by DS: “I believe she became certain there was discrimination relating to her contract role on 24 August 2024, when she got confirmation that her replacement was also on a contract and that this contract was extended. At this point, I would describe her as being shocked and confused. She told me on 24 August 2024 she thought she had been treated unfairly.”
+
+51. The claimant says that she made these and other enquiries at around this time because, despite assurances from the respondents that they would help her find work, she had received no referrals or potential roles from any of them. This evidence as to her state of mind is again corroborated by DS: “in August, I noticed is that she got fed up emailing HSBC, Paystream and Manpower about getting work. Up until then she thought that they would meet their obligations to get her back into employment. After August, a switch went off and she realised that none of them would help her and that she had been taken out of employment against her wishes.”
+
+52. As for the LDS role for which she applied on 11 March 2024, the claimant says that, having not heard anything back in response, she suspected after about a month that she was not being considered. However her evidence is that “I did not give too much thought to whether I had been discriminated against in relation to this specific role. I thought that sometimes jobs disappear after you apply for them. It was not until 24 August 2024 that I considered that it was possible Nick blocked my application or
+
+said something negative to the hiring manager.”
+
+53. The claimant also says that she was confused as to her legal rights because she was confused as to the relationships between the various respondents, and because she was given what she only later came to believe was misleading information by R3. She contacted R2 to ask about her employment rights in December 2023. R2 told her that R1 “wouldn’t be obliged to offer the position back after the maternity period has finished” and that R1 could “choose not to extend this with no reason provided”. Although in principle this is (as Mr Randle for R1 accepted) potentially a relevant part of the factual matrix, this factor is likely to carry little if any weight, and were it to have been the only factor relied on, it would be unlikely to be persuasive.
+
+54. The claimant does however rely on two matters of which she says she was unaware until August 2024. Of course, the truth or accuracy of these may be disputed by R1, but for present purposes I assume that the claimant will be able to establish their truth at trial. First, contrary to the impression which the claimant says he gave to her, NC did not do anything to pass referrals for work or otherwise assist her to find work in the period after the end of her engagement with R1, leading her to believe that NC had given her “empty promises”. That caused her to reassess her view of him and his motivations. Second, she realised that, as she puts it, “my contractor role” had been given to Ed Rivlin, and he was continuing in that role and doing work which the claimant believed she was capable of performing.
+
+55. Against that, R1 will be able to point to various factors to say that the claimant knew, or was on notice, of sufficient facts to bring her claims in March 2024 and certainly within three months of that point. R1 will be able to challenge the claimant’s factual assertions about what she knew or believed, and when. R1’s strongest arguments may well relate to the GAL role, since on her own account by December 2023 (if not earlier) the claimant already had a fairly high degree of conviction that she had been discriminated against by NC in relation to this role. And even on the GAC and LDS roles, R1 will be able to argue about the materiality (or lack thereof) of what the claimant says she discovered in August 2024, bearing in mind what she already knew or believed in March 2024, including: her belief as to NC’s discriminatory motivation concerning the GAL role; her knowledge of the fact that her GAC role was not extended and was being done by ER, whatever his employment status; and the fact that she was unsuccessful for the LDS role. R1 will also be able to explore whether in all the circumstances the claimant ought to have acted sooner in trying to establish the facts which she only uncovered in August 2024.
+
+56. But the questions of (1) the claimant’s state of mind and particularly where she was on the spectrum of suspicion / belief / knowledge, (2) what she could realistically have proven and when based on the facts in her possession, (3) the reasonableness of her not investigating further sooner, and ultimately (4) the reasonableness of her not bringing claims sooner, are all issues which are nuanced and highly fact- sensitive. Furthermore, they will fall to be considered in the context of other factors, relating to the claimant’s circumstances in the period in question, to which I now turn.
+
+(ii) The claimant’s desire not to prejudice her work opportunities
+
+57. On the claimant’s evidence, an important factor in her not bringing a claim sooner was her desire not to prejudice her own work prospects. This, she says, stretched throughout the period from November 2023 until August 2024. Her evidence is that in November 2023 “my priority was to stay employed and issuing a complaint would gravely compromise my chances of staying in the team. I wanted Nick to interview me so I could demonstrate my motivation, experience and competence for this role and other roles he may have influence over. Nick referenced possible opportunities and projects I could get involved in the future and suggested I could continue to be in the team. On the video call on 6 November 2023, he continually made references to me returning after maternity leave, saying words to the effect of “when you come back after maternity leave…” and “by the time you come off maternity leave things will be clearer and we can work through your new role together”. This gave me the impression that the door was still open at HSBC. I thought that Nick was on my side in terms of getting me back into employment. So instead of submitting a complaint I wanted to showcase my capability so I could access this and potentially other work opportunities he had control over.”
+
+58. Again, the claimant says that after she was rejected for the GAL role in December 2023, “my priority was to stay employed and issuing a complaint would gravely compromise my chances of staying in the team. At this point, I still thought I could possibly keep my previous contractor role after my maternity leave (and was hoping to do so if it continued to exist) but I was open to other options at HSBC too.” She says “I let it go at the time hoping that if I “take it on the chin” that HSBC would be more likely to give me other work.”
+
+59. After it was announced in February 2024 that the claimant was leaving, the claimant says that “I did not think the door was permanently closed at this time. At the time, I still thought there might be a way back into a role at HSBC based on murmurs and encouragement from Nick. Just a few weeks earlier, on 9 January 2024, I had a conversation with Nick where he hinted at a future at HSBC, saying words to the effect of “let me know when you are ready to come back”, “there might be something in the part-time capacity by then”, and “Manpower will let me know when you are ready to come back”. Again, I thought that Nick would try to get me back into employment.” Her evidence is that this belief was reinforced when NC told her on 6 August 2024 that he would pass on to her any referrals that he came across. The claimant’s position is that it was only in late August that she realised that these were “empty promises”: that NC had not in fact passed work opportunities her way; that instead he had filled her role with a contractor and thereafter extended his contract; and that another opportunity existed, which she learned of via a Linkedin contact in late August or early September 2024), which would have been suitable for the claimant but which was not communicated to her.
+
+60. Refraining from bringing proceedings through a fear of prejudicing one’s work prospects will not always – indeed may not often – support a finding that it is just and equitable to extend time, particularly if it is the only factor relied on. Nevertheless I remind myself that the tribunal’s discretion is extremely wide, and whether such a desire, in isolation or in combination with other factors, provides a sufficiently compelling explanation for delay, is again a question of fact, judgment and degree.
+
+(iii) The claimant’s circumstances
+
+61. The claimant also points to her own personal circumstances at the relevant time (which is to say the period from November 2023 to early September 2024). She relies on these in themselves, and also as interacting with the other factors referred to above.
+
+62. In the period up to 9 February 2024 the claimant was in the later stages of pregnancy. There were complications in her pregnancy and she suffered pain, shortness of breath and a chest infection. Her evidence is that “at the time I did not have the psychological or physical strength to pursue a complaint because I was heavily pregnant. I had a high-risk pregnancy. I had a painful breech pregnancy and a chest infection. At the time, I had to have invasive medical procedures, such as an External Cephalic Version. I was getting scanned and in hospital every few weeks. From December 2023 to February 2024 until delivery I was occupied with the pregnancy and treatments in my non-working hours. During my working hours, my diary was full.” She attended her GP on 15 January 2024, and was given antibiotics for her chest infection. She was recorded as feeling “exhausted” at the time, with rib and chest tightness. In her evidence she describes feeling vulnerable due to her physical condition and a sense of impending job insecurity.
+
+63. Her baby’s birth was difficult. It took place by way of caesarean section which is, of course, a significant abdominal operation. The claimant thereafter suffered a decline in her physical health and she says it took her three months to regain independent functioning. DS describes the situation in this way: “From February onwards, I would describe Veronika’s physical state as incredibly fragile. She found it hard to walk, could not lift anything, and spent most of her time in bed resting and recuperating. I had to support her. I did all of the physical day-to-day tasks, including lifting and carrying, shopping, and driving her to appointments.”
+
+64. The claimant’s baby also had health difficulties.
+
+65. After her baby was born, the claimant cared for him 24/7 for the first three months (so up to early May 2024) and was breastfeeding him every two hours including during the night.
+
+66. The claimant says that her focus was on her baby’s health, and this contributed to the delayed timing of her claim because she was pre-occupied with her child.
+
+67. Her evidence is that by May/June 2024 her baby had been stabilised and she was ready to return to work. She then focussed on trying to find work for herself, making numerous applications for work. She describes these matters at paragraphs 25 to 28 of her witness statement.
+
+68. The claimant’s evidence is that at around the time she was undertaking this job search, she began to suffer decline in her mental health. She says that in the period from May to July 2024, experiencing “fear, insomnia, burnout, confusion”. Her partner DS refers to a slightly different period of “roughly June 2024 to September 2024”, and describes her as “very anxious”. She visited her GP on 30 September 2024 reporting 3 months of deterioration of her mental health, with anxiety and insomnia.
+
+69. R1 points out that these various factors must be assessed against what the claimant could do, and did, during the relevant period. R1 notes that throughout early 2024 the claimant was corresponding with the respondents about her position, seeking clarification of decisions and pursuing potential opportunities, including the LDS role in early March 2024 and the ETL role which I will turn to when considering the claimant’s amendment application. R1 observes that there is no medical evidence that the claimant lacked the capacity to take steps such as initiating early conciliation or seeking legal advice.
+
+(iv) Events at the end of the period: late August to early September 2024
+
+70. Following her investigations in late August 2024, the claimant consulted solicitors on 27 August 2024. She describes thereafter taking time collating evidence and writing it up, and then initiated ACAS early conciliation on 3 September, which ended on 9 September, and the claimant submitted her ET1 on 10 September 2024.
+
+(v) Conclusions as to the reasons for delay
+
+71. The reason for delay in bringing a claim is almost always a relevant factor, and usually a highly important one. A key question is the reasonableness of the claimant’s conduct in delaying.
+
+72. Here, on the claimant’s account, (which for these purposes I assume she will be able to establish) there is not just one factor but a series of them, and they potentially interact with one another. Even if it might regard each reason, taken in isolation, as insufficient, the tribunal may view things differently when the factors are considered in combination.
+
+73. Taking all of this together – and giving full weight to all of the points made by R1 - I am not satisfied that the claimant has either little or no reasonable prospect of showing, by reason of some or all of the above factors, that she acted reasonably in not bringing her claim before she did.
+
+(c) Balance of prejudice
+
+74. There would be obvious prejudice to R1 in being deprived of a limitation defence to a claim of discrimination. This is so in any case whenever time is extended on just and equitable grounds. But it remains a substantial point.
+
+75. A matter which the tribunal may well regard as of particular importance is the degree to which the delay in bringing the claim has affected the cogency of the evidence. R1’s submission, as set out in Mr Randle’s skeleton argument, is that it “had no reason to preserve the level of detail that would ordinarily be retained once litigation is in contemplation. The matters now relied upon turn on conversations, impressions and recruitment judgments for which contemporaneous context has naturally been lost. Defending such allegations long after the time for bringing them has expired is inherently disadvantageous.”
+
+76. I agree. I also accept the force of Mr Randle’s submission that, given the way in which the shifting burden of proof provided for by section 136 EqA 2010 operates, the fading of memories can tend to operate more to the disadvantage of a respondent, given that, among other things, the respondent may be called upon to explain its conscious and even subconscious thought processes.2
+
+77. But when weighing all relevant factors in considering an extension of time on “just and equitable” grounds it is necessary to consider not just the existence of potential forensic prejudice to the respondent but also the likely extent of it. The prejudice relied on by R1 is generic in nature. That is not to say it is not real. But it is not suggested for example that any particular witness is likely to have become unavailable due to the period of delay or that any particular documents are likely to have been lost. The claims relate to decisions concerning the recruitment and retention of individuals working for R1, which one might expect to be relatively well- documented within a sophisticated and well-resourced organisation.
+
+78. As for prejudice to the claimant, Mr Lansman points out that if time limits are decided at trial, then by the time they are considered, the tribunal is likely to have determined liability one way the other. If the tribunal has concluded that the claimant’s claims are well-founded on their merits, then that would be a factor that would go to the balance of hardship and prejudice, and would need to be weighed even if the tribunal is not satisfied that the claimant had a satisfactory reason for delay (Rathakrishnan v Pizza Express [2016] ICR 283). There would be obvious and significant hardship and prejudice to a claimant in being denied a remedy in respect of discrimination which the tribunal had found to have occurred (as observed by HHJ Tayler in Logo
+
+v. Payone GmbH [2025] EAT 95 at [44]).
+
+(4) Conclusions on strike out and/or deposit orders
+
+79. Taking everything into account I am not satisfied that the claimant has no reasonable prospect of succeeding on the time limit point, nor that she has little reasonable prospect of doing so. I therefore refuse R1’s application to strike out the claim, and its application for a deposit order.
+
+80. I have reached the above conclusions without considering the further point, touched on at paragraphs 99 to 101 below, which I have not felt it necesary to resolve, that Allegation (j) may already be a pleaded allegation, and if so the effect that might have in bringing earlier allegations in time (by application of the principle of conduct extending over a period).
+
+D. THE CLAIMANT’S APPLICATION TO AMEND HER CLAIM
+
+(1) Legal principles
+
+81. I was referred to authorities including Selkent Bus Co Ltd v Moore [1996] IRLR 661; Vaughan v Modality Partnership [2021] ICR 535; Chandhok v Tirkey [2015] ICR 527; Gillett v Bridge 86 Ltd UKEAT/0051/17. 2 See the remarks of Simler J (as she then was) in Redhead v LB Hounslow UKEAT/0086/13 at [69]-[70].
+
+82. The following principles emerge from the authorities:
+
+(1) Whenever deciding whether to exercise discretion to grant an amendment, the tribunal should take into account all the circumstances and should balance the injustice and hardship of granting the amendment against the injustice and hardship of refusing it: Selkent at [21];
+
+(2) The tribunal has to decide the nature of the amendment sought. Amendments can range “on the one hand, from the correction of clerical and typing errors, the addition of factual details to existing allegations and the addition or substitution of other labels for facts already pleaded to, on the other hand, the making of entirely new factual allegations which change the basis of the existing claim”: Selkent at [22];
+
+(3) If a new complaint or cause of action is proposed to be added by way of amendment, it is essential for the tribunal to consider whether that complaint is out of time and, if so, whether the time limit should be extended under the applicable statutory provisions: Selkent at [23];
+
+(4) The Tribunal must consider the practical consequences. It should look to actual prejudice, not assumption; the need for new disclosure, new witnesses, or adjournment is material: Vaughan at [21];
+
+(5) An ET1 must set out the essential case; “it is not something just to set the ball rolling, as an initial document necessary to comply with time limits but which is otherwise free to be augmented by whatever the parties choose to add or subtract merely on their say so.”: Chandok at [16];
+
+(6) The merits of a proposed new claim may form part of the Selkent balance. The Tribunal may take account of whether the new claim has reasonable prospects of success: Gillett v Bridge 86 Ltd at [26]–[27].
+
+(2) The application to amend
+
+83. As I have said, the proposed amendment seeks to add the following acts of discrimination which are alleged against R1: Allegation (i): giving a negative reference about C from Mr Crussel to the lead recruiter for the role of Emerging Talent Lead, MENAT, on or around 10 or 11 June 2024; Allegation (j): not engaging C in that role, as confirmed by R1 in an email dated 19 July 2024, based on Mr Crussel’s reference.
+
+84. The final stage interview for the Emerging Talent Lead (ETL) role took place on 31 May 2024.
+
+85. I have already noted that the claimant’s claim was issued on 10 September 2024 following an early conciliation period which started on 3 September 2024. The claimant was not legally represented when she submitted her claim, although as described above she had had access to legal advice in late August 2024.
+
+86. The allegations in question both post-date the other acts of discrimination alleged, the last of which was the ending of her engagement with R1 on 29 March 2024.
+
+87. The application to amend was made on 14 November 2025.
+
+88. The claimant’s lack of success in applying for the ETL role was a matter to which she referred in her original ET1. At page 1 of the rider to her ET1 she wrote (with emphasis added):
+
+“Claims of Discrimination and Mishandling:
+
+1. Promotion Denied Due To Pregnancy
+
+- I applied for a promotion and permanent position at HSBC in October 2023, while 5-6 months pregnant
+- The selection process and assessments lasted over two months, and I passed several stages including application forms, an online assessment, video interview and technical interview
+- Upon announcing my pregnancy, I was removed from the recruitment process before the final stage interview after Nick Crussel suggested this was ‘the right tole at the wrong time’
+- A similar issue occurred when applying for another permanent role after childbirth at the final stage of selection when I declared I had a three-month-old.”
+
+89. The permanent role referred to in the last bullet point of this section appears clearly to be the ETL role.
+
+90. Further on in the rider to the ET1, the claimant described this process in more detail: “I was contacted by a HSBC recruiter Jade Kelly in Dubai and applied for a HSBC role Emerging Talent Lead in MENAT – based in Dubai. I followed up with the lead recruiter in the region Matthew Hesketh who shared that I had good internal references and prepared me for the application process. I went through a long application process again and to the final stage with Funda Temocin – Head of Turkey. In the recording at 9 minutes, I shared I left the previous role at HSBC to have a baby and because I believed HSBC were going in a new ‘in-house’ direction – stopping contractors and going in house. Funda asked me how old my baby was, and I replied 3 months, she appeared to lose interest in me after this. In the feedback notes Jade read out that ‘Funda described’ me as ‘introverted’ despite me doing most of the talking during the interview (I recorded the interview).”
+
+91. R1 filed its ET3 together with grounds of resistance on 10 October 2024. In those grounds of resistance R1 sought further and better particulars of the claimant’s claims. However it is clear that R1 understood that a claim was brought in relation to the ETL role. Accordingly it denied that the decision not to offer the ETL role to the claimant amounted to unlawful maternity discrimination. Among other things R1 asserted that, following the final stage interview for the ETL role, the claimant was scored as “development need” which meant that the interview feedback was mostly negative but with some limited positive feedback, and further that the claimant had not possessed the same standard of local knowledge as the successful applicant, who had extensive experience in the UAE market.
+
+92. R1 also noted that in early September 2024 the claimant questioned the fairness of the selection process with regard to the role, and was given feedback by Mr Hesketh on 13 September 2024, who said that he had reviewed the decision and he was satisfied that the decision was based on skills, qualifications and the experience of the candidates.
+
+93. Solicitors came on the record for the claimant on 8 November 2024, and on 15 May 2025 they provided further and better particulars (FBPs) of the claimant’s claim on her behalf. These identified the alleged acts of pregnancy and maternity discrimination on which the claimant relied. No mention was made of the ETL role. A list of issues was drawn up which reflected the claimants’ FBPs and which was confirmed as “agreed and final” by EJ Camp at the preliminary hearing on 3 July 2025. The respondent was given permission to amend its grounds of resistance to respond to the way the claimant’s claim was put in the FBPs and list of issues. The respondent duly provided those amended grounds of resistance on 4 August 2025. Now that it appeared that no claim was advanced regading the ETL role, the passage from the grounds of resistance dealing with the ETL role were removed in the amended grounds of resistance.
+
+94. On 15 September 2025, as part of disclosure for the purpose of this preliminary hearing, an email trail was disclosed to the claimant which showed that Nick Crussell (NC) had been approached for a reference about the claimant, following her final stage interview for the ETL role. The email thread shows that the manager recruiting for the role, Matthew Hesketh (Regional Head of Talent Acquisition, MENAT), commented that the claimant had “performed in assessment so far”, and in another email that she had done “quite well” in the assessment process. He noted that “we have enjoyed our engagement with Veronika and saw strong subject matter expertise but some development needed around engagement style and self confidence.” The email thread shows that NC was happy to give his feedback on the claimant but there is no documentary evidence of what that feedback was (and I was told that the feedback which he gave was oral not written).
+
+95. It seems clear that the claimant suspected, at the time of the interview in July 2024, that she was being discriminated against because of her pregnancy and maternity. This is clear from the passage in her ET1 which I have set out above. It is also consistent with her request for feedback in early September 2024, though I have not seen a document setting that out. The claimant also says in her witness statement that in July 2024 she had been given conflicting reasons for her lack of success. She says that she decided at that point not to question the negative result but rather to focus on her other job applications, and she “did not think Matthew would have discriminated against me because I thought he seemed like a nice person. So I left it and moved on.” She adds that “my impression changed on 24 August 2024” but she does not make clear how it changed.
+
+96. The key explanation given by the claimant for the timing of her raising a claim about the ETL role sooner was the recent disclosure of documents showing that NC was asked to give a reference about her. However in cross-examination the claimant agreed that she would always have been her assumption that NC would have been asked to give a reference.
+
+(3) Analysis
+
+(a) The nature of the amendments sought
+
+97. At the hearing before me, Mr Lansman, for the claimant, accepted that the amendment raises a new factual allegation and a new claim.
+
+98. It is clearly correct that Allegation (i) (the negative reference given by NC) is wholly new. There is no existing claim relating to this, and nor are any facts alleged along these lines.
+
+99. However, the position regarding Allegation (j) (the rejection for the ETL role) is much less clear-cut. If one goes purely by the claimant’s FBPs, and the agreed list of issues, there is no claim on foot in relation to the ETL role. And the claimant’s oral evidence before me was to the effect that, when she put in her claim, she merely suspected that she had been discriminated against by Funda Temecin, and as such “my conscience stopped me adding that part to my overall claim.” In other words, she deliberately omitted the rejection of her application for the ETL role in her claim.
+
+100. I admit to having great difficulty in reading the ET1 in this way. It seems to me that the most natural reading of the ET1 as a whole, including in particular the passage which I have cited at paragraph 88 above, is that it does indeed raise a complaint that the claimant’s rejection for the ETL role was an act of pregnancy discrimination. It is notable that this is how R1 itself clearly read the ET1.
+
+101. The passage set out at paragraph 88 above is not one which either party made written or oral submissions at the preliminary hearing before me, and there was no discussion of the possibility that Allegation (j) has always been, and remains, a live claim. I do not propose to resolve that question now. Instead I shall assume (without deciding) that Allegation (j) does raise a new legal claim, in line with the claimant’s statement evidence quoted at paragraph 99 above, the submissions made on her behalf, the claimant’s FBPs and the list of issues.
+
+102. But whether or not Allegation (j) is already pleaded, it is clear that it does not depend on pleading any new facts beyond the assertion that the alleged conduct amounted to unlawful pregnancy and maternity discrimination.
+
+(b) Time limits and the timing of the amendment application
+
+103. The claimant’s application to amend was made on 14 November 2025. On the face of it, the claims in question are over a year out of time.
+
+104. The email thread which the claimant says triggered her application to amend, which showed NC giving a reference late on in the ETL selection process, was disclosed to her in September 2025. She took until 14 November 2025 to make an application to amend. That entails further material delay on her part. The claimant could have brought her claims much sooner than she did. The discovery that NC gave a reference in the course of this process cannot have come as a surprise to her, and there are no other material facts of which the claimant has recently become aware which were not available to her when she presented her ET1.
+
+105. On the other hand, it is important to recognise that the litigation is still at a relatively early stage: other than for the limited purpose of this preliminary hearing, there has not yet been disclosure or exchange of witness statements.
+
+(c) Balance of injustice and hardship
+
+106. The fundamental exercise for me is to balance the injustice or hardship of allowing the amendments sought. The factors I have already mentioned feed into this analysis.
+
+Allegation (i)
+
+107. Allegation (i) concerns action which is said to have occurred on 10 or 11 June 2024 (although it may have been slightly later), namely NC giving an oral reference to the recruiting manager. I am told by Mr Randle, on instructions, that this reference was given by phone, and that searches undertaken with a view to finding any written note of the grievance have produced nothing. The evidence will therefore be largely in the nature of recollection of an oral discussion, by one or both of the people who were involved in that call.
+
+108. The allegation was first brought to R1’s attention in November 2025, with the service of the claimant’s witness statement and subsequently her application to amend. I do not regard the claimant’s explanation for her delay as persuasive. As she accepts, it was always natural to assume that NC would have been asked to give a reference for this role. Moreover the delay of several further weeks after disclosure in September 2025 is not satisfactorily explained.
+
+109. Further, the delay in the allegation being raised is very significant and it is intrinsically and seriously prejudicial to R1, and to NC as the individual who is said to have committed the relevant act of discrimination. Had a complaint been made in a timely manner, NC could have been asked about it while it was still relatively fresh in his mind. But that did not happen.
+
+110. Of course rejecting the claimant’s application to amend in relation to this allegation is prejudicial to her. But it is also right to note that this allegation is somewhat speculative in nature. There is no evidence as to what the content of NC’s reference was, and there is currently little to support an inference that it was negative. The email exchanges from before the receipt of the reference record Mr Hesketh’s view of the claimant as positive but caveated: she had performed “quite well” but that some development was needed. Further the claimant does not, as I understand it, take issue with R1’s assertion that the successful candidate had more local experience in the Gulf than she did (something which I would expect to be a matter of record). I do not wish to overstate the position given that I have not seen or heard all of the evidence, but on the material before me, the claim currently appears to be rather speculative and based on assertion as opposed to evidence.
+
+111. Weighing all these factors, I reject the application to amend to add Allegation (i). The factors that have weighed most heavily with me are (1) the very substantial nature of the amendment, (2) the length of the delay and (3) the forensic prejudice which allowing the amendment would cause to R1.
+
+Allegation (j)
+
+112. I have reached a different conclusion with regard to Allegation (j).
+
+113. On the assumption (set out in paragraph 101 above) that this is a new claim, there has been a significant delay in bringing this claim, and the claimant’s reasons for delay are not persuasive. On its face the claim would be out of time.
+
+114. However I regard it as of significance that the allegation is based on facts which were pleaded in the ET1, as I have described. The nature of the amendment sought is therefore different to that sought in relation to Allegation (i). In one sense this is a labelling exercise, but it is not even a question of attaching a new label to these facts – the label is already there in the ET1, in the headings which introduce the passage that I have quoted at paragraph 88 above – and the nature of the amendment here is the confirmation that this language means what it already seems to say.
+
+115. Further those facts were raised in a timely manner. Indeed if the allegation was included in the ET1 as a claim, then that claim would have been presented well within the primary three-month period.
+
+116. In addition, the claimant asked for, and was given in July 2024, feedback on the reasons why she had not been appointed to the role; and much the same happened again in September 2024. Moreover, R1, believing (entirely understandably) that this claim had been raised in the ET1, was prompted to investigate the matter in a timely manner. It was able to plead in its grounds of resistance a positive case as to the reasons for the decision not to appoint the claimant, and a positive denial of discrimination. So, to the extent that matters could be investigated, and memories (so far as possible) preserved in a timely manner, this was done.
+
+117. As I have already noted, the application is made at a relatively early stage in the course of the litigation. There has yet to be disclosure or exchange of witness statements.
+
+118. For these reasons, and balancing all relevant considerations and ultimately the balance of hardship and injustice, I allow the claimant’s application to amend her claim so as to add Allegation (j).
+
+119. R1 has permission to file and serve amended grounds of resistance, responding to Allegation (j), within 28 days of the day on which this decision is sent to the parties.

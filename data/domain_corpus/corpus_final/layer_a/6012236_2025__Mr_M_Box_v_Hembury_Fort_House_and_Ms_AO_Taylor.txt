@@ -1,0 +1,63 @@
+JUDGMENT
+
+1. By consent, the Respondents’ names are amended to ‘(1) Ms C White and
+
+(2) Ms AO Taylor trading together in partnership as Hembury Fort House.’
+
+2. The claim is struck out since it has no reasonable prospect of succeeding within the meaning of rule 38 (1)(a) of the Employment Tribunal Procedure Rules 2024.
+
+REASONS
+
+1. By a claim form presented on 9 April 2025, the Claimant brought complaints of unfair dismissal, unpaid notice pay and wages. He had contacted ACAS on 4 April 2025 and had obtained his Early Conciliation Certificate five days later, on the 9th, the day that the claim was issued.
+
+Amendment
+
+2. At the start of the hearing, the Judge enquired about the status of the First Respondent. Both the Second Respondent and the Claimant indicated that Ms White traded in Partnership with Ms Taylor. Ms Taylor indicated that a Deed of Partnership existed to that effect. Although she had no operational involvement anymore, she remained a Partner.
+
+3. Mr Baker did not know the status of his client. The First Respondent’s name had been previously changed on the basis of paragraph 1 of the Response in which it was asserted that Ms White had not been the correct party to the proceedings.
+
+4. Mr Baker took instructions and confirmed that Hembury House did indeed operate under a Partnership Deed and, as such, agreed to the name change (see paragraph 1 of the Judgment). Strike out and/or deposit order application; relevant principles
+
+5. Under rule 38 (1)(a) of the Employment Tribunal Procedure Rules 2024, a tribunal could strike a claim out if it appeared to have no reasonable prospect of success. In other words, that it was “bound to fail” (Twist DX-v- Armes UKEAT/0030/20/JOJ). It was a two-stage process; even if the test under the rules was met, a judge also had to be satisfied that his/her discretion ought to have been exercised in favour of applying such a sanction (HM Prison Service-v-Dolby [2003] IRLR 694).
+
+6. Striking out a claim was a draconian step and numerous cases had reiterated the need to reserve such a step for the most clear and exceptional of cases (for example, Mbuisa-v-Cygnet Healthcare Ltd UKEAT/0119/18). In Balls-v-Downham Market School [2011] IRLR, Lady Justice Smith made it clear that "no” in rule 38 meant "no”. It was a high test.
+
+7. In Ezsias-v-North Glamorgan NHS Trust [2007] EWCA Civ 330 the Court of Appeal stated that it would only have been in exceptional cases that a claim might have been struck out under the rule where there was a dispute between the parties on the central facts. In such a case, the Claimant’s contentions must ordinarily have been viewed at their highest. The approach, was considered in detail in Mecharov-v-Citibank [2016] ICR and Xie, above, as follows;
+
+(a) Only in the clearest case should a discrimination claim have been struck out;
+(b) Where there were core issues of fact that turned to any extent on oral evidence, they should not have been decided without hearing oral evidence;
+(c) The claimant's case must ordinarily have been taken at its highest, not only in relation to the facts, but the reasonable inferences that might have been drawn from them (Xie above);
+(d) If the claimant's case was "conclusively disproved by" or was "totally and inexplicably inconsistent" with undisputed contemporaneous documents, it may have been struck out;
+(e) A tribunal should not conduct an impromptu mini trial of oral evidence to resolve core disputed facts.
+
+8. All of the available material had to be considered on such an application (see Balls above). Sometimes it may have been appropriate to resolve key factual dispute by hearing evidence even at a preliminary hearing (as in Eastman-v-Tesco Stores [2012] All ER (D) 264), but it would not ordinarily have been appropriate to do so (Kwele-Siakam-v-Co-Operative Group Ltd EAT 0039/17).
+
+9. The authorities on strike out of unfair dismissal claims were reviewed by the Inner House of the Court of Session in Tayside Public Transport Company Ltd t/a Travel Dundee-v-Reilly [2002] IRLR 755 (CS), which found that: "There may be cases where it is instantly demonstrable that the central facts in the claim are untrue; for example, where the alleged facts are conclusively disproved by the productions (Mann Liquid Products v Patel; Ezsias v North Glamorgan NHS Trust)." In such cases, an order under rule 38 might have been appropriate.
+
+10. Where a tribunal considered that any specific allegation, argument or claim had little reasonable prospect of success it may choose, in the alternative, to make a deposit order (rule 40). If there was a serious conflict on the facts disclosed on the face of the claim and response forms, it may have been difficult to judge what the prospects of success truly were (Sharma-v-New College Nottingham [2011] UKEAT/0287/11/LA). Nevertheless, a judge can take into account the likely credibility of the facts asserted, the likelihood that they might have been established at a hearing (Spring-v-First Capital East Ltd [2011] UKEAT/0567/11/LA) and/or their inherent implausibility (Ahir-v-British Airways [2017] EWCA Civ 1392).
+
+Discussion and conclusion
+
+11. A bundle of documents was produced for the hearing by the First Respondent, page numbers to which have been referred to in square brackets below. Mr Baker also produced a skeleton argument in support of the First Respondent’s position.
+
+12. The Claimant was employed by the First Respondent, a residential care home in Honiton, Devon, between 15 April 2007 (or 13 August 2012 according to the First Respondent) and 12 December 2024 (or 17 August 2024 according to the Respondent) as a Maintenance Manager and/or Technician.
+
+13. He claimed that Caroline White had been his partner from 2003-2024 and that he had carried out extensive building work to the property and had been promised recompense. He claimed to have been owed approximately £207,000, some of which had been paid but, despite promises, the balance was not. He asserted that their relationship failed and that, as a result of illness, he took time off. He said that he then “briefly returned to Hembury as a self employed maintenance man” but that “this failed, she posted untruths on my Facebook page using my phone, contacted my friends and abused my reputation.”
+
+14. The First Respondent had asserted in the response that the relationship between the Claimant and Ms White had failed and that he had resigned on 17 August 2024 in order to pursue a business venture in Thailand. He had expressly stated that he would not have been returning. An ex gratia severance package, spread over 5 monthly payments, was agreed although the First Respondent maintained that it had been a gesture of good will following their long personal relationship and that there had been nothing contractual in nature about it.
+
+15. During the hearing, the Claimant accepted that his relationship with Ms White had ended in the summer of 2024 and that he had had an extended period of sickness absence as a result of both physical and mental health issues. He went to Thailand but said that he had always intended to return and had never indicated otherwise, contrary to the Respondent’s case. When he had asked to return to work, Ms White had refused. He said that he had initially tried to return as an employee, but his return on a self- employed basis was subsequently discussed in September.
+
+16. The problem with the Claimant's case was, therefore, that even he appeared to accept that there had been some form of ending of the working relationship in or around August 2024. Why else would he have asked to return? It became apparent as the hearing progressed that he had even previously claimed that the effective date of termination had been 12 August 2024 because he had brought previous proceedings on 16 December in which he had claimed unfair dismissal, unlawful deductions from wages and other payments (Case No. 6022073/2024). That claim had been rejected on the basis that no ACAS certificate number had been provided in the Claim Form.
+
+17. It seemed highly likely, therefore, that a tribunal would find that the Claimant's date of resignation or dismissal had been in August 2024. If that was the case, how would he have overcome the jurisdictional time issues presented by ss. 23 and 111 of the Employment Rights Act and article 7 of the Extension of Jurisdiction Order? Why had it not been reasonably practicable for him to have brought his claim sooner?
+
+18. In fact, it had been feasible for him to have brought a claim sooner because he did do so. At the hearing, he alleged that he had tried to withdraw the first claim because assurances were made that certain severance payments were to have been made by the First Respondent. It was only when those promises were reneged upon, that he had attempted to start again. Leaving aside the potential arguments of res judicata (i.e that this was the second bite at the same cherry), the Claimant was faced with a very significant burden under ss. 23 and 111 of the Act and article 7 of the Order. Whilst the substance of those matters were not being determined today, the likelihood of success in respect of the arguments on limitation undoubtedly fed into a determination of the strength of the claim through the lens of rule 38.
+
+19. Even if the Claimant's new date of termination was to have been accepted (12 December, according to his second Claim Form), the claim was still presented out of time since he had approached ACAS more than 3 months after that date. Being more generous to him, there was an email dated 31 December 2024 [37] which suggested that the Respondents had attempted to draw a line under their relationship in view of the continuing uncertainty. Even if that date was taken, the Claimant would still have been out of time.
+
+20. There was, then, the further issue which had clearly been in Employment Judge Smail’s mind when he had decided to list the case for this hearing. He had indicated that “the Claimant's claims for compensation for contributions to the Respondent's property is not a claim that can be brought in the Employment Tribunal”.
+
+21. During the Claimant's submissions in response to the application under rule 38, he repeatedly referred to his concerns about not having been recompensed for the work that he had done at the home. He stated that he had fitted solar panels, had expended hundreds of hours fixing furniture, roofing, carpentry and tiles. He referred to an alleged agreement which had been reached for him to have been recompensed for that work. He asserted that the 'pair of them' have 'robbed me.' As Judge Smail had indicated, the Employment Tribunal was not the venue for the Claimant to seek recompense for that work.
+
+22. For all of those reasons, therefore, this claim had no reasonable prospect of succeeding and was dismissed.

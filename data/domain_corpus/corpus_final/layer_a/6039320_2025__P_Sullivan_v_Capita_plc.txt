@@ -1,0 +1,193 @@
+JUDGMENT
+
+The Judgment of the Tribunal is that:
+
+1. The Claimant withdrew her claims in clear, unequivocal and unambiguous terms on 7 November 2025 and, notwithstanding that she subsequently sought to retract their withdrawal, the effect of their withdrawal is to bring the proceedings to an end (subject only to any application that might be made by the Respondent for costs).
+
+2. The Claims are not dismissed on withdrawal pursuant to Rule 51.
+
+REASONS
+
+THE ISSUES
+
+1. The Claimant had a live claim (Case Number 6035838/2025) filed in September 2025). The Claimant brought a second claim (Case Number 6039320/2025) on 24 October 2025 which included an application for interim relief (“IR”). I refer them collectively as “the Claims”.
+
+2. This hearing was set down to determine the application for IR but at the start of the Hearing the Respondent said that it needed to make submissions on whether the Claims were still live as its position was that they had been withdrawn on 7 November 2025 and that I should dismiss them on withdrawal “the Preliminary Matter”). Of course the Preliminary Matter had to be dealt with before any application for IR could be heard.
+
+3. I was provide with a range of documents but only some of them were relevant to the Preliminary Matter:
+
+3.1 A respondent bundle of 182 pages [RB[]]. This included the documents is said constitute the Claimant’s withdrawal of her claim via the portal [RB178-179]. On the same day, via email, the Claimant told her Union and an HR contact at the Respondent what she had done in the same terms (email [RB176-177]).
+3.2 A claimant bundle of 164 pages [CB[]]. This included a witness statement on IR [CB147] and skeleton on IR [CB155 and 158]. Most relevant was the Claimant’s written response to the Preliminary Matter at [CB159-160];
+3.3 Claimant correspondence of 10 November 2025 and 11 November 2025, including a GP note.
+
+4. I heard extensive oral submissions from both parties.
+
+5. I was referred to/raised my self with the parties the decisions in:
+
+5.1 Campbell v OCS Group UK Limited UKEAT/0188/16/DA
+5.2 Mrs W Wickett v Sproull Solicitors LLP 6001673/2023 (first instance)
+5.3 Mrs M Griffiths v 1) Scarista Ltd 2) KKR Private Credit Opportunities Partners LP 3) Alcentra Ltd: [2025] EAT 36.
+
+6. I gave my reasons orally at the hearing but the Claimant said she would need written reasons and so I have included those reasons with my judgment.
+
+THE LAW
+
+7. The Employment Tribunal Procedure Rules 2024 provide:
+
+Part 8
+
+Withdrawal
+
+End of claim
+
+50. Where a party advancing a claim informs the Tribunal, either in writing or in the course of a hearing, that their claim, or part of it, is withdrawn, the claim, or part, comes to an end, subject to any application that the party responding or replying to the claim may make for a costs order, preparation time order or wasted costs order.
+
+Dismissal following withdrawal
+
+51. Where a claim, or part of it, has been withdrawn under rule 50 (end of claim), the Tribunal must issue a judgment dismissing it (which means that the party advancing it may not commence a further claim against the party responding or replying to it raising
+
+the same, or substantially the same, complaint) unless—
+
+(a) the party advancing the claim has expressed at the time of withdrawal a wish to reserve the right to bring such a further claim and the Tribunal is satisfied that there would be legitimate reason for doing so, or
+(b) the Tribunal believes that to issue such a judgment would not be in the interests of justice.
+
+8. In Campbell v OCS Group UK Limited UKEAT/0188/16/DA the Honourable Mrs Justice Simler (DBE) )President) said:
+
+3. By an email addressed to the Employment Tribunal and timed at 9.58pm [14 December 2015] that same evening the Claimant said: “I am writing with regret that I am withdrawing my case … due to ill health and under medical advice. I attach a medical report from my practitioner. I can confirm that I have notified the Tribunal court as soon as it has become reasonably apparent that I cannot continue with the case and I can confirm that I have not acted in a malicious or unreasonable manner at any time throughout the process. I confirm I have complied with rules 30(2) and 92 of the [2013 Rules] by providing a copy of this letter and medical report to the Respondents.”
+
+5. Meanwhile, by letter dated 17 December the Claimant applied for reconsideration of the Judgment and requested that her withdrawal be rescinded. She explained: “The letter sent to the Tribunal and the Respondents stating my decision to withdraw was made at a time when I was suffering from extreme stress and I was not in a right stable frame of mind and I was unwell. My mental capacity at the time of writing my withdrawal letter was impaired, which affected my judgment and as a result I made a decision while being mentally incompetent. I was also advised by my medical practitioner, as the accompanying medical report confirms, but [I] was not legally represented at this time and therefore unaware of the legal ramifications of my letter.”
+
+9. Prior to the 2004 ET Rules, claims that were withdrawn were not formally dismissed by employment tribunals as a matter of course, and often claims were not dismissed at all unless and until a respondent made an application to dismiss. The question arose in those circumstances whether a withdrawal constituted a decision that could not be re-litigated even if proceedings had not been formally dismissed. The 2004 Rules introduced a more formal structure. By Rule 25 they provided, relevantly, as follows: “(1) A claimant may withdraw all or part of his claim at any time - this may be done either orally at a hearing or in writing in accordance with paragraph (2).
+
+(2) To withdraw a claim or part of one in writing the claimant must inform the Employment Tribunal Office of the claim or the parts of it which are to be withdrawn. Where there is more than one respondent the notification must specify against which respondents the claim is being withdrawn.
+
+(3) The Secretary shall inform all other parties of the withdrawal. Withdrawal takes effect on the date on which the Employment Tribunal Office (in the case of written notifications) or the tribunal (in the case of oral notification) receives notice of it and where the whole claim is withdrawn, subject to paragraph (4), proceedings are brought to an end against the relevant respondent on that date. Withdrawal does not affect proceedings as to costs, preparation time or wasted costs.
+
+(4) Where a claim has been withdrawn, a respondent may make an application to have the proceedings against him dismissed. Such an application must be made by the respondent in writing to the Employment Tribunal Office within 28 days of the notice of the withdrawal being sent to the respondent. If the respondent’s application is granted and the proceedings are dismissed those proceedings cannot be continued by the claimant (unless the decision to dismiss is successfully reviewed or appealed).”
+
+12. The 2013 Rules clarified the approach that existed under the 2004 Rules and to an extent codified the approach identified by the Court of Appeal in Khan. Rules 51 and 52 provide as follows:
+
+“51. End of claim
+
+Where a claimant informs the Tribunal, either in writing or in the course of a hearing, that a claim, or part of it, is withdrawn, the claim, or part, comes to an end, subject to any application that the respondent may make for a costs, preparation time or wasted costs order.
+
+52. Dismissal following withdrawal Where a claim, or part of it, has been withdrawn under rule 51, the Tribunal shall issue a judgment dismissing it (which means that the claimant may not commence a further claim against the respondent raising the same, or substantially the same, complaint) unless -
+
+(a) the claimant has expressed at the time of withdrawal a wish to reserve the right to bring such a further claim and the Tribunal is satisfied that there would be legitimate reason for doing so; or
+(b) the Tribunal believes that to issue such a judgment would not be in the interests of justice.
+
+13. Accordingly, Rule 51 makes clear that a withdrawal may be notified orally at a hearing and takes effect upon the tribunal being informed by the claimant either in writing or in the course of the hearing of withdrawal. The effect of withdrawal, as before, is to bring the proceedings to an end subject only to any application that might be made by the respondent for costs. The claim cannot be revived, but that does not mean that absent dismissal a fresh claim on the same facts cannot be made.
+
+14. Unlike the position under the 2004 Rules, Rule 52 of the 2013 Rules does not require a respondent to make an application to the tribunal before it can dismiss a claim that has been withdrawn under Rule 51. Rather, the effect of Rule 52 is mandatory. Dismissal must automatically follow unless one of the specified exceptions applies. This is emphasised, as Mr Johnston points out, by the Presidential Guidance given to Employment Tribunals on General Case Management 2014, where at paragraph 14 of the section entitled “Concluding cases without a hearing” the Guidance states:
+
+“Withdrawal under Rule 51
+
+14. When a claimant withdraws the claim comes to an end. The tribunal must issue a dismissal judgment under rule 52 unless for some reason this is inappropriate. …”
+
+15. No time limits are provided in Rule 52 within which the tribunal is required to act. Rule 52(a) requires the claimant to reserve his or her right to bring a further claim “at the time of withdrawal” so that a claimant who fails to do so will not be able to rely on Rule 52(a) subsequently and may find that the tribunal has automatically dismissed the claim. However, unless and until a tribunal has dismissed the claim (and no timeframe is specified by Rule 52(b)) the claimant can seek to rely on Rule 52(b) on the basis that although his or her rights to re-litigate at the time of withdrawal were not expressly reserved, it would be in the interests of justice for the tribunal not to dismiss the claim so that re-litigation in another forum may be permitted or because there is some other good reason for not dismissing that makes it in the interests of justice not to do so.
+
+16. In Segor v Goodrich Actuation Systems Ltd [2012] UKEAT/0145/11/DM the EAT made clear that tribunals should always take steps to ensure that litigants, particularly those who are self-represented or have lay representation, who seek to concede a point or abandon it do so on a clear, unambiguous and unequivocal basis before accepting the concession or abandonment indicated. At paragraph 11 Langstaff P held: “11. What we should say, however, is this. A tribunal will always want to take care where a litigant, particularly one who is self-represented or who has a lay representative, seeks to concede a point or to abandon it. It may be a matter of great significance. Though it is always for the parties to shape their cases and for a tribunal to rule upon the cases as put before it, and not as the tribunal might think it would have been better expressed by either party, it must take the greatest of care to ensure that if a party during the course of a hearing seeks to abandon a central and important point that that is precisely what the individual wishes to do, that they understand the significance of what is being said, that there is clarity about it, and if they are unrepresented, that they understand some of the consequences that may flow. As a matter of principle we consider that a concession or withdrawal cannot properly be accepted as such unless it is clear, unequivocal and unambiguous.”
+
+[...]
+
+25. On behalf of the Claimant Mr Matovu accepts that no issue arises as to the legal meaning and effect of Rule 51 [now 50]. On withdrawal the claim comes to an end, and once brought to an end those particular proceedings cannot be revived. This appeal focuses instead on Rule 52. […]
+
+26 […]
+
+26. I do not accept these submissions in the context of this case. I have already concluded that there is no mandatory requirement on tribunals to afford the opportunity to a withdrawing party to make representations before deciding whether or not to dismiss under Rule 52. Moreover, in this case the contents of the Claimant’s email of 14 December 2015 contained on any view a clear, unequivocal and unambiguous withdrawal of her claim. Both the timing of the email and the fact that its contents sought to raise matters potentially relevant to the question of whether any adverse costs consequences might flow from her withdrawal suggested, as the Employment Judge expressly concluded, that the Claimant had given thought to the matter and to the consequences of her decision. Looked at objectively, there was nothing in the circumstances or in the contents of the email or the medical advice to suggest that the Claimant’s decision to withdraw was ill-considered or irrational. The Claimant did not express any wish to reserve her right to bring a further claim so that there could be no basis for consideration of her case under Rule 52(a).
+
+9. I note the contents of the other cases refer to above.
+
+ANALYSIS AND CONCLUSIONS
+
+10. I have not heard evidence and I do not therefore make findings of fact.
+
+11. On 7 November 2025 the Claimant, via the Tribunal portal, wrote in the following terms [RHB178-179] (she then sent on the same wording to her Union and to a member of the Respondent’s HR team [RHB176]):
+
+Re: Case number: 6039320-2025 and 6035838-2025
+
+Claimant: Phyllis Sullivan
+
+Respondent: Capita Plc
+
+Dear Tribunal,
+
+I write to confirm that I wish to withdraw both my claims in full against the Respondent in the above case(s). Please record my withdrawal and, if appropriate, issue a judgment dismissing both the claims. I submitted both the claims, having been advised by my union (Unite the Union) to create and submit both ET1 claims and Particulars of Claim myself at the time, with the union having full awareness of the background of those claims. On 07 November 2025, my union (Unite the Union) has now instructed me to withdraw both my claims in full. As a litigant in person, I am not legally trained, and I can only follow the instructions given by my union (Unite the Union) as and when they are given to me. Consequently, I withdraw both my claim(s) in full. I have taken this step voluntarily (on the recent advice of my union) and not as a result of any unreasonable conduct. The claims are at an early stage, and no ET3s have been issued. I request that no order for costs be made. At the time of this withdrawal of both claims, I express my wish to reserve the right to bring such a further claim in the future, if reasonable for me to raise such a further claim.
+
+Yours faithfully,
+
+Phyllis Sullivan
+
+12. The Claimant explained at this hearing that when she told the Union what she had done they made clear that they had not told her to withdraw her claims and she said that she had misunderstood what her Union had told her. The Claimant said that she had also been suffering from migraines (I was provided with medical evidence from August 2025 that the Claimant has been suffering with migraines (without aura)).
+
+13. Three days later on 10 November 2025 the Claimant sent the following correspondence to the Tribunal [RB180-181]:
+
+Re: Case number: 6039320-2025 and 6035838-2025
+
+Dear Employment Tribunal Judge and Case Manager,
+
+I have been suffering from long-term flare-ups of a migraine condition (without aura) that is very painful and impacts upon my concentration, sleep, and my wellbeing. The migraine condition was diagnosed because of the repeated triggers from work-related stress caused by my former employer (Capita Plc). I am still suffering from these frequent migraines. I recently contacted the Employment Tribunal by clicking the links on the online portal to withdraw both my claims (6039320-2025 and 6035838- 2025). I need to make the Employment Tribunal Case Manager and Judge aware of the following information: My union told me that I needed to file Employment Tribunal claims myself because that is how the union does it, and then the union legal team will legally assess the same facts after the union member has submitted an ET1 to the employment tribunal. I questioned this approach verbally, but my union reassured me and gave me an example of another union member (without disclosing their name) that had filed a discrimination claim themselves on union instruction and then had to file a dismissal claim several months later. So, I submitted the first ET1 because I was told the ACAS deadline would be missed otherwise. Now I should have received a legal review by my union well before this point, but it didn't happen. After submitting the first ET1, I still didn't receive any legal review. Even though the union verbally told me that the union considered that the employer had likely already decided to dismiss. I clearly explained to my union that I needed potential support with an interim relief claim, but I still didn't get any legal review from my union, and I didn't receive any other information different to the union's earlier advice that union members are expected to submit ET1s themselves. I filed the second ET1 and I was then told, after filing that second ET1, that the union would have preferred if it had been filed a bit later. Then I received an email from my union telling me that there was initial feedback from the union solicitor saying that the first ET1 looked a bit different from the second ET1. At no point was I provided with any union advice on how to amend and join the two ET1s in order to save the tribunal cost and time. I was just left to try and figure that out for myself. Then on 07 November 2025, I received the most recent email from the union telling me, that the union considered that SOSR dismissal for a breakdown in working relationships was likely an arguable reason that the employer could provide so the union had decided that they couldn't support with my two ET1s. To be clear, my union does not consider that the specific words "withdraw your claim" were used in their email correspondence to me on 07 November 2025. Ultimately, upon receipt of the email from my union on 07 November 2025, I considered the feedback from my union implied that I should withdraw my two ET1 claims, and ultimately I clicked the links on the online tribunal portal for the Employment Tribunal to withdraw my two ET1 claims, and the Respondent was forwarded that information via email. Overall, I have found the tribunal process through my union unnecessarily stressful, unclear, wasting of my own personal time, and triggering of further migraines. I was suffering from another crippling migraine when I withdrew my two ET1 claims from the Employment Tribunal on 07 November 2025. I felt I had to withdraw the two claims because of the lack of union legal support, my migraine disorder, my need to find further employment before homelessness, and my need to try to keep the migraines down because my mother is vulnerable and needs some support at times due to her skin condition. I intend to seek independent legal advice about these tribunal claims.
+
+14. On 11 November 2025 the Claimant sent the following correspondence to the Tribunal (attaching her August GP letter):
+
+APPLICATION TO RETRACT WITHDRAWAL OF CLAIMS (Rule 52,
+
+Employment Tribunals
+
+(Constitution and Rules of Procedure) Regulations 2013)
+
+1. I, [Phyllis Sullivan], am the Claimant.
+
+2. On 07 November 2025, I submitted a notice withdrawing both my claims (6039320-2025 and 6035838-2025)
+
+3. I respectfully apply under Rule 52 for the Tribunal to set aside (retract) that withdrawal on the basis that it was made in error, caused by the effects of my disability (migraines).
+
+4. I phoned the tribunal this morning (11.11.2025), and the tribunal call handler informed me that the tribunal has not yet issued a notice of dismissal. That the Judge was yet to view. Consequently, the tribunal call handler placed a note for me on both of the claims to state that they had been withdrawn in error due to the impact of disability (migraines).
+
+5. Accordingly, I respectfully request that the Tribunal: Set aside the withdrawal of both my claims dated 07.11.2025; and allow the proceedings to continue as if the withdrawal had not occurred.
+
+6. As per my letter to the tribunal on 10.11.2025, I was suffering from a bad migraine (disability) when I erroneously submitted the withdrawal requests on 07.11.2025, and I was not in a proper state to make a decision at the time.
+
+7. The withdrawal was therefore not a genuine or effective indication of my settled intention to discontinue the claims.
+
+8. Due to my migraine condition, I used AI software to construct the main wording within my withdrawal applications, and I made the withdrawal in circumstances where I did not fully understand its legal effect. Namely, that it would bring the claims to an end unless the Tribunal allows reinstatement.
+
+9. Today 11.11.2025, I sought independent initial legal advice from my home insurance (employment) legal team. They intend to make a legal assessment of my claim. The legal team call handler informed me that it will likely take 5 – 10 working days to make a legal assessment, and it would be supportive of this assessment if a decision could be made on this application to retract the withdrawal of my claims made (withdrawal made in error on 07.11.2025).
+
+10. Please find attached to this application to retract withdrawal of my claims, a GP medical letter regarding my migraine disorder (disability). Claims effectively withdrawn?
+
+15. I consider that, whatever the reasons, the Claimant’s submission to the Tribunal on 7 November 2025 was an effective withdrawal of both claims in clear, unequivocal and unambiguous terms. The Claimant did not persuasively argue otherwise and this must be assessed objectively on wording of the withdrawal at the time it was sent.
+
+16. As held in Campbell, the effect of withdrawal is to bring the proceedings to an end subject only to any application that might be made by the Respondent for costs. The claim cannot be revived, but that does not mean that, absent dismissal, a fresh claim on the same facts cannot be made.
+
+17. I accept the Respondent’s submission that a request to retract a withdrawal cannot amount to the re-submission of the claim. The normal Tribunal process must be followed.
+
+18. The fact the Claimant was suffering from a migraine at the time she withdrew her claims or that there was a misunderstanding between her and her Union at the time she withdrew or that the Union confirmed that it would not provide legal support to her on the claims does not mean that they were not effectively withdrawn. Her correspondence of 7 November 2025 was unambiguous with respect to her decision to withdraw.
+
+19. It is important there is certainty as to the effect of a withdrawal where it is expressed in unambiguous terms. A Claimant who does unambiguously withdraw a claim should not be able to resile from that because of a change of mind, mistake or other matter not mentioned in the withdrawal itself.
+
+20. It is not relevant to the interpretation or effect of Rule 50 that the effect of the withdrawal is that the Claimant, in resubmitting a claim, might encounter difficulties with time limits and could not bring an interim relief application.
+
+21. The fact that that the Respondent may not be materially prejudiced by the Claimant seeking to retract her withdrawal (because it has prepared to attend this IR hearing in any event) also does not go to the interpretation or effect of Rule 50.
+
+22. The Respondent could not be said to have ‘sprung’ this submission on the Claimant as the Respondent made its position clear on 21 November 2025 and the Claimant prepared a written reply. On 26 November 2025 the Tribunal told the Claimant that the matter of withdrawal would be discussed at this hearing. As Mr Mills submitted, the rules to not provide that a withdrawal of a claim is ineffective if, for example, a Respondent has not accepted the withdrawal within 7 days.
+
+23. It is also not material that the Tribunal, not having spotted the withdrawal of the claims, accepted the second claim and issued the notice of hearing. That does not unwind the effect of the Claimant’s withdrawal of both claims.
+
+24. The effect of this is that the proceedings in both Claims came to an end on 7 November 2025. Should the claims be dismissed on withdrawal?
+
+25. The Claimant’s withdrawal had an internal inconsistency in that it said on the one hand “Please record my withdrawal and, if appropriate, issue a judgment dismissing both the claims” and concluded with “At the time of this withdrawal of both claims, I express my wish to reserve the right to bring such a further claim in the future, if reasonable for me to raise such a further claim.”. The Claimant’s comment at the start of the withdrawal was in consistent with her final sentence because it raised the prospect of the Claims being dismissed on withdrawal (which, if put in to effect, under Rule 51 would mean that the Claimant may not commence a further claim against the Respondent raising the same, or substantially the same, complaints).
+
+26. The final sentence of the Claimant’s withdrawal could have been clearer in that it said “such a further claim in the future” rather than saying more precisely “these specific complaints in a further claim in the future”. However, given the context, I consider that the words actually used can be taken to have that more precise meaning.
+
+27. The Claimant then of course made clear, soon after her withdrawal and in correspondence of 10 November 2025, that she did want to continue to pursue the matters raised in her claims notwithstanding her not having the backing of her Union.
+
+28. The Claimant was relying on AI to help with correspondence and I do not consider that she appreciated the implications of suggesting that it might be appropriate to dismiss both claims on withdrawal. I consider that the final sentence, even if also generated with the assistance of AI, because it is the concluding comment, sets out the Claimant’s clearest intent (especially since she acted consistently with it a short time later on 10 November 2025). As such the circumstances of this case are different to those in Campbell.
+
+29. Given the Claimant’s concluding statement in her withdrawal of 7 November 2025, I consider that the Claimant did express, at the time of withdrawal, a wish to reserve the right to bring such a further claim and I am satisfied that there would be legitimate reason for doing so given the impact on her migraines and the confusion that appears to have arisen for her in respect of what she thought her Union was telling her and even if the implication from the Union was that the Claimant did not have a strong claim and the Union was therefore not willing to back her.
+
+30. The Claimant is now seeking legal input from lawyers provided via an insurance policy.
+
+31. For these reasons and in accordance with Rule 51 (a) I do not issue a judgment dismissing the claims on withdrawal.
+
+32. I also do not consider that it would be in the interests of justice to dismiss the claims on withdrawal (51 (b)) in particular taking into account the Claimant’s ill heath at the time of her withdrawal, the confusion she had with respect to her Union’s position and the fact that soon after she withdrew her claims she made clear that she considered that she should not have done so.

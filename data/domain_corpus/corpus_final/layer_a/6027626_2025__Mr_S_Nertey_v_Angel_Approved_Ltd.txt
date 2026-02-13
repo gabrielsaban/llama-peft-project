@@ -1,0 +1,36 @@
+JUDGMENT ON A PRELIMINARY ISSUE
+
+1. The application for interim relief is refused because:
+
+a) Interim relief is not available for claims of unfair dismissal generally, only in the particular circumstances set out in section 128(1) Employment Rights Act 1996 such as for whistleblowing claims or where the dismissal was for trade union activity, none of which apply here.
+b) By section 128(2) of that Act, such applications have to be brought within seven days of dismissal, whereas this claim was brought more than four months afterwards.
+c) The claimant has not in fact made an application for interim relief, he has simply ticked the relevant box on the claim form which states “My claim consists only of a complaint of unfair dismissal which contains an application for interim relief”. There is no mention of interim relief elsewhere in the claim form.
+d) In any event, the claim does not consist only of a complaint of unfair dismissal, it also includes a claim of race discrimination. In those circumstances the exemption from the requirement to inform ACAS about the claim appears to have been sought in error and the claim form should not have been accepted.
+
+2. It does not follow however that the claim can be rejected now. The Court of Appeal considered such a situation recently in the case of Sainsbury's Supermarkets Ltd v Clark [2023] EWCA Civ 386, [2023] IRLR 562]. It was decided that where a claim was accepted without the claimant having complied with the requirement to first inform ACAS about the claim, 'the time for rejection of the claim has passed'.
+
+3. The Tribunal does however have power under rule 38 of the Employment Tribunal Rules of Procedure to strike out a claim in those circumstances. The respondent has applied to strike out the claims on various grounds but rule 53 of the Employment Tribunal Rules of Procedure provides:
+
+(2) The Tribunal must give the parties reasonable notice of the date of the preliminary hearing. In the case of a hearing involving any preliminary issue, this must not be less than 14 days’ notice of the date of the preliminary hearing and the notice must specify the preliminary issues that are to be, or may be, decided at the hearing.
+
+4. A further preliminary hearing will therefore take place, in public, on 25 November 2025 at 1400. As today, the hearing will take place by video and the parties will be sent a link to the hearing shortly beforehand.
+
+5. At that hearing, the Tribunal shall consider whether to strike out the claim, in whole or in part, on the basis that:
+
+a) the claimant did not have the necessary two years’ service to bring a claim of unfair dismissal;
+b) the claim was presented outside the normal period of three months from the date of dismissal; and/or
+c) the claim is an abuse of the Tribunal’s process because the above exemption to early conciliation was not validly claimed.
+
+6. No oral evidence will be considered. The Tribunal will simply hear from each side in turn before making a decision.
+
+7. The parties may submit any relevant documents they wish to rely on in a file for the Tribunal, copied to each other, at least seven days before the hearing. Those documents may relate to length of service, reasons for not submitting the claim earlier and reasons for mistakenly claiming this exemption.
+
+8. In relation to the time limit issue, the test is whether there is no reasonable prospect of the claimant succeeding in showing that the claim was in time.
+
+9. Alternatively, the Tribunal may make a deposit order – an order requiring Mr Nertey to pay a deposit as a condition of being allowed to proceed with an allegation or argument – if it concludes that Mr Nertey has little reasonable prospect of success in relation to time limits or length of service.
+
+10. For claims of unfair dismissal time can be extended where it was reasonably practicable (i.e. reasonably feasible) for the claim to have been made in time, and it was then submitted within a further reasonable period.
+
+11. For the claim of race discrimination time can be extended where it would be just and equitable to do so. (Since none of the allegations are within three months of dismissal there is no scope to argue that they were part of a series of acts which ended within that three-month period.)
+
+12. By agreement, the name of the respondent is changed to Angel Approved Limited.

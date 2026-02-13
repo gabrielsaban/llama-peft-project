@@ -1,0 +1,833 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The unanimous judgment of the Tribunal is that:
+
+In Summary:
+
+1. All of the claimant’s complaints against R1 and R2 are dismissed except the complaint that R1 made an unauthorised deduction from wages in respect of a failure to pay in lieu of accrued untaken holiday on termination which succeeds to the extent of 5 days’ accrued annual leave only (as set out in paragraph [12] below).
+
+In detail:
+
+2. The Tribunal lacks jurisdiction to hear the following complaints of direct race discrimination under section 13 of the Equality Act 2010 (EA) which were not brought within the time limit in section 123 of EA. These complaints are, therefore, dismissed for lack of jurisdiction:
+
+8000921/2024 Page 2
+
+a. the complaint that from November 2022, R1 excluded C from operational management decisions at certain hotels and devolved certain of the claimant’s duties to others;
+b. the complaint that in August 2023, P Belhay instructed the claimant’s team to contact him directly if there was any ‘monkey business’, referring to the claimant’s conduct;
+c. the complaint that in or around November 2023, the claimant was not offered any opportunity to apply for the role of Cluster General Manager UK (CGM).
+
+3. The following further complaints of direct race discrimination under section 13 of EA are not well founded and are dismissed:
+
+a. the complaint that between January and March 2024, R1 failed to pool the claimant’s role and the CGM role together during the redundancy process;
+b. the complaint that R1 dismissed the claimant; and
+c. the complaint that R1 pre-determined the outcome of the claimant’s appeal.
+
+4. The claimant’s complaint of automatically unfair dismissal pursuant to section 104 of the Employment Rights Act 1996 (ERA) (assertion of a statutory right) is not well founded and is dismissed.
+
+5. the claimant’s complaint of victimisation pursuant to section 27 of the EA is not well founded and is dismissed.
+
+6. The claimant’s complaint of ‘ordinary’ unfair dismissal pursuant to sections 94-98 of ERA is not well founded and is dismissed.
+
+7. The claimant’s complaints of breach of contract and unauthorised deduction of wages against R1 in respect of an asserted reduction of his salary of 20% in the period between 20 March 2020 and April 2021, having been withdrawn by the claimant during the hearing on 27 October 2025, are dismissed under Rule 51 of the Employment Tribunal Procedure Rules 2024.
+
+8. The Tribunal lacks jurisdiction to hear the claimant’s complaint of breach of contract against R1 in respect of non-payment of £750 per month rent contribution in the period between April 2020 and May 2021 pursuant to Articles 4(b) and 5(b) of the Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 (“the 1994 Order”). This breach of contract complaint is, therefore, dismissed.
+
+8000921/2024 Page 3
+
+9. The Tribunal lacks jurisdiction to hear the complaint that R1 made an unauthorised deduction from the claimant’s wages in respect of non-payment of £750 per month rent contribution in the period between April 2020 and May 2021 pursuant to section 23(4A) of ERA. This complaint is, therefore, dismissed.
+
+10. the following further complaints of unauthorised deductions from wages are not well founded and are dismissed:
+
+a. the complaint that R1 omitted to pay the claimant an annual bonus payment for calendar year 2023;
+b. the complaint that R1 omitted to pay the claimant a bonus payment for the first quarter of calendar year 2024.
+
+11. The following complaints of breach of contract are not well founded and are dismissed:
+
+a. the complaint that R1 omitted to pay the claimant an annual bonus payment for calendar year 2021;
+b. the complaint that R1 omitted to pay the claimant a bonus payment for the first quarter of calendar year 2024;
+c. the complaint that R1 omitted to pay the claimant in lieu of 23 days’ annual leave on the termination of his employment.
+
+12. The Tribunal declares that R1 has made an unauthorised deduction contrary to section 13 of ERA from the claimant’s final wage by failing to pay him in lieu of 5 days’ accrued untaken holiday successively carried forward from each Leave Year since Leave Year 2020. Case Management Orders are made below regarding remedy for this complaint.
+
+CASE MANAGEMENT ORDER
+
+The following case management orders are made under Rule 30 of the Employment Tribunal Rules of Procedure 2024. They are intended to ensure a fair hearing in accordance with the “overriding objective” set out in rule 3. That includes avoiding delay and expense so far as compatible with a proper consideration of the issues. The complexity and importance of the issues were taken into account when deciding the appropriate and proportionate order.
+
+1. The Tribunal, having found that R1 has made an unauthorised deduction from C’s wages in respect of its failure to make a payment in lieu of 5 days’ accrued, untaken holiday proposes to issue a judgment ordering R1 to pay C the relevant sum. The Tribunal has provisionally calculated the relevant sum as £961.54 (gross) as set out in paragraph [222] of this judgment. The parties
+
+8000921/2024 Page 4
+
+shall within 14 days of the date this judgment is sent to them, send to each other and to the Tribunal:
+
+a. confirmation of whether they are in agreement with the arithmetical calculation a day’s pay which the Tribunal has used to compute the total of £961.54; and
+b. if a party is not in agreement, the basis on which they disagree; and
+c. confirmation of whether either party considers a hearing to be necessary to decide the remedy, and (if so) representations as to why.
+
+REASONS
+
+Introduction
+
+1. This final hearing took place by videoconferencing at the Glasgow Tribunal. The claimant (C) gave evidence on his own behalf and led evidence from Teresa Kalista, Anil David and Jessielyn Gayo. The Respondents (R1 and R2) led evidence from Hope Ajuwa, Dr Michael Lewis and Philippe Belhay. Evidence in chief was taken from the witnesses orally. A joint bundle of productions running to 458 pages was referred to be the witnesses. C and the Rs added further documents on 24, 27 and 29 October, without objection. Though he had reviewed it recently in preparation for the hearing, ML unfortunately could not, for technical reasons, access a copy of the bundle while giving his evidence via video link. However, this situation was managed adequately well by Ms Halsall and C explaining the document to which they referred when questioning ML and reading out in full those passages to which they wished to take him.
+
+2. This table sets out abbreviations used in relation to individuals referred to in this judgment and their job roles.
+
+AD Anil David, Hotel Manager of the
+
+Bendoran Hotel, Scotland
+
+AC Augustin Cortes, Vice President
+
+(UK)
+
+AG Ashish Gosain, an Area General Manager with a portfolio of 4 hotels in Portugal.
+
+AM Arun Manohorrun, Cluster General
+
+Manager UK
+
+8000921/2024 Page 5
+
+CF Christine Fox, Consultant who undertook work for R1 around March FS Fausto Sedano, Managing Director of R1
+
+HA Hope Ajuwa, HR Officer
+
+JG Jessielyn Gipit Gayo, Restaurant
+
+Operations Manager, Bendoran Hotel, Scotland JM Jorge Madrazo, Global Human Resources Manager
+
+KM Kevin Maran, Managing Director
+
+ML Dr Michael Lewis, Cluster General Manager UK
+
+NM (aka R2) Nesamani Muthu Maran, Chairman
+
+PB Philippe Belhay, Vice President
+
+(Operations) UK
+
+RS Rahul Singh, HR Manager
+
+SG Sumir Gupta, Corporate General Manager TK Teresa Kalista, Rooms Division Manager for Hotels in Oban
+
+Issues to be determined
+
+3. Remedy was hived off to be determined at a subsequent hearing in the event C were to succeed in some or all of his complaints. The parties had prepared a draft List of Issues. However, this was not agreed. There were discussions and clarifications about the issues and claims during the preliminaries on 24 October 2025. On 27 October 2025, C withdrew his complaint of breach of contract and / or unauthorised deductions from wages for 20% of his salary in the period from Mach 2020 until April 2021 (said to total approximately £10,833 across the period) while he was on furlough. The extant issues, as agreed at the hearing, are listed below.
+
+8000921/2024 Page 6
+
+Race Discrimination time bar
+
+4. Given the date the claim form was presented and the dates of early conciliation, a complaint about anything that happened before 17 January 2024 may not have been brought in time.
+
+5. Were the discrimination complaints about the acts listed in paragraph [7(a) to (c)] made within the time limit in section 123 of EA? The Tribunal will decide:
+
+a. Was the claim made to the Tribunal within three months (plus early conciliation extension) of the act to which the complaint relates?
+b. If not, was there conduct extending over a period?
+c. If so, was the claim made to the Tribunal within three months (plus early conciliation extension) of the end of that period?
+d. If not, were the claims made within a further period that the Tribunal thinks is just and equitable? The Tribunal will decide:
+i. Why were the complaints not made to the Tribunal in time?
+ii. In any event is it just and equitable in all the circumstances to extend time? Direct race discrimination (section 13 of EA)
+
+6. All of the direct race discrimination complaints are brought against R1 and all but one are also brought against R2. C is a national of Mauritius of Indian race and ethnicity.
+
+7. Did R1 do the following things:
+
+a. From November 2022, did R1 exclude C from operational management decisions at certain hotels and did R1 devolve certain duties of C to others?
+b. In August 2023, did PB instruct C’s team to contact PB directly if there was any ‘monkey business’, referring to C’s conduct;
+c. In or around November 2023, was C not offered any opportunity to apply for the role of Cluster General Manager (CGM)?
+d. Between January and 1 March 2024, did R1 fail to pool C’s role and the CGM role together during the redundancy process? Was this notwithstanding an alleged acknowledgement by R1 that these roles involved doing the same job?
+e. It is admitted that R1 dismissed C on 4 April 2024; 8000921/2024 Page 7
+f. Did R1 predetermine the outcome of C’s appeal against dismissal dated 7 March 2024?
+
+8. In each case, was that less favourable treatment because of C’s race?
+
+9. In each case, did R2 instruct R1 to do these things? C alleges that R2 instructed R1 to do all of these things listed except paragraph [7(b)].
+
+‘Automatic’ Unfair Dismissal (section 104 of ERA)
+
+10. This complaint proceeds against R1 only. There is no time bar issue. R1 admits that it dismissed C on 4 April 2024.
+
+11. Was the reason or principal reason for the dismissal that C alleged that R1 had infringed a right of his that was a relevant statutory right?
+
+a. The statutory right C says he asserted had been infringed is the right to take annual leave in accordance with Regulation 13 of the Working Time Regulations 1998 (WTR).
+b. C says he alleged R1 had infringed this right in an email dated 30 December 2023 to Dr M Lewis and Hope Ajuwa. Victimisation (section 27 of the Equality Act 2010 (EA))
+
+12. This complaint proceeds against both R1 and R2. There is no time bar issue.
+
+13. Did C do protected acts as follows:
+
+a. on 21 August 2023, C says he wrote to R2 to inform him that PB had notified C’s team to contact PB directly if there was any ‘monkey business’, referring to C’s conduct; and / or
+b. on 30 December 2023, C says he highlighted a disparity in treatment between staff from the Philippines and ex-patriates and other members of R1’s personnel.
+
+14. Did R1 do the following things:
+
+a. select C for redundancy in January 2024?
+b. R1 accepts it dismissed C on 4 April 2024.
+c. pre-determine the outcome of C’s appeal dated 7 March 2024 against his dismissal which outcome was confirmed on 20 March 2024?
+
+15. By doing so, did R1 subject C to detriment?
+
+16. If so, did R1 do the things in paragraph 12 above because C did a protected act or acts?
+
+8000921/2024 Page 8
+
+17. Did R2 instruct R1 to do all or any of the things in paragraph [14]?
+
+18. If R2 instructed R1 to do all or any of the things in paragraph [14], did R2 instruct R1 to do these things because C did a protected act or acts? ‘Ordinary’ Unfair Dismissal (sections 94-98 of the Employment Rights Act 1996
+
+(ERA)
+
+19. This complaint proceeds against R1 only. There is no time bar issue. R1 admits that it dismissed C on 4 April 2024. What was the reason or principal reason for dismissal? R1 says the reason was redundancy or some other substantial reason ‘SOSR’.
+
+20. If the reason was redundancy or SOSR, did R1 act reasonably in all the circumstances in treating that as a sufficient reason to dismiss C? The Tribunal will usually decide whether:
+
+a. R1 adequately warned and consulted C;
+b. R1 adopted a reasonable selection decision including its approach to the selection pool;
+c. R1 took reasonable steps to find C suitable alternative employment;
+d. Dismissal was within the range of reasonable responses. Unauthorised deductions from wages (section 13 of ERA)
+
+21. These complaints proceed against R1 only. Were the unauthorised deductions complaints made within the time limit in section 23 of ERA? The Tribunal will decide:
+
+a. Was the claim made to the Tribunal within three months (plus early conciliation extension) of the date of payment of wages from which the deduction was made?
+b. If not, was there a series of deductions and was the claim made to the Tribunal within three months (plus early conciliation extension) of the last one?
+c. If not, was it reasonably practicable for the claim to be made to the Tribunal within the time limit?
+d. If it was not reasonably practicable for the claim to be made to the Tribunal within this time limit, was it made within a reasonable period?
+
+22. Did R1 do the following:
+
+8000921/2024 Page 9
+
+a. Did R1 fail to pay C £750 per month as a rent contribution from April 2020 to May 2021, a 14 month period?
+b. Did R1 omit to pay C an annual bonus payment for calendar year 2023?
+c. Did R1 omit to pay C a bonus payment for Q1 of calendar year 2024 (January to March 2024)?
+d. Did R1 omit to pay C a payment in lieu of his full entitlement to accrued but untaken annual leave as at the date of his termination? C says R1 omitted to pay C in lieu of 23 days’ annual leave on the termination of his employment which he claims he carried over from Leave Year 2020.
+i. The parties agree that C’s Leave year ran from 1 January to 31 December.
+ii. The parties agree that when C’s employment ended on 4 April 2024, just over a quarter of the leave year had passed (3 months and 4 days).
+iii. The parties agree that, during leave year 2024, C had taken 15 days’ paid annual leave between 8 January to 26 January 2024.
+iv. The parties agree that in Leave Year 2024, C had accrued 7.3 days’ annual leave.
+v. The parties agree that R1 paid C in lieu of 7.3 days’ annual leave on 5 April 2024.
+vi. C says that, in addition to his annual leave accrued in Leave Year 2024, he carried forward 23 days’ annual leave entitlement from Leave Year 2020. R1 disputes this. Did C carry forward 23 days’ annual leave, originally accrued in 2020, into Leave Year 2024 pursuant to the WTR?
+vii. How many days remain unpaid?
+
+23. In each case, was there some legal or other entitlement to the sum? Breach of contract (The Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 “the 1994 Order”)
+
+24. Did R1 do the following:
+
+a. fail to pay C £750 per month as a rent contribution from April 2020 to May 2021, a 14 month period? 8000921/2024 Page 10
+b. omit to pay C an annual bonus payment for calendar year 2023?
+c. omit to pay C a bonus payment for Q1 of calendar year 2024 (January to March 2024)?
+d. omit to pay C a payment in lieu of his full entitlement to accrued but untaken annual leave as at the date of his termination? C says R1 omitted to pay C in lieu of 23 days’ annual leave on the termination of his employment which he claims he carried over from Leave Year 2020.
+
+25. Does the Tribunal have jurisdiction to decide the damages claim set out in paragraph [24(a)]? Is the contractual term said to have been breached a term imposing an obligation on the employer in connection with the provision of living accommodation?
+
+26. In relation to each complaint listed in paragraph [24], did that breach a term of C’s contract of employment?
+
+27. In each case, did the complaint arise or was it outstanding on the termination of C’s employment?
+
+28. In each case, what damages flowed from the breach?
+
+Findings in fact
+
+29. The following facts, and any further facts set out in the ‘Discussion and Decision’ section, are found to be proved on the balance of probabilities or were agreed by the parties. The facts found are those relevant and necessary to our determination of the issues. They are not intended to be a full chronology of events.
+
+30. R1 is a limited company which operates a chain of hotels and sits within a global group. R2 is the Chairman of R1. C was employed by R1 from 30 August 2018 until |R1 terminated his employment on 4 April 2024, purportedly or redundancy. C was initially employed in 2018 as a Hotel General Manager of the Alexandra Hotel on a salary of £40,000 per annum.
+
+31. C signed a statement of particulars of employment on 15 October 2018 which was stated in the document to form his contract of employment, along with the employee handbook. The Contract ‘[took] the place of all previous agreements and arrangements’.
+
+32. So far as relevant, the Contract included the following clauses:
+
+Accommodation
+
+8000921/2024 Page 11
+
+You will be provided with a suitable accommodation with free food within the hotel premises where you are posted.
+
+Hours of Work
+
+The hours of work required will vary according to the season and demands of the business.. Your normal working hours in a week are variable, in accordance with business needs, Monday to Sunday. The hours and days that you are required to work will be organised according to business needs and the Company will notify you of on the weekly Rota [sic]. You will be required to work in the evenings and at the weekends and on public holidays as part of your normal working week....
+
+48 hour opt-out
+
+It is anticipated that your average weekly hours of work excluding meals and rest breaks may exceed 48 hours. Your signature on the attached document signifies your agreement to work more than 48 hours when required. You may revoke this agreement by giving three months written notice.
+
+Annual leave
+
+You're entitled to 28 days holiday inclusive of bank holidays per annum. The holiday year runs from 1st January to 31st of December each year. … In the event of termination of employment, you will be entitled to holiday pay calculated on a pro rata basis in respect of all annual holiday already accrued but not taken at the date of termination of employment.... You must use all of your holiday entitlement by the last day of each holiday year and unless there are exceptional circumstances or, unless approved in writing in advance by your line manager, you may not carry your holiday entitlement forward into the next holiday year. Holiday entitlement not used by the correct date will usually be lost and under no circumstances will payment in lieu be made for holiday entitlement that is lost through not being exercised by the correct date.
+
+33. In 2018, C initially lived in the Alexandra Hotel. At some point before March 2020, he moved out of the hotel and into a rented 3-bedroom home with his
+
+8000921/2024 Page 12
+
+family. R1 agreed to pay him a contribution towards his rent of £750 per month in lieu of providing him with living accommodation in the hotel.
+
+34. C was placed on furlough from 26 March 2020 until around May 2021. During this period, C received furlough pay but continued to work full time hours for R1. During the furlough period, the Alexandra Hotel remained open and emergency workers for the NHS were staying in C’s hotel. C and two housekeepers continued to work throughout the period from March 20 to May 21, but other staff did not. Although the occupancy was low, C and the housekeepers had to carry out intensive cleaning procedures when turning over rooms because of Covid. C believed that, during the furlough period, employees who were refusing to work were made redundant.
+
+35. In around March 2020, C was told that he and all other team members were being offered accommodation within R1’s hotels. C was offered to return with his family to the Alexandra Hotel or to stay in the nearby Queens Hotel. C declined on the basis he felt the accommodation unsuitable for himself and his wife and infant (and all their belongings). RS, the HR manager at the time, told C that if he was unwilling / unable to move in to the hotels then R1 would not longer assist him with monthly rent contributions. Between April 2020 and May 2021 (14 months) R1 made no monthly contribution to C’s rent. C did not protest but continued to work under the Contract throughout this period. C did not raise any grievance or Tribunal claim or initiate Early Conciliation through ACAS regarding the matter throughout the period to May ’21 or within 3 months of its end.
+
+36. C did not take any annual leave in the calendar year 2020. He had conversations with AM (CGM at the time) and RS in the summer of 2020, and it was agreed he and other staff affected would be able to carry holiday forward. There was no discussion about how long C would be allowed to carry the leave forward (i.e. whether into Leave Year 2021 only, or beyond).
+
+37. On 11 January 2021, AM sent an email to a number of recipients, including C, which included text as follows: “Please be advised that pending holidays for all personnel for the calendar year 2019/20 must be cleared by March 2021. No holidays will be carried
+
+forward any further.”
+
+38. C did not take holiday in the period between January and March 2021. He felt unable to because of the volume of work he had and did not request to take the holiday. Other than the email of 11 January 2021, R1 did not contact C about the use of his carried forward holiday or give him any encouragement to take the carried forward leave. Though C took holiday from his 2021 entitlement in the remainder of Leave Year 2021, he did not take any ‘carried
+
+8000921/2024 Page 13
+
+forward’ leave from 2020 during the rest of 2021. He didn’t try to do so, again because he felt his volume of work was too high. C had no conversation with R1 at the end of March 2021 or at the end of December 2021 about whether the untaken leave from 2020 would carry forward into 2022. Again in 2022 and 2023, C did not try to take ‘carried forward’ annual leave accrued in 2020 because he perceived his volume of work was such that he could not do so. In Leave Years 2022 and 2023, R1 did not contact C about the use of any carried forward holiday accrued originally in Leave Year 2020. At no time did R1 contact C to give him any encouragement to take any untaken leave accrued in 2020.
+
+39. C was promoted to Area General Manager (AGM) in around April or May 2021. On 11 May 2021, C sent an email to R2 as follows: “I would like to thank you for the opportunity offered to me and following our conversation regarding my salary package after my promotion to Area General Manager. I would like to confirm that we have agreed for my basic salary to be increased to £50,000 per annum plus my rent of £750 per month and a bonus scheme of up to £10,000 (to be devised).
+
+…
+
+40. R2 replied, “Mr Devan, All the best. Wishing you to grow more and achieve more with the organization.” There was no further discussion regarding the terms of C’s bonus throughout his employment either with R2 or any manager of R1. In November 2021, R1 paid C a bonus payment of £10,000 (gross).
+
+41. In 2022, R1 did not pay C a bonus. In that year, another company within the global group of companies paid C the sum of 8,000 euros. C had done a few days’ consultancy for that company in Mauritius. In C’s mind, this payment was in discharge of what he regarded as a bonus entitlement from R1 arising from his discussions with R2 in May 2021. Nobody told C that this was the nature of the 8,000 euros payment.
+
+42. C had a call with Fausto Sedano (FS), who was, at the time, Managing Director of R1, on 11 November 2022, during which FS advised a couple of hotels were being removed from C’s remit as part of a restructuring process. This which prompted C to send an email of complaint about the matters to R2 and FS the following day (12 November 2022). On 12 November 2022, C sent an email to R2, copying in FS. It recorded that, following a call the previous day with FS, instructions had been given to remove the Queens Hotel and the Fort William Hotel from C’s area. C recorded that he had previously been managing the hotels with the collaboration of AC when the communication between C and R2 “was completely lost after VP joined”. He expressed concern that, with layers of management added above him, he had an
+
+8000921/2024 Page 14
+
+impression that R2 had been receiving distorted feedback about the operations in his remit. C’s email contained several paragraphs detailing matters relating to the work he had been undertaking and the performance of hotels in his area as well as additional work beyond the hotels in his remit. He expressed that he felt he was ready to take on a broader role in the organisations. He asked R2 for the opportunity to meet to discuss any future plans with regard to the organisation’s growth and his role.
+
+43. C did not receive a response from R2.
+
+44. In around June 2023, Philippe Belhay (PB) joined the company as Vice President (Operations). Mr Belhay is a Tunisian national of North African ethnicity. On 21 August 2023, C sent an email to R2 which included the
+
+following text, so far as relevant:
+
+It is with great disappointment that I am having to highlight these matters to you... Unfortunately, I cannot have Mr Philippe insinuate untrue and unnecessary negativity amongst my team by telling to all the COS staff to call him directly if there is any “abuse” and “monkey business” (his words) towards them. My team members were taken aback by such statements and came straight to me with this as they have always been treated very responsibly and fairly from my side. The second meeting I had with him, it was made it clear to me if the gear is not changed, we will have to leave or he will “make my life hell”. I am 49 years of age and I believe that I have earned the respect of a professional person should have and to be spoken to using mediocre language from a VPCO is unacceptable. I feel that I am being treated like someone who is lazy and not doing enough to accomplish my role... I have been told several times by Mr Phillipe that I need to make sure that I perform to make him look good in front of his chairman. I believe that if someone performs with transparency and integrity, their work reflects to those characteristics and their result.
+
+…
+
+45. In calendar year 2023, R1 did not pay C any money by way of a bonus payment.
+
+46. Following a recruitment process which began around August 2023, ML was appointed to the role of Cluster General Manager (UK) (CGM). The vacancy was publicly advertised on Indeed and Caterer.com. The respondents did not
+
+8000921/2024 Page 15
+
+specifically draw this vacancy to C’s attention or invite C to apply. Nor did they conceal the existence of this vacancy from C. C was unaware of the vacancy at the time and did not apply. ML applied on 25 September 2023. He was interviewed twice and was offered the role following his second interview which took part in October 2023.
+
+47. ML started in post on 13 December 2023. As part of his brief, ML was charged with reviewing the UK business and taking such actions as he deemed necessary to stabilise the financial future of the UK operation in a challenging period for the sector. When he started, ML prioritised liaising with R1s finance and sales teams to be furnished with figures so he could assess the performance of the business and its financial sustainability. As well as having substantial experience in the hotel industry, ML had a Master’s in Business Administration and a PHD in Mathematics. He was very much ‘figures first’, and he concentrated initially on this review of the accounting information, as opposed to consultations with his direct reports (C included) about their business areas.
+
+48. On 22 and 24 December 2023, ML held meetings with PB to discuss the UK operation. ML took handwritten notes. ML voiced significant concerns about the business. He had reviewed, in particular, the figures for the last quarter of calendar year 2023 and the projections for the first quarter of calendar year 2024. A £60,000 loss was predicted in the next quarter and ML identified that under the current trajectory, the UK operation would become insolvent by winter 2024. His discussion with PB was aimed at avoiding such an outcome and identifying actions to secure the viability of the business.
+
+49. One issue which was contributing to cash problems was that a third-party company which had a long-term contract for the occupation of one of the hotels in C’s remit had ended its occupation without paying its debts. At the time in December 2023, ML’s understanding was that this debtor owed R1 approximately £400,000. During their Christmas Eve meeting, ML and PB discussed four hotels whose financial positions were of particular concern in terms of their financial position. Two of these were in Scotland and two in England. They discussed savings which might be achieved through procurement and supplier changes.
+
+50. ML had also undertaken a comprehensive staffing review, and they discussed savings that could be made through staffing changes at the meetings. ML’s focus was on reducing headcount/ wage bills where possible / necessary without undermine the operation’s delivery. Among other things, He and PB agreed to pursue an immediate practice of reducing or eliminating hours given to zero hours workers. They agreed to terminate the services of a Hotel General Manager who was engaged on an agency basis in England, which ML did on 26 December 2023. Where sponsorship of overseas employee was
+
+8000921/2024 Page 16
+
+up for renewal, they decided they would opt not to renew the sponsorship to realise cost savings.
+
+51. ML also identified that C’s AGM position was a tier of management which could be removed from the structure. He proposed putting in place instead lower paid Hotel Manager roles to have responsibility and control of the zero hours employees at the respective hotels. He postulated that these staffing adjustments combined, including the proposed deletion of C’s post, could yield costs savings of between £220,000 and £240,000. It was decided that ML would commence a redundancy consultation process with respect to the proposed deletion of C’s post from the structure as soon as practicable.
+
+52. Between Christmas and New Year, ML prepared a typewritten document which covered all the changes in the action plan and the rationale for these, including with respect to C’s role. In his document, he erroneously recorded the salary associated with C’s role as £55,000 (when it should have been £50,000). He correctly recorded C’s ‘accommodation allowance’ as £9,000 (£750 per month). ML further prepared a typewritten Redundancy Business Case around the same time.
+
+53. C was not involved in any of these discussions. PB as Vice President (Operations) and ML as Cluster Group Manager (UK) were both in tiers of management above C and had responsibilities which extended to the whole UK operation. The documents ML prepared (headed ‘UK Group Hotel Performance and Strategic discussion’ and ‘Redundancy Business Case’) were not shared with C at the time or during the redundancy consultation process which later followed.
+
+54. ML did not identify a pool of employees from which to select for redundancy. C’s AGM role was unique in Scotland. ML did not consider pooling his own CGM post alongside C’s role because the two roles had significantly different remits and responsibilities. ML’s post was responsible for all day-to-day operations, business performance and improvements in the efficiency and profitability of all R1’s UK hotels. C’s responsibilities and remit were limited to the six hotels assigned to him. R2 did not instruct ML in relation to the proposals devised by ML generally or with respect to C specifically. After ML and PB agreed the proposals, ML informed corporate head office including R2 who acknowledged the actions ML proposed to take. R2 did not intervene but was merely informed of the measures.
+
+55. On 30 December 2023, C sent an email to HA and copied it to ML and PB. This followed an email he had sent on 28 December 2023 to PB in which he had requested 15 days’ annual leave. He had been asked to complete an updated holiday request form and the number of days requested and
+
+8000921/2024 Page 17
+
+remaining balance had been queried. At 7.40 pm on 30 December 2023, C responded as follows: “Before I resend the form, I would like to highlight to you that I have a 48 hour contract and have always been working a minimum of 60 hours a week. My first years of work I was only able to take maximum of three weeks off again due to business requirements. It so happens that the Philippines staff and expats are getting any extra hours worked as holidays which are amounting to more than a month extra paid time off. I also have 28 pending annual leave from COVID period that I have not been able to avail due to business requirements. And so much extra paperwork for five extra days of leave. Please do let me know if this will still be deducted from my leave which I am taking due to very important work to be done in my home country including attending to my old and not well parents… “
+
+56. C, as a senior manager, had a contract which required him to work variable hours in accordance with business needs. His contract conferred no entitlement to TOIL. In his capacity as Area General Manager (and previously as Hotel General Manager), he was aware that more junior staff were employed under a variety of contractual arrangements, including arrangements which differed from his own. He was aware that some employees were employed on zero hours contracts and that some had contracts under which they were entitled to TOIL for overtime worked. HA replied on 30 December. She requested approvals from management regarding extra days off worked to be used towards his holiday and approval
+
+for holiday carry over to the following year. AH also said:
+
+“As you are aware any extra day off work that would be used towards holiday needs to be approved and in the case of the COS employees the hotel's / general managers of each hotel approves for this. As the manager, you're responsible for managing your own time and days and any extra hours / days worked is unpaid. If payable this must be authorised by management.”
+
+57. C subsequently sought approval from R2 to take the leave and was notified that the holiday was approved on 3 January 2024. C went on annual leave from 8 to 26 January 2024 (15 days’ annual leave), during which period he returned to Mauritius. R1 did not contact C about the proposed redundancy consultation during C’s holiday.
+
+8000921/2024 Page 18
+
+58. On his return, C was invited on 30 January 2024 to a meeting the following day (31 January) which he attended. The meeting was chaired by ML, who also took notes. In the meeting, ML summarised that the current position was that C’s role oversaw six hotels of which four (at that point) were closed. ML was aware that certain closures were temporary and happened annually. He noted one of the hotels was contracted out for the use of asylum seekers and was not being managed by R1. ML said that, with no plans to reopen the Dalmally and the Royal hotels at that time, C’s position was not viable. He explained that C’s role was at risk of redundancy due to the financial and business needs of the business. C was told that if the final decision was that his role would be made redundant, he would have the right to apply for positions available. ML told him that he did not yet know what positions would be available. M told C that no firm decision had been taken.
+
+59. On 1 February 2024, HA wrote to C in the following terms so far as relevant: “At the meeting you were advised of the reasons for the potential redundancy situation and these are summarised as follows: The work available for you to complete has substantially diminished. This is as a result of 2 of the properties which fall under your remit being closed, with a further 1 property being leased to the Home Office, 1 currently managed by a hotel manager and a further property being under renovation. This leaves only 1 hotel currently under your jurisdiction, which does not justify the continuation of the area general manager position. Further, and with regret, you were advised that your job is therefore at risk and you may, subject to completion of full and proper consultation, be dismissed by reason of redundancy as a result. At the meeting I invited you to consider any counter proposals you have and submit them at our next meeting.... The meeting represents the beginning of a formal period of individual consultation. We will consider all ideas, suggestions and representations you wish to make to us during this period..
+
+60. C was invited to a further redundancy consultation meeting which took place on 15 February 2024. The meeting was again chaired by ML. C attended and HA was present as note taker. C explained some background. He pointed out that he was promoted to AGM when the Dalmally and Royal Hotels were closed. He said that closed hotels still need to be looked after and explained they were looked after by him and his team. He pointed out he had made requests to grow within the organisation and that these had been ignored. He
+
+8000921/2024 Page 19
+
+said at the same time, a new CGM (i.e. ML) had been recruited. He said his performance had been reviewed externally and that he was eligible and due for growth within the company. He said he had been flexible with the company and that during Covid he had worked full time and had ‘never made any kind of comment’. He said he hadn’t been paid rent during furlough and didn’t feel he should be the one to be put in the position of being made redundant.
+
+61. C raised concerns that he had been ‘pushed out’ of certain responsibilities and that some of his subordinates had been told to report direct to Kevin Marran (MD).
+
+62. C asked his was the only position being made redundant and ML told him it was, at that time. ML also said, “There would be other positions that would be made available, they would be operations manager, hotel managers and so on”. He said the reason the position was potentially going to be made redundant was because of the change in structure, there would be a small cost saving to the company. He explained the hotels would operate under a hotel manager with all hotel managers reporting directly to him as CGM. C reiterated that he had previously requested growth and mentioned that he was not aware that he CGM position had become available. C raised the fact he was unhappy about PB threatening him that if he didn’t perform, he (PB) would make C’s life hell. Towards the end of the meeting, HA asked C if there were any other questions he had and C referred to a previous question about how he had been selected form redundancy. HA said, “I think you asked what other position would be available” and C replied, “before we go to other positions I would like to see if we can clear the fact about my position and my growth, about the new recruit when we are struggling financially”. ML and HA understood that C did not wish to hear about alternative vacancies at that time. ML understood that C was reiterating his interest was in ‘growth’ meaning, in effect, promotion, and that C was querying R1’s decision to recruit a CGM.
+
+63. C was invited to a further consultation meeting, described in the invite as a ‘final’ consultation meeting. It took place on 1 March 2024. ML chaired the meeting, which was also attended by HA. The invite recorded the process was an opportunity for C to make any final suggestions for ways of avoiding his redundancy and to explore suitable alternative employment and other internal vacancies that may exist.
+
+64. ML advised that since the last meeting, they had been unable to find any alternatives to redundancy. He explained that at the time of C’s promotion to AGM it had been hoped that the Dalmally and Queens Hotels would open up but that that was no longer the case. He said they appreciated that C had worked during Covid but that there was a significant possibility that R1 would be selling some of the properties. He explained that the fact that other
+
+8000921/2024 Page 20
+
+employees had been hired in the last two years did not detract from the situation at that time. He explained that C’s position had now been selected for redundancy.
+
+65. HA provided figures regarding C’s financial entitlements. There was some discussion about these figures in the course of which C mentioned his view that his Covid holidays were still pending. There was no discussion about alternative vacancies. C did not ask about these. It was ML’s understanding from his previous discussion with C on 15 February that C was not interested in alternative vacancies at a lower level of seniority (and pay) than his AGM post. C was told his employment would terminate on 4 April 2024. ML told C that, separately to his role within R1, he personally operated his own talent company which specialised in the hotel industry. He explained he had many contacts in the industry and gave C his business card. He invited C to contact him if he wished ML to seek to identify potential job opportunities for him, using his industry contacts. C did not take ML up on this offer.
+
+66. On 1 March, ML sent a follow up letter confirming C’s redundancy and that his notice period would expire on 4 April 2024. The letter set out a right of appeal to Jorge Madrazo (JM) (Global HR).
+
+67. On 7 March 2024, C lodged an appeal against his dismissal. He set out his grounds which in summary were that: he was a dedicated employee; that other roles such as the recently recruited CGM had not been subjected to redundancy; that the redundancy had been decided on before his meetings; that he had been excluded from operations in hotels in his remit after raising concerns about actions towards ex pat team members; that the redundancy process had begun immediately after his return from annual leave when he had highlighted untaken leave pending from furlough time; that his request for promotion had been ignored; and that he had never had an uninterrupted day off or day of annual leave.
+
+68. On 15 March 2024, an appeal meeting took place between C and JM. JM went through the points in C’s letter. He explained that C’s performance was not in question and that C had done a good job. He said that the CGM role was not a role which was similar to C’s AGM role. He explained the main difference that the CGM had to oversee the operation of all hotels in the UK. He explained it better suited the objectives of R1 to have hotel managers instead of an AGM because otherwise there was a duplication of management levels. He said that they were complying with labour law requirements, and he believed they had followed principles of fairness in informing C of the situation and trying to get his feedback.
+
+69. JM went on to say that he understood C had gone through a big emotional stress and that they could not take back the redundancy decision because “if
+
+8000921/2024 Page 21
+
+we were stepping back from this decision, this actually might put us in a situation of causing you a workplace harassment because we have been telling you we’re going to get rid of you, we’re going to eliminate your position … and then we back up, we feel that we have just been harassing you. And this is not our intention … We are just doing purely a business reorganisation in the management structure … This is nothing against Mr Deven”
+
+70. C raised that there was a position open for cluster operations manager. C clarified he was referring to an advert which ML had placed on his LinkedIn. JM explained this had nothing to do with R1 and that ML was also working as a consultant for some companies in a private capacity (of which C was already aware).
+
+71. Separately, C complained again that he had not been made aware of the position of CGM when it was recruited (i.e. ML’s role). When JM initially asked if C had applied for that role, C said, “I applied offering the position”. When the question was repeated, C again said, “I applied for it. I applied for growth in the company…” JM then speculated that probably at the time the position was created, management had probably considered C’s application. He qualified this, saying, “I cannot tell because I wasn’t part of it of the decision making but I understand that they did consider your candidature…” C then said, “Yeah, but I did not apply for that position in particular.”
+
+72. JM went on to say, “…I’m not saying that you did specifically apply for that position. I’m saying you expressed to Mr Maran, I guess, your desire to grow within the company. As you well know, any position that is created within this company has to be approved by Mr Maran.”
+
+73. C complained he felt it was inconsiderate that he hadn’t had the opportunity to present himself as a candidate for the CGM post and to get proper feedback if he was unsuccessful. JM agreed that some things could have been done better but ultimately pointed out that regardless of C’s suitability or otherwise for the CGM role or the recruitment process for that position, they were there to talk about the AGM position and way the company was making that position redundant. C then raised Kevin Maran’s interventions and him being pushed out of operational duties at some hotels. JM said that two different things were being raised. He said one was C’s opposition to his redundancy, and another was C feeling left out in his functions as an AGM. JM explained that because they were removing C’s AGM position, it was not possible to take steps to address C’s concerns about feeling left out of part of his responsibilities.
+
+74. Later in the meeting, JM informed C that he could offer him Hotel General Manager positions in Cuba, Kenya or, in Scotland, of the Alexandra Hotel or Bendoran Hotel. JM acknowledged this would entail a change in contractual
+
+8000921/2024 Page 22
+
+status and salary. C’s response was that he was looking for growth and didn’t see himself going back to doing a job like General Manager.
+
+75. On 20 March 2024, JM emailed C confirming his refusal of C’s appeal against redundancy. Among other matters, JM confirmed an offer to C of the four Hotel General Manager positions. The gross salary offered for either of the Scottish positions was £33,000 per annum. JM asked C to respond by 22 March to confirm whether C wished to accept any of the positions. In his letter, JM repeated that C’s dismissal was not based on his performance and repeated at some length the reason for selecting C’s role for redundancy. He repeated the differences between C’ role and the CGM role.
+
+76. On 21 March, C emailed JM to decline the alternative positions offered.
+
+77. Around March 2024, ML was keen to reopen the Regent Hotel. To this end, he asked Ashish Gosain, an Area General Manager based in Portugal to come to Scotland on a temporary basis to help undertake the work required to get the Regent Hotel ready for opening. AG was not deployed on a permanent basis to Scotland and was not appointed to C’s old AGM post in Scotland or to either of the more junior Hotel General Manager posts which were vacant.
+
+78. In March ’24, ML contacted a consultant named Christine Fox who provided services through a limited company. ML knew Ms Fox was experienced in the process for securing AA accreditation which he was keen to obtain for the Regent Hotel. ML also required someone to assist with the management of the Alexandra and Bendoran Hotels pending the appointment of individuals to the vacant Hotel General Manager roles. He engaged Ms Fox to fulfil these duties on a temporary consultancy basis. C Fox was not deployed on a permanent basis to Scotland and was not appointed to C’s old AGM post in Scotland or to either of the more junior Hotel General Manager posts which were vacant at the time. Her services were provided on an interim basis.
+
+79. On 28 March 2024, C emailed ML. The subject heading was: “Cristine Fox’s involvement in Alexandra hotels operations.” So far as relevant, his email said: “I would really appreciate it if the above can be clarified to me as I have been asked to hand over to Cristine and she is already looking into the operations at the Alexandra hotel. During the handover yesterday she confirmed that she has been recruited to help with the reopening of Muthu Oban Hotel....
+
+8000921/2024 Page 23
+
+I can now confidently confirm that she's acting as the Cluster Operations Manager position advertised on Michael's profile as a replacement for my position…”
+
+80. ML replied the same day. He confirmed C Fox was acting as a consultant on a temporary basis and that as C had declined the General Manager position at the Alexandra, she was overseeing it pending the vacancy being filled. He also clarified that the Cluster Operations Manager role advertised on his profile was for a different business.
+
+81. C was not paid any monies by way of a bonus for calendar year 2023 or 2034 on the termination of his employment or at all.
+
+82. On the termination of his employment, C was paid in lieu of 7.3 days’ holiday (£1,403.84).
+
+83. On 16 April 2024, C initiated Early Conciliation (EC) with ACAS. An EC Certificate was issued on 28 May 2024, and C presented a claim to the Tribunal on 26 June 2024. C’s reason for not initiating EC or presenting a claim at any earlier time was that he held a fear that he might lose his job if he did so.
+
+Observations on the evidence
+
+84. Both C and ML struck us as credible and largely reliable witnesses though, as might be expected, given the passage of time since some of the events, both showed occasional lapses of recollection. C’s other witnesses gave evidence which often wandered away from the relevant events to their own views and dissatisfactions with R1. In this case, there is relatively little dispute about the primary facts. Instead – as is common with claims of this sort – the conflict between the parties lies in the inferences which are properly to be drawn from the primary facts regarding the influence and motivations with underpinned the decisions taken by R1.
+
+85. One conflict related to the email produced by R1 from AM dated 11 February 2021. C challenged the validity of this email and appeared to suggest it may have been falsified by R1. We did not accept that was the case. We accepted that the email was retrieved and produced in the manner described by HA from R1’s systems. The only evidence which C put forward in support of his challenge to the authenticity of the email was that he did not recall receiving it and that some of the names among the recipients were of individuals who were not employed at that time. HA provided a logical and convincing explanation that the generic email addresses in the recipient list (for example, cgm@muthuhotelsmgm.com) defaulted to display the name of the existing or most recent post holder associated with that address at the time the email was retrieved and printed. That accounted, for example, for why Michael
+
+8000921/2024 Page 24
+
+Lewis’s name appeared notwithstanding that he was not employed at the time in January ‘21. On cross checking with other emails in the bundle, we were able to see a similar phenomenon. On the balance of probabilities, we accepted that the email was authentic, and that C had simply forgotten having received, given the passage of some considerable time since receipt of the message.
+
+86. Further observations on the evidence are made in the ‘Discussion and Decision’ section, when discussing the evidence for certain assertions put forward in the case and the secondary inferences to be drawn from the primary facts.
+
+Relevant Law
+
+Direct race discrimination
+
+87. Section 13 of the EA is concerned with direct discrimination and provides as
+
+follows:
+
+“13 Direct discrimination
+
+(1) A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others.”
+
+88. Section 9 provides:
+
+“9 Race
+
+Race includes
+
+(a) colour
+(b) nationality;
+(c) ethnic or national origins.”
+
+89. According to section 23 EA, “on a comparison for the purposes of section 13, … there must be no material difference between the circumstances relating to each case”. The relevant “circumstances” are those factors which the respondent has taken into account in deciding to treat the claimant as it did, with the exception of the element of race (Shamoon v Chief Constable of the Royal Ulster Constabulary [2003] UKHL 11). A person can be an appropriate comparator even if the situations compared are not precisely the same (Hewage v Grampian Health Board [2012] UKSC 37). The claimant does not need to point to an actual comparator at all and may rely only on a hypothetical comparison.
+
+8000921/2024 Page 25
+
+90. Very little direct discrimination today is overt, and it can be necessary to look for indicators from a time before or after a particular decision which may demonstrate that an ostensibly fair-minded decision was, or equally was not, affected by racial bias (Anya v University of Oxford [2001] IRLT 377, CA). Sometimes evidence is led of so-called ‘evidential comparators’. These are actual comparators but whose material circumstances in some way differ from those of the claimant. Their evidential value is variable and is inevitably weakened by differences in material circumstances from the claimant’s (Shamoon).
+
+91. For a direct race discrimination complaint to succeed, it must be found that any less favourable treatment was because of the claimant’s race, though the discriminatory reason need not be the sole or even the principal reason for the respondent’s treatment. In JP Morgan Europe Ltd v Chweidan [2011] IRLR 673, CA, LJ Elias summarised the position as follows: “This means that a reason for the less favourable treatment – not necessarily the only reason but one which is significant in the sense of more than trivial -
+
+must be the claimant’s disability. …”
+
+92. Section 39(2) of EA provides among other matters that an employer must not discriminate against an employee as to the terms on which employment is offered or the way in which he affords access to training or other benefits, or by dismissing him or subjecting him to ‘any other detriment’. There is, therefore, a requirement for an element of detriment in any discrimination claim (which does not concern terms of employment, access to benefits or dismissal). ‘Detriment’ is not defined in the legislation, save that it is said to exclude conduct amounting to harassment (s.212). A claimant seeking to establish a 'detriment' needs to show that a reasonable employee would or might take the view that they had been disadvantaged in the circumstances in which they had to work (Shamoon v Chief Constable of the Royal Ulster Constabulary (Northern Ireland) [2003] UKHL 11. The dicta of Peter Gibson LJ in Jiad v Byford [2003] IRLR 232), CA is that ‘detriment’ is to be given a wide meaning and it means no more than to put under a disadvantage. Although a trivial disadvantage would not suffice, it is not necessary to find some physical or economic consequence.
+
+Burden of Proof (EA claims)
+
+93. Section 136 of EA deals with the burden of proof. It provides, so far as material, as follows:
+
+“136 Burden of proof
+
+(1) This section applies to any proceedings relating to a contravention of this Act.
+
+8000921/2024 Page 26
+
+(2) If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+
+(3) But subsection (2) does not apply if A shows that A did not contravene the provision.
+
+…
+
+(6) A reference to the court includes a reference to—
+
+(a) an employment tribunal; …”
+
+94. The effect of section 136 is that, if the claimant makes out a prima facie case of discrimination (or victimisation), it will be for the respondent to show a non- discriminatory explanation.
+
+95. There are two stages. Under Stage 1, the claimant must show facts from which the Tribunal could decide there was discrimination (victimisation). This means a ‘reasonable tribunal could properly conclude’ on the balance of probabilities that there was discrimination or harassment (Madarassy v Nomura International plc [2007] IRLR 246, CA). The Tribunal should take into account all facts and evidence available to it at Stage 1, not only those which the claimant has adduced or proved. If there are disputed facts, the burden of proof is on the claimant to prove those facts. The respondent’s explanation is to be left out of account in applying Stage 1. However, merely showing a protected characteristic plus less favourable treatment (or a protected act plus a detriment) is not generally sufficient to shift the burden and progress to Stage 2. Those bare facts only indicate a possibility of discrimination or victimisation. They are not, without more, sufficient material from which a tribunal could conclude that, on the balance of probabilities, the respondent had committed un unlawful act of prohibited conduct. ‘Something more’ is required (Madarassy).
+
+96. Although, at Stage 1, a tribunal must exclude the substance of the employer’s explanation, it is not excluded from drawing inferences from the fact that there are inconsistencies in an employer’s explanation (Veolia Environmental Services UK v Gumbs EAT/0487/12/BA). If the claimant shows facts from which the Tribunal could decide a discriminatory or other prohibited act has occurred, then, under Stage 2, the respondent must prove on the balance of probabilities that the treatment was ‘in no sense whatsoever’ because of the protected characteristic or protected act (Igen v Wong [2005] IRLR 258).
+
+97. There are cases where it is unnecessary to apply the burden of proof provisions. These provisions will require careful attention where there is room
+
+8000921/2024 Page 27
+
+for doubt as to the facts necessary to prove discrimination or other prohibited conduct but they have nothing to offer where the Tribunal is in a position to make positive findings one way or the other (Hewage).
+
+Time Limits (discrimination claim)
+
+98. Section 123 of the EA deals with time limits for bringing discrimination claims and provides:
+
+“s.123 Time limits
+
+(1) subject to section 140A and 140B proceedings on a complaint within section 120 may not be brought after the end of-
+
+(a) the period of three months starting with the date of the act to which the complaint relates, or
+(b) such other period as the employment tribunal thinks just and equitable…
+
+(3) for the purposes of this section -
+
+(a) conduct extending over a period is to be treated as done at the end of the period;
+(b) failure to do something is to be treated as occurring when the person in question decided on it.”
+
+99. S.140B of the EA provides for an extension to the three-month time limit in certain circumstances. In effect, s140B(3) of ERA ‘stops the clock’ during the period in which the parties are undertaking early conciliation and extends the time limit by the number of days between ‘Day A’ and ‘Day B’ as defined in the legislation. This ‘stop the clock’ provision only has effect if the early conciliation process is commenced before the expiry of the statutory time limit. Where a limitation period has already expired before the conciliation commences, there is no extension (Pearce v Bank of America Merrill Lynch UKEAT/0067/19).
+
+100. Where a complaint is submitted out of time, the burden of proof in showing that it is just and equitable to allow it to be received is on the claimant (Roberson v Bexley Community Centre [2003] IRLR 434). Parliament has chosen to give the Tribunal wide discretion in determining whether it is just and equitable to extend time, having regard to the language of the provisions (Adeji v University Hospitals Birmingham NHS Foundation [2021] EWCA Civ 23.)
+
+8000921/2024 Page 28
+
+101. In Miller and Ors v The Ministry of Justice [2016] UKEAT/003/15, the EAT cited five points relevant to the test for extending time in discrimination claims which were relevant to the appeal in that case, as follows:
+
+a. The discretion to extend time is a wide one: Robertson v Bexley Community Centre …
+b. Time limits are to be observed strictly in ETs. There is no presumption that time will be extended unless it cannot be justified; quite the reverse. The exercise of that discretion is the exception rather than the rule...
+c. If an ET directs itself correctly in law, the EAT can only interfere if the decision is, in the technical sense, “perverse”, that is, if no reasonable ET properly directing itself in law could have reached it, or the ET failed to take into account relevant factors, or took into account irrelevant factors, or made a decision which was not based on the evidence…
+d. What factors are relevant to the exercise of the discretion, and how they should be balanced, are for the ET …
+e. The ET may find the checklist of factors in s 33 of the Limitation Act 1980 (“the 1980 Act”) helpful (British Coal Corporation v Keeble [1997] IRLR 336 …) … This is not a requirement, however, and an ET will only err in law if it omits something significant.
+
+102. In the Keeble case, the EAT referred to the list of factors which appear in the Limitation Act 1980 s.33 which provides for the Courts’ discretion to exclude the time limit in England and Wales in actions in respect of personal injuries or death. The Court of Appeal (“CA”) has made clear that the Tribunal is not required to go through such a list. With that said, the CA has also observed that factors which are almost always relevant to consider when exercising any discretion whether to extend time are: (a) the length of, and the reasons for, the delay and (b) whether the delay has prejudiced the respondent (for example, by preventing or prohibiting it from investigating the claim while matters were fresh) (Abertawe Bro Morgannwg University Local Health Board v Morgan [2018] IRLR 1050).
+
+103. Time generally begins to run from the act of discrimination complained of. However, there is an exception to this where there is a ‘conduct extending over a period’ (s.123(3)(a). Here, the prohibited conduct shall be treated as done at the end of that period. The distinction between ‘conduct extending over a period’ and a ‘one-off’ decision to do something or not to do something is an important one. Where a series of acts or failures are alleged to amount discrimination, a finding that the later ‘timely’ acts were not prohibited conduct will mean that the earlier allegations cannot be considered to be part of
+
+8000921/2024 Page 29
+
+‘conduct extending over a period’ done at the end of the period (i.e. the date of the latest ‘timely’ allegation). In South Western Ambulance NHS Foundation Trust v King [2020] IRLR 168, EAT, the claimant alleged her grievance was a protected act and that the investigation of it, its dismissal and the rejection of her appeal were acts extending over a period. The first was found to be prohibited conduct but the later acts were not. As only the final act (dismissal of the appeal) occurred within the limitation period, the complaint of victimisation was out of time.
+
+Victimisation (section 27 of EA)
+
+104. Section 27 of EA is concerned with victimisation and provides, so far as material, as follows:
+
+“27 Victimisation
+
+(1) A person (A) victimises another person (B) if A subjects B to a
+
+detriment because –
+
+(a) B does a protected act, or
+(b) A believes that B has done, or may do, a protected act.
+
+(2) Each of the following is a protected act—
+
+…
+
+(c) doing any other thing for the purposes of or in connection with this Act;
+(d) making an allegation (whether or not express) that A or another person has contravened this Act.
+
+(3) Giving false evidence or information, or making a false allegation, is not a protected act if the evidence or information is given, or the allegation is made, in bad faith.
+
+…
+
+105. The detriment must be 'because' of the protected act. The protected act must be 'the reason' for the treatment. The meaning of detriment is discussed at paragraph [92] above and the burden of proof in victimisation claims is discussed at paragraphs [93-97].
+
+Automatic Unfair Dismissal under section 104 of ERA
+
+106. Employees may claim a dismissal is automatically unfair if the reason or principal reason for the dismissal is that the employee alleged that the employer had infringed a right of his which is a relevant statutory right.
+
+8000921/2024 Page 30
+
+107. The relevant provisions are as follows: 104 Assertion of statutory right.
+
+(1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
+
+(a) … or
+(b) alleged that the employer had infringed a right of his which is a relevant statutory right.
+
+(2) It is immaterial for the purposes of subsection (1)—
+
+(a) whether or not the employee has the right, or
+(b) whether or not the right has been infringed; but, for that subsection to apply, the claim to the right and that it has been infringed must be made in good faith.
+
+(3) It is sufficient for subsection (1) to apply that the employee, without specifying the right, made it reasonably clear to the employer what the right claimed to have been infringed was.
+
+(4) The following are relevant statutory rights for the purposes of this section—
+
+…
+
+(d) the rights conferred by the Working Time Regulations 1998…
+
+108. The allegation must be that the employer has infringed the right (at the time the employee makes the allegation) and not that it risks doing so or has threatened to do so in future (Spaceman v ISS Mediclean Ltd [2018] UKEAT/0142/18).
+
+109. Where the employee has more than two years’ service, the burden of proving the reason or principal reason for the dismissal sits with the employer (Smith
+
+v. the Chairman and other Councillors of Hayle Town Council [1978] IRLR 413). ‘Ordinary’ Unfair Dismissal
+
+110. Section 94 of ERA provides that an employee has the right not to be unfairly dismissed. It is for the employer to show the reason or the principal reason (if more than one) for the dismissal (s98(1)(a) ERA). That the employee was redundant is one of the permissible reasons for a fair dismissal (s98(2)(c)
+
+8000921/2024 Page 31
+
+ERA). Another is ‘some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held’ (SOSR) (s.98(1)(b)).
+
+111. Section 139(1) defines a redundancy situation:
+
+139 Redundancy
+
+(1) For the purposes of this Act an employee who is dismissed shall be taken to be dismissed by reason of redundancy if the dismissal is wholly or mainly attributable to—
+
+(a) the fact that his employer has ceased or intends to cease—
+(i) to carry on the business for the purposes of which the employee was employed by him, or
+(ii) to carry on that business in the place where the employee was so employed, or
+(b) the fact that the requirements of that business—
+(i) for employees to carry out work of a particular kind, or
+(ii) for employees to carry out work of a particular kind in the place where the employee was employed by the employer, have ceased or diminished or are expected to cease or diminish.
+
+112. For the purposes of sub paragraph (1)(b), the question of whether the requirements of a business for employees to carry out work of a particular kind have ceased or diminished in a reorganisation context will turn on the facts of the individual case. In Robinson v British Island Airways Ltd [1977] IRLR 477, the EAT said: 'In truth a reorganisation may or may not end in redundancy; it all depends on the nature and effect of the reorganisation.'
+
+113. In Sutton v Revlon Overseas Corpn Ltd [1973] IRLR 173, NIRC, a chief accountant was dismissed and his work re-allocated amongst three former colleagues. The firm had no diminution in the amount of accounting work generally, but they no longer took the view that it was necessary to have a chief accountant post. The NIRC accepted this was a redundancy situation. The need for an employee to undertake the particular work of a chief accountant had ceased. The court approved the submission that: 'the requirements of a business for employees to carry out work of a particular kind can diminish in two different ways. The work itself may cease or diminish […] Alternatively, a re-organisation or mechanisation may enable the same work to be performed with fewer employees'.
+
+8000921/2024 Page 32
+
+114. It is a question of fact for the tribunal to determine what the 'work of a particular kind' carried out by the employee is and whether the employer’s requirement for that work had, or was expected to, cease or diminish at the material time. In Hall v Farrington Data Processing Ltd (1969) 4 ITR 230, Div Ct), for example, the work of a'salesman with managerial functions' was found to be 'work of a particular kind' different from that of a pure salesman.
+
+115. A dismissal arising from a business reorganisation might not meet the statutory test for a redundancy situation but might yet be a dismissal for SOSR. The courts have held that there is a need for a sound, good business reason for the reorganisation (Hollister v National Farmers' Union [1979] IRLR 238, Bowater Containers Ltd v McCormack [1980] IRLR 50, Genower v Ealing Hammersmith and Hounslow Area Health Authority [1980 [IRLR] 297). The Tribunal should be satisfied that there is some discernible advantage to the business (Kerry Foods Ltd v Lynch [2005] IRLR 680, EAT).
+
+116. In general, it is not open to an employee to argue that their dismissal was unfair because their employer should not have reorganised its business in the way that it did or should not have decided to make employees redundant following that reorganisation (Moon v Homeworthy Furniture [1976] IRLR 298).
+
+117. If satisfied of the reason for the dismissal, it is for the Tribunal then to determine (applying a neutral burden of proof) whether in all the circumstances, having regard to the size and the administrative resources of the employer, and in accordance with equity and the substantial merits of the case, the employer acted reasonably or unreasonably in treating the reason as a sufficient reason to dismiss the employee (s98(4) ERA). In applying s98(4) ERA, the Tribunal must not substitute its own view of the matter for that of the employer but must apply an objective test of whether dismissal was in the circumstances within the range of reasonable responses open to a reasonable employer.
+
+118. In Polkey v AE Dayton Services Ltd 1988 ICR 142, the House of Lords held
+
+that:
+
+“in the case of redundancy, the employer will not normally have acted reasonably unless he warns and consults any employees affected or their representative, adopts a fair basis on which to select for redundancy and takes such steps as may be reasonable to avoid or minimize redundancy by redeployment within its own organisation.”
+
+119. It will be a question of fact and degree for the Tribunal to consider whether consultation with the individual and/or his union was so inadequate as to
+
+8000921/2024 Page 33
+
+render the dismissal unfair. A lack of consultation in any particular respect will not automatically lead to that result. The overall picture must be viewed by the Tribunal up to the date of termination to ascertain whether the employer has or has not acted reasonably in dismissing the employee on the grounds of redundancy (Mugford v Midland Bank [1997] IRLR 208).
+
+120. In order to effect a fair dismissal in a redundancy situation, an employer must look for alternative work and satisfy itself that it is not available before dismissing for redundancy. The duty on the employer is to take reasonable steps; not to take every conceivable step to find the employee alternative employment (Quinton Hazel Ltd v Earl [1976] IRLR 296).
+
+Breach of contract
+
+121. The Employment Tribunal has jurisdiction to consider claims for recovery of damages for breach of contract pursuant to the Employment Tribunal Extension of Jurisdiction (Scotland) Order 1994, SI 1994/1624. There are limits on the Tribunal’s jurisdiction. The claim must arise or be outstanding on termination of the employment and the damages available are capped at £25,000.
+
+122. The Order includes the following articles, so far as relevant:
+
+Extension of jurisdiction
+
+3. Proceedings may be brought before an employment tribunal in respect of a claim of an employee for the recovery of damages or any other sum (other than a claim for damages, or for a sum due, in respect of personal injuries) if—
+
+…
+
+(b) the claim is not one to which article 5 applies; and
+(c) the claim arises or is outstanding on the termination of the employee’s employment. …
+
+5. This article applies to a claim for breach of a contractual term of any
+
+of the following descriptions—
+
+(a) a term requiring the employer to provide living accommodation for the employee;
+(b) a term imposing an obligation on the employer or the employee in connection with the provision of living accommodation; 8000921/2024 Page 34 … Unauthorised deductions from wages
+
+123. Under the section 13 of ERA, a worker has the right not to suffer unauthorised deductions from his wages. 13 Right not to suffer unauthorised deductions.
+
+(1) An employer shall not make a deduction from wages of a worker employed by him unless—
+
+(a) the deduction is required or authorised to be made by virtue of a statutory provision or a relevant provision of the worker’s contract, or
+(b) the worker has previously signified in writing his agreement or consent to the making of the deduction. …
+
+124. ‘Wages’ are defined in section 27 which provides, so far as relevant: 27 Meaning of “wages” etc.
+
+(1) In this Part “wages”, in relation to a worker, means any sums payable to the worker in connection with his employment, including—
+
+(a) any fee, bonus, commission, holiday pay or other emolument referable to his employment, whether payable under his contract or otherwise, …
+
+125. Under section 23 of ERA, a worker may complain to an employment tribunal that an employer has made a deduction from his wages in contravention of section 13. Where a tribunal finds such a complaint well founded, it shall make a declaration to that effect and order the employer to pay the amount of the deduction (section 24 ERA).
+
+Time limits in unauthorised deductions from wages complaints
+
+126. The law relating to time limits in respect of unauthorised deductions from wages is set out in the Employment Rights Act 1996 (“ERA”), Section 23,
+
+which, so far as relevant, provides as follows:
+
+8000921/2024 Page 35
+
+(2) Subject to subsection (4), an employment tribunal shall not consider a complaint under this section unless it is presented before the end of the period of three months beginning with—
+
+(a) in the case of a complaint relating to a deduction by the employer, the date of payment of the wages from which the deduction was made, or
+(b) ….
+
+(3) Where a complaint is brought under this section in respect of—
+
+(a) a series of deductions or payments, or
+(b) …, the references in subsection (2) to the deduction or payment are to the last deduction or payment in the series or to the last of the payments so received. (3A) Section 207B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (2).
+
+(4) Where the employment tribunal is satisfied that it was not reasonably practicable for a complaint under this section to be presented before the end of the relevant period of three months, the tribunal may consider the complaint if it is presented within such further period as the tribunal considers reasonable. (4A) An employment tribunal is not (despite subsections (3) and (4)) to consider so much of a complaint brought under this section as relates to a deduction where the date of payment of the wages from which the deduction was made was before the period of two years ending with the date of presentation of the complaint.
+
+Holiday pay and unauthorised deductions
+
+127. It is possible to claim a payment in lieu of accrued untaken holiday as an unauthorised deduction from wages on the termination of the employment where there is an entitlement to such a payment. The entitlement may derive from a term of the employee’s contract of employment or may arise under the Working Time Regulations 1998 (WTR).
+
+128. Under the WTR, workers are entitled to 5.6 weeks’ annual leave. The right is
+
+made up of:
+
+a. a basic entitlement a minimum of four weeks’ annual leave each year, implementing the right to annual leave under the parent Working Time Directive (referred to in this judgment as the ‘Basic Leave’; and 8000921/2024 Page 36
+b. an additional entitlement to 1.6 weeks’ annual leave each year, which is a right under UK domestic legislation only (‘Additional Leave’).
+
+129. The difference in the provenance of the entitlements means that the two types of leave have been required to be treated differently in certain circumstances. Basic Leave and Additional Leave are governed by different Rules within the WTR (Rules 13 and 13A respectively). An important respect in which the rules differ in relation to each is in relation to the circumstances and extent to which untaken leave can carry forward into subsequent leave year(s).
+
+130. Under the WTR, employees are entitled to accrued untaken holiday outstanding at the date of termination, subject to the provisions of the rules (reproduced below). There are restrictions on contracting out of the rights regarding annual leave under the WTR. Any agreement is void in so far as it purports to exclude or limit the operation of the respective legislation unless specified stringent conditions are satisfied (Reg 35).
+
+131. Regulation 2 defines a ‘relevant agreement’ in relation to a worker, as ‘a workforce agreement which applies to him, any provision of a collective agreement which forms part of a contract between him and his employer, or any other agreement in writing which is legally enforceable as between the worker and his employer’.
+
+132. Relevant excerpts of Regulations 13, 13A and 14 of the WTR are reproduced.
+
+133. Reg 13 deals with Basic Leave:
+
+13 Entitlement to annual leave
+
+13 (A1) This regulation applies to—
+
+(a) a worker in respect of any leave years beginning before 1st April 2024, and
+(b) a worker to whom regulation 15B does not apply in respect of any leave years beginning on or after 1st April 2024. [Reg 15B doesn’t apply in the present case]
+
+(1) Subject to paragraph (5), a worker is entitled to four weeks' annual leave in each leave year....
+
+(3) A worker’s leave year, for the purposes of this regulation, begins—
+
+(a) on such date during the calendar year as may be provided for in a relevant agreement; or 8000921/2024 Page 37 …
+
+(9) Leave to which a worker is entitled under this regulation may be taken in instalments, but—
+
+(a) subject to the exceptions in paragraphs (14), (15) and (17), it may only be taken in the leave year in respect of which it is due, and
+(b) it may not be replaced by a payment in lieu except where the worker’s employment is terminated. …
+
+(16) Paragraph (17) applies where, in any leave year, an employer fails
+
+to—
+
+(a) recognise a worker’s right to annual leave under this regulation or to payment for that leave in accordance with regulation 16;
+(b) give the worker a reasonable opportunity to take the leave to which the worker is entitled under this regulation or encourage them to do so; or
+(c) inform the worker that any leave not taken by the end of the leave year, which cannot be carried forward, will be lost.
+
+(17) Where this paragraph applies and subject to paragraph (18), the worker is entitled to carry forward any leave to which the worker is entitled under this regulation which is untaken in that leave year or has been taken but not paid in accordance with regulation 16.
+
+(18) Annual leave that has been carried forward pursuant to paragraph (17) cannot be carried forward beyond the end of the first full leave year in which paragraph (17) does not apply.
+
+134. Regulation 13A deals with Additional Leave:
+
+13A Entitlement to additional annual leave
+
+13A.— (A1) This regulation applies to—
+
+(a) a worker in respect of any leave years beginning before 1st April 2024, and
+(b) a worker to whom regulation 15B does not apply in respect of any leave years beginning on or after 1st April 2024. 8000921/2024 Page 38
+
+(1) Subject to regulation 26A and paragraphs (3) and (5), a worker is entitled in each leave year to a period of additional leave determined in accordance with paragraph (2). [Reg 26A is not applicable in the present case]
+
+(2) The period of additional leave to which a worker is entitled under paragraph (1) is— …
+
+(e) in any leave year beginning on or after 1st April 2009, 1.6 weeks.
+
+(3) The aggregate entitlement provided for in paragraph (2) and regulation 13(1) is subject to a maximum of 28 days.
+
+(4) A worker’s leave year begins for the purposes of this regulation on the same date as the worker’s leave year begins for the purposes of regulation 13.
+
+(5) …
+
+(6) Leave to which a worker is entitled under this regulation may be taken in instalments, but it may not be replaced by a payment in lieu except where—
+
+(a) the worker’s employment is terminated; or …
+
+(7) A relevant agreement may provide for any leave to which a worker is entitled under this regulation to be carried forward into the leave year immediately following the leave year in respect of which it is due. (7A) Where, as a result of taking a period of statutory leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
+
+135. Regulation 14 deals with annual leave-related compensation: 14.— (1) Paragraphs (1) to (4) of this regulation apply where—
+
+(a) a worker’s employment is terminated during the course of his leave year, and
+(b) on the date on which the termination takes effect (“the termination date"), the proportion he has taken of the 8000921/2024 Page 39 leave to which he is entitled in the leave year under regulations 13(1) and 13A(1) differs from the proportion of the leave year which has expired.
+
+(2) Where the proportion of leave taken by the worker is less than the proportion of the leave year which has expired, his employer shall make him a payment in lieu of leave in accordance with paragraph (3).
+
+(3) The payment due under paragraph (2) shall be—
+
+(a) such sum as may be provided for for the purposes of this regulation in a relevant agreement, or
+(b) where there are no provisions of a relevant agreement which apply, a sum equal to the amount that would be due to the worker under regulation 16 in respect of a period of leave determined according to the formula—
+
+(A x B) -C
+
+where—
+
+A is the period of leave to which the worker is entitled under regulation 13 and regulation 13A; B is the proportion of the worker’s leave year which expired before the termination date, and C is the period of leave taken by the worker between the start of the leave year and the termination date.
+
+…
+
+(6) Where a worker’s employment is terminated and on the termination date the worker remains entitled to leave in respect of any previous leave year which carried forward under paragraph (14), (15) or (17) of regulation 13 or paragraph (7) or (7A) of regulation 13A, the employer shall make the worker a payment in lieu of leave equal to the sum due under regulation 16 for the period of untaken leave.
+
+136. Emergency regulations were introduced on 26 March 2020 which relaxed the restriction on carrying over annual leave during the COVID-19 pandemic. However, these rules were repealed on 1 January 2024 subject to a transitional period whereby workers had until 31 March 2024 to use up any accrued holiday carried over under those rules (ER Regulations 2023, Regs 4 and 6).
+
+8000921/2024 Page 40
+
+Submissions
+
+137. Both the claimant and Ms Halsall gave oral submissions. The entire content of both submissions has been carefully considered and taken into account in making the decision in this judgment. Failure to mention any part of these submissions in the judgment does not reflect a lack of consideration. The submissions are addressed in the ‘Discussion and Decision’ section below, in which we set out where the submissions were accepted, where they are not, and the reasons for this.
+
+Discussion and Decision
+
+Direct race discrimination
+
+138. We begin by considering those complaints of race discrimination which have been brought within the ‘normal’ three-month (plus EC tension) time limit in s.123(1)(a) of EA. These are (i) that R1 declined to pool C along with the role of Cluster General Manager; (ii) that R1 dismissed C; and (iii) and that R1 predetermined C’s appeal against his dismissal (‘the acts’).
+
+139. It is not disputed by the respondents that C’s role was not pooled with the CGM post or that he was dismissed. It is not disputed that C was unsuccessful in his appeal though the respondents dispute that this was predetermined.
+
+140. The reason given by ML in evidence for the dismissal was that C was selected for redundancy as part of a package of measures proposed in December 2023 to stabilise the financial future of the business in the face of revenue challenges and costs pressures. He said he did not pool C’s role with his own because the roles were different. We didn’t hear evidence from JM but the notes of the appeal meeting and appeal outcome letter set out the reasons he gave at the time for his decision.
+
+141. We are in a position to make positive findings in this case about R1’s reasons for coming to the pooling decision it did, for dismissing C, and for declining to uphold C’s appeal. We accept, on the balance of probabilities, that ML dismissed because he required to make rapid costs savings to secure the business’s long-term sustainability and because he concluded that C’s role (uniquely in Scotland) could be removed from the structure without risking a significant negative impact on R1’s operations. We accept too, on the balance of probabilities, that JM declined to uphold C’s appeal for essentially the same reasons, and because he identified no process defects or acceptable alternatives to the dismissal.
+
+142. We come to this conclusion, having considered all the evidence, and having accepted, on balance, ML’s account of the matter. We accepted, on the balance of probabilities, his evidence that it was he who devised the
+
+8000921/2024 Page 41
+
+redundancy proposal (in line with his job remit when he was recruited) and that he discussed these with PB and later informed R2 of the plan. We accept ML’s evidence that R2 did not instruct him in relation to the proposals or otherwise intervene, apart from acknowledging the plan ML devised. As, discussed later below, there was no credible evidence that R2 involved himself.
+
+143. C said there was no genuine redundancy and that the business case was unsupported with facts. We are not persuaded by this submission. We accepted ML’s compelling evidence that the reason was that it was genuinely considered by ML that C’s role could be removed from the operational structure and his duties could be devolved to less senior Hotel General Managers on lower pay without a negative impact on operations in the six affected hotels. We accept ML decided this against the backdrop of a wider- reaching drive to reduce and save costs in circumstances of a bleak financial forecast and where some hotels in C’s portfolio were either closed or being earmarked for permanent closure. No material facts put forward by ML were challenged to any relevant extent by C in relation to R1’s financial predicament, including its debtor issues and the status of the hotels in C’s remit. There was an error with respect to the statement of C’s salary in one document which didn’t materially undermine the overall tenor of ML’s review and proposals. We found ML’s evidence of his thought process and motivations forceful and credible. We gave weight also to the consistent contemporaneous evidence in the form of ML’s handwritten notes, his typewritten notes and the typewritten business case which he prepared at the material time. We accepted ML’s account, on balance, and his denial that C’s race played any part in his decision-making either in the identification of C’s role for redundancy, or in the decision not to pool it with his own or any other post.
+
+144. We further accept on the evidence before us that JM declined to uphold C’s appeal for the reasons JM set out in his appeal outcome letter of 20 March 2024 and conclude, on the balance of probabilities, that R2 did not instruct JM to come to determine C’s appeal against him. We find, on the balance of probabilities, that race played no part in the appeal decision and that this decision was made for the reasons JM gave C at the time.
+
+145. Given our positive conclusions on R’s reasons for dismissing C, it is not necessary to apply the burden of proof provisions in this case (Hewage).
+
+146. Nevertheless, we record that, based on all of the facts and circumstances of the case, we concluded that had it been necessary, C would not in any event have discharged the stage 1 hurdle to shift the burden to the Rs to prove a non-discriminatory reason for the decisions about which he complains. The
+
+8000921/2024 Page 42
+
+evidence before us would not allow us to properly infer that either ML’s decision or JM’s decision was influenced by C’s race or Mauritian nationality.

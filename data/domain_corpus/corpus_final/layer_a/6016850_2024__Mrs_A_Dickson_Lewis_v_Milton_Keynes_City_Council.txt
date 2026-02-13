@@ -1,0 +1,684 @@
+RESERVED JUDGMENT
+
+1. The Claimant was fairly dismissed by reason of gross misconduct.
+
+2. The Claimant’s claim for unfair dismissal therefore fails.
+
+REASONS
+
+Claims and issues
+
+1. The Claimant has brought a claim for Unfair Dismissal contrary to Sections 94, and 98 of the Employment Rights Act 1996.
+
+2. There was a list of issues agreed in advance:
+
+2.1 What was the reason or principal for dismissal? R contends that the reason was conduct, per s.98(2)(b) ERA 1996;
+2.2 Was the reason a potentially fair reason?
+2.3 If so, was the decision to dismiss fair or unfair in accordance with s.98(4) ERA 1996.
+2.4 If the dismissal was unfair: what compensation should be ordered. The Respondent will rely upon the contentions:
+
+i. that the Claimant would have been fairly dismissed in any event (Polkey);
+ii. that any compensation awarded should be reduced on account of contributory conduct; iii. that the Claimant has failed to mitigate her loss. Procedure, documents, and evidence heard Preliminary issues
+
+3. Mr. Crow suggested from the outset that the 2-day listing may be insufficient and proposed a timetable that would allow for completion of evidence and submissions, with a reserved judgment. Unfortunately, the available time was further reduced because the Claimant and her lay representative attended the Watford Tribunal (the administrative contact address at the top of the notice of hearing), rather than the hearing venue that was specified within the notice itself, so there was a significant delay before the hearing could start.
+
+4. In correspondence between the parties, the Claimant had been seeking various items of additional specific disclosure. Some of these matters were resolved with the Respondent’s provision of a small bundle of further disclosure. There were a number of outstanding items, and it was unclear of the Claimant was pursuing these by way of an application to the Tribunal.
+
+5. When they arrived, Ms Jayden confirmed that the Claimant did not seek the Tribunal to determine the dispute regarding the remaining disclosure points.
+
+The hearing
+
+6. There was an agreed bundle of 1136 pages, plus the further disclosure bundle of 17 pages. In this judgment, numbers contained within [ ] are to pages within those bundles, with anything from the further disclosure bearing the prefix “FD”.
+
+7. I received witness statements from the Claimant and Sarah Green-Hurst on her behalf, and from Sarah Nickson and Mac Heath for the Respondent.
+
+8. There were two witness statements from the Claimant – the first dated 2 July 2025, and the second 8 July 2025. This had been discussed between the parties, and the Respondent did not object to the Claimant relying solely on the second statement.
+
+9. All witnesses also gave sworn oral evidence. As Mrs Green-Hurst could not attend on Day 2, with the parties’ agreement the usual order of evidence was adapted slightly so that her cross-examination took place first.
+
+Findings of fact
+
+10. The Tribunal has not determined all the factual disputes between the parties. The findings are restricted to those which were necessary to determine the claim.
+
+Relevant background
+
+11. The Claimant commenced employment with the Respondent as a Senior Practitioner in April 2017. In August 2017, she became a Child Protection Coordinator, and in May 2018 she was promoted to Independent Child Protection Chair.
+
+12. The Independent Chair role profile sets out the purpose as: “The Safeguarding Team sits within Children Social Care and incorporates specialist statutory child protection and child care reviewing services. Child Protection Coordinators have management responsibility for specific processes relating to Child Protection Conference processes. Independent Reviewing Officers manage the statutory Child Care Reviewing process in relation to each Looked After Child. Role holders in the Safeguarding Team have a lead responsibility for specific assigned areas of practice, such as the development and implementation of Quality Assurance processes across Children & Families; in promoting and
+
+scrutinising practice and
+
+outcomes for children; and in fulfilling the Council’s statutory requirements under the Children Act 1989 and other relevant legislation” [364].
+
+13. Its key objectives are specified as [364-365]: “1 The Local Authority is compliant with the responsibilities and functions laid out in relevant legislation and national and local policy and guidance relating to child protection including management of allegations. The IC acts on behalf of the council to manage child protection and looked after children processes, to ensure that all children in Milton Keynes are safeguarded. 2 The IC establishes and implements child protection and looked after children policy and practice in compliance with legislation, guidance and internal policies and procedures and leads on specialist aspects of the safeguarding process on behalf of the LA and MK Together, supported by robust evidence-based decision making and planning. 3 The IC operates a professional consultation service, providing advice and information to staff within MKC, partner agencies and external organisations regarding child protection and looked after children processes and other specialist aspects of the child protection process. 4 The child’s voice is heard; the children and family are appropriately participant in the child protection and looked after children process resulting in the children being able to achieve good outcomes. 5 The IC models and promotes partnership with key agencies, ensuring collaboration, information sharing and integrated planning for the benefit of the children.”
+
+14. The document goes on to detail:
+
+14.1 “Specific responsibilities: The Child Protection Coordinator role The role holder is responsible for LA function and performance in relation to the Child Protection Conference process, ensuring that all children in need of protection are safeguarded and their well-being is promoted effectively, in line with national legislation and policy. This includes:
+
+• Managing and chairing Initial and Review Child Protection Conferences, ensuring that children are made subject to Child Protection Plans, or that these plans are discontinued, as ppropriate and that decision-making is based upon evidence and analysis;
+• Operating a consultation service providing advice, guidance and information to staff regarding specialist aspects of the child protection process including risk management.
+• Ensuring that the child’s voice is at the centre of care planning and that children and families are fully participant in the child protection process.
+• Monitoring casework and decision making to ensure high quality child protection plans are implemented and that the child’s interests are protected throughout the family support and care planning process.
+• Offering support and challenge to operational social work staff and managers as appropriate;
+• Scrutinising and ensuring the quality of risk management and that social work practice is delivered in accordance with statutory requirements, reporting to the Senior Management Team as appropriate.
+• Supporting the LA function and performance in relation to the management of allegations against staff and volunteers.
+• Providing specialist training, advice, information and guidance to internal and external colleagues including a range of voluntary organisations” [368].
+
+14.2 “Specific responsibilities: The IRO role The IRO leads on the monitoring of the Council’s Corporate Parenting function and performance. The role holder is statutorily responsible for monitoring the function and performance of the Local Authority in relation to planning for children in care, ensuring they are safeguarded and their well-being is promoted effectively in line with national legislation and local policy. The IRO ensures that high quality care plans are implemented and that the child’s interests are protected throughout the care planning process. The post holder is responsible for the statutory duty of the IRO in relation to each Looked After Child for whom they are the nominated IRO, undertaking regular statutory reviewing of care planning for looked after children. This includes:
+
+• Organising and chairing Child Care Reviews and ensuring that there are robust care plans in place for children in care.
+• Exercising effective independent oversight of the child’s case and ensuring that the child’s voice is at the centre of care planning and the children & family are fully participant in the care planning process.
+• Offering support and challenge to operational social work staff as appropriate
+• Consulting with the child in relation to the care plan at each review and at any time that there is a significant change
+• Ensuring that the LA is consulting with the IRO in all areas of care planning
+• Where the LA is failing to comply with the regulations or is in breach of its duties to the child, then to take the necessary action within the Dispute Protocol and to make a referral to CAFCASS where necessary” [368369].
+
+15. On 19 December 2023 the case of Child ‘G’, CS (father) and MS (mother) was allocated to the Claimant. On 10 January 2024, she chaired the Initial Child Protection Conference [384-591]. At the conference, the following matters (amongst others) were discussed:
+
+15.1 MS alleged physical abuse by CS [480; 503];
+15.2 “The children don't want him to. Message” [401]
+15.3 MS had “spoken to the solicitor yesterday and once I have my non molestation and my occupancy order, I will be filing for my child arrangement, my divorce and my prohibited steps” [431];
+15.4 That the court hearing was due to take place on 11 January 2024 [478, 551];
+15.5 MS and her children wanted no contact with CS (Dad) [432, 4667, 470, 473, 568, 609] and were anxious about the possibility of CS or his family attending at the property [611-3, 594];
+15.6 That MS had appreciated being warned when she had previously been warned about the possibility of unwanted contact [492-3]. The complaint
+
+16. On 15 January 2024, MS made a complaint regarding the Claimant. She spoke to Jenny Thomas (JT) and said, amongst other things [382-383]:
+
+16.1 “She suggested a 3-way conversation between Dad, and her to sort out the play station – didn’t want to and she kept encouraging”;
+16.2 “There was contact with on WhatsApp – I don’t feel that’s professionals – queried if they had a personal relationship.”;
+16.3 “She sent me a picture of a whatsapp message from – this is indirect contact. About the rent increase.”
+16.4 “the non-mole [sic] was granted last Thursday and Sue at MKAct had told ADL to not tell”;
+16.5 “...messaged ADL at 1am to say he was going to get his bike and called ESW and they told hum [sic] to not go to the house. She wanted to come and collect the bike and I told her to leave it and ill arrange it with the police.”;
+16.6 “She told him about the non-molestation Order. She informed nobody that he was planning to visit. She said she didn’t call me because of the biased comment I 1 made. She then went and visited the next day after this had happened. The damage is done, going forward I want professional boundaries in placement, it out my kids in a dangerous position and that needs to be understood. There was a missed opportunity to help me because I called her biased. She apologised for not telling me.”
+
+17. On 16 January 2024, JT had an initial call with the Claimant “to understand if there was any complaint to answer to” [383]. The Claimant responded as follows [383]: “ • PlayStation – has said not comfortable, so he didn’t want to. (When talking about the 3-way phone call).
+
+• Bike – I talked about getting his stuff out as I was worried about him coming to the house.
+• I was talking with the police, dad and Mum. • Police said you’ll have to wait until police bail ends.
+• I offered a lot of solutions, but mum was stonewalling.
+• Text- dad text me and said he had been to the police, and he had a right to go and get his bike, asked if I could go. I said I can’t as doesn’t want me there.
+• I told him you know a non-molestation order is pending.
+• I advised don’t go – he said I’m going to jump the fence and his family is going to go anyway. • He got the mail redirected so I sent the text message forward (about the text message of the rent letter).
+• He had already phoned ESWT and he planned to go to the house.
+• Mum called me on my personal phone number.”
+
+18. The Respondent’s ‘Disciplinary toolkit’ [50-66] provides a process for “Establishing the Circumstances of Alleged Misconduct” [53] from paragraph 10.2.
+
+18.1 Paragraph 10.3 sets out that “there is no requirement on the Line Manager to give the employee notice” and that “it would not be usual for the employee to be accompanied at the meeting.”
+18.2 Paragraph 10.5 cross-refers to “Section 3.0 (What is a Disciplinary Matter?) for examples of Misconduct and Gross Misconduct” [54].
+18.2.1 Paragraph 3.8 of the Toolkit states “The Council will generally consider Gross Misconduct to be misconduct of such a nature that the council is justified in no longer tolerating the continued presence at the place of work of the employee concerned.”
+18.2.2 Paragraph 3.9 gives “examples of offences which may amount to gross misconduct...”. In the Tribunal hearing, the Claimant was taken to:
+18.2.2.1 “Neglect of duty – when an employee Without sufficient cause, fails to carry out the work for which he/she is employed ... By carelessness or neglect, suffers or causes loss, damage or injury to occur to any person or property Fails to report any matter which it is his/her duty to report ... Fails to follow or adopt professional standards appropriate to trade or profession”
+18.2.2.2 “Breach of the Council’s Code of Conduct”
+18.2.2.3 “Breach of Guidelines on Social Networking Sites and Personal Internet Usage”
+18.2.2.4 “Improper disclosure of information or making false, inaccurate or misleading statements.”
+
+18.3 Paragraphs 10.6 - 10.10 of the Toolkit set out the format of the meeting and next steps.
+
+19. On 18 January 2024, JT held an ‘establishing circumstances’ meeting with the Claimant where the following matters, amongst others, were covered [593 - 601]:
+
+19.1 “...your contact with the family following the Initial Child Protection Conference (ICPC)”;
+19.2 “...using the PlayStation to contact the kids.”;
+19.3 “How did dad find out there was a non-mol waiting to be served.”
+19.4 “What contact did you have with the allocated case team in terms of the support you offered?”
+19.5 “Do you think he posed any risk to Mum and the children?”
+19.6 “When did you give them your personal number?”
+19.7 “Looking back, is there anything you’d do differently?”
+
+20. The Claimant responded to the questions, and she was able to read/refer to a variety of case notes during the meeting.
+
+21. Following the establishing circumstances meeting, the following occurred [601]: “Advice sought from HR, LADO and Assistant Director Sophie Marshall Recommendation for an independent investigation Recommendation that Ms Dickson Lewis is suspended pending the
+
+outcome to the investigation
+
+Pending the outcome of the investigation the decision will be made if LADO and SWE need to be notified.”
+
+Formal disciplinary process
+
+22. On 24 January 2024, the Claimant was suspended. The suspension letter states [377]: “I can advise that it is alleged that:
+
+• You have disclosed confidential information that you were not authorised to release
+• You have failed to safeguard vulnerable clients
+• You have beached the Council’s IT policies by contacting service users using your personal mobile
+• You have breached the Council’s Code of Conduct by failing to maintain professional standards appropriate to your role.”; “If substantiated, these allegations could constitute gross misconduct and an appropriate sanction may be dismissal. Milton Keynes Council considers this to be potentially a very serious matter that requires further thorough investigation. To ensure that this is thorough, fair and timely and, taking into account the potential gravity of the matter, the Council has decided that you should be suspended from all official duties on full pay with effect from 24 January 2024 until further notice. If it becomes apparent that the allegation is not as originally thought “potentially gross misconduct” then the suspension itself may be lifted, though the investigation would if appropriate still continue.”; “You should also be aware that I did consider the following alternatives to suspension:
+• Temporary redeployment to alternative duties within Children’s Social Care However, due to the particular circumstances of this situation I felt it was in the best interests of both you and the Council that you are not at work during this investigation.”
+
+23. In a later grievance, the Claimant asserts that she should not have been
+
+suspended. The outcome of the grievance determined that:
+
+23.1 “In your case, the seriousness of the concerns raised were felt to warrant suspension whilst an investigation was undertaken”;
+23.2 “...alternatives to suspension were considered in line with MKCC policy. The Assistant Director of Children’s Social Care first considered alternative front line social work roles. However, these were ruled out because the seriousness of the concerns raised about you called into question your ability to protect children and vulnerable adults. A quality assurance role was then considered. This was ruled out on the basis that colleagues in these roles advise social workers on best practice. This would not have been appropriate for someone facing an allegation of gross misconduct and under investigation concerning their social work practice”;
+23.3 “Whilst the detail of what was considered was not outlined in the suspension letter sent to you on 24 January 2024, the letter did state that temporary redeployment to alternative duties within Children’s Social Care were considered as an alternative to suspension but that this was felt not to be in the best interests of you or the council. My findings have confirmed this to be true” [1055].
+
+24. The suspension was later reviewed on: 21 February 2024 [276, 278]; 20 March [319-321]; 10 April [324]; 18 April [328]; and 24 May [741].
+
+25. The original suspension letter also informed that Wendy Evans (WE) was appointed as investigator. She was then instructed on 31 January 2024 [252].
+
+26. On 7 February 2924, the Claimant objected to WE being the investigator because she “knows myself in my current role, sits within the management hub and manages two Social Work managers who have supervised social workers who have been allocated to the family in question. I have also spoken with ACAS who confirmed that the appointment of an independent Investigating Officer is in line with ACAS guidelines for employers dealing with disciplinary investigations” [260].
+
+27. On 8 February 2024, WE interviewed MS [668-676].
+
+28. On 9 February 2024, the Claimant was advised that “The investigation will be undertaken by Sharon Godfrey – Head of Corporate Parenting” [268]. On 12 February, she challenged this, stating: that SG “also sits within the management hub, has known me for over 7 years and in fact supervises the colleague who was present and supported me when I was formally suspended. As previously stated I have spoken with my Trade Union representative and with ACAS, who
+
+confirmed that the appointment of an independent
+
+Investigating Officer is in line with ACAS guidelines for employers dealing with disciplinary investigations. To ensure this is a fair and reasonable process I would ask for my case to be reassigned to someone independent and impartial” [271].
+
+29. Her Union representative wrote separately: “I just need to add that from a Union perspective this second appointment is also of great concern. There needs to be explicit reassurance that there is no risk of bias (including unconscious bias) on the part of the Investigating Officer. Any IO who has prior knowledge of the persons involved will carry such risk. As such and in line with ACAS Guidelines I would suggest either assigning this role to an officer from a completely separate department/service area or commissioning an external independent officer. We are talking here about an employee’s career so the importance of getting this right can not be minimised” [269].
+
+30. Sarah Burton (SB) was then appointed as investigator. The Claimant states she reluctantly agreed to this, but had reservations about independence because SB was the Working Adults team manager and MS was a service user.
+
+31. Between 18 and 21 March 2024, SB interviewed: Sarah Gater [679-681]; Natsha Bello - Children’s allocated Social Worker [682-689]; Melanie Perkins [690-693]; and Sue West [694-702].
+
+32. On 27 March 2024, SB held an investigation interview with the Claimant, with her Union representative. During which the Claimant was asked about the following areas (details of her responses are recorded in relation to the specific
+
+allegations below) [703-717]:
+
+32.1 “What was the reason for communicating with Mr and Mrs S [redacted] using your personal mobile?”;
+32.2 “...multiple phone calls with both parents about the retrieval of...items, was this within your role as a CP chair?”, and the events of CS’s later attendance at the property;
+32.3 The child’s computer log-in details;
+32.4 “...your conversation with Mr S regarding the non-molestation order”;
+
+33. On 11 April 2024, SB interviewed Jenny Thomas [718-723].
+
+34. On 11 April 2024, SB sent the Claimant the draft minutes [705], and on 16 April the Claimant sent her comments and edits [703 – 704; 706 - 717].
+
+35. The investigation report was completed on 22 May 2024 [347-363], with the
+
+following findings:
+
+35.1 “Allegation 1: It is alleged that you disclosed confidential information that you were not authorised to release... ADL’s actions could have potentially enabled CS to evade being served the order if he so chose to do so, therefore undermining MS’s efforts to protect herself and the children. I am of the view that this evidence is also linked to allegation 2 below” [353].
+35.2 “Allegation 2: It is alleged that you have failed to safeguard vulnerable clients. There are two aspects to this allegation; (i) MS alleged that during a telephone conversation with ADL on 10.01.2024, ADL suggested facilitating a 3-way conversation between CS and the 16-year-old child G to sort out issues with G’s PlayStation... despite the conference having taken place on the same day, ADL was proposing facilitating a 3-way conversation between child G and his father, this shows that ADL had somewhat disregarded G’s views, wishes and feelings that were shared during the ICPC. This is in breach of Social Work England’s professional standard 1.2 “Respect and promote the human rights, views, wishes and feelings of the people I work with, balancing rights and risks and enabling access to advice, advocacy, support and services”...
+
+(ii) concerns relating to events that took place on Sunday 14.01.2024... ADL’s failure to take appropriate action to report CS’s intention to visit the family home on 14.01.2024 was in breach of paragraph 7 of the council’s code of conduct (failure to fulfil her safeguarding responsibilities), also breached the council’s safeguarding policy (appendix 25) and contravened Social Work England’s Professional standards (1.2, 3.2, 3.4, 3.5, 3.7, 3.9, 3.12, 3.15, 5.5, 6.1) [354-355]”.
+
+35.3 “Allegation 3: It is alleged that you have breached the Council’s IT policies by contacting service users using your personal mobile... By using her personal mobile number on her work email signature, anyone receiving emails from ADL would have had no knowledge of the fact that the number provided on ADL’s signature was her personal one. Therefore, it is likely that ADL’s personal number would have been shared widely by her colleagues who would have assumed this to be her work mobile. This leads me to conclude that despite ADL stating in her interview that she would normally withhold her personal number when making work related calls from her personal phone, some of the people she was working with may have obtained her number as it was recorded on her email signature... By receiving a letter from CS which contained the couple’s names and addresses and then passing this onto MS using her personal mobile, ADL breached these policies. Furthermore, this was in breach of CS’s bail conditions which were still in force on 12.01.2024... Additionally, this is in breach of Social Work England’s Professional standard 5.6 which states that, “As a social worker, I will not: Use technology, social media or other forms of electronic communication unlawfully, unethically, or in a way that brings the profession into disrepute.” [338-341]”
+35.4 Allegation 4: It is alleged that you have breached the Council’s Code of Conduct by failing to maintain professional standards appropriate to your role. The issues that relate to this aspect of the complaint from MS are as follows;
+
+• ADL became involved post the ICPC with tasks that did not relate to the conference itself and therefore were not part of her role.
+• ADL had communication with both parents about matters (retrieving of property, letter relating to rent increase, issues with the PlayStation) that should have been redirected to the case holding team to decide and advise upon. Therefore, ADL was completing tasks outside the remit of her role as an Independent Child Protection Chair, blurring professional boundaries and potentially making it difficult for the Social Work team who were also trying to work with the family around the same issues. Although ADL stated during the establishing circumstances meeting (appendix 7) that ADL had several discussions with the children’s allocated social worker regarding ADL supporting with the case, however, NB did not confirm this during her interview on 18.03.2024 (appendix 20) nor did Melanie Perkins (NB’s Team manager) in her interview held on 21.03.2024 (appendix 21). This is evidenced by case note entries on LCS between 10.01.2024 and 12.01.2024 by ADL and Natasha Bello (NB), allocated Social Worker. There are case note entries by NB dated 10.01.2024 showing that she was in contact with the children’s mother discussing issues regarding the PlayStation, therefore there was no need for ADL to be involved in this matter. Furthermore, in her interview held on 18.03.2024, NB stated that the family had no reason to be contacting ADL (appendix 20)
+• ADL’s working hours are Monday to Thursday – 09am – 5:30pm and Friday 09am -5pm. On Sunday 14.01.2024 ADL was in contact with CS, which is outside of her working hours, without prior agreement being sought from her line manager, as per the Council’s Personal Time Policy. ADL’s line manager, JT confirmed in her interview that there could be some variation in working hours to meet service needs, JT gave an example of when an agreement was made with ADL in the past to visit a child in a placement on a Saturday to fit with the children’s school commitments.
+• ADL used of her personal mobile to conduct council business. ADL failed to contact the mother on 14.01.2024 to alert her to the father’s intention to visit the family home, despite ADL having concerns about the potential impact of this on the mother and the children” [341342]. 35.5.
+
+36. It concluded that “There is strong evidence that supports all four allegations”
+
+[361] and recommending that “There is sufficient evidence to warrant consideration by a disciplinary hearing, therefore I am recommending progressing this matter to a disciplinary hearing” [363].
+
+37. On 28 May 2024, the Claimant was notified that: the “investigation is now complete”; “The outcome of the investigation is that there is a case for you to answer”; and “The recommendation is, therefore, that the matter will be presented to a disciplinary hearing” [751]. The letter went on to state: “The specific allegation(s) which will be considered at the hearing are: Allegations: It is alleged that;
+
+• You have disclosed confidential information that you were not authorised to release
+• You have failed to safeguard vulnerable clients
+• You have beached [sic] the Council’s IT policies by contacting service users using your personal mobile
+• You have breached the Council’s Code of Conduct by failing to maintain professional standards appropriate to your role.”
+
+38. On 29 May 2024, the Claimant was invited to a disciplinary hearing on 13 June 2024, and provided with a copy of the investigation report. The invitation also informed that “Sophie Marshall will hear the matter and Maggie Trendell from Human Resources will be present to advise her. Sarah Burton will present the management case and a note taker will also attend to take management notes.”
+
+39. The letter also stated [758]: “The specific allegations which will be considered at the hearing are: It is alleged that;
+
+• You have disclosed confidential information that you were not authorised to release
+• You have failed to safeguard vulnerable clients
+• You have beached [sic[ the Council’s IT policies by contacting service users using your personal mobile
+• You have breached the Council’s Code of Conduct by failing to maintain professional standards appropriate to your role.”
+
+40. On the same day, the Claimant requested an alternative hearing date because her union representative does not work on Thursdays [766]. The Respondent agreed to this the next day and notified that the hearing would go ahead on 17 June 2024 instead [767].
+
+41. On 31 May 2024, the Claimant requested a further delay to the hearing, until she had received her supervision records via a subject access request (SAR). On 5 June 2024, she then objected to the allocated chairperson because: “I have had contact with members of Sophie's family in my professional capacity as independent chair. My Union representative has raised that this could potentially be a conflict of interest and not demonstrate the independence of the chair” [778].
+
+42. On 11 June 2024, the Respondent agreed a new hearing date – 8 July 2024 – and chair – Sarah Nickson (SN) [802].
+
+43. On 28 June 2024, the Claimant sent the following to SN [816-894]:
+
+43.1 Response to the investigation report;
+43.2 Additional comments in respect of documents in the appendices.;
+43.3 SAR appendix documents
+
+44. The hearing went ahead on 8 July 2024. The Claimant attended with her representative. Her responses to the specific allegations are detailed below. Her representative additionally put forward general submissions, including that:
+
+44.1 “As you will be aware from Amanda’s statement that even though she has offered context and mitigation she does not deny any of the allegations set out before the panel and has been open and honest about this. She admits mistakes that without intention she failed to follow due process by trying to help. She has accepted this and expressed remorse (which will be covered in the closing submission). She was trying to help as historically she explains that she has been involved with areas outside of her role to help to resolve and progress things forward. She was also attempting to balance a high workload (which as established was spilling over into her personal life), plagued with mobile connection issues, alongside supporting her own children and dealing with the trauma of a terminally ill family member. She though is taking responsibility and accepts that on this occasion her decisions and actions resulted in risks rather than resolve.” [907]
+44.2 “Amanda has reflected deeply on her actions (and inactions) and the impact for MS and her children which has led her employers to question their trust and confidence in her professional practice. Having had this time to reflect she acknowledges that however well intended her actions were that she could and should have done things differently and that unfortunately on this occasion she accepts that her judgement was flawed. She has also ensured to use the time while suspended positively and constructively by focussing on her professional development which has crucially included Domestic Violence training.” [916]
+44.3 “...she is very proud of her exemplary social work career, she has competently carried out her job as a Child Protection Chair since 2017. She has a clean record for 32 years of service to the social work profession and as such it is clear that the seriousness of these allegations is completely out of character and a stark contrast to this previous exemplary nature of her career.” [916- 917]
+44.4 “I put to you to consider the lesser sanction in the first instance and consider the mitigating factors. Amanda confirms that she has learnt from this situation, has shown genuine remorse and is steadfast that she will adapt her future practice to maintain her professional boundaries. She has been devastated by facing these allegations and fully appreciates the seriousness of the disciplinary concerns as she is and always has been passionate and totally committed to the social work profession in particular the safeguarding of children.” [917]
+
+45. The disciplinary hearing concluded with SN stating that [917-918]: “I have given consideration to your 32 years of service and exemplary record. In terms of concluding the case, I am concerned about the seriousness of the allegations in terms of allegation 1, it feels clear you did disclose confidential information not authorised to release in relation to the Non-Mol and I would expect someone in terms of the role you’re employed would have an understanding of the risk of disclosing that information and the risk to the family. Allegation 2, I am concerned you failed to safeguard vulnerable clients and there is sufficient evidence provided that you didn’t safeguard the family. You didn’t contact the Police and alert Mum that he planned on attending the property. From the information, I understand it was a distressing situation for the mother and children. I have concerns about you trying to facilitate a three way conversation with the father and one of the children. I understand you feel you may have done it in terms of good intentions but feel there is sufficient evidence and concerns that the child made clear he didn’t want contact with his father and that placed that particular child at risk and in a difficult situation. Allegation 3 it feels there’s enough evidence that you breached the council’s IT policy and that you were contacting service users using your personal mobile, it is clear that your person mobile was used for a significant period of time, it was part of your email signature and it is your responsibility to ensure you’re aware of the information you are sharing. Allegation 4, you did breach the council’s code of conduct by failing to maintain professional standard appropriate to your role. Some points covered in allegation 4 were covered in allegations 1 and 2.”
+
+46. She further determined that “...given the severity of the allegations made and evidence provided, I am dismissing you on the ground of gross misconduct, it
+
+is a summary dismissal.” [918]
+
+47. The outcome was confirmed in a letter dated 11 July [1001-1004].
+
+48. On 17 July 2024, the Claimant appealed the disciplinary decision [1006-1031],
+
+on the following grounds:
+
+48.1 “That the disciplinary procedure has been applied defectively or unfairly”;
+48.2 “That new evidence has come to light that was not available at the disciplinary hearing and that is likely to make a difference to the original decision”;
+48.3 “The level of sanction imposed was inappropriate”
+
+49. On 25 July 2024, the Claimant was invited to an appeal hearing on 23 August 2024 [1039], and informed that Mac Heath (MH) would be the chair. The next day, the Claimant requested a date change as her representative would be on holiday. On 9 August 2024 the Claimant was notified of a rescheduled appeal for 9 September [1062].
+
+50. On 1 September, the Claimant sent written appeal submissions [1086-1098],
+
+which included:
+
+50.1 “a key element of the disciplinary chair's rationale (i.e. that I should have known the non-molestation order was to be ex-parte) is fundamentally flawed and, as a result, so is their decision on this point”;
+50.2 “the disciplinary chair's belief that I attempted to arrange a three way discussion despite the child not wanting this is incorrect and, as such, their decision on this point is flawed”;
+50.3 “A key part of the rationale for my dismissal appears to be that I did not take appropriate action when made aware that CS intended to attend the property and that this had the potential to cause harm. I do not believe the relevant member of ESWT has been interviewed, dismissed or even subjected to a formal disciplinary process. If that belief is correct, I have been treated in a grossly disproportionate manner to a colleague. I can only assume this has been done to 'scapegoat' me.”;
+50.4 “Part of the reason for my dismissal is the claim that I have breached the Council's IT policies by using my personal mobile on Council business. It is well known and documented that this practice is prolific amongst many colleagues (some of whom are senior) and yet no disciplinary action has been taken against any of them. As such, my 1093 dismissal for that action is, again, grossly disproportionate and further indicates that I am being scapegoated.”
+50.5 “Any blurring of the lines of professional boundaries on my part was entirely motivated by a desire to protect the vulnerable people involved in this case. Whilst I accept it may have been inappropriate, to categorise that as fundamentally breaching the code of conduct is not proportionate and therefore an unfair reason to dismiss me.”
+
+51. The hearing took place on 9 September. The Claimant attended, accompanied (remotely) by her Union representative.
+
+52. The Claimant made a statement and answered MH’s questions. Her representative made submissions in relation to “concerns around the Disciplinary Investigation, Disciplinary Hearing Process and Outcome (with contention to the decision)” [1106]. These included that “if she had known the full allegation details at an earlier point she could have identified further witnesses and documentation for the Investigating Officer to explore to support her case and mitigations” [1107], and that a final written warning was a more appropriate sanction within the Respondent’s disciplinary toolkit and policy, because the Claimant’s actions were misconduct rather than gross misconduct [1107-1108].
+
+53. The representative also made a closing submission [1114]: “Within Amanda’s application for appeal, she again repeats and accepts that she is by no means justifying her errors and has shown genuine reflection and remorse. She requests however that her additional evidence and mitigation are considered when making the appeal outcome determination. The request is thus for the Appeal Chair to consider the lesser sanction of ‘final written warning’ which would reduce the impact on Amanda’s entire social work career being at risk and enable her to prove that she has learnt from her mistakes and once again provide the quality of service and professionalism expected by MKCC. This outcome would also avoid her seeking an unfair dismissal claim which will likely result in a high cost both financially and reputationally to your authority.”
+
+54. The appeal decision was dated 13 September 2024, and stated, amongst other
+
+things:
+
+54.1 “I have carefully considered all the information presented to me and my decision is to uphold the original disciplinary hearing decision to summary dismissal you from the council.”;
+54.2 “In concluding to uphold the original decision I have focused on the first two allegations which are related safeguarding failures [1117]”
+54.3 “As an experienced Independent Chair, you should have realised the implications for the mother and family if the father was notified that an Order had been, or was going to be, applied. This could have enabled the father to avoid being served with the Order and escalate an already difficult situation for the mother and children. Also having seen the email from MK-Act, I could not find any action from yourself to highlight to the appropriate personnel that you had already informed the father about the Non-Molestation Order being served to him.”
+54.4 “as an experienced Independent Chair, you should have realised this option was not viable and went against the wishes of the child/ren and showed a lack of consideration for the child’s emotional wellbeing and acting in the best interests of the child”;
+54.5 “You were fully aware of the father’s intention to visit the property and as an experienced worker you should have recognised how people can present differently under different levels of stress, and the risk and distress this could have caused for the family. This lack of action showed a failure to not put the family’s welfare and safety as a priority” [1118];
+54.6 “In reaching my decision I took into consideration the mitigation you raised regarding your workload, the death of your husband’s uncle and the impact on your family of this, and your concerns on whether your cancer diagnosis would at some point return”;
+54.7 “In summary therefore, whilst workloads can fluctuate, your actions to inform the father of the Non-Molestation Order, dismissing the children’s view to suggest a 3-way meeting, and failure to inform the Police or other personnel of the father’s intention to visit the home, displayed a serious lack of judgment resulting in failure to safeguard on a number of occasions, rather than being resultant of a heavy workload or personal situation. Further, I could not see any medical information which showed you were still in receipt of treatment or taking any medication which may have impacted your judgement” [1119]. Specific allegations and responses Allegation 1 - disclosed confidential information that you were not authorised to release
+
+55. CS was not present at the ICPC meeting on 10 January 2024.
+
+56. The transcript of the meeting shows that MS said “I've been speaking to my solicitor and I've got a lot of things coming up soon and I've got I've got actually my first court case tomorrow...I've got other things planned...Prohibited steps, child arrangements” [403].
+
+57. The Claimant said “I will sit with him and review the meeting minutes and go through them with the the audio and the video just to make sure that...He's involved in, knows everything that's going on with, so there's no, so there's transparency” [385]. She says no one expressed that she should not share any particular aspect with CS.
+
+58. Her case note from 10 January 2024 records “Your dad called me several times an missed his calls” and “I returned your dads call at 14:45pm”. It then sets out what was discussed - “I took tie [sic] to summarise the three columns and the fact that all four of you have been clear that they do not want contact with him” and “I was reluctant to spend too much time as I was aware your dad had had a medical procedure that day and may not be in a position to listen to what I was saying and take it all in” [604].
+
+58.1 There is no reference to discussing the non-molestation order within that call.
+
+59. On 11 January 2024, the Claimant received a phone call from MS in which she “stated Non-molestation order was granted in respect of her and all four of you. Your dad will be served with this in the coming days” [613].
+
+60. In the investigation meeting, the Claimant said that when she spoke to CS on 11 January 2024, he told her “he had been to Court...I assumed he had been to court and been party to the proceedings...Chid Arrangement or Occupancy, he would have had to be part of that. I wrongly made the assumption that he was aware of that order. He said he had bene to court and was told it was being held online and not in court. I made the assumption and said an order had been made , didn't know details” [714].
+
+60.1 There is no case note of this conversation. I note that other casenotes include details of multiple calls, whilst 11 January only records the 13.52 call from MS. However, the language in a later case note on 14 January (see below) may indicate that there had been a conversation prior to this date.
+
+61. At 17.41 on 11 January 2024, Sue West (SW) emails the Claimant [592] stating, amongst other things, that: “M was awarded a non-molestation order in the court today that will be served on by court bailiffs (information he should not have until served). The order states he must not contact M or the three youngest children directly or indirectly except messages through a solicitor or a social worker” [592].
+
+62. The Claimant says she didn’t see that email until after she had spoken to CS on 11 January. Although she indicated that she frequently worked beyond her contractual hours, she recalled that she would not have been working at the time the email came in because she would have been at her daughter’s class.
+
+63. After reading SW’s email, the Claimant did not inform anyone that she had already told CS about the non-molestation order.
+
+64. On 14 January 2024, the Claimant had a call with CS at 11.29am where, amongst other things, “I also reminded him tat [sic] there was a non-molestation order in the pipe line and whilst I appreciate it had not been served I had advised him it was going to be served” [604].
+
+65. In the investigation meeting C said
+
+66. Ahead of the disciplinary meeting, the Claimant’s explanations and reflections included: “I accept that by disclosing the fact that the Non-molestation Order had been granted could have resulted in CS making efforts to avoid the order being served and potentially undermining MS’s efforts to further protect and safeguard herself and her children. However CS had adhered to his bail conditions since it had been imposed in December 2023 and was residing at his parents’ home some distance from Milton Keynes”; and “My intention was to reinforce that CS should refrain from making contact with his children and in no way did I intend to place MS and her children at further risk of harm or cause them any alarm or distress” [873].
+
+67. In the disciplinary hearing, when asked “was there any time after that conversation you were concerned about sharing that information?”, the Claimant responded: “When I saw the email, I think it was the next day from Sue. I suppose I hadn’t really thought about the fact that…I think I was doing too many things at once. It wasn’t on the Monday when he told me…I can’t think what my thought process was”. When SN followed this up by asking “any point when you realised something was shared…did you escalate it?”, the Claimant said “I didn’t. In hindsight, I should have. Especially when he wanted to speak to the child. He was fixated, I said this is a levelling off…this is a place where you can’t do that. I should have flagged that up” [908].
+
+68. SN also asked "Within your role as an Independent Chair (IC), would you say you understand how a Non-Mol work?”, and the Claimant said “Yes it comes down to specifics…I didn’t have it in my head of it being ex parte. . MK Act said they were going for an Occupancy Order...It would normally say in CP this was ex parte…I didn’t get any sense of heightened risk [908].
+
+69. In her evidence to the Tribunal, the Claimant said that she had only ever encountered 2 or 3 ex parte injunctions during 14 years working for the Respondent. She added that in the 12 months she has been in her current role with another local authority, she had only seen one.
+
+Allegation 2 - failed to safeguard vulnerable clients
+
+70. This allegation was formed of two sub-allegations (i) suggesting facilitating a 3way conversation between CS and the 16-year-old child G, and (ii) concerns relating to events that took place on Sunday 14.01.2024.
+
+71. In relation to the 3-way conversation:
+
+71.1 Child G had a particular need for access to his computer (this is interchangeably referred to as a PlayStation/X-Box, but the specific brand is not in dispute), and there was an issue with the password on the computer account, which was affecting this;
+71.2 The children had expressed that they did not want to speak to their father;
+71.3 A casenote dated 10 January 2025 records that the Claimant “suggested that we had a three way call between your dad and you [blank] but you were not keen so we did not facilitate this. I just wanted to try and resolve” [611].
+71.4 A casenote dated 11 January 2024 records that “your mum stated that she has resolved the Playstation log in details” [613].
+71.5 In the investigation meeting the Claimant said she had “asked [redacted] if he’d like to do a voice note for me to share with his dad” [715]
+71.6 Ahead of the disciplinary hearing, the Claimant’s explanations and reflections included: “G was extremely upset and agitated”; “I asked MS if G wanted to send a voice note or have a three way discussion with CS to try and resolve the reason why he could not access his account. I was unaware that I was on speaker phone until G responded stating he did not want to talk to his dad as he may cry” [875]; “in no way did I intentionally go out to upset, disrespect or impede G’s human rights, views, wishes and feelings”; and “As an independent chair I pride myself in supporting and promoting young people to have an active voice. In the ICPC I learned that G is a bright capable young man who can share his views and opinions in an articulate way. I made the judgement that he could adequately make choices and he demonstrated this by declining my offer” [877].
+71.7 In the disciplinary hearing, the Claimant was asked “in terms of support, you were trying to offer, do you consider that to be within your role?” and responded “Sometimes with CP, some service users wouldn’t engage with social workers...Sometimes, I do step outside that role...I don’t think it’s as rigid…you chair then walk away…it about getting the best outcomes for young people.” [911], She also gave examples of other cases of doing this.
+
+72. In relation to the events of 14 January 2024:
+
+72.1 A casenote dated 10 January 2024 records that Claimant “had several discussions re removal of the bike and you dad’s items from the shed” and “Your dad suggested his dad, brother or neighbour. Your mum suggested your dad could collect and drive the bike. I stated it would breach his bail” [611];
+72.2 A casenote dated 11 January 2024 records: “your mu [sic] stated ideally she would like to remove your dad’s bike and belongings from the shed”; “I stated that your dad had asked the arresting officer if he can support via text message last night and he responded today stating he could not support and he and his team do not have any time so your dad would need to wait until his bail ends”; and “I stated that if you are all in the house with your mum it could cause them all distress. Your dad stated that he would stay in the car and would hope that they can access the shed without distress being caused. However I fear that this will not end amicably and peacefully but your dad was determined to proceed” [613].
+72.3 A case note dated 14 January 2024 records [604]: “Text message from [redacted] your dad received early hours but read at 11:27am T/c to [redacted]. T/c to Mel Smith T/c to ESWT X2 rang out. T/c from [redacted]/ spoke to police officer attending home address. T/c to your dad Telephone call from your dad at 14:07. Telephone call from your mum at 14:32.”
+72.4 The text message from CS read: “Amanda so sorry to message you so late . I've spoken to police today numerous times and the case has been dropped and my bail has ended. So the plan is to collect my bike today (Sunday) with my parents and brother and they can ask nicely for [redacted] to open the back gate and if not to ask the police for assistance. I confirm that I have not received or been served with any Orders form the court which the police confirm will not be active until its been served. So I'm legally allowed there as it is my house too. This is advice from the police. Also this is really only opportunity to collect bike as it is the weekend. I don't need to see or speak to anyone or even go in the house. So the question is are you available Sunday lunchtime to assist as my mutual person? sorry to ask but police said it could help but if not we shall try anyway. [Redacted] can't be trusted and this needs sorting ASAP before something happens to my belongings. Just spoken to out of hours CSC and they would not get involved as it is my house and its a police matter to do with property and not children. Its been logged i called and don't have an issue with us going round the house.”
+72.5 The Claimant recorded the call as including [604-605]: “I acknowledged his frustration but suggested that perhaps your mum had not been advised bail had not been ended so her dad turning up may result in the police being called. I advised your dad to remain in the car and that his dad may not gain access to the shed. He stated that as it is property he was within his right to jump the fence and take the padlock off his shed. I suggested that perhaps his dad could call your mum but your dad was of the view that it was his property. [Redacted] had made it clear that she did not want to talk to me on Friday so it was not appropriate for me to call her. Your dad stated that he had called CSC ESWT but they did not want to get involved. I was clear that it was not appropriate for me to attend as it would not assist the situation. I did reiterate that your mum may be really anxious if she does not know that bail has ended.”
+72.5.1 CS and some of his family members attended the home;
+72.5.2 MS “telephoned me and she was very upset and crying- she stated that your grandad had knocked on the door and pushed her door stating I had stated that it was ok for them to attend” [605] and “Your mum stated that your dad's family arrived- his 2 brothers, mum and dad- That your grandad had pushed the front door casing her to hurt her shoulder witnessed by you [redacted]. Your mum stated it was all very distressing and the police were called and may look at charging your grandad for assault.”
+
+73. In the investigation meeting the Claimant:
+
+73.1 Said she had “asked [redacted] if he’d like to do a voice note for me to share with his dad” [715] about the computer;
+73.2 Stated “as a CP chair and IRO, I work outside the box to mediate and manage conflict...I go above and beyond...I would work outside the box to be helpful to move thigs on, to get best outcomes for children” [716];
+73.3 Acknowledged that in hindsight “there should have been more discussion about “what you would do and what the social work team would do” [716];
+73.4 Highlighted that other people/organisations were also aware of CS’s intentions and took no action
+
+74. Ahead of the disciplinary hearing, the Claimant’s explanations and reflections included: “I tried to call ESWT but the phone rang out. I also tried to call MS the duty social worker from ESWT but it was only later that I realised she was on shift early in the morning” [879]; “I also acknowledge that I stepped outside of my role and breached professional boundaries by my involvement and on reflection ESWT would have been better served to manage this matter”; “In hindsight, I realise I should not have made direct contact with either parent even though I was completing work related administration tasks that particular Sunday morning. I unintentionally became embroiled in their ongoing disputes, and then became implicated in potentially abusive events that were ultimately outside of my control. I was also compromised by needing to attend to my own family commitments too”; “I realise again with hindsight, that I should have tried to contact MS, and make her aware that although I advised him not to, CS was potentially intending to collect his belongings from the shad that day. When I spoke to MS later, I did apologise for not warning her earlier”; “I acknowledge with regret that this caused a great deal of anxiety and distress to MS and the children which was never my intention” [880]; and “Whilst I have knowledge and experience of domestic abuse it has been some time since I have formally updated my training especially in respect of coercive control and counter allegations. Over the last 4 months during my suspension from work I have been researching articles on domestic abuse and specific papers prepared by SAFELIVES such as “Responding to counter allegations: guidance- A review of practice” [881].
+
+75. At the disciplinary hearing the Claimant explained that “I spoke to him for 13 minutes. I thought I had managed to rationalise with him not to go to the address. He said he needed his stuff, wouldn’t go to the property door, would be nearby in the car if his Dad didn’t get the shed key he would phone the Police. I phoned ESWT, it rang out…I was surprised. I didn’t phone the Police. Mum’s number wasn’t on my phone, they didn’t say what time…I suppose I didn’t ring her because I didn’t want her to say, it was that annoying woman again…they might turn up or they might not. I didn’t know for sure. The Police said the property was protected. They had a camera, video phone, etc. I was surprised they answered the door” [912].
+
+76. The Claimant’s evidence to the Tribunal focussed on the in/actions of other individuals and organisations. Allegation 3 - breached the Council’s IT policies by contacting service users using your personal mobile
+
+77. On 9 January 2024, the Claimant sent her personal number to CS by email [631]. She explained that “I can only presume that as my personal number is embedded in my mind and this led to me typing this number and I accept responsibility for this” [884].
+
+78. During the period of working with the family, the Claimant received calls/messages to her personal phone from MS and CS [657-661]. She stated: “I acknowledge and accept that it was inappropriate to use WhatsApp to communicate with MS and CS” [885].
+
+79. Evidence was provided that the Claimant’s personal mobile number was included in her email signature since at least May 2023 [656].
+
+80. In the investigation meeting, the Claimant admitted using her personal phone but explained this was due to technical issues with her work phone (no signal/data). She said believed her number was withheld and said that this practice was common among colleagues.
+
+81. Ahead of the disciplinary hearing, the Claimants explanations and reflections included: “I accept that it is my personal responsibility for using my personal mobile in this instance to talk to both parents and exchange messages and a video” [882]; “I did not use my work mobile to hotspot for data as my previous phones battery life and service was poor. My phone data was capped at the end of December 2023 due to high use of Data running lots of Teams meetings in December 2023. I only noticed this when I tried to log in to my laptop and use my phone to hotspot in early January 2024” [882]; “I accept that I did use my personal phone on that day. When using my personal number, I endeavour to ensure that I used 141 or withheld my number in settings. I wrongly thought I had withheld my number in settings, but on reflection realised that I had called my husband's uncle's residential care home the previous morning and had removed my withheld caller ID setting. I did not check this had been reinstated and can only presume that this was due to my distress as he was near the end of life and he passed away the following day”; “I accept my oversight of having my personal number on my work email signature from July 2023 to 20 January 2024” [883]; and “on 9 January 22.20pm I sent CS an email in which as recorded I have written my personal number, not realising that it is within my email work signature. I can only presume that as my personal number is embedded in my mind and this led to me typing this number and I accept responsibility for this. I would like it to be noted that I was working during the day and like other colleagues across the service, out of hours, late into the night, to keep up with my workload” [884]. Allegation 4 - breached the Council’s Code of Conduct by failing to maintain professional standards appropriate to your role
+
+82. In the investigation meeting, she rejected any suggestion of unprofessional conduct. She stated she had a 32-year unblemished record and was committed to her role. She acknowledged some decisions could have been handled differently but insisted they were made under pressure and with good intentions.
+
+83. Ahead of the disciplinary hearing, the Claimant’s explanations and reflections included: “I accept that the additional tasks were outside of my remit of my current role” [885]; “I understand that I am seen as someone who is helpful amongst my colleagues, and perhaps I need to consider and reflect that when asked to be involved in tasks, whether it is appropriate for me to do so, or who I should signpost professionals to”; and “On reflection I should have reiterated to them all that they needed to wait and contact the allocated social worker or ESWT if it was an urgent matter” [886]. The rest of the document largely refers to issues with workloads and cross-references to supervision notes.
+
+Sanction
+
+84. I specifically asked both Respondent witnesses about the consideration of other sanctions.
+
+85. SN told me that the concerns were too significant because there were thre incidents, and the family was put at risk. She said that demotion to social worker was not appropriate because of the failures to safeguard.
+
+86. MH said that there were a number of elements where confidence in the Claimant was shattered, to the extent that retaining her in the organisation was too much of a risk.
+
+The law
+
+87. The claimant claims that she was unfairly dismissed, in contravention of section 94 Employment Rights Act 1996 (“ERA”).
+
+88. Section 98 ERA sets out how the Employment Tribunal should approach the question of whether a dismissal is fair.
+
+89. First, the employer must show the reason for the dismissal and that this reason was one of the potentially fair reasons set out in s98(1) and s98(2) ERA. Conduct is a potentially fair reason.
+
+90. If the employer is successful at that first stage, the Tribunal must then determine whether the dismissal was fair under s98(4): “Where the employer has fulfilled the requirements of subsection (1), the determination of the question of whether the dismissal is fair or unfair (having regard to the reason shown by the employer) –
+
+(a) depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee, and
+(b) shall be determined in accordance with equity and the substantial merits of the case.”
+
+91. The s98(4) test can be broken down to two key questions:
+
+91.1 Did the employer utilise a fair procedure?
+91.2 Did the employer’s decision to dismiss fall within the range of reasonable responses open to a reasonable employer?
+
+92. The respondent said that it dismissed the claimant for a conduct-related reason, pursuant to s98(2)(b) ERA. For misconduct dismissals, the employer needs to show:
+
+92.1 an honest belief that the employee was guilty of the offence;
+92.2 that there were reasonable grounds for holding that belief; and
+92.3 that these came from a reasonable investigation of the incident.
+
+93. These principles were laid down in British Home Stores v Burchell [1980] ICR
+
+303. The principles were initially developed to deal with dismissals involving alleged dishonesty. However, the Burchell principles are so relevant that they have been extended to provide for all conduct-related dismissals. Conclusive proof of guilt is not necessary, what is necessary is an honest belief based upon a reasonable investigatory process.
+
+94. Accordingly, the emphasis of the case at the hearing was whether the Tribunal could be satisfied that, in all the circumstances, the respondent was justified in dismissing the claimant for the reasons given, i.e. in relation to his purported misconduct.
+
+95. ACAS has issued a Code of Practice under s199 Trade Union and Labour Relations (Consolidation) Act 1992. Although the Code of Practice is not legally binding in itself, Employment Tribunals will adhere closely to the relevant Code when determining whether any disciplinary or dismissal procedure was fair. The ACAS Code of Practice represents a common-sense approach to dealing with disciplinary matters and incorporates principles of natural justice. In operating any disciplinary procedure or process, the employer will be required to:
+
+• Deal with the issues promptly and consistently;
+• Make sure the employee was informed clearly of the allegation;
+• Ensure that the nature and extent of the investigation reflect the seriousness of the matter, i.e. the more serious the matter then the more thorough the investigation should be;
+• Allow the employee to be accompanied to any disciplinary interview or hearing and to state their case;
+• Keep an open mind and look for evidence which supports the employee’s case as well as evidence against;
+• Established the facts before taking action;
+• Make sure that the disciplinary action is appropriate to the misconduct alleged;
+• Provide the employee with an opportunity to appeal the decision.
+
+96. In West Midlands Cooperative Society Limited v Tipton [1986] ICR 192 the House of Lords determined that the appeals procedure was an integral part of deciding the question of a fair process. Indeed, a properly conducted appeal can appropriately reinstate an unfairly dismissed employee or remedy some procedural deficiencies in the original hearing.
+
+97. In judging the reasonableness of the employer’s decision to dismiss an Employment Tribunal must be careful to avoid substituting its decision as to what was the right course of action for the employer to adopt for that which the employer did, in fact, chose. Consequently, the question for the Tribunal to determine is whether the respondent’s decision to dismiss the claimant fell within the band or range of reasonable responses open to a reasonable employer: see Foley v Post Office; HSBC Bank plc v Madden 2000 ICR 1283. The range of reasonable responses test applies not only to the decision to dismiss but also to the procedure by which that decision was reached: J Sainsbury plc v Hitt 2003 ICR 111 CA and Whitbread plc (t/a Whitbread Medway Inns) v Hall 2001 ICR 669 CA.
+
+98. Unfair dismissal claims must be commenced within 3-months from the effective date of dismissal under s111 ERA. S18A Employment Tribunals Act 1996 allows for a further period of up to 1-month (or in exceptional circumstances 1month and 2- weeks) for ACAS Early Conciliation. There is some discretion to extend this time limit if it was not reasonably practicable to issue proceeding within time, and the complaint was issued proceeding within a reasonable time thereafter. There is no dispute that the unfair dismissal claim was brought in time.
+
+99. In their submissions, the Claimant’s lay representative referred to a number of other cases that they asserted I should take into consideration. I acknowledge that the representative is not legally qualified, and unfortunately this means a large number of cited cases are not applicable in these proceedings. I address
+
+these briefly below:
+
+99.1 Ms A Briggs v The Trustees of the National Museums of Scotland: 8000954/2024 - whilst this is an example of a case where dismissal was found to be unfair procedurally, it is a first instance decision made on the specific facts in that case, which sets no precedent;
+99.2 Sandwell & West Birmingham Hospitals NHS Trust v Westwood was cited on the basis that “The EAT specified that gross misconduct should include either “deliberate wrongdoing or gross negligence”.
+99.2.1 However, it is not authority for the proposition that whenever the label ‘gross misconduct’ is used, a contractual analysis is required as to whether the conduct amounted to willful contradiction of the contract or gross negligence.
+99.2.2 It is not necessary for a tribunal to decide whether misconduct amounts to gross misconduct before it can come to a decision as to whether dismissal for that misconduct was unfair within the meaning of the Employment Rights Act 1996 provisions. Unfair dismissal is a statutory concept which considers the reasonableness of the employer’s belief, whereas gross misconduct is a contractual concept dependent on a finding of fact about what happened (West v Percy Community Centre EAT 0101/15). A claim of unfair dismissal requires the application of the statutory tests at section 98.
+99.3 OFSTED v Hewston [2025] EWCA Civ 250 is cited, but the Court of Appeal case was Hewston v. OFSTED. The incorrect citation combined with the nature of the submissions suggest reliance in earlier findings of the EAT.
+99.3.1 The Court of Appeal noted that it would not generally be reasonable to ‘bump up’ the seriousness of an employee’s conduct just because he or she fails to show proper contrition or insight during the disciplinary process. However, it observed that there may be particular cases where a neat distinction between the seriousness of the substantive conduct and the employee’s subsequent attitude is difficult to draw. For instance, there may be cases of less serious misconduct where a persistent failure on the part of the employee to recognise any wrongdoing means that there is a real risk that he or she will commit more serious misconduct in the future; that risk should in principle, depending on the particular circumstances, be capable of justifying dismissal.
+99.4 Cass. Soc., 22 January 2020, no. 18-18.530 is cited in relation to a delay between an employer becoming aware of the facts of alleged gross misconduct and dismissal. This is a decision from the French Supreme Court, which is not binding in England and Wales. Whilst authorities from other jurisdictions may be persuasive in certain circumstances, no submissions have been provided as to why this is the case here. Submissions
+
+100. Both parties provided written submissions by 18 August 2025 as ordered. Unfortunately, these were only provided to me by the Tribunal administration on 17 September, delaying this judgment.
+
+101. I have read and considered everything said within these, but I don't seek to recite the submissions in full here - the Respondent’s are numbered across 14 pages, and the Claimant’s run to 24 electronic pages of closely written text,
+
+without numbering. However, by way of summary:
+
+Claimant
+
+102. As I’ve said, these were lengthy. They were also a little disjointed. Whilst I make no criticism of the non-legal representative in this regard, the result is that they were hard to follow.
+
+103. The submissions do end with a helpful summary: “In conclusion the Claimant asserts the dismissal to be unfair by way
+
+of:
+
+• Failure to evidence clear and unequivocal intent regarding a repudiatory breach of trust and confidence
+• Affirmation of the breaches intended to constitute gross misconduct warranting summary dismissal
+• Substantive fairness by Lack of grounds to reasonably believe the reason for dismissal
+• Substantive unfairness by way of mitigating factors and less punitive sanctions
+• Procedural unfairness throughout.”
+
+104. Substantive unfairness is summarised as: “1. Unfeasible to assert Claimant had sufficient knowledge their behaviour was likely to constitute gross misconduct and warrant
+
+dismissal
+
+2. Unfeasible for the Respondent to insist Claimant acted with clear
+
+and unequivocal intent given evidence to contrary
+
+3. Mitigating factors insufficiently considered
+
+4. Less punitive sanctions not considered sufficiently
+
+5. Investigation process fundamentally flawed and not carried out in reasonable manner
+
+6. The other possibilities r could have pursued significantly outweigh the punitive approach taken in dismissing the Claimant due to conduct. It is difficult to see how any other reasonable employer would reach the same
+
+conclusion of gross misconduct
+
+7. given the facts and circumstances of case known to r and those should have known as well as obvious reflection by Mac Health re rare/impossible etc. it is nothing short of farcical to defend the decisions as within a range of reasonable responses any other employer would have taken.
+
+8. If the Respondent cannot uphold their own duties under code of conduct, IT and discipline it is to expect the Claimant to have known all of this whilst paying little to no regard to policies themselves as demonstrated in Mac Heath’s evidence. Double standards of specifically that could he see the contradiction in sanctioning an employee for not upholding policy or prof
+
+standards, whilst not doing the same himself.”
+
+105. The procedural fairness sections refers to the following areas: ACAS Statutory Code; Grievance; Suspension; Failure to provide the details of allegations and complaint; Appeal; Investigation/disciplinary process; Internal disciplinary policy; Right to present case of defence; Union representation; Consistency; Unbiased independent investigating officer.
+
+106. I will address the submissions in more detail within the ‘Conclusions’ section, but it is worth noting the following at this stage:
+
+106.1 I have partly addressed the first bullet within the preceding section “The law”. The claim is one of unfair dismissal, not wrongful dismissal. The latter would require consideration of whether the employee was guilty of conduct so serious as to amount to a repudiatory breach of the contract of employment entitling the employer to summarily terminate the contract.
+106.2 The second bullet presumably refers to paragraph 73 of the Claimant’s witness statement where she refers to affirmation because of delay. However, whilst procedural unfairness because of delay was asserted to the Respondent witnesses, the position in relation to affirmation was not put to either of them in cross examination.
+106.3 I assume that reference to “substantive fairness” in the third bullet” is intended to be unfairness (as in the next point).
+
+107. The submissions do not specifically summarise a position in relation to each particular allegation. However, it was clear from the lay representative’s line of questioning in cross-examination that the assertion is that none of the individual allegations amount to gross misconduct and also do not when considered together.
+
+Respondent
+
+108. As C admitted the alleged misconduct, there does not appear to be any dispute that the reason for dismissal was conduct. It also does not appear to be disputed that the decision-makers genuinely believed that the acts of misconduct had been committed or that they had reasonable grounds for that belief. So, the issue in this case relates to the fairness of the decision to dismiss for the misconduct, with emphasis on the fairness of the process and whether the sanction of dismissal was ‘within the reasonable range’. Allegation 1
+
+109. The Claimant should have known not to disclose the information;
+
+110. The Claimant accepted that an ex parte non-molestation order should not be disclosed prior to service and that if there was any doubt whether an order was applied for ex parte she should check. She made assumptions (on her own admissions) when she should not have.
+
+111. She did not escalate the matter after realising what had happened.
+
+Allegation 2 (i)
+
+112. The Claimant was well aware that MS’s children wanted no direct contact with CS. Despite this, C suggested a ‘3-way call’ involving the child and CS, which was plainly contrary to the express wishes of the child.
+
+Allegation 2 (ii)
+
+113. The Claimant was aware of the anxiety caused by the possibility that CS and/or his family would attend the property to remove belongings
+
+114. She failed to make contact with the emergency team and decided not to
+
+contact the police or MS
+
+115. The impact of the incident was significant regardless of whether there was physical injury [675]. 28. C’s explanations at the DH were unconvincing.
+
+Allegation 3
+
+116. The Claimant deliberately gave her private number to CS and was in communication with MS via that same number. Having done so, the suggestion that she thought she had used ‘141’ to withhold the number made no sense.
+
+117. The evidence compiled by the investigator showed that C had been providing her personal number by way of email sign-offs since July 2023.
+
+118. For the first time, at Tribunal, C began to suggest that she had difficulty connecting to the WIFI network at work – this was entirely new and presumably in recognition that her purported explanations/justifications did not hold water.
+
+Allegation 4
+
+119. This adds some weight to decision to dismiss because it focuses on the Claimant’s decision to involve herself in ways not pertinent to her role as Independent Chair - she should not have been involved beyond feeding back on the Initial Conference.
+
+Sanction
+
+120. SN considered that the allegations individually and collectively amounted to gross misconduct, and that dismissal was the appropriate sanction when considering the collective impact of all four allegations. It could not safely be concluded that no reasonable employer would have dismissed.
+
+121. The context is a senior experienced practitioner working in the context of statutory responsibilities for safeguarding the interests of a vulnerable adult and her children.
+
+122. The Respondent was also entitled to consider C’s attitude to her errors which included attempts to minimise and to shift blame to others.
+
+123. It is clear that SN and MH took account of the Claimant’s mitigation including long and exemplary service and her workload. Both confirmed they did consider lesser sanctions (including demotion) but concluded that the misconduct was so serious, and had such an impact on trust, that dismissal was required.
+
+Procedural fairness
+
+124. The Respondent’s investigation was sufficiently comprehensive and a proper and compliant series of hearings gave the Claimant a full opportunity to state her case.
+
+125. The Respondent is to be judged in light of the entirety of the process (Taylor v. OCS) and the range of reasonable responses test applies.
+
+126. There was no unfairness in failing to interview police officers or members of the Emergency Team. C was properly to be judged in accordance with her own acts and omissions based upon her own expected standards.
+
+127. The Respondent carefully assessed whether suspension was necessary and concluded that it was, bearing in mind the seriousness of the allegations and that any continued social work would involve the exercise of judgment. The suspension was reviewed regularly.
+
+128. The Claimant’s evidence as to her workload and/or exemplary record did not bear on the facts of the allegations. Her mitigation was taken account of in the balancing exercise.
+
+129. The process as a whole was delayed, for a variety of reasons including the Claimant objecting to (and the replacement of) two investigating officers and the disciplinary chair, the need to co-ordinate diaries for interviews and hearings, requests for adjournments by C. The Respondent would have been criticised if it had not agreed to all requests but is now criticised for the consequential delays. However, the delay was not excessive and the only actual effect of the delay was to cause C’s employment to be terminated at a later time than would otherwise have been the case.
+
+Conclusions
+
+130. As with the ‘Findings of fact’, I will only make the conclusions necessary to determine the claim. What was the reason or principal for dismissal, and was the reason a potentially fair reason?
+
+131. I have concluded that the reason for the dismissal was the Claimant’s conduct. She did not put forward any other reason.
+
+132. I find as a matter of fact that the reason for dismissal was the conduct which came to light in the investigation following MS’s complaint. The Respondent was duty-bound to follow up on the report and look into it.
+
+Honest belief that the employee was guilty of the offence
+
+133. The Claimant admitted the conduct in the internal proceedings and even relies on showing genuine remorse as a mitigating factor. It would be perverse to conclude that the Respondent did not have a genuine belief in the Claimant’s guilt.
+
+Reasonable grounds for holding that belief
+
+134. The Respondent concluded that all four factual allegations against the claimant were proven. I have looked at the evidence available to them at the time in order to discern whether they in fact had reasonable grounds for their belief. Allegation 1 - disclosed confidential information that you were not authorised to release
+
+135. There were a number of factors that should/would have been clear indications to the Claimant that the non-molestation order had been pursued on a without notice basis, or at least there was a strong possibility of this. In particular, the call at 13.52 on 11 January 2024 relayed that the Order would be served in the coming days, which should have flagged to the Claimant that CS had not been in the hearing (formal service would have been unnecessary because he would have been aware of the terms of the Order).
+
+136. Whilst I recognise that there may be regional variations in the frequency of granting with/without notice non-molestation orders, the Judge will have to apply the law in the relevant case before them. I therefore cannot accept that there would have been a local practice of not granting them on an ex parte (without notice) basis.
+
+137. In any event, the facts before the Claimant should/would have indicated to her that there was at least the possibility of the non-molestation order having been made on a without notice basis. Not least, the references to it having not been served yet. Had the father been in attendance when the Order was made, that would have been sufficient to avoid the need for formal service.
+
+138. Taking the Claimant’s evidence at its highest, even if she had only realised the ex parte nature of the Order after belatedly reading SW’s email, at that point she would have realised her error in discussing it with CS, and should have taken steps to notify someone. Not only did she not do so, on 14 January she had a further conversation with CS, in which she specifically reminded him that there was a non-molestation order waiting to be served.
+
+139. The Claimant recognised this with hindsight.
+
+140. It was reasonable for the Respondent to expect the Claimant to:
+
+140.1 Have the relevant knowledge of the basic grounds on which an ex parte Order would be made;
+140.2 Recognise that those grounds may apply in the case of MS/CS so a without notice application may be made; and
+140.3 To act accordingly at all times
+
+141. The Respondent was therefore entitled to conclude that there had been a breach of confidentiality in relation to the Claimant’s actions, and that this amounted to misconduct.
+
+142. With reference to the Respondent’s disciplinary toolkit/policy, it was reasonable for them to categorise the misconduct as gross misconduct. Allegation 2 (i) – suggested facilitating a 3-way conversation between CS and the 16year-old child G
+
+143. The Claimant was aware that the child/ren did not want to have any contact with their father. Whatever her reasons for suggesting the call, she knew this was against his wishes.
+
+144. Her explanations/reflections sought to justify the actions and minimise the effect because the child’s wishes were respected after the suggestions was declined, without priperly acknowledging the harm the suggestion itself could/did cause.
+
+145. It was reasonable for the Respondent to expect the Claimant to have the child’s wishes at the forefont of her mind, and to respect those.
+
+146. The Respondent was therefore entitled to conclude that there had been a failure to safeguard vulnerable clients in relation to the Claimant’s actions, and that this amounted to misconduct.
+
+147. With reference to the Respondent’s disciplinary toolkit/policy, it was reasonable for them to categorise the misconduct as gross misconduct. Allegation 2 (ii) - concerns relating to events that took place on Sunday 14.01.2024
+
+148. Whilst the Claimant acknowledged that with hindsight she should have warned MS about CS attending the home, her evidence focussed on the lack of injury, contrary to MS’s assertion. She failed to recognise - throughout the internal proceedings and the Tribunal hearing - that the primary issue was not managing the risk of CS’s attendance at the property. Suitable measures may have been put in place to prevent or manage the attendance.
+
+149. What did or did not happen during the incident is not the central part of this allegation – the risk was created regardless of whether CS attended or not. On that basis, the deletion of the video of the incident is not significant.
+
+150. Although the potential distress was recorded in casenotes, the Claimant’s explanations/reflections place more weight on the lack of physical injury than the emotional harm her in/actions could/did cause.
+
+151. Additionally, there was a disproportionate focus on what other individuals/organisations did/did not do.
+
+152. It was reasonable for the Respondent to expect the Claimant to safeguard the mother and children in these circumstances.
+
+153. The Respondent was entitled to conclude that there had been a failure in this regard, and that this amounted to misconduct.
+
+154. With reference to the Respondent’s disciplinary toolkit/policy, it was reasonable for them to categorise the misconduct as gross misconduct. Allegation 3 - breached the Council’s IT policies by contacting service users using your
+
+personal mobile
+
+155. Again, the Claimant’s focus was on what others did/did not do in relation to use of their personal phones, rather than her own actions. During crossexamination of the Respondent witnesses, I had to remind the representative more than once that the allegation was contacting service users, rather than general use of the personal phone.
+
+156. In isolation, the Claimant’s explanation of using 141, and neglecting to do so on one occasion is understandable. However, even if this is the way the number was obtained, she continued to communicate with the family using that number. Additionally, her explanations for not noticing her personal number in her email signature, and for specifically providing that number to CS (and others) is woefully lacking.
+
+157. It was reasonable for the Respondent to expect the Claimant to take proper care with the use of her personal number.
+
+158. The Respondent was entitled to conclude that there had been a breach of policy in this regard, and that this amounted to misconduct.
+
+159. With reference to the Respondent’s disciplinary toolkit/policy, it was reasonable for them to categorise the misconduct as gross misconduct. Allegation 4 - breach the council’s code of conduct by failing to maintain professional standard appropriate to your role
+
+160. This requires consideration of the acts/omissions in the previous 3 allegations. Having made the conclusions above in relation to each of those, it would be perverse to conclude that this allegation was not proven.
+
+161. It was reasonable for the Respondent to expect the Claimant to be aware of, and comply with, the relevant professional standards.
+
+162. The Respondent was entitled to conclude that there had been a breach of the Code of Conduct in this regard, and that this amounted to misconduct.
+
+163. With reference to the Respondent’s disciplinary toolkit/policy, it was reasonable for them to categorise the misconduct as gross misconduct.
+
+Reasonableness of the investigation
+
+164. Based on the evidence I have read and heard, I have no hesitation in concluding that the Respondent carried out a reasonable investigation in this case.
+
+165. The Respondent spoke to all the relevant witnesses and got their version of events. They heard from the Claimant (and her representative) and took her responses to the allegations into account. They reviewed the relevant documentation.
+
+166. The Claimant had the opportunity to put forward evidence in her own defence and suggest where the Respondent should look for evidence which exonerated her. The only instances of her doing this related to allegation 2 (ii) where she asserted that police witnesses should have been sought, and that video evidence should not have been deleted. As I’ve detailed above, whilst these may have been relevant to the Claimant’s position on whether injury occurred, that was not the allegation being investigated by the Respondent. As such, they did not act unreasonably by not pursuing those possible sources. Sanction within the band of reasonable responses?
+
+167. The Respondent concluded that all allegations were factually proven and classified all as gross misconduct. Based on the evidence they had before them I find that that was a reasonable classification. I find that the Respondent was entitled to conclude that service users had been out at risk, and caused distress, by the Claimant’s actions and/or neglect. The respondent acted reasonably in characterising the Claimant’s actions as gross misconduct given the educational setting, the age of the children she taught and the regulatory framework within which social work and local authorities operate.
+
+168. In most circumstances an employer could reasonably look at dismissal as a potential sanction for one incident of gross misconduct. Four findings of gross misconduct strengthens the argument for dismissal still further. The Respondent was certainly entitled to consider dismissal.
+
+169. Were there factors in mitigation which took the dismissal outside the range of reasonable responses?
+
+169.1 The Claimant generally contended that a high caseload and personal circumstances contributed to her actions but did not make any specific assertions as to what element was said to have caused which act/omission. Whilst the supervision notes provided show a consistently higher than recommended caseload, I did not have before me a level of detail to demonstrate the nature/complexity of the workload. In any event, even taken at face value this is not an entire explanation/justification.
+169.2 It is also asserted that the Claimant’s previous exemplary record was not taken into account. The documentary and oral evidence clearly demonstrates that it was. Additionally, the Claimant does not seem to appreciate that in considering the career history, the Respondent is also entitled to expect a certain level of knowledge, experience, and conduct.
+169.3 In the circumstances, where the Claimant was required to act with foresight rather than hindsight, it was reasonable for the Respondent to conclude that the mitigation presented was insufficient to shift the outcome to less than summary dismissal.
+
+170. The considerations given to an alternative role instead of suspension were also instructive, whereby the nature of the allegations ruled out a role in quality assurance. The difficulties in reasonably offering another role were increased once the allegations had been found proven.
+
+171. Dismissal was well within the range of reasonable responses in all the circumstances.
+
+Procedural fairness
+
+172. I conclude that the procedure followed by the respondent fell within the band of reasonable responses.
+
+173. She knew the charges in advance and was warned that dismissal was a possible outcome from the point of initial suspension. By that point, she had already participated in the establishing circumstances meeting and knew te substance of MS’s complaint. Whilst the details of the allegations were expanded after that point, there was no change to the nature of the allegations.
+
+174. She was given fair notice of the evidence and could refer the respondent to any further relevant evidence. Certainly by the point that she received the investigation report he had copies of all evidence used during that process and was able to draft a substantial written response ahead of the disciplinary hearing.
+
+175. The allegations were put to the claimant and she had a number of opportunities to state her case, including at appeal.
+
+176. The respondent followed the ACAS Code.
+
+177. The Claimant asserts that SB should not have been the investigating officer as MS was a service user of the Working Age Adults Team, who SB managed. This is not well-founded. SB was not investigating the complaint itself. The allegations triggered the disciplinary investigation, and SB was tasked with investigating the Claimant's actions (or lack thereof) in relation to the elements of the complaint. In any event, simply having prior working knowledge of a someone does not automatically mean that they lack independence or create bias.
+
+178. There were delays at various stages, to some degree created by the Respondent acquiescing to the Claimant’s requests for alternative investigators/chairs. That cannot be attributed to the Respondent selecting inappropriate individuals – as I say above, simply having knowledge of someone does not automatically create concern.
+
+179. No individual delay, or the cumulation of these, amounted to unfairness within the process.
+
+180. As referred to above, the assertion that there was affirmation of alleged breaches because of the delay between the conduct being identified and dismissal did not form part of the Claimant’s case in the Tribunal hearing, nor in the internal proceedings.
+
+Summary
+
+181. The Claimant’s summary dismissal for gross misconduct was substantively and procedurally fair.
+
+182. The Claimant’s claim for unfair dismissal therefore fails.
+
+APPROVED BY:

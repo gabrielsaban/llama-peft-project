@@ -1,0 +1,396 @@
+RESERVED JUDGMENT
+
+1. The complaint of being subjected to detriment for making a protected disclosure is not well-founded and is dismissed.
+
+2. The complaint of unfair dismissal is not well-founded and is dismissed.
+
+3. The complaint of failure to make reasonable adjustments for disability is well-founded and succeeds. A separate hearing will be listed to deal with remedy.
+
+REASONS
+
+Claims
+
+1. The claimant makes three complaints:
+
+1.1 Failure to make reasonable adjustments (s20 Equality Act 2010 (EqA 2010));
+1.2 Public interest disclosure detriment (s47B Employment Rights Act 1996 (ERA 1996)); and
+1.3 Automatic unfair dismissal (s103A ERA 1996). Conduct of the hearing
+
+2. The claim was heard over the course of four days at Leeds Employment Tribunal. The claimant represented herself, with the support of her daughter and a friend for part (but not all) of the hearing. The respondent was represented by counsel, Mr Kerfoot
+
+3. The Tribunal made the following adjustments to the proceedings to enable
+
+the claimant to participate in the proceedings:
+
+3.1 Regular timetabled breaks;
+3.2 Further breaks as and when requested by the claimant;
+3.3 Additional time to answer questions;
+3.4 Questions were rephrased if the claimant did not understand them;
+3.5 A female clerk was present throughout the hearing.
+
+4. The Tribunal was satisfied that, although she was clearly distressed at times, the claimant was able to put her case fully. She asked relevant questions of all of the respondent’s witnesses and answered all the questions that were put to her in cross-examination.
+
+Preliminary Issues
+
+5. The issues for the Tribunal to decide were set out in the Case Management Order of EJ Miller dated 21 February 2025. It was confirmed with the parties at the start of the hearing that these remained the issues.
+
+6. Pursuant to the Court of Appeal’s decision in Rice v Wicked Vision [2025] EWCA Civ 1466 the respondent conceded that the claimant can bring a claim on the basis that her dismissal was a detriment pursuant to sections 47B and 48 ERA 1996.
+
+7. The claimant applied to amend her claim at the start of the hearing, to add ‘health and safety’ disclosures, and further detriments. The application was refused for reasons given at the time. In summary, the amendment was unclear, the detriments alleged appeared to pre-date the alleged disclosures, the application was brought very late in the proceedings after a case management hearing at which the claimant was represented, and had we allowed the application a postponement of the final hearing would have been necessary. Therefore the balance of prejudice weighed heavily in favour of refusing the application.
+
+8. The claimant applied to strike out the respondent’s response on the first day of the hearing. The application was refused on the basis that the breach of rules or orders relied on was an issue with the bundle, which did not affect the ability for a fair hearing to be held. The other issues were disputes of evidence which called for a full hearing with evidence from both parties.
+
+9. On 25 April 2025 the respondent conceded that the claimant was disabled as a result of the impairment of depression during her employment and at the time of her dismissal, within the meaning of the EqA 2010 (294). The claimant confirmed that she relied on the impairment of depression in this claim, as set out in the order of 21 February 2025. Knowledge of disability remained in issue.
+
+10. On 2 December 2025 the respondent raised a potential time limit issue. The respondent submits that the reasonable adjustment and detriment claims were presented out of time, because they rely on acts which took place on 3 May 2024. Early conciliation started on 1 July 2024 and ended on 12 August 2024. The last date for presentation of the claims in time was therefore 13 September 2024. The claim was presented on 9 October 2024.
+
+11. Because time limits are a jurisdictional issue we did not require an amendment application to be made, and we considered this issue as part of our determination. The claimant was asked questions about this point in her evidence.
+
+12. The claimant responded to the respondent’s email of 2 December 2025 raising the time limit issue, by email. The case law she referred to therein could not be identified by the Tribunal or counsel for the respondent. The claimant readily accepted that she had used AI to generate the submissions. I am satisfied that the authorities referred to do not exist and should be disregarded by this Tribunal.
+
+Substantive issues
+
+13. The hearing was listed to deal with liability only. It was therefore confirmed that the issues the Tribunal would consider were, as per the order of 21 February 2025 (the numbering is adopted from that order, for consistency):
+
+1. Unfair dismissal
+
+1.2 It is agreed that the claimant was dismissed.
+1.2 Was the reason or principal reason for dismissal that the claimant made a protected disclosure? If so, the claimant will be regarded as unfairly dismissed.
+
+2. [Remedy for Unfair Dismissal – not to be dealt with at this hearing]
+
+3. Protected disclosure
+
+3.1 Did the claimant make one or more qualifying disclosures as defined in section 43B of the Employment Rights Act 1996? The Tribunal will decide:
+3.1.1 What did the claimant say or write? When? To whom? The claimant says they made disclosures on these occasions:
+3.1.1.1 In March 2024 to Gary Smith, Rachel Garvin and Chris Wiley by group email that there was a malfunction of the software generating incorrect “time allocations”;
+3.1.1.2 On or around 3 April 2024 to Gary Smith by email that the malfunction for time allocations had been used by her and others leading to incorrect estimates;
+3.1.1.3 On or around 9 April 2024 to Gary Smith and Rachel Garvin verbally in a meeting that there were further malfunctions with the software.
+3.1.2 Did they disclose information?
+3.1.3 Did they believe the disclosure of information was made in the public interest?
+3.1.4 Was that belief reasonable?
+3.1.5 Did they believe it tended to show that a person had failed, was failing or was likely to fail to comply with any legal obligation. Specifically:
+3.1.5.1 Breach of contract by failing to charge customers appropriately;
+3.1.5.2 Breach of the implied term of mutual trust and confidence in employment contracts by failing to treat staff fairly regarding performance assessments;
+3.1.5.3 Properly recording financial data for statutory accounting.
+3.1.6 Was that belief reasonable?
+3.2 If the claimant made a qualifying disclosure, was it made:
+3.2.1 to the claimant’s employer? If so, it was a protected disclosure.
+
+4. Detriment (Employment Rights Act 1996 section 48)
+
+4.1 Did the respondent do the following things:
+4.1.5 Subjecting her to performance/disciplinary proceedings;
+4.1.6 Dismissal (see Wicked Vision v Rice [2024] EAT 29 [and now
+
+[2025] EWCA Civ 1466])
+
+4.2 By doing so, did it subject the claimant to detriment?
+4.3 If so, was it done on the ground that they made a protected disclosure?
+
+5. [Remedy for Protected Disclosure Detriment – not to be dealt with at this hearing]
+
+6. [Disability – now conceded]
+
+7. Reasonable Adjustments (Equality Act 2010 sections 20 & 21)
+
+7.1 Did the respondent know or could it reasonably have been expected to know that the claimant had the disability? From what date?
+7.2 A “PCP” is a provision, criterion or practice. Did the respondent have the following PCPs:
+7.2.1 holding disciplinary/performance hearings whilst employees were off sick from work.
+7.3 Did the PCPs put the claimant at a substantial disadvantage compared to someone without the claimant’s disability, in that she was unable to properly prepare for and represent herself at the hearing at which she was dismissed on 3 May 2024, causing her distress and put at a greater risk of dismissal? The claimant's difficulty in preparing for the hearing was related to the impact of her depression on her in that she was unable to think clearly. The claimant describes herself as having a breakdown.
+7.4 Did the respondent know or could it reasonably have been expected to know that the claimant was likely to be placed at the disadvantage?
+7.5 What steps could have been taken to avoid the disadvantage? The claimant suggests:
+7.5.1 rearrange the disciplinary/performance hearing to when the claimant was signed back to work and thus fit to attend
+7.6 Was it reasonable for the respondent to have to take those steps and when?
+7.7 Did the respondent fail to take those steps? Time Limit Issues
+
+14. In addition, the Tribunal considered the following time limit issues, which had not been raised at the Case Management Hearing:
+
+A: Protected disclosure detriment – time limit
+
+(i) Was the claim made to the Tribunal within three months (plus early conciliation extension) of the act complained of ?
+(ii) If not, was there a series of similar acts or failures and was the claim made to the Tribunal within three months (plus early conciliation extension) of the last one?
+(iii) If not, was it reasonably practicable for the claim to be made to the Tribunal within the time limit?
+(iv) If it was not reasonably practicable for the claim to be made to the Tribunal within the time limit, was it made within a reasonable period? B: Failure to make reasonable adjustments – time limit
+(i) Was the claim made to the Tribunal within three months (plus early conciliation extension) of the act to which the complaint relates?
+(ii) If not, was there conduct extending over a period?
+(iii) If so, was the claim made to the Tribunal within three months (plus early conciliation extension) of the end of that period?
+(iv) If not, were the claims made within a further period that the Tribunal thinks is just and equitable? The Tribunal will decide: 1.1.iv.1 Why were the complaints not made to the Tribunal in time? 1.1.iv.2 In any event, is it just and equitable in all the circumstances to extend time? Evidence
+
+15. We were provided with a bundle comprising 574 pages. The claimant raised concerns at the start of the hearing that the bundle did not include all of the documents that she had requested. The claimant was given the first morning of the listed hearing to go through the bundle with her daughter and identify which documents if any were missing. Ultimately she confirmed that it contained all relevant documents. There were two pages which were illegible and she provided more legible copies to the Tribunal (185 and 194).
+
+16. The claimant submitted four further documents on the final day of the hearing, after oral evidence had concluded. We admitted these into evidence, but note that the respondent was unable to cross-examine the claimant on these documents therefore we placed limited weight on them. Mr Kerfoot made submissions in relation to these documents:
+
+(i) Copies of two prescriptions (codeine phosphate / paracetamol dated 26/03/25 and promethazine hydrochloride dated 30/09/25);
+(ii) Email from the claimant to her GP dated 11 September 2024 at 16.16 headed ‘Fiona Green cover letter to accompany ADHD / Autism questionnaire’
+(iii) ‘claimant timeline of personal and vocational efforts’ (a duplicate of the document at 494)
+(iv) ‘Action plan and activity record’ a record of the claimant’s interactions with DWP support from September 2024 to March 2025
+
+17. We heard oral evidence from: the claimant, and on behalf of the respondent: Stephen Robinson (Head of Compliance), Catherine Hutchinson (Head of HR), Gary Smith (Head of Commercial), and Rachel Garvin (Client Servies Manager). All witnesses had provided witness statements in advance and answered questions in cross-examination.
+
+18. The claimant acknowledged in oral evidence that her witness statement contains some issues which go beyond the issues identified at the Case Management Hearing, and accepted that her case was now limited to those issues. In this judgment we only refer to evidence which is relevant to the issues which we had to decide.
+
+Findings of fact
+
+Commencement of employment and induction
+
+19. On 17 October 2022 the claimant commenced employment with the respondent in the role of print estimator (61-69). The respondent operates a print business producing printed materials for various businesses. The claimant’s role involved inputting variables such as type of material, size etc into spreadsheets in order to generate an estimated price for various proposed works. Some estimates required bespoke spreadsheets, there were some master spreadsheets, and some tasks required master spreadsheets to be amended for a particular estimate. The respondent’s client services department would then use the estimate to liaise with the prospective client to discuss whether they wanted to proceed with the work. The claimant accepted that both speed and accuracy were important in this role. Her contract provided for a probationary period of three months (61).
+
+20. On commencing employment the claimant attended an induction with Catherine Hutchinson, head of HR (70-72). The claimant completed a form entitled ‘Health and Safety Information.’ Under the heading ‘Medical Conditions’ the claimant wrote ‘Anxiety; Peri-Menopause Symptoms’; and under ‘Medication’ she wrote ‘Citalopram, Lansoprazole’. She left the ‘Disabilities’ section blank.
+
+21. In the claimant’s witness statement she states that in this meeting, among other things, she ‘declared, documented and discussed medication, menopause, depression, mental health’. In her oral evidence she maintained that she told Catherine Hutchinson about her depression during that meeting. She accepted that she had not written depression on the form, or anything within the ‘disability’ section, because it was ‘private’ however she stated a number of times that she did disclose depression in her conversation with Catherine Hutchinson, stating: ‘I did have a really good conversation with the HR manager at the time and I explained about my anxiety, my depression, my perimenopause […] There is a big stigma when someone has depression. You’re not likely to get a job if you’re known to have depression […] 100% I did talk about depression […] I documented my medication. Citalopram is for depression. I spoke about the lansoprazole because of my tummy – I spoke to Catherine about it.’
+
+22. In her witness statement Ms Hutchinson states that throughout her employment she was not aware that the claimant was suffering from depression, and that the claimant did not declare this in the information provided. She did not share the claimant’s medical information with any other employees of the respondent (paragraph 6).
+
+23. In her oral evidence Ms Hutchinson stated that she was not aware that citalopram was a medication for depression and she did not investigate this further at the time. She stated that the induction took place on 17 October 2022, and at that meeting she would go through the contract of employment, answer any questions, and give the other forms to the employee to fill in ‘in their own time’. She said that the claimant’s forms were returned on 21 October 2022 (the date of her signature) which was a Friday, when she (Ms Hutchinson) does not work. She said that during the induction meeting ‘I would have touched on mental health – I do talk about that’ but denied that there was a conversation with the claimant about depression or her mental health. The claimant maintains that she completed the forms in the meeting with Ms Hutchinson.
+
+24. We are satisfied on balance that the claimant did inform Ms Hutchinson verbally that she suffered with depression at the outset of her employment. The claimant was very clear on this point, and gave a consistent account for why she chose to discuss this verbally rather than to write it down. By contrast, Ms Hutchinson’s evidence was about what ‘would have’ been discussed and what her standard procedures were. We find that she did not have any particular recollection of this specific conversation with the claimant. Given that Ms Hutchinson accepts that there would have been some discussion around mental health generally, this is entirely consistent with the claimant’s account that she raised her diagnosis of depression in the course of that meeting.
+
+Performance issues and alleged protected disclosures
+
+25. The respondent’s case is that there were consistent issues and concerns with the claimant’s performance throughout her employment. On 6 January 2023 the claimant met with Rachel Garvin (client services manager) and Gary Smith (head of commercial) to discuss some issues regarding the need to price estimates individually rather than relying on matrices, and the rate of the claimant’s outputs (Rachel Garvin paragraph 8).
+
+26. On 13 January 2023 a further meeting took place. The respondent’s concerns remained and as a result of this the claimant’s probationary period was extended for a further three months, to 14 April 2023. This was confirmed in letter (78) which states the extension is because her performance ‘has not yet reached a satisfactory standard’. In oral evidence the claimant did not accept that the probation extension was because of performance issues, but she did reluctantly accept it was so that she could ‘get up to speed’ with the software. We are satisfied and find that it was because of concerns about the claimant’s capability and performance.
+
+27. Following the extension of her probationary period, the claimant attended on site in Newcastle for further training. The claimant accepted in oral evidence that this took place. She completed a training needs self- assessment on 26 January 2023 (82-84). On 9 and 10 February 2023 Gary Smith provided further training to the claimant to cover the needs identified in this assessment.
+
+28. On 10 March 2023 the claimant completed a further training needs self- assessment (97-98). Ms Garvin considered that the claimant had over- estimated her abilities in this further self-assessment but in oral evidence stated that she did not amend the form, as she wanted to focus on the way forward. The claimant accepted that following this further self-assessment, she was directed to focus on simpler tasks (90).
+
+29. This remained the case following the end of her extended probation period on 13 April 2025. In her witness statement and oral evidence Ms Garvin stated that she and Mr Smith considered terminating the claimant’s employment at this point in time but due to staff shortages they decided to retain her, with a focus on her completing more straightforward estimates.
+
+30. We accept Ms Garvin and Mr Smith’s evidence that concerns about the claimant’s performance persisted. Mr Smith in particular was concerned about the amount of time that he was having to spend correcting errors in the claimant’s work. Emails relating to these issues are set out extensively in the bundle, one example being found at 100-105.
+
+31. On 17 May 2023 the claimant was absent from work. In her oral evidence she stated that this was due to depression. The respondent has not retained absence records for the claimant; however the claimant has provided her notes of her absences, annexed to her witness statement. These do not record that she was absent due to depression or that she informed the respondent of this. We therefore do not accept that this absence was due to depression, and if it was, in any event the respondent was never made aware that this was the case.
+
+32. On 19 June 2023 a further review meeting took place between the claimant, Mr Smith and Mr Garvin. We accept, as set out in the respondent’s witness evidence, that concerns about the claimant’s performance persisted. The concerns are set out in Ms Garvin’s follow up email of 21 June 2023 (107) i.e. that the claimant was making errors when copying previous quotes and not double checking them – there had been a few issues which had been picked up by account managers further down the line. Nevertheless, following this meeting the claimant would no longer work on easier quotes only, and was directed to ‘work the same as the other estimators and […] pick up on any quotes that are on the pending list’.
+
+33. The respondent maintains that concerns and errors persisted following this review. Again, this is evidenced by email correspondence in the bundle for example at 109-110, 117, 119-121, 124, 159.
+
+34. Ms Garvin states there was a further review meeting on 1 February 2024. We accept this is the case although there do not appear to be any minutes in the bundle. However again we can see that some concerns with the claimant’s work were ongoing e.g. 159.
+
+35. On 5 March 2024 Ms Garvin states that a review meeting took place, to discuss ongoing complaints about the claimant’s work. She had completed a training needs assessment shortly before this (162-164). The respondent has provided a print out of some of the concerns raised around this time at
+
+198. The respondent maintains that concerns were ongoing after this, for example at 165 and 174.
+
+36. On or around 23 March 2024 a meeting took place between the claimant, Catherine Hutchinson (Head of HR) and Ms Garvin. Ms Hutchinson states that she suggested more frequent review meetings but the claimant declined this offer.
+
+37. As identified in the list of issues, the claimant alleges that she made a protected disclosure ‘In March 2024 to Gary Smith, Rachel Garvin and Chris Wiley by group email that there was a malfunction of the software generating incorrect ‘time allocations’’. There is no such email in the bundle.
+
+38. In her witness statement, the claimant states: ‘The Company will not provide this email: "In March Despatch Manager Chris Whiley sent a companywide email " Can everyone look at this estimate by Fiona Green then to basically say and ask I/we as estimators to check times allowed with more scrutiny as his department had a problem with lack of time allowed on my estimate/estimates created. Gary Smith popped up on email to say, " This problem hasn't been fixed with software yet Chris".
+
+39. Ms Hutchinson, Ms Garvin and Mr Smith have all set out the efforts they have made to identify the emails alleged by the claimant to contain this, or any other, disclosure. This includes searches using various key terms and around the key dates. In oral evidence they estimated that they had spent considerable time on this exercise, in particular Ms Hutchinson. They have not been able to find any such email.
+
+40. What has been disclosed is an email chain dated 5 September 2023 which appears to deal with a similar issue (114). Chris Willey (it appears his name has been misspelt elsewhere) raised a query with the claimant about the time allocated to a particular job for ‘stripping out’ as 30 minutes had been allocated and he was currently 8 hours in to the stripping out element of the job. The claimant forwarded this on to Mr Smith, who responded that ‘Stripping is hit and miss sometimes, it’s not an exact science, hence there is a calculation that just allows 1 hour per pallet.’ In his oral evidence Mr Smith explained the business rationale for this calculation, i.e. that sometimes the ‘stripping out’ element of a job would take less than an hour and sometimes more, but that overall the business took the view that allowing an average of 1 hour per pallet worked out profitably across the business.
+
+41. In cross-examination, the claimant maintained that this was not the email chain which she was referring to.
+
+42. We are satisfied that no disclosure as alleged was made in March 2024. The claimant has been unclear about what was disclosed in that alleged email in her own evidence. On balance, we consider it is more likely that the claimant has mis-remembered the date and detail of this email chain from September 2023. The respondent’s witnesses gave clear evidence as to the searches carried out and we do not find that they are concealing any relevant evidence. The email chain of September 2023 does not disclose any information which could amount to a protected disclosure, it is a discussion regarding a business decision of the respondent to allocate a certain amount of ‘stripping out’ time when estimating the cost of a quote. It is not relating to a software issue.
+
+43. The claimant’s case is that she made a second protected disclosure ‘On or around 3 April 2024 to Gary Smith by email that the malfunction for time allocations had been used by her and others leading to incorrect estimates’.
+
+44. Again, there is no such email dated 3 April 2024.
+
+45. There are two email chains disclosed from 3 April 2024 between the claimant and Mr Smith, at 179-181.
+
+46. At 1.44pm Mr Smith raised some queries with the claimant about a quote as he was undertaking a price match check and noticed some issues. The claimant responded apologising, and identifying and correcting two errors which she had made in the quote.
+
+47. At 2.45pm Mr Smith asked the claimant to review another estimate which had been calculated by the claimant at £5,288.68 when the respondent had been asked to price match £3,500. He identified ‘a concerning amount of errors’. The claimant responds asking whether she could get back to him later that day or if he would like her to look into it immediately. In his oral evidence Mr Smith expanded that he was particularly concerned by these errors as if he had not picked up on them, the respondent would have lost this work.
+
+48. The claimant’s witness statement does not set out the content of the alleged disclosure on or around the 3 April 2024.
+
+49. On 4 April 2024 a meeting took place between the claimant, Ms Garvin and Mr Smith. Ms Garvin’s handwritten note is at 185 (the claimant provided clearer copies at the hearing). Performance issues were discussed again. There is nothing in the minutes to suggest that any disclosures were made about software issues.
+
+50. On 5 April 2024 Ms Garvin sent an email to the estimating team stating, ‘We have some bugs with the quick calculator can you please not use this until further notice’ (189). This is referred to in the claimant’s witness statement, and in oral evidence the claimant stated she relied on this email to show that ‘everyone was aware of the problems in the system’.
+
+51. In his oral evidence Mr Smith stated: ‘We designed an interface in our dashboard so we could simplify estimating – it was called a quick calculator. It was so that inexperienced estimators could use it. In the testing phase we found there to be a few bugs so we stopped using it.’
+
+52. Again, we accept the respondent’s evidence that they have provided full disclosure of relevant emails from around 3 April 2024 and that there was no disclosure by the claimant about software issues. The email correspondence which does exist from this period shows correspondence, sometimes involving the claimant, about queries regarding the correct use of various spreadsheets to generate estimates, and highlighting and correcting errors. We do not find that there was any disclosure that a malfunction in time estimates had led to the claimant and others generating incorrect estimates. We accept Mr Smith’s evidence regarding the quick calculator and we do not draw any other inferences from Ms Garvin’s email of 5 April 2024.
+
+53. The third alleged protected disclosure is said to be ‘On or around 9 April 2024 to Gary Smith and Rachel Garvin verbally in a meeting that there were further malfunctions with the software.’
+
+54. Although this protected disclosure was alleged to be verbal, we have considered documents from around this time. The only emails disclosed from 9 April 2024 appear at 192-193 and again relate to Mr Smith reviewing estimates generated by Ms Green.
+
+55. On 8 April 2024 the claimant queried the lack of an ink allowance on a particular estimate she had generated. Mr Smith responded that this was strange, but that in any event the ink default which had been used was now defunct due to ‘the Durst’ being installed (190-191). In oral evidence Mr Smith stated that the business had invested in some new machinery (‘the Durst’) and whilst it was being commissioned it wasn’t put into the estimating programme. He stated that ‘in the meantime I put a bespoke default in which forced the ink to be really low – which gave it a truer margin on our dashboard based on what we believed to be more accurate. But because the price point was low we didn’t want to distort the margin by having the incorrect ink in. On this occasion the bespoke default didn’t work. I wondered if it was following an upgrade but because by this point we had
+
+the new printers in.’
+
+56. A meeting took place between the claimant, Mr Smith and Ms Garvin on 9 April 2024. Ms Garvin’s handwritten notes are at 194 and again the claimant provided a clearer copy at the hearing. The respondent’s witnesses state, and we accept, that the meeting was to discuss ongoing concerns about the claimant’s work. The notes refer to ‘71% OTI’ which Ms Garvin explained meant that 71% of internal complaints related to the claimant’s work. In this meeting, as a result of the extensive training which had already been provided, neither Ms Garvin nor Mr Smith could propose a constructive way forward. The claimant was unable to suggest any way forward either. The conclusion of the meeting was that Mr Smith and Ms Garvin would consult with HR.
+
+57. Considering all of the documentary and witness evidence we do not find that any information was disclosed by the claimant on or around 9 April 2024 verbally to the effect that there were further malfunctions with the software. The meeting on 9 April 2024 was regarding the claimant’s performance. Email correspondence around that time related to queries about specific estimates. The issue with the default ink allocation which was raised on 8 April 2024 was not a software issue but rather part of ongoing business development.
+
+Disciplinary proceedings and dismissal
+
+58. In late April 2024 Ms Garvin contacted Ms Hutchinson (Head of HR) for advice. Ms Garvin expressed the view that Fiona had been provided significant support but was still making mistakes, and neither the claimant nor Ms Garvin and Mr Smith could identify any further training which would assist. She was of the view that she ‘wished to consider terminating Fiona’s employment’. Ms Hutchinson advised that the next step would be a disciplinary meeting. It is apparent that at this stage Ms Garvin considered that the likely outcome would be dismissal unless some alternative way forward could be identified.
+
+59. On 18 and 19 April 2024 the claimant sent some emails with queries about master spreadsheets (210-211). In oral evidence the claimant suggested for the first time that these might be protected disclosures. No application to amend the claim was made, and in any event we are satisfied that the emails are correspondence to clarify the use of the templates / spreadsheets, not potential disclosures.
+
+60. On Friday 26 April 2024 the claimant took a day’s leave, following the death of her dog. It is important to acknowledge that her dog was a support dog and was of great significance to her in providing emotional and mental health support. In her witness statement the claimant stated she spoke ‘at length’ to Rachel Garvin about this situation. Ms Garvin does not deal with this conversation in her witness statement. In oral evidence she accepted having a conversation with the claimant, and acknowledged that she knew the claimant was ‘very upset’. She agreed that she knew the claimant’s dog had died, that she didn’t know how long the claimant would need to take off, and that she told her, ‘to take as long as you need’.
+
+61. After the weekend, on Monday 29 April 2024, Ms Garvin accepted that the claimant spoke to her again to report that she was still off sick as a result of her dog dying. Ms Garvin denied that she was aware that the claimant had had a breakdown over the weekend. The claimant alleges that Ms Garvin told her that her absence was inconvenient and that she should contact reception not Ms Garvin if she needed any further time off. Ms Garvin denies this.
+
+62. The claimant was still off sick on 30 April 2024 and reported this to the respondent.
+
+63. On 1 May 2024 Ms Hutchinson sent a letter by email to the claimant inviting her to a meeting on 3 May 2024 (217). The letter is signed by Ms Garvin and makes it clear that she is ‘considering terminating your employment’, and that the meeting is being held ‘Before I make a final decision’. This meeting is now characterised by the respondent as a disciplinary meeting but that wording is not used in the letter.
+
+64. In her oral evidence Ms Hutchinson stated that at the time of sending the email on 1 May 2024 she was ‘aware [the claimant] had left work early the previous week because her dog was unwell but at the time of writing the letter on 1st May I was not aware that she was not at work.’
+
+65. On 2 May 2024 Ms Hutchinson was made aware that the claimant was off sick. At 10.30am she emailed the claimant stating: ‘I believe Rachel has sent a teams requested[sic] for the meeting tomorrow to your works email, I have just been informed you have rang in sick, are you ok to log in for the meeting?’ (218). In her statement and oral evidence Ms Hutchinson stated she was ‘half expecting’ the claimant to request a postponement but she did not expressly offer that option.
+
+66. At 17.00 on 2 May 2024 the claimant responded as follows: ‘Hiya Catherine, Thanks for your mail. Yes I have been off sick this week having experienced a breakdown last weekend which has left me feeling unwell. I will log into teams tomorrow at 2.30pm to speak with Rachel.’
+
+67. On 3 May 2024 the claimant alleges that she had a telephone conversation with Ms Hutchinson at some time before the 2.30pm meeting. Ms Hutchinson adamantly denies this. In oral evidence she stated she had checked her phone records and had no record of any telephone discussion with the claimant on this date. We accept Ms Hutchinson’s evidence on this point.
+
+68. A meeting took place via teams at 2.30pm on 3 May 2024. The claimant and Ms Garvin attended and Stephen Robinson (Head of Compliance) attended to observe and take notes. Mr Robinson’s notes of the meeting appear at 220. The claimant agrees these are ‘99%’ accurate, save that she said she queried one detail regarding a dye reference which was being discussed.
+
+69. The minutes are brief. Ms Garvin thanked the claimant for attending. She referred to the invitation from Ms Hutchinson and asked the claimant if she had any comments. The claimant stated ‘The only thing I can say is I’ve been thread through a needle, I really don’t know what’s going on. I picked the wrong die [dye] reference, How, it baffles me.’ Ms Garvin stated that at the last meeting she gave examples, it had been agreed that training was not the answer and ‘Unfortunately, the next step will be dismissal.’ She offered the claimant gardening leave, to which she responded, ‘I really don’t know, I’m mortified, I have no negatives related to Imprint, there is lots I could add, but won’t, I’d rather leave on good terms.’ Ms Garvin responded that she believed the claimant was trying her best that as further training was not the answer, ‘it would be unfair on both sides to drag this on.’ She then briefly stated that the claimant would be put on gardening leave immediately, and assured the claimant that she would supply a good reference.
+
+70. Mr Robinson stated that this meeting lasted approximately 30 minutes. Ms Garvin and the claimant both stated it was considerably shorter and given the brevity of the agreed notes we do not see how 30 minutes can be an accurate estimate.
+
+71. In oral evidence Ms Garvin stated that at the time of the meeting she was not aware of the email sent by the claimant to Ms Hutchinson on 2 May 2024. She stated, ‘I wasn’t aware you were having a nervous breakdown – if I had been aware it would have been different’.
+
+72. There are three relevant factual disputes regarding this meeting: firstly, whether the claimant logged into the meeting or was called, secondly whether she was asked whether she was happy to proceed with the meeting before it began and thirdly how she presented in that meeting.
+
+73. Regarding the first issue, we accept the evidence of Ms Garvin and Mr Robinson that the claimant logged into the Teams meeting herself rather than being called. Their evidence is consistent on this point. On the balance of probabilities we consider that had there been any question of the claimant joining the hearing, this would have been recorded on the notes given that they were aware that she was off sick at the time.
+
+74. Regarding the second issue, we do not accept that there was any exploration of the claimant’s ability to proceed with the meeting and or an offer to postpone it to another date. This is for the following reasons: Firstly, the minutes of the meeting do not record any such discussion. Secondly, although Ms Garvin was aware that the claimant was off sick due to the passing of her support dog, she was not aware of the extent of the impact of this on the claimant (i.e. that she characterised herself has having had a breakdown), because Ms Hutchinson had not passed on this information. She was also unaware of the claimant’s depression, or anxiety, as this had never been passed on to her by Catherine Hutchinson. Therefore there was no context for a significant exploration of the claimant’s ability to proceed.
+
+75. Furthermore, Ms Garvin does not state in her witness statement that she explored the claimant’s ability to proceed with the meeting. She states at paragraph 24: ‘The meeting commenced with me thanking Fiona for attending and asking if she had any comments regarding the meeting and the letter before proceeding’ although in cross-examination she asserted for the first time that ‘We did offer to rearrange.’
+
+76. It is Mr Robinson who states at his paragraph 5 that ‘Before the meeting began, Rachel offered Fiona the option to cancel the meeting to a later time, Fiona declined this offer and expressed her preference to continue and complete the meeting. Fiona used the term that she did not want the issue to ‘drag on’.’ We do not find that his recollection of this is accurate. His recollection of the length of the meeting is inconsistent with the other evidence and therefore his recollection of this detail is also called into doubt. In oral evidence Ms Green and Ms Garvin both accepted saying words to the effect of not wanting the process to ‘drag on’ during the meeting, but this was in the context of wanting to bring the issue to a close rather than in the context of any discussion about postponing the meeting itself.
+
+77. Regarding the claimant’s presentation, in her witness statement she states that she was ‘visibly distressed, shaking, twitching and crying in confusion.’ Both Ms Garvin and Mr Robinson denied that this was the case. We accept their evidence on this point. In particular we found Mr Robinson’s evidence that if this had been the case he would have terminated the meeting compelling. This was a short meeting and we are satisfied that the claimant was able to speak to Ms Garven and Mr Robinson in a manner which would not have appeared unusual.
+
+78. In her witness statement the claimant also claimed that ‘Rachel Garvin spoke in a cruel and dismissive manner, stating that the decision to dismiss me had already been made and there was no point prolonging the process.’ This was put to Ms Garvin in cross-examination who denied this was the case. She said the discussion was as set out in the minutes, in the context of the background set out above. She said she can have a direct manner on occasion but she did not intend to be cruel or dismissive. We accept her evidence on this point. The claimant’s witness statement paraphrases what was discussed in the meeting, on the basis of her later perception of the outcome.
+
+79. The claimant was dismissed by letter dated 7 May 2024 (222). This letter was signed by Ms Garvin but drafted by Ms Hutchinson. She was given 4 weeks’ notice but was not required to work this period. The effective date of termination of her employment was therefore 31 May 2024.
+
+Events post-dismissal
+
+80. On 2 June 2024 the claimant raised a complaint (241). This was treated by the respondent as a grievance. In oral evidence the claimant suggested this was an appeal against her dismissal but having read the correspondence we do not find that it is. Following some correspondence requesting further details which the claimant did not respond to, the grievance was not processed by the respondent.
+
+81. On 1 July 2024 the claimant notified ACAS of her claims.
+
+82. On 9 July 2024 the claimant visited her GP and was provided with a fit note stating she was not fit to work (275). The GP records note that her mental health was deteriorating, and her senses were heightened. On 23 July 2024 she visited a nurse practitioner for review (276). It is recorded that she had ‘Lots going on with mental health, feeling more positive but long way to go’. She had a meeting the following day ‘with MH team’. We have not been provided with a record of this meeting.
+
+83. On 12 August 2024 ACAS issued an early conciliation certificate.
+
+84. On 13 August 2024 the claimant visit her GP for review (283). She was recorded as having ‘increased anxiety’ and that her mediation was making her feel ‘over stimulated’. She was keen for an ADHD assessment. The late evidence submitted by the claimant confirms that this was pursued and it is not disputed that she later received a diagnosis of ADHD.
+
+85. The claimant visited her GP on 4 September 2024 (282). Her mood was characterised as ‘flatter’ which the claimant states and we accept meant ‘depressed’.
+
+86. 13 September 2024 would be the applicable primary time limit for submitting a claim if time is to run from 3 May 2024 in relation to the whistleblowing detriment claim (see further below). It is also the relevant time limit for the claim of failure to make reasonable adjustments, which relates to the holding of the meeting on 3 May 2024. The claimant states she did not submit her claim at this point in time primarily because she was too unwell.
+
+87. It was put to her that during this period her mental health was improving and she would have been able to submit the claim before 13 September 2024. She vehemently disagreed with this and stated that throughout this period she was suffering significantly with her mental health as a result of a breakdown. She stated she was not eating properly, showering or cleaning her teeth regularly. There would be periods of a few days when she didn’t get dressed. She was not sleeping properly.
+
+88. On 8 October 2024 the claimant again visited the Nurse Practitioner who recorded that the claimant’s mental health was improving. The notes recorded that she was seeing a coach for support back to work which was really helpful. She was ‘better at home doing jobs, looking after self better’ and she presented as ‘calmer’.
+
+89. The claim was presented on 9 October 2024. There is no dispute that this is within time for the whistleblowing claims, if the relevant date is the effective date of termination.
+
+Relevant law
+
+90. Section 43A of the Employment Rights Act 1996 (ERA 1996) defines a protected disclosure as a qualifying disclosure (as defined by section 43B) made by a worker in accordance with any of sections 43C to 43H. This includes a qualifying disclosure made to the worker’s employer.
+
+91. Section 43B ERA 1996 defines a qualifying disclosure as ‘any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest’ and which tends to show one or more of the specified situations. The claimant relies on subsection (1)(b) – failure to comply with a legal obligation.
+
+92. Section 47B provides that a worker has the right not to be subject to any detriment by his employer on the ground that the worker has made a protected disclosure. Section 48 ERA 1996 establishes the right to bring a claim in the Employment Tribunal of detriment pursuant to section 47B. Section 48(3) states that an employment tribunal ‘shall not consider a complaint under this section unless it is presented (a) before the end of the period of three months beginning with the date of the act or failure to act to which the complaint relates or, where that act or failure is part of a series of similar acts or failures, the last of them, or (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.’ Subsection (4) provides that ‘where an act extends over a period, the ‘date of the act’ means the last day of that period’.
+
+93. Section 103A ERA 1996 provides that ‘An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee made a protected disclosure’.
+
+94. Sections 20, 21 and 39 and Equality Act 2010 (EqA 2010) provide that an employer is required ‘where a provision, criterion or practice of [the employer]'s puts a disabled person at a substantial disadvantage in relation to a relevant matter in comparison with persons who are not disabled, to take such steps as it is reasonable to have to take to avoid the disadvantage’ and that an employer discriminates against a disabled person if they fail to comply with the duty to make reasonable adjustments in relation to that person.
+
+95. Schedule 8 paragraph 20 EqA 2010 provides that an employer is not subject to a duty to make reasonable adjustments if it does not know, and could not reasonably be expected to know that the employee has a disability and is likely to be placed at the relevant disadvantage.
+
+96. The Employment Tribunal has jurisdiction to hear a complaint of workplace discrimination by virtue of s.120 EqA 2010. The time limits are set out in s.123 EqA 2010. A complaint may not be brought after: ‘(a) the period of 3 months starting with the date of the act to which the complaint relates, or (b)such other period as the employment tribunal thinks just and equitable.’
+
+97. In Rice v Wicked Vision [2025] EWCA Civ 1466 the Court of Appeal held that despite disagreeing with the reasoning behind the earlier decision of Osipov, it was bound by that authority to accept that an employee could bring a claim for both protected disclosure detriment and dismissal in relation to his employer’s decision to dismiss him. The respondent does not dispute that this authority is binding and that therefore the Tribunal has jurisdiction to consider the claimant’s claims that her dismissal was both automatically unfair pursuant to s.103A ERA 1996 and a detriment pursuant to s.47B ERA 1996. This also has potential relevance to the issue of time limits (see further below).
+
+98. In relation to time limits the respondent relies on the case of McKinney v Newham London Borough Council (UKEAT/501/13). In that case the Employment Appeal Tribunal (EAT) considered when time began to run for the purposes of a protected disclosure detriment claim. Having considered the relevant line of authorities, Judge Peter Clark concluded that in a whistleblowing detriment case, in contrast to an unfair dismissal case, time began to run from the date of the detriment, whether or not the claimant was aware of it. In that case, the effect was that the detriment took place on 8 October 2010 with the respondent’s decision not to uphold his grievance, rather than on 14 October 2010 when he learnt of that decision. Mr Kerfoot accepted that the ratio of the decision does not go so far as to state that where the detriment relied on is dismissal the relevant date is the decision rather than the effective date of termination. However, by analogy, he submits, in relation to the detriment claim, time began to run from the respondent’s decision to dismiss which was taken on 3 May 2024, rather than the effective date of termination. and therefore the claim is out of time.
+
+99. The respondent submits that a time limit issue also arises in relation to the failure to make reasonable adjustments, as this relates to the decision not to postpone the meeting on 3 May 2024.
+
+100. In Arthur v London Eastern Railway Ltd (t/a One Stansted Express) [2007] ICR 193, CA, Mummery LJ held that when determining a number of acts of detriment form a ‘series of similar acts’ within the meaning of s.48(3)(a) the Tribunal should consider whether they form part of a ‘series’ and are ‘similar’ to one another. In considering whether they amount to an act extending over a period within the scope of section 48(4)(a), the Tribunal should consider whether ‘there may be some link between them which makes it just and reasonable for them to be treated as in time and for the complainant to be able to rely on them’.
+
+101. In DWP v Hall (EAT 0012/05) the EAT upheld the first instance decision that the DWP had constructive knowledge of an employee’s psychiatric condition based on her refusal to answer questions about ill health and disability before starting her work, and her unusual behaviour once she started work, together with a claim for disabled person’s tax credit. The EAT emphasised that the question of knowledge of disability is a question of fact for the Tribunal which must be supported by evidence.
+
+102. The Equality and Human Rights Commission’s statutory code of Practice on Employment states that employers must ‘do all they can reasonably be expected to do’ to find out whether an employee has a disability. This reflects the line of authority including Peregrine (deceased)
+
+v. Amazon.co.uk Ltd EAT 0075/13 to the effect that the Tribunal must consider on the facts of each case the extent to which an employer has a duty to take proactive steps to establish whether an employee is disabled.
+
+103. The authorities are clear that in order for the duty to make reasonable adjustments to come into play, the employer must have knowledge of both disability and disadvantage (see e.g. Wilcox v Brimingham CAB Services Ltd EAT 0293/10).
+
+104. The question of the reasonableness of adjustments is an objective one, and is ultimately a question for the Tribunal. The focus should be on whether the adjustment itself is reasonable, rather than the process for identifying any adjustments (see e.g. Smith v Churchills Stairlifts plc 2006 ICR 524, CA Birmingham City Council v Lawrence EAT 0182/16, Royal Bank of Scotland v Ashton 2011 ICR 632, EAT).
+
+105. The issue of a just and equitable extension of time is a discretionary one and there is no presumption in favour or against extending time. The Tribunal must consider the respective prejudice to the parties in extending time or not, and not solely focus on the reasons for the claimant’s delay (Pathan v South London Islamic Centre EAT 0312/13)
+
+Conclusions
+
+106. Turning to each of the issues which we have to determine:
+
+A. Time Limits
+(i) Automatic unfair dismissal
+
+107. It is not disputed that this claim is brought in time.
+
+(ii) Protected disclosure detriment
+
+108. There are two detriments relied on: (i) subjecting the claimant to performance / disciplinary proceedings; and (ii) dismissal.
+
+109. While the respondent’s argument that the Osipov / Rice v Wicked Vision claim of dismissal as a detriment is out of time is superficially attractive, we are not persuaded by it. The McKinney case is not entirely on all fours with this scenario and does not deal with an Osipov / Rice v Wicked Vision type case where it is argued that the dismissal itself is the detriment. Rather, it is clear from Rice v Wicked Vision that it is open to a claimant to argue that the dismissal in and of itself is both a dismissal and a detriment. It therefore would be illogical for the detriment (which is the dismissal) to have taken place on a different date from the dismissal.
+
+110. Therefore we are satisfied and find that the claim that the dismissal was also a detriment is brought in time.
+
+111. We then considered whether the claim in relation to the performance / disciplinary proceedings was brought in time. Applying the authorities referred to above, there is a clear link between the disciplinary meeting on 3 May 2024 and the claimant’s dismissal on 31 May 2024. Given that the dismissal as a detriment is in time, the proceedings themselves form part of the same course of conduct and therefore we consider that it is an act extending over a period for the purposes of section 48(4). In the alternative they are a series of acts for the purposes of section 48(3).
+
+112. Therefore the claim for protected disclosure detriment was also presented in time.
+
+(iii) Failure to make reasonable adjustments.
+
+113. The failure to make an adjustment occurred on 3 May 2024 when the meeting was held with the claimant whilst she was on sick leave. The claim was presented more than three months (plus early conciliation extension) after this. We therefore must consider whether it would be just and equitable to extend time.
+
+114. We are satisfied that it is so just and equitable. The claimant’s medical records support that she was suffering with a mental health crisis between July and October 2024. Her oral evidence was compelling about the impact this had on her, and this must be considered in the context that she was at the time in fact disabled as a result of depression. On 8 October 2024 she visited her nurse practitioner and was showing improvements. The very next day she presented her claim to the Employment Tribunal, evidencing that once she felt well enough, she acted promptly. We also take into account that the focus of her claim related to the process which culminated in her dismissal, the claim for which is in time, and that the respondent themselves did not identify a potential time limit point until a matter of days before the final hearing. The prejudice to the respondent in admitting the claim is therefore minimal – they have prepared to deal with the allegations, including evidence which would be relevant to the in time unfair dismissal claim in any event. In all those circumstances, we are satisfied that it is just and equitable to admit the claim.
+
+B. Did the claimant make protected disclosures?
+
+115. It will be apparent from our findings of fact above that we do not find that the claimant made any qualifying disclosures as defined in section 43B of the Employment Rights Act 1996. There was no disclosure of information as alleged on or around the dates alleged, about malfunctions in software in the manner described in the claimant’s claim.
+
+116. It therefore follows that the claims for protected disclosure detriment and automatic unfair dismissal fail and are dismissed.
+
+117. We add that we are entirely satisfied, having considered all of the documentary and witness evidence, that the reason for the claimant’s dismissal was concerns regarding her performance. This is relevant to our decision because had we been concerned that the dismissal was not for this reason, we would have needed to consider whether we ought to infer that there was an alternative motive. We are satisfied that the evidence fully supports that the reason for the dismissal was that Rachel Garvin and Gary Smith were concerned about the claimant’s performance despite repeated and extended training, and could not think of any further ways to improve her work performance.
+
+B: Failure to make reasonable adjustments
+
+(i) Knowledge of disability
+
+118. We are satisfied that the respondent should have known from the commencement of the claimant’s employment that she was disabled as a result of depression. We have found that she did tell Catherine Hutchinson during her induction that she suffered with depression, in the context of a discussion about mental health issues. We have considered the authorities and guidance set out above and we are satisfied that this conversation combined with the information on her health and safety form about the medication she was taking and that she suffered with anxiety should have put the respondent on notice of the need to make further enquiries about the extent of the impact of the claimant’s depression on her day to day life. Had the respondent made these enquiries, they would have been aware that she met the criteria in section 6 Equality Act 2010.
+
+(ii) PCP: holding disciplinary / performance hearings whilst employees were off sick from work
+
+119. While the respondent accepts that in this case it did hold a disciplinary hearing whilst the claimant was off sick from work, it is denied that this was a provision, criterion or practice.
+
+120. There is no evidence that this is a written policy of the respondent’s. There is also no evidence that it happened on other occasions or that the respondent actively sought to hold this meeting whilst the claimant was off sick. However, we infer from the fact that the respondent held the disciplinary meeting when the claimant had been off work for a matter of only days, without explicitly offering to reschedule the meeting, that there was a practice of holding disciplinary or performance meetings when an employee was absent from work due to sickness, unless there was an explicit request for it to be postponed.
+
+(iii) Did the PCP put the claimant at a substantial disadvantage?
+
+121. We accept that the PCP did put the claimant at the substantial disadvantage set out in the list of issues to this extent: we accept that she was unable to properly prepare for and represent herself at the hearing on 3 May 2024 due to difficulty in thinking clearly, causing her distress. We accept in the context of the claimant’s disability and the medical evidence that on 3 May 2024 she was in the immediate aftermath of a significant mental health crisis and was undergoing distress. This would have been exacerbated by the meeting, which was clearly set out to be regarding her likely dismissal.
+
+122. However, we do not find, as claimed, that this put her at a greater risk of dismissal. In reality, the decision to dismiss the claimant had already been made before the meeting on 3 May 2024 and unless the claimant had been able to identify any specific further training to improve her performance, she was always going to be dismissed at that meeting. She had been unable to identify any such training at any of the repeated meetings before that point and therefore we are satisfied that even if she had not been suffering a mental health crisis she would not have been able to identify any at that meeting. There was nothing she could have said in that meeting which would have made a difference. Again, we make clear that we are satisfied that the reason for dismissal was the claimant’s capability and therefore the decision to dismiss itself was not discriminatory.
+
+(iv) Did the respondent know or could it reasonably have been expected to know that the claimant was likely to be placed at the disadvantage?
+
+123. As of 2 May 2024 the respondent could reasonably have been expected to know that the claimant was likely to be placed at that disadvantage. At that point in time Catherine Hutchinson should have known of the claimant’s disability due to depression and she did know that she had suffered a breakdown. She should have known, being in possession of both of those pieces of information, that the claimant was likely to be in difficulty thinking clearly and presenting her case at that meeting, and that this would cause her distress, putting her at a significant disadvantage. She did not pass that information on to Rachel Garvin. As Ms Garvin said in her oral evidence, things might have been different had she been aware of that information.
+
+(v) What reasonable steps could have been taken to avoid the disadvantage, was it reasonable for the respondent to have to take those steps and when, and did they fail to take those steps?
+
+124. The claimant suggests that the respondent should have rearranged the meeting to when she was signed back to work and thus fit to attend.
+
+125. We agree that it would have been reasonable to rearrange the meeting to a later date, and that the respondent should have taken that step. However, it would only be reasonable to postpone the meeting for a limited period of time, not indefinitely. Because the claimant was placed on gardening leave and then dismissed, we do not have clear evidence as to when she might have been signed back to work and been fit to attend a meeting. She was signed off as not fit to work by her GP in July 2024, following her dismissal. Furthermore, she might have been fit to attend a meeting during a period when she was not signed back to work – she may have been well enough to attend the meeting but not well enough to undertake her day to day job.
+
+126. We have not heard evidence or submissions as to what such a further reasonable period would be and this will need to be dealt with at the remedy hearing. However, we are clear that this is not an indefinite period and we would expect this to be a relatively limited period of time.
+
+Remedy
+
+127. The claimant’s remedy will therefore be limited to: (a) injury to feelings arising from the failure to postpone the meeting of 3 May 2024; and (b) loss of earnings for a limited reasonable period to delay the meeting.
+
+Further directions
+
+128. We have therefore made directions in preparation for a remedy hearing, as set out in a separate case management order.

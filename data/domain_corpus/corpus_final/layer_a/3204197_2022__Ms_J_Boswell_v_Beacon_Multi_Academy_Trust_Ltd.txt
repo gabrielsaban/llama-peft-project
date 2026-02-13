@@ -1,0 +1,488 @@
+JUDGMENT
+
+1. The Claimant’s complaints of unfair dismissal contrary to section 94 Employment Rights Act 1996 and disability discrimination contrary to sections 15, 19, 20-21 Equality Act 2010 (disability-related, indirect and failure to comply with a duty to make reasonable adjustments are well founded and succeed.
+
+2. The Claimant’s complaint of disability-related harassment is not well founded and is dismissed.
+
+WRITTEN REASONS
+
+Introduction
+
+1. The Claimant complains of:
+
+a. Unfair dismissal (s.94 Employment Rights Act 1996).
+b. Disability discrimination contrary to sections 15 (disability-related), 19 (indirect) and 20-21 Equality Act 2010 (failure to comply with a duty to make reasonable adjustments);
+c. Harassment (disability) contrary to section 26 Equality Act 2010.
+
+2. The Tribunal heard evidence from:
+
+a. Venda Premkumar;
+b. Joanna Boswell, the Claimant;
+c. Yvonne Andress;
+d. Phil Bray;
+e. Stephen Smith;
+f. Julie Donnelly;
+g. Grove du Toit.
+
+3. Additionally, the parties did not call but asked the Tribunal to read and attach such weight as it considered appropriate to the statements of Bejal Shah (for the Claimant) and Fazal Choksi (for the Respondent). Limited weight was attached to each.
+
+4. The Tribunal received an agreed hearing bundle running to almost 950 pages and read documents referred to in the witness statements, chronology and in cross- examination or questions / answers during the proceedings.
+
+5. The Tribunal also received an agreed cast list, chronology and finalised list of issues (appended) at the start of the hearing the issues having helpfully been pared down and focussed. The Tribunal was greatly assisted by the approach taken by the legal representatives and counsel during the hearing which was consistent with the overriding objective. Counsel for each party conducted the hearing in an exemplary manner to ensure it was heard and concluded in time whilst dealing with the issues in question proportionately.
+
+6. The disabilities relied on by the Claimant and conceded by the Respondent at the outset of the hearing were:
+
+a. Thyroid cancer;
+b. Hypocalcaemia
+
+7. Anxiety was said to be a symptom of these condition and not relied on as a freestanding impairment.
+
+8. During the course of the hearing the Respondent made further disclosure of highly relevant documents which were given to the Tribunal by the parties and were also read by us. They were its Equality and Diversity Policy and associated access policy which was not relevant to the case but quite properly disclosed as well, and notes of deliberations for the stage 1 appeal and stage 3 appeal.
+
+FINDINGS OF FACT
+
+9. The Tribunal resolved disputed factual matters on a balance of probabilities and made the following findings of fact.
+
+10. The Respondent is a private company limited by guarantee without share capital which operates a number of secondary educational establishments including the Beal High School in Ilford, Essex.
+
+11. The Claimant was a Teaching Assistant at Beal High School, from 1 July 2015 to 8 March 2022 which was the effective date of termination of her employment by the Respondent. The Claimant’s contract appeared at p.74 to 80 of the agreed hearing bundle.
+
+12. The Claimant has a degree in Education and Social Sciences and was motivated to work with children with Special Educational Needs and Disabilities (SEND). The Claimant started working on a supply basis for the Respondent at its Beal High School in 2014 on a temporary contract undertaking various administrative duties but it was not until 1 July 2015 that she took up a permanent position in employment as a Teaching Assistant.
+
+13. During her time as a Teaching Assistant, the Respondent accepts that the Claimant performed her role well and there were no concerns whatsoever about her capability in terms of performance. The Respondent also accepted that she was an honest person whose integrity was not at any time in doubt.
+
+14. As a Teaching Assistant the Claimant worked exclusively with SEND pupils on both a one-to-one basis and in small groups, in order to assist them in achieving their potential and supporting them in integrating into the school environment as set out in paragraph 9 of her statement.
+
+15. The Claimant has a complex medical history and we accepted her evidence as to her medical conditions and the symptoms she has. We summarise it here but have had regard to all of the medical evidence before us which was largely unchallenged.
+
+16. In April 2013, at the age of 29, the Claimant was diagnosed with Thyroid Cancer when a tumour (or teratoma) was found in one of her ovaries. Further to this she had multiple surgeries including one to remove the tumour and then surgery in July 2013 which was a total thyroidectomy. As a result of the removal of her thyroid gland, she is required to take levothyroxine on a daily basis for the rest of her life. There were complications during the operation to remove her thyroid gland, which meant that a large percentage of her parathyroid gland had to be removed as well, which gave rise to a condition called hypoparathyroidism and in turn hypocalcaemia (low levels of calcium in her blood). The Claimant therefore also needs to take medication to address this for the rest of her life and requires monitoring to adjust the dosage if needed depending on her thyroid and calcium levels as determined by blood tests from time to time. In turn, as set out in her unchallenged evidence in her Disability Impact Statement, the Claimant encountered a number of varied symptoms of these conditions as set out in paragraphs 8 and 20 in particular. We also accepted the Claimant’s evidence that stress (for whatever reason) causing her anxiety sometimes had an impact on her wellbeing and in particular her medical conditions which were of themselves interlinked could be exacerbated in terms of adverse symptoms.
+
+17. On 30 October 2021 the Claimant had an expedited tonsillectomy on medical advice due to her history of cancer. Following this operation her parathyroid glands (which had previously been partially removed when she had a thyroidectomy) ceased to function on a permanent basis. This impacted on her calcium levels which together with the Claimant’s thyroid hormone replacement require lifetime treatment and monitoring. While the Claimant relies on hypocalcaemia as a separate disability, in fact it is linked to the thyroidectomy and in turn partial parathyroidectomy which she had because of her thyroid cancer.
+
+18. In terms of the Respondent’s knowledge of the Claimant’s thyroid cancer which it accepts is a disability within the meaning of the Equality Act (s.6) its position is that it only had actual or constructive knowledge of this on 19 July 2017 when the Claimant attended a meeting. However, it is germane to note that on 24 September 2015, further to a pre-employment screening questionnaire before commencing employment, the Respondent had been advised by its Occupational Health service that the Claimant was likely to be disabled within the meaning of the Equality Act 2010, though this letter did not refer to any particular medical condition and stated that no adjustments were required.
+
+19. The Tribunal finds that the Respondent had actual or constructive knowledge of the Claimant’s cancer from 8 January 2016 when she required time off work to attend an oncology appointment and provided written evidence of the appointment in question and discussed her health with management. This was not challenged by the Respondent and we accept the Claimant’s evidence on this.
+
+20. On 19 September 2019, the Claimant had to undergo an emergency bowel operation which necessitated 8 to 9 days in hospital followed by a substantial period of certified sickness absence whilst she recovered. She was off work from 29 September 2019 to 3 January 2020 (excluding the school holidays when she would not have been working in any event). On 6 January 2020, the Claimant had a return to work meeting with her line manager, Ms Julia Morgan, and explained the full medical circumstances leading to that absence. At this stage, she also disclosed she was experiencing panic attacks.
+
+21. Later in January 2020, the Claimant attended a meeting with Ms Yvonne Andress (Co-Head of Beal High School) and Ms Morgan at which she again gave a full account of her medical history referring to her cancer, bowel complications, hypocalcaemia and anxiety. Ms Andress offered to put her in touch with another person at the school who had cancer.
+
+22. On 16 November 2020, the Claimant commenced a first period of maternity leave having given birth to her son on 26 November 2020. This was, as she describes in her witness statement, ‘a beautiful surprise’ as she had not expected to be able to become a mother. The birth was challenging due to her prior medical history however, in the event, but for subsequent medical issues arising, her stated intention as set out in an email of 2 October 2021 to the Respondent, was to return to work as a Teaching Assistant on 16 November 2021 after her year of maternity leave. The Claimant declined paid ‘Keep in Touch’ or KIT days because she said she was trying to resolve childcare at that time. There was, as the Respondent accepts, no obligation to attend KIT days. The Respondent had no difficulty in arranging for cover for the Claimant’s maternity leave using a fixed term contract to engage a worker or employee until May 2021 and absorbing some of the Claimant’s duties within the existing workforce.
+
+23. On 14 April 2021, the Claimant made a flexible working request in which she asked to vary her contract from 5 full working days a week to 3. She said this was because of financial considerations associated with childcare costs (with full time costs being around £1000 a month). On 13 July 2021, the Claimant was verbally informed that her request had been rejected and this was followed up by a formal rejection letter on 21 July 2021. On 20 July 2021, having found out that another employee who had also had a flexible working request turned down, would be willing to job share with her i.e. they would both do 2.5 days each making up the equivalent of 1 full-time Teaching Assistant, the Claimant proposed this as a potential solution. This too was rejected, as was her appeal on 21 September 2021.
+
+24. While the Respondent denied that the Claimant’s flexible working request was a factor in its subsequent handling of the matters which form the substance of the claims we have to determine, much was made of this in cross-examination of the Claimant and a disproportionate number of references were made by the Respondent to her absence on maternity leave and the flexible working request in respect of hearings relating to unconnected sickness absence which we will go on to address. We are mindful that there are no legal complaints relating to these particular issues. Given that the Respondent’s witnesses fully accepted that the Claimant was genuinely ill at the times in question, and that she was honest in her dealings with them, and there was no reason to question her integrity, we do not consider it necessary to even consider making any finding that the Claimant was not seeking to return to her job or acting disingenuously in relation to her sickness absence.
+
+25. Turning now to the sequence of events that lead to the index period of sickness absence leading to the Claimant’s eventual dismissal, the Claimant was advised on 20 July 2021 to have a total tonsillectomy as a preventative measure in view of her history of cancer. Thus we find that the tonsillectomy was linked to her thyroid cancer. It was described by an Occupational Health Consultant engaged by the Respondent as we will address in due course as a “dangerous operation” for any adult. In the Claimant’s case the operation took place on 30 October 2021 on an expedited basis on medical advice. Despite being discharged from hospital the same day, she had to return in the early hours of 31 October 2021 suffering from a hypocalcaemia seizure. She was given calcium replacement therapy, but on 3 November 2021 she had to call an ambulance and go back to hospital this time with dehydration and hypoglycaemia. She had anticipated a more straightforward and timely recovery from the tonsillectomy but in the event she was medically certified as unfit to work for two weeks on 11 November 2021 at which time she was experiencing pain in her throat, unable to eat, feeling exhausted and shaky, having palpitations and experiencing vomiting and diarrhoea.
+
+26. The Claimant sent this certificate to the designated shared HR email mailbox from her personal email account and an HR Administrator on 12 November 2021 asking for confirmation of safe receipt. In the covering email she said she was recovering from an emergency operation. She did likewise with subsequent medical certificates each of which HR personnel employed by the Respondent received. In particular, we find that an employee called Ms Saharish Saeed was receiving these certificates and the covering emails.
+
+27. The Claimant was signed off for two weeks (11 November to 29 November 2021), by reason of post-operative recovery, then for a further two weeks (29 November 2021 to 12 December 2021) again for post-operative recovery, then for a further two weeks (13 December to 3 January 2022) for delayed post-operative recovery, for a month (3 January to 31 January 2022) for delayed post-operative recovery, for a month (28 January to 28 February 2022) for delayed post-operative recovery, hypocalcaemia on treatment and work-related stress and anxiety. It is common ground that the Claimant did not have any gaps in certification and remained certified as unfit to work until her dismissal. The Respondent confirmed that the Claimant would not be able to return to work until she was certified fit to do so or on undertaking a risk assessment, due in part to the implications of an unfit employee attending the workplace for insurance purposes.
+
+28. Surprisingly, the Claimant’s ongoing absence did not prompt any welfare checks or pastoral support from her employer despite being aware, at the very least, that she was recovering from an emergency operation. There was no evidence that HR or line management made any attempt to discover what the operation was for or to proactively ascertain if there was any support they could offer to her. The Tribunal considers that this would be an obvious enquiry to make of an employee in such circumstances.
+
+29. The Claimant had experienced difficulties in accessing and using her work email account during her maternity leave which may be linked to a setting that means an email account that is not used for thirty days is deactivated. In any event, she sought assistance in creating a new account, which appears to have been resolved sometime in August 2021 albeit deleting her old emails. However, she was not checking her work email whilst off work on maternity leave and was using a personal email address to communicate with the school which HR was well aware of.
+
+30. Additionally it appears that her line manager, Ms Morgan, had communicated with the Claimant by WhatsApp message on 21 July 2021 and 18 October 2021 thus it seems that the Claimant and her line manager had each other’s mobile numbers and this additional channel of communication open to them. The Tribunal did not have any explanation as to why the Claimant and Ms Morgan did not engage with each other through WhatsApp any further. It is not clear to us why.
+
+31. On 14 December 2021, Ms Andress sent an email to Ms Morgan and Ms Clifton- Jones and two other individuals about whom we heard nothing in these proceedings (and who do not feature in the agreed cast list) asking them to complete an exploratory meeting via Teams with the Claimant before the end of the term and to return the associated paperwork to HR. This was just before a potentially applicable trigger under the sickness absence policy to which we refer in due course (being less than four weeks of continuous absence on the part of the Claimant).
+
+32. At this point in time we turn to the Respondent’s sickness absence policy and procedure dated May 2021 at p.82 to 97. The central aims of the policy are explicitly stated to be: To ensure that sickness absence is managed in a supportive and effective way that strikes a fair balance between the interests or needs of staff when they are off sick, and the needs of BMAT as an organisation providing education.
+
+33. The policy sets out that it is the responsibility of all employees to maintain regular attendance and ensuring that any periods of absence, however short, are communicated, recorded and managed in accordance with the policy (paragraph 7(a)). Pausing there, what the policy required the Claimant to do in terms of reporting is to be found at pages 84 to 85 under the headings ‘Notifying Sickness’ and ‘Recording Sickness Absence’. We find that it would have been helpful for the Claimant to have contacted her manager to explain why she was off work and the circumstances of her operation, but she was not strictly obliged to divulge this information and we bear in mind that she had been away from work for a year.
+
+34. Paragraph 25 of the Sickness Absence Policy sets out indicative triggers for holding an exploratory interview with an employee who is off work. The Respondent relied on (d) i.e. four weeks of continuous absence as more particularly set out therein.
+
+35. The first attempt by the Claimant’s line manager to contact her was, surprisingly, not until 13 December 2021 (just a few days before she was due to go on holiday and the term came to an end) when she attempted calling the Claimant’s mobile telephone and left a message. She attempted this again on 14 December 2021. The Claimant did not pick up or return the call. At about 09.30, on 16 December 2021, Ms Morgan attempted an ad hoc Teams call with the Claimant using her work email. We accept that Teams was not widely used before the Covid pandemic and from 16 November 2020 the Claimant had been on maternity leave. The Claimant again, unsurprisingly, having had no warning of this, did not answer the Teams call.
+
+36. On 16 December 2021, Ms Morgan sent an email to the Claimant using her school email address in which she explained that she had tried to call her a couple of times and sent a Teams call invite that morning and had not heard back. She suggested that it would be “good to catch up” that day if possible which was her last working day before the holidays otherwise at a mutually convenient time in the New Year i.e. when the new term began. Clearly in Ms Morgan’s view it was for her to ascertain all the necessary information by way of the required exploratory meeting into her sickness absence. This was the day when the trigger set out in paragraph 25(d) was potentially operative given that under paragraph 8 of the same policy it is stated that where sickness absence may relate to disability line managers should consider seeking advice from HR and Occupational Health. We had no evidence that this was done and indeed the email from Ms Morgan to the Claimant’s work email on 16 December 2021 marked her very last involvement in this matter which we found to be contrary to the whole spirit and purpose of the sickness absence policy itself as it gives the line manager an important role in managing absences.
+
+37. We received no explanation from the Respondent as to why this matter was at this stage, or at all, taken out of the hands of line management. Ms Morgan knew the Claimant and had the matter proceeded as she envisaged with an exploratory interview in the New Year, then the form at Appendix B could have been completed (pages 94-95) with a number of the categories for reason for absence being potentially applicable here i.e., disability related, cancer related and post operative recovery of which the Respondent was certainly on notice as this was on her medical certificates.
+
+38. The policy at paragraph 26 sets out how an exploratory interview should be conducted which includes filling out Appendix B and asking the employee whether there are any mitigating circumstances such as personal or work-related problems, any underlying medical condition and what support, if any, might assist. The policy also envisages that an OH report can be commissioned further to a medical examination as set out in paragraph 27. Paragraph 27(d) at page 86 expressly provides discretion to the Respondent to adjust course for a disabled employee.
+
+39. Further, the Respondent’s own Equality and Diversity Policy which was only disclosed during the hearing itself upon the Tribunal’s own inquiries, provides that disability discrimination may occur where a disabled employee’s sickness absence which is linked to their disability is inappropriately taken into account. The Respondent appears to have had little if any regard to its Equality and Diversity Policy throughout the period of time in which the material events in this case occurred up to and including the Claimant’s dismissal and hearing of her appeal against dismissal. We did not receive or hear of any policy directed at disabled employees more specifically.
+
+40. On 17 December 2021, Ms Saeed appears to have forwarded to her personal work email address the email at the bottom of the page 233 from Ms Morgan to the Claimant which had been copied to the shared HR Mailbox. For whatever reason she did not forward it to the Claimant using the email address through which she had been corresponding. Instead on 17 December (page 234), Ms Saeed sent the Claimant a letter inviting her to a formal Stage 1 Absence Meeting on 12 January 2022 as per the letter at page 235. This was sent to her work email address and also in the post but the Claimant never received it. It was stated that Ms Andress would chair the hearing assisted by a member of HR as a notetaker.
+
+41. The Claimant’s evidence is that she was oblivious to there being any concern about her sickness absence given that HR had said nothing to her, until 7 January 2022 when Ms Saeed emailed her using her work and personal email addresses asking for her consent to an OH referral and asking her to confirm her attendance at the Stage 1 meeting by 10 January 2022. On 10 January 2022 the Claimant responded to Ms Saeed saying she had never received an invitation in December about a hearing. Thereafter the next day i.e. 11 January Ms Saeed emailed the Claimant using both email addresses attaching a Stage 1 Absence Letter this time for a hearing scheduled for 19 January 2022 (page 246). The Claimant did receive this and took steps to contact her trade union and organised for Branch Secretary, Ms Venda Premkumar, to attend the hearing with her, confirming she would attend by an email dated 17 January 2022. On 18 January 2022 the Claimant informed Ms Saeed that she would attend in person with her trade union representative but later that day asked for the meeting to be held remotely.
+
+42. On 19 January 2022, the Claimant contacted her representative to say she was too unwell to attend. Ms Premkumar attended the meeting via Teams at which Ms Andress and Ms Saeed were present. She explained at the beginning of the meeting that the Claimant was very anxious and having a panic attack and sent an email which she had been intending to send earlier explaining that the Claimant was not well enough to attend. She asked for a postponement but the meeting proceeded and Ms Premkumar rightly in our view stayed and sought to convey what she understood of the situation and to engage with management. We should add that this meeting took place in circumstances in which Ms Andress did not really know who the Claimant was and having taken an undocumented decision with her Co-Head, Mr. Phil Bray and the CEO of the Respondent, Ms Kathryn Burns, to take the matter out of line management hands, and escalate straight to stage 1 of the formal procedure. This was not what Ms Andress had said in her witness statement in paragraph 11 when she suggested the decision was hers alone. Mr. Bray did know who the Claimant was having rejected her application to work flexibly. Ms Burns did not know the Claimant and did not meet her even once before she was dismissed.
+
+43. Shortly after the meeting on 19 January 2022 concluded, Ms Premkumar forwarded an email to Ms Saeed in which the Claimant set out her details of her health issues, medication and willingness to go Occupational Health: p.253. [CITE]
+
+44. On 20 January 2022, in a letter signed by Ms Saeed, but clearly in light of a decision taken by Ms Andress together with Mr Bray and Ms Burns, the Respondent issued the Claimant with a formal written warning (page 262). The letter did not contain any meaningful reasoning for that decision and would have given the Claimant very little understanding of how to appeal it, but that is nevertheless the route she took on the basis that she felt it was a very harsh and heavy handed decision in the circumstances. There are no notes which the Respondent has disclosed of any of the meetings between Ms Andress, Mr. Bray and Ms Burns on the subject of managing the Claimant’s sickness absence which coupled with the paucity of reasoning in the correspondence is poor practice for any organisation. However, this meant that instead of focussing solely on recovering, the Claimant’s attention was necessarily diverted at least in part in appealing the warning which she felt was unfair.
+
+45. Just over a week later the Claimant’s medical certificate now introduced “work related stress and anxiety” as further reason for her unfitness to work. We find that the reason for this was the instigation of the Stage 1 formal process and issuing of a formal written warning which had made the Claimant very anxious indeed.
+
+46. The Tribunal also finds on a balance of probabilities that this would have had the effect of adversely affecting the Claimant’s recovery at this time given the evidence we have accepted about the link between her conditions and symptoms and stress. Indeed she stated in terms in her appeal form (page 272) that the management or lack thereof of her sickness absence had been neither supportive nor effective and the mismanagement of the process had exacerbated her condition. She said that due to the stress of receiving an invitation to a formal hearing when there had been no previous (effective) contact regarding her ill health her health had deteriorated. She said she found the process unsupportive, hasty and punitive.
+
+47. The Claimant’s appeal against her warning was heard on 9 February 2022 by Mr. Grove du Toit, Chair of the Governors, Mr. Stephen Smith and Mr. Fazal Choksi, two other school governors. It was only after the close of all of the evidence in this case in the afternoon on 25 November 2025 that the Tribunal received notes of the deliberations held after the hearing which had not been disclosed to the Claimant until that point either.
+
+48. The appeal hearing focussed on the perceived lack of communication by the Claimant and the trigger points in sickness absence policy to the exclusion of any of the points of substance made by the Claimant. We find that the appeal panel had closed minds and did not engage with the Claimant’s appeal.
+
+49. We find that Mr Smith was ill-prepared to sit on an appeal of this nature, having had insufficient equality and diversity training, having a poor grasp of the equality and diversity policy of the Respondent and the sickness absence process. He deferred to Mr. du Toit and contributed very little in the appeal hearing and during the deliberations which were very short indeed. Mr. Smith was unable to assist the Tribunal at all as to what his rationale for dismissing the appeal was. He was clearly a reluctant and disengaged participant in the entire process. He did not know that there had been no exploratory interview and appeared surprised to learn that this was the case when questioned in cross examination. He was unaware that there had been communication between the Claimant and HR. He had no view as to whether the Claimant was disabled or not.
+
+50. We gave Mr. Choksi’s statement limited weight in view of the fact that he did not attend to give evidence, that it seems likely given the late disclosure of the notes of deliberation that he too did not have these when preparing his statement, and given that his statement was silent as to whether the Claimant was or may be disabled and the Respondent’s equality and diversity policy.
+
+51. We find that the Respondent’s witnesses throughout adopted the view that the triggers for an exploratory interview in paragraph 25 of the sickness absence policy applied throughout the formal process as well. We find that is not what the policy says and that it would be illogical given how the policy is structured; moreover we find that the trigger for the formal process, which is of itself discretionary, is to be found in paragraph 31. There is provision to escalate straight to stage two or stage three but only in exceptional circumstances as agreed by the CEO and Headteacher. We find that the Respondent’s misinterpretation of its own clear policy infected its handling of the Claimant’s sickness absence leading it to adopt a blinkered approach instead of a holistic one in keeping with its own sensibly drafted policy. The only reason given by the Respondent in evidence of the exceptional circumstances was the Claimant’s sickness absence itself, which, at the time that a decision was made to escalate to stage 1, had not in fact even met the threshold for an informal exploratory interview.
+
+52. By the time of the stage 1 hearing there was no Occupational Health report. There was no mention of the report of Dr Kurzer dated 1 February 2022 in the notes for the stage 1 appeal or in the pack of information or notes of deliberation.
+
+53. The formal written warning was issued and upheld at a time when the Respondent had not sought and received advice so as to enable it to take an informed view as to whether the Claimant was or may be disabled and whether her sickness absence was related to a disability. Line management had been completely sidelined for reasons that remain opaque to us.
+
+54. The Claimant had on the other hand cooperated and attended an Occupational Health consultation by telephone with Dr Kurzer of Maitland Medical. Dr Kurzer is a Consultant Occupational Health Specialist. Mr Bray had previously been unhappy with Dr Kurzer’s advice in other cases and the Respondent does not use this company any longer.
+
+55. The referral to Dr Kurzer (p.267) seeking a telephone assessment was completed by Ms. Saeed and stated that there were no known disabilities. It posed three questions of the Occupational Health adviser as set out therein.
+
+56. Dr Kurzer’s report (p.299) was described using the box “narrative report” and he said that he was hopeful that a return to work would be “fairly soon” given that all that needed to happen in his opinion was for the Claimant’s calcium levels to normalise. He noted that her latest sickness certificate expired on 28 February 2022 and thought it was “certainly possible” that she would be able to return to work by that date but was happy (we find in the sense of being unconcerned or content rather than personally delighted) if her GP extended her certificate to the end of March 2022.
+
+57. He suggested a phased return to work for four weeks and said he saw no issues or concerns once her calcium levels stabilised and did not see that there would be any reason why the Claimant would necessarily have an increased sickness absence pattern once she returned to work. He confirmed that her parathyroid glands had ceased to function permanently following the tonsillectomy and expressed the view that by reason of her thyroid cancer history, the removal of her thyroid gland and her failed parathyroid glands, she had experienced a very difficult recovery and was disabled under the Equality Act 2010 in respect of each of the three medical conditions which were lifelong.
+
+58. At no time after receiving this report did the Respondent consider pausing or suspending the formal sickness absence process they had embarked on. Instead they decided to skip stage 2 altogether and proceed directly to stage 3 doggedly following the trigger points they claimed applied to the formal stages of the sickness absence policy. Further, on 21 February 2022, after what appeared to us to be a hypercritical and pedantic dissection of Dr Kurzer’s report, which appeared to have been badly received, the CEO, Ms Burns, asked Ms Saeed to contact Dr John Brennan of Maitland Medical to discuss the report and the Claimant’s case. Putting to one side whether or not this was within the terms of the consent given by the Claimant, it was difficult to understand what was to be gained by this given that he had not seen the Claimant’s medical records, spoken to the Claimant or it appears spoken to Dr Kurzer before the call instead of his line manager. Mr. Bray accepted this was essentially a service complaint.
+
+59. On 1 March 2022, Dr Brennan wrote to Ms. Saeed referring to Mr. Bray by his first name and noting they had spoken to go through Dr Kurzer’s report. Mr. Bray objected to the report being “emotive” citing as an example the use of the word “happy” and complaining in effect that the report did not give a definitive return to work date. The tenor of that correspondence suggests that Dr Brennan was being leaned on to give the Respondent something that would support a decision to terminate the Claimant’s employment. It is inexplicable as to why, if further clarification from Dr Kurzer was needed, it was not simply sought from him directly. We find that by this time at the very latest, Mr. Bray did not have an open mind as to whether the Respondent should continue to employ the Claimant; he was clear that her employment should be brought to an end. We find that Ms Andress was largely indifferent to the Claimant’s position and that Mr. Bray and Ms Burns saw the Claimant as an inconvenience.
+
+60. It is unclear why Ms Andress was emailing Ms Bray and Ms Saeed on 3 March 2022 (p.322) to query whether there was medical evidence of the Claimant having cancer having clearly received the OH report by this time and there having been evidence on her personnel file of for example oncology appointments she had to attend (disclosed in these proceedings). She had also sought to put the Claimant in touch with another employee with cancer in the past. The was simply no sound basis for doubting that the Claimant had had cancer.
+
+61. The Claimant attended a stage 3 formal absence hearing on 7 March 2022 with her union representative Ms Premkumar of the National Education Union who had been supportive of her throughout. It is unclear why the Claimant’s maternity leave and historic absences, for example for food poisoning, were referred to at this meeting (p.327). We find that the stage 3 hearing was not undertaken in good faith and that Mr. Bray had already determined to dismiss the Claimant; the hearing was merely performative. The one part of the OH report which he chose to focus on (p.328) was Dr Kurzer’s use of the word “happy” which he describes as “unfortunate”. He had not disclosed to the Claimant that he had discussed the report and her health with Dr Brennan or provided her or her representative with a copy of Dr Brennan’s letter. After reading a script out, Mr. Bray allowed Ms Premkumar and the Claimant to speak and showed very limited curiosity as to the prospect of the Claimant returning to work. He asked few questions including when Ms Premkumar expressly drew to his attention the link between the Claimant’s thyroid cancer, tonsillectomy and absence. He expressed the view at the end of the hearing that the Equality Act did not preclude the Respondent from following its sickness absence procedure. He had no regard to the question of whether the Claimant was disabled and whether the procedure itself could or should be adjusted for that reason. There was no evidence that he had equipped himself with any meaningful HR advice at this stage. If he took legal advice then apart from it being privileged, which is acknowledged, it was certainly not evident in his handling of matters and we do not know and should not know what the legal advisers were being told.
+
+62. We find that the decision to dismiss was taken in substance before the stage 3 hearing and at no time before that decision was formally implemented by a letter the next day did the Respondent apprise itself of what arrangements were specifically in place to cover the Claimant’s sickness absence, why, if at all, those arrangements were under strain, or how much longer the absence could be operationally managed. In fact, the Tribunal did not receive this evidence at all even in the course of the hearing save to a very limited extent in response to the Tribunal’s own questions.
+
+63. The Tribunal has insufficient evidence upon which it can make any findings of fact that the Claimant’s absence was causing the school’s pupils or staff or its finances any undue strain. The Respondent accepted that there were no parent complaints in the material period of time, whether about consistency or at all, and it offered no evidence as to cost whether in conjunction with evidence about the use of agency staff or in general. The Tribunal heard that the Respondent’s income in the year to 31 August 2022 was according to the trustees’ report circa £25m with reserves of £6m (p.675). In any event, none of this was considered by Mr. Bray prior to the decision to dismiss.
+
+64. The Claimant’s statement at the stage 3 hearing that she loved her job, had had an unlucky period and was looking forward to returning to work was unsympathetically received. It is hard to see what more the Claimant to do to facilitate a return to work other than to try to rest and recover and manage her symptoms. To the extent that the illness and absence followed on from maternity leave this was a coincidence of timing and not within the Claimant’s control. To the extent that the Claimant had sought to work flexibly to accommodate childcare as a new mother, this did not mean that she did not intend to return to work or had engineered to benefit from sick pay for as long as possible without an intention of returning. If the Respondent held assumptions in this regard they were not tested by asking the Claimant about it before her dismissal.
+
+65. Yet again, the dismissal letter contained very limited reasons and gave the Claimant very little to go on in terms of appealing the decision. We are told that there exist no written records for the rationale for dismissing. Just a few days after the Claimant was dismissed the Respondent wrote to her informing her of a pay rise to take her salary to £19,113 per annum. The Claimant appealed the decision to dismiss her on 11 March 2022.
+
+66. The appeal was chaired by Mr. du Toit who did not see any need to recuse himself despite his prior involvement in the stage 1 appeal. The appeal pack did not contain the OH report though upon Tribunal questioning he maintained he had “had eyes on it” at some point. The Tribunal finds that the appeal panel did not have the OH report and the only thing that was taken into account, which is consistent with his carefully drafted witness statement about this, was Mr. Bray’s interpretation of the report which was accepted without question. Again, notes of deliberation were disclosed after the close of evidence and so Mr. du Toit gave no evidence on these notes as neither party sought to recall him.
+
+67. The appeal hearing took place on 27 April 2022 (page 352 ff.) and Mr. du Toit was accompanied by fellow governors, Julie Donnelly, and Sheraz Bhatti neither of whom asked the Claimant any questions at all. Mr. du Toit asked the Claimant if she had not been dismissed as of 8 March whether she would have been back at work to which she replied, “Yes probably I would be back at work.” Mr. Bray who attended the appeal maintained that the OH report did not give a date when a return to work would occur, which we find was a partisan and unfair interpretation of Dr Kurzer’s report. When Ms Premkumar sought to raise an argument as to consistency of treatment she was rapidly shut down. The notes of deliberation again show a closed mindset. The reference to the fact that the Claimant had taken maternity leave by one of the governors was noted.
+
+68. Mr. du Toit gave clear evidence to the Tribunal that he did not consider the Claimant was disabled and that if he had thought that the Claimant was disabled that would have changed the appeal decision and they ought to have gone back to the exploratory interview stage with the Claimant. If the panel had the OH report, as suggested, it would be hard to understand why the view was formed that the Claimant was not disabled. We have already found that the appeal panel did not have the OH report and its omission from the appeal pack is troubling. The appeal did nothing to cure any of the problems with the process followed before.
+
+LAW
+
+69. In respect of each of the complaints before us, we have paid particular regard to the language of the statutory provisions in question:
+
+- s.94, 98 Employment Rights Act 1996
+- s.6, 15, 19, 20, 21 and 136 Equality Act 2010.
+
+70. We read carefully the detailed written submissions prepared by Counsel for the Claimant and Counsel for the Respondent for which we are grateful. There was no disagreement between the parties as to the law.
+
+71. In respect of the complaint of unfair dismissal, we reminded ourselves that the Tribunal must not substitute its own view for that of the employer but to review its decision in light of s.98(4) ERA and consider whether the decision to dismiss and procedure adopted in so doing falls within a reasonable band available to the employer in the circumstances. In capability dismissal cases related to sickness absence / ill health, it is important for the Tribunal to ask itself whether the employer could reasonably have been expected to wait longer for the Claimant to return to work / duties and if so how much longer: Spencer v Paragon Wallpapers Ltd [1977] ICR 301.
+
+72. The Tribunal looked at each claim brought distinctly in reaching its conclusions and did not assume that any would stand or fall together, but it did at least note paragraph 5.21 of the Equality and Human Rights Commission’s Code of Practice on Employment (2011) which states that if an employer had failed to make a reasonable adjustment which would have prevented or minimised the unfavourable treatment, it will be very difficult for them to show that the treatment was objectively justified.
+
+73. Before an employer can be held liable for disability discrimination under sections 15, 20 and 21 Equality Act it must have actual or constructive knowledge of the disability. This means knowledge of the facts of the disability and not whether those facts meet the legal definition: Gallop v Newport City Council [2013] EWCA Civ 1583.
+
+74. Additionally, in determining whether the employer has knowledge for the purpose of s.15(2) EqA, there need only be actual or constructive knowledge of the disability and not the causal link between the disability and its consequent effects or the underlying diagnosis. Knowledge of Human Resources or Occupational Health is to be imputed to the employer (see paragraphs 5.17 to 5.19 of the statutory Code of Practice).
+
+75. The statutory burden of proof is set out in s.136 Equality Act. It is permissible for the Tribunal to approach this provision by focusing on the ‘reason why’ things were or were not done.
+
+76. The duty to make reasonable adjustments is to be found in sections 20 and 21 Equality Act. Essentially, as helpfully articulated in Environment Agency v Rowan [2008] ICR 218, the Tribunal is tasked with considering:
+
+i. The PCP alleged (which should be given a liberal meaning given the protective nature of the legislation);
+ii. The identity of non-disabled comparators where appropriate – in Archibald
+v. Fife Council [2004] ICR 954 the proper comparators were employees of the council who were not disabled and were able to carry out the essential functions of their jobs and were not, therefore, liable to be dismissed;
+iii. The nature and extent of the substantial (more than minor or trivial) disadvantage suffered by the claimant.
+
+77. The Claimant need not show that the reasonable adjustment proposed would be effective to avoid the disadvantage to which she was subjected. It is only necessary to show that there is a chance that the adjustment would be successful: Leeds Teaching Hospital NHS Trust v Foster UKEAT/0552/10 (followed by the Court of Appeal in Griffiths v SS for Work and Pensions [2017] ICR 160).
+
+78. The test of reasonableness is an objective one. The Tribunal should have regard to Equality and Human Rights Commission’s statutory Code of Practice on Employment.
+
+79. The test to be applied in a disability-related discrimination claim is helpfully set out in City of York Council v Grosset [2018] ICR 1492:
+
+i. What was the reason (“something”) for the unfavourable treatment and
+ii. Did that “something” arise in consequence of disability.
+
+80. Disability-related discrimination may be justified under s.15(1)(b) EqA where the employer is pursuing a legitimate aim in a proportionate manner, but this entails consideration of the discriminatory effects of the condition and the reasonable needs of the party applying the condition (Hampson v Department of Education and Science [1989] ICR 179).
+
+81. Proportionate means appropriate and necessary (which means reasonably necessary).
+
+82. In Homer v Chief Constable of West Yorkshire Police [2012] UKSC 15 Baroness Hale stated (paragraph 20): "It is not enough that a reasonable employer might think the criterion justified. The tribunal itself has to weigh the real needs of the undertaking, against the discriminatory effects of the requirement...Some measures may simply be inappropriate to the aim in question...A measure may be appropriate to achieving the aim but go further than is (reasonably) necessary in order to do so and thus be disproportionate...".
+
+83. When considering any disadvantage to the claimant the ET must be careful that it is an effect of the disability, which creates circumstances where the claimant is disadvantaged in complying with a PCP see Newcastle upon Tyne Hospitals NHS Trust v Bagley UKEAT/0417/1 It is clear that there are no reversal of burdens of proof provisions and it is entirely for the claimant to establish that a PCP led to a substantial disadvantage see Bethnal Green & Shoreditch Educational Trust v Dippenaar UKEAT/0064/15. That case and Project Management Institute v Latif UKEAT/0028/07 [2007] IRLR 579 indicate that the question of whether there is a disadvantage and whether it is substantial (more than merely trivial) is a matter of fact for the ET.
+
+84. Finally in an indirect disability discrimination claim, the following hurdles apply under subsection 19(2) EqA:
+
+(a) Did A apply the PCP to persons with whom B does not share the characteristic i.e., were the impugned PCPs applied not only to the claimant but to persons who do not have the same protected characteristic? (‘Neutral PCP’);
+(b) Did the PCP or would the PCP have placed persons who share the same protected characteristic as the claimant at a particular disadvantage compared to persons not possessing those characteristics? (‘Group Particular Disadvantage’);
+(c) Did the PCP or would the PCP have placed the claimant herself / himself at that particular disadvantage? (‘Individual Particular Disadvantage’) and
+(d) If so, can the Respondent(s) show the application of the PCP to be a proportionate means of achieving a legitimate aim? (‘Justification’).
+
+85. In Essop and others v Home Office and others [2017] ICR 640, the Supreme Court further clarified that, in considering a claim for unlawful indirect discrimination under s.19 EqA, the decision maker does not have to consider the reason why a particular group disadvantage exists; it is enough that it does. Further, the reason why a claimant suffers the same particular disadvantage forms no part of the mandatory statutory test; it is enough that he or she does.
+
+86. The Supreme Court also concluded that the decision-maker is not obliged ask itself those why questions. If it happens to know or discover why disadvantage is caused then this may help to shed light on the issues that do have to be determined, but it would now be an error for a tribunal or court to require the claimant to prove the reason why either the disadvantage to the group or pool, as drawn, or to herself or himself arises.
+
+87. Nothing in the judgment of the Supreme Court, however, removes the need to:
+
+a. Identify with care the Particular Group Disadvantage;
+b. Identify with care the Particular Individual Disadvantage;
+c. Identify with care whether the two correspond as they must and
+d. Establish a causal link between the disadvantage and the PCP.
+
+88. Further, as is reiterated in paragraph 32 of the Supreme Court’s judgment, it remains open to a respondent to rebut the assertion of a claimant that he or she was placed at the relevant disadvantage by the PCP even if Particular Group and Individual Disadvantage of the same kind is established. Nothing in the judgment of the Supreme Court removes the essential requirement that the Claimant must have suffered a detriment or harm because of the application of the PCP. Pure correlation of disadvantage suffered is not sufficient, but the Supreme Court makes clear that causation does not have to be determined by reference to the reasons why the disadvantage arises.
+
+89. The EHRC Employment Code of Practice provides that:
+
+4.28 … The aim of the provision, criterion or practice should be legal, should not be discriminatory in itself, and must represent a real, objective consideration.
+4.31 Although not defined by the Act, the term ‘proportionate’ is taken from EU Directives and its meaning has been clarified by decisions of the CJEU (formerly the ECJ). EU law views treatment as proportionate if it is an ‘appropriate and necessary’ means of achieving a legitimate aim. But ‘necessary’ does not mean that the provision, criterion or practice is the only possible way of achieving the legitimate aim; it is sufficient that the same aim could not be achieved by less discriminatory means.
+
+90. We also had regard to the helpful decision of the EAT in Minis Childcare Ltd v Hilton-Webb [2024] EAT 108 which reminds us to consider the effect of disapplying the PCP for everyone.
+
+CONCLUSIONS ON ISSUES
+
+UNFAIR DISMISSAL – SECTION 98 EMPLOYMENT RIGHTS ACT 1996 (ERA)
+
+91. It is agreed that the Claimant has sufficient continuity of service and that there was a dismissal.
+
+92. The Tribunal agrees that the Respondent has shown that the reason for dismissal is a potentially fair one i.e. capability (section 98(2)(a) ERA).
+
+93. In all the circumstances, including the size and administrative resources of the Respondent’s undertaking and in accordance with the equity and substantial merits of the case, did the Respondent act reasonably in treating the Claimant’s capability as sufficient reason to dismiss her for the purposes of s98(4) ERA. The Tribunal concludes it did not.
+
+94. The Tribunal finds that the dismissal was unfair both in substance and in terms of the procedure followed which not only breached the Respondent’s own internal procedures but was also in all the circumstances outside a reasonable band of procedures available to an employer in these circumstances. The Tribunal has been careful not to substitute its own views for those of the employer.
+
+95. The Respondent failed to show any concern for the Claimant in terms of any welfare checks or in the offer of any meaningful pastoral support whether through HR, line management or senior management who involved themselves in the case at an early stage.
+
+96. There were only four limited attempts by the Claimant’s line manager to contact the Claimant there have been no informal attempts to ascertain how the Claimant was after her operation in the weeks before. This happened late in the term and just before Ms Morgan was about to go on holiday and the school was about to close for the Christmas and New Year period.
+
+97. The four attempts were two attempted telephone calls on 13 and 14 December 2021, the email to the Claimant’s work email address on 16 December 2021 and one attempt to hold an ad hoc Teams call for a “catch up” using her work email address also on 16 December 2021. At this time, HR was fully aware of the Claimant’s personal email address as the fit notes were being communicated regularly from this address to HR and this was the email address to which HR was responding. It would have been a simple and straightforward step for Ms Saeed to make contact with the Claimant using her personal email address. Further plainly Ms Morgan had previously contacted the Claimant on WhatsApp (their last contact being on 18 October 2021) and no attempt was made to seek to raise the Claimant’s attention in this way. We also accept that the Claimant could have contacted her line manager or being more communicative as to her state of health beyond sending her fit notes, but in circumstances in which it was the Respondent as her employer which was concerned as to why the Claimant remained off sick the onus was on the Respondent to use all reasonable methods to make contact. Even if the Claimant had responded to the calls or email or Teams contact, there was very limited scope for a meeting taking place as Ms Morgan was on leave from 17 December 2021 and she quite reasonable suggesting meeting in the New Year i.e. the next term. There was no urgency as the school was nearing the end of the term ahead of the festive season and so there was no need to deal with staffing during the school holidays.
+
+98. There was no explicable basis for the most senior management of the school i.e. Ms Andress and Mr. Bray (Co Heads) and the CEO of the Respondent to get involved at this very early stage and to remove the Claimant’s line management altogether from the process given that the Respondent’s sickness absence envisaged that it would be the line manager who should carry out the exploratory interview. The involvement of these three senior management team members was not something that was made clear to the Claimant at that stage and the full extent of their involvement and decision making emerged at this hearing.
+
+99. We have found that the Respondent misinterpreted its own policy. Applying that policy in a straightforward way, a potential trigger for an exploratory interview would only have been met as at four weeks from 16 November 2021 i.e. after four weeks of continuous absence subject to any discretion to adjust the procedure by reason of the Claimant’s disability.
+
+100. The sole reason given by the Respondent for escalating to stage 1 of the formal process and skipping the important exploratory interview stage out was that the Claimant had not responded to the four attempts to contact her between 13 and 16 December 2021 at a time when it was known that she was certified as unfit to work, recovering from an operation and had a young baby at home.
+
+101. We find that the Respondent had actual alternatively constructive knowledge that the Claimant was disabled from 24 September 2015. Importantly, the Tribunal found that the Respondent had actual or constructive knowledge of the Claimant’s thyroid cancer from 8 January 2016. The Respondent accepts that it had knowledge of the Claimant’s hypocalcaemia from 18 January 2022; we accept this and do not agree that any information disclosed by the Claimant in 2014/2015 when she was not employed by the Respondent would be sufficient to affix it with knowledge at this earlier stage.
+
+102. It then follows that at the time that a decision was taken not to hold an exploratory interview, the Respondent knew that the Claimant was disabled by reason of the history of thyroid cancer. It also know that she had had an operation of some sort which they acknowledged was a serious event.
+
+103. There was no suggestion by the Respondent at any time that the Claimant had been untruthful in saying that she was unaware that the school was concerned and wanted to meet with her until 7 January 2022 at which time it is clear that she obtained union representation and did engage with the Respondent including by agreeing to a referral to OH.
+
+104. No reasonable employer would have continued with a formal process and failed to pause to allow for an exploratory interview to take place which was likely to fulfil the very thing the Respondent said it wanted to achieve i.e. to find out more.
+
+105. There was nothing in the sickness absence policy that required the Respondent to progress through stages of the formal policy applying the triggers at paragraph 25.
+
+106. The Respondent was solely focused on the triggers and in our view own misinterpretation of the policy to the exclusion of the necessary holistic appreciation of the situation before then.
+
+107. From 16 December 2021 the Respondent was working towards an exit strategy for the Claimant, did not demonstrate any real intention to support her back to work, shows very limited sympathy towards the Claimant’s circumstances, and was focused on using the sickness absence policy as quickly as possible to get to stage 3 and dismissal. The Respondent’s actions were at odds with their stated position at this hearing which is that they believed the Claimant was genuinely unwell and unfit to work. Other than getting better and cooperating with an OH referral, it is hard to see what more the Claimant could do at this stage.
+
+108. The Respondent’s handling of the OH report, including the contact with Dr Brennan and lack of transparency in this regard, and the decision to proceed straight to stage 3 and skip stage 2 of the formal process further support the Tribunal’s conclusion that the Respondent was not treating the Claimant in good faith and were looking to exit her from the school as swiftly as could be done under the guise of following the procedure to the letter.
+
+109. We are inclined to agree with the submission made by the Claimant’s counsel in closing that, “There is a complete vacuum when it comes to any notes or minutes of important meetings in which pivotal decisions were made about the Claimant’s employment.” That vacuum also extends to meaningful information and evidence about staffing arrangements to support the contention that the Claimant’s absence was having such an adverse effect on the provision of support to SEND pupils at the school that her absence should be managed in the heavy handed way in which it was.
+
+110. The decision to dismiss was taken well before the stage 3 hearing as we have found, such that the hearing itself was academic. Mr Bray had a closed mind, and he had already aligned himself with Ms Andress and Ms Burns and they had decided that the Claimant ought to go.
+
+111. There was no evidence of any timely and appropriate HR advice being taken at any time prior to dismissing the Claimant, particularly with regard to the implications of her disability on her sickness absence and application of the sickness absence procedure. The equality and diversity policy disclosed during the hearing itself appears not to have been considered at all.
+
+112. None of the witnesses we heard from who gave evidence for the Respondent had any proper appreciation of the Equality Act 2010 and while they professed to understand what for example “reasonable adjustments” were, it is clear their knowledge was superficial at best and misguided at worst. Their training was clearly insufficient in this regard whether undertaken online or in person. We have already noted the unnecessary and repeated references to the Claimant’s maternity leave and absence that was unconnected with her absence from 16 November 2021. All of this underlines why taking the appropriate specialist advice in a timely way was so important and it was unreasonable to proceed without it.
+
+113. The appeal against dismissal was shambolic in terms of procedure with the critical document i.e., the OH report missing altogether.
+
+114. The decision to dismiss the Claimant which we find was taken before the stage 3 hearing, even if was taken at or shortly after the stage 3 hearing, was outside a reasonable band of responses available in circumstances in which the OH report predicted a return by the end of March 2022, in which the Claimant’s recovery had been impacted by the heavy-handed process adopted, and in the absence of any meaningful evidence as to the pressing need to address staffing cover / the resources for providing cover for the Claimant’s absence. In short, a reasonable employer could be expected to wait until the end of March 2022 in view of the OH report.
+
+115. Taking all of our findings of fact into account (and not just those we have emphasised here) and having regard to s.98(4) ERA we conclude the dismissal was unfair.
+
+DISABILITY DISCRIMINATION
+
+Disability
+
+116. The Respondent accepts that Thyroid Cancer and Hypocalcaemia are Disabilities. So too does the Tribunal.
+
+117. The Respondent accepts that it had knowledge of the Claimant’s disabilities as follows:
+
+a. Thyroid Cancer since 19 July 2017;
+b. Hypocalcaemia since 18 January 2022;
+c. The Claimant contends that the Respondent knew or ought to have known that she was disabled by reason of Thyroid cancer and Hypocalcaemia from late 2014/early 2015 onwards.
+
+118. As to knowledge, the Tribunal relies on our conclusions under the heading of unfair dismissal. Discrimination arising from disability – Section 15 Equality Act 2010 Did the Claimant’s sickness absence (the “something”) arise in consequence of any of her disabilities? If so, which one[s]?
+
+119. The tonsillectomy on 30 October 2021 was advised because of the history of thyroid cancer. It caused her parathyroid glands (which had already been largely removed when she had her total thyroidectomy) to cease to function permanently. The medical team were concerned enough to expedite the operation which the Claimant therefore understood and described as an “emergency”. The operation itself led to a period of post-operative recovery. The recovery was complicated by the Claimant suffering from acute hypocalcaemia (another conceded disability) and an episode of hypoglycaemia requiring further hospital attention. The Claimant’s entire period of sickness absence was certified by a medical practitioner as set out in our findings of fact. The entirety of the sickness absence arose in consequence of her thyroid cancer and hypocalcaemia which also gave rise to anxiety in part because of the Respondent’s management of that absence. It is all linked. Was the Claimant treated unfavourably because of the “something” arising in consequence of any of her disabilities? The alleged unfavourable treatment is:
+
+a. Triggering Stage 1 of its Sickness Absence Procedure;
+b. Placing the Claimant on a Formal Written Warning;
+c. Moving immediately to Stage 3 of the Sickness Absence procedure without applying Stage 2;
+d. The failure to fairly apply its sickness absence procedure and/or apply the discretion afforded by its sickness absence policy;
+e. The decision to dismiss the Claimant.
+
+120. As covered in our findings of fact, these were all matters about which the Claimant could have a justifiable sense of grievance. This was unfavourable treatment. Was the alleged unfavourable treatment because of the Claimant’s sickness absence?
+
+121. Everything was on the Respondent’s own case throughout done because of the Claimant’s sickness absence – it was an effective cause of the treatment. To the extent that the Respondent relied on the Claimant’s failure to communicate with Ms Morgan between 13 and 16 December 2021 as the reason for triggering stage 1, that too was linked to her sickness absence which is why she was not at work and not checking her work emails as she was trying to rest and recuperate. She also explained she was fatigued and may have missed calls. Has the Respondent shown that the alleged treatment was a proportionate means of achieving a legitimate aim pursuant to s15(1)(b) EA? The Respondent contends that the legitimate aim was to ensure that appropriate levels of education and support were delivered to pupils and that staff sickness absence was managed appropriately.
+
+122. The Respondent did not set out any legitimate aim in its ET3 / Grounds of Resistance but the parties agreed a List of Issues in which the aims were set out as being (i) ensuring appropriate levels of education and support were delivered to pupils and (ii) staff sickness absence was managed appropriately. Though no application to amend was made, we will to the extent necessary permit an amendment to this effect as there is no prejudice to the Claimant in doing so.
+
+123. We accept that these are legitimate aims thus the question of justification which is for the Tribunal to determine objectively is proportionality; this fundamentally engages the question as to whether there was a means of proceeding that was less discriminatory in effect.
+
+124. As to the first aim relied on, the Respondent has failed to produce sufficient evidence to show that dismissing the Claimant was a proportionate way of fulfilling that aim. The Tribunal proactively questioned the Respondent’s witnesses given the absence of this evidence in their statements or in documentary evidence, but the answers fell far short of demonstrating proportionality. The most we ascertained was that cover for the Claimant was provided by agency staff and full- time staff as appropriate, and that there had been no complaints from the parents of any of the pupils about the level of education and support their children were receiving. We also heard that the Claimant’s maternity leave which ended on 16 November 2021 had been covered until May 2021 by a fixed term contract and after then full time staff took over as their timetable permitted. We heard no evidence about financial factors or costs to the extent they were relevant. We heard no evidence that any staff grievances were raised. We heard no evidence that pupils were suffering adverse effects of the alleged lack of consistency said to have arisen from the Claimant’s absence. We heard no evidence from the Claimant’s line manager who would likely have been best placed to give evidence as to the day to day arrangements and any alleged problems arising from managing the Claimant’s absence.
+
+125. We have found that sickness absence was mismanaged as set out in our previous findings and conclusions as to dismissal. There were manifestly more proportionate means of handling the sickness absence the most obvious of which was to conduct an exploratory interview and refer the Claimant to OH early on and pause in making any meaningful decisions until proper advice had been received as to the implications if any of her disabilities.
+
+126. Accordingly, the claim for disability-related discrimination is well founded as succeeds. Failure to make reasonable adjustments – Section 20 Equality Act 2010
+
+Did the Respondent apply the following PCPs:
+
+a. The requirement to maintain regular and effective attendance (paragraph 7a).
+
+127. This was a PCP which was neutrally applied i.e. applied to all staff including Claimant. If so, did the above PCPs put the Claimant at a substantial disadvantage in comparison with persons who are not disabled? The Claimant contends that disabled persons are more likely to be absent through illness for reasons related to their disability, and are therefore more likely to be placed at risk of formal disciplinary sanction, including dismissal, through the application of the Respondent’s Sickness Absence Policy.
+
+128. At the point in time that the Claimant needed to have a tonsillectomy and then commenced a period of sickness absence it is clear that the PCP did place her at a substantial disadvantage in comparison with persons who are not disabled bearing in mind that substantial means more than minor or trivial per s.212 EqA.
+
+129. The Claimant’s own medical history bears out that she has had a significant amount of time off work due to sickness absence linked to her disability as we have found. The fact that at other times in her life the Claimant’s disability did not cause her to be absent from work on sickness does not mean that she was not disadvantaged by the application of the PCP which is the basis for the sickness absence policy applied in the period 17 November 2021 to her dismissal on 8 March 2022. We find as a fact that she was in that the effects of her disability incapacitated her for work, were interlinked and difficult to manage, and meant she was not able in that time to provide regular and effective service. Did the Respondents fail to take such steps as were reasonable to avoid the disadvantage? The Claimant alleges that the Respondents should have taken the following steps (non-exhaustive list):
+
+a. Discounted disability-related absence.
+b. Extended the timescales for the trigger points.
+c. Pursued the informal procedures first including conducting exploratory interviews.
+d. Had discussions with the Claimant about the impact of her disability and the adjustments that could be made at all stages of the Absence Management process to reach a plan that supports the Claimant’s return.
+e. Not given sanctions such as a formal written warning, which added to her stress levels.
+f. Reviewed the situation and previous stages/sanctions in full when the Claimant was fit enough to attend the meetings and engage with the process.
+g. Instead of dismissing the Claimant, allowing her a phased return to work as per OH recommendations or a trial of flexible working.
+h. Offered the Claimant lighter duties, such as being taken off break and lunchtime duties, being allocated a fixed classroom/building or admin work or alternative roles as alternatives to dismissal.
+
+130. The Tribunal finds that each of these steps except (h) was a reasonable step to take to avoid the disadvantage to the Claimant of being subjected to formal steps under the sickness absence policy and / or dismissal. A time may have come when
+
+(h) was a reasonable step to take, perhaps in conjunction with the advice given by OH as to a phased return to work but as the Claimant did not become well enough to return to work before she was dismissed the Respondent was not under a duty in this regard (at least not yet).
+
+131. Further in relation to (g) we do not conclude that a reasonable step was to allow a trial of flexible working in view of the absence of any OH advice in this regard or any representations by the Claimant or union representative that flexible working would enable her to return to work sooner or more effectively by reason of her disability.
+
+132. We find that, as described, the claim for a failure to comply with a duty to make reasonable adjustments is well-founded and succeeds. Indirect Discrimination on Grounds of Disability – Section 19 Equality Act 2010 Did the Respondents apply the following Provisions, Criterions or Practice
+
+(‘PCP’):
+
+a. The requirement to maintain regular and effective attendance (paragraph 7a).
+
+133. Yes as above the Tribunal concluded that the PCP was applied. Did the above PCP apply to persons with whom the Claimant did not share the same disability?
+
+134. Yes as above the Tribunal concluded the PCP was applied neutrally i.e. to all staff. Did or would the above PCPs put people with the Claimant’s disability at a particular disadvantage when compared with persons who did not share her disability?
+
+135. The Tribunal concluded that the PCP placed persons with the Claimant’s disabilities at a particular disadvantage as being was more likely to suffer health issues and to need time off work to manage or address them (along the lines considered in the case of Archibald). Did or would the above PCPs put the Claimant at a disadvantage due to her disability? As to the particular disadvantage, the Claimant relies upon the disadvantage identified in paragraph 12 of the list of issues.
+
+136. Yes as above. The Tribunal finds that the Claimant was at a particular disadvantage during the index period of her absence in 2021 and 2022. Was the PCP a proportionate means of achieving a legitimate aim, s19(2)(d) EqA? The Respondent contends that the legitimate aim was to ensure that appropriate levels of education and support were delivered to pupils and that staff sickness absence was managed appropriately.
+
+137. The PCP was a means of achieving the legitimate aims contended for but it was not proportionate to apply it to employees including the disabled Claimant and other disabled employees without considering their individual circumstances which is how it was applied by the Respondent. The Claimant did not contend that the triggers were PCPs though this might well have been another PCP in contention.
+
+Harassment – Section 26 Equality Act 2010
+
+Did the Respondent engage in unwanted conduct as follows:
+
+a. Issue the Claimant with a Formal Written Warning on 20 January 2022 for her sickness absence at the first meeting about her absence?
+b. Escalate her case to Stage 3 of the Sickness Absence Procedure without going through Stage 2 and/or escalate her case for termination?
+
+138. This was unwanted conduct in the Tribunal’s assessment. Was the conduct related to the Claimant’s disability?
+
+139. On the Respondent’s case this was all because of her sickness absence and initially her failure to respond to four attempts to contact her between 13 and 16 November 2021, which we have found was also linked to her disability. Therefore this was conduct related to the Claimant’s disability. Did the conduct have the purpose of violating the Claimant’s dignity or creating an intimidating, hostile, degrading, humiliating or offensive environment for the Claimant?
+
+140. We do not find that the conduct meets this threshold despite acknowledging that it was heavy handed and harsh. The Claimant was not actually in work at the time and we do not find that her understandable feelings of upset meet the necessary threshold to establish harassment. If not, did the conduct have the effect of violating the Claimant’s dignity and/or creating an intimidating, hostile, degrading, humiliating or offensive environment for the Claimant?
+
+141. For the same reasons, the Tribunal does not find that the conduct met this threshold.
+
+142. Accordingly the claim for harassment is not well founded and does not succeed.
+
+Other
+
+143. The Tribunal found that all of the complaints of discrimination were inter-linked, had common decision makers, and formed an act extending over a period (a state of affairs in the Hendricks sense) and were all in time. There were no other jurisdictional issues to determine and the unfair dismissal claim and discriminatory dismissal complaint were plainly in time as accepted by the Respondent.
+
+144. The decision in this matter was unanimous. Employment Judge E. Misra KC Dated: 28 November 2025
+
+IN THE EAST LONDON
+
+EMPLOYMENT TRIBUNAL CASE NO. 3204197/2022
+
+MS J BOSWELL
+
+Claimant
+
+V
+
+BEACON MULTI-ACADEMY TRUST LIMITED
+
+Respondent
+
+AGREED LIST OF ISSUES
+
+Claims
+
+1. The Claimant brings the following claims:
+
+a. Unfair Dismissal
+b. Discrimination arising from disability;
+c. Failure to make reasonable adjustments;
+d. Indirect discrimination; and
+e. Harassment. Unfair Dismissal – Section 98 Employment Rights Act 1996 (ERA)
+
+2. It is agreed that the Claimant has sufficient continuity of service and that there was a dismissal.
+
+3. Has the Respondent shown that the reason for dismissal is a potentially fair one? The Respondent relies on capability (section 98(2)(a) ERA).
+
+4. In all the circumstances, including the size and administrative resources of the Respondent’s undertaking and in accordance with the equity and substantial merits of the case, did the Respondent act reasonably in treating the Claimant’s capability as sufficient reason to dismiss her for the purposes of s98(4) ERA.
+
+Disability Discrimination
+
+5. The Respondent accepts that Thyroid Cancer and Hypocalcaemia are Disabilities.
+
+6. The Respondent accepts that it had knowledge of the Claimant’s disabilities as follows:
+
+a. Thyroid Cancer since 19 July 2017;
+b. Hypocalcaemia since 18 January 2022;
+c. The Claimant contends that the Respondent knew or ought to have known that she was disabled by reason of Thyroid cancer and Hypocalcaemia from late 2014/early 2015 onwards. Discrimination arising from disability – Section 15 Equality Act 2010
+
+7. Did the Claimant’s sickness absence (the “something”) arise in consequence of any of her disabilities? If so, which one[s]?
+
+8. Was the Claimant treated unfavourably because of the “something” arising in consequence of any of her disabilities? The alleged unfavourable treatment is:
+
+a. Triggering Stage 1 of its Sickness Absence Procedure;
+b. Placing the Claimant on a Formal Written Warning;
+c. Moving immediately to Stage 3 of the Sickness Absence procedure without applying Stage 2;
+d. The failure to fairly apply its sickness absence procedure and/or apply the discretion afforded by its sickness absence policy;
+e. The decision to dismiss the Claimant.
+
+9. Was the alleged unfavourable treatment because of the Claimant’s sickness absence?
+
+10. Has the Respondent shown that the alleged treatment was a proportionate means of achieving a legitimate aim pursuant to s15(1)(b) EA? The Respondent contends that the legitimate aim was to ensure that appropriate levels of education and support were delivered to pupils and that staff sickness absence was managed appropriately. Failure to make reasonable adjustments – Section 20 Equality Act 2010
+
+11. Did the Respondent apply the following PCPs:
+
+a. The requirement to maintain regular and effective attendance (paragraph 7a).
+
+12. If so, did the above PCPs put the Claimant at a substantial disadvantage in comparison with persons who are not disabled? The Claimant contends that disabled persons are more likely to be absent through illness for reasons related to their disability, and are therefore more likely to be placed at risk of formal disciplinary sanction, including dismissal, through the application of the Respondents Sickness Absence Policy
+
+13. Did the Respondents fail to take such steps as were reasonable to avoid the disadvantage? The Claimant alleges that the Respondents should have taken the following steps (non-exhaustive list):
+
+a. Discounted disability-related absence.
+b. Extended the timescales for the trigger points.
+c. Pursued the informal procedures first including conducting exploratory interviews.
+d. Had discussions with the Claimant about the impact of her disability and the adjustments that could be made at all stages of the Absence Management process to reach a plan that supports the Claimant’s return.
+e. Not given sanctions such as a formal written warning, which added to her stress levels.
+f. Reviewed the situation and previous stages/sanctions in full when the Claimant was fit enough to attend the meetings and engage with the process.
+g. Instead of dismissing the Claimant, allowing her a phased return to work as per OH recommendations or a trial of flexible working.
+h. Offered the Claimant lighter duties, such as being taken off break and lunchtime duties, being allocated a fixed classroom/building or admin work or alternative roles as alternatives to dismissal. Indirect Discrimination on Grounds of Disability – Section 19 Equality Act 2010
+
+14. Did the Respondents apply the following Provisions, Criterions or Practices (‘PCPs’):
+
+a. The requirement to maintain regular and effective attendance (paragraph 7a).
+
+15. Did the above PCPs apply to persons with whom the Claimant did not share the same disability?
+
+16. Did or would the above PCPs put people with the Claimant’s disability at a particular disadvantage when compared with persons who did not share her disability?
+
+17. Did or would the above PCPs put the Claimant at a disadvantage due to her disability? As to the particular disadvantage, the Claimant relies upon the disadvantaged identified in paragraph 12 above.
+
+18. Was/were the PCPs a proportionate means of achieving a legitimate aim, s19(2)(d)? The Respondent contends that the legitimate aim was to ensure that appropriate levels of education and support were delivered to pupils and that staff sickness absence was managed appropriately. Harassment – Section 26 Equality Act 2010
+
+19. Did the Respondent engage in unwanted conduct as follows:
+
+a. Issue the Claimant with a Formal Written Warning on 20 January 2022 for her sickness absence at the first meeting about her absence?
+b. Escalate her case to Stage 3 of the Sickness Absence Procedure without going through Stage 2 and/or escalate her case for termination?
+
+20. Was the conduct related to the Claimant’s disability?
+
+21. Did the conduct have the purpose of violating the Claimant’s dignity or creating an intimidating, hostile, degrading, humiliating or offensive environment for the Claimant?
+
+22. If not, did the conduct have the effect of violating the Claimant’s dignity and/or creating an intimidating, hostile, degrading, humiliating or offensive environment for the Claimant?
+
+Remedy
+
+23. If any of the Claimant’s complaints are upheld, how much compensation should be awarded to the Claimant?
+
+24. Was the Respondents’ conduct aggressive, high-handed, malicious and/or oppressive? If so, would it be appropriate to award the Claimant aggravated damages?

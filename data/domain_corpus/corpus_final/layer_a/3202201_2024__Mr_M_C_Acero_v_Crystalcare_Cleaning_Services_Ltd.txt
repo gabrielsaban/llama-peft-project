@@ -1,0 +1,44 @@
+JUDGMENT
+
+The judgment of the Tribunal is that: -
+
+1. The Claimant having failed to attend or to be represented at the hearing on 1 December 2025, his claims are dismissed under rule 47 of the Employment Tribunal Procedure Rules 2024.
+
+REASONS
+
+1. The claim form was presented on 9 December 2024, after an ACAS early conciliation period between 8 November and 4 December 2024. The claims are of age discrimination, disability discrimination, and notice pay.
+
+2. A preliminary hearing for case management was listed for 26 June 2025 before EJ Smyth. The Judge recorded as follows: ‘The Preliminary Hearing today is postponed because of technological and language issues. The claimant joined the hearing, but both his camera and his microphone were off. It is unclear whether he could hear. After speaking to the claimant by telephone, the Tribunal’s clerk stated that the claimant is unable to turn his camera and microphone on, and he requires an interpreter because he speaks limited English. I note that in section 12.1 of the ET1 form the claimant does make a request for an interpreter. This request is repeated in section 1.4 of the claimant’s Case Management Agenda, albeit this was emailed for the first time on Sunday 22 June 2025. There was no attendance by Mr Jonhky Gregorio Martínez Aguilera, who according to the claimant was intending to attend the hearing as his Mackenzie Friend. In the circumstances, the Preliminary Hearing plainly could not fairly proceed as the claimant was unable to participate. The hearing is postponed to 2pm on 1 December 2025. The hearing shall take place at East London Tribunal Hearing Centre, 2nd Floor Import Building, 2 Clove Crescent, London E14 2BE. The Tribunal will book a Spanish speaking interpreter.’
+
+3. It is clear from this that any barrier to the Claimant’s attending was technological and linguistic, rather than anything relating to the Claimant’s hearing impairment; I note that the Claimant was able to communicate with the Tribunal’s clerk on that occasion over the phone. That is consistent with the Claimant having ticked the box at 1.11 of the ET1 confirming that he could take part in both video and phone hearings.
+
+4. EJ Smyth’s preliminary hearing summary, confirming the date and location of the hearing, was sent to the parties on 1 July 2025. A notice confirming again the date and location of the hearing was sent to the parties on 25 November 2025.
+
+5. The Respondent’s representative, Mr Pal attended the hearing, as did the interpreter the Tribunal had booked, Ms Pineiro. Mr Pal informed me that he had not had any communication from the Claimant since the June hearing. He had re-sent to the Claimant the Respondent’s agenda and preliminary hearing bundle last week; the Claimant did not reply.
+
+6. The Claimant did not attend the hearing, nor did Mr Martínez Aguilera. There had been no application to postpone the hearing on any ground, nor any form of notification from the Claimant that he would not be attending.
+
+7. I asked my clerk to try and contact Mr Martínez (who was still recorded on the system as representing the Claimant); he called him three times but it went to voicemail. My clerk then called the Claimant himself. He answered the phone but when my clerk announced himself, the Claimant said that he did not understand English. At my request, my clerk then phoned him again and asked the interpreter to translate for him. She spoke to the Claimant in Spanish. The Claimant then said that he could not hear; he asked her (in English) to text him. She explained that she was the interpreter but he repeated that he could not hear her. He then went silent and stopped responding; the clerk decided to terminate the call.
+
+The law
+
+8. Rule 47 provides: If a party fails to attend or to be represented at the hearing, the Tribunal may dismiss the claim or proceed with the hearing in the absence of that party. Before doing so, it shall consider any information which is available to it, after any enquiries that may be practicable, about the reasons for the party’s absence.
+
+9. I had regard to the Court of Appeal case of Roberts v Skelmersdale College [2004] IRLR 69. Although it was decided under the old rules, there is sufficient similarity between the two rules that it remains good law. The following principles emerge (so far as they apply to new rule 47):
+
+9.1 the rule confers a very wide discretion;
+9.2 the rule does not impose on an employment tribunal a duty of its own motion to investigate the case before it, nor to satisfy itself that on the merits the Respondent has established a good defence to the claim of the absent employee;
+9.3 the Tribunal has a discretion to require the employer to give evidence, but no duty to do so;
+9.4 before making a decision the Tribunal shall have regard to the information required under the rule. Decision
+
+10. The Claimant has known about the hearing since June; he has also known that it was relisted in person, specifically to avoid any technical obstacles to his participation; he has known that the Tribunal would book a Spanish interpreter, further to assist him.
+
+11. If the Claimant had been unable to attend for a good reason, the only reasonable course would have been to notify the Tribunal and the Respondent. He did not do so. His representative did not take the Tribunal’s call. As for the Claimant’s conduct today, I find on the balance of probabilities that he deliberately frustrated attempts by the Tribunal to speak to him to find out why he was not at the hearing, first stating that he could not understand my clerk’s English (which I might have accepted), then stating that he could not hear the interpreter’s Spanish, which I did not accept was true in the circumstances I have set out above.
+
+12. I am satisfied that the Claimant chose not to attend. I have concluded that the his non-attendance at the hearing was deliberate and disrespectful to the Tribunal.
+
+13. There was no possibility of my seeking to progress this case in the Claimant’s absence: the claim form is unclear and requires extensive particularisation.
+
+14. I had regard to the fact that the dismissal of a case under rule 47 is a severe sanction. I considered whether it would be right, as an alternative, to adjourn the hearing to another occasion. I decided that, in the circumstances, it would not. If the case were relisted, given the current caseload of the Tribunal, it would be many months before it could come on for hearing. I had no confidence that the Clamant would attend on that occasion. I also had regard to Tribunal resources. There is huge demand for hearings in this region and some parties are having to wait well over a year for their cases to come on. It would not be right, in my view, for time and resources to be allocated to the Claimant’s case in circumstances where he has elected not to participate in the proceedings in this way.
+
+15. In all the circumstances, I dismiss the Claimant’s case under rule 47, because he has neither attended nor been represented at this hearing.

@@ -1,0 +1,262 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The judgment of the Tribunal is that:
+
+(1) The claimant was unfairly dismissed.
+
+(2) The respondent is ordered to pay to the claimant the sum of £10,926.46 in respect of compensation for unfair dismissal.
+
+(3) The Employment Protection (Recoupment of Benefits) Regulations 1996 apply to this award. The prescribed element is £5303.36 and relates to the period from 12 February 2025 to 31 October 2025. The monetary award exceeds the prescribed element by £5623.10.
+
+Introduction and issues
+
+1. This is the claim of Mr Jack Caird v British Telecommunications Plc. At the outset of the hearing it was clarified with the parties that the only claim pursued was one of unfair dismissal. The parties agreed that the issues to be determined in this claim were as follows:
+
+a. What was the reason or principal reason for dismissal? The respondent says the reason was conduct.
+b. Whether, in all the circumstances, the respondent acted reasonably in treating the reason shown as sufficient reason for dismissal, taking into account its size and administrative resources, and in accordance with equity and the substantial merits of the case. 8001509/2025 Page 2
+c. The Tribunal will need to decide:
+i. Did the respondent have a genuine belief in the claimant’s misconduct as alleged?
+ii. Did it form that belief on reasonable grounds, having conducted as much of an investigation as was reasonable in the circumstances?
+iii. Was the investigation within the range of reasonable investigations?
+iv. Was the decision to dismiss within the band of reasonable responses?
+v. Did the respondent follow a fair procedure?
+
+2. The Tribunal had before it a joint hearing bundle running to 205 pages. During the course of the hearing the Tribunal was also provided with a copy of an invite to disciplinary letter and two policies (BT Code and Acceptable use of IT systems policy).
+
+3. The Tribunal heard evidence from Mr Caird on his own behalf, and on behalf of the respondents: Mr Michael Aitken, who attended in person, and Mr Jeremy Smitham, who gave evidence by Cloud Video Platform.
+
+Findings of Fact
+
+4. The claimant commenced employment with the respondent as a Customer Service Advisor on 1 October 2019. The respondent is a well known telecommunications and network provider. The claimant was employed at the Contact Centre operated by the respondent in Dundee.
+
+5. In or around January 2025 a report was made that expressed concerns and allegations around the misuse of BT communication platforms at the Dundee Contact Centre, specifically on Microsoft Teams. The BT Corporate Investigations Team carried out an investigation and looked at Teams messages between 1 October 2024 and 9 January 2025.
+
+6. They identified three messaging chats on Teams that the claimant was involved in that it considered were of concern. The first was dated 25 October 2024. In response to a colleague wishing someone a happy birthday, the claimant had responded with the words ‘arab bastard’. The second was dated 22 November 2024. The claimant had shared a screenshot of an internal
+
+8001509/2025 Page 3
+
+email detailing that November was Islamophobia Awareness Month and that the respondent’s Muslim Network were running an event on 28 November that employees could choose to attend. The claimant had then posted the messages ‘a full month iy’ and ‘cos thats what this nation needs right now’. A colleague had responded with the message ‘bit Islamophobic there jack, think you should attend’ and another colleague had sent messages that read ‘wanna bomb it’ and ‘karma’. The third messaging chat was dated 31 October 2024. The claimant had posted the message ‘im going to Warsaw for 2 nights in 3 weeks. considering doing 1 extra night in Krakow while in Poland but dk’ followed by ‘go see Auschwitz’ and a colleague had responded with the message ‘bring is back a pair of shoes’.
+
+7. The Corporate Investigation Team’s report recommended assessment of their report to assess whether the claimant had a misconduct case to answer in respect of breaching BT Policies and Procedures in respect of ‘Our Code’, ‘Standards of Behaviour’ and ‘Security Standards’ and it was also recommended that HR conduct an educational piece of work within the Contact Centre covering appropriate language and behaviour within the workplace.
+
+8. On 14 January 2025 the claimant’s line manager, Jamie MacDougall, conducted a 15 minute online meeting with the claimant during which the claimant was shown the three messaging chats referred to in the report by way of a screenshare over Teams. The claimant was not asked for his response or any explanation about the messages. The claimant was informed that he was being suspended whilst the matter was being investigated. A brief note was prepared by Mr MacDougall following that discussion. The note did not record anything the claimant had said during the meeting.
+
+9. On 16 January 2025 Mr MacDougall prepared a note headed ‘Summary of facts and investigating manager’s recommendation’ in which he recorded that ‘The evidence provided by BT Security is clearly a serious breach of our Standards of Behaviour policy. Given the seriousness of the allegations Jack Caird has been suspended from Duty in order to protect the integrity of the investigation. I recommend that this case is progressed as gross misconduct under the company’s disciplinary procedure.’
+
+10. The case was then assigned to Mr Aitken, Insight and Optimisation Manager based in Glasgow. The claimant was not the only individual to be subjected
+
+8001509/2025 Page 4
+
+to disciplinary proceedings as a result of the Corporate Investigation Team’s enquiries. In total 12 individuals employed at the Dundee Contact Centre were disciplined and subsequently dismissed. Mr Aitken dealt with 6 of the 12 cases.
+
+11. The claimant was sent an invite to a disciplinary hearing on 31 January 2024. That document was not included in the joint hearing bundle but Mr Brown was able to provide a copy of it prior to the second day of hearing. The invitation was sent by HR rather than Mr Aitken and he was not involved in formulating the disciplinary charges. The letter set out the disciplinary allegations as follows: “I’m writing to let you know that the Company has now carried out its investigations relating to your conduct and specifically:- Serious breach of our Standards of Behaviour Policy Serious Breach of our Diversity and Inclusion Policy Serious misuse of our systems in that: Following a team wide investigation carried out by our security team, it was discovered that on 25th October 2024, you contributed to a Teams chat using an unprofessional term that could be deemed as racist. Also, on 22nd November 2024, you responded in a derogatory way to a screenshot of an email regarding Islamophobia Awareness month.”
+
+12. The invite letter noted that the claimant was required to come to a meeting to discuss the allegations outlined above and that the claimant would be given a full opportunity to state his case and respond to the allegations.
+
+13. The claimant attended the disciplinary hearing on 31 January 2025 and was accompanied by his union representative. Mr Aitken recorded the hearing and an automatic transcript of it was generated on his computer. The claimant explained during the hearing that the comment ‘Arab bastard’ was made in a group Teams chat of 12 friends in his department. There were two football teams in Dundee: Dundee and Dundee United. The claimant explained that he followed Dundee, and that the supporters of their rivals, Dundee United, were known as ‘the Arabs’. In this chat he was referring to his colleague as an ‘Arab bastard’ because he was a Dundee United supporter. The claimant explained that he and his colleague regularly spoke about football and both took part in light hearted banter about each other’s teams. There was no intention to verbally abuse or hurt his colleague, they had a good relationship. The claimant acknowledged that the use of the word ‘bastard’ was not appropriate for use on the workplace Teams chat and that he would like to apologise for that.
+
+8001509/2025 Page 5
+
+14. Mr Aitken responded that he knew that ‘the Arabs’ was the nickname for the Dundee United supporters. Having heard the explanation from the claimant, Mr Aitken was satisfied that this disciplinary allegation was not well founded and put it to one side in its entirety. He then turned to asking the claimant about the other allegation in the invite letter, the screenshot of the email about Islamophobia Awareness Month and the claimant’s comments with regard to that. The claimant explained that he had posted the screenshot with his comments because he questioned the length of time this was being held for and that he did not think it was effective to hold a full month of events. The claimant also explained that he had good relationships with Muslim friends and colleagues.
+
+15. Mr Aitken then referred to the comments that had been made by the claimant’s colleagues in response to his comments, in particular the comments that a colleague had posted that read ‘wanna bomb it’ and ‘karma’ and noted that those comments had gone unchallenged by the claimant. The claimant explained that he did not remember the comment being made, but that he did find it immature and naïve. He stated that at the time he had maybe not thought that it was his place to police that and that he was not comfortable doing that or challenging one of his colleagues. He did not feel it was his responsibility to report the comment.
+
+16. Mr Aitken asked how the claimant thought a Muslim colleague would feel if they had read that exchange and the claimant said that he thought they would feel offended. The claimant stated that he was not saying that there should not be awareness for Islamophobia, but that he felt that a full month was not appropriate and drew analogies with such events as Men’s and Women’s Mental Health Day and Armistice Day to which one day was dedicated, rather than the 30 days for this awareness initiative.
+
+17. The claimant stated he was not Islamophobic, he was just questioning the number of days the Islamophobia awareness event was being held for. He explained that he understood how the following messages from his colleagues could come across but that they were not sent by him.
+
+18. Mr Aitken then asked the claimant about the messages regarding the claimant’s trip to Poland. This messaging chat was not included in the disciplinary allegations set out in the invite letter. The claimant was asked why he didn’t ‘call out’ the comment made by a colleague about bringing back
+
+8001509/2025 Page 6
+
+a pair of shoes. The claimant explained that he considered it to be an immature comment and not acceptable, but that at the time he did not think it was something he should police or report. The claimant explained that he was more than happy to take advice about how to deal with these types of situations if they were to arise in the future.
+
+19. Following the disciplinary hearing Mr Aitken prepared the document ‘Discipline Rationale’ in which he set out his decision to summarily dismiss the claimant. The rationale made no mention of Mr Aitken’s decision not to uphold the first allegation with regard to the message ‘Arab bastard’. It was simply silent as to that allegation. In evidence Mr Aitken explained that this was because he had disregarded it entirely so that it was not necessary to refer to it in his rationale. The rationale did set out what the claimant had told Mr Aitken with regard to the messages about Islamophobia Awareness Month and visiting Poland and Auschwitz.
+
+20. Mr Aitken stated that his findings were that the claimant’s conduct was unacceptable and constituted a serious breach of the Standards of Behaviour Policy, Diversity and Inclusion Policy and serious misuse of BT’s systems. Mr Aitken found that the claimant’s comment ‘cos thats what this nation needs right now’ went beyond merely a comment on BT dedicating a whole month to Islamophobia and instead was a negative comment about attitudes to Muslims in society. Taken into context with the subsequent comment by a colleague of the claimant ‘wanna bomb it’ he found that this was a clear breach of policies.
+
+21. The decision to dismiss was confirmed in a letter dated 12 February 2025, attaching a copy of the disciplinary rationale.
+
+22. On 14 February 2025 the claimant appealed the decision to dismiss. Mr Smitham, Senior Manager of BT Voice Services Department, was appointed to hear the appeal. He dealt with 6 of the appeals arising out of the initial Corporate Investigations Team report. The claimant was invited to an appeal hearing that took place on 6 March 2025. Mr Smitham also recorded the appeal hearing with his laptop which generated a transcript. That transcript was not before the Tribunal, but rather a document headed ‘Appeal Meeting Summary Notes’ that Mr Smitham explained had been generated from the transcript by the use of Microsoft Co-Pilot.
+
+23. During the appeal hearing the claimant explained to Mr Smitham the response he had given to the allegation regarding the ‘Arab bastard’ comment, that Mr Aitken had accepted this explanation during the disciplinary
+
+8001509/2025 Page 7
+
+meeting, but that this had been entirely missed from the subsequent rationale he produced.
+
+24. The claimant also repeated his explanation in relation to the comments about Islamophobia Awareness Month and explained that he felt that in a democratic society that supports freedom of speech he should be able to share an opinion on whether an event is of the right duration. He reiterated that he was not Islamophobic and that he ran a multi-ethnic football club and had built fantastic relationships with Muslim friends and colleagues.
+
+25. The claimant explained that he felt he had been punished for responses made by others, that the culture of the workplace did not encourage reporting such comments, and that he did not think it was his responsibility to challenge the comments of others.
+
+26. Following the appeal hearing Mr Smitham interviewed the colleague to whom the claimant had made the comment ‘Arab bastard’. That colleague confirmed that he was a Dundee United supporter and that Dundee United supporters are known as ‘Arabs’.
+
+27. Mr Smitham produced an Appeal Decision Rationale. With regard to the ‘Arab bastard’ comment, whilst Mr Smitham stated that he was upholding this specific point of appeal, presumably in respect of the fact that Mr Aitken had failed to deal with this issue in his disciplinary rationale, Mr Smitham went on to find that the use of those words were a serious breach of the Diversity and Inclusion Policy, the Standards of Behaviour policy and the Acceptable Use Standards. He therefore effectively upheld the disciplinary charge that Mr Aitken had dismissed.
+
+28. In relation to the Islamophobia allegation Mr Smitham found that the claimant’s comment ‘cos that’s what the nation needs right now’ was a serious breach of BT’s Standards of Behaviour and the Diversity and Inclusion Policy and that his actions amounted to gross misconduct.
+
+29. Mr Smitham then set out a section of his rationale headed ‘Failure to Report’ and found that the claimant had not met BT’s expectations in BT’s Code or Standards of Behaviour and did not uphold the claimant’s appeal in this respect.
+
+30. Mr Smitham therefore rejected the appeal and concluded that the decision to dismiss should stand.
+
+8001509/2025 Page 8
+
+Relevant law
+
+31. Section 94 of the Employment Rights Act 1996 (‘ERA’) provides that an employee has the right not to be dismissed unfairly.
+
+32. Section 98 of the ERA provides that it is for the employer to establish the reason for dismissal. In terms of Section 98(2)(b) conduct is a potentially fair reason for dismissal.
+
+33. Section 98(4) provides: ‘Where the employer has fulfilled the requirements of subsection (1), the determination of the question whether the dismissal is fair or unfair (having
+
+regard to the reason shown by the employer) -
+
+(a) Depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee, and
+(b) Shall be determined in accordance with equity and the substantial merits of the case.
+
+34. The Tribunal has reminded itself that, while the initial burden of proof rests with the respondent to establish the reason for dismissal, the burden of proof in considering the reasonableness of the dismissal under section 98(4) is neutral.
+
+35. The Tribunal also reminded itself that an objective test of reasonableness applies to the respondent’s conduct of a disciplinary investigation Sainsbury’s Supermarket Ltd v Hitt [2003] ICR 111.
+
+36. In considering a dismissal for misconduct the starting point for the tribunal is the case of British Home Stores v Burchell 1980 ICR 303. What was said in that case was: ‘What the Tribunal have to decide every time is, broadly expressed, whether the employer who discharged the employee on the grounds of misconduct in question (usually, though not necessarily, dishonest conduct) entertained a reasonable suspicion amounting to a belief in the guilt of the employee of that misconduct at that time. That is really stating shortly and compendiously what is in fact more than one element. First of all, there must be established by the employer the fact of that belief, that the employer did believe it. Secondly, that the employer had in his mind reasonable grounds on which to sustain that
+
+8001509/2025 Page 9
+
+belief. And thirdly, we think, that the employer, at the stage at which he formed that belief on those grounds, at any rate at the final stage at which he formed that belief on those grounds, had carried out as much investigation into the matter as was reasonable in all circumstances of the case.’
+
+37. In terms of the decision to dismiss, the sanction imposed requires to be one which fell within the band of reasonable responses open to an employer in the circumstances – Iceland Frozen Foods v Jones [1982] IRLR 439.
+
+38. In Foley v The Post Office [2000] ICR 1283 Mummery LJ stated “This case illustrates the dangers of encouraging an approach to unfair dismissal cases which leads an Employment Tribunal to substitute itself for the employer or to act as if it were conducting a re-hearing of, or an appeal against, the merits of the employer’s decision to dismiss. The employer, not the tribunal, is the proper person to conduct the investigation into alleged misconduct. The function of the tribunal is to decide whether that investigation is reasonable in the circumstances and whether the decision to dismiss, in the light of the results of that investigation, is a reasonable response.” It is not for the Tribunal to substitute its own view as to whether it would have dismissed, but rather to determine whether the decision to dismiss falls within the band of reasonableness.
+
+39. In Strouthos v London Underground 2004 IRLR 636, CA the Court of Appeal stated that disciplinary charges should be precisely framed, and that evidence should be limited to those particulars. Pill LJ stated “…it does appear to me to be basic to legal procedures, whether criminal or disciplinary, that a defendant or employee should be found guilty, if he is found guilty at all, only of a charge which is put to him. What has been considered in the cases is the general approach required in proceedings such as these. It is to be emphasised that it is wished to keep proceedings as informal as possible, but that does not, in my judgment, destroy the basic proposition that a defendant should only be found guilty of the offence with which he has been charged…It does appear to me to be quite basic that care must be taken with the framing of a disciplinary charge, and the circusmtances in which it is permissible to go beyond that charge in a decision to take disciplinary action are limited…Where care has clearly been taken to frame a charge formally and put it formally to an employee, in my judgment, the normal result must be that it is only matters charged which can form the basis for a dismissal.”
+
+40. In the event that a claimant succeeds in their claim for unfair dismissal, when assessing remedy a reduction to the amount awarded in compensation can be made for contributory fault ‘where the dismissal was caused or contributed to any extent by any action of the claimant’ (section 123(6)). The legal
+
+8001509/2025 Page 10
+
+principles were summarised in Renewi v Pamment UKEAT/109/21 at paragraph 61: “First in assessing contributory conduct a Tribunal makes findings of fact on the balance of probabilities about what the claimant did. Second, a reduction may be made where the employee’s conduct before the dismissal was “culpable or blameworthy”: see Nelson v BBC (No.2) [1980] ICR 110. Third, if such conduct is found, the tribunal (i) has a discretion to make a reduction to the basic award where it considers it would be “just and equitable” to do so (s.122(2)); and (ii) where “the dismissal was to any extent caused or contributed to by” that conduct, the tribunal “shall reduce the compensatory award by such proportion as it considers just and equitable” (section 123(6)). Despite the difference in wording of these provisions, a tribunal will require a good reason to adopt a different approach to the two types of award.”
+
+41. The Trade Union and Labour Relations (Consolidation) Act 1992 makes provision for ACAS to issue Codes of Practice, and section 207A provides for unfair dismissal awards to be adjusted if either side has unreasonably failed to comply with the Code of Practice on Disciplinary and Grievance Procedures (2015). s.124A of the ERA states that the increase is applied only to the compensatory award and is applied before any reduction for contributory fault. Only unreasonable failures count, and where there has been an unreasonable failure the adjustment can be up to 25%.
+
+Analysis and conclusions
+
+Reason for dismissal
+
+42. Whilst it was clear that the claimant had been dismissed for a reason related to his conduct, neither Mr Aitken nor Mr Smitham were able to give clear evidence about the precise disciplinary allegations that the claimant was facing and for which he had been dismissed. During his evidence, Mr Aitken described that his understanding of the disciplinary charges related to three matters: (1) The comment ‘cos thats what the nation needs right now’ in relation to Islamophobia Awareness month (2) Failing to report the comments that the claimant’s colleagues had made on the chats relating to Islamophobia Awareness month and relating to Auschwitz (3) The comment ‘arab bastard’. This was not consistent with the disciplinary invite letter which included no charge relating to a failure to report other’s comments and no charge relating to the messages relating to Auschwitz.
+
+43. It was not until the respondent provided a copy of the invite to the disciplinary meeting prior to the second day of the hearing that it became clear to the Tribunal what the actual disciplinary charges were. Mr Smitham had not
+
+8001509/2025 Page 11
+
+checked the content of the specific disciplinary charges when hearing the claimant’s appeal and was therefore not able to articulate the factual content of the charges. Like Mr Aitken, he was also under the mistaken belief that the claimant was subject to disciplinary charges with regard to the messaging chat relating to Auschwitz. In his evidence he accepted that there was no disciplinary charge in relation to the claimant failing to report the comments of his colleagues, but Mr Smitham stated that this was something he had picked up when dealing with the appeal and it was clear that he placed weight on this aspect of the case when deciding to uphold the dismissal.
+
+44. The claimant was therefore dismissed for matters that had not formed part of the original disciplinary charges against him.
+
+Genuine belief in misconduct
+
+45. The Tribunal accepted, on the evidence of Mr Aitken and Mr Smitham, that they had a genuine belief that the claimant was guilty of some misconduct. However, their belief as to the nature of that misconduct, as set out above, had gone significantly beyond that which formed part of the disciplinary allegations against the claimant. Both Mr Aitken and Mr Smitham based their decisions on matters that had not been included in the disciplinary charges communicated to the claimant in the invite to disciplinary letter. They both relied on the fact that the claimant had failed to challenge, or to speak up about, the comments made by the claimant’s colleagues. This did not form any part of the disciplinary allegations against the claimant. They had also both relied on the messaging chat relating to Auschwitz which formed no part of the disciplinary charges.
+
+Reasonable investigation
+
+46. Mr MacDougall was appointed as the investigatory manager in this case. In his report of 16 January 2025 Mr MacDougall stated “The evidence provided by BT Security is clearly a serious breach of our Standards of Behaviour policy” and therefore recommended that the case be progressed as gross misconduct under the company’s disciplinary procedure. At the time Mr MacDougall made this decision he had not carried out any investigations at all. During his 15 minute meeting with the claimant on 14 January 2025 he did not ask the claimant any questions or give the claimant the opportunity to provide any explanation about the Teams messages. Mr MacDougall had not interviewed any other employees about the messages. He relied solely on
+
+8001509/2025 Page 12
+
+the report forwarded by the Corporate Investigations Team in relation to the Teams messages. The Corporate Investigations Team had simply searched the respondent’s systems for any language that appeared to be of concern. It had not carried out any wider investigations such as interviewing the employees involved.
+
+47. In his evidence, Mr Aitken explained that the respondent’s procedures provided that Mr MacDougall, as the investigatory manager, should conduct the initial investigatory interview with the claimant to give him the chance to provide an explanation, and then a decision should be taken as to whether there had potentially been misconduct, rather than gross misconduct, or whether this was a matter that could be dealt with by a sanction less than dismissal. If that was so, Mr MacDougall could deal with the matter himself. If, however, after that initial investigation, it appeared to be a case of potential gross misconduct, this was then passed to a second line manager to conduct the disciplinary procedure. The Tribunal concluded that, whilst this was clearly what the respondent’s procedures required, Mr MacDougall did not complete this step in the procedure, simply making the decision that this was a case of gross misconduct on the basis of the content of the messaging chats themselves, without any regard to the claimant’s explanation or any other investigation or evidence.
+
+48. The first and only opportunity the claimant had to set out his explanation in relation to the disciplinary allegations prior to his dismissal was at the disciplinary hearing with Mr Aitken on 31 January 2025. The claimant had been informed that he was answering the two allegations set out in the disciplinary invite letter. He had not been informed that there was any disciplinary charge in relation to his alleged failure to report the comments of his colleagues. Mr Aitken did not carry out any further investigations of his own prior to making the decision to dismiss.
+
+49. The only investigations carried out by Mr Smitham at the appeal stage were to interview the individual to whom the claimant had made the comment ‘Arab bastard’ which was the disciplinary allegation that Mr Aitken had in fact dismissed.
+
+50. The Tribunal concludes that the respondent’s investigation, such as there was, did not fall within the range of reasonable investigations. At the very least, the respondent should have sought the claimant’s explanation prior to making the decision to commence disciplinary proceedings for gross misconduct. In failing to do so it also lost the opportunity to carry out other reasonable investigations arising from those explanations.
+
+8001509/2025 Page 13
+
+Reasonable grounds for the belief in misconduct
+
+51. Mr Aitken stated in evidence that he had rejected the claimant’s evidence that he was referencing the length of the Islamophobia Awareness event in his Teams messages because the claimant’s explanation did not match the conversation. Mr Aitken made no reference, either in his disciplinary rationale, or in his evidence to this Tribunal, to the claimant’s message that had preceded the comment ‘cos that’s what the nation needs right now’ which had read ‘a whole month, iy’ and was therefore entirely consistent with the explanation the claimant later gave during the disciplinary process that his second comment was a reference to the duration of the event. Mr Aitken did not explain why, on the basis that the claimant had expressly referenced the length of the event at the time of making the comment, he nevertheless rejected that explanation. It was not clear that Mr Aitken had in fact paid any heed to the other messages in the chat that were set out in the Corporate Investigation Team’s report and in particular the claimant’s comment ‘a whole month, iy’.
+
+52. Mr Smitham also said that he believed that the explanation the claimant had provided was ‘a long way from the words used and comment posted’. He too made no reference to the claimant’s comment ‘a whole month, iy’ and could provide no clear explanation as to why he had disregarded this as corroborating the claimant’s explanation. When his attention was drawn to the comment in the Corporate Investigation Team’s report during his evidence he seemed somewhat surprised by the presence of it. It was not apparent that he had taken any account of it at all during the appeal and could not explain why, on the basis that clear reference had been made by the claimant to the duration of the event, he rejected out of hand the claimant’s explanation that this is what he was referring to when he had stated ‘cos that’s what the nation needs right now’.
+
+53. Mr Aitken had reached the conclusion that the claimant was not guilty of any misconduct in respect of the ‘arab bastard’ allegation and had disregarded that allegation entirely in his decision. Despite this, and despite upholding the claimant’s point of appeal in relation to Mr Aitken failing to set out the fact that he had dismissed this allegation in his disciplinary rationale, Mr Smitham effectively reopened this allegation and went on to find that it amounted to misconduct.
+
+54. In reaching the decision to dismiss, Mr Aitken also had regard to the claimant’s failure to report the comments of his colleagues. This did not form part of the disciplinary allegations against the claimant. It was also clear that Mr Aitken’s conclusions with regard to the allegation regarding the comment ‘cos thats what this nation needs right now’ were heavily influenced by the
+
+8001509/2025 Page 14
+
+comments that the claimant’s colleagues had made in response to that comment, rather than the actions of the claimant himself. Mr Aitken also had regard to the comments of the claimant’s colleagues on the messaging chat relating to Auschwitz which had formed no part of the disciplinary charges.
+
+55. It was clear from Mr Smitham’s evidence that in determining that dismissal was the correct outcome at the appeal stage, he too had placed significant weight on the claimant’s failure to report the comments of his colleagues, including in relation to the messages relating to Auschwitz, stating in evidence that the respondent’s expectations are that all employees have an obligation to report instances where inappropriate language has been used and that because the claimant had failed to do so his conduct fell short of the respondent’s expected standards of behaviour.
+
+56. No disciplinary charge had formally been put to the claimant with regard to the claimant’s failure to report the comments of his colleagues. Even if that disciplinary charge had been put to the claimant, the Tribunal had reservations as to whether this could have amounted to gross misconduct given Mr Aitken’s admission during evidence that the respondent’s policies and procedures did not communicate to employees that a failure to report inappropriate comments made by colleagues could itself amount to misconduct by the individual failing to report.
+
+57. It was not reasonable for the respondent to judge the claimant’s conduct against the context of his colleagues’ comments. In particular in relation to the messaging chat regarding Auschwitz it was clear that the claimant was simply sharing his travel plans and his intention to visit Auschwitz while visiting Poland. Nothing in his messages showed any inappropriate conduct. Mr Aitken accepted during his evidence that the claimant could not be held responsible for the comments that the claimant’s colleagues had made during the chats. However, it is also clear that Mr Aitken was influenced by those comments in concluding that the claimant should be dismissed.
+
+58. Mr Aitken also volunteered in evidence that if it hadn’t have been for the failure to report his colleague’s comments, there may have been a different outcome to the disciplinary process. He stated that, in the absence of the other comments made by the claimant’s colleagues, he would probably have concluded that the comment questioning Islamophobia Awareness Month would amount to misconduct rather than gross misconduct.
+
+59. In reaching his decision to dismiss, Mr Aitken relied on the fact that the claimant had accepted that if his Muslim friends had seen the conversation that they would have been offended. However it was clear from the claimant’s
+
+8001509/2025 Page 15
+
+case at the disciplinary hearing that this was a reference to the comments made by the claimant’s colleagues, not by the claimant himself.
+
+60. Neither Mr Aitken or Mr Smitham, on the evidence before them, had reasonable grounds to conclude that the claimant had breached the respondent’s policies in making a comment about the duration of Islamophobia Awareness Month. The evidence showed that the comment made by the claimant was not a reference to the BT event that was advertised in the screenshot of the email he had shared, which was an event taking place on one day during Islamophobia Awareness Month. The claimant’s comment in fact referred to the wider month long campaign which Mr Smitham accepted was a UK wide campaign and not a BT initiative.
+
+61. There was no evidence before either Mr Aitken or Mr Smitham on which they could reasonably conclude that the claimant’s cynicism about the effectiveness of a month long event dedicated to Islamophobia awareness itself amounted to the claimant expressing Islamophobic or discriminatory views. There was no evidence to suggest that the claimant was making any derogatory comment about the one day event that the respondent’s Muslim network was running during the awareness month. The claimant’s explanation during the disciplinary process was consistent with the contemporaneous evidence set out in the messages themselves and it was not reasonable for the respondent to conclude otherwise.
+
+62. Mr Aitken accepted under cross examination that the respondent had encouraged employees to communicate via Teams and that this had started during the Covid pandemic. He also agreed that the respondent had never informed employees that they should not use Teams chats to communicate informally about non work matters with colleagues.
+
+63. The appeal decision rationale incorrectly stated that the claimant had been dismissed because of the two allegations that had been set out in the disciplinary invite letter. In fact the allegation that the claimant was in breach of policies by contributing to a team’s chat using an unprofessional term that could be deemed to be racist (the ‘Arab bastard’ comment) had not been upheld by Mr Aitken and was not the reason the claimant had been dismissed. At the appeal stage, that dismissed charge was reopened and Mr Smitham also repeated the errors of Mr Aitken in relying on matters that had not formed part of the original disciplinary charges.
+
+64. For these reasons the Tribunal concludes that the claimant’s dismissal was procedurally and substantively unfair. It was not within the range of reasonable responses for the respondent to dismiss the claimant for
+
+8001509/2025 Page 16
+
+expressing cynicism about the duration of Islamophobia Awareness Month, nor was it within the range of reasonable responses to dismiss the claimant for failing to report the comments of his colleagues that had not been formally put to him as disciplinary allegations. The claimant had not been dismissed for use of the phrase ‘arab bastard’ as it had been accepted that this was not racially discriminatory and instead referred to the nickname for Dundee United fans. That disciplinary allegation was dismissed in its entirety at the disciplinary hearing stage, but was subsequently used to justify upholding the claimant’s dismissal on appeal.
+
+Remedy
+
+65. The parties helpfully provided an agreed joint loss calculation that the Tribunal has used as the basis for calculating the basic and compensatory awards.
+
+Basic award
+
+66. The parties agree that, based on the claimant’s gross weekly pay of £563.76 with the respondent, and the relevant multiplier of 3.5 based on the claimant’s age and service, that the appropriate basic award is £1973.19.
+
+Compensatory award
+
+67. The parties agree that the claimant is entitled to loss of statutory rights in the sum of £500.
+
+68. From the date of dismissal to the date of the hearing the claimant had incurred loss of earnings at the net weekly pay rate of £439.13, he had therefore incurred losses of £16,247.81. The claimant was able to secure alternative employment with Carnoustie Golf Links from 20 April 20215 to 31 October 2025. A period of 27.5 weeks earning net weekly pay of £397.98 giving him a total income of £10,944.45. This meant that the claimant had incurred loss of earnings from the date of dismissal to the date of hearing in the sum of £5303.36. As the claimant claimed some Job Seekers Allowance and Universal Credit during his periods of unemployment this sum will be subject to the Recoupment Regulations as set out below.
+
+69. With regard to future loss of earnings, the claimant has secured a new job with Virgin Media which will commence on 24 November 2025. He will therefore incur 3 weeks of loss at the net weekly pay rate of £439.13 from the end of his job with the Carnoustie Golf Links and the start of his new role with Virgin Media, in the sum of £1317.39.
+
+8001509/2025 Page 17
+
+70. The parties agree that in his new role with Virgin Media the claimant will be earning net weekly pay of £385.52. This is an ongoing loss as compared to his net weekly pay rate with the respondent of £53.61 per week. The parties also agree that these losses should only be awarded up to 1 April 2026 as the claimant then intends to become self employed doing caddy work from that date and will be able to fully mitigate his losses. The period of 24 November 2025 to 1 April 2026 is 19 weeks, multiplied by the net weekly loss of £53.61 amounts to £1018.59.
+
+71. The claimant does not seek any compensatory award for pension loss.
+
+72. The total compensatory award is therefore £8139.34.
+
+Contributory fault
+
+73. The respondent submits that a reduction to the basic and compensatory awards should be made because of the claimant’s actions in terms of the comments made and the failure to report the comments of his colleagues.
+
+74. The Tribunal finds that the claimant was not guilty of culpable or blameworthy conduct in expressing cynicism about the duration of the Islamophobia Awareness Month. With regard to the ‘arab bastard’ comment the Tribunal also accepts, as did Mr Aitken, that the explanation for this was that fans of Dundee United are known as ‘the Arabs’ and that this was not meant in any derogatory sense. The claimant accepted that the use of the word ‘bastard’ on his workplace Microsoft Teams network was not appropriate and apologised for it. The Tribunal does not consider that this is sufficient to amount to culpable and blameworthy conduct that would render it just and equitable to reduce the basic or compensatory award, particularly in light of the fact that the claimant was not dismissed for the making of that comment. The claimant did not behave at all inappropriately in the comments he made om the messaging chat relating to Auschwitz. He cannot be held accountable for the unacceptable comments of his colleagues. The Tribunal accepted the claimant’s evidence that he was entirely unaware that the respondent’s policies required him to report his colleagues if they were to make comments that he considered to be inappropriate and the Tribunal accepts that his failure to do so was neither culpable or blameworthy so as to cause or contribute to the dismissal.
+
+75. The Tribunal therefore makes no reduction in respect of contributory fault.
+
+8001509/2025 Page 18
+
+ACAS uplift
+
+76. The ACAS Code of Practice on Disciplinary and Grievance Procedures (2015) provides at paragraph 9 that if it is decided that there is a disciplinary case to answer, the employee should be notified of this in writing and the notification should contain sufficient information about the alleged misconduct and its possible consequences to enable the employee to prepare to answer the case at a disciplinary meeting. As the Tribunal concluded above, in this case the claimant was not provided with the full information and disciplinary charges for which he was subsequently dismissed.
+
+77. The Tribunal accepts that this was not deliberate action in breach of the Code, but was indicative of a careless approach to the formulation and subsequent consideration of disciplinary charges and it was therefore an unreasonable failure to follow the guidance set out in the Code. The Tribunal therefore considers that a 10% uplift to the compensatory award is appropriate. This adds a further £813.93 to the compensatory award.
+
+Recoupment
+
+78. The Employment Protection (Recoupment of Benefits) Regulations 1996 apply to the compensatory award in this case as the claimant received recoupable state benefits of Jobseeker’s Allowance and Universal Credit. The monetary award for unfair dismissal in this case is £10,926.46. The amount of the prescribed element, namely that part of the compensatory award which relates to compensation for loss of earnings between dismissal and remedy hearing is £5303.36. The prescribed period is12 February 2025 to 31 October 2025. The monetary award exceeds the prescribed element by £5623.10.
+Date sent to part ies 21 November 2025

@@ -1,0 +1,117 @@
+JUDGMENT
+
+The judgment of the tribunal is that:
+
+1. The claimant’s application for interim relief is granted and a continuation of contract order is made within the meaning of section 129(9)(b) of the Employment Rights Act 1996
+
+REASONS
+
+Introduction
+
+1. This hearing is to determine the claimant’s application for interim relief.
+
+2. The claimant was employed by the respondent as a Maintenance Technician on 2 June 2024. He was dismissed on 12 September 2025 and paid a week’s pay in lieu of notice.
+
+3. By a claim presented on 12 September 2025 the claimant presents a claim of automatically unfair dismissal for making a protected disclosure (whistleblowing), section 103A ERA 1996.
+
+The law
+
+4. Section 128 ERA 1996 sets out the application requirements and the respondent accepts that the claimant has complied.
+
+5. Section 129(1) of the ERA provides as follows:- “129 Procedure on hearing of application and making of order.
+
+(1) This section applies where, on hearing an employee's application for interim relief, it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find—
+
+(a) that the reason (or if more than one the principal reason) for the dismissal is one of those specified in—
+(i) … 103A, or
+(ii) …”
+
+6. As per the IDS Employment Law Handbook Unfair Dismissal at 18.22:-
+
+“Likelihood of success
+
+…
+
+The test is whether “it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find” that the automatically unfair reason for dismissal is established. The EAT in London City Airport Limited v Chacko [2013] IRLR 610 EAT, stated that this test requires the tribunal to carry out an “expeditious summary assessment” as to how the matter appears on the material available, doing the best it can with the untested evidence advanced by each party. This, it observed, necessarily involves a far less detailed scrutiny of the parties’ cases than will ultimately be undertaken at the full hearing.” And, at 18.23: “When considering the “likelihood” of the claimant succeeding at tribunal, the correct test to be applied is whether he or she has a “pretty good chance of success” at the full hearing – Taplin v C Shippam Limited [1978] ICR 1068, EAT. In that case, the EAT expressly ruled out alternative tests such as a “real possibility” or “reasonable prospect” of success, or a 51% or better chance of success. According to the EAT, the burden of proof in an interim relief application was intended to be greater than that at the full hearing, where the tribunal need only be satisfied on the “balance of probabilities” that the claimant has made out his or her case – i.e. the “51% or better” test.”
+
+7. I am not making findings of fact.
+
+8. The test needs to be applied to all elements of the claim.
+
+9. Section 43B ERA 1996 provides as follows:- “43B Disclosures qualifying for protection.
+
+(1) In this Part a “ qualifying disclosure ” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and tends to show one or more of the following—
+
+(a) that a criminal offence has been committed, is being committed or is likely to be committed,
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
+(d) that the health or safety of any individual has been, is being or is likely to be endangered,
+(e) that the environment has been, is being or is likely to be damaged, or
+(f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.” The facts Qualifying disclosure
+
+10. I have looked at the material before me.
+
+11. In his ET1 claim form the claimant states:- “On Wednesday 9th [should be 10th] of September I went to the HR Department, hoping to chat with Alison Marshall the HR Manager, I couldn’t find her but was able to speak to her subordinate, Luch Rigby-Clarke. She invited me into the vacant domestic bursar’s office for a confidential chat. I wanted to reach out and talk about all of the problems facing the college with regard to the management of the estate and the maintenance department – of which I am the sole full-time technician. I related to her the mess the estate was in with regard to fire and safety compliance, the lack of competent staff and the stress I was under trying to get things shipshape for a new term and the arrival of the students.”
+
+12. In a statement made by Alison Marshall dated 11 September 2025 she states as follows:- “• Spoke to Lucy (HR Assistant) yesterday. Said he is waking at night because he is worried about serious compliance issues, especially fire safety. He said things are delayed, ignored or not dealt with. He also said he doesn’t think Paul (Assistant Maintenance Manager) is qualified to do the job and wasn’t happy that he’d been asked to become Interim Maintenance Manager. “
+
+13. In a further statement Alison Marhsall says:- “PJ spoke with Luch on Wednesday 10th September. Lucy isn’t sure of the exact time of this conversation, but it would have been between 1pm and 3pm. PJ told Lucy he was waking at night because he was worried about compliance issues and fire safety. He said things are being delayed, ignored, or not dealt with. When he had spoken to the previous maintenance manager (who left at the end of July) about this, they had said “Don’t let it get to you, its how it is”. He told Lucy that he respects SA, he’s very knowledgeable, but he has the impression SA is being rushed out and has been told he has to leave. He also told Lucy he doesn’t think Paul is qualified to do the manager’s job, he panics and flaps, and is not a good leader. He leads Paul.”
+
+14. SA is Stuart Ahrens.
+
+15. In Alison Marshall’s witness statement for these proceedings she states:- “I was aware from a discussion with Lucy Rigby-Clarke (HR Administrator) which took place on Wednesday 10th September 2025 that the claimant had said he was worried out things not getting done in relation to maintenance. The claimant also said to Ms Rigby-Clarke that he did not think Paul Darke (Assistant Maintenance Manager) was qualified to do the job of Interim Manager and wasn’t happy that Mr Darke had been asked to become Interim Maintenance Manager.”
+
+16. More details of the nature of the claimant’s concerns are contained in a whistleblowing letter by the claimant dated 11 September 2025 but which he told me was only sent to the respondent on 13 September 2025 after his dismissal on 12 September 2025. It states:- “… The evidence is there in the reality on the ground and in the records within the lodge and made by the fire safety contractors. It is a demoralising reality faced and managed on a daily basis by the maintenance team. Compliance issues aside there is a multi-million pound refit to the main building with electrics shoddily finished, a lift inadequately installed, an air management system that is uncontrollable and a plinth so badly finished that in heavy rain the basement gents toilets are practically unusable. Within the Hilde Besse the fire curtain hasn’t operated since I arrived and this reflects the fire safety systems site wide; emergency lighting systems in the Gateway building that don’t operate, that the building management systems prevent from upgrading, fire doors that won’t close, fire risers that aren’t properly fitted and smoke vents that will not operate. Appliances for smoke and fire detection are non-compliant across the estate, fire detection control panels falling apart, a total lack of central communication with the lodge and the constant occurrences of ghost alerts that are crying wolf.” Whilst this postdates the claimant’s dismissal it provides further details of the issues the claimant was raising pre-dismissal.
+
+17. In my judgment, the claimant has a pretty good chance of successfully establishing that on 10 September 2025 he disclosed information to Lucy Rigby- Clarke that there were serious compliance issues, especially fire safety, and that things were delayed, ignored or not dealt with by management.
+
+18. In my judgment, the claimant has a pretty good chance of successfully establishing that he genuinely believed in the information and that that belief was reasonable.
+
+19. In my judgment, the claimant has a pretty good chance of successfully establishing that the disclosure was in the public interest. There is a clear public interest in compliance with fire and other health and safety regulations.
+
+20. In my judgment, the claimant has a pretty good chance of successfully establishing that the information tended to show that the respondent was failing to comply with legal obligations, that the health or safety of individuals was being endangered and, possibly, that a criminal offence was being committed.
+
+21. Consequently, I find that the claimant has a pretty good chance of successfully establishing that he made protected disclosures on 10 September 2025.
+
+The claimant’s dismissal
+
+22. The claimant’s disclosure was clearly communicated to Allison Marshall. She says it was.
+
+23. At the time Mr Stuart Aherns was the Interim Maintenance Manager. He had been engaged on a fixed-term contract which expired on 3 October 2025.
+
+24. Mr Paul Darke was the Assistant Maintenance Manager.
+
+25. In her contemporaneous statement Alison Marhsall states:- “SA was appointed as Interim Maintenance Manager for a 3-month contract, with a very clear remit on work to be done during the summer vacation. During the course of his contract, SA began to raise maintenance and compliance issues but with no detail or specifics given and a reluctance to put anything in writing. Tanya [Baldwin] asked repeatedly for full information on these and in particular pressed for them on her return from leave in w/c 18 August and again w/c 1 September. Tanya reminded SA several times once she returned from leave on 1 Sept (there is an email dated 8 Sept with a written reminder if you need that?), as SA neared the end of his assignment, Tanya reminded him that he would be leaving the college on 3 October. It became apparent that he was expecting us to extend his contract, so he could do the work he was highlighting. Tanya and SA had a meeting at 1.30pm on 10 September when SA shared his list verbally with Tanya. SA had made it known to Tanya that he wasn’t happy that we weren’t asking him to stay on.”
+
+26. In a witness statement Stuart Aherns was adamant that his contract was terminated due to him raising legitimate health and safety concerns.
+
+27. In my judgment, the claimant has a pretty good chance of establishing that Stuart Ahrens provided the bursar a list of work that needed to be addressed on 10 September 2025 and that Stuart Ahrens’ contract was prematurely terminated on 11 September 2025. In his skeleton argument Mr McKeown states it was for bullying and intimidating colleagues. Mr McKeown has stated that as it is his instructions but I have seen nothing else to support it. The contemporaneous statement of Alison Marshall just quoted does not allude to that at all.
+
+28. On Friday 5 September 2025 the claimant learned that Paul Darke was to become Interim Manager on the termination of Stuart Ahrens’ contract on 3 October,. This was from a “Nicole” or via the staff newsletter or both. The claimant clearly did not like this and it was one of the issues raised with Lucy Rigby-Clarke on 10 September 2025.
+
+29. The claimant went to see Alison Marshall on 11 September 2025 to follow up on his disclosure to Lucy Rigby-Clarke. Alison Marshall says the meeting was to tell the claimant that Stuart Ahrens had left site and that Paul Darke was taking over. The meeting was clearly difficult for both sides.
+
+30. The claimant was later suspended by Dr Tanya Baldwin.
+
+31. The next morning the claimant was sent an email with a letter dismissing him. The letter states:-
+
+“Terminaiton of employment
+
+Further to your suspension from work yesterday, I am writing to confirm that your employment with the college is terminated with immediate effect in accordance with clause 8.2 and 8.3 of your contract.
+
+…
+
+The college is extremely concerned about the following matters: Following the departure of Stuart Ahrens (Interim Maintenance Manager), a meeting was held with you, Alison Marshall (HR Manager) and Paul Darke (Assistant Maintenance Manager) to update you about this matter and to say that you would now be reporting to Paul in the interim while a replacement was sought. Your conduct in this meeting was highly inappropriate with your sighing, smirking, and trying to take control of the meeting. You demanded to know why Paul was in the room and made it obvious that you would not be prepared to work with him cooperatively. You said you were not prepared to continue the meeting. You spoke to Alison in a disrespectful and intimidating way and accused her of gaslighting you. Alison told you that your tone was not appreciated and you had to be reminded that your attendance at the meeting was requested by the college. Alison explained that if you were unhappy, you could raise any concerns by way of a formal grievance. You refused to continue with the meeting, got out of your chair and left. Paul has confirmed that you have also acted in this way towards him and agreed with the charactersation of your actions as intimidating and bullying. The college had also become aware that your have been refusing to follow instructions from Paul, as well as persisting with a refusal to remove the pictures the warden had requested to be moved as well as carrying out unauthorised electrical work across the college estate despite instructions not do so. The college has therefore taken a view that it does not have any trust and confidence that you will carry out your duties when reasonably asked or that you will be able to create and maintain good working relationships with colleagues and others.”
+
+32. In my judgment, the claimant has a pretty good chance of establishing that the real reason for his dismissal was that he had made protected disclosures and was therefore automatically unfair.
+
+33. In my judgment, the claimant has a pretty good chance of successfully demonstrating the following:-
+
+(i) That both SA and himself were raising serious concerns about health and safety compliance and mismanagement.
+(ii) That the issues highlighted would raise serious questions about management competence and would have significant cost consequences in the context of a multi-million pound refit.
+(iii) That if the issues got into the public domain there would be a risk of significant reputational damage.
+(iv) That the timings of Stuart Ahrens’ departure on 11 September and the claimant’s departure on 12 September 2025 were not coincidental.
+(v) That the reasons advanced by the respondent for dismissal look contrived. Being disrespectful in a meeting probably needs to be put into context. The claimant had been told Stuart Ahrens had been asked to leave site. Alison Marshall accepted that hearing of Paul Darke’s promotion from a newsletter was something that should not have happened like that. Issues concerning not moving a picture, not following instructions from Paul Darke and doing unauthorised electrical work look like matters for management action and not disciplinary proceedings. Their inclusion in the reason for the dismissal points to a desire to try and justify a decision to dismiss on other grounds.
+(vi) In seeking to justify the termination of Stuart Ahrens’ contract and the claimant’s contract, similar allegations of bullying and intimidating are made against both of them which may not be coincidental.
+
+34. Consequently, the application for interim relief succeeds. The respondent has refused to reinstate or reengage the claimant so there will be a continuation of contract order.

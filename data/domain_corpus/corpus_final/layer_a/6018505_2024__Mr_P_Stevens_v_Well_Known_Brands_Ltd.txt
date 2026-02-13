@@ -1,0 +1,309 @@
+JUDGMENT
+
+Unfair Dismissal
+
+1. The complaint of unfair dismissal pursuant to section 98 of the Employment Rights Act 1996 is well-founded. The claimant was unfairly dismissed.
+
+Remedy
+
+2. The Claimant’s application for reinstatement is refused.
+
+3. The Claimant’s application for re-engagement is refused.
+
+4. Compensation. The claimant would have been fairly dismissed in any event. The period in which a fair dismissal would have been concluded is assessed at 4 weeks.
+
+5. The claimant caused or contributed to the dismissal by blameworthy conduct and it is just and equitable to reduce the compensatory award payable to the claimant by 50%.
+
+6. It is just and equitable to reduce the basic award payable to the claimant by 50% because of the claimant’s conduct before the dismissal pursuant to section 122(2) of the Employment Rights Act 1996.
+
+7. The respondent shall pay the claimant a basic award of £635.25 calculated as follows:
+
+a. The claimant was aged over 41 when he commenced employment. He accrued 2 complete years of service before dismissal. At dismissal he was receiving £423.50 gross weekly pay.
+b. 2 x 1.5 x £423.50 = £1,270.50
+c. Less deduction for contributory fault 50% = £635.25.
+
+8. The respondent shall pay the claimant a compensatory award of £635.25 calculated as follows:
+
+a. Loss of earnings 4 weeks gross pay at £423.50/week = £1,270.50
+b. No award made for loss of statutory rights
+c. As the claimant would have been dismissed at the conclusion of the 4-week period allowing for a fair procedure to be followed, no award is made for losses after that period
+d. Less deduction for contributory fault 50% = £635.25. Holiday pay
+
+9. The complaint in respect of holiday pay brought under regulation 30 of the Working Time Regulations 1998 is not well-founded and is dismissed.
+
+Travel expenses
+
+10. The complaint of breach of contract brought under the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 in relation to travel expenses is well-founded.
+
+11. The respondent agreed to pay the claimant his travel expenses as follows:
+
+a. For 7 weeks at £14.90 per week = £104.30
+b. For 21 weeks at 15.70 per week = £329.70
+
+12. The respondent shall therefore pay the claimant £434.00 as damages for breach of contract.
+
+Pay in lieu of notice
+
+13. The claimant’s complaint for breach of contract in respect of notice pay brought under the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 is well-founded. The claimant was entitled to 2 weeks’ notice but was dismissed without lawful notice. Failure to provide a written statement of employment particulars
+
+14. The complaint of failure to provide a written statement of employment particulars when the proceedings were begun pursuant to section 38 of the Employment Act 2002 is not well-founded and is dismissed.
+
+Written Itemised Pay Statements
+
+15. The complaint of failure to provide written itemised pay statements pursuant to section 8 of the Employment Rights Act 1996 is well-founded.
+
+Late pension contributions
+
+16. The complaint of breach of contract due to late pension contributions, brought under the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994, is dismissed as the claimant has not been able to show any loss or damage.
+
+Summary
+
+17. The respondent is ordered to pay the sum of £1,704.50 calculated as follows (wages subject to tax and national insurance):
+
+Basic award £1,270.50
+
+Less deduction for contributory fault 50% (£635.25)
+
+Total basic award £635.25 Compensatory award £1,270.50 Less deduction for contributory fault 50% (£635.25) Total compensatory award £635.25 Travel expenses owed £434.00 Judgment sum due £1,704.50
+
+REASONS
+
+Background
+
+1. By way of claim form dated 13 November 2024 the claimant, Mr Stevens, brought a claim for unfair dismissal against the respondent, Well Known Brands Limited (“WKB”). Conditional upon that is a claim for non-provision of written terms of employment. There is a holiday pay claim, and claims for breach of contract in a number of respects.
+
+2. Mr Stevens worked as a warehouse manager for the respondent until he was dismissed by the respondent’s director, Mr George Nesnas, on 5 August 2024. Mr Stevens says that he was unfairly dismissed because he was made redundant, the reasons later being wrongly given as misconduct. He says that disciplinary procedures were not adhered to, he was not paid in lieu of notice, holiday pay, certain pension contributions, or travel expenses, and was not provided with written terms of employment and payslips.
+
+3. By response dated 18 December 2024 the respondent resists these claims. The respondent says that Mr Stevens had not worked for the qualifying period of 2 years. It further states that Mr Stevens was given notice of alleged misconduct and invited to take part in disciplinary procedures. He did not follow those procedures, leading to his dismissal with 1 week’s notice pay. The respondent says that there is no outstanding holiday pay as all holidays have been taken. Travel expenses were not agreed on the terms claimed. Written terms of employment have been provided prior to the commencement of this claim. Pension contributions have been made albeit late. Payslips were missing but have now been provided.
+
+Postponement application
+
+4. The respondent applied by email on 10 March 2025 to postpone the hearing. The grounds were that the respondent had recently instructed representatives, had been unaware of the date of this hearing until late February, and its key witness Mr Nesnas was in China for work. Evidence could not be given via link from China without permission from the Government of China. Efforts had been made on 10 March to obtain permission from the relevant authorities for Mr Nesnas to give evidence from Hong Kong in accordance with the Presidential Guidance on Taking Oral Evidence from Abroad 2025. It was argued that the respondent would be greatly prejudiced without Mr Nesnas’s evidence.
+
+5. The claimant objected. He observed that Mr Nesnas had filed an ET3 on 18 December 2024 in response to a Notice of Claim and Hearing which plainly gave the hearing dates as 11-12 March 2025. A postponement would cause prejudice to the claimant and was not justified on the facts.
+
+6. On behalf of the respondent Mrs Kaur-Singh accepted that the respondent via Mr Nesnas did know of the hearing date as early as 18 December 2024.
+
+7. Per rule 32 of the 2024 Rules, because the application was made less than 7 days before the hearing, a postponement could only be ordered in one of the circumstances set out in rule 32(2). Options (a) and (b) were not relied upon. The respondent relied upon (c), “exceptional circumstances”.
+
+8. Applying rule 32 and the overriding objective I found that there were no exceptional circumstances in this case such as to justify a postponement. The respondent did know of the hearing date since at least 18 December 2024. It had ample time to apply to postpone or to make arrangements to seek permission to give evidence from abroad. There was nothing before me to suggest that these steps could not be taken by Mr Nesnas or the respondent without legal representation. The claimant, who was unrepresented, had filed his documents on time and was ready to take part in the hearing today. I did not consider that it would be fair or just to postpone this hearing.
+
+The issues
+
+9. The parties agreed that the issues I had to determine were:
+
+a. Whether Mr Stevens had a qualifying period of employment
+i. Was Mr Stevens employed by an associated employer from February 2022 to September 2022
+b. Was the dismissal unfair
+c. If any reduction should be made for Polkey or contributory fault
+d. Should the claimant be reinstated or re-engaged
+e. What losses are attributable to the unfair dismissal
+f. Was the claimant entitled to redundancy pay
+g. Was the claimant entitled to holiday pay
+h. Was the claimant entitled to travel expenses
+i. Was the claimant entitled to additional pay in lieu of notice
+j. Was there a failure to provide a written statement of employment particulars
+k. Was there any loss or damage attributable to the late payment of pension contributions
+
+10. The following matters were not in dispute:
+
+a. The claim was brought in time
+b. Mr Stevens was an employee of the respondent from September 2022 to 5 August 2024, which was the effective date of termination
+c. The company referred to as Cellar Wine Shop Limited (“CWS”) was an associated employer for the purposes of section 231 of the ERA
+d. Mr Stevens was dismissed
+e. He was paid 1 week’s pay in lieu of notice
+f. There was a failure to provide written itemised pay statements
+g. The pension contributions complained of had been paid by 25 October 2024 Evidence and process
+
+11. The evidence before the Tribunal consisted of a 126-page Bundle including witness statements from the claimant and Mr Nesnas. I also had reference to a number of documents filed with the Tribunal but not included in that bundle. This came about because the respondent had not prepared the bundle in advance of the hearing, as directed by the Tribunal. Consequently it could not be agreed between the parties in time for the hearing. I determined that it was consistent with the overriding objective to continue the hearing with the available Bundle but to have reference to other documents on myHMCTS as and when needed. I also directed that the parties bring to my attention during the course of the hearing any material that should not be in the bundle (for example if it had not already been served during these proceedings).
+
+12. I heard evidence on affirmation from the claimant. He was cross-examined, asked questions by the Tribunal, and asked questions in re-examination.
+
+13. I did not hear any oral evidence on behalf of the respondent for reasons set out above.
+
+14. I heard submissions from both parties and I am grateful for their assistance.
+
+Law
+
+Continuous employment
+
+15. Section 108 ERA provides that the right to complain of unfair dismissal only arises once someone has been continuously employed for not less than two years at the effective date of termination. Under section 218(5), continuous employment includes employment for an associated employer.
+
+16. Pursuant to section 231, “Associated employers. For the purposes of this Act any two employers shall be treated as associated if—
+
+(a) one is a company of which the other (directly or indirectly) has control, or
+(b) both are companies of which a third person (directly or indirectly) has control; and “associated employer” shall be construed accordingly.” Employee
+
+17. Section 230 of the ERA defines an employee: “(1) In this Act “employee” means an individual who has entered into or works under (or, where the employment has ceased, worked under) a contract of employment.
+
+(2) In this Act “contract of employment” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing.
+
+(3) In this Act “worker” (except in the phrases “shop worker” and “betting worker”) means an individual who has entered into or works under (or, where the employment has ceased, worked under)—
+
+(a) a contract of employment, or
+(b) any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual; and any reference to a worker’s contract shall be construed accordingly.”
+
+18. McKenna J in Ready Mixed Concrete (SE) Ltd v Minister of Pensions and National Insurance [1968] 1 All ER 433 defined a contract of service as involving these components: “A contract of service exists if these three conditions are fulfilled. (i) The servant agrees that, in consideration of a wage or other remuneration, he will provide his own work and skill in the performance of some service for his master. (ii) He agrees, expressly or impliedly, that in the performance of that service he will be subject to the other's control in a sufficient degree to make that other master. (iii) The other provisions of the contract are consistent with its being a contract of service.”
+
+19. As set out in Tolley’s Employment Handbook, a contract of employment irreducibly must include: “(a) An obligation on a person to work personally;
+
+(b) There must be mutuality of obligation – the employer must provide work and the employee must do the work;
+(c) The worker must expressly or impliedly agree to be subject to the control of the person for whom he works to a sufficient degree of control. How does the relationship work in practice, e.g. a manager, direction to do work, etc.” Unfair dismissal
+
+20. The burden is on the employer to show what the reason or principal reason was, and that it was a potentially fair reason under section 98(2). The burden is on the balance of probabilities.
+
+21. Per section 98 of the ERA, “(1) In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show –
+
+(a) The reason (or, if more than one, the principal reason) for the dismissal; and
+(b) That it is either a reason falling within subsection (2) or some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held.
+
+(2) A reason falls within this subsection if it – … (b) Relates to the conduct of the employee;
+
+(c) Is that the employee was redundant; …”
+
+22. If the employer fails to show what the reason for dismissal was under section 98, or the reason for dismissal is not a potentially fair reason, the dismissal is unfair.
+
+23. Where the employer does show a potentially fair reason for dismissing the claimant, or where that is conceded, the question of fairness is determined by section 98(4): “Where the employer has fulfilled the requirements of subsection (1), the determination of the question whether the dismissal is fair or unfair (having regard to the reason shown by the employer) –
+
+(a) depends on whether in the circumstances (including the size and administrative resources of the employer’s undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee; and
+(b) shall be determined in accordance with equity and the substantial merits of the case.” Fairness – Conduct Dismissals
+
+24. Relevant guidance is found in British Home Stores v Burchell [1980] ICR 303 and Sainsbury’s Supermarkets Ltd v Hitt [2003] IRLR 23. In summary:
+
+a. Did the respondent genuinely believe that the claimant was guilty of misconduct?
+b. If so, was that belief based on reasonable grounds?
+c. Had the employer carried out such investigation into the matter as was reasonable?
+d. Did the employer follow a reasonably fair procedure?
+e. If all those requirements are met, was it within the band of reasonable responses to dismiss the claimant rather than impose some other disciplinary sanction such as a warning?
+
+25. Even if dismissal was unfair, there may be a reduction in compensation because of the conduct of the claimant before or contributing to the dismissal, pursuant to section 122(2) and Polkey v AE Dayton Services Ltd [1987] IRLR 503, on the basis that if the employer had acted fairly the claimant would have been dismissed in any event at or around the same time.
+
+Holiday Pay
+
+26. The right to holiday pay derives from the Working Time Regulations 1998. Regulations 13 and 13B between them entitle workers to four weeks annual leave plus an additional 1.6 weeks: see Regulation 13(1) and Regulation 13A(1) and (2)(e). Regulation 13(3) specifies that a worker’s leave year begins on the date as provided for in any relevant agreement or on the date on which the employment begins and each subsequent anniversary of that date.
+
+27. In the present case the parties agreed that Mr Stevens’ contract specified: “Your holiday year begins on 1st April and ends on 31st March each year, during which you will receive a paid holiday entitlement of 28 days inclusive of the public/bank holidays.”
+
+Findings of fact
+
+28. I set out the evidence only so far as is necessary to give my findings of fact relevant to the issues in the case and reasons for them. However, I have carefully considered all the admitted documentary evidence, oral evidence, and submissions made.
+
+Qualifying period of employment
+
+29. I find that Mr Stevens was employed by two associated employers: CWS on a part- time basis and WKB on a full-time basis. The respondent accepted these were associated employers during the relevant period in 2022. It contended that Mr Stevens was not employed by the CWS but was a worker or self-employed. I do not accept this for the following reasons.
+
+30. The letter written by Mr Stevens in November 2022 to CWS shows that he thought he had been employed and was still being employed by CWS even when he had formally taken up employment with WKB.
+
+31. The absence of a pension until full-time work commenced around September 2022 does not show that Mr Stevens was not being employed prior to that date. As now accepted by the respondent, he would not have been enrolled into that scheme until his salary reached £10,000, regardless of his employment status.
+
+32. There are a number of contractual documents and other materials showing that full-time employment with WKB began in September 2022. I accept that this is correct. However, it does not preclude Mr Stevens’ claim that he was employed part-time by an associated employer prior to this date.
+
+33. Mr Stevens was cross-examined about these documents and his claim, and robustly maintained his position that he was a part-time employee for CWS for a minimum of 6 hours per week and was paid his wages by WKB; when he moved to full-time work with WKB his workplace remained the same. It is a claim that Mr Stevens has maintained consistently. I found his evidence on this point convincing. I find that he had a contract of service with CWS, with an obligation to perform a minimum of 6 hours work per week as directed by the employer.
+
+34. I find support for Mr Stevens’ view in WKB’s employment contract dated March 2024 which gives a start date of September 2022. It mentions a probation period which pre-dates the start of the contract: "Probation period was completed on 01/10/2022 (3 months).” This suggests that Mr Stevens was working in a capacity akin to the same employment for a period of 3 months dating back from 1 October 2022.
+
+35. I have seen bank statements which Mr Stevens produced during the hearing. They appear to show payments being made by “WELL KNOW BR LTD” at intervals between February and September 2022. I permitted these to be admitted into evidence having regard to the overriding objective, the respondent’s late filing of its evidence, and Mr Stevens’ explanation that he had not appreciated that he needed to file these documents. However, I place limited weight upon these because the respondent did not have the opportunity to consider and respond to them in a meaningful way.
+
+36. I take into account that Mr Stevens was unable to put his case to witness(es) on behalf of the respondent, through no fault of his own. I must weigh the written explanations from the respondent in light of that inability. In many circumstances that may not matter so much because contemporaneous written evidence can be very good evidence of what was happening at the time. On this point, however, the respondent’s explanation of what happened in February to September 2022 is not contemporaneous. It is provided after the fact and in response to C's complaint and this claim.
+
+37. I am satisfied on the balance of probabilities that Mr Stevens was employed by an associated employer during this period. He therefore has the required 2 years’ qualifying period to bring a claim under section 94.
+
+Was the dismissal unfair
+
+38. Mr Stevens’ evidence was that he had been dismissed for redundancy reasons that were later supplemented by false allegations of misconduct. He disputes the reasons given by the respondent in contemporaneous documents for the alleged misconduct. His evidence is that he was dismissed because of the respondent’s financial difficulties.
+
+39. It is for the respondent to show that the principal reason for the dismissal is a potentially fair one.
+
+40. In the absence of evidence on behalf of the respondent, tested on affirmation, I am unable to conclude that the respondent has satisfied the burden of proof under section 98(1).
+
+41. It is clear from the contemporaneous documents especially the dismissal letter that significant reasons included redundancy and misconduct. I cannot be satisfied whether either is the greater reason or even if the respondent formed any conclusion on them.
+
+42. I therefore find that the dismissal was unfair.
+
+Contributory actions
+
+43. Mr Stevens’ evidence was that he received a WhatsApp message on the night of 4-5 August 2024 from Mr Nesnas asking him not to come into work that day. He said that he did not read the two attachments to that message. He decided he wanted to speak to Mr Nesnas face-to-face and therefore travelled into work. It was there that Mr Nesnas explained the business was in financial difficulty and could no longer afford to pay him. He would be paid for 2 weeks during which he would work, after which Mr Nesnas would consider letting him go if business did not pick up.
+
+44. I have seen the WhatsApp message and the attachments to it. The message clearly directs Mr Stevens not to come into work that day. The Word attachment is a letter placing Mr Stevens on suspension with full pay. It explains the concerns Mr Nesnas has about misrepresentations in Mr Stevens’ claimed hours of work, informs him that an investigation is starting, and asks for his response. It further asks him to remain away from the office. The Excel attachment sets out what the respondent says are misrepresentations in Mr Stevens’ claimed hours of work. Mr Stevens was asked to join a telephone call at midday with Mr Nesnas to discuss the allegation.
+
+45. In light of the contents of the letter and spreadsheet I do not accept Mr Stevens’ evidence that his conversation that day with Mr Nesnas was solely about the respondent’s financial situation.
+
+46. On his own evidence, Mr Stevens did not read or follow his employer’s instructions. I find it was not reasonable for him to act as he did. His employer had clearly set out potential misconduct, suspended him on full pay pending investigation, and invited his written response and attendance at a meeting. Mr Stevens should have complied with that disciplinary procedure. I find that his conduct in not doing so caused or contributed to his dismissal. I assess that contribution at 50%. I also find that it is just an equitable to reduce by 50% the basic award payable because of Mr Stevens’ conduct prior to the dismissal.
+
+47. I accept Mr Stevens’ evidence as to the respondent’s financial position, which is supported by the contemporaneous documentation provided by the respondent.
+
+48. I find that Mr Stevens would have been dismissed for redundancy or for misconduct according to a fair procedure within 1 month of the date of termination.
+
+Redundancy pay
+
+49. I find that as he had accrued 2 years of complete service, Mr Stevens was entitled to 2 weeks’ pay for redundancy. That sum is reduced in full by the basic award made in respect of the same dismissal.
+
+Holiday pay
+
+50. Prior to filing this claim, Mr Stevens had provided a table containing what he stated was his holiday entitlement between 13/09/2022 and 9/08/2024. He gave the number of days he was entitled to and the number he had taken. The respondent replied disputing these figures and asserting that (a) holiday entitlement did not roll over from previous years, and (b) that Mr Stevens had taken in excess of his holiday entitlement between 1/4/2023 to 9/8/2024.
+
+51. Mr Stevens was unable to explain in cross-examination how he had constructed the table and what information he had relied upon to produce the figures. He stated that his father and another person within the company had assisted him with the table but that he did not have the underlying evidence to hand.
+
+52. In the circumstances I am not satisfied that Mr Stevens was owed the holiday entitlement he claims. The respondent’s documentary evidence shows there is none, and Mr Stevens was unable to explain why his figures are different.
+
+Travel expenses
+
+53. Mr Stevens’ documentary and oral evidence was that the respondent had agreed to pay his travel expenses to the new worksite because those expenses would otherwise have reduced his overall pay. The respondent’s letters indicated that this had been agreed on a temporary basis only although the precise terms of that agreement were not specified.
+
+54. I find that there was an oral agreement to pay travel expenses in the sums specified by Mr Stevens. His evidence on the point is clear and consistent. The respondent’s later written evidence as to its temporary nature is not one I can accept in light of Mr Stevens’ evidence.
+
+Additional pay in lieu of notice
+
+55. Mr Stevens accepted that the respondent paid him 1 weeks’ pay in lieu of notice. I find that he should have been paid 2 weeks’ according to his contract but was dismissed without lawful notice.
+
+56. I have also found that Mr Stevens would have been lawfully dismissed upon notice taking effect 4 weeks after the actual date of termination. He therefore has suffered no additional loss or damage under this head of claim as it overlaps with the compensatory award below. Failure to provide a written statement of employment particulars
+
+57. In evidence Mr Stevens accepted that he was provided with the necessary written statement in March 2024. Pursuant to section 38 of the Employment Act 2002 the award can only be made if there is no statement on the date on which the claim form was presented, i.e. 13 November 2024.
+
+58. I therefore find that there was no failure to provide a written statement of employment particulars. Failure to provide written itemised pay statements
+
+59. Mr Stevens stated that the respondent failed to give him written itemised pay statements as required in the period September 2022 to March 2023. The respondent has accepted this. I therefore make that finding. Was there any loss or damage attributable to the late payment of pension contributions
+
+60. The respondent accepted that pension contributions for the period 04/05/2024 to 09/08/2024 were paid late. Mr Stevens agreed that they had been paid by 25 October 2024. He did not specify what loss or damage he had suffered as a result. I therefore found that he was not entitled to any sum of money in respect of this.
+
+Remedy – unfair dismissal
+
+Reinstatement or re-engagement
+
+61. Mr Stevens sought reinstatement pursuant to section 114 of the ERA.
+
+62. On behalf of the respondent, Mrs Kaur-Singh told me that the respondent is still trading but without employees. Mr Nesnas is now wholly based in China. Its financial position has not improved since 5 August 2024. The claimant’s role is no longer in existence. Any packing or warehouse work is now done by Amazon and the respondent’s presence in the UK is online only.
+
+63. I declined to exercise my discretion to order reinstatement. In doing so I took into account each of the factors in section 116(1). I acknowledged that Mr Stevens wanted to be employed again. While I did not have evidence on affirmation or updated documentary evidence about the respondent’s position in terms of the practicability test, I did have Mr Stevens’ evidence that the respondent had been in financial difficulties in August 2024. I also found that the claimant’s contribution to the dismissal made it unjust to order reinstatement in all the circumstances.
+
+64. Mr Stevens then sought re-engagement pursuant to section 115 of the ERA. He expressed a wish for any employment that would be equivalent to his previous role.
+
+65. Mrs Kaur-Singh informed me that no such roles existed with the respondent or any associated employers, for the reasons given above.
+
+66. Taking into account the factors in section 116(3), I declined to exercise my discretion to order re-engagement. Again, Mr Stevens’ wishes and the practicalities carried some weight in each direction. In my judgment the claimant’s contribution to the dismissal made it unjust to order re-engagement.
+
+Compensation for unfair dismissal
+
+67. I calculate the basic award as follows:
+
+a. The claimant was aged over 41 when he commenced employment. He accrued 2 complete years of service before dismissal. At dismissal he was receiving £423.50 gross weekly pay.
+b. 2 x 1.5 x £423.50 = £1,270.50
+c. Less deduction for contributory fault 50% = £635.25.
+
+68. I calculate the compensatory award of £635.25 as follows:
+
+a. Loss of earnings 4 weeks gross pay at £423.50/week = £1,270.50
+b. No award made for loss of statutory rights as I have found that Mr Stevens would have been dismissed at the conclusion of the 4-week period allowing for a fair procedure to be followed
+c. As the claimant would have been dismissed at the conclusion of the 4-week period allowing for a fair procedure to be followed, no award is made for losses after that period
+d. Less deduction for contributory fault 50% = £635.25.
+
+69. Total: £1,270.50.
+
+Remedy: travel expenses
+
+70. The respondent agreed to pay the claimant his travel expenses as follows:
+
+a. For 7 weeks at £14.90 per week = £104.30
+b. For 21 weeks at 15.70 per week = £329.70
+
+71. Total: £434.00.

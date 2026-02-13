@@ -1,0 +1,485 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The Tribunal finds as follows:
+
+(One) that the email sent by the claimant on the 26 June to Mr Julian Rippiner did not amount to a Protected Disclosure. (Two) that the actions of the claimant by raising the issue of the editing of the EPL with Mr Julian Rippiner on the 5 December and in his email to him dated 5 December 2023 did not amount to a Protected Disclosure. (Three)In respect that the Tribunal has found that there was no Protected Interest Disclosures made by the claimant as averred by him the claims for detriment against the respondent fall to be dismissed.
+
+REASONS
+
+1. The claimant in his ET1 sought findings that he had suffered various detriments arising from two Protected Interest Disclosures set out in his ET1.
+
+8000892/2025 Page 2
+
+2. The claims were resisted and the respondent company argued that what the claimant had said or “done” did not amount in law to Protected Interest Disclosures and in any event he had not suffered any detriment from taking the action he had.
+
+3. The case proceeded to a preliminary hearing for case management purposes on 13 June 2025 before Judge Doherty. The claimant at that point represented himself but was represented by Counsel at the subsequent open preliminary hearing that was arranged.
+
+4. The Judge at the CMPH was satisfied that it was consistent with the overriding objective to fix an open preliminary hearing on whether or not the claimant had made Protected Interest Disclosures in June 2022 and December 2023. Accordingly, a preliminary hearing was arranged to determine whether the claimant had made disclosures under section 43B of the Employment Rights Act 1996 and the 3, 6 and 7 October identified as appropriate dates for the hearing. The case proceeded on those dates.
+
+Evidence
+
+5. The Tribunal had the benefit of a Joint Bundle of documents. The claimant lodged his own Supplementary Bundle prior to the hearing as agreement could not be reached with the respondent’s solicitors regarding both the relevancy and commercially sensitive nature of them.
+
+6. The Tribunal heard evidence from the claimant on his own behalf. The Tribunal then heard evidence from the respondent’s witnesses, Lars Fridtjof Wisur, Commercial Director, Peter Goddard, Business Offshore Manager and Julian Rippiner, General Manager Upstream Business UK.
+
+Issues
+
+7. The issues for the Tribunal were as noted above whether or not the actions of the claimant amounted to two separate Protected Interest Disclosures in terms of the Employment Rights Act 1996.
+
+Preliminary Matter
+
+8. At the start of the hearing an issue was raised in relation to production of documents by the claimant in his Supplementary Bundle with Mr Jones arguing that some of the documents, in relation to particular projects, were commercially sensitive and confidential. After hearing argument I broadly took the view that the content of the documents appeared potentially relevant
+
+8000892/2025 Page 3
+
+and should be put to the witnesses but that document 66, 73, 74, 75 and 76 (which were all contained in the supplementary bundle of documents should be excluded as being not obviously relevant and commercially sensitive). I had noted that the claimant had taken steps to redact some passages from the remaining documents which I concluded were sufficient to protect the respondent’s commercial interests. I also indicated that it was also open to Mr Jones to renew his objections to specific questions if appropriate when the remaining documents were being referred to.
+
+9. I would also record that it had initially been anticipated that the claimant would be representing himself at the hearing and for this reason the Tribunal allowed him to present his evidence in chief by way of a witness statement. In the event the claimant was represented by Counsel but utilised the statement he had lodged and spoke to it. In the circumstances I allowed Counsel some latitude in asking some questions of the claimant and clarifying some of the passages in the witness statement which had been prepared by the claimant. This was not objected to.
+
+10. Although there was a considerable number of documents lodged and referred to there was little actual dispute in relation to much of the surrounding circumstances and chronology.
+
+Facts
+
+I made the following findings in fact:
+
+11. The claimant was employed by the respondent company from 14 October 2019 as a commercial contracts adviser and from 21 June 2021 as an NBD Deal Delivery Adviser. He worked in a small team in Aberdeen. He was an expert specialist in contractual and commercial matters. As part of his role the claimant was part of the UK commercial team which provide support to projects/assets in the oil and gas upstream business principally in the North Sea.
+
+12. Shell UK Ltd is a subsidiary of Shell Plc a large multi-national company. The activities of Shell UK Ltd are exploration, production and sale of crude oil and natural gas; the marketing of petroleum products; the power to hold investments and subsidiary undertakings. It engages in various branches of the oil and gas industry principally in the North Sea basin.
+
+8000892/2025 Page 4
+
+13. The claimant reported to Julian Rippiner who was a senior manager. His line manager was Mr Fridtjof Wisur from August 2021 to June 2024. Mr Wisur reported to Mr Rippiner.
+
+14. The claimant takes offshore safety particularly seriously. The claimant became aware, through his work, of previous serious incidents in the offshore industry which left a deep impression on him. He is not involved in drilling or engineering rather his expertise is in commercial matters but he has significant experience of the oil industry.
+
+Well Drilling and Steel Casing
+
+15. To access oil bearing strata wells are sunk many thousands of metres into the earth. The casing that protects the drilling equipment and the integrity of the well bore has to be able to withstand considerable pressure and heat. A well can also at certain depths in the North Sea basin encounter hydrogen sulphide or ‘‘H2S’’. This occurs naturally in Jurassic strata where natural gas can be present. This is referred to as a ‘sour’ environment.
+
+16. H2S is caused by the breakdown of organic matter and is known to have a corrosive effect on well casing and can cause cracking of the casing which in turn can compromise the integrity of the well. If a well casing is compromised it can allow the uncontrolled release of flammable gas through the well with potentially catastrophic results such as causing fires and explosions. A specialised well casing or tubing has been developed called ‘sour steel’. This specialised steel is resistant to H2S and is required to be used by Shell’s internal standards for use where H2S might be present. The applicable casing for the well that was being proposed was named SM955.
+
+17. There can be delays in sourcing casing as it may require to be manufactured and then delivered to wherever it is needed offshore. The latter process can be difficult and relatively time consuming as it is dependent on weather conditions.
+
+Diadem
+
+18. The respondent was involved in the Diadem Project which was a search for commercially viable hydrocarbons (or oil field). Another company (‘‘Capricorn’’) was the respondent’s partner in the venture. They were responsible for the planning and carrying out of drilling operations. This included the design of the well and the type of casing to be used.
+
+8000892/2025 Page 5
+
+19. Shell has their own internal standards for matters such as well design. These standards are comprehensive and strict. They are designed to maximise the safety of their operations including drilling operations. Companies involved in any project with Shell must adhere to these internal standards or Shell managers must seek a derogation from the requirement. Derogations are sanctioned by the most senior management and are seldom granted.
+
+20. The respondent agreed the well design prepared by their business partners, Capricorn, who are a specialised drilling company. A permit was issued by the Regulator, the North Sea Transition Authority or NSTA to drill the well. It had been accepted that the available data showed that the chance of encountering H2S was low and accordingly standard steel casing was costed and sourced for use in the drilling operation.
+
+21. The respondent had given the go ahead to the project and in February an AFE or Authorisation of Expenditure had been approved authorising expenditure on the project. The effect of this was to approve the planned drilling using the design prepared by Capricorn.
+
+22. On 26 May a meeting took place called a DRB (decision review board) and the project was discussed. The claimant believed that the issue of the H2S was not highlighted despite its importance by those in the Project Team to senior managers. Minutes of the meeting issued later made no reference to the well design issue.
+
+23. The claimant was briefed in the context of possible costs on the 27 May by Peter Goddard. This led the claimant to conclude that the issue was being concealed.
+
+24. A formal meeting took place with Capricorn on the 31 May. The meeting invite made reference to Shell raising concerns over the well design.
+
+25. The respondent’s Project Team came to realise that the proposed drilling design, which they had earlier accepted and on which basis the Licence had been granted, did not incorporate the use of specialist steel casing that was resistant to H2S. This was contrary to the company’s internal standards which provided for the use of special casing to protect the well shaft in circumstances where H2S could be encountered. Once this had been realised steps had been taken by the Project Team to try and get Capricorn to alter the design but they met resistance from them as they were confident that their well design was safe. The claimant provided commercial support to the team and was aware of how the issue had developed.
+
+8000892/2025 Page 6
+
+26. As the date for drilling approached and Capricorn had still not been persuaded to change the design the claimant became increasingly concerned that ultimately the well would end up being drilled in accordance with the design, not incorporating the use of H2S resistant steel as the Shell standards provided for.
+
+27. Parties regularly met to discuss the project and exchange views. The Project Team had hoped to persuade Capricorn to change the well design to meet Shell’s internal standards. They offered to cover some expenses/costs involved. They also, as a concurrent strategy, agreed to seek an internal derogation. By the 1 June Mr Goddard believed that an agreement had been reached with Capricorn that H2S steel would be used.
+
+28. Capricorn wrote on the 2 June (JBp98) indicating that there was insufficient time to change the well design and that what had been approved earlier was fit for purpose. They asked Shell to ask for a derogation.
+
+29. In a record of Teams chats of managers involved in the issue (JBp96) Mr Carl Cuthbert-Brown of the Shell Project Team recorded in a message to Peter Goddard that ‘‘Capricorn have just backtracked…’’ He said that insufficient time remained to make a ‘‘material’’ change (JBp96). Later that day following a call with Mr Kouwe of Capricorn he was more hopeful that Capricorn now understood that this was not ‘‘posturing’’ but a ‘‘genuine and real safety concern..’’ Mr Goddard queried if the design had in fact signed off in relation to the casing design and materials selection.
+
+30. On 6 June 2022 Mr W Kouwe wrote indicating that the drilling rig would ‘‘come onto our contract coming Friday, June 10.” He recorded (JBp100): “Regarding the 9 5/8” casing for the well, we have some urgent requests:
+
+1) Shell envisages certain scenarios in which the current casing design, drilling and testing programmes could expose the 9 5/8” casing to sufficiently high levels of H2S (>6-18 ppm) for sufficient time to cause concern. Capricorn remains of the opinion that the current well design and operation plans described in our drilling and testing programmes are effective to reduce these risks to an ALARP level.While we acknowledge that such levels of H2S may occur in the Fulmar reservoir, we fail to see scenarios during drilling or testing in which the 9 5/8” casing of this non-keeper exploration well would be exposed to high levels of H2S for sufficient time to become compromised. The approved well design has been internally and externally assured, and the regulator has issued a drilling permit based on this design, confirming that risks have been mitigated effectively. Please provide in writing a detailed descriptions of the circumstances/situations during the drilling and testing phases of the Diadem well in which H2S would be able to potentially affect the integrity of the 9 5/8”
+
+8000892/2025 Page 7
+
+casing, in Shell’s view. Capricorn’s team would like to better understand the specific situations of concern Shell envisages, including the required combination of circumstances leading to their occurrence.
+
+2) Shell have requested Capricorn to consider substituting the upper 2,200m of 9 5/8’’ casing with a higher grade, sour serviced casing. Please provide full specifications of the alternative casing Shell is recommending in writing. The full specifications have been requested several times during technical meetings over the past few weeks but so far not yet provided as this is apparently a Shell proprietary casing design. Capricorn will not be able to consider running any casing unless we know its full specifications.’’
+
+31. These matters were raised in a response from Peter Goddard to Capricorn on 9 June (JBp103). The claimant was copied into the correspondence and was concerned that Capricorn were saying that they had not yet been told about the technical specifications for the casing. He believed that even if they now agreed to use it that this might have an impact on the start of the actual drilling and the level of compensation that Shell might have to provide them.
+
+32. Mr Goddard’s response was: “Production Casing Design (9-5/8” string) – Diadem Through a detailed review of the Well Test Design provided by Capricorn, it became apparent that although the 7” production liner and DST string have been designed to account for the low-likelihood potential of H2S in the reservoir fluids during Well Testing operations, the secondary barrier (9-5/8” production casing) has been designed with P110 material grade which is inherently not resistant to fluids containing H2S. The NACE 0175 threshold for materials is an external standard at 0.05psi partial pressure of H2S. In the Diadem well, due to the reservoir pressure and thus the potential surface pressure if the well was displaced to gas and/or took a kick that ended up at surface without expansion, the threshold for the P110 material is in the order of 6-7ppm H2S. From offset wells in the region, levels of H2S from the target reservoir has been seen up to 18ppm, and in formations above the target reservoir, up to 300ppm, although it is also recognised that the down-dip well from the Diadem prospect did not encounter/detect H2S at the reservoir level. Where exploration wells are drilled with a given low-likelihood of H2S (but not zero), due to subsurface uncertainties and the impact on people, the environment and assets should a significant incident occur, it is Shell’s position that the primary and secondary barrier envelopes should be designed for the well with consideration for the full lifecycle expected exposure and potential exposure events envisaged for that well. In this case, as it was for the Jaws well design, this means that to comply with this statement the production string should be tolerant to H2S at potential levels similar to the offset wells. Shell also has had the experience in the past year in another country/location where an exploration well with extremely low
+
+8000892/2025 Page 8
+
+likelihood of H2S was drilled and when the well was being cleaned up although there was no H2S detected during drilling, the levels of H2S were significant at surface. The well activities were stopped, and the well made safe. In that case, the production casing had been upgraded to be sour compliant and the well had sufficient protection to this low likelihood case when it was realised. As the test string was not sour compliant, the remaining objectives of the well in that case could not be realised and the test phase was aborted. The typical events covered within that lifecycle which would bring reservoir fluids in contact with the 9-5/8” casing may include a well control event during drilling where the well needed to be shut in for an extended period of time for any reason, a loss/gain event where greater than expected influx enters the well, or any unexpected or unintentional event where the well could have influx from the reservoir or exposed formations enter the wellbore and the well is shut in for an extended period of time (hours/days or more). During the testing phase, this could also include a tubing-leak case where the leak could occur at any depth up to and including below the tubing hanger/wellhead into the annulus at the lowest temperatures present in the well. Recovery operations during testing may include bullheading the tubing contents (also increasing the leaked volume to annulus up to the equilibrium pressure during bullheading), and then circulating the annulus contents from the well, further exposing the casing to the potentially H2S-bearing gas. Whilst there could be a decision point to test or not after evaluating the reservoir fluids in the drilling phase logging program, and if H2S exceeds the 6-7ppm threshold this may impact this decision, the production casing will still be exposed during the drilling phase…… In the analysis discussed and in particular the availability of a sour-compliant 9-5/8 material in sufficient quantity at minimal incremental cost to the project, whilst the Capricorn well design conforms to Capricorn’s well design Standards and has passed their internal reviews it is Shell’s opinion that the upgraded 2000m of 9-5/8 from P110 to SM95S material represents a small but important step to the Diadem well’s ALARP threshold to ensure that for all potential outcomes of the exploration activity, both primary and secondary barriers will meet the NACE 0175 design threshold for sour service and ensure the full scope of the well may be executed.”
+
+33. Mr Goddard responded in relation to the query regarding specifications as follows: “For the use of SM95S material, the Shell casing design software is not necessary. The performance specifications of the 9-5/8” SM95S provided by Sumitomo is not proprietary to Shell and should be sufficient performing any design checks required, and preparing for the running of the casing – please find the specification sheets from Sumitomo attached. Our Shell-Capricorn discussions from last week were around which would be the appropriate casing running dies for handling this material, but those discussions ceased after the call on Thursday. If this were to change again, we would welcome reinitiating the discussion once again to ensure we have the correct running equipment for the higher grade portion of the string, which would be 2000m
+
+8000892/2025 Page 9
+
+of 9-5/8” SM95S grade pipe (the extra 10% or 200m is for contingency and as discussed, would be expected to be returned to Sumitomo for credit if not used under the consignment agreement between Capricorn and Sumitomo) Also to note: there are further specifications regarding connection qualification load envelopes associated with our proprietary Shell Casing Data Sheets which have not been shared as the additional data from these load envelopes are empirically derived (thus their proprietary nature) and as far as I’m aware, are also not currently part of the discussion about suitability of this pipe/connection for the well design. Capricorn advised Shell several weeks ago that the SM95S grade material was sufficient for the design loads expected in the well, and the connections are also acceptable given the current connections and crossovers that may be required, within the timeline to deliver the pipe for the well. Should any of the above statements be incorrect or if the modelled loads expected in the well exceed the standard connection envelope limits provided by Sumitomo or VAM, please advise.
+
+3) We understand that you have initiated an internal process to request derogation for Shell’s participation in the drilling and testing of the Diadem well. Can you provide an update of the status of this request? The current status is that I have checked what will be required for that process, who will need to sign off the documentation to support this and discussed with key internal stakeholders who will be required to support the decision.”
+
+The email continued:
+
+“The process is as follows: We will need to demonstrate that there is a credible Risk Assessment and Fit For Purpose design for this well that satisfies all requirements on both left and right hand sides of a Major Accident Hazard bowtie for a well control event for this well. In order to do this we will need to show:
+
+- A detailed risk assessment for the design and operations that demonstrate the design is fit for purpose and the operational preparedness for the well can mitigate any credible circumstances that occur during the execution of the well scope.
+- Demonstrable Well Control Contingency Plan (WCCP) that includes barriers and contractor interfaces to manage a well control event. As the Well Test design shows material selection to compensate for sour service on flow wetted surfaces, the WCCP will also need to demonstrate that it would account for this low-likelihood event of H2S at surface during a well control event.
+- The WCCP would also include relief well provision, equipment, preparedness, alternate well location and plan for recovery.
+- The WCCP would need to demonstrate cap and contain/cap and shutoff capability and planning for any potential well fluids or effluent.
+- The Well Examiner’s Report with detail that outlines that the design is fit for purpose.
+- Operational mitigations which will be required and will be in place to reduce the risk on the left hand side of the bowtie to negligible/extremely low. 8000892/2025 Page 10 We will need to demonstrate that the design and material selection is ALARP for the risks associated with the well. The most important part of that will be a credible justification of the grade selection for the 9-5/8” casing and the risk assessment to show that the likelihood of this material being exposed to H2S at the critical threshold of 0.05psi partial pressure (NACE 0175), and the incremental cost of upgrading that material and/or availability of the material is prohibitive and thus the design is ALARP. It is the last part where I believe we will be faced with the most challenge. The signature level for approval to proceed from the Shell side is very high in the organisation (Executive Vice President of Wells) as it deals with Design and Engineering Standards and Process Safety risk management. With operational mitigations to be demonstrated for the drilling phase of the well, whilst we are likely to be faced with significant challenge, there is a slim chance that approval will be granted (although with the Jaws well designed as sour-compliant, I consider my case will be challenged further). It is a very real likelihood that we will not get approval for the deviation. For the test phase of the well, given that the primary barrier is already designed by Capricorn to be H2S resistant, I do not believe we have any grounds for a deviation for this activity. This has been discussed last week during the Thursday call.”
+
+34. Capricorn believed that their knowledge of the geological conditions around the well demonstrated that there was a low likelihood of H2S being present. The response was: “As you will have gathered from Ed’s update earlier today, the V123 rig is expected to come onto our contract coming Friday, June 10th. We are looking forward to the start of our joint Diadem operations. Regarding the 9 5/8” casing for the well, we have some urgent requests:
+
+1) Shell envisages certain scenarios in which the current casing design, drilling and testing programmes could expose the 9 5/8” casing to sufficiently high levels of H2S (>6-18 ppm) for sufficient time to cause concern. Capricorn remains of the opinion that the current well design and operation plans described in our drilling and testing programmes are effective to reduce these risks to an ALARP level. While we acknowledge that such levels of H2S may occur in the Fulmar reservoir, we fail to see scenarios during drilling or testing in which the 9 5/8” casing of this non-keeper exploration well would be exposed to high levels of H2S for sufficient time to become compromised. The approved well design has been internally and externally assured, and the regulator has issued a drilling permit based on this design, confirming that risks have been mitigated effectively. Please provide in writing a detailed descriptions of the circumstances/situations during the drilling and testing phases of the Diadem well in which H2S would be able to potentially affect the integrity of the 9 5/8” casing, in Shell’s view. Capricorn’s team would like to better understand the specific situations of concern Shell envisages, including the required combination of circumstances leading to their occurrence.
+
+8000892/2025 Page 11
+
+2) Shell have requested Capricorn to consider substituting the upper 2,200 m of 9 5/8” casing with a higher grade, sour serviced casing. Please provide full specifications of the alternative casing Shell is recommending in writing. The full specifications have been requested several times during technical meetings over the past few weeks, but so far not yet provided as this is apparently a Shell proprietary casing design. Capricorn will not be able to consider running any casing unless we know its full specifications.
+
+3) We understand that you have initiated an internal process to request derogation for Shell’s participation in the drilling and testing of the Diadem well. Can you provide an update of the status of this request? Let us know if you require clarifications on any of these points. Given the urgency of these matters, we hope to receive your reply in the next few days. I look forward to continue our constructive dialogue in order to find a mutually acceptable outcome.”
+
+35. The claimant emailed members of the Project Team (JBp99): ‘‘Thanks for sharing your thoughts on this: What is our position on the sour casing issue\; would we rather not participate in the Diadem well if Capricorn doesn’t substitute 9 5/8” casing with a higher grade sour-serviced casing? Apologies, if this has already been discussed: I haven’t been in the loop.’’
+
+36. The claimant understood that Shell were in a difficult position having initially agreed the design of the well. He believed that they had no ‘contractual’ levers to force a change. His view was that an approach should be made to the regulator to intervene to force through a change of the well design and incorporate higher grade “sour service steel casing” which was resistant to H2S.
+
+37. The claimant had also raised concerns because he was not directly receiving all the correspondence about the negotiations with Capricorn. He raised this with Mr Goddard and others on 13 June (JB.109) asking to be copied in in correspondence. Mr Goddard responded that it wasn’t always appropriate to copy him in “we just make sure the emails are forwarded afterwards to ensure that we have the technical connects without the email was expanding to commercial and legal on both.”
+
+38. The claimant responded the same day: “Access to relevant correspondence on this matter will help me support this’’. The claimant was involved in email correspondence including the email on 13 June at 7.56 (JB.111) suggesting changes to the draft correspondence which he had been asked to review: “I think we have a clear argument that this change to the well design was agreed by the JOC in the Special OCM and is binding on all parties. I’ve set
+
+8000892/2025 Page 12
+
+up a call with Matthew G and Andrew W @ 9:30m tomorrow to explore a few other points: a) can we argue that this change to the well design is required to conduct the Joint Operations in accordance with Good Oilfield Practice, which is an obligation on the Operator as per the JOA? b) following the decision of the JOC in the special OCM dtd. 31st May, can we argue that our previous approval of the AFE is now subject to the upgrade in the well design
+
+c) In a worse case scenario, if Capricorn doesn’t modify the casing spec, what are our options: does clause 24.2.1 of the JOA restrict us from withdrawing/not participating in a well because the work obligations under the licence have not yet been fulfilled?”
+
+39. The respondent again set out their position by email dated 13 June 2023 accepting that the possibility of H2S impacting on the casing was very low nevertheless pushing for the upgrading of the casing. The email ended: “As noted during the OCM and throughout our following conversations, Shell is open to providing additional well engineering resources supporting and preparing and submitting this change. The UK Well Engineering Manager (redacted) is prepared along with other wells experts to move to your office to support the change, to the extent that this would be helpful to the Capricorn team in making the change. Recognising the urgency now ahead of the operations Shell will also be willing to cover 100% of the cost…..”
+
+40. On 13 June Capricorn responded: “We seem to be misaligned on the outcome of the OCM meeting on 31 May.” They indicated that the respondent had agreed to seek an internal derogation to allow the steel casing provided for in the design to be used. They pointed out that any delay in the drilling programme would be extremely costly.
+
+41. Drilling in the North Sea is dependent on good weather and Capricorn had a rig on contract as of 14 June to drill the well. This increased the claimant’s concerns as the modification of the design was urgent and becoming impracticable. He was concerned that the well might be drilled without the casing being upgraded in line with internal standards. He had qualms that the Project Team were not overly concerned that the change needed to occur.
+
+42. In response the respondent offered financial assistance to make the appropriate change.
+
+43. The claimant’s comment on the correspondence on 15 June (JB.118) was “looks like Capricorn has stated a different view on the outcome of the special OCM. I think we should continue re-iterating our position (i.e. JOC decided on the special OCM that the well design will be upgraded, the JOC’s decision is binding on all parties and is an agreed qualification to the AFE that was previously approved) while trying to collaboratively influence the operator to upgrade the well design) offering to cover 100% of incremental well costs
+
+8000892/2025 Page 13
+
+addressing their concerns regarding potential delays in the schedule if the well design is upgraded at this stage).”
+
+44. The respondent put their follow up position to Capricorn by letter dated 17 June 2022 (JB.125-126). They explained that the change in the casing design is necessary “for the diadem well design to meet our ALARP threshold.” (ALARP (as low as reasonably possible) threshold was the internal design requirement).
+
+45. The respondent’s drilling partners emailed on 22 June setting out their position. They were still resistant to any change. They wrote: “Capricorn recognised that the Shell design standards for exploration wells differ from those of Capricorn. The approach to ALARP in some areas is different. One can also see some of these differences when reviewing the offset well designs. The Shell interpretation of only considering worst case partial pressure calculations, affect considering of PH. Nor operational practices and safeguards or likely use of occurrence was not raised during the basis of design phase of planning of the well. Capricorn’s design of the diadem well and full compliance of the standards of the drilling of an explanation well short term well test with a total (intermittent) slow period of 36 hours of a single interval test and 54 hours for a duel interval test. The design meets Capricorn requirements as being ALARP on this planned project. The well design has been internally reviewed externally pre-reviewed and the drilling design by two independent and well test design by energy limited and accepted by both an independent well examiner and the UK Regulatory Authorities. The well design had been passed by the Regulatory Authority.”
+
+46. The issue of any change in casing material was becoming increasingly urgent as the well was being drilled. It had not yet reached the depth at which sour casing steel might need to be used but other components ‘‘crossovers’’ would need to be manufactured and delivered offshore, dependant on the weather, to allow the change of casing.
+
+47. The respondent continued to make efforts to persuade Capricorn to change their view. This is reflected in an email from Mr Cuthbert Brown to Mr Fridtjof Wisur from 22 June:- “I believe given the subsequent discussions this morning regarding raising through the Regulator that this is a sensible first step in our escalation route. I also believe that it is valuable for Bernd (and I) to have an option that we can use with their COO enabling this to move forward.”
+
+8000892/2025 Page 14
+
+48. Mr Cuthbert Brown emailed Capricorn on 22 June (JB.137-138) as follows:- “Shell remains the position that this change is required given the low likelihood of potential occurrence for H25 as demonstrated in offset wells to bring the well design to ALARP for the JUV. We identified that the SM955 casing is available in the time frame necessary..… If we are unable to reach an agreement this week we furthermore request your support as operators in setting up an engagement between Capricorn, Shell and the NSTA to discuss this current misalignment to agree a way forward.”
+
+49. On 23 June the claimant made some suggestions in relation to correspondence particularly that Shell had the option to contact the Regulator the NSTA if required to try and force the approval of their design change.
+
+50. Mr Wisur thanked the claimant for his input into the correspondence but indicated that they didn’t want to go down the route of contacting the Regulator until Mr Cuthbert Brown agreed to do so. Mr Wisur wanted to keep it as a last option. He still hoped that an agreement could be reached without involving the Regulator. Involving the Regulator would be embarrassing for the respondent’s reputation having initially approved the design and now seeking to alter it at the last minute. These views were shared by the senior management team.
+
+51. On 24 June Mr Cuthbert Brown wrote to the claimant: “On reflection I believe that it’s likely best in this note to redact the comment regarding exclusion to the NSTA. I’ve already stated that in previous correspondence I know that they are aware. Instead I propose that we reserve the sentence to any subsequent email if they were to revert and not accept this offer.”
+
+52. Mr Cuthbert Brown had liaised with a Mr Bernd Van Den Brekel who was a senior manager at the respondent’s wells function and expert in well technology. He had suggested that the document was worded more strongly. He shared his mark-up/proposed edit to proposed correspondence to Capricorn: “If Capricorn Energy decide not to change the 9 5/8” production casing design by substituting the top 2000m of 9-5/8 from P110 material to SM95S material, Shell will be obliged to report to the regulator our misalignment with the operator on the current design with regards to reducing the risk to
+
+ALARP.’’
+
+53. Correspondence was then sent by Mr Cuthbert Brown to Capricorn setting out the respondent’s position and suggesting new heads of terms in a letter of agreement to vary the earlier agreement when setting a common position
+
+8000892/2025 Page 15
+
+in relation to the way the well would be drilled. It did not contain the suggested edit by Mr Van Den Brekel.
+
+54. Mr Cuthbert Brown emailed Mr Kouwe on 24 June (JB.156) asking for a response to the proposal by Monday 27 June. A formal letter was produced (JB.157-158).
+
+55. The claimant was very concerned that they were approaching a point of no return. The well was about to be drilled. He was aware that the casing would not be immediately required but even if it was agreed to be used then it would have to be sourced and other components would be needed and there could be delays in their manufacture and delivery offshore.
+
+Disclosure 1 – 26 June 2022
+
+56. The claimant decided to raise the matter with a more senior manager and emailed Julian Rippiner on 26 June at 10.22.(JB p159/160):
+
+“Diadem exploration well - sour casing
+
+Julian, I wasn’t cc’d on the email when the letter was sent to Capricorn. Capricorn had earlier indicated that they’d respond by Friday evening but I’m not sure whether they did that because I haven’t received an update from Carl. Kind regards, Arpit” “Arpit, He received a response: Thanks for flagging. I’ve been staying pretty close to this, and agree we’re fast approaching the point of escalation to the regulators - a point Simon has also made to Carl. Have we had a response to the letter Carl sent Capricorn on Friday yet?
+
+J.”
+
+57. The claimant emailed: “Good morning Julian, Hope you are enjoying the weekend. I’d like to share (confidentially) my concern with you about the Diadem sour casing issue. The Diadem exploration well (22/11b-14), operated by Capricorn, spud this morning. The operator’s well design does not meet Shell’s process safety standards. Changing the 9 5/8” production casing design by substituting the top 2000m of 9-5/8” from P110 to SM95S material
+
+8000892/2025 Page 16
+
+will resolve this issue and can still be done with minimal risk to operations, should Capricorn begin the process immediately. I’m concerned that Exploration UK has been taking a soft approach on this safety issue, even at this stage, despite my repeated suggestions to push back harder/escalate to the regulator. They (and Fridtjof) seem concerned that escalating this to the regulator isn’t good for our reputation because it could highlight the error of signing the AFE when the well design was in breach of Shell’s standards. Fridtjof is supporting Exploration on this approach and hence I’m sharing this concern with you confidentially. I think we can still influence the operator to change the casing by doing the following:
+
+- Escalate to the NSTA requesting them to mediate on this given our safety concerns and - Reiterate our position to the operator that our approval of the Diadem drilling AFE is subject to the casing design being upgraded, which was agreed in a Special OCM. Legal supports this. Signalling that we will withhold upcoming cash calls in mid-July if the casing design isn’t upgraded could give us substantial leverage.
+- Secure the operator’s confirmation that the casing will be upgraded and in return we could cover the incremental costs of the casing upgrade (~$300k) and even potential rig idle costs (say, $2mn assuming 7 days rig idle time @$286k/day). Please let me know if you have any questions or need additional information on this. Kind regards, Arpit”
+
+58. Mr Rippiner had been aware of the issue described by the claimant namely the use of the H2S resistant steel being resisted by Capricorn. He had confidence in the team managing the project who he regarded as being ‘‘highly competent’’. He agreed with the strategy not to report the issue to the Regulator except as a last resort. He did not understand that the claimant was alleging some wrongdoing on the part of the company or that a breach of safety standards or the Shell operating standards was imminent.
+
+59. The respondent ultimately came to an arrangement with Capricorn for the use of the up-graded steel casing when the well reached the appropriate depth in exchange for the respondent providing agreed compensation.
+
+2nd Alleged Disclosure
+
+Email 5 December 2023
+
+60. The Energy profits Levy was a ‘windfall’ tax introduced by the UK Government. It was meant to be temporary but was extended. In late 2023 it was extended to March 2028. The levy had a marked impact on activity in the North Sea and was the subject of lobbying by the oil industry seeking its
+
+8000892/2025 Page 17
+
+removal. The claimant was concerned that although other oil companies were factoring in the tax to decision making but that the respondent was not. The tax could in certain circumstances be an advantage to operators divesting themselves of assets.
+
+61. The claimant was tasked with preparing values for various projects. The respondent had a standard style document used for these matters which was used internally to allocate investment in areas of operation. It was called a Group Divestment Proposal (GDP)/Group Investment Proposal (GIP) document. It was a standard template. Mr Julian Rippiner was the Decision Executive in charge.
+
+62. In November 2023 the claimant was told that the economics for the Victory field were being finalised and had to be given priority over Project Mars.
+
+63. In completing the document for Mars the claimant had regard to guidance in the Shell policy ‘‘Opportunity Realisation Standards’’ (SBp316). It stated: “The Opportunity Realisation Standards (ORS) set out the rules for managing and delivering opportunities and focus on the three areas illustrated in the diagram value drivers, and risk management, key roles and competencies, delivering
+
+value through quality decisions.”
+
+64. According to the guidance in the document (SBp309) under “Risks, opportunities and alternatives” it stated: ‘‘Describe the risk profile/appetite and of the opportunity including how the opportunity has been matured with a view to the range of full risk spectrum. This includes a description of the
+
+relevant risks (upside/downside) across TECOP ….’’
+
+65. The document mentions taxation as a risk (SBp319).
+
+66. The claimant checked with the respondent’s tax function where reference to the EPL (and its possible extension) should appear in the document. The person he spoke to confirmed his view that it should be mentioned where he had suggested namely under risks. The claimant was concerned that the impact around the possible extension of the EPL by the Government would be a significant risk for those investing in UK oil and gas projects.
+
+67. The claimant raised various matters in his email dated 29 November 2023 with Robert Parker (JB.194) including taxation. Mr Parker responded that tax rate assumptions were set out in the Taxation Section of the GIP (JBp.194).
+
+8000892/2025 Page 18
+
+68. On the 30 November the claimant sent his version of the GDP to Mr Rippiner and Mr Wisur for review. It contained reference to the EPL under Risk Assessment (SBp351).
+
+69. Mr Wisur responded on 1 December (JBp.199):
+
+“Arpit
+
+Thanks for sharing. It is clear that a lot of work has clearly gone into this. My main comment is that the document could still do with some editing (presumably this is happening in parallel with our review (in order to become more concise. Some suggested edits are enclosed, happy to take a call to discuss/explain further. I will make time available over the coming days (including this weekend) to further review if at all helpful.”
+
+70. Mr Rippiner emailed on the same day:
+
+“Arpit
+
+Fridtjof just beat me to it. I agree with his comment we need to make more concise – I’ve made some edits/suggestions as to how you might achieve it.”
+
+71. In particular it was suggested deletion of the reference to the extension of EPL after 2028. The claimant retained reference to the EPL in his draft. He was concerned that anyone looking at the document might not factor in the positive or potentially negative effects of EPL being continued.
+
+72. A meeting took place by Teams on the 4 December with the claimant, Julian Rippiner and Mr Wisur. The recording was not kept. Mr Rippiner had suggested that this reference should be removed. The claimant had put the EPL as a potential opportunity. He had written: “If the EPL was extended for 7 plus years then the holding value could decrease $6mn..No contingent liability can even the SP if the EPL extends after 2028. The base consideration will remain fixed resulting in a $6mn benefit to Shell UK if the valued underlying assets in the deal reduces to the extension to the EPL.” Mr Rippiner asked the claimant to remove this as this was speculative. The claimant argued that it was appropriate. Mr Rippiner then asked for it to be moved to another part of the form. He expressed the view that any decision maker in Shell approaching the matter of investment and using information in the document would be aware of the potential impact of the EPL levy.
+
+8000892/2025 Page 19
+
+73. On the same date the claimant received confirmation from the Tax Function that they had agreed the claimant’s version of the document showing the risk (JB.227). Later that day the claimant received a ‘‘mark up’’ pf the GDP from David Roberston in Finance instructing the removal of the EPL extension reference. He said that the ‘tax’ recommendation was that this issue would be managed at a UK level and EPL risks were sensitive and managed at a higher level.
+
+74. He also received correspondence from another manager, Saurabh Jain, a Finance Manager. He also suggested removing the reference to the EPL as it was “not relevant” and “not an upside” (JBp.367). The claimant believed that management pressure was being put on him to remove the reference where he had put it in the ELP.
+
+75. Later on the same day Mr Rippiner sent the claimant messages on Teams. These were later autodeleted. The claimant then sent an email to Mr Rippiner
+
+on 5 December:-
+
+“Julian, EPL extension after 2028 is the most significant uncertainty (upside) in project Mars and it could reduce Holding Value by $6mn or 33%. I believe that this risk to holding value should be clearly articulated to decision makers in Section 3 (Risks and Opportunities) of the GDP. Even the tax function confirmed their support of the Mars GDP with the EPL extension risk included in Section 3 (Risks and Opportunities) as a Medium likelihood uncertainty. It has now been moved to the economics section of the GDP as per your instructions. Kind regards, Arpit”
+
+Witnesses
+
+76. The passage of time affected all the witnesses but the contemporaneous record of events contained in email correspondence was detailed.
+
+77. I found the claimant to be someone who held his views genuinely and honestly. He was a generally careful and reliable witness who gave clear, precise and detailed evidence. I found him generally credible but struggled with some aspects of his evidence particularly the legal obligations that he said applied or wrongdoing that he alleged which I discuss later.
+
+78. I accepted in Mr Rippiner’s evidence that he could not recall that the claimant had suggested anything that could be described as wrongdoing on the part of the company either in his email about the sour steel casing or in relation to
+
+8000892/2025 Page 20
+
+the discussions that took place in respect to the ‘‘Mars’’ GDP edit. In my view if the claimant had indeed made some clear reference to a breach of health and safety standards or concealment or fraud as he now suggests then such serious allegations and important risks, would in the culture of the respondent company, have been matters that he would have been likely to recollect.
+
+79. The respondent’s other witnesses were clear and professional in their evidence. I detected no antipathy towards the claimant and their evidence was both credible and reliable.
+
+Submissions
+
+80. Both parties lodged detailed written submissions and responses to each other’s submissions. For brevity’s sake I have summarised these but acknowledge the considerable amount of work that both sides have gone to in their efforts to assist the Tribunal.
+
+Respondent Submissions
+
+81. The respondent’s agent summarised the legal framework relating to protected disclosures. He made reference to a number of cases, copies of which were produced. He set out the legal framework. Disclosures under sections 43B(1)(b), (d), (e), or (f) of the ERA required the Tribunal to establish whether the claimant genuinely believed the disclosure revealed the matters listed, specifically focusing on his actual belief at the time, including the reasons behind it. If the claimant had truly believed that Shell employees had breached the Code of Conduct, violated health and safety laws, or contravened regulations, or concealed wrongdoing those beliefs would have been reflected in his emails to Mr Rippiner, which it was not. The email in June 2022 also lacks references to health and safety concerns, environmental risks, or concealment of violations, indicating these were not in his mind at that time and the product of afterthought.
+
+82. The evidence according to Mr Jones, showed that his clients were committed to upgrading the casing materials to prevent risks associated with H2S exposure and would have escalated the issue to the Regulator if Capricorn had failed to comply. The claimant was well aware of this. His assertion that the respondent prioritised its reputation over safety is contradicted by the correspondence. The claimant did not reasonably believe that Shell's actions concealed information from regulators or that there was an imminent risk of disaster. The risk assessments, as the claimant accepted, suggested that
+
+8000892/2025 Page 21
+
+H2S exposure as very low. His email dated 26 June simply discussed project design ‘‘concerns’’, not breaches of legal obligations. It did not serve any public interest but rather his own agenda.
+
+83. In relation to the first ‘‘disclosure’’ to Mr Rippiner, there was no mention of legal breaches such as fraud or regulatory violations, and the alleged oral disclosure bears, he submitted, the hallmarks of afterthought, lacking references to specific legal obligations or broader concerns about the actions of the project team.
+
+84. In relation to the second so called disclosure this also lacked the essential elements required to be a PID. It made no suggestion of wrongdoing.
+
+Claimant’s Submissions
+
+85. The claimant prepared detailed written submissions and then supplementary “rebuttal’’ submissions with extensive citation of appropriate legal authorities.
+
+86. He set out the background to both alleged disclosures. In relation to the first disclosure the claimant had become concerned that senior managers on the Project Team were neither escalating the operator’s non-compliant well design to the Regulator nor warning the operator of escalation or withholding cash calls to secure a design change. Instead, they appeared to be concealing a serious health and safety risk to cover up the approval by them of an AFE that did not meet Shell’s own process safety standards. The claimant was also concerned as he believed that he was not being copied into all the correspondence.
+
+87. With knowledge of the risks associated with offshore drilling and mindful of the catastrophic Macondo disaster he was genuinely concerned about (i) risks to offshore workers, (ii) potential severe marine pollution, and (iii) the significant financial exposure for Shell and businesses dependent on the wider marine environment.
+
+88. As the Business Opportunity Manger (BOM) for Project Mars the claimant was responsible for preparing the GDP (Docs 82–83). This document required all material risks, including taxation risks, to be included in Section 3: Risks, Opportunities and Alternatives. The EPL had materially increased UK taxation on the oil industry. By late 2023 a further extension was widely recognised as being a foreseeable, material risk. Competitors were actively incorporating EPL risks but the respondent was not. The Victory project (~£125m) was being finalised concurrently and prioritised. Internal correspondence indicated a desire to keep “tax-risk messaging” aligned
+
+8000892/2025 Page 22
+
+across GIPs (Doc 48) to avoid undermining Victory’s investment case. I understood senior managers were therefore seeking to suppress visibility of EPL risk.
+
+89. Mr Rippiner deleted the EPL extension risk from the claimant’s draft. The claimant retained reference when sharing with the Mars team. Mr Rippiner once more instructed the claimant to remove it. The claimant made an alleged oral disclosure in that meeting. He then agreed to relocate the risk to the Economics section as a “compromise”. Later that day the Tax Function confirmed support for the claimant view that the EPL should remain where he had put it. Even if the oral disclosure is not accepted, the written disclosure alone satisfies s.43B. The disclosure set out clear, verifiable facts: the scale of the EPL risk; its impact (33%/$6m); governance requirements; Tax Function’s support; the effect of omission; and evidence of a wider pattern of suppression. This he suggested easily meets the Kilraine test.
+
+90. The claimant submitted that the actions he complained of i.e the removal of reference to the EPL and its subsequent relocation was fraudulent misrepresentation. His managers were deliberately downplaying a material financial risk to present internal investment proposals as more favourable. The claimant explained that he understood “fraud” was wrongful deception for financial gain, and believed this applied as omitting a known, material risk was to help secure £125m investment. The claimant’s belief was objectively supported by governance documents, internal modelling, market evidence, the alignment emails, and repeated instructions to remove the risk. As in Western Union Payment Systems v Anastasiou, misleading internal information that presents a more favourable picture than is accurate can constitute a breach of a legal obligation.
+
+91. His position was that the disclosure also showed a breach of Shell’s own
+
+General Business Principles which required:
+
+1. fair appraisal of risks (Principle 1);
+
+2. honesty and integrity in all business (Principle 3).
+
+92. The claimant submitted that he understood that employees were contractually obliged to follow these Principles and that suppressing a significant risk breached these principles. He also argued that there had been concealment and Section 43B had been engaged. His belief was, in his submission, reasonable given (i) internal conversations, (ii) emails evidencing aligned messaging (JBp.194, (iii) JR’s statement about Victory, and (iv) inconsistent
+
+8000892/2025 Page 23
+
+and inaccurate reasons given by multiple senior managers. The respondent’s explanations (from “speculative” to “not relevant” to “Tax recommended removal”) were contradictory and unsupported. The claimant also believed that the disclosure was in the public interest as suppression of a material financial risk could lead to misallocation of £125m, affecting Shell’s financial position Shell was a major publicly listed company, with millions of shareholders, including pension funds and retail investors. It would be contrary to internal governance he submitted and could adversely impact share value and accordingly there was a wider public interest.
+
+Discussion and Decision
+
+The Law
+
+93. Public policy protects people, whistleblowers, who make protected disclosures. These protections are contained in the Employment rights Act 1996 (ERA). The protections originally derive from the Public Interest Disclosure Act 1998 which was to protect individuals who disclosed information in the public interest.
+
+94. Qualifying disclosures in relation to subsections b, d, e and f with which we are concerned here are defined in the ERA as follows: “43B Disclosures qualifying for protection.
+
+(1) In this Part a “qualifying disclosure” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and tends to show one or more of the following—
+
+(a) …..
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject, (c)…..
+(d) that the health or safety of any individual has been, is being or is likely to be endangered,
+(e) that the environment has been, is being or is likely to be damaged, or
+(f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.” 8000892/2025 Page 24
+
+95. What is needed to amount to a Protected Disclosure set out in this section of the ERA. The requirements were summarised by HHJ Auerbach in Williams
+
+v. Michelle Brown EAT 2021 EA-2020-000432-JOJ: “9. It is worth restating, as the authorities have done many times, that this definition breaks down into a number of elements. First, there must be a disclosure of information. Secondly, the worker must believe that the disclosure is made in the public interest. Thirdly, if the worker does hold such a belief, it must be reasonably held. Fourthly, the worker must believe that the disclosure tends to show one or more of the matters listed in sub-paragraphs
+(a) to (f). Fifthly, if the worker does hold such a belief, it must be reasonably held.”
+
+96. The first stage involves a consideration of whether there has been a disclosure of information. The correct approach to the disclosure of information is set out in the decision of the Court of Appeal in Kilraine v London Borough of Wandsworth [2018] ICR 1850, in which Sales LJ held that the concept of “information” as used in section 43B(1) is capable of covering statements which might also be characterised as allegations. The authorities make clear that sometimes a statement which can be characterised as an allegation will also constitute “information” and amount to a qualifying disclosure within section 43B(1), but not every statement involving an allegation will do so. Whether a particular allegation amounts to a qualifying disclosure under section 43B(1) will depend on whether it falls within the language used in that provision.
+
+97. Whether an identified statement or disclosure in any particular case does meet that standard will be a matter for evaluative judgment by a Tribunal in the light of all the facts of the case. It is a question which is likely to be closely aligned with the other requirement set out in section 43B(1), namely that the worker making the disclosure should have the reasonable belief that the information he discloses does tend to show one of the listed matters. As explained by Underhill LJ in Chesterton Global Ltd v Nurmohamed [2018] ICR 731, para 8, “this has both a subjective and an objective element. If the worker subjectively believes that the information he discloses does tend to show one of the listed matters and the statement or disclosure he makes has a sufficient factual content and specificity such that it is capable of tending to show that listed matter, it is likely that his belief will be a reasonable belief.”
+
+98. In the case of Twist DX v Armes UKEAT/0030/20/JOJ (V) Linden J returned to the question of disclosures of information. He concluded that it is not necessary that a disclosure of information specifies the precise legal basis of
+
+8000892/2025 Page 25
+
+the wrongdoing asserted. It has long been established that it is necessary to consider whether the employee holds the belief that the disclosure tends to show one of the relevant forms of wrongdoing and whether that belief is reasonable. This involves subjective and objective elements.
+
+99. In Chesterton Global Ltd v Nurmohamed [2018] ICR 731 Underhill LJ indicated that both the objective and subjective elements, applies to the requirement that in the reasonable belief of the worker making the disclosure, it is made in the public interest.
+
+100. HHJ Auerbach stated in Williams: “10. Unless all five conditions are satisfied there will not be a qualifying disclosure.’’
+
+Background to alleged first disclosure
+
+101. In this case the claimant asserted:
+
+1. that employees of the respondent had breached contractually binding sections of the Shell Code of Conduct or
+
+2. the respondent was in breach of statutory health and safety obligations or
+
+3. the respondent was in breach of The Offshore Installations and Wells (Design and Construction etc.) Regulations 1996.
+
+102. The matter firstly revolves around what the claimant says in his email to Julian Rippener in June 2023. He raises what he describes as ‘‘concerns’’. It was clear from the evidence that there was no new information in the email that Mr Rippiner was not aware of except perhaps that the drilling had commenced that day (this is not in any event essential) but he raises concerns and says: ‘‘The operator’s well design does not meet Shell’s process safety standards’’. Mr Jones argues that if the claimant believed that there were breaches of the Shell Code or other obligations then this would have been stated in the email and that the claimant has tried to find a breach of some obligation to allow his email to qualify as a protected disclosure and that he could not have genuinely believed that his e-mail showed this possible wrongdoing. There was, he said, no reference to likely health and safety endangerment or
+
+8000892/2025 Page 26
+
+environmental damage and attempts to conceal those risks which is what his position is now. In addition, he argued that the claimant because of his involvement with the Diadem project team knew fine well that the truth of the matter was that the team was not resistant to changing the well design or prioritising reputational considerations over safety and that considerable efforts were being made to get Capricorn to change the design and this included considerable financial support to encourage them to do so.
+
+103. The claimant was disappointed that his suggestion that Capricorn should be warned about escalation to the Regulator was removed from the text of a letter being sent to Capricorn and this seems to be the trigger for the email to Julian Rippiner. He goes on to say that on the same day he had been told that Capricorn had commenced drilling and he was ‘‘very concerned about the risks materialising into a catastrophic disaster’’. This was for him the “final straw”.
+
+104. As Mr Jones points out that at the time of his email to Mr Rippiner on 26 June 2022, the claimant was still involved in preparing the proposal that Shell tabled to Capricorn in the letter dated 24 June 2022. That letter explicitly said that Capricorn would submit a request to change the well design to the regulator for approval (page 158) and the claimant was aware that Shell had set a deadline of 27 June 2022 for Capricorn to respond to the proposal. He was also aware of the plan to finally escalate to the regulator if Capricorn did not accept Shell’s proposal to modify the well design to incorporate the use of the preferred steel casing. The claimant knew that Shell had already warned Capricorn about escalation to the regulator (page 138 of the bundle).
+
+105. In his e-mail to Mr Rippiner the claimant made a number of suggestions for influencing Capricorn to upgrade the casing material but contrary to his now stated position before the Tribunal, he was not advocating that escalation to the regulator was the only option. He did not raise that when he was asked for his input into the letter which was sent to Capricorn on 24 June 2022. An individual of the claimant’s intelligence and professional background could not have genuinely believed that Shell was taking an approach to upgrading the casing material which meant that there was a likely risk of health and safety endangerment or environmental damage, or of the concealment of any such risks from the regulator. It ought to have been clear to the claimant that Shell was not prepared to allow the 9 5/8” casing to be run without Capricorn’s agreement to upgrade the casing material or, if necessary, regulatory intervention.
+
+8000892/2025 Page 27
+
+Information
+
+106. There has to be a disclosure of information and in this case it was bringing the issue of the well material to Mr Rippiner’s attention. The context is important. He asserts that the well design was in breach of Shell’s safety standards. Those standards developed over many years set out their own operating standards. We have to examine if this tends to show a relevant failure.
+
+107. It also has to be borne in mind that the claimant in his evidence accepted that the risk of H2S exposure was low and Mr Rippiner was aware of this. Would this email highlight to Mr Rippiner that there was a serious issue which had obvious health and safety and environmental implications because of the nature of the physical process being undertaken? I considered whether it must have been obvious to Mr Rippiner or implicit in some way that there was some wrongdoing or possible breach of obligations was likely and if Subsections b,d,e or f had been engaged when the claimant raised what he described as concerns.
+
+108. The issue of the correct steel casing was in fact a matter which Mr Rippiner was in fact well aware of having as he put it in his email to the claimant ‘‘I’ve been staying pretty close to this’’. This is not an easy matter and the claimant emphasised the possible catastrophic results of getting a design wrong. In highlighting that the design did not comply with the Shell safety standards through the failure to use H2S resistant steel he was in my view not making a sufficient disclosure of information to suggest some wrongdoing. The claimant is seeking to use the wrong test. He cannot necessarily equate a failure to use Shell standards with a breach of more universal but less rigorous standards in a situation where the risk was accepted as being low.
+
+109. The claimant must also demonstrate that a breach of some obligation was ‘‘likely’’. As observed in the case of (Kraus v Penna [2004] IRLR 260 EAT): ‘‘In a case under section 47B(1)(b), it must be shown that the failure to comply was likely namely more probable than not, not just that it was a mere possibility.’’
+
+110. The alleged breach had certainly not occurred when the claimant emailed but I accept that this was the eleventh hour as it were. I did not accept his evidence that this issue had been concealed or that it was not being anything other than frantically addressed by senior managers at this point in time. The evidence shows that the respondent company had made every effort to try
+
+8000892/2025 Page 28
+
+and resolve matters amicably and without involving the Regulator. It was clear that earlier mistakes had been made such as not noticing the issue and signing off the contract. They had now come to the point rate of involving the Regulator. It was their approach that the claimant felt was too slow and this was a difference of opinion between him and those more senior managers such as Mr Rippiner who were confident that when push came to shove Capricorn would accept the use of the sour steel casing. They were in fact proven right.
+
+111. The next issue to consider is even if I am wrong in my earlier conclusion whether the claimant had a reasonable belief that the information he disclosed tended to show one of the listed matters in the section. This has both a subjective and an objective element. This is not an easy matter as the calculation of risk which is at the heart of the professional dispute between Capricorn and Shell is complex.
+
+112. The claimant as noted earlier accepted that the chance of exposure to H2S was low but points out that the Shell standards and his own view is that even a low risk is unacceptable given the potentially catastrophic results that a blowout can have. There is a clear subjective element to this. I accept that the claimant honestly believed that drilling the well was a breach of the internal standards and because of this that meant in breach of some safe practice and therefore some obligation must have been broken. However, the well had not reached the stage of requiring the use of this casing, although the matter was now urgent, and I do not accept that the claimant had objective evidence before him to conclude that there was anything other than a strong desire to force the change of casing on Capricorn, in the absence of agreement, even if this involved ultimately contacting the Regulator. Although some leeway is given to whistle-blowers in identifying the legal obligation at issue it seems clear to me that the claimant was looking at the matter wholly from the perspective of internal Shell standards and with a considerable degree of hindsight.
+
+113. I do not minimise the claimant’s concerns given the seriousness of the matter. His perception was based on the initial misteps taken by the project team in not having the design incorporate the use of H2S resistant steel, being slightly “out of the loop” and his belief that the project team did not share either his urgency or his view that a stronger line should be taken regarding the referral to the Regulator. Ultimately it is difficult not to see this situation, without the benefit of hindsight as being a dispute over tactics and not objectives. The claimant’s fear that the team was trying to cover up it’s initial mistakes is not
+
+8000892/2025 Page 29
+
+borne out but there is a suggestion in the evidence that Capricorn’s view that this was not necessary given the low likelihood of encountering H2S was a view that the project team was sympathetic towards at least initially hence their agreement to consider seeking a derogation.
+
+Public Interest
+
+114. The claimant pointed in his evidence to marine disasters that he had become informed about through his work and his knowledge of the offshore oil industry and the attendant risks. These matters have to be considered in the light of Subsections b, d, e and f. The claimant believed that drilling a well which was not in conformance with the Shell standards was wrong and a breach of internal rules that obliged staff to work in a particular way. That might not normally meet the public interest test had the matter not been intrinsically tied to the hazardous operation of oil extraction. The issues raised in relation to potential dangers both to worker’s health and safety and the potential impact of any oil spill on the marine environment are matters which must apply to a disclosure in relation to matters in subsections d and e. I considered whether these beliefs were reasonably held and concluded that these beliefs were reasonably held by him except in relation to (f) which talks about concealment. There was no factual basis sufficient to uphold such a belief.
+
+Wrongdoing and was that belief reasonably held
+
+115. The well being drilled contrary to the Shell standards has been discussed above. As the case of Twist DX v Armes indicates the exact obligation need not be specified. I am unable to accept that the disclosure could potentially show wrongdoing (or that this would be apparent to those in the respondent company.
+
+116. I do not accept that the claimant had, objectively speaking, the material before him to conclude that there was or was likely to be wrongdoing. Despite the apparent laxity of addressing the issue earlier by the Project Team it was apparent that the respondent was urgently addressing the matter before the alleged disclosure. The stage at which the sour steel casing needed to be deployed although very close had not been reached. The importance of the issue was clearly not lost on Mr Rippiner or on Mr Van Den Brekel. The claimant was aware that Capricorn were aware of the implicit threat by Shell to approach the Regulator. This approach had not been dismissed by senior managers but they had acknowledged it was the last resort. The issue
+
+8000892/2025 Page 30
+
+between the claimant and the Project Team seems to come down to tactics and not the objective which was to get a change in the steel casing being used. In considering these various factors I concluded that no protected disclosure had been made.
+
+Background to alleged Second Disclosure
+
+117. The claimant asserted that the “Mars” document which was an internal document to be used to decide investment was designed to suppress visibility of the EPL to boost approvals to fund UK projects and attract Shell Group investment into Shell’s UK portfolio. This included projects such as Victory field development by concealing a significant downside risk caused by the tax.
+
+118. The claimant says that the email that he sent to Julian Rippiner on 5 December 2023 (JBp.233) was a qualifying disclosure. He also says that he had made a prior oral qualifying disclosure to him earlier that day complaining about the passage about risk being moved. He describes the oral disclosure thus (JBp.70): “I challenged Mr Julian Rippiner’s instruction to omit the potential extension of the Energy Profits Levy (EPL) from the ‘Risks and Opportunities’ section of the Mars Group Divestment Proposal (GDP). I explained that the extension of the EPL was the most significant uncertainty in Project Mars and a major financial risk for Shell’s UK oil & gas investments, and omitting it could mislead decision-makers. I also shared that this appeared to form part of a broader effort to suppress visibility of the EPL extension risk across concurrent Group Investment Proposals (GIPs), including for Victory.”
+
+119. The email said: ‘‘Julian, EPL extension after 2028 is the most significant uncertainty (upside) in project Mars and it could reduce Holding Value by $6mn or 33%. I believe that this risk to holding value should be clearly articulated to decision makers in Section 3 (Risks and Opportunities) of the GDP. Even the tax function confirmed their support of the Mars GDP with the EPL extension risk included in Section 3 (Risks and Opportunities) as a Medium likelihood uncertainty. It has now been moved to the economics section of the GDP as per your instructions.’’
+
+8000892/2025 Page 31
+
+120. There was an evidential dispute between the claimant and Mr Rippiner about the meeting on the 5 December which seems to have taken place by Teams. The recording was not kept. The claimant says he challenged the proposed edit by Mr Rippiner who does not recall the claimant making such a challenge. He says that he was told by Mr Rippiner that Mr Simon Roddy was concerned that highlighting the EPL extension risk could have a detrimental impact on the chances of the Victory field development project being sanctioned.
+
+121. There is clearly a differing recollection. Mr Rippiner strongly denies the comment attributed to him about Mr Roddy. I place no strong weight on either’s recollection. It may be that the claimant challenged the edit but if he did so he did it in such a way as to leave no lasting impression. In his evidence he made reference to a culture of deference to senior managers and this may go some way to explaining the difference in evidence and understanding of what the claimant says he was trying to do. It seems highly likely that the meeting was conducted professionally and courteously and that the ‘‘challenge’’ was neither forceful or explicit. That seems to accord with the wording of the email which makes the claimant’s point as to where the information should be as far as he is concerned but does not hint at anything untoward being done by complying with the instruction. Crucially if Mr Rippiner had made a comment suggesting that the edit suited Mr Roddy’s purposes which was to make the investment more attractive it is of that there is no reference to this in the email of the 5 December.
+
+122. The claimant relies on the following grounds:
+
+“122. The s.43B(1) grounds relied upon:
+
+• (b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+• (f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.” Information
+
+123. The first issue is whether there was a disclosure of information. We need to consider both the discussion with Mr Rippiner and the email sent by the claimant. The evidence of what was said was not particularly clear so it is helpful to look at the email sent by the claimant and consider it was likely to reflect the discussions. The broad situation is clear. The claimant writes ‘‘I believe that this risk to holding value should be clearly articulated to decision makers in Section 3 (Risks and Opportunities).’’ The claimant provides
+
+8000892/2025 Page 32
+
+information but none that suggests wrongdoing or breaches of an obligation are likely.
+
+Public Interest
+
+124. The claimant says that his belief was that the misallocation of money internally could have a major impact on the company and on investment decisions. While I am just prepared to accept that subjectively the claimant believes that the company was so large and the sums that could be misallocated were substantial that this might have some possible effect on the public through the stock market or their pensions there was no basis in evidence for this belief. Indeed, my conclusion was that there was nothing misleading about the way in which the document was being edited given that the information at issue was in the document and well known in the industry. This seems to be a genuine difference of opinion and one on which the claimant did not have the support of his senior managers. To deduce from this dispute that there was some underhand shenanigans on their part is not reasonable in the circumstances. Wrongdoing and was that belief reasonable.
+
+125. I have already found that no wrongdoing was identified in the discussions or in the email in the information conveyed to the respondent. In order to fall within s.43B, the Tribunal must identify the source of the legal obligation to which the claimant believes applies and how the respondent failed to comply with it. As the authorities make clear the identification of the obligation does not have to be detailed or precise but it had to be more than a belief that certain actions were wrong. As was pointed out in the case of Eiger ‘‘actions could be considered wrong because they were immoral, undesirable or in breach of guidance without being in breach of legal obligation.’’
+
+126. The claimant explains the legal obligations at play were fraudulent misrepresentation, possible breach of Section 17 Companies Act 2006, Duty to promote the success of the company according to Section 172 of Companies Act 2006 (a failure to act in good faith) Section 173. He believed that the concealment of such a risk was inconsistent with maintaining a reputation for high standards of integrity and business conduct and finally a breach of the Shell General Business Principles. These matters have the hallmark of afterthoughts and are just not reflected in what was said or written. I found no evidential support for the assertions and there was no basis at the time for the claimant to reasonably hold that these obligations were or were likely to be breached.
+
+8000892/2025 Page 33
+
+127. Whilst not presented in the way in which the claimant would have liked, the Mars GDP was completely transparent about the impact that an extension of the Energy Profits Levy would have had on the Shell Holding Value. It did not suppress that information. If the claimant had been told what he alleges that he had been told about supressing the information then it is not credible that he did not mention that in his subsequent email to Mr Rippiner on 5th December 2023.
+
+128. In conclusion I do not find that the actions of the claimant amounted to protected disclosures protected by the ERH. The claims for detriment arise from these two disclosures and accordingly the case must now be dismissed. Date sent to Parties ____1_6_ _D_e_c_e_m_b_e_r_ _2_0_2_5_____

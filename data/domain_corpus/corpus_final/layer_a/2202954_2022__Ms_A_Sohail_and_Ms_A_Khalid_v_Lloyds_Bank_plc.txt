@@ -1,0 +1,656 @@
+JUDGMENT
+
+Anonymised for the Register
+
+The unanimous judgment of the Employment Tribunal is that all of the Claimants’ claims fail and are dismissed.
+
+REASONS
+
+INTRODUCTION
+
+1. We refer to the Claimants in this judgment by name to avoid confusion. At the time of the hearing, the first claimant, Ms Sohail, was a former employee of the Respondent. The second claimant, Ms Khalid was a current employee of the Respondent.
+
+2. In August 2021, both Claimants were, separately, given final written warnings by the Respondent. This was in response to them posting and emailing messages internally within the Respondent about the Israel/Palestine conflict. The Respondent held that the posts/messages breached its Code of Conduct for Employees. The Respondent also reported the conduct to its regulators, which included the Financial Conduct Authority (FCA). The Claimants appealed against the warnings, but their appeals were not upheld.
+
+3. Both of the Claimants are Muslims. They told the tribunal they held certain beliefs about opposing racism and oppression as a result of their faith, but also, in the alternative, independently of it. In addition, they said they held anti-Zionist beliefs. The Claimants said the posts/messages were manifestations/expressions of those beliefs and their claims to the tribunal consisted of complaints of direct and indirect discrimination because of religion or belief. The Respondent denied any discrimination.
+
+4. It has taken the Tribunal a long time to issue this reserved judgment for which we apologise to the parties. This was a difficult case to decide. Some of the decisions the Tribunal reached were finely balanced. We have therefore sought, where we felt it was sensible, to consider the alternative outcomes that would have arisen had we reached different decisions. We hope the parties find this to be a helpful approach.
+
+5. We have also been acutely aware, when hearing the case and during our decision making, of the further and ongoing escalation in the Israel /Palestine conflict accompanied by an often emotionally charged and often very polarised public debate. We have been careful to ensure our decision making is limited to the legal questions we have been required to determine. We have also sought to be careful to use neutral language that is sensitive to the different views expressed as part of the debate. We apologise if we have not achieved this and our choice of language is at all offensive.
+
+THE ISSUES
+
+6. The list of issues to be determined had not been settled prior to the start of the hearing and therefore required discussion at the start of the hearing.
+
+7. A list of issues covering Ms Khalid’s legal complaints had been agreed between the parties and adopted at a case management hearing conducted in Cardiff prior to the cases being joined. When the cases were joined, Ms Khalid’s case was transferred to London Central. At a case management hearing dealing with both cases, the parties were ordered to amend that list to incorporate reference to Articles 9 and 10 of the European Convention on Human Rights. The list of issues was not updated to refer to Ms Sohail.
+
+8. Our discussion with the parties about the list of issues covered three matters. The first two matters were resolved prior to the start of the hearing. The third matter remained outstanding, to be resolved by the Tribunal as part of our decision making.
+
+9. First, there was a discussion about whether there needed to be a single list of issues or separate lists for each Claimant. The Tribunal decided that a single list should be used and it is incorporated into this judgment as an appendix.
+
+10. Second, the Respondent sought to add the word appropriate in several places in the list of issues. There was no objection to this from the Claimants at the start of the hearing and we proceeded on that basis.
+
+11. The third matter arose because of the way the complaints of direct discrimination had been formulated. This appeared not to have been discussed at the earlier case management hearings. The parties were not able to agree which of two possible formulations was correct and therefore we left both in the list of issues and asked them to deal with this in closing submissions.
+
+12. We also noted that the list of issues appeared to have been updated to include reference to the provisions in Article 9(2) (see paragraph 8) and not the provisions in Article 10(2). Both sides agreed that the two Convention rights were relevant and we should consider them both.
+
+THE HEARING
+
+13. The hearing was a remote video hearing. Permission was given to a number of people to observe the hearing. The parties made arrangements for relevant materials to be shared with the observers as required.
+
+14. From a technical perspective, there were a few minor connection difficulties from time to time. We monitored these carefully and paused the proceedings when required. The participants and observers were told that it was an offence to record the proceedings.
+
+15. The hearing was conducted in two parts. We heard all the evidence in July but there was not enough time in the timetable to hear closing submissions. Although we offered the parties dates in August to do this, the earliest we were able to all be together again was 3 October 2024. The tribunal had a reading day on 2 October 2024.
+
+16. The panel were then not able to deliberate in chambers until the end of October 2024. We did not complete our deliberations in the available listing slot and met again in December 2024 and early January 2025. It has then taken Employment Judge E Burns until now to write up the decision due to work demands.
+
+Witnesses
+
+17. The tribunal ensured that each of the witnesses, who were all in different locations, had access to unmarked copies of the relevant written materials. We were satisfied that the witnesses were not being coached or assisted by any unseen third party while giving their evidence.
+
+18. The Claimants gave evidence. We also heard evidence from the following on their behalf:
+
+• Assif Khalid, co-chair of the Respondent’s Muslim Network
+• Crispin Leatham-Frost, Ms Sohail’s trade union representative who accompanied her to her disciplinary and appeal hearings
+• Antony Lerman, Claimant expert on antisemitism and anti-Zionism.
+
+19. For the Respondent, we heard evidence from:
+
+• Sharon McCann, Investigation Manager for both Claimants
+• Mubeen Quadir, Disciplinary Manager for Ms Sohail
+• Nicola Webster, Disciplinary Manager for Ms Khalid
+• Nina Hicks, Appeal Manager for both Claimants
+• Kathryn Harris HR Conduct Team, and
+• Richard Eaton, Conduct Panel Chair
+• Dave Rich, Respondent expert on antisemitism and anti-Zionism.
+
+20. We were also provided with a written expert report dated May 2023 from Professor Matthew Wilkinson, Professor of Religion in Public Life at Cardiff University. He had been jointly instructed by the parties, but did not attend the hearing.
+
+21. Mr Lerman and Dr Rich met prior to giving evidence to explore if they could reach agreement on any matters. When giving evidence, they were each cross examined by the other side and then we brought them together so that they could answer questions from the Tribunal at the same time.
+
+22. At the start of the hearing, the Claimants applied for a witness order such that the Respondent’s Inclusion and Diversity Manager be ordered to attend the hearing so that she could be cross examined. The Respondent objected to the application. Having heard submissions from both sides, the Tribunal decided not to make the order. We gave oral reasons for our decision.
+
+Documents
+
+23. We read the evidence in the bundles to which we were referred. We refer to the page numbers of key documents that we relied upon when reaching our decisions.
+
+24. There was an agreed main bundle of 696 digital pages. Unfortunately, the hard copy and digital pagination did not match. When referring to documents in this main bundle we refer to the digital page numbers. References to pages numbers in round brackets should be assumed to be to the main bundle unless otherwise specified.
+
+25. At the start of the hearing, both sides had also produced late additional supplementary bundles which they asked to be admitted into evidence. The Respondent’s supplementary bundle ran to 693 pages. Although called the Respondent’s supplementary bundle, we understood this contained some documents disclosed by the Claimants. The Claimants’ supplementary bundle ran to 120 pages. The Claimants then produced a further supplementary bundle of 245 pages before evidence started which they asked to be admitted.
+
+26. Neither side had had a proper opportunity to properly review the supplementary bundles. For the sake of expediency, we agreed with the parties that the Tribunal would have the bundles and that witnesses could be taken to documents within them during the hearing, subject to allowing counsel for each side the opportunity to object at the time.
+
+27. In addition, during the course of the hearing both sides asked for additional documents to be admitted into evidence on an almost daily basis. These were admitted with the agreement of the other side, but not numbered and remained loose additional documents.
+
+Cross Examination and Use of Language
+
+28. The nature of the dispute meant that it was necessary for the parties to explore some sensitive issues with the witnesses. At times, both sides objected to language used or questions put by the other side. The objections were based on the issues at the heart of the case, such as the extent to which expressing anti-Zionist views is antisemitic and whether, as was argued by the Claimants, supporters of Israel have ‘weaponised’ antisemitism to counter criticism of it.
+
+29. The Tribunal understood the points both sides made. Rather than decide the fundamental contentious matters at the heart of the case on the hoof, we agreed with the parties that they should voice their objections to language and questions where relevant, but that unless withdrawn, the language/questions would be allowed. The parties were content with this approach which effectively was a reservation of their positions.
+
+Closing Submissions
+
+30. In addition to making lengthy closing oral submissions, the parties prepared written submissions. We thank them for those submissions and the extensive authorities bundle they provided. The Respondent objected to some of the content of the Claimants’ written submissions being shared with the public (not the Tribunal) and made an application under Rule 50 (as it then was) in this regard. We granted that application and gave oral reasons when doing so.
+
+FINDINGS OF FACT
+
+31. Having considered all the evidence, we find the following facts on a balance of probabilities. Some of our findings on disputed factual issues are dealt with in our conclusions.
+
+32. The parties will note that not all the matters that they told us about are recorded in our findings of fact. That is because we have limited them to points that are relevant to the legal issues.
+
+Background
+
+33. The Respondent describes itself as the largest retail and commercial financial services provider in the UK. The Lloyds Bank Group employs around 65,000 people across the UK. It is regulated by the Financial Conduct Authority (FCA) and the Prudential Regulatory Authority (PRA). The Respondent refers to all the people who work for it as colleagues and we have used the term in this Judgment to mean the same. We have also used the terms employees and staff.
+
+First Claimant
+
+34. Ms Sohail is describes herself as practising Muslim. Her faith is important to her and she is very devout.
+
+35. Ms Sohail worked as part time Customer Service Adviser for the Respondent while she was doing her A levels and degree. This was an entry level Grade A customer facing role. She started on 14 August 2017. She completed her degree in July 2022. She left her employment with the Respondent in July 2023 to take up a permanent full time job with another employer.
+
+36. At the relevant times for the purposes of this claim, she was working remotely at home and was employed to do 16 hours per week. Her normal working days were Saturday, Sunday and Monday. Her line manager was Benjamin O’Kane.
+
+37. Prior to the events set out below, Ms Sohail had a clean disciplinary record.
+
+Second Claimant
+
+38. Ms Khalid also describes herself as a practising Muslim. Her faith is also important to her and she is very devout.
+
+39. Ms Khalid commenced her employment with the Respondent on 1 June 2009. At the time of the hearing, she was still employed by the Respondent.
+
+40. Ms Khalid initially joined the Respondent in an entry-level position. Within six months, however, she applied for and obtained a team leader role, overseeing approximately 13 employees. She had changed role since then however, and at the relevant times for the purposes of this claim, she was working part time in the role of Litigation and Fair Assessment Advisor, which was a Grade C role. It was not a customer facing role.
+
+41. Ms Khalid started this role on returning from her most recent maternity leave in March 2021. Ms Khalid’s line manager was David Ormesher. She worked on Mondays and Tuesdays from the Respondent’s offices in Chester. On these days she was required to start work at 8 am, although she often arrived in the office earlier than this.
+
+42. Prior to the events set out below, Ms Khalid also had a clean disciplinary record.
+
+Contracts of Employment and Policies
+
+43. The Respondent issues its employees with written contracts of employment at the start of their employment. It also has a number of written policies and procedures. In this section we set out relevant provisions contained in the Claimants’ contracts. We deal with the policies and procedures in more detail in the next section.
+
+44. Ms Sohail confirmed in evidence that she was fully aware of the provisions of her contract and all relevant policies and procedures and understood them. Ms Khalid told us that she had not read the policies and procedures. She accepted in evidence, however, that most of the provisions were common sense and that during the meeting she attended as part of the disciplinary process she had been made aware of them.
+
+45. There were slight differences between the written employment contracts for each Claimant due to the different times when they were issued. Ms Sohail’s contract was at pages 160 to 173 of the main bundle and Ms Khalid’s was at pages 181 – 170.
+
+46. The version of Ms Sohail’s contract in the bundle was undated, but it was not in dispute that it had been issued to her at around the time she commenced employment in August 2017.
+
+47. Ms Khalid’s contract was provided to her following a collective agreement having been reached on harmonisation of terms and conditions and is understood to have been effective from 1 October 2010. This was before the new regulatory regime that was introduced in 2016.
+
+48. Both contacts contained clauses dealing with the following:
+
+• Regulatory Duties and Requirements – this was in clause 13 (164) and the appendix (170 – 173) to Ms Sohail’s contract and in clause 12 of Ms Khalid’s contract (184 – 185)
+• Confidentiality and Communications - this was in clause 16 of Ms Sohail’s contract (165) and clause 15 of Ms Khalid’s contract (185)
+• Disciplinary and Grievance - this was in clause 18 of Ms Sohail’s contract
+
+(166) and clause 16 of the Ms Khalid’s contract
+
+• Compliance with Group Policies – this was in clause 19 of Ms Sohail’s contract (166)
+• Notice and Termination of Employment – this was in clause 20 of Ms Sohail’s contract (166) and clause 17 of Ms Khalid’s contact (185)
+
+49. We were referred to the following policies of the Respondent:
+
+• Disciplinary Policy and Procedure
+• Colleague Conduct policy
+• Conduct Rules
+• Regulatory References
+• Code of Ethics and Responsibility
+• Values
+• Race Action Plan
+
+50. We were also referred to guidelines issued to employees for using the Respondent’s internal communications systems. These are dealt with in the section below.
+
+51. The Respondent’s Disciplinary Policy and Procedure, Colleague Conduct policy and Conduct Rules are published as intranet pages within a section called Conduct.
+
+Disciplinary Policy and Procedure
+
+52. We were provided with documents from two sub-sections of the Respondent’s intranet dealing with disciplinary matters, one called Line Managers and one called Colleagues. We understood that all employees could read both versions and we have therefore referred to both.
+
+53. From the Colleague section, we were provided with the following:
+
+• A page dealing with Initial Concerns (234)
+• A page dealing with Informal Action (218)
+• A page dealing with Investigations (239)
+• Three pages dealing with Disciplinary Hearings (240 – 242). These were also duplicated with a menu at (245 – 247)
+• A page dealing with Appeals (251)
+
+54. From the Line Manager section, we were provided with the following:
+
+• A page called Process Overview, showing a flow chart (233)
+• A page dealing with Initial Concerns (235)
+• Two pages dealing with Informal Action (237 - 238)
+• A page dealing with Investigations (243)
+• Three pages dealing with Disciplinary Hearings (248 - 250)
+• Two pages dealing with Appeal Hearings (252 - 253)
+
+55. We set out below, sections we consider to be relevant to our decision making in this case.
+
+56. In the section providing guidance to line managers on informal action, the following can be found: “Always consider whether a disciplinary problem can be solved informally. If minor problems are dealt with early, colleagues can change their behaviour quickly. This can stop problems getting worse and reduce the risk of them happening again. It is not necessary to take informal disciplinary action before escalating your concerns if you feel the issue/are sufficiently serious.” (237)
+
+57. The guidance to managers on investigations says: “The outcome of the investigation should be a Disciplinary Investigation
+
+Report. This should contain:
+
+• Details of the alleged problem and scope of the investigation
+• A summary of the evidence that the scene, as well as any gaps, or example when a key witness has left the Group
+• The seriousness of the problem e.g. could it be gross misconduct?
+• The report should have a clear recommendation on whether there is a case to answer and a formal disciplinary hearing is needed. “Case to answer” means that there are grounds to conclude that the colleague could have committed the misconduct. The Disciplinary Hearing Manager decides that the allegation is true based on the balance of probabilities.” (243)
+
+58. There was also an intranet page in the Disciplinary section that stood alone called “Understanding Misconduct and Potential Sanctions” (254 – 258). We have assumed that the page was intended as guidance for both line managers and employees.
+
+59. The page explains the following:
+
+“Poor colleague conduct can generally be categorised as:
+
+• Behaviour that is inconsistent with our Colleague Conduct pillars, Group Values or Code of Responsibility
+• Poor treatment of colleagues
+• Poor performance
+• Non compliance with [the Respondent’s] policies, procedures ore regulatory responsibilities
+• Criminal activity” (254)
+
+60. The page then provides non-exhaustive lists of examples of misconduct and gross misconduct. The page also makes it clear that the examples given under the heading misconduct may also constitute “Serious or Gross Misconduct” depending on the specific circumstances. It states:
+
+“- managers would need to consider:
+
+• What was the impact of the misconduct, did it, or could it have a direct and/or serious customer or colleague impact? Did it create significant risk for [the Respondent]?
+• Have there been previous incidents with the colleague?
+• Is there a pattern of behaviour?” (255)
+
+61. We note that the following examples are included under the heading Misconduct examples:
+
+• “Negligence in undertaking your role & responsibilities and/or behaviour likely to cause offence to other employees, Group customers or the general public
+• Breach of the Group’s policies, rules, standards and procedures
+• Breach of compliance and regulatory requirements
+• Conduct likely to bring the Group’s name into disrepute” (254)
+
+62. The following examples are included under the heading Gross Misconduct examples: “Flagrant and wilful disregard for the Group’s policies, procedures or standards, for example:
+
+• Unlawful discrimination or harassment of colleagues
+• Persistent unauthorised absence from work
+• Breaches of Health and Safety requirements
+• Breach of the Groups’ Detailed Conflict of Interest Policy and the Risk Model Governance Policy
+• Any activities expressly forbidden by the Group’s Detailed Acceptable Usage Policy “Personal conduct that shows a reckless disregard for the best interests of the Group, its customers and colleagues, for example:
+• Being charged with or convicted of a criminal offence that, in the Group’s opinion, adversely affects the Group’s reputation, or its relationship with colleagues, customers or the public, or otherwise affects suitability to continue employment.
+• Conduct or behaviour inside and/or outside normal working hours which is harmful to the Group, adversely affects the Group’s reputation or its relationship with colleagues, customers or the public, or otherwise affects suitability to continue employment.
+• Failure to disclose any unspent criminal convictions (those not exempted by the Rehabilitation of Offenders Act 1974).
+• Theft, fraud, forgery or other dishonesty, including fabrication of records.
+• Bullying or intimidation, including abusive language and physically threatening behaviour towards a colleague or customer.
+• The deliberate, negligent or reckless introduction of a computer virus into the Group’s computer system.
+• Inappropriate use of the Group’s collaboration tools such as Office Communicator and/or Hive.
+• Deliberately, negligently or recklessly accessing Internet site containing pornographic, offensive or obscene material.
+• Being under the influence of alcohol, illegal drugs or other substances during working hours.
+• Participation in unofficial industrial action.
+• Reckless or dangerous misuse or damage of company property, including company vehicles.” (255 – 256)
+
+63. The page gives the range of potential sanctions available by reference to the following table which we have replicated in part with the original emphasis. It confirms that the decision on what sanction to apply rests with the Disciplinary Hearing Manager (257). Sanction Reason Written warning Usually given for issues which may arise from a lack of improvement after informal action, or acts of misconduct which are inappropriate to be dealt with informally. Final Written Warning Usually given for cases of serious misconduct or in response to repeated misconduct by the employee because they live written warning. Action short of dismissal – to be Issued in response to gross used only where dismissal was a misconduct or repeated misconduct potential outcome where there are mitigating circumstances. A Final Written Warning and one or more combination of the following:
+
+• Demotion with a without a change to Terms and conditions, including a reduction appropriate.
+• Transfer to a different work location/role with a without a change in two Terms and Conditions
+• Deregulation (of regulated advisers) Dismissal (with a without notice) Dismissal without notice issued in response to Gross Misconduct. Sanction Reason Dismissal with notice issued in response to repeated misconduct or where the Employee already has a live final written warning.
+
+64. The page also has a note that “Colleague (sic) should be aware that disciplinary action could have an impact on their pay and Group Performance Share awards.” (258) There is then a link to the internet pages dealing with Reward. These pages were not in the Tribunal bundle.
+
+Colleague Conduct Policy
+
+65. The disciplinary section of the Respondent’s intranet cross-references the Respondent’s Colleague Conduct Policy. The undated version 7 of this policy was provided in the bundle as a complete document (192 – 197).
+
+66. The policy explains that it “sets out the Group’s expectations for the conduct and behaviour of colleagues as representatives of the Group in line with our Conduct Pillars, Code of Responsibility and Group Values” and that it “is supported by specific guidance to ensure that colleagues fully understand the requirements placed on them.” (192)
+
+67. It begins with five principles. Two were relevant to the case as follows:
+
+• “All colleagues and those representing or acting on behalf of the Group are expected to take time to understand and conduct themselves in line with requirements of this policy, and the expectations detailed within the Group’s Code of Responsibility and Values.
+• Conduct requirements are expressed under each of the Group’s Conduct Pillars - Integrity, Compliance and Competence. Colleagues whose personal or professional conduct falls below the required standard may, after investigation, be subject to disciplinary action in accordance with the Group's Disciplinary policy.” (192)
+
+68. The policy is then split into three sections (Integrity, Compliance and Competence) which reflect the three conduct Pillars identified above.
+
+69. We were referred to the three paragraphs within the Integrity section. The first two appeared under the heading Professional Integrity and said: “1.2 Colleagues must behave in a professional, responsible and appropriate manner towards other colleagues in the Group. Discrimination, victimisation, harassment (physical, verbal or non-verbal) and bullying will not be tolerated. All colleagues have an obligation to report such behaviours irrespective of whether they are directly involved.
+
+1.3 Colleagues must ensure that their communications are appropriate at all times. Telephone calls or any other electronic or social media sent or used within, or related to the Group must not contain abusive, obscene, offensive or libellous comments or contain any content that may bring embarrassment to or could harm the reputation of the Group, its employees, customers or suppliers. Colleagues should also ensure they adhere to the requirements detailed under the Group Acceptable Usage Responsibilities. Further information is available to colleagues within the Group’s Social Media Guidance. “
+
+70. The third appeared under the heading Personal Integrity and said: “1.7 Colleagues should not place themselves, or allow themselves to be placed, in a position where their personal interests or affairs may conflict with the interests of the Group and/or their duties towards the Group or any of its customers. Colleagues are required to make their line manager aware of any interest, position or personal circumstance which may give rise to actual or potential conflicts of interest. Colleagues should act wisely and use good judgement to determine the extent to which a potential conflict of interest should be reported. Colleagues should consider whether a potential conflict could (or could be seen by others as likely to) affect their professional judgement or performance of their duties. Further detail can be found in the Conflicts of Interest Procedures within the Group Compliance Policy.”
+
+71. The Compliance section of the document also contains information about the regulatory requirements with which all employees of the Respondent must comply. It explains that employees must adhere to certain Conduct Rules, namely: “CR1 You must act with integrity. CR2 You must act with due skill, care and diligence. CR3 You must be open and cooperative with the FCA, the PRA and other regulators. CR4 You must pay due regard to the interests of customers and treat them fairly. CR5 You must observe proper standards of market conduct.” (195)
+
+Conduct Rules
+
+72. The Respondent provides additional information to colleagues about the Conduct Rules referred to above on its intranet. Relevant pages were included in the bundle (198 – 212). The pages explain that a new regulatory conduct was introduced in 2016 and that a key part of it was the introduction of five individual Conduct Rules which apply to almost all colleagues. The page explains that the purpose of the individual rules is “to promote positive behaviour and encourage colleagues to accept greater personal responsibility for the way they conduct themselves in the workplace.” (198)
+
+73. The page goes on to explain, under the heading, “Why are they important to us” that: “The Conduct Rules complement our Group Culture meaning the vast majority of colleagues already conduct themselves compliantly at all times in their dealings with customers and colleagues. However, if following a disciplinary hearing or performance adjustment process, the Group Conduct Panel or Group Conduct Investigations Committee determine that an individual has breached a Conduct Rule, the Group must report it to the regulators. This can also have an impact an any regulatory reference the Group is requested to provide if you apply for an [Senior Manager Certification Regime] role and could therefore impact your ability to obtain future roles in the banking sector.”(200)
+
+74. The page also includes an FAQ section which provides colleagues with the following information about the process the Respondent will adopt when deciding if a matter should be reported to a regulator. It says:
+
+• “Any potential Conduct Rule breach will be considered following the disciplinary hearing or performance adjustment process. Dependent upon the scale of the issue and the role being performed by the individual, either the Conduct Panel or Group Conduct Investigations Committee will undertake an independent review of the output to determine if a Conduct Role breach has occurred.
+• The committee will communicate any Conduct Rule breach decision in writing to the individual. This communication also confirmed that the Conduct Rule breach will be reported to the regulator.
+• The committee will review the outcome of any appeal to determine if any new evidence impacts the Committee original Conduct Role breach decision. Any changes will be communicated to the individual in writing and the regulator will be updated where required.” (204) Values
+
+75. With regard to the Respondent’s Values, we were referred to two documents that identified slightly different values. Each document provided short examples of what behaviours are expected of colleagues in order to demonstrate each value.
+
+76. The relevant values and the examples to which we were referred in the first document were: “We embrace our differences, to value everyone – this means seeking out diverse perspectives. Learning about and supporting people’s different and changing needs. The opposite is thinking our perspectives are the only ones that count.” (212)
+
+“Making a difference together
+
+• I collaborate within my team and across teams to make everyone successful
+• I am inclusive and I care, valuing everyone’s skills and opinions, and helping everyone to be the best they can” (213)
+
+77. In the second document we were also referred to the following which was said to be an example of a “Leadership Behaviour.” “Build Trust – I will listen and empathise to build trusted relationships” (213)
+
+Code of Ethics and Responsibility
+
+78. The Respondent has a lengthy Code of Ethics and Responsibility (215 – 232). Within the document it says it is intended as a guide and reference point for every colleague and “explains how we work responsibly living up to our values and doing the right thing when we have to make decisions.” (216).
+
+79. In the forewords to the Code, it is said that “The Code encourages us to speak up and challenge, uniting us as a force for positive change. We must live the Code every day and in every interaction, inspiring others to follow.” Group Chief Executive Officer “There is no single document that can spell out what’s right and what’s wrong in every situation, but the Group expects our colleagues to exercise good personal judgement, act honestly and with integrity and a strong sense of personal accountability when decisions are made in their day to day work making.” – Chair (217)
+
+80. The code has sections on
+
+• inclusion and diversity
+• being an ethical business
+
+81. It contains a clear statement that: “We’re an anti-racist organisation and do not tolerate hate. We have and will take action against discrimination and inappropriate behaviour, whether racist, sexist, homophobic, transphobic or ableist, regardless of whether this happens in our branches, offices, over the phone or online on our social media channels.” The Code adds that this means colleagues “should treat others as [they] would like to be treated – and always with consideration, respect and fairness.” (223)
+
+82. In the section on being an ethical business, the Code says:
+
+“Respecting human rights
+
+Human rights are fundamental principles that allow an individual to lead a dignified and independent life, free from abuse and violations. We aspire to conduct business in ways that values and respects human rights – including our colleagues, customers, business partners and everyone who is affected by our business. We know this affects both our direct interactions with colleagues and customers and the human rights impacts that can be created by our customers – and therefore we take into account human rights concerns in our investment, lending and service operations. We adhere to the relevant rules and regulations of every country in which we operate and seek to operate in accordance with internationally accepted human rights standards such as the United Nations Declaration of Human Rights, the UN Guiding Principles on Business and Human Rights, together with the International Labour Organization (ILO) Labour Standards.” (228)
+
+83. The Code also very strongly encourages colleagues to speak up about any concerns they may have. It tells employees how to do this as follows:
+
+• Talk to your line manager or a senior leader in your business area
+• Contact Group Conduct Investigations
+• Raise a concern confidentially or anonymously with our independent Speak Up service
+• Raise concerns confidentially with the regulator (222)
+
+84. There is also a section dealing with conflicts of interest (225).
+
+Race Action Plan
+
+85. In July 2020, the Respondent adopted a Race Action Plan which is published on its external facing website. The document was one of the additional disclosures that was entered into evidence as the hearing progressed. It begins by saying: “At Lloyds Banking Group, we stand against racism and discrimination in all its forms. While we’ve worked hard over the years to create a more inclusive organisation, the launch of the Race Action Plan in July 2020 was a real turning point in our journey. Launched against the backdrop of the Black Lives Matter movement and the coronavirus pandemic, the plan has helped us to address the specific challenges we know our Black colleagues and customers are facing.”
+
+86. The plan then has eight points which deal with:
+
+1. A goal to increase Black representation in senior roles from 0.6% to 3% by 2025;
+
+2. The ongoing work of the internal Race Advisory Panel;
+
+3. Delivery of a Race Education programme;
+
+4. A commitment to continue to undertake regular listening sessions to gauge and understand colleagues’ experiences and progress against the Respondent’s plans;
+
+5. A commitment to publishing an Ethnicity Pay Gap report annually;
+
+6. Work directed at ensuring diversity on senior executive recruitment shortlists;
+
+7. The creation of specific development and sponsorship programmes for middle managers and senior grades; and
+
+8. Outreach work in partnership with two external organisations.
+
+Internal Communication Systems
+
+87. In May 2021, the Respondent had recently introduced an internal communication system called Yammer which enabled its employees to make posts and to reply to the posts of others in threads. This was not the first communications system of this type that the Respondent had used. It had an earlier version called Hive that was being phased out and replaced with Yammer in early 2021.
+
+88. Posts to Yammer were organised into communities. Employees could choose which communities (also often called networks) they could join and posts made in the specific community would only be seen by members of the communities. Membership of the communities was not restricted and each community was open to all employees to join.
+
+89. The Respondent has a number of internal networks for employees. One such group was the Muslim Network. The Muslim Network had an associated Yammer community to enable the members of the Network to communicate with each other. It was not a closed network.
+
+90. Guidelines were introduced for employees making posts on Hive which were then revised and adopted for Yammer. We were referred to a one page document called “Community Guidelines” (214) as well as Yammer Community Guidelines (260).
+
+91. The Community Guidelines inform colleagues that they are accountable for the comments they post and encourage them to think carefully before they do about the following three questions:
+
+• The first question is to ask whether the comment is appropriate for the workplace. The guidance states in relation to this: “We’re building a culture where everyone should feel comfortable speaking out when something doesn’t feel right. Equally we should be listening to what others have to say. Challenge yourself to consider how you would feel receiving the comment.”
+• The second question is to ask whether the comment reflects the Respondent’s values. The guidance says: “We need to be curious and value our differences to create the right environment so we can all be our best. We can do this by practising our values and focusing on our purpose every single day.”
+• The final question is to ask if the comment complies with the Respondent’s policies. The guidance says, “Our comments should be truthful and accurate - spreading rumours and hearsay can be incredibly damaging.”
+
+92. The Yammer Community Guidelines are incorporated into the Yammer platform. They inform colleagues that when contributing on Yammer, all colleagues “have a role to play in creating a safe and inclusive workplace, one that reflects [the Respondent’s] Values and Behaviours and [its] Conduct Policy.” The guidelines ask colleagues when contributing in Yammer to:
+
+• “Be respectful and considerate, remembering we’re all colleagues working together
+• Consider the diverse backgrounds and experiences of all colleagues, and the impact your words may have on others
+• Ensure what you share is appropriate for an open work community - do not post customer names or data or personal information about other colleagues”
+
+93. The guidelines also explain that comments will be monitored and that comments which breach the guidelines will be removed and line managers notified. They encourage the reporting of any posts that breach the guidelines.
+
+94. Posts could be reported anonymously. When this occurred, the posts were considered by a group called the Moderation Committee. This was a group of between 30 to 40 employees established to review posts and determine if they fell inside the guidelines. It had been set up when Hive was introduced in order to monitor its use and was asked to do the same for Yammer.
+
+95. The reporting mechanism was on-line. An automated message would be sent to the member of staff responsible for overseeing the working of the Moderation Committee who would then decide how to proceed.
+
+96. The Moderation Committee did not apply any set criteria when considering posts. We were told that its purpose was for the Respondent to be able to take a balanced view between freedom of speech on internal platforms alongside meeting the Respondent’s rules, procedures and values. We were also told that it was set up in this way to enable the Respondent to review and deal with situations by quickly removing posts which could or had caused offence or otherwise breached policy and procedure.
+
+97. When reviewing a post, the Moderation committee could do the following:
+
+• Take no action
+• Leave the post in place, but speak to the posting employee’s line manager to ask them to provide informal guidance to the posting employee
+• Remove the post and speak to the posting employee’s line manager to ask them to provide guidance to the posting employee
+• Remove the post and recommend a formal investigation be undertaken. The matter would then be referred to the HR Investigation Team.
+
+98. While a post was being considered by the Moderation Committee it could be temporarily hidden from view.
+
+99. The Moderation Committee’s decision process was mostly undertaken via Microsoft Teams messages, but Teams video calls could be arranged if members of the Committee wanted a more in-depth discussion. It was left to the discretion of the Committee members to decide whether or not to have input into any particular discussion. The Committee did not keep notes / records of its discussions except to the extent that these were captured in the Teams messages.
+
+100. In May 2021, the Committee was overseen by an employee called Emma Stacey, People and Places Health and Wellbeing Manager. Kathryn Harris, Case Consultant in the Respondent’s HR Case Team was also a member having been asked to participate as a representative of the Conduct Team.
+
+Context
+
+101. There was an escalation in the conflict in Israel/Palestine in early May which continued until a ceasefire was agreed on 21 May 2021. The escalation resulted in a number of casualties and fatalities, including children. It was widely reported in the media in the UK and generated increased social media traffic.
+
+102. It is of particular relevance, for the purposes of this case, to note that the part of the fighting took place in and around the Al-Aqsa Mosque in Jerusalem. The Mosque is considered to be the third most holy place in Islam. The Israeli Police entered the Al-Aqsa Mosque compound by force on 7 May 2021. This was during Ramadan (12 April 2021 to 12 May 2021).
+
+103. It was not in dispute between the parties that heighted tension in Israel/Palestine leads to an escalation in antisemitism and Islamophobia in the UK.
+
+REACH
+
+104. One of the internal networks in the Respondent’s organisation at the time was a group called REACH. REACH stands for Race, Ethnicity and Cultural Heritage. The group’s aim was “to connect, support and develop colleagues from an ethnic minority background”. We were told its goal was to improve cultural awareness and understanding across the Respondent’s workforce. The Chair at the relevant time for the purpose of this case was Mubeen Quadir. He was employed by the Respondent as a Disciplinary Manager. Mr Quadir is a Muslim. He was not part of the Moderation Committee.
+
+105. In response to the escalation in the Israel/Palestine conflict, in around mid May 2021, REACH invited its members to attend an on-line discussion about the conflict. The discussion was due to take place on Thursday 27 May 2021.
+
+106. On Friday 21 May 2021 at 15:19, the discussion was cancelled. We know this because the Tribunal was provided with evidence by way of additional disclosure to confirm the time the cancellation was sent. No reason was given for why the discussion was being cancelled.
+
+107. Mr Quadir told the Tribunal that the reason the REACH discussion was cancelled was because concerns had been raised about the content of the invitation for the event. He had not been involved in creating the invitation, but told us that when he saw the invitation he agreed that it did not set the right neutral tone. He said that he felt that the focus of the REACH meeting should have been on how the Respondent and its employees could support each other in light of the escalation in the conflict. Instead, he felt the invitation engaged with the arguments on both sides of the conflict which was not appropriate given the sensitivity of the topic.
+
+108. Mr Khalid (no relation to Ms Khalid) who was one of two Co-Chairs of the Respondent’s Muslim Network and a witness at the Tribunal hearing for the Claimants, told the Tribunal that colleagues were unhappy about the REACH discussion being cancelled. He said they felt it offered a safe space to discuss the Israel/Palestine conflict which they saw as a humanitarian issue. He told us that other potential “political” issues had been addressed via REACH such as the Indian farmer protest and war on Afghanistan. He also told us that when the discussion was cancelled, colleagues began to question when and how it was decided within the Respondent what was political and what constituted a humanitarian matter.
+
+Initial Posts Considered by the Moderation Committee
+
+109. As described above, the Moderation Committee did not keep notes of its proceedings and the only records available to the Tribunal were the relevant Teams messages. The Teams messages were difficult to follow and did not reflect all the discussions that took place.
+
+110. On 19 May 2021, someone reported a post that had been made on the subject of Israel/Palestine. This was not one of the posts later made by either Claimant. The Tribunal was not provided with a copy of the post, nor any information about where it was posted. Ms Stacey “hid” the post and alerted the Moderation Committee. A meeting was arranged to take place at 9:00 am the following day on 20 May 2021 to discuss the post. We know the meeting lasted 23 minutes and 27 seconds (442) but we do not know the outcome of the discussion.
+
+111. Ms Harris gave evidence to the Tribunal about Moderation discussions in which she participated. The first discussion she could recall related to a post that was reported in the afternoon of 20 May 2021. That post was shown on page 442 of the main bundle. Ms Stacey messaged the Moderation Committee to say that further to the post discussed that morning, a further post had been reported.
+
+112. The post reported in the afternoon of 20 May 2021 had been made on Monday 17 May 2022 and had been reported as inappropriate for the workplace, but without saying why. It had been made in the Muslim Yammer Network.
+
+113. Ms Harris told the Tribunal that the Moderation Committee decided that the employee who made the post should be referred for a disciplinary investigation. She knew this as she was the Case Consultant for their case. She also told us that ultimately no disciplinary action was taken against the colleague because during the investigation it was deemed that the colleague’s comments were not as offensive as the later posts made by the Claimants. She said this was because no derogatory language had been used in that post and it had not contained any incorrect facts.
+
+114. Further posts on the topic of Israel/Palestine were made on Friday 21 and Saturday 22 May 2024 in the form of a thread in the REACH Yammer Community. The first post in the thread was made at 3:47 pm under the subject “Initiating the Conversation on Palestine and Israel” (447). At 4:39 pm someone, who presumably did not realise the discussion had been cancelled, posted to say that he was pleased that REACH was organising a call on the topic. Mr Khalid himself posted in the thread at 6:03 pm on Friday 21 May 2021.
+
+Ms Khalid’s Posts
+
+115. On Monday 24 May 2021, Ms Khalid posted two comments in the Yammer REACH Community, as part of the existing thread referred to above.
+
+116. Ms Khalid was a member of the Respondent’s Muslim and REACH Networks and their associated Yammer communities.
+
+117. She was not a regular poster to Yammer, however. She had posted at least once before to share information about an Islamic Lifestyle Store and where to buy Halal sweets (Respondent’s supplementary bundle page 21-22). Yammer had been introduced while Ms Khalid was absent on maternity leave. She told the Tribunal that she did not read the guidelines for posting before making any Yammer posts.
+
+118. Ms Khalid’s first post on Monday 24 May 2021(made at 7:44 am before the start of her shift at 8 am) said the following: “What I am finding difficult to understand is that NOONE in the office has spoken about the issue. Colleagues come in and talk about their daily lives, football, programmes they watched but NOTHING about this? It baffles me how people are being ignorant to the matter, and even more frustrating that when there have been issues in the past such as Paris incidents, BLM, LGBTQ etc and all that people have spoken up about it, commented on posts, changed profile pictures to show solidarity etc but why not now? Is it because they feel this is a MUSLIM issue therefore they are exempt? I don’t know but i’m very disappointed in a lot of people regarding the Palestine matter.”
+
+119. Ms Khalid explained the background to her making the post in her written
+
+witness evidence as follows:
+
+“20. During the heightened levels of violence against Palestinians in May 2021, I witnessed an increase in social media posts on my Instagram. One page I follow, @eye.on.palestine, was showing a lot of video footage, which I did not see on mainstream media. This made me emotional and I felt I needed to do something about it.
+
+21. I did a bit of further research into Israel-Palestine through Google. This research was not thorough or extensive. I only got a basic understanding of the issue. I came across an article on the Balfour Declaration, which led to the 1948 Nakba, which saw 750,000 Palestinians violently displaced from their homes, to which they have never been allowed to return. I learned that land previously owned by Palestinians had been claimed by Israel.
+
+22. As a mum of three I became emotional, very disturbed and distressed especially when I used to put my kids to bed in the evening knowing they are safe and secure here in Britain. However it was quite the contrary when I used to see the unpleasant videos circulating on social media. I recall one video where a Muslim woman was putting all three of her children in the same bed as her in the hope they would all die together and not apart in separate bedrooms whilst hearing the loud bombs and explosive noises outside. This video upset and disturbed me to the point it kept repeating in my mind over and over again. It was even worse going into work the next day and seeing colleagues discussing their lives and things like the football as if nothing were happening.
+
+23. I started to notice that in the office not a single person in my department mentioned anything about the conflict in Palestine. I found this very distressing given that I was already emotional and negatively impacted by the issue through observing social media.”
+
+120. Ms Khalid’s second post, was made at 8:44 am on the same day. It was in response to a colleague’s post specifically addressed to her that asked where he could find out more about the history of the conflict. The colleague said that he did not fully understand the conflict and did not feel qualified to comment on it.
+
+121. Ms Khalid’s reply said: “Thank you for reaching out to me. I will try my best to spread awareness about this issue. Have you ever read the Balfour Declaration? It was an agreement drawn up by the UK & US government to implement a Zionist land. Land that did not belong to them. I understand the Jewish people kind of needed a place to go but NO ONE had the right to give them Palestinian’s land. Still the Palestinians opened their land for co-existence. In turn the evil Israeli government stole more and more land and set up illegal settlements (further backed by the US) and started the oppression. This all started in 1948. Arabs and Jews lived peacefully until Israeli’s got greedier. Hamas – mind you – was democratically elected and only came into existence 40 years later out of frustration. Do you know the majority of Palestinians water supply is toxic and controlled by Israel? Do you know that Israel won’t allow them to have airports? Ports? They purposely damage their crops and won’t allow them to leave the country? Palestinians are forced from their homes illegally every day (research Sheikh Jarrah), IDF purposely attack young boys, pregnant women and children because they are brainwashed from a young age to see Palestinians as enemies.”
+
+122. The second and third paragraphs of the post were not Ms Khalid’s own work. They had been copied by her from an Instagram post that she had saved on her phone. Ms Khalid told us that the post had been made by a Muslim influencer she followed. She also told the tribunal that having done her own research into the Israel/Palestine conflict on the internet she felt confident that the information she had copied was accurate.
+
+123. The colleague to whom Ms Khalid was responding on the thread thanked her for the information and said he was looking forward to the REACH discussion.
+
+124. The entire thread was hidden by Ms Stacey at around 10:25 am that morning following reports of breaches to her (533).
+
+125. At 10:37 on the same day, Ms Khalid posted the following on the Muslim Yammer community: “So we are going to experience the same here on this platform just like Facebook and Insta where the posts are being hidden/ removed? I don’t recall posts or stories being hidden regarding BLM, LGBQT and other issues, so why this?”
+
+126. At 11:18, Ms Stacey messaged the Moderation Committee to say that she had hidden the thread in the REACH community. She said that two colleagues had reported Ms Khalid’s second post saying it was:
+
+• “antisemitic and so damaging”
+• “not appropriate for an LGB forum, factually incorrect”
+
+127. Ms Stacey added that the colleague who made the latter comment had then also reported the overall thread giving their reason as “Inappropriate conversation topic for LGB, inflammatory in content and tone (as is evident in subsequent comments).” This was why she had hidden the entire thread while it was being considered. She confirmed that she had contacted the colleague who began the thread to let them know. She added: “For awareness - there has been a comment posted to Lloyds Muslim Network on the topic and colleagues mentioning disappointment at it being
+
+hidden which I’ve explained in response.” (440)
+
+128. A moderation committee meeting was arranged for 3.00 pm that day. Although not a member of the Moderation Committee, Mr Khalid was invited to join the meeting in his capacity as Co-Chair of the Respondent’s Muslim Network. He told the Tribunal that he understood he had been asked to participate in the Moderation Committee “to provide cultural background from an Islamic and/or BAME perspective”. Ms Stacey also invited Ms XX, the Respondent’s Inclusion and Diversity Manager to join the Moderation Committee discussion (95). The Tribunal understands that she was invited to join because she was one of the Co-Chairs of the Respondent’s Jewish Network.
+
+129. At 12:54, Ms Stacey sent a further message to the Moderation Committee saying: “Feelings continue to escalate around this debate and I've had a flurry of reports come through in response to the post on the Lloyds Muslim Network now. I'm unable to hide that thread as Yammer doesn't allow for a discussion that has been 'announced' to then be moved. I've linked in with the author and he is going to close the thread to comments whilst we discuss and will also pop a note on there explaining to colleagues why. It would be super helpful if you can read through all comments on both threads ready for our discussion if possible.” (Respondent’s supplementary bundle page 47 – 48).
+
+130. In the meantime, at 13:54, Ms Khalid deleted her second post (533). This was because she had been tipped off by Mr Khalid that the post had been reported. He did not know her, but contacted her because he was concerned for her welfare.
+
+131. The Moderation Committee call took place at 3.00 pm as planned. It lasted an hour and 13 minutes. Mr Khalid and Ms Harris described some of the discussion that took place to the Tribunal.
+
+132. Ms Harris said that the comments under review were brought up on screen and discussed. She recalled Ms XX being “very passionate” about the impact that such comments can have on Jewish colleagues and whether they feel safe in work. According to Ms Harris, Ms XX spoke about a recent rise in hate crimes against Jewish people and backed her comments up with facts. She said she could not recall there being any challenge to Ms XX’s comments. She said that the Moderation Committee members voted unanimously that Ms Khalid’s post should be removed and she should be referred for a disciplinary investigation.
+
+133. Mr Khalid’s evidence corroborated what Ms Harris said, although he also said that Ms XX had stated that Ms Khalid’s post was antisemitic. He said that everyone seemed to agree. He told us that he did not challenge this as he did not feel knowledgeable enough to do so and therefore chose to remain silent and neutral. In his written witness evidence he said, “It also felt like most people on the Committee lacked knowledge if the post was antisemitic and agreed with individuals that were expressing the loudest view, in part because they felt scared to challenge that view without being labelled antisemitic themselves.”
+
+134. Mr Khalid also gave evidence to the Tribunal that Ms XX said that Ms Khalid’s post should be dealt with as gross misconduct. We do not make this finding. As explained further below, Mr Khalid was part of a number of other discussions where Ms XX was present and where the Respondent’s response to posts about Israel/Palestine were discussed. The Tribunal finds that Mr Khalid has misremembered which conversations took place, when and about which posts. Other evidence, referred to below, confirms that Ms XX did indeed believe that Ms Khalid’s post was antisemitic. However, what the documentary evidence there is of the meetings points to the comment she made in his presence being about a different post.
+
+135. Following the end of the call, Moderation Committee members continued to message each other overnight and into the following morning. The issue the members were grappling with was whether the entire threads on the REACH network and Muslim Network should be removed and, if so what should be communicated to colleagues by way of explanation.
+
+136. In a conversation that was not part of the ongoing discussion, Ms Stacey messaged Ms XX privately. Ms Stacey’s first message was sent immediately after the end of the call and expressed concern for how Ms XX was feeling (page 95 of the Respondent’s supplementary bundle).
+
+137. Ms Stacey also privately sought Ms XX’s advice on the proposed actions agreed at the Moderation Committee meeting. At 18:41 that evening she messaged Ms XX saying that she and Ms Harris had met that afternoon to discuss the actions to be taken. She listed the names of the two colleagues who would be referred for formal conduct investigations (this was Ms Khalid and one other). She also mentioned a third colleague where the action would be a note to their line manager(“LM”). She added: “Are there any others where we could be missing anything that should be addressed by formal conduct or LM notes? So sorry to put this on you but can’t tell you how grateful I am to have your knowledge and support.” (page 96 of the Respondent’s Supplementary Bundle).
+
+138. A discussion then ensued between Ms Stacey and Ms XX in which Ms XX expressed her views about the decisions. As part of that discussion she said that she thought that it was “clear cut” that Ms Khalid’s message was “really offensive”, but others were not in the same category. She also expressed concern that the Respondent’s Hearing Managers did not have sufficient expertise to deal with the next steps because they would not realise why some of the things that had been said were so offensive. Ms Stacey expressed her agreement with this point.
+
+139. Returning to the ongoing discussion within the Moderation Group, it was agreed that the decision about removal of the entire threads should be deferred to a different group at director level, which would also consider what should be communicated about the cancellation of the REACH discussion. It was recognised that communications about removing the threads and the cancellation of the REACH discussion should be aligned.
+
+140. We note that Ms XX’s contribution to the ongoing discussion that took place in the evening on 24 May 2021 was to ask that any communication emphasise the following: “the Group are aware that the conflict has led to a rise in both Antisemitism and Islamophobia, and it's therefore incredibly important that [the Respondent] remains a safe space for all colleagues with no place for racism - in whatever forms” (page 60, Respondent’s Supplementary Bundle).
+
+141. Mr Khalid agreed that the matter should be escalated to the senior group. He commented that “after speaking back to some colleagues they feel the humanitarian issue which being missed” (page 63, Respondent’s Supplementary Bundle).
+
+142. A short initial meeting about the wider communication issue took place at 2:30 pm the following day on 25 May 2021. Both Mr Khalid and Ms XX were invited to attend. Mr Khalid requested that his Co-Chair of the Muslim Network/Community also be invited and Ms XX requested that her colleague Nicholas Mandel also be invited. Further meetings on this topic were also held, at least one of which also included Mr Quadir because of his role in REACH. The outcome of the discussions was that the entire threads would be removed (page 73 of the Respondent’s Supplementary Bundle). Discussions were ongoing about the messaging connected with this when Ms Sohail made her post/ sent her emails.
+
+Ms Sohail’s Emails and Post
+
+143. In early May 2021, Ms Sohail had ordered a monitor for the purpose of remote working. She already had a work laptop, keyboard and mouse provided by the Respondent. The monitor was not a necessity for her to be able to undertake her work, but it was a useful additional tool that would have made her more effective. Ms Sohail ordered the monitor by accessing the Respondent’s internet.
+
+144. Ms Sohail told the Tribunal that she had become familiar with the situation in Israel/Palestine from a young age, but she was not particularly interested in politics or history at the time. She took a much closer interest in the escalation of violence that occurred in May 2021, because it took place during Ramadan and involved Al-Aqsa. As a result she did some research on-line. She was also influenced by the social media posts of a friend who campaigned for Palestinian rights. According to Ms Sohail, her friend’s grandparents had “been forced out of Haifa 75 years ago”. (w/s paragraph 23)
+
+145. Ms Sohail explained to the Tribunal that she discovered the Palestinian Boycott, Divest and Sanctions (BDS) campaign at this time. She learned that boycotts had been used successfully to help end South Africa apartheid and felt that it offered “an effective approach to address the issues in Israel- Palestine.” (w/s paragraph 24). She became involved in action that was being taken by a group of students at her University who wanted to the University to adopt BDS measures.
+
+146. The Tribunal did not appear to have all of the correspondence between Ms Sohail and her University. One letter was included in the Respondent’s Supplementary Bundle and other correspondence was disclosed during the course of the hearing. What we had showed that on 11 May 2021, Ms Sohail had written to Professor Sir Paul Curran, President of the University calling on him “to condemn the brutal acts of violence committed by Israeli occupation forces on worshippers at masjid Al-Aqsa and the illegal theft of Palestinian homes in the neighbourhood of Sheikh Jarrah.”
+
+She had continued:
+
+“As you may know, the situation in East Jerusalem is a matter of urgency. In the past few days, Israeli settlers and occupational forces have been forcibly removing Palestinians from their homes in East Jerusalem. Protests erupted across Palestine in response which was met by Israeli forces attacking the holy site of Masjid Al-Aqsa using stun grenades and rubber- coated steel bullets. The building of settlements and forced removal of Palestinians from their homes violates human rights and international law and should be wholly condemned by the university and government. Furthermore, the UK government should take action against Israel in accordance with international law and reverse the expansion of illegal settlements. Since 1948, the Palestinian people have endured apartheid laws, settler colonialism, ethnic cleansing, military rule, child imprisonment, pain and generational heartbreak. The UK government has a responsibility to act, especially in the context of its historical role in the consolidation of the Zionist project. The UK government continues to sell arms to Israel, in defiance of its own export guidelines and as Human Rights Watch recently became the latest organisation to recognise the State of Israel to be an apartheid state. This imperialist violence is a continuation of Britain’s legacy in Palestine and worldwide. As a university, you represent a body of students and Palestinian student voices deserve to be heard. I am urging you to take immediate action and put pressure on the government to do so by providing a solid stance on this situation.” (page 26, Respondent’s Supplementary Bundle)
+
+147. Later in the month, on 28 May 2021, she wrote to him again. This time was in response to receiving an email sent to all students about the outcome of a consultation the University had conducted in connection with the adoption of the International Holocaust Remembrance Alliance (IHRA) Working definition of antisemitism and its examples. The email had explained that the University had decided to “recognise the IHRA working definition ….on a non-exclusive basis”.
+
+148. In her response, Ms Sohail had said “I am extremely disappointed in this email and expected much better. How can you release a comment about this issue and not mention the main issue in Palestine: a whole GENOCIDE. May I emphasise that anti‐Zionism is NOT anti-Semitic. This completely disregards the main issue and you are changing the narrative. This is gaslighting. This email was quite tone deaf. May I also raise awareness to the fact that there is also a community of Jewish Palestinian people who are victims in this main issue, since that’s where you want to narrow the focus on.”
+
+149. Ms Sohail also made a freedom of information request to the University at around this time asking: “1. I ask how you intend to move forward to ensure your university is not complicit in international human rights violations against the Palestinian people?
+
+2. What steps have been taken thus far?
+
+3. How much are you investing in such companies and are you intending to divest?
+
+4. Are you committed to an ethical investment policy?”
+
+150. Returning to the subject of the monitor, Ms Sohail told us that it was delivered to her home on Thursday 20 May 2021. She realised when it arrived that it had been made by HP. She believed, based on information she says was on the Palestinian BDS campaign website, that “HP helped to run the ID systems that Israel uses to restrict Palestinian freedom of movement, and that HP was a major target of the BDS campaign” (w/s paragraph 28). She told the Tribunal that she felt “emotionally overwhelmed” to discover that the monitor was an HP one.
+
+151. Ms Sohail says that initially she did not do anything about the monitor and left it in its box. She recalled that she worked her usual shift on Saturday 22 May 2021 until 2:00 pm and then attended a protest about the Israel/Palestine conflict. She could not recall if she worked on Sunday 23 May or Monday 24 May 2021. According to the Respondent’s records she did not take holidays on these days and therefore the Tribunal finds that she did work as usual.
+
+152. Ms Sohail told the Tribunal that she looked on the Respondent’s intranet to try and find information about how to return the monitor, but was unable to find anything.
+
+153. On Tuesday 25 May 2021, a non-working day, Ms Sohail spent her afternoon drafting the text that she later posted/emailed. According to her, she shared the draft with a colleague (Louise Spicer) at the Respondent privately, not using the Respondent’s communication systems, to get her comments. Ms Sohail also told us that the next day Ms Spicer sent the final text to her own her line manager The Tribunal was not provided with any evidence to corroborate Ms Spicer’s actions.
+
+154. Ms Sohail told us she also undertook research to try and identify who at the Respondent was responsible for purchasing computer equipment and for diversity and inclusion issues as these were the two groups she wanted to approach.
+
+155. Her finalised text said the following: “I recently ordered a monitor for myself which I would like returned immediately (completely brand new in packaging, unopened the moment I saw it’s provided by HP). I am writing as a colleague regarding the genocide, ethnic cleansing, illegal occupation, apartheid and colonisation that has been occurring in Palestine, all illegal under international humanitarian law. I have felt inclined to question where my own actions and consumer choices alongside the group may be fuelling this violence. As a group, we have a duty to safeguard and uphold our stance “against discrimination in all its forms” and “racial equality,” quoted from the LBG website. Now is the time to showcase this. HP (Hewlett Packard) helps run the ID systems that Israel uses to restrict Palestinian movement. HP-E is contracted by Israel’s Population and Immigration Authority to provide and maintain the Itanium servers that house Israel’s population registry through 2020. Known as the Aviv System, this population registry is the basis of Israel’s ID card system. This ID system forms a core part of the Israeli apartheid regime’s tiered system of citizenship and residence that privileges Israeli’s Jewish population and gives inferior status and rights to Palestinians, especially those in East Jerusalem. This leads to institutionalised racial discrimination and segregation in freedom of movement, housing, employment, marriage, healthcare, education and policing. This discrimination is further exacerbated in the case of Palestinian “residents” in occupied East Jerusalem, whose basic rights can and are being revoked arbitrarily. The system also holds information about Israeli citizens living in illegal settlements in the occupied West Bank, therefore serving Israel’s settler colonial project directly. HP-E’s spin-off DXC Technology runs an R&D facility in the illegal settlement of Beitar Illit. In regards to this, I am demanding that you take the steps to divest and boycott from Israeli companies that are directly providing resources and military equipment fuelling this harm. I ask how you intend to move forward to ensure our group is not complicit in international human right violations against the Palestinian people? Kind regards, Afra.”
+
+156. On Tuesday 25 May 2021, Ms Sohail logged onto her work laptop in order to speak (using a messaging facility) with her line manager. The conversation took place between 22:08 and 22:17
+
+157. Ms Sohail asked her line manager if he knew the name of the “contact that sorts out group suppliers, i.e. the monitors etc” and “if he could find out who organises which supplies are selected for the group or the head of that department.” He replied saying he would ask around the following day and see if anyone knew, to which she thanked him. Ms Sohail did not tell her manager that she had a monitor that she wanted to return. She also did not ask his advice about what she did next.
+
+158. Around 20 minutes after the conversation, at 22:42 on 25 May 2021, the Ms Sohail posted the pre drafted text into five different Yammer Communities. These were mainly groups dealing with IT supplies, but she also included the REACH and Muslim Network Communities. She then emailed the same text to several generic email addresses dealing with IT and blind cc’d it to five senior managers whom she believed were involved either in procurement or diversity and inclusion. Ms Sohail accepted when giving her evidence to the Tribunal that she had distributed the text widely because she wanted to rally support for her cause.
+
+159. Although Ms Sohail claimed during the subsequent disciplinary process and at the tribunal hearing that she believed that she had a limited time to act to get a refund for the monitor, we find that there was no basis for her to have this belief.
+
+160. At 8:29 am the following morning, 26 May 2024, Ms XX messaged Ms Stacey privately to say that several Jewish colleagues had brought Ms Sohail’s posts on the Yammer REACH Community to her attention. She added the comment, “this is getting unbearable”. Ms Stacey replied within two minutes to say that she had come in to work to find 15 colleagues having reported the content for moderation. Ms XX responded saying that she was getting worried about Jewish colleagues. She said she had had a call from a line manager she did not know who had a colleague that had seen the posts and had not slept all night.
+
+161. Ms Stacey replied describing the behaviour as “horrific” and saying she would escalate to director level. She added that she was locating all versions of the content to move them out of public view.
+
+162. Ms Stacey also emailed the Moderation Committee. Her email concerned two new items reported for moderation, one of which was Ms Sohail’s message. She described Ms Sohail’s post as “another awful one” and told the Committee that she believed the item needed to be escalated to the directors (646- 647).
+
+163. Also on the morning of 26 May 2021, further discussions to finalise the decision to remove the previous threads and how to explain this were taking place via Teams messages. The discussions were in a smaller group which included Ms Stacey, Mr Khalid, his Muslim Network Co-Chair and Mr Quadir. Ms XX was not part of the discussions. It was agreed the following message would be posted on the Muslim Network. “You will have noticed we've made the decision to remove the original post, the comments and close down this thread that related to the conflict between Israel and Palestine. This is not a decision we take lightly. We recognise this is a highly complex issue that can be very easily offensive to some of you. We also know this can then affect your health, wellbeing and how you feel about coming into work and that the conflict has deeply impacted those of you with connections to Israel and Palestine. While the post originator had the very best intentions to create a balanced, respectful and safe place for us to discuss this topic, some of the eventual commentary did not support those aims. We know that it made some of you feel uncomfortable and even unsafe – the opposite of its original intention. It’s critical that conversations like this happen in a way that helps improve wellbeing and makes everyone feel included. The subject becomes even more important given we are also aware of feedback that the conflict has led to a rise in both Antisemitism and Islamophobia, and it's therefore incredibly important that our business remains a safe space for all colleagues with no place for racism - in whatever form. We want all of you to feel safe, included and welcome when you come to work which is why we have the Group behaviour 'I am inclusive and I care’. If you have been affected by these events in the external news and would like to speak to someone at work about them, please talk to your line manager, other senior managers in your area, or the Employee Assistance Programme - Validiuym which can be accessed along with many other resources on the Wellbeing Hub to help your mental health & wellbeing at work. This support will help you to discuss this issue in an appropriate place, outside of Yammer.” Our REACH network are also looking at how they can create appropriate safe spaces to speak to colleagues, while maintaining dignity and respect for others facing similar challenges and they will be in contact over the next few days. Our network is here to support all of you from all backgrounds. We recognise that we won’t get every decision we make on the moderation of your comments like this right. However these decisions are always made with the best intentions, while trying to be as inclusive as we can for all of you and protect everyone’s’ mental health and wellbeing.” (79)
+
+164. A similar message was posted on the REACH Yammer Community.
+
+165. Mr Khalid asked about what would happen in relation to future posts. Ms Stacey replied that this was an important matter in light of the new post that had emerged that morning. The Tribunal finds this was a reference to Ms Sohail’s post (82). The responses suggest that Ms Sohail’s post was being considered at director level rather than by the Moderation Committee or the other group (83). The group was later updated with the text of a message that would be put up in relation to Ms Sohail’s message. The message was the same as the above message, but with the first two sentences replaced
+
+as follows:
+
+“You may have seen an email from a colleague this morning querying the Group’s supply chain in relation to Israel and Palestine. I’d urge you not to respond to the query.” (91)
+
+166. Entirely separately to the discussion that was taking place above, at 15:11 on 26 May 2021, Lesley Munden, Operational Manager, Colleague Experience and Adoption / Enterprise Technology Services, Group CIO, emailed Ms Sohail’s line manager Mr O’Kane about her post saying: “I hope you don’t mind me bringing this to your attention, it’s a comment made by [Ms] Sohail, who I believe is one of your direct reports, on the article on the colleague knowledgebase, which is inappropriate for this forum.”
+
+167. Ms Munden provided advice to Mr O’Kane to be passed on to Ms Sohail about how she could return her monitor and asked that Mr O’Kane address the rest of the email’s content with Ms Sohail. She also said she would arrange for the comment to be deleted from the forum. In response, Mr O’Kane, sought the guidance of his manager, Karen Leach who escalated the matter to HR.
+
+168. On 28 May 2021. Mr Quadir sent an email out to members of the Reach group which included the following paragraph : “You’ll be aware that there was due to be a call in the diary this Thursday to discuss the recent events in Israel/Palestine. It was brought to our attention that the invite issued wasn’t positioned appropriately, was unbalanced and didn’t focus or address what we as colleagues could do to support one another in standing up against antisemitism and islamophobia. We therefore decided to remove the call. There have also been some comments made on Yammer on certain threads which didn’t meet the values and behaviours of the Group and you can see what has happened to these in my message here.” (271) Mr Quadir acknowledged under cross examination that the last sentence was a reference to the posts made by the Claimants.
+
+169. On 28 May 2021, Ms Stacey emailed Ms Harris to confirm the decision taken by the Moderation Committee in relation to Ms Khalid (533). She also emailed Ms Khalid’s line manager asking him to keep the matter confidential for the time being. In her email she explained: “The moderation committee, which includes a diverse population of colleagues from across LBG, including the Colleague Conduct team, Group Culture team, Group Inclusion & Diversity, Colleague Relations met and agreed that it was inappropriate, should be removed immediately and a colleague investigation is warranted.” (445)
+
+170. Ms Stacey sent a similar email to Ms Leach, Mr O’Kane’s manager at the same time (318).
+
+171. Neither Ms Khalid nor Ms Sohail received any formal notification of any action at this time.
+
+172. On 28 May 2021, Ms Stacey thanked the people who had helped her deal with the posts. Mr Khalid replied saying: “Thank you Emma - I met some really incredible individuals and I pray I get the opportunity to work with you all again at some point in the future in a positive situation.” (94)
+
+173. On 29 May 2021, Ms Sohail checked and found that her posts had been removed. Mr Khalid contacted her in or around early June to tell her that her post had been considered by the moderation committee and that someone might speak to her about it.
+
+Disciplinary Investigations
+
+174. The Claimants’ cases were both investigated. At the time of the investigations, the Respondent had a dedicated team responsible for conducting investigations into potential breaches of conduct. Sharon McCann, an experienced investigator from that team was asked to conduct both investigations into both Claimants. Ms Harris was appointed as the case officer in HR.
+
+175. Ms McCann told us that when an matter is referred for investigation the investigator first reviews the case to decide if a formal investigation should proceed or whether informal action should be taken. This includes speaking to the line managers for the colleagues being investigated. In Ms Sohail’s case Ms McCann spoke to Ms Leach (Mr O’Kane’s line manager) and in Ms Khalid’s case she spoke to Mr Ormesher. Ms McCann decided investigations should proceed for both Claimants.
+
+176. Following an initial discussion with Ms McCann, Ms Harris suggested it made sense for her to approach Ms XX for some input. This was because Ms McCann wanted to better understand the impact the posts had had, but knew very little about the Israel/Palestine conflict. She wanted to gain some insight from an Inclusion and Diversity subject matter expert. Ms McCann confirmed this later in an interview with Nina Hicks, who dealt with the Claimants’ appeals (570)
+
+177. Ms Harris emailed Ms XX on Ms McCann’s behalf (copying her in) on 7 June 2021. In her outgoing email she said: “I hope you are well, and I hope you don’t mind me reaching out. I’m on the Moderation committee and was part of the discussion the week before last about the Yammer posts relating to Israel/Palestine. I’m supporting [Ms McCann] (cc’d in), who will be doing the investigations for the relevant colleagues, and I wondered if you would be able to speak to [Ms McCann] and I to provide some more detailed context / understanding of the content of posts and the impact of these. [Ms McCann] and I spoke earlier today and both agreed that having someone from I+D who had a detailed understanding would really help support a thorough investigation. I hope I’ve explained that clearly, and you don’t mind me reaching out. Please let me know if this would be possible, we are keen to get the investigations moving as soon as possible.” (291 -292)
+
+178. Ms XX replied on 8 June 2021 as follows: “Hope you’re well. Sure that’s fine. I’ve copied in [Mr] Mandel (who also assisted the moderation committee with this) as he may have further helpful context to add. I know there was one particular post that stood out as clearly antisemitic – a lot of the others were borderline / misinformation (so as an organisation it’s hard to know where we are drawing the line) – I am unaware of which ones are going through to investigation so I will provide general context and then can pick up with more detail if you need. For background – whenever the Israel/Palestine conflict escalates, it causes huge spikes in both antisemitism and islamophobia throughout the world – so the knock on effect for Jewish and Muslim colleagues at [the Respondent] is very real. The spread of misinformation in particular (which seemed to be much worse this time due to social media) is a big enabler of violence. For example there was a 400% + increase in antisemitic incidents in the UK over the past few weeks. Seeing the debate come into work (e.g. on yammer) made Jewish colleagues feel very unsafe – the big debate with the committee was free speech vs physical safety of colleagues. In addition, due to the threat of terrorism being so real, no Jewish colleagues would respond on these sort of posts which causes it to be very 1 sided and spread misinformation further. So that was some background! In regards to specific comments and understanding if the propaganda and comments posted are antisemitic, I would recommend reading the IHRA definition of antisemitism (adopted by the UK Government and the EU) which includes demonisation, stereotypical allegations (e.g. Jews controlling the economy etc) and denying the Jewish people their right to self‐determination e.g., by claiming that the existence of a State of Israel is a racist endeavour. These points particularly came to mind in the comment ‘I understand the 'Jewish people kind of needed a place to go / ‘Land that did not belong to them’', the long thread about HP monitors and the comment about universities contributing to Israel's military budget. The use of language in these posts are also important – if someone says ‘Jews’ then it means all Jews around the world. In the 1 particular post that comes to mind (stating the ‘jewish people kind of needed a place to go’) – there are numerous misleading and false claims in this post (I can send you more detail if you want). But these misleading claims erase Jewish history, identity and rights. The damage of this was seen straight away from a colleague response thanking the individual for the information explaining the conflict. Appreciate this is a really tricky one and drawing the line between comments can become a very grey area. My overarching point is that from a colleague perspective – the majority of these are simply very inappropriate for a work setting (of course with some really crossing the line as above) and do not align to our Group values and behaviours and ensuring everyone is feeling included.” (290 – 291)
+
+179. Ms XX provided a hyper link to the IHRA definition of antisemitism in the email. Mr Mandel, who had been copied in then added the following contribution: “Thanks for adding me, [Ms XX], although I don’t have much to add to what you have articulated below. I think my only suggestion would be to help further our knowledge on antisemitism to support taking necessary and appropriate action where required. This includes understanding the impacts [Ms XX] mentions below, i.e. any escalation in hostilities in the Israel / Palestinian conflict inevitably causes a huge spike in antisemitism and Islamophobia for Jews and Muslims globally, and this has been felt recently here in the UK, as well as how the use of language is also very important. A couple of sources for further information that might be useful are the Board of Deputies of British Jews (www.bod.org.uk) and the Campaign Against Antisemitism (www.antisemitism.org) (although the second link isn’t accessible internally so will need to be viewed on a personal device).” (289 -290)
+
+180. Ms McCann did not exchange any further emails with Ms XX or Mr Mandell about the investigation, nor did she speak to either or them. She did not look at any of the sources of information they had recommended. She did, however, use the information provided by Ms XX about the increase in antisemitism and islamophobia experienced whenever the Israel/Palestine conflict escalated to frame some questions she put to the Claimants (571).
+
+181. Ms McCann contacted each of Claimants by email, separately, to ask them to meet with her for an investigation meeting giving them an hour’s notice. This was in line with the Respondent’s standard procedure for initial conduct investigations, but both Claimants complained later and to the Tribunal that they were caught off guard by the invitation and would have wanted more time to prepare. Both Claimants told the Tribunal that as a result of being caught off guard by the investigation interviews, the answers they gave did not reflect their true positions. Ms Sohail’s meeting was on 19 June 2021. Ms Khalid’s meeting was on 22 June 2021.
+
+182. In Ms Sohail’s case, she did not see the email inviting her to attend the meeting until after the start time. This was because she was busy speaking to customers. Ms McCann messaged her and she joined the meeting as soon as possible (312).
+
+183. Both Claimants were advised in the invitation emails that because the meeting was an investigation meeting they did not have right to be accompanied, but Ms McCann was happy for them to be accompanied if someone was readily available (296/543). Neither Claimant opted to attend with a companion. They said they did not have time to organise this.
+
+184. Notes were taken of the meetings by a note taker. The notes were subsequently sent to the Claimants who were able to suggest amendments. The notes from Ms Sohail’s meeting were at pages 298 – 306 of the bundle with Ms Khalid’s at pages 459 – 467.
+
+185. Ms McCann structured the interviews with both Claimants in the same way. She asked them similar questions, but adapted her approach because of the differences in each case. She asked each of the Claimants about their understanding of the Colleague Conduct Policy and in particular sections
+
+1.2 and 1.3. She did not ask about section 1.7. She then sought to establish what each of the Claimants had done and why.
+
+186. Both Claimants admitted making the posts/sending the emails that were being investigated. We set out below a summary of what they were asked and how they responded.
+
+Ms Sohail Investigation
+
+187. Ms Sohail explained that the background to her actions was that she felt strongly about what had been happening in Palestine. She had learned about the boycott of HP and wanted to try to influence the Respondent to adopt this. She admitted sending emails to a wide group in order to try and get support for the cause. She said she had deliberately blind copied senior people into her email to try and ensure it was addressed to them personally and they would actually read it.
+
+188. Ms Sohail told Ms McCann that before she had sent the emails/made her posts she had asked her manager about a contact for the Group’s supplier and he had said he would get back to her, but “he must have forgot”.
+
+189. When it was put to her that the language she used “could be seen by some to be trying to ignite contentious debate on a topic that [was] highly sensitive” she said that she had not meant to be rude or make anyone feel uncomfortable. She asked Ms McCann to point out what was wrong with the language she had used, adding that she had obtained the information in her post from the internet.
+
+190. Ms Sohail repeatedly said that her concern was a humanitarian/human rights one. She reiterated several times that she had not intended to cause harm or upset or offend anyone and apologised if people felt that way about her post.
+
+191. When it was put to her if she felt her post demonstrated the Group value, “I am inclusive and I care” she replied that she had posted because she cared about innocent people being killed. She said she did not mean to be antisemitic, even though it was not put to her that she had been.
+
+192. When asked if she understood “why some colleagues may have felt this post does not demonstrate inclusivity and was inappropriate on this forum”, she said she thought only people who supported what Israel was doing would have thought this. She clarified that she was aware that there were good people in in Israel and not everyone there supported what was happening.
+
+193. When asked if she had considered the impact of her post on Jewish colleagues she said that she did not consider her post was directed at Jewish people and that Jewish people could also stand up for the same cause.
+
+194. In response to the question, “On reflection do you feel your comments support the Groups Race action plan which focuses on creating a positive culture for colleagues?” she replied “I just wanted to see if I could make a difference about the innocent killings. I don’t feel like I’ve intended to go outside of the values.”
+
+195. Ms Sohail did connect her actions with any particular Muslim, anti- racist/oppression or anti-Zionist beliefs.
+
+196. Shortly after the interview was finished, Ms Sohail messaged Ms McCann to say that she wanted to add that when posting she had wanted to reach a large audience because she felt this would receive more attention, similar to a petition (312)
+
+Ms Khalid’s Investigation
+
+197. Ms Khalid told Ms McCann that she had not been thinking properly when she made her posts. She said that she had been very upset by the events in Palestine and had been having sleepless nights She felt frustrated that no-one at work was talking about the tragedy there. She identified with the Palestinians because of being a Muslim, but wondered if this was why her colleagues did not care. Her frustration had led to her “jumping on the bandwagon” when she saw the initial post in the thread.
+
+198. She admitted that she had copied and pasted the second post and that she had deleted the post when she had reflected on her actions. Ms McCann did not ask her about her third post.
+
+199. Ms Khalid added that she had not thought about the fact that the forum she had posted to had members from all different backgrounds, She had posted thinking it was a safe platform to vent her frustration. She now recognised that what she posted was wrong, and was very biased and one-sided and did not demonstrate inclusivity. She described the post as a silly mistake and apologised for it. She also acknowledged that the post was in breach of the policies discussed at the start of the interview. She stressed that any offence was unintentional.
+
+200. Ms Khalid did connect her actions with any particular Muslim, anti- racist/oppression or anti-Zionist beliefs, although she did raise the fact of her being a Muslim as part of the context for her posts.
+
+Investigation Reports
+
+201. No further investigations were undertaken by Ms McCann following the interviews. Neither Claimant had asked her to speak to anyone during their interviews. She prepared investigation reports for both Claimants recommending disciplinary action. She used a standard template for both Claimants which required her to fill in response to particular questions.
+
+202. The investigation report for Ms Sohail was dated 22 June 2021 and was in the bundle at pages 307 - 311. The investigation report for Ms Khalid was dated 24 June 2021 and in the bundle at pages 468 – 471.
+
+203. Ms McCann was transparent in both Investigation Reports about the fact that her investigation had included “engagement with Ms XX”, although she did not say what this engagement had involved (308/469).
+
+204. In both investigation reports, Ms McCann said she did not think suspension was justified in either case. She said she did not believe suspension was necessary for Ms Sohail because she was on sabbatical leave for 9 weeks due to her university studies (308). For Ms Khalid she said: “[Ms Khalid] has not been removed from role as I do not believe it is necessary, [Ms Khalid] appeared very apologetic during the investigatory meeting. I do not feel [Ms Khalid] poses a direct threat to colleagues or customers and have advised to keep matters in line with group expectations if posting on work related forums. As forums are monitored and moderate I feel there is reduced risk.” (469)
+
+205. The report template Ms McCann completed required her to complete a box setting out her Rationale for Decision on recommended action.
+
+206. Her rationale for her decision for Ms Sohail was as follows: “I believe there is a formal case to answer as I believe there is sufficient evidence to suggest that [Ms Sohail] has failed to meet the expectations set out in the Colleague conduct policy in regards section 1.2 and 1.3 and 1.7 in that she has acted negligently in posted comments on an internal site which in not in keeping with the Groups Race Action Plan. Whilst [Ms Sohail] may not have directly intended to cause offence to her colleagues she has acted negligently in the comments she has used in regards a highly sensitive topic which has caused other colleagues to report the posts made. The post was reviewed by the forum moderators and it was deemed that the post was inappropriate and was subsequently removed from the forums. I also believe [Ms Sohail] e-mailing the post to several senior managers was inappropriate and she acted wilfully in sending this post blind copying others in to get a reaction.” (310)
+
+207. Her rationale for her decision for Ms Khalid was exactly the same, save for
+
+the last paragraph. She replaced it with the following:
+
+“Whilst [Ms Khalid] did later remove the post, she followed this with a further comment about posts being removed or hidden.” (470-471)
+
+208. Another box required Ms McCann to frame the allegation to be considered at a disciplinary hearing. For both Claimants, she framed the allegation as one of gross misconduct as follows: “It is alleged that …..has posted inappropriate comments on Group [communication IT site/ Group internal Yammer] that included comments with overtones and implications that directly contravene the values of the Group as an anti-racist organisation which has caused colleagues to complain and the posts to be removed by the forum moderators.” (310/471)

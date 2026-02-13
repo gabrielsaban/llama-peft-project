@@ -1,0 +1,54 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The judgment of the Employment Tribunal is that the claim of breach of contract is not well-founded and is hereby dismissed.
+
+REASONS
+
+1. The claimant has brought a complaint of breach of contract relating to the termination of his contract.
+
+2. The basis of the claim is that he was dismissed by the respondent without following their disciplinary policy and procedure. He alleges that this amounts to a breach of contract. The claim is resisted by the respondent.
+
+3. The relevant facts in this case are relatively straightforward and a matter of agreement between the parties:-
+
+ETZ4(WR)
+
+8001082/25 Page 2
+
+a. The claimant transferred to the respondent’s employment from a previous employer under the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+b. The start date for his employment (including his employment with the previous employer) was 2 December 2024.
+c. The claimant was dismissed by the respondent on 10 March 2025.
+d. The claimant was dismissed by the respondent without following their disciplinary policy and procedure.
+e. The respondent’s disciplinary policy and procedure is non-contractual.
+
+4. The claimant’s argument is that the implied terms of the contract (that is, the implied duty of mutual trust and confidence and the duty to act reasonably) have been breached by the respondent in not following a disciplinary process when dismissing him.
+
+5. The Tribunal was conscious that the claimant was party litigant and may not be aware of the whole of the law related to the type of case he was seeking to advance. It was clear that the claimant was unaware of the fact that the argument he sought to make was not a new one and, in particular, had been addressed by the House of Lords in Johnson v Unisys Ltd 2001 ICR 480, HL.
+
+6. The Tribunal explained to the claimant that there is a long established and well- known principle of contract law that express terms take precedence over implied terms. A clear expression of this principle can be found in Johnson v Unisys Ltd where the House of Lords held that implied terms can supplement the express terms of a contract but cannot contradict them, as only Parliament can override what the parties have agreed.
+
+7. It was explained to the claimant that this meant that the implied terms on which he relies cannot make the respondent’s disciplinary policy and procedure contractual when it is expressly said that it was not.
+
+8. Further, in respect of the issue of whether the implied term of mutual trust and confidence can limit or restrict an employer’s express power to terminate the contract, the House of Lords (Johnson v Unisys Ltd, above) held that the implied duty of trust and confidence could not be used to qualify an employer’s express contractual right to dismiss an employee without cause upon notice.
+
+9. In relation to the argument that the implied terms could be used to provide the claimant with a contractual remedy in relation to the reason and manner of their dismissal, the Tribunal explained to the claimant that this was also addressed in Johnson.
+
+8001082/25 Page 3
+
+10. In that case, the House of Lords held that, although some form of implied term could be created to provide employees with a right to recover damages arising from their dismissal, it would be an improper exercise of the judicial function to do so. In their Lordships’ view, Parliament had clearly decided that such a remedy was to be provided by way of statute rather than contract in the form of the right not to be unfairly dismissed set out in the Employment Rights Act 1996. The right not to be unfairly dismissed was subject to a number of qualifications (for example, the need for a minimum period of continuous service), a statutory test and strict time limit, all of which had been laid down by Parliament. The House of Lords was not prepared to, in effect, undermine or circumvent the will of Parliament.
+
+11. This is precisely what the claimant was asking the Tribunal to do in this case; he does not have the right to bring a claim of unfair dismissal and is asking the Tribunal to give him this remedy by “the back door” of a contract claim. The Tribunal is bound by the decision of the House of Lords in Johnson and is not prepared to circumvent the will of Parliament by, in effect, giving the claimant a remedy which Parliament has decided that he does not qualify for (having less than the necessary two years’ continuous employment to have the right to claim unfair dismissal).
+
+12. The Tribunal bore in mind that the claimant was a party litigant, unfamiliar with the law, and so it gave the claimant a period to reflect on the information the Tribunal had given him about the Johnson case and its effect on his case. There was a break of half an hour for the claimant to consider matters further.
+
+13. After the break, the claimant sought to argue that the decision in Johnson should not apply in his case. He relied on a number of cases as follows:-
+
+a. The first case was called “Croner i" but it subsequently emerged that this was a website operated by an HR and employment advice firm where the claimant had found a summary of Johnson.
+b. The second was a case described by the claimant as “Health & Safety People Ltd” which the claimant said had decided that an implied term of the contract could override the express term. The Tribunal had never heard of this case and the claimant could not provide any other detail (for example, the name of the other party, the year it was decided, which court decided it or a citation). During the hearing, the claimant was asked where he had found this case and he said that it was part of a Google search but could not provide any more detail of it. The principle which the claimant says the case sets out is at complete odds with the Tribunal’s knowledge of the law. In order to assist the claimant, the Tribunal has searched the Bailii database, looked at the IDS Handbooks, looked in Harvey on Industrial Relations & Employment Law and carried out a 8001082/25 Page 4 general internet search to see if the case could be found but none of those sources identified a case with this name. Those sources also confirmed that the principle that an implied term cannot override an express term remains the current legal position.
+c. The third claim was called Stevens v University of Birmingham and the Tribunal understands this to be a reference to a case with the citation [2015] EWHC 2300 (QB). However, this case provides no assistance to the claimant as it was concerned with how an employer had applied or proposed to apply a contractual disciplinary policy. This was a very different position from the present case. The case of Stevens was not about the reason and manner of dismissal; the claimant in that case had not been dismissed. Further, this case was a decision of the High Court of Justice in England which would not be capable of overturning a decision of the House of Lords.
+
+14. None of these cases provide any assistance to the claimant; two of them do not appear to exist and the other does not in any way mean that Johnson is no longer good law.
+
+15. The claimant did not, in any other way, explain why the decision in Johnson should not be followed in his case. He simply insisted that the implied terms on which he relied should provide him with a remedy without any apparent understanding that these implied terms could not override the express exclusion of the disciplinary policy from the terms of the contract and that the House of Lords had decided that courts could not create a contractual remedy for the reason and manner of dismissal by way of any implied terms because that would undermine or override the will of Parliament.
+
+16. The Tribunal, therefore, considers that there is no reason why it should not follow the relevant principles set out in Johnson. Those principles are fatal to the claimant’s case and so the Tribunal finds that the claim of breach of contract has no basis in law. The claim is, therefore, not well-founded and is hereby dismissed.
+Date sent to parties 24 November 2025

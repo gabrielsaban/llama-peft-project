@@ -1,0 +1,241 @@
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+
+The judgment of the Tribunal is that the claimant’s application for interim relief under section 128 et seq of the Employment Rights Act 1996 (ERA) is refused.
+
+Introduction
+
+1. The claimant (C) brings a complaint under section 103A of ERA that he was automatically unfairly dismissed. He claims the reason or principal reason for his dismissal was that he made a protected disclosure or disclosures.
+
+2. The Respondent (R) accepts that C was dismissed summarily on 1 December 2025. C asserts he made the relevant protected disclosures in emails to R on 6 and 16 November 2025 and in a complaint on 23 November 2025 to the Civil Aviation Authority (CAA). R does not accept that these communications were qualifying protected disclosures for the purposes of ERA. R’s position is that, in any event, R did not dismiss C because he made these disclosures or any of them. Mr Boyle explained that R’s position is that it decided to dismiss C because of an irretrievable breakdown in the working relationship because R deemed C to be an ‘insider threat’.
+
+3. C made an application for interim relief pursuant to section 128 of ERA on 4 December 2025. The hearing took place in the Glasgow Employment Tribunal on 22 December 2025 as an in-person hearing. Mr Boyle confirmed that R
+
+8002952/2025 Page 2
+
+would not reinstate or re-engage C if the interim relief application were to succeed.
+
+4. C lodged a written witness statement and a bundle of evidential documents which ran to 50 pages and R lodged a bundle of documents running to 83 pages. There was fairly substantial overlap between the bundles. R also lodged written witness statements from Jules Matteoni, Operations Director (JM), Ian Muncie, HR Business Partner (IM) and Jane Thomson, Head of Handling Operations (JT). After a preliminary discussion, I adjourned to read the documents as well including an ET3 which had been lodged the evening before the hearing.
+
+5. In the course of clarifying C’s claims during the preliminary discussion, I understood C to suggest that he was making a complaint of (automatic) unfair dismissal because of the assertion of a statutory right pursuant to section 104 of ERA. C advised that he relied on paragraph 2 on page 4 of his paper apart to his ET1. Mr Boyle disputed that C’s pleaded case disclosed any complaint under section 104 of ERA and said that, if it did, R would resist such a complaint. On reviewing sections 128 -132 of ERA during the adjournment, I concluded that, in any event, the remedy of interim relief is not available in respect of such a complaint. Neither party contended otherwise.
+
+6. It was confirmed that the issue to be decided at the hearing was (1) whether it appears to the Tribunal that it is likely that on determination of the complaint brought under section 103A of ERA, the Tribunal will find that the reason or principal reason for C’s dismissal is that he made a protected disclosure or disclosures; and, if so, (2) what should be the terms of an order for the continuation of C’ contract of employment. As to (2), C had set out in his Particulars of Claim that by way of interim relief, he sought “…continuation of pay and benefits until final determination, limited to the fixed-term end date of 31 March 2026, reflecting actual 40 hours per week (or guaranteed minimum 20 hours).”
+
+Relevant Law
+
+7. Interim relief is governed by sections 128 – 132 of ERA. So far as relevant, sections 128 and 129 are in the following terms: 128 Interim relief pending determination of complaint.
+
+(1) An employee who presents a complaint to an employment tribunal that
+
+he has been unfairly dismissed and—
+
+(a) that the reason (or if more than one the principal reason) for the dismissal is one of those specified in— 8002952/2025 Page 3
+(i) section 100(1)(a) and (b), 101A(1)(d), 102(1), 103 or 103A, or
+(ii) …, or
+(b) …, may apply to the tribunal for interim relief.
+
+(2) The tribunal shall not entertain an application for interim relief unless it is presented to the tribunal before the end of the period of seven days immediately following the effective date of termination (whether before, on or after that date).
+
+(3) The tribunal shall determine the application for interim relief as soon as practicable after receiving the application.
+
+…
+
+129 Procedure on hearing of application and making of order.
+
+(1) This section applies where, on hearing an employee's application for interim relief, it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find—
+
+(a) that the reason (or if more than one the principal reason) for the dismissal is one of those specified in—
+(i) section 100(1)(a) and (b), 101A(1)(d), 102(1), 103 or 103A, or
+(ii) .., or
+(b) …
+
+(2) The tribunal shall announce its findings and explain to both parties (if present)—
+
+(a) what powers the tribunal may exercise on the application, and
+(b) in what circumstances it will exercise them.
+
+(3) The tribunal shall ask the employer (if present) whether he is willing, pending the determination or settlement of the complaint—
+
+(a) to reinstate the employee (that is, to treat him in all respects as if he had not been dismissed), or 8002952/2025 Page 4
+(b) if not, to re-engage him in another job on terms and conditions not less favourable than those which would have been applicable to him if he had not been dismissed.
+
+(4) …
+
+(5) …
+
+(6) …
+
+(7) …
+
+(8) …
+
+(9) If on the hearing of an application for interim relief the employer—
+
+(a) …, or
+(b) states that he is unwilling either to reinstate or re-engage the employee as mentioned in subsection (3), the tribunal shall make an order for the continuation of the employee’s contract of employment.
+
+8. Whether it is ‘likely’ that the Tribunal will find there to have been a relevant automatically unfair dismissal for the purposes of section 129(1) has been interpreted to mean that the claimant must establish that they have a ‘pretty good chance of success’ at a full hearing (Taplin v C Shippam Ltd [1978] ICR 1068). In Taplin, the EAT said that it was necessary for the claimant to show a greater likelihood of success in his main complaint than either proving a reasonable prospect or a 51 per cent probability of success. A tribunal should ask themselves whether the employee had established that he had a “pretty good” chance of succeeding in his complaint of unfair dismissal.
+
+9. An application for interim relief falls to be considered on a summary basis. The employment judge must do the best he can with such material as the parties are able to deploy by way of documents and argument in support of their respective cases. The employment judge is then required to make as good an assessment as he is promptly able of whether the claimant is likely to succeed in a claim for unfair dismissal based on one of the relevant grounds (London City Airport v Chacko [2013] IRLR 610).
+
+10. In His Highness Sheik Khalid Bin Saqr Al Qassim v Robinson [2018] UK EAT 0283/17, the EAT summarised the position as follows: “I start by reminding myself of the exercise that the ET had to undertake on this application. By its nature, the application had to be determined expeditiously and on a summary basis. The ET had to do the best it could with such material as the parties had been able to deploy at short notice and to make as good
+
+8002952/2025 Page 5
+
+an assessment as it felt able. The Employment Judge had to be careful to avoid making findings that might tie the hands of the ET ultimately charged with the final determination of the merits of the points raised. His task was thus very much an impressionistic one: to form a view as to how the matter looked as to whether the Clamant had a pretty good chance and was likely to make out her case, and to explain the conclusion reached on that basis, not in an over formulistic way but giving the essential gist of his reasoning, sufficient to let the parties know why the application had succeeded or failed given the issues raised and the test that had to be applied.”
+
+11. Protected disclosures are defined in Part IVA of ERA. Section 43B, so far as
+
+relevant, provides as follows:
+
+43B Disclosures qualifying for protection.
+
+(1) In this Part a “qualifying disclosure” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and tends to show one or more of the following—
+
+(a) that a criminal offence has been committed, is being committed or is likely to be committed,
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
+(d) that the health or safety of any individual has been, is being or is likely to be endangered,
+(e) that the environment has been, is being or is likely to be damaged, or
+(f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.
+
+12. To be a qualifying disclosure, the precise legal obligation does not need to be identified by the worker within the disclosure with specificity. The legal obligation need not be described in strict legal language. In some cases, it may be obvious to all that the conduct described in a disclosure of information could give rise to a potential legal liability and this has been held to suffice (Bolton School v Evans [2006] IRLR 500, EAT). However, at the stage of a final hearing before the employment tribunal, it is reasonable to expect the employee to be clear about what the infringed legal obligation was
+
+8002952/2025 Page 6
+
+(Arjomand-Sissan v East Sussex Healthcare NHS Trust UKEAT/0122/17 (17 April 2019) , unreported). In Blackbay Ventures Ltd v Gahir [2014] IRLR 416, the EAT said that, outside obvious breaches, 'the source of the obligation should be identified and capable of certification by reference for example to statute or regulation'.
+
+13. In Boulding v Land Securities Trillium (Media Services) Limited [2006] UKEAT/0023/06/RN, Judge McMullen said (para 24): ''As to any of the alleged failures, the burden of the proof is upon the Claimant to establish upon the balance of probabilities any of the following:
+
+(a) there was in fact and as a matter of law, a legal obligation (or other relevant obligation) on the employer (or other relevant person) in each of the circumstances relied on.
+(b) the information disclosed tends to show that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject.''
+
+14. Section 103A of ERA provides: 103A Protected disclosure. An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee made a protected disclosure.
+
+15. In Kuzel v Roche Products Limited [2008] IRLR 530, the Court of Appeal considered the approach to the burden of proof in an automatic unfair dismissal ‘whistleblowing’ claim where the employee, Dr Kuzel, had less than two years’ service when she was dismissed (paras 57-61). “I agree that when an employee positively asserts that there was a different and inadmissible reason for his dismissal, he must produce some evidence supporting the positive case, such as making protected disclosures. This does not mean, however, that, in order to succeed in an unfair dismissal claim, the employee has to discharge the burden of proving that the dismissal was for that different reason. It is sufficient for the employee to challenge the evidence produced by the employer to show the reason advanced by him for the dismissal and to produce some evidence of a different reason. Having heard the evidence of both sides relating to the reason for dismissal it will then be for the ET to consider the evidence as a whole and to make findings of primary fact on the basis of direct evidence or by reasonable inferences from primary facts established by the evidence or not contested in the evidence.
+
+8002952/2025 Page 7
+
+The ET must then decide what was the reason or principal reason for the dismissal of the claimant on the basis that it was for the employer to show what the reason was. If the employer does not show to the satisfaction of the ET that the reason was what he asserted it was, it is open to the ET to find that the reason was what the employee asserted it was. But it is not correct to say, either as a matter of law or logic, that the ET must find that, if the reason was not that asserted by the employer, then it must have been for the reason asserted by the employee. That may often be the outcome in practice, but it is not necessarily so. As it is a matter of fact, the identification of the reason or principal reason turns on direct evidence and permissible inferences from it…”
+
+Submissions
+
+16. C asked that I take the contents of the documentation already lodged to be his submission. Mr Boyle spoke to a written submission. After Mr Boyle had done so, C gave an oral response to a number of the points made by Mr Boyle. There followed some final representations from both parties on a number of particular points.
+
+17. The entire content of both submissions has been carefully considered and taken into account in making the decision in this judgment. Failure to mention any part of these submissions in the judgment does not reflect a lack of consideration. In recognition that C is a litigant in person, I considered, in addition to his oral submission, various arguments he raised in his written witness statement and in the paper apart to the claim.
+
+Claimant’s submissions
+
+18. I have briefly narrated what I understand to be C’s case based on the material he put before me and the clarifications he provided during the hearing itself.
+
+19. C was employed from 3 November 2025. His contract was for a fixed term which was due to expire on 31 March 2026. He was engaged as a Warehouse Operative. He clarified at the hearing that his complaint is that he made three protected disclosures and that his dismissal was because of these disclosures or any of them. The first two disclosures were said to have been made to R on 6 and 16 November 2025. He also relied upon a disclosure which he made to the Civil Aviation Authority (CAA) on 23 November 2025 as a protected disclosure. In the case of this disclosure, he said that, although he did not copy the complaint to R, R had inferred knowledge that he had made a complaint to the regulator because of his communications to R in the lead up to his complaint to the CAA. This included his indication in his email of 16 November 2025 that if R did not ‘self-report’ to the CAA, C would “escalate the issue directly” himself. R’s knowledge of the 23 November disclosure was
+
+8002952/2025 Page 8
+
+also inferred, said C, because R knew about the CAA’s investigation which swiftly followed his complaint. C’s case was that each of the alleged protected disclosures tended to show (i) that R had failed, was failing or was likely to fail to comply with a legal obligation and / or (ii) that the health and safety of an individual (the public) had been, was being or was likely to be endangered.
+
+20. I summarise below the three protected disclosures upon which C relies.
+
+21. Disclosure 1: In his email of 6 November 2023, C alleged breaches of aviation security requirements in the bonded warehouse operations. To summarise his allegations, he said that under the CAA Framework and the National Aviation Security Programme, the Aviation Security Regulations require all staff with access to air cargo, aircraft equipment or secure areas to undergo certain checks including criminal record checks. He alleged that agency workers in the bonded warehouse were handling aircraft loading plates which would subsequently be returned to the airside environment. He alleged that several of these individuals had not been subject to the mandatory checks which he said was contrary to CAA requirements.
+
+22. Disclosure 2: On 16 November 2023, following a meeting on 11 November and further correspondence on 12 November, C sent a further email to R. That email included the following text: “The practice of permitting unvetted or lightly vetted agency staff to handle ULD pallet bases, nets, and related equipment in the bonded import warehouse constitutes a live breach of aviation security regulations. These items subsequently re-enter the regulated supply chain, meaning chain-of- custody integrity is broken. It also does not help that the equipment is transported through a publicly accessible car park, then placed and left unattended at the side to await re- entry to the airport perimeter.... This practice constitutes a live breach of aviation security regulations as unvetted / lightly vetted staff are directly handling equipment that re-enters the regulated supply chain. Under the DfT cargo security guidance and CAA regulations, cargo and equipment must be protected from unauthorized access at all times.”
+
+23. Disclosure 3: On 23 November, (after a further meeting on 19 November and further correspondence between the parties) C sent an email to the Aviation Security Compliance Team. In this email, he alleged that unvetted agency workers handle returnable aircraft ULD base plates / pallets and restraint nets in Transit House (bonded import warehouse). He alleged these items then move to Warehouse 1A (CAA Regulated Export Warehouse) and release airside for reloading onto departing aircraft without full re-screening or chain
+
+8002952/2025 Page 9
+
+of custody restoration. He alleged this breached the NASP and DfT Single Consolidated Direction which require all staff who handle aircraft equipment or cargo that will re-enter airside to have full pre-employment screening completed before starting.
+
+24. On 1 December, C sent what he called a ‘letter before action’ to R. This letter was not itself alleged by C to be a protected disclosure. The letter outlined C’s intention to bring a claim under section 47B of ERA (detriment) which he said followed a protected disclosure. He set out background and alleged detriments. He proposed a non-litigious resolution including compensation.
+
+25. Later that same day, C says he attended a meeting with two managers of R (Ian Muncie and Elaine Reid) when he says he was told he was dismissed for some other substantial reason. A letter was issued later the same day by Ms Reid. She said: “As discussed in this meeting, we are terminating your fixed term contract… This termination is made on the grounds of some other substantial reason (SPSR), in that we believe there is an irreparable breakdown in trust and confidence between GPAL and yourself resulting in a
+
+fundamental deterioration of the working relationship.”
+
+26. C says he received a response from the CAA on 2 December which he included in his bundle. He founded on the language of that email which said that the author was unable to discuss the conduct or findings of the investigation but said that “I can further assure you that where any non- compliance was identified, then appropriate rectification action was taken by both the CAA and Glasgow Prestiwck Airport…” C said this use of language told him that his concerns were not baseless. He said he knew that regulators would use a different form of words in response to a baseless allegation. He said he knew this from published guidance on the CAA’s website (which was not included in the available material before me). He says this supported his reasonable belief that he had identified genuine security non-compliance. He also said he had knowledge based on material provided by R as part of his induction training on which he had to sit two multiple choice tests before starting work. He said that these extended to matters beyond his individual role to the operation of the airport generally.
+
+27. As to causation for the dismissal, C says (my summary):
+
+a. Ian Muncie had informed him that the senior time had decided on his dismissal which, he said linked it to his whistleblowing activities.
+b. I understand that C also relied upon comments made by R during a meeting with C on 19 November where he says he was given an evasive response by R to his complaints. He referred to specific comments made by R's Ian Muncie and Jane Thomson during that 8002952/2025 Page 10 meeting. He says that they were belittling and dismissive during the meeting. He says they questioned his motives, asking “Where is this coming from?” and “What do you want out of all of this?” He says they evaded his questions and questioned his qualifications during the meeting. He says they said “I don’t want to put any more time into this” and “This needs to close today”.
+c. C says the timing of the dismissal (the same day as the letter before action and post CAA escalation) “infers retaliation”;
+d. C says “there were no other grounds – it’s pretextual, as the “breakdown” arose from my valid concerns”.
+
+28. C said that the case of KB Rathod v Clinica Private Healthcare LTD and Ms Farquar 221640/2023 was helpful to his case. He said that, in that case, interim relief was granted where there were similar facts to his.
+
+29. C gave responses to some points raised by Mr Boyle in the respondent’s submission. For ease of reference, these responses are mentioned below when outlining Mr Boyle’s submissions.
+
+Respondent’s submission
+
+30. Mr Boyle focused his submission on two principal areas where he said C’s case fails to meet the ‘likely test’ required under s.129 of ERA. These were the question of whether the disclosures relied upon by C amounted to protected disclosures and whether the reason or principal reason for the dismissal was that C made the disclosures.
+
+31. Mr Boyle gave an outline of the relevant law which was not disputed by C. He explained that R does not admit that C’s disclosures were protected. He confirmed R had not (before the interim relief hearing) seen C’s correspondence to the CAA of 23 November. With respect to the two earlier disclosures to R on 6 and 16 November, he submitted that, subjectively, C did not reasonably believe that the disclosures tended to show the relevant wrongdoing. Citing Korashi v Abertawe Bro Morgannwg University Local Health Board [2012] IRLR 4, he said the Tribunal must consider if C subjectively believed such breach was occurring / was likely to occur and, objectively, whether that belief was reasonably held. He said that, based on the content of C’s disclosures, it did not follow that the concerns he was raising reasonably led him to conclude a breach of a legal obligation.
+
+32. Mr Boyle pointed out that C had raised his first disclosure on 6 November. He said C had undertaken induction training on 3 and 4 November 2025 so his first actual working day was 5 November 2025. He said that, at this point, it was inconceivable that C had any knowledge of the inner workings of R and
+
+8002952/2025 Page 11
+
+that the disclosures related to an area entirely outside the remit of C’s role. Mr Boyle contended that C was not able to articulate in meetings what he had raised in his written correspondence. He said in essence that C lacked the factual knowledge needed for it to be possible for C to have a ‘reasonable belief’ in the alleged wrongdoing set out in his disclosures.
+
+33. In reply to these points, C referred to the induction training he had received from R and the knowledge obtained from that. He also asserted he had gained knowledge from a sitting in on a lecture about equipment being regulated and the chain of custody. He said this was some consider able time ago. He had attended the lecture, he said, at a time when he was trying to decide what he might do. He couldn’t recall for sure which institution had run the lecture, but he thought it might be Glasgow College. As to Mr Boyle’s point about being unable to articulate or discuss the concerns in meetings which he had set out in writing, C said that he suffers from anxiety. He said R was aware of this and that this was the reason he set matters out in writing. He said that in meetings he ’froze up’, and his responses were one-liners.
+
+34. Mr Boyle said that, with respect to the College lecture C said he sat in on, given he couldn’t remember when or where it was, it was inconceivable he was able to remember from that source the detail of the exact Civil Aviation Authority requirements.
+
+35. Mr Boyle also observed that, at a meeting between C and R on 11 November 2025, it was clear that C didn’t know where the bonded warehouse or the cargo village were. He said that C’s work location was in an import point which was not subject to the CAA regulations. Jane Thomson’s statement was to the effect that from a regulatory and compliance perspective, there are important differences between import and export sheds. She said R is regulated by CAA for the purposes of the export shed but not the import shed. She said R has a security programme to ensure compliance with the CAA’s regulations and that it needs to export in accordance with that programme which, she said, was strictly confidential for health and security reasons. She said in her statement that she explained the difference between import and export sheds to C in the meeting with him on 11 November. She says she advised C what the process was an how they dealt with pallets going back out. JT’s position is she felt she had been open and clear and, therefore, felt surprised to be forwarded a further email from C on 12 November in which he restated two concerns he had about the process. JT says she felt that C did not understand the rules around compliance or the processes that R followed.
+
+36. As to the reason for the dismissal, Mr Boyle said that where the Tribunal is able to separate out a feature of the conduct relied upon by the decision maker, the protected disclosure will be the context for the treatment complained of but not the reason itself (Kong v Gulf International Bank (UK)
+
+8002952/2025 Page 12
+
+Ltd 2022 ICR 1513, CA). He quoted from the decision in support of the potential for a distinction between the protected disclosure of information and conduct associated with or consequent on the making of the disclosure. Mr Boyle said that R’s case is that C was dismissed because he was identified as an ‘insider threat’. He referred to the statement of Jules Matteoni which he said set out the reasons behind R’s identification of C as an insider threat as follows:
+
+a. the nature and context of the questions C asked, given that C, as a warehouse operative had no involvement in the security screening that takes place before pallets are put on an aircraft which, according to JM, involves another area of the airport. JM’s witness statement identified that she says this was highly confidential for security reasons and unrelated to C’s role. JM also expresses a concern in her statement that C had raised these matters so soon after beginning his role which, she said, raised suspicions that the complaints were not as a result of having uncovered those concerns during the course of C’s role;
+b. that JM says she was concerned about C approaching a forklift driver asking what happened to pallets when they left the warehouse despite C having no need for this information for the purposes of his role;
+c. that R’s perception was that C’s verbal interactions were nowhere near the level of competence of the concerns he raised in writing which was said to raise a suspicion that he was intent on gathering insider intelligence or passing information on to someone else;
+d. that R says it felt the continued probing of issues by C despite its position that these had already been addressed, raised suspicions about whether there was something else at play such as an attempt to gather insider intelligence whether for C or someone else;
+e. that R says it had observed that, in the warehouse, C was ‘just stood there observing other members of staff rather than doing any work” and what was described as an “’edginess’ about him in terms of looking right and left as if to check if he was being watched.
+
+37. Mr Boyle said that R maintains that at the time of the dismissal, C could not be informed of the ‘insider threat’ reason for dismissal because there was a concern that referring to this at the time may result in an increased risk to the airport. He explained that is why R characterized its reasons for dismissing C as it did at the meeting and in the letter of 1 December.
+
+38. Mr Boyle said that given the heightened security measures that exist at an airport, it was incumbent on R to act quickly. There was, said Mr Boyle, no
+
+8002952/2025 Page 13
+
+room for prevarication or benefits of the doubt given the potential consequences of getting this wrong. He referred to JM’s statement which included reference to Government guidance recognising that behavioural indicators can provide early warning of potential vulnerability or risks.
+
+39. C replied to some of these points orally. He said that he was encouraged to raise concerns during the induction and that he did this in an appropriate way (by sending emails). He said the way in which he did so was not disruptive and he was not pestering R with daily emails. He said he sent follow ups because all his questions and concerns were not addressed. With respect to the allegation that he was always looking from left to right in the warehouse, C said that it was necessary to do so in that environment because of potential hazards like forklift trucks coming and going. He said there were no complaints about him annoying his colleagues with questions.
+
+Discussion and decision
+
+40. I remind myself that my task is to make a summary assessment based on the material available to consider whether C is likely, in the sense of having a pretty good chance (a higher chance than ‘more probable than not’), to succeed at the final hearing in his claim under section 103A.
+
+41. In relation to the assertion that the three asserted protected disclosures fell within the category in s.43B(1)(b) (non-compliance with a legal obligation), the legal obligation which C says he alleged was breached appears to be a regulation of the CAA. The specific wording of the regulation(s) asserted to have been or to be likely to be breached was not among the material put before me. The regulations were not directly quoted in any of the three asserted protected disclosures (or if they were, it was not clear that the regulations were being directly quoted). The parts of the regulations referred to were not identified by reference of any numbering system. To be clear, I recognise that this level of specificity is not necessary within a disclosure, and an employee does not require within an alleged protected disclosure to quote the law directly ‘in strict legal language’ as a prerequisite for a disclosure to be a qualifying disclosure for the purposes of section 43B. What does seem clear from the content of the disclosures is that C is asserting that the effect of the regulations is that there was a requirement for certain personnel alongside whom he worked to be subjected to checks which he said hadn’t been performed.
+
+42. As I understand it, R disputes the applicability of the regulatory requirements to the agency personnel who worked in the warehouse where C worked. Materially for present purposes, R also challenges that C himself had a reasonable belief that the information he disclosed showed or tended to show that R had failed/ was failing / was likely to fail to comply with a legal obligation.
+
+8002952/2025 Page 14
+
+At a final hearing it will be for C to establish that there was in fact and as a matter of law a legal obligation on R and that the information showed or tended to show a failure to comply (Boulding). R ‘s position is that C did not appear, from their face-to-face interactions, to possess a robust understanding the regulatory framework which he was pointing to in written correspondence. R also asserts that C’s factual knowledge about R’s operations was such that C was not in a position to be able to hold a genuine belief that they were not being complied with, based on C’s own limited personal observations in the warehouse where he worked and to which he had access. There is, therefore, a technical legal question which R raises about the applicability of the regulatory regime C invoked to the particular warehouse in which C was working and which C had the opportunity to observe (said by R to be an import shed). There is also a factual question about C’s knowledge of any re-screening processes R may have deployed elsewhere in its operation (outside of C’s place of work) and whether / how C came to hold knowledge thereof in order that he might assess regulatory compliance or otherwise. These are matters I envisage are likely to require more detailed exploration at a final hearing to decide whether C subjectively held the belief about the information in his correspondence which he purports to have held and, if so, whether such belief was ‘reasonable’.
+
+43. At the preliminary hearing on interim relief, limited detail was available about the source and detail of the legal obligation C said was being breached. The information about the factual knowledge of R’s operations which C alleges led him to identify non-compliance or likely non-compliance was also limited. It is acknowledged that C put forward some alleged sources of his knowledge on both of these matters but, given the nature of the hearing, his comments about these points were not tested in cross examination. I did not find his untested comments so compelling that I could conclude on a summary assessment that it appears to me likely that the Tribunal will find that the test for a qualifying disclosure falling within the category of section 43B(1)(b). It seemed to me that there was doubt on the material before me about what the legal obligation was which C said R was subject to in the particular circumstances it was alleged to apply; there was doubt about whether C genuinely subjectively believed it applied to R (whether or not erroneously); and there was also doubt over whether C had objectively reasonable grounds for a belief that the information he disclosed in the three communications tended to show R had failed / was failing or was likely to fail to comply.
+
+44. C says his disclosures additionally / alternatively fall within the category in section 43B(1)(d) (namely that the health or safety of any individual has been, is being or is likely to be endangered). C said that he believed there was a risk to public health. From the content of the disclosures themselves I understand that that the risk is a ‘security risk’ that ‘prohibited items [are]
+
+8002952/2025 Page 15
+
+introduced into the supply chain’ (Email of 6 November). In relation to this category, on the material before me, there was again doubt over whether C subjectively believed or had objectively reasonable grounds for a belief that the factual information he disclosed about R’s operation tended to show that the health and safety of an individual (or the public at large) had been / was being or was likely to be endangered by the scope for prohibited items to end up airside. The doubt relates to the extent of C’s knowledge of R’s operation in areas where he did not work and whether C had sufficient knowledge to entertain a reasonable belief that such information as he disclosed tended to show endangerment or a likelihood of endangerment to health and safety.
+
+45. There is, in any event, a further significant factual dispute about causation in relation to the dismissal. There are arguments made by both parties. I take on board all of the points made by C which he says point towards his disclosure(s) being the reason or principal reason for his dismissal. Undoubtedly, his dismissal followed relatively swiftly upon him making disclosures which he says were qualifying disclosures. It is also the case that some of the material he points to, in particular the tone and nature of the comments made by IM and JT at the meeting with C on 19 November, might, at least at first blush, lend themselves to an inference that they were irritated by or even hostile towards the raising of concerns by one of their workers. On the other hand, R will doubtless say that the approach of these managers was explicable in whole or in part by their increasing unease about C’s interest in the detail of their operations and their alleged suspicion that he may be collaborating with an external actor.
+
+46. C says that ultimately the reason for R’s breakdown of trust is that he persisted in raising protected disclosures. However, there is scope for a more nuanced analysis of an employer’s motivation. There may, as a matter of principle, be a distinction between the protected disclosure and the conduct associated with or consequent upon the making of it (Kong). As it is a matter of fact, the identification of the reason or principal reason turns on direct evidence and permissible inferences from it. In this case, there is a central dispute as to the determinative factor(s) in R’s decision and, in the absence of hearing evidence on these points and, in particular, in the absence of cross examination of relevant witnesses, I am not satisfied on a summary assessment at this stage that it is ‘likely’ that the Tribunal will find that the principal reason for C’s dismissal was he made a protected disclosure or disclosures.
+
+47. I wish to be clear that I make no finding against or in favour of either party on any of these matters. I make no findings in fact at all. I have reminded myself of the interpretation given to the words ‘likely that … the Tribunal will find’ in section 129 of ERA in the relevant caselaw (Taplin). Applying that (relatively
+
+8002952/2025 Page 16
+
+high) test, I merely conclude, on a summary assessment of the material before me at this stage, that it has not been met.
+
+48. For completeness, I record that C submitted that the case of Rathod v Clinica Private Healhcare Limited & Anr 2216407/2023 was of assistance to him as, he said, interim relief was allowed on similar facts. I reviewed that decision. I noted that it is a decision of another tribunal of first instance and so does not bind this Tribunal.
+
+49. In any event, the published written decision produced in R’s bundle of authorities is not a decision which provides written reasons for the decision that the claimant in that case met the threshold for an order for interim relief. I checked the online register and noted that the decision where those reasons are recorded does not appear to have been published. It seems the decision that the Mr Rathod met the threshold for interim relief had been made previously and the reasons for it were recorded in an unpublished Case Management Summary. The published decision concerned whether the Tribunal in that case could lawfully make a continuation of contract order in circumstances where the employee in that case had been under a visa scheme and their certificate of sponsorship had been cancelled and, if so, what the terms of that order might be. The question of the terms of a continuation of contract order does not ultimately arise in the present case, given my conclusion that s.129(1) is not satisfied.
+
+50. I did not, therefore, find the terms of the published judgment in the Rathod case to be of assistance. The facts which led the London Central Tribunal to conclude that Mr Rathod met the threshold under section 129(1) for an interim relief order were not contained within the published judgment so it was not possible to identify whether his case proceeded on similar facts to C’s, as C asserted. Entered in register: 7 January 2026 and copied to parties
