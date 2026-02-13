@@ -1,0 +1,2194 @@
+{
+  "summary": {
+    "n": 271,
+    "total": 2497335,
+    "mean": 9215.3,
+    "median": 6925.0,
+    "std": 6738.4,
+    "min": 690,
+    "q1": 3566.5,
+    "q3": 15546.0,
+    "max": 19997,
+    "iqr": 11979.5
+  },
+  "budget_estimate": {
+    "layer_b_tokens": 200237,
+    "target_total_tokens": 1800000,
+    "layer_a_target_tokens": 1599763,
+    "median_tokens_per_decision": 6925.0,
+    "estimated_decisions_needed": 231,
+    "pilot_kept_files": 271,
+    "note": "adjust survival_rate after checking dropped/ count to refine scraping target"
+  },
+  "outliers": [],
+  "per_file": [
+    {
+      "filename": "1300257_2025__Mr_D_Spencer_v_DPD_Group_UK_Ltd.txt",
+      "chars": 29436,
+      "words": 4998,
+      "lines": 228,
+      "tokens": 6098,
+      "tokens_per_1k_chars": 207.16
+    },
+    {
+      "filename": "1303125_2024__O_Ogoh_v_Walsall_Healthcare_NHS_Trust.txt",
+      "chars": 91413,
+      "words": 15384,
+      "lines": 532,
+      "tokens": 19948,
+      "tokens_per_1k_chars": 218.22
+    },
+    {
+      "filename": "1303343_2024__Miss_S_Hunton_v_Uttoxeter_Veterinary_Practice_Ltd.txt",
+      "chars": 43729,
+      "words": 7549,
+      "lines": 297,
+      "tokens": 9149,
+      "tokens_per_1k_chars": 209.22
+    },
+    {
+      "filename": "1304425_2024__Mrs_K_Mann_v_Citizen_Housing_Group_Ltd.txt",
+      "chars": 54384,
+      "words": 9260,
+      "lines": 219,
+      "tokens": 11507,
+      "tokens_per_1k_chars": 211.59
+    },
+    {
+      "filename": "1305709_2024__Miss_B_Allatt_v_Midlands_Partnership_University_NHS_Foundation_Trust.txt",
+      "chars": 18221,
+      "words": 2970,
+      "lines": 105,
+      "tokens": 3670,
+      "tokens_per_1k_chars": 201.42
+    },
+    {
+      "filename": "1307891_2023__Dr_M_Weaver_v_Black_Country_Healthcare_NHS_Foundation_Trust.txt",
+      "chars": 91011,
+      "words": 15278,
+      "lines": 439,
+      "tokens": 19914,
+      "tokens_per_1k_chars": 218.81
+    },
+    {
+      "filename": "1308533_2023__Mr_A_Plummer_v_Blanc_Aero_Industries_UK_Ltd.txt",
+      "chars": 80288,
+      "words": 13837,
+      "lines": 354,
+      "tokens": 16947,
+      "tokens_per_1k_chars": 211.08
+    },
+    {
+      "filename": "1308610_2023__Ms_M_Black_v_West_Midlands_Ambulance_Service_University_NHS_Foundation_Trust.txt",
+      "chars": 87750,
+      "words": 14870,
+      "lines": 491,
+      "tokens": 19473,
+      "tokens_per_1k_chars": 221.91
+    },
+    {
+      "filename": "1308775_2023__Ms_C_Stone_v_Crest_Nicholson_Operations_Ltd.txt",
+      "chars": 20264,
+      "words": 3459,
+      "lines": 85,
+      "tokens": 4123,
+      "tokens_per_1k_chars": 203.46
+    },
+    {
+      "filename": "1311864_2024__Mr_Y_Alem_v_Uber_Britannia_Ltd.txt",
+      "chars": 6320,
+      "words": 1038,
+      "lines": 33,
+      "tokens": 1323,
+      "tokens_per_1k_chars": 209.34
+    },
+    {
+      "filename": "1400002_2023__M_Flint_v_Albany_Apartments_Ltd.txt",
+      "chars": 29951,
+      "words": 5199,
+      "lines": 246,
+      "tokens": 6244,
+      "tokens_per_1k_chars": 208.47
+    },
+    {
+      "filename": "1400077_2025__Mr_J_Liang_v_Kury_UK_Ltd.txt",
+      "chars": 35095,
+      "words": 6026,
+      "lines": 236,
+      "tokens": 7377,
+      "tokens_per_1k_chars": 210.2
+    },
+    {
+      "filename": "1400575_2024__Mr_A_O_Dailamani_v_Laing_ORourke_Services_Ltd_and_Bylor_Services_Ltd.txt",
+      "chars": 38246,
+      "words": 6430,
+      "lines": 287,
+      "tokens": 8091,
+      "tokens_per_1k_chars": 211.55
+    },
+    {
+      "filename": "1401400_2024__Mr_M_Rullo_v_Bournemouth_Transport_Ltd_in_Creditors_Voluntary_Liquidation_and_Se.txt",
+      "chars": 4088,
+      "words": 701,
+      "lines": 25,
+      "tokens": 872,
+      "tokens_per_1k_chars": 213.31
+    },
+    {
+      "filename": "1401702_2024__Mrs_W_Donnelly_v_The_Guildhall_Poole_Ltd.txt",
+      "chars": 89841,
+      "words": 15413,
+      "lines": 471,
+      "tokens": 18978,
+      "tokens_per_1k_chars": 211.24
+    },
+    {
+      "filename": "1402852_2018__Ms_O_Akinleye_and_Mr_A_Olumade_v_Basingstoke_and_Deane_Borough_Council_and_other.txt",
+      "chars": 52866,
+      "words": 9094,
+      "lines": 280,
+      "tokens": 11254,
+      "tokens_per_1k_chars": 212.88
+    },
+    {
+      "filename": "1403157_2024__Mrs_L_Redding_v_ACG_Auto_Repairs_Ltd.txt",
+      "chars": 73181,
+      "words": 12165,
+      "lines": 360,
+      "tokens": 15156,
+      "tokens_per_1k_chars": 207.1
+    },
+    {
+      "filename": "1404169_2023__Mr_D_Arthurs_v_G_R_Electrical_Wholesalers_Ltd.txt",
+      "chars": 3293,
+      "words": 537,
+      "lines": 29,
+      "tokens": 700,
+      "tokens_per_1k_chars": 212.57
+    },
+    {
+      "filename": "1405184_2023__Mr_J_Dunne_v_The_Taunton_Cider_Company_Ltd_In_Creditors_Voluntary_Liquidation_an.txt",
+      "chars": 60447,
+      "words": 10211,
+      "lines": 398,
+      "tokens": 12952,
+      "tokens_per_1k_chars": 214.27
+    },
+    {
+      "filename": "1406290_2023__Ms_A_Akhtaru_v_The_Winchester_Diocesan_Board_of_Finance.txt",
+      "chars": 87735,
+      "words": 15057,
+      "lines": 598,
+      "tokens": 19553,
+      "tokens_per_1k_chars": 222.86
+    },
+    {
+      "filename": "1406308_2023__W_Drysdale_Wood_v_Shared_Lives_South_West.txt",
+      "chars": 52997,
+      "words": 8777,
+      "lines": 276,
+      "tokens": 10757,
+      "tokens_per_1k_chars": 202.97
+    },
+    {
+      "filename": "1600947_2024__Miss_G_McCarthy_v_Values_in_Care_Ltd_and_Swanton_Care_Community_Ltd.txt",
+      "chars": 7831,
+      "words": 1352,
+      "lines": 37,
+      "tokens": 1679,
+      "tokens_per_1k_chars": 214.4
+    },
+    {
+      "filename": "1601337_2024__J_Whitehouse_v_WM_Morrison_Supermarkets_Ltd.txt",
+      "chars": 8049,
+      "words": 1393,
+      "lines": 61,
+      "tokens": 1760,
+      "tokens_per_1k_chars": 218.66
+    },
+    {
+      "filename": "1601525_2022__Mrs_S_Bradley_v_The_Royal_Mint_Ltd.txt",
+      "chars": 96862,
+      "words": 16404,
+      "lines": 545,
+      "tokens": 19964,
+      "tokens_per_1k_chars": 206.11
+    },
+    {
+      "filename": "1602474_2024__M_Peiu_v_Hywel_Dda_University_Local_Health_Board.txt",
+      "chars": 94533,
+      "words": 15732,
+      "lines": 783,
+      "tokens": 19955,
+      "tokens_per_1k_chars": 211.09
+    },
+    {
+      "filename": "1802988_2024__Mrs_K_Kaur_v_The_Blessed_Peter_Snow_Catholic_Academy_Trust.txt",
+      "chars": 18819,
+      "words": 3215,
+      "lines": 111,
+      "tokens": 4004,
+      "tokens_per_1k_chars": 212.76
+    },
+    {
+      "filename": "1804177_2021__Mr_K_Smith_v_WM_Morrisons_Supermarkets_plc.txt",
+      "chars": 43448,
+      "words": 7433,
+      "lines": 251,
+      "tokens": 9136,
+      "tokens_per_1k_chars": 210.27
+    },
+    {
+      "filename": "1809293_2024__Ms_F_Green_v_Imprint_Creative_Print_Solutions_Ltd.txt",
+      "chars": 61605,
+      "words": 10469,
+      "lines": 396,
+      "tokens": 13060,
+      "tokens_per_1k_chars": 212.0
+    },
+    {
+      "filename": "2200225_2024__Mr_A_M_Said_v_The_Department_of_Health_and_Social_Care.txt",
+      "chars": 53282,
+      "words": 8921,
+      "lines": 272,
+      "tokens": 10898,
+      "tokens_per_1k_chars": 204.53
+    },
+    {
+      "filename": "2200608_2024__Mr_C_Wise_v_HM_Revenue_and_Customs.txt",
+      "chars": 3869,
+      "words": 689,
+      "lines": 23,
+      "tokens": 881,
+      "tokens_per_1k_chars": 227.71
+    },
+    {
+      "filename": "2200732_2024__Mr_S_Hasan_and_Others_v_University_of_West_London.txt",
+      "chars": 47179,
+      "words": 8076,
+      "lines": 278,
+      "tokens": 10381,
+      "tokens_per_1k_chars": 220.03
+    },
+    {
+      "filename": "2201548_2024__Mr_J_Airey_v_British_Transport_Police.txt",
+      "chars": 21310,
+      "words": 3569,
+      "lines": 125,
+      "tokens": 4307,
+      "tokens_per_1k_chars": 202.11
+    },
+    {
+      "filename": "2201912_2022__Ms_M_Barcker_v_Moorfields_Eye_Hospital_NHS_Foundation_Trust.txt",
+      "chars": 20788,
+      "words": 3563,
+      "lines": 73,
+      "tokens": 4246,
+      "tokens_per_1k_chars": 204.25
+    },
+    {
+      "filename": "2202003_2024__Miss_C_Royer_v_Marks_and_Spencer_plc.txt",
+      "chars": 68249,
+      "words": 11339,
+      "lines": 134,
+      "tokens": 14917,
+      "tokens_per_1k_chars": 218.57
+    },
+    {
+      "filename": "2202088_2022__CD_v_Vigilant_Security_Scotland_Ltd_Ta_Croma_Vigilant.txt",
+      "chars": 22839,
+      "words": 3993,
+      "lines": 183,
+      "tokens": 4932,
+      "tokens_per_1k_chars": 215.95
+    },
+    {
+      "filename": "2202954_2022__Ms_A_Sohail_and_Ms_A_Khalid_v_Lloyds_Bank_plc.txt",
+      "chars": 97562,
+      "words": 16257,
+      "lines": 656,
+      "tokens": 19914,
+      "tokens_per_1k_chars": 204.12
+    },
+    {
+      "filename": "2206663_2020__Mr_W_Davey_v_Harrods_Ltd.txt",
+      "chars": 19837,
+      "words": 3336,
+      "lines": 83,
+      "tokens": 4069,
+      "tokens_per_1k_chars": 205.12
+    },
+    {
+      "filename": "2206741_2021__Mr_A_Zia_Ud_Din_v_HP_Inc_UK_Ltd_and_Computacentre_UK_Ltd.txt",
+      "chars": 91740,
+      "words": 16149,
+      "lines": 508,
+      "tokens": 19967,
+      "tokens_per_1k_chars": 217.65
+    },
+    {
+      "filename": "2209915_2023__Mr_A_Bates_and_others_v_Aspen_Phoenix_Newco_Ltd_Ta_Paperchase_in_administration.txt",
+      "chars": 5183,
+      "words": 829,
+      "lines": 57,
+      "tokens": 1035,
+      "tokens_per_1k_chars": 199.69
+    },
+    {
+      "filename": "2210563_2022__Ms_A_Jinadu_v_Department_for_Work_and_Pensions.txt",
+      "chars": 95965,
+      "words": 16107,
+      "lines": 613,
+      "tokens": 19936,
+      "tokens_per_1k_chars": 207.74
+    },
+    {
+      "filename": "2216149_2024__Mr_T_Ramchurn_v_Secretary_of_State_for_Justice_and_A_Frost.txt",
+      "chars": 12329,
+      "words": 2018,
+      "lines": 99,
+      "tokens": 2815,
+      "tokens_per_1k_chars": 228.32
+    },
+    {
+      "filename": "2216628_2023__Mr_I_Pikovsky_v_Crezco_Ltd_and_Others.txt",
+      "chars": 26596,
+      "words": 4563,
+      "lines": 164,
+      "tokens": 5603,
+      "tokens_per_1k_chars": 210.67
+    },
+    {
+      "filename": "2217766_2024__Mr_D_Estephane_v_Barking_Havering_and_Redbridge_University_Hospitals_NHS_Trust.txt",
+      "chars": 20002,
+      "words": 3431,
+      "lines": 113,
+      "tokens": 4138,
+      "tokens_per_1k_chars": 206.88
+    },
+    {
+      "filename": "2217777_2024__Mr_P_Sullivan_v_RTC_Education_Ltd.txt",
+      "chars": 14809,
+      "words": 2513,
+      "lines": 77,
+      "tokens": 3175,
+      "tokens_per_1k_chars": 214.4
+    },
+    {
+      "filename": "2217828_2024__Mrs_S_D_Mentaberry_v_Ground_Truth_Intelligence_Ltd_and_Others.txt",
+      "chars": 93611,
+      "words": 15814,
+      "lines": 838,
+      "tokens": 19981,
+      "tokens_per_1k_chars": 213.45
+    },
+    {
+      "filename": "2217983_2024__Mr_M_Cruz_v_Ladbrokes_Betting_and_Gaming_Ltd.txt",
+      "chars": 24030,
+      "words": 4091,
+      "lines": 238,
+      "tokens": 5410,
+      "tokens_per_1k_chars": 225.14
+    },
+    {
+      "filename": "2218131_2024__Ms_M_Campbell_v_Department_for_Education.txt",
+      "chars": 93594,
+      "words": 15822,
+      "lines": 701,
+      "tokens": 19825,
+      "tokens_per_1k_chars": 211.82
+    },
+    {
+      "filename": "2219245_2023__Mr_S_McCready_v_Alten_Ltd.txt",
+      "chars": 42603,
+      "words": 7203,
+      "lines": 297,
+      "tokens": 8752,
+      "tokens_per_1k_chars": 205.43
+    },
+    {
+      "filename": "2223308_2024__Miss_L_Medcraft_v_Chanel_Ltd.txt",
+      "chars": 94617,
+      "words": 16008,
+      "lines": 829,
+      "tokens": 19993,
+      "tokens_per_1k_chars": 211.3
+    },
+    {
+      "filename": "2223380_2024__I_Esteves_v_Imperial_College_Healthcare_NHS_Trust.txt",
+      "chars": 39933,
+      "words": 6556,
+      "lines": 343,
+      "tokens": 8958,
+      "tokens_per_1k_chars": 224.33
+    },
+    {
+      "filename": "2224652_2024__R_Doshi_v_British_United_Provident_Association_Ltd.txt",
+      "chars": 16027,
+      "words": 2649,
+      "lines": 143,
+      "tokens": 3267,
+      "tokens_per_1k_chars": 203.84
+    },
+    {
+      "filename": "2300285_2022__Mr_Z_v_Medway_NHS_Foundation_Trust.txt",
+      "chars": 93355,
+      "words": 15721,
+      "lines": 535,
+      "tokens": 19988,
+      "tokens_per_1k_chars": 214.11
+    },
+    {
+      "filename": "2301267_2024__Mr_M_Robins_v_Surrey_and_Borders_NHS_Foundation_Trust.txt",
+      "chars": 94969,
+      "words": 15274,
+      "lines": 747,
+      "tokens": 19990,
+      "tokens_per_1k_chars": 210.49
+    },
+    {
+      "filename": "2301520_2023__Miss_Klonek_v_University_Hospitals_Sussex_NHS_Foundation_Trust.txt",
+      "chars": 27947,
+      "words": 4761,
+      "lines": 215,
+      "tokens": 6235,
+      "tokens_per_1k_chars": 223.1
+    },
+    {
+      "filename": "2302233_2020__Ms_R_Owens_v_Network_Rail_Ltd.txt",
+      "chars": 64823,
+      "words": 11059,
+      "lines": 212,
+      "tokens": 13593,
+      "tokens_per_1k_chars": 209.69
+    },
+    {
+      "filename": "2302252_2024__Miss_C_Graves_v_Hilton_Nursing_Partners_Ltd.txt",
+      "chars": 8722,
+      "words": 1505,
+      "lines": 71,
+      "tokens": 1882,
+      "tokens_per_1k_chars": 215.78
+    },
+    {
+      "filename": "2302433_2022__M_Kuye_v_Medway_Council.txt",
+      "chars": 95355,
+      "words": 15604,
+      "lines": 563,
+      "tokens": 19954,
+      "tokens_per_1k_chars": 209.26
+    },
+    {
+      "filename": "2302764_2025__Ms_N_Rogers_and_others_v_HHGL_Ltd_Ta_Homebase_in_administration_and_The_Secretar.txt",
+      "chars": 57982,
+      "words": 9906,
+      "lines": 390,
+      "tokens": 13069,
+      "tokens_per_1k_chars": 225.4
+    },
+    {
+      "filename": "2303250_2024__Ms_S_McKenzie_v_Nikki_Tibbles_Wild_at_Heart_Ltd.txt",
+      "chars": 22626,
+      "words": 3935,
+      "lines": 170,
+      "tokens": 4787,
+      "tokens_per_1k_chars": 211.57
+    },
+    {
+      "filename": "2303582_2022__Miss_M_McGhee_v_The_Members_of_the_Executive_Committee_at_the_Relevant_Time_of_t.txt",
+      "chars": 91970,
+      "words": 15498,
+      "lines": 674,
+      "tokens": 19813,
+      "tokens_per_1k_chars": 215.43
+    },
+    {
+      "filename": "2303937_2024__J_Harper_v_Gatwick_Airport_Ltd.txt",
+      "chars": 8889,
+      "words": 1531,
+      "lines": 110,
+      "tokens": 1945,
+      "tokens_per_1k_chars": 218.81
+    },
+    {
+      "filename": "2304390_2023__Ms_N_Fernandez_v_Guys_and_St_Thomas_NHS_Foundation_Trust.txt",
+      "chars": 92654,
+      "words": 15813,
+      "lines": 547,
+      "tokens": 19945,
+      "tokens_per_1k_chars": 215.26
+    },
+    {
+      "filename": "2304539_2025__Ms_E_Gichanga_v_Affectionate_Care_Home_Ltd.txt",
+      "chars": 10313,
+      "words": 1858,
+      "lines": 95,
+      "tokens": 2283,
+      "tokens_per_1k_chars": 221.37
+    },
+    {
+      "filename": "2305932_2023__Mrs_S_Stone_v_MA_Business_Ltd.txt",
+      "chars": 93230,
+      "words": 15885,
+      "lines": 654,
+      "tokens": 19955,
+      "tokens_per_1k_chars": 214.04
+    },
+    {
+      "filename": "2306450_2023__Mx_U_Miah_v_Synnovis_Analytics_LLP.txt",
+      "chars": 21824,
+      "words": 3709,
+      "lines": 129,
+      "tokens": 4652,
+      "tokens_per_1k_chars": 213.16
+    },
+    {
+      "filename": "2306525_2020__Mrs_L_Oyebisi_v_Hyde_Housing_Association_Ltd.txt",
+      "chars": 3644,
+      "words": 619,
+      "lines": 25,
+      "tokens": 771,
+      "tokens_per_1k_chars": 211.58
+    },
+    {
+      "filename": "2307121_2023__Mr_M_Ravichandran_v_Nexus_Foods_Ltd.txt",
+      "chars": 58260,
+      "words": 9879,
+      "lines": 363,
+      "tokens": 12980,
+      "tokens_per_1k_chars": 222.79
+    },
+    {
+      "filename": "2308011_2023__Mr_S_Donnelly_v_DFDS_Guernsey_Ltd.txt",
+      "chars": 91744,
+      "words": 16042,
+      "lines": 100,
+      "tokens": 19303,
+      "tokens_per_1k_chars": 210.4
+    },
+    {
+      "filename": "2400194_2024__Mr_J_Murphy_v_Secretary_of_State_for_Work_and_Pensions.txt",
+      "chars": 94899,
+      "words": 15965,
+      "lines": 523,
+      "tokens": 19943,
+      "tokens_per_1k_chars": 210.15
+    },
+    {
+      "filename": "2401163_2023__Dr_M_Anatolyeva_v_St_Helens_and_Knowsley_Teaching_Hospitals_NHS_Trust_and_NHS_En.txt",
+      "chars": 42111,
+      "words": 6866,
+      "lines": 209,
+      "tokens": 8698,
+      "tokens_per_1k_chars": 206.55
+    },
+    {
+      "filename": "2402393_2024__Mr_M_Armstrong_v_The_Secretary_of_State_for_Justice.txt",
+      "chars": 96224,
+      "words": 16261,
+      "lines": 537,
+      "tokens": 19979,
+      "tokens_per_1k_chars": 207.63
+    },
+    {
+      "filename": "2404995_2022__Ms_C_Muswere_v_University_and_College_Union.txt",
+      "chars": 36414,
+      "words": 6142,
+      "lines": 213,
+      "tokens": 7700,
+      "tokens_per_1k_chars": 211.46
+    },
+    {
+      "filename": "2411365_2023__W_Lock_v_Sopra_Steria_Ltd.txt",
+      "chars": 34770,
+      "words": 5775,
+      "lines": 241,
+      "tokens": 7198,
+      "tokens_per_1k_chars": 207.02
+    },
+    {
+      "filename": "2501192_2024__Ms_B_Hutchinson_and_Others_v_County_Durham_and_Darlington_NHS_Foundation_Trust.txt",
+      "chars": 93219,
+      "words": 15727,
+      "lines": 513,
+      "tokens": 19988,
+      "tokens_per_1k_chars": 214.42
+    },
+    {
+      "filename": "2600366_2025__Ms_T_Doil_v_Proman_Managed_Services_Ltd_and_Toyota_Motor_Manufacturing_UK_Ltd.txt",
+      "chars": 18036,
+      "words": 3088,
+      "lines": 134,
+      "tokens": 3968,
+      "tokens_per_1k_chars": 220.0
+    },
+    {
+      "filename": "2600606_2025__Miss_M_Jowett_v_Midland_Lettings_Ltd.txt",
+      "chars": 85292,
+      "words": 14755,
+      "lines": 194,
+      "tokens": 18585,
+      "tokens_per_1k_chars": 217.9
+    },
+    {
+      "filename": "2600936_2023__Mr_J_Mastromarino_v_Capita_Business_Services_Ltd.txt",
+      "chars": 8906,
+      "words": 1503,
+      "lines": 71,
+      "tokens": 1861,
+      "tokens_per_1k_chars": 208.96
+    },
+    {
+      "filename": "2601354_2023__Dr_M_Benaris_v_Leicestershire_Partnership_NHS_Trust.txt",
+      "chars": 93012,
+      "words": 15832,
+      "lines": 548,
+      "tokens": 19854,
+      "tokens_per_1k_chars": 213.46
+    },
+    {
+      "filename": "3200022_2021__Ms_J_Healey_v_London_Borough_of_Tower_Hamlets_and_Adecco_UK_Ltd.txt",
+      "chars": 32815,
+      "words": 5645,
+      "lines": 126,
+      "tokens": 6925,
+      "tokens_per_1k_chars": 211.03
+    },
+    {
+      "filename": "3200207_2022__Ms_L_Thomas_v_London_Borough_of_Redbridge.txt",
+      "chars": 93109,
+      "words": 15799,
+      "lines": 510,
+      "tokens": 19965,
+      "tokens_per_1k_chars": 214.43
+    },
+    {
+      "filename": "3200221_2025__S_Allpress_and_others_v_Coco_Lighting_Ltd_in_voluntary_liquidation.txt",
+      "chars": 5172,
+      "words": 872,
+      "lines": 57,
+      "tokens": 1108,
+      "tokens_per_1k_chars": 214.23
+    },
+    {
+      "filename": "3200372_2024__Mr_T_Constable_v_C_R_Swift_Landscaping_Ltd.txt",
+      "chars": 11095,
+      "words": 1949,
+      "lines": 98,
+      "tokens": 2462,
+      "tokens_per_1k_chars": 221.9
+    },
+    {
+      "filename": "3200381_2024__A_Mahima_and_Others_v_U_M_Shafiq_Ta_Cupp_Bubble_Tea.txt",
+      "chars": 4559,
+      "words": 737,
+      "lines": 66,
+      "tokens": 1315,
+      "tokens_per_1k_chars": 288.44
+    },
+    {
+      "filename": "3200500_2025__Mr_S_Manners_v_Manchett_Group_Ltd.txt",
+      "chars": 25398,
+      "words": 4493,
+      "lines": 21,
+      "tokens": 5513,
+      "tokens_per_1k_chars": 217.06
+    },
+    {
+      "filename": "3200538_2023__Mr_A_Lancaster_and_Others_v_Mitie_Group_plc.txt",
+      "chars": 95013,
+      "words": 16603,
+      "lines": 430,
+      "tokens": 19896,
+      "tokens_per_1k_chars": 209.4
+    },
+    {
+      "filename": "3200542_2024__Mrs_A_Bearman_v_Shaw_Trust_Ltd_The.txt",
+      "chars": 67512,
+      "words": 11377,
+      "lines": 421,
+      "tokens": 14228,
+      "tokens_per_1k_chars": 210.75
+    },
+    {
+      "filename": "3200750_2024__Mr_M_Tariq_v_Partnership_Learning_Trust.txt",
+      "chars": 38797,
+      "words": 6575,
+      "lines": 292,
+      "tokens": 8024,
+      "tokens_per_1k_chars": 206.82
+    },
+    {
+      "filename": "3200762_2024__Ms_M_Kutsoati_v_St_Pauls_Way_Medical_Centre.txt",
+      "chars": 7936,
+      "words": 1332,
+      "lines": 54,
+      "tokens": 1589,
+      "tokens_per_1k_chars": 200.23
+    },
+    {
+      "filename": "3200777_2024__Mr_A_M_Bolivar_v_M_Three_Corporate_Consulting_Ltd.txt",
+      "chars": 44321,
+      "words": 7602,
+      "lines": 270,
+      "tokens": 9434,
+      "tokens_per_1k_chars": 212.86
+    },
+    {
+      "filename": "3200973_2022__Mr_M_J_Uddin_Formerly_Known_as_M_Ali_v_Supersafe_Security_Ltd_and_Security_Smart.txt",
+      "chars": 44561,
+      "words": 7740,
+      "lines": 427,
+      "tokens": 9816,
+      "tokens_per_1k_chars": 220.28
+    },
+    {
+      "filename": "3201131_2024__A_Kozicz_v_Z_Horvath_Ta_Nonstopdiag.txt",
+      "chars": 35795,
+      "words": 6092,
+      "lines": 197,
+      "tokens": 7681,
+      "tokens_per_1k_chars": 214.58
+    },
+    {
+      "filename": "3201140_2024__Mr_P_Remenar_v_Lemon_Groundwork_Solutions_Ltd.txt",
+      "chars": 4275,
+      "words": 745,
+      "lines": 29,
+      "tokens": 912,
+      "tokens_per_1k_chars": 213.33
+    },
+    {
+      "filename": "3201281_2023__Mr_I_Siddique_v_London_Domestic_Appliances_UK_Ltd.txt",
+      "chars": 82028,
+      "words": 13832,
+      "lines": 232,
+      "tokens": 17445,
+      "tokens_per_1k_chars": 212.67
+    },
+    {
+      "filename": "3201353_2023__Mr_U_Majeed_v_MTR_Corporation_Crossrail_Ltd_Ta_MTR_Elizabeth_Line.txt",
+      "chars": 73559,
+      "words": 12550,
+      "lines": 274,
+      "tokens": 16139,
+      "tokens_per_1k_chars": 219.4
+    },
+    {
+      "filename": "3201673_2023__Ms_A_Adegbite_v_BB_Healthcare_Solutions_Ltd.txt",
+      "chars": 31315,
+      "words": 5394,
+      "lines": 263,
+      "tokens": 6847,
+      "tokens_per_1k_chars": 218.65
+    },
+    {
+      "filename": "3201836_2023__Miss_K_Wing_So_v_Tech_Nordic_Advocates_and_Ms_J_Carlsson.txt",
+      "chars": 5944,
+      "words": 1008,
+      "lines": 41,
+      "tokens": 1237,
+      "tokens_per_1k_chars": 208.11
+    },
+    {
+      "filename": "3202082_2023__Mr_J_Penfold_v_Department_of_Work_and_Pensions.txt",
+      "chars": 46584,
+      "words": 7760,
+      "lines": 288,
+      "tokens": 9392,
+      "tokens_per_1k_chars": 201.61
+    },
+    {
+      "filename": "3202184_2023__Mr_D_OByrne_and_Others_v_Luxtripper_Ltd_in_administration.txt",
+      "chars": 13525,
+      "words": 2279,
+      "lines": 120,
+      "tokens": 2902,
+      "tokens_per_1k_chars": 214.57
+    },
+    {
+      "filename": "3202201_2024__Mr_M_C_Acero_v_Crystalcare_Cleaning_Services_Ltd.txt",
+      "chars": 7048,
+      "words": 1219,
+      "lines": 44,
+      "tokens": 1523,
+      "tokens_per_1k_chars": 216.09
+    },
+    {
+      "filename": "3202454_2023__Mr_B_Pejic_v_Storm_Global_Ltd_and_Ryanair_DAC.txt",
+      "chars": 84245,
+      "words": 14205,
+      "lines": 479,
+      "tokens": 18854,
+      "tokens_per_1k_chars": 223.8
+    },
+    {
+      "filename": "3202544_2021__Mr_L_Stone_v_Regent_Office_Care_Ltd_Ta_Samsic_UK_and_JPC_by_Samsic_and_Others.txt",
+      "chars": 93681,
+      "words": 16138,
+      "lines": 89,
+      "tokens": 19799,
+      "tokens_per_1k_chars": 211.34
+    },
+    {
+      "filename": "3203189_2022__Mr_L_Akula_v_John_Lewis_plc_and_Others.txt",
+      "chars": 11427,
+      "words": 1966,
+      "lines": 65,
+      "tokens": 2443,
+      "tokens_per_1k_chars": 213.79
+    },
+    {
+      "filename": "3203214_2021__Miss_K_Arnold_v_Select_Enterprises_South_East_Ltd_and_Mrs_B_Kalsi.txt",
+      "chars": 94456,
+      "words": 16035,
+      "lines": 414,
+      "tokens": 19957,
+      "tokens_per_1k_chars": 211.28
+    },
+    {
+      "filename": "3204197_2022__Ms_J_Boswell_v_Beacon_Multi_Academy_Trust_Ltd.txt",
+      "chars": 81932,
+      "words": 13708,
+      "lines": 488,
+      "tokens": 17012,
+      "tokens_per_1k_chars": 207.64
+    },
+    {
+      "filename": "3300596_2024__Mr_M_Coltofean_and_Others_v_Royal_Harwich_Yacht_Club.txt",
+      "chars": 92080,
+      "words": 15800,
+      "lines": 459,
+      "tokens": 19852,
+      "tokens_per_1k_chars": 215.6
+    },
+    {
+      "filename": "3300702_2025__Mr_W_Maseke_v_Telefonica_UK_Ltd_and_O2.txt",
+      "chars": 3734,
+      "words": 624,
+      "lines": 31,
+      "tokens": 832,
+      "tokens_per_1k_chars": 222.82
+    },
+    {
+      "filename": "3300711_2023__Mr_A_Sochon_and_others_v_The_Felixstowe_Dock_and_Railway_Company.txt",
+      "chars": 16362,
+      "words": 2765,
+      "lines": 142,
+      "tokens": 3642,
+      "tokens_per_1k_chars": 222.59
+    },
+    {
+      "filename": "3300934_2024__Ms_M_Keesoony_v_West_London_NHS_Trust.txt",
+      "chars": 89185,
+      "words": 15139,
+      "lines": 491,
+      "tokens": 19366,
+      "tokens_per_1k_chars": 217.14
+    },
+    {
+      "filename": "3301532_2023__Miss_G_Amissah_v_London_Borough_of_Islington_and_others.txt",
+      "chars": 45963,
+      "words": 7886,
+      "lines": 343,
+      "tokens": 10601,
+      "tokens_per_1k_chars": 230.64
+    },
+    {
+      "filename": "3303005_2024__Miss_S_Tadevossian_v_Chief_Constable_of_Surrey_Police.txt",
+      "chars": 32403,
+      "words": 5535,
+      "lines": 184,
+      "tokens": 6689,
+      "tokens_per_1k_chars": 206.43
+    },
+    {
+      "filename": "3303382_2024__Mr_M_J_Ashwood_v_DHL_Services_Ltd.txt",
+      "chars": 58826,
+      "words": 9909,
+      "lines": 426,
+      "tokens": 12425,
+      "tokens_per_1k_chars": 211.22
+    },
+    {
+      "filename": "3303491_2024__Miss_G_Robinson_v_Mr_T_Sujanthan.txt",
+      "chars": 29226,
+      "words": 4869,
+      "lines": 263,
+      "tokens": 6236,
+      "tokens_per_1k_chars": 213.37
+    },
+    {
+      "filename": "3303624_2024__Mr_R_Avram_v_Smartsec_Solutions_Ltd_and_Karter_Estates_Ltd.txt",
+      "chars": 15287,
+      "words": 2565,
+      "lines": 97,
+      "tokens": 3097,
+      "tokens_per_1k_chars": 202.59
+    },
+    {
+      "filename": "3303977_2024__Mrs_H_S_Parhar_v_Welwyn_Hatfield_Borough_Council.txt",
+      "chars": 11630,
+      "words": 1960,
+      "lines": 75,
+      "tokens": 2357,
+      "tokens_per_1k_chars": 202.67
+    },
+    {
+      "filename": "3305039_2024__Mr_N_Hughes_v_Funeral_Services_Ltd_Ta_Co_Op_Funeralcare.txt",
+      "chars": 22205,
+      "words": 3849,
+      "lines": 159,
+      "tokens": 4842,
+      "tokens_per_1k_chars": 218.06
+    },
+    {
+      "filename": "3305589_2024__R_Giles_v_Cranswick_plc_and_others.txt",
+      "chars": 17904,
+      "words": 3075,
+      "lines": 113,
+      "tokens": 3712,
+      "tokens_per_1k_chars": 207.33
+    },
+    {
+      "filename": "3305727_2024__Mr_J_Bassett_v_Commissioner_of_Police_of_the_Metropolis.txt",
+      "chars": 27292,
+      "words": 4595,
+      "lines": 143,
+      "tokens": 5556,
+      "tokens_per_1k_chars": 203.58
+    },
+    {
+      "filename": "3306242_2024__Miss_J_Christopher_v_Maximus_UK_Services_Ltd_and_Ingeus_UK_Ltd.txt",
+      "chars": 22717,
+      "words": 4087,
+      "lines": 26,
+      "tokens": 5106,
+      "tokens_per_1k_chars": 224.77
+    },
+    {
+      "filename": "3306880_2025__S_Khokhar_v_R_Whitley_and_Company.txt",
+      "chars": 10750,
+      "words": 1837,
+      "lines": 58,
+      "tokens": 2237,
+      "tokens_per_1k_chars": 208.09
+    },
+    {
+      "filename": "3307553_2023__Ms_M_Fernando_v_Knight_Frank_Services_Co.txt",
+      "chars": 22561,
+      "words": 3925,
+      "lines": 179,
+      "tokens": 4900,
+      "tokens_per_1k_chars": 217.19
+    },
+    {
+      "filename": "3307564_2023__Mr_D_Gallop_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt",
+      "chars": 91809,
+      "words": 15314,
+      "lines": 701,
+      "tokens": 19838,
+      "tokens_per_1k_chars": 216.08
+    },
+    {
+      "filename": "3307733_2024__Dr_M_Kulczynska_v_AQA_Education.txt",
+      "chars": 33231,
+      "words": 5470,
+      "lines": 178,
+      "tokens": 6909,
+      "tokens_per_1k_chars": 207.91
+    },
+    {
+      "filename": "3307764_2024__Mr_M_Moloney_v_Cantifix_Ltd.txt",
+      "chars": 17670,
+      "words": 3022,
+      "lines": 163,
+      "tokens": 3857,
+      "tokens_per_1k_chars": 218.28
+    },
+    {
+      "filename": "3308216_2023__Mr_P_Langton_v_Buckinghamshire_Fire_and_Rescue_Service.txt",
+      "chars": 95119,
+      "words": 16385,
+      "lines": 318,
+      "tokens": 19670,
+      "tokens_per_1k_chars": 206.79
+    },
+    {
+      "filename": "3308751_2024__B_Russell_v_Cavalry_Claims_Services_Ltd.txt",
+      "chars": 15509,
+      "words": 2683,
+      "lines": 103,
+      "tokens": 3145,
+      "tokens_per_1k_chars": 202.79
+    },
+    {
+      "filename": "3308895_2023__Mr_A_Albu_v_London_Underground_Ltd.txt",
+      "chars": 65583,
+      "words": 11096,
+      "lines": 290,
+      "tokens": 13867,
+      "tokens_per_1k_chars": 211.44
+    },
+    {
+      "filename": "3309451_2023__Mr_N_Middleton_v_The_Hawk_and_Owl_Trust_Ltd_and_Mr_A_Blumfield.txt",
+      "chars": 89986,
+      "words": 15213,
+      "lines": 569,
+      "tokens": 19260,
+      "tokens_per_1k_chars": 214.03
+    },
+    {
+      "filename": "3310748_2021__Mr_J_Mezgebe_v_Christs_College_Finchley.txt",
+      "chars": 93250,
+      "words": 16279,
+      "lines": 178,
+      "tokens": 19867,
+      "tokens_per_1k_chars": 213.05
+    },
+    {
+      "filename": "3310860_2022__Miss_M_Manjula_v_Immigration_and_Nationality_Services_Ltd_and_IANS_Solicitors_Lt.txt",
+      "chars": 92510,
+      "words": 15887,
+      "lines": 574,
+      "tokens": 19848,
+      "tokens_per_1k_chars": 214.55
+    },
+    {
+      "filename": "3310946_2023__Mrs_S_Dye_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt",
+      "chars": 67141,
+      "words": 11246,
+      "lines": 502,
+      "tokens": 14009,
+      "tokens_per_1k_chars": 208.65
+    },
+    {
+      "filename": "3311175_2024__Miss_A_Gray_v_Coronet_Flowers_Ltd.txt",
+      "chars": 2806,
+      "words": 467,
+      "lines": 43,
+      "tokens": 690,
+      "tokens_per_1k_chars": 245.9
+    },
+    {
+      "filename": "3311810_2024__Mr_J_La_v_Community_Ambulance_Service_Ltd.txt",
+      "chars": 71706,
+      "words": 12000,
+      "lines": 466,
+      "tokens": 14547,
+      "tokens_per_1k_chars": 202.87
+    },
+    {
+      "filename": "3312419_2023__Dr_B_Fulda_v_The_Chancellor_Masters_and_Scholars_of_the_University_of_Cambridge.txt",
+      "chars": 97869,
+      "words": 15980,
+      "lines": 315,
+      "tokens": 19982,
+      "tokens_per_1k_chars": 204.17
+    },
+    {
+      "filename": "3313088_2023__Mr_G_Severi_v_Bridewell_Consulting_Ltd.txt",
+      "chars": 90792,
+      "words": 15203,
+      "lines": 779,
+      "tokens": 19997,
+      "tokens_per_1k_chars": 220.25
+    },
+    {
+      "filename": "3313165_2023__M_Craigie_v_East_Anglia_Home_Improvements_Ltd.txt",
+      "chars": 99293,
+      "words": 16814,
+      "lines": 444,
+      "tokens": 19944,
+      "tokens_per_1k_chars": 200.86
+    },
+    {
+      "filename": "3314998_2022__Mrs_R_Forward_v_Guildowns_Group_Practice.txt",
+      "chars": 97120,
+      "words": 16802,
+      "lines": 454,
+      "tokens": 19990,
+      "tokens_per_1k_chars": 205.83
+    },
+    {
+      "filename": "3315178_2020__Mr_N_Avramov_v_BAM_Construct_UK_Ltd_and_Silver_Blaze_Ltd_Ta_Silver_Blaze_Constru.txt",
+      "chars": 23304,
+      "words": 3887,
+      "lines": 75,
+      "tokens": 4741,
+      "tokens_per_1k_chars": 203.44
+    },
+    {
+      "filename": "3320545_2021__Mrs_D_Edwin_v_Whittington_Health_NHS_Trust.txt",
+      "chars": 3224,
+      "words": 543,
+      "lines": 21,
+      "tokens": 714,
+      "tokens_per_1k_chars": 221.46
+    },
+    {
+      "filename": "3324824_2019__Miss_H_Ballerino_v_The_Racecourse_Association_Ltd.txt",
+      "chars": 95662,
+      "words": 16413,
+      "lines": 556,
+      "tokens": 19980,
+      "tokens_per_1k_chars": 208.86
+    },
+    {
+      "filename": "4100002_2025__Mr_J_I_Lofulo_v_McCurrach_UK_Ltd.txt",
+      "chars": 31304,
+      "words": 5467,
+      "lines": 188,
+      "tokens": 6708,
+      "tokens_per_1k_chars": 214.29
+    },
+    {
+      "filename": "4100373_2025__Ms_A_De_Vere_v_W_H_Malcolm_Ltd_and_Others.txt",
+      "chars": 62247,
+      "words": 10729,
+      "lines": 273,
+      "tokens": 12685,
+      "tokens_per_1k_chars": 203.78
+    },
+    {
+      "filename": "4100709_2025__Mr_P_Sarkar_v_Advice_Direct_Scotland_Ltd.txt",
+      "chars": 32913,
+      "words": 5579,
+      "lines": 215,
+      "tokens": 6914,
+      "tokens_per_1k_chars": 210.07
+    },
+    {
+      "filename": "4101062_2025__Mrs_J_Mitchell_v_Aberdeenshire_Council.txt",
+      "chars": 82767,
+      "words": 13955,
+      "lines": 516,
+      "tokens": 17708,
+      "tokens_per_1k_chars": 213.95
+    },
+    {
+      "filename": "4101153_2025__Ms_A_Reynolds_and_Others_v_Hotelfone_Ltd_in_Liquidation_co_Begbies_Traynor_Ltd_a.txt",
+      "chars": 8639,
+      "words": 1355,
+      "lines": 57,
+      "tokens": 2290,
+      "tokens_per_1k_chars": 265.08
+    },
+    {
+      "filename": "4101308_2025__Mrs_P_Fascia_v_Gordon_MacNeil_Solicitor.txt",
+      "chars": 8506,
+      "words": 1509,
+      "lines": 86,
+      "tokens": 1922,
+      "tokens_per_1k_chars": 225.96
+    },
+    {
+      "filename": "4101433_2025__Mr_B_G_Torriero_v_Harleys_Franchise_Ltd.txt",
+      "chars": 25454,
+      "words": 4302,
+      "lines": 206,
+      "tokens": 5441,
+      "tokens_per_1k_chars": 213.76
+    },
+    {
+      "filename": "4102789_2025__Ms_K_L_Coleman_v_Thermoelectric_Conversion_Systems_Ltd.txt",
+      "chars": 73197,
+      "words": 12220,
+      "lines": 398,
+      "tokens": 14569,
+      "tokens_per_1k_chars": 199.04
+    },
+    {
+      "filename": "4102832_2025__Mr_P_Smith_v_STV_Television_Ltd_and_Others.txt",
+      "chars": 14973,
+      "words": 2555,
+      "lines": 105,
+      "tokens": 3072,
+      "tokens_per_1k_chars": 205.17
+    },
+    {
+      "filename": "4103512_2023__Mr_B_McTague_and_Others_v_The_Scottish_Ministers.txt",
+      "chars": 63100,
+      "words": 10915,
+      "lines": 314,
+      "tokens": 13109,
+      "tokens_per_1k_chars": 207.75
+    },
+    {
+      "filename": "4103968_2024__Mr_M_Lees_v_BP_Exploration_Operating_Company_Ltd.txt",
+      "chars": 10407,
+      "words": 1805,
+      "lines": 92,
+      "tokens": 2389,
+      "tokens_per_1k_chars": 229.56
+    },
+    {
+      "filename": "4104453_2023__Ms_L_Edgar_v_Scottish_Water.txt",
+      "chars": 75283,
+      "words": 12990,
+      "lines": 420,
+      "tokens": 15365,
+      "tokens_per_1k_chars": 204.1
+    },
+    {
+      "filename": "4106680_2024__Mr_D_Buchan_v_S_W_Enviro_Ltd.txt",
+      "chars": 19385,
+      "words": 3268,
+      "lines": 125,
+      "tokens": 3910,
+      "tokens_per_1k_chars": 201.7
+    },
+    {
+      "filename": "4106855_2024__J_Ogundolani_v_Viewpoint_Housing_Association_Ltd.txt",
+      "chars": 20728,
+      "words": 3514,
+      "lines": 141,
+      "tokens": 4367,
+      "tokens_per_1k_chars": 210.68
+    },
+    {
+      "filename": "4107494_2023__Ms_H_Rennie_v_Greater_Glasgow_Health_Board.txt",
+      "chars": 91479,
+      "words": 15136,
+      "lines": 526,
+      "tokens": 19691,
+      "tokens_per_1k_chars": 215.25
+    },
+    {
+      "filename": "6000216_2023__Mr_P_Fitzgerald_v_Bristol_Waste_Company_Ltd.txt",
+      "chars": 22643,
+      "words": 3805,
+      "lines": 122,
+      "tokens": 4907,
+      "tokens_per_1k_chars": 216.71
+    },
+    {
+      "filename": "6000623_2024__Mr_W_J_ORourke_v_Morris_Leslie_Plant_Hire_Ltd.txt",
+      "chars": 98172,
+      "words": 16794,
+      "lines": 689,
+      "tokens": 19950,
+      "tokens_per_1k_chars": 203.21
+    },
+    {
+      "filename": "6002757_2024__Mr_S_Radu_v_London_Borough_of_Hounslow_and_others.txt",
+      "chars": 12874,
+      "words": 2256,
+      "lines": 87,
+      "tokens": 2750,
+      "tokens_per_1k_chars": 213.61
+    },
+    {
+      "filename": "6002768_2023__Mrs_A_F_D_S_Couto_v_Dorset_HealthCare_University_NHS_Foundation_Trust.txt",
+      "chars": 11943,
+      "words": 2021,
+      "lines": 77,
+      "tokens": 2455,
+      "tokens_per_1k_chars": 205.56
+    },
+    {
+      "filename": "6002933_2024__R_Bennett_v_Anderstore_Ltd.txt",
+      "chars": 44732,
+      "words": 7561,
+      "lines": 401,
+      "tokens": 9274,
+      "tokens_per_1k_chars": 207.32
+    },
+    {
+      "filename": "6003069_2024__Mrs_F_Atif_v_Luisa_Spagnoli_UK_Ltd.txt",
+      "chars": 76858,
+      "words": 13073,
+      "lines": 482,
+      "tokens": 16215,
+      "tokens_per_1k_chars": 210.97
+    },
+    {
+      "filename": "6003531_2024__Ms_C_Donnelly_v_NHS_North_East_London_ICB.txt",
+      "chars": 55189,
+      "words": 9258,
+      "lines": 207,
+      "tokens": 11073,
+      "tokens_per_1k_chars": 200.64
+    },
+    {
+      "filename": "6003865_2024__R_Screen_v_Matt_Screen_Pet_Services_Ltd_Ta_Waggy_Walks.txt",
+      "chars": 47586,
+      "words": 8226,
+      "lines": 289,
+      "tokens": 9969,
+      "tokens_per_1k_chars": 209.49
+    },
+    {
+      "filename": "6004085_2024__M_James_v_Royal_Mail_Group_Ltd.txt",
+      "chars": 36112,
+      "words": 5906,
+      "lines": 265,
+      "tokens": 7343,
+      "tokens_per_1k_chars": 203.34
+    },
+    {
+      "filename": "6004544_2025__J_Pank_v_Natterbox_Ltd.txt",
+      "chars": 15133,
+      "words": 2517,
+      "lines": 134,
+      "tokens": 3221,
+      "tokens_per_1k_chars": 212.85
+    },
+    {
+      "filename": "6004789_2024__Ms_K_Rowbottom_v_Syriana_One_Ltd_and_Mr_K_Al_Sabbah.txt",
+      "chars": 42309,
+      "words": 7176,
+      "lines": 315,
+      "tokens": 8981,
+      "tokens_per_1k_chars": 212.27
+    },
+    {
+      "filename": "6004790_2025__Mr_R_Craven_v_Nash_Mechanical_Seal_Services_Ltd.txt",
+      "chars": 17022,
+      "words": 2920,
+      "lines": 24,
+      "tokens": 3552,
+      "tokens_per_1k_chars": 208.67
+    },
+    {
+      "filename": "6004805_2024__Ms_A_Laurie_v_Greater_London_Authority.txt",
+      "chars": 41206,
+      "words": 6876,
+      "lines": 159,
+      "tokens": 8940,
+      "tokens_per_1k_chars": 216.96
+    },
+    {
+      "filename": "6004854_2024__Dr_M_Abdulwhhab_v_The_Princess_Alexandra_Hospital_NHS_Trust.txt",
+      "chars": 77517,
+      "words": 13350,
+      "lines": 467,
+      "tokens": 16175,
+      "tokens_per_1k_chars": 208.66
+    },
+    {
+      "filename": "6005922_2024__Mr_S_Pinto_v_The_Stepstone_Group_UK_Ltd.txt",
+      "chars": 12486,
+      "words": 2101,
+      "lines": 69,
+      "tokens": 2655,
+      "tokens_per_1k_chars": 212.64
+    },
+    {
+      "filename": "6006601_2024__Mr_J_Baker_v_Jaguar_Land_Rover_Ltd.txt",
+      "chars": 30770,
+      "words": 5068,
+      "lines": 156,
+      "tokens": 6400,
+      "tokens_per_1k_chars": 207.99
+    },
+    {
+      "filename": "6006801_2024__Mr_B_Lowe_v_Openreach_Ltd.txt",
+      "chars": 19873,
+      "words": 3289,
+      "lines": 149,
+      "tokens": 4238,
+      "tokens_per_1k_chars": 213.25
+    },
+    {
+      "filename": "6006861_2025__M_Newell_v_Solicitors_Regulation_Authority_Ltd.txt",
+      "chars": 18841,
+      "words": 3152,
+      "lines": 105,
+      "tokens": 3961,
+      "tokens_per_1k_chars": 210.23
+    },
+    {
+      "filename": "6007179_2025__Mr_F_Scattino_v_Griffin_Catering_Services_Ltd_and_Fuller_Smith_and_Turner_plc.txt",
+      "chars": 16088,
+      "words": 2772,
+      "lines": 151,
+      "tokens": 3711,
+      "tokens_per_1k_chars": 230.67
+    },
+    {
+      "filename": "6007280_2025__Ms_A_Cooke_v_Somerset_NHS_Foundation_Trust.txt",
+      "chars": 21623,
+      "words": 3557,
+      "lines": 95,
+      "tokens": 4366,
+      "tokens_per_1k_chars": 201.91
+    },
+    {
+      "filename": "6007503_2025__Mr_M_Needham_v_Tyne_North_Training_Ltd.txt",
+      "chars": 19755,
+      "words": 3351,
+      "lines": 79,
+      "tokens": 4037,
+      "tokens_per_1k_chars": 204.35
+    },
+    {
+      "filename": "6007948_2024__Mr_J_Che_v_Plymouth_Hope.txt",
+      "chars": 41445,
+      "words": 7080,
+      "lines": 273,
+      "tokens": 8840,
+      "tokens_per_1k_chars": 213.29
+    },
+    {
+      "filename": "6007949_2024__Mr_R_A_Velasquez_v_Mr_R_S_O_Rosas_and_Chakana_London_Ltd.txt",
+      "chars": 67212,
+      "words": 11752,
+      "lines": 237,
+      "tokens": 15205,
+      "tokens_per_1k_chars": 226.22
+    },
+    {
+      "filename": "6008646_2025__Mr_M_S_Bhogal_v_HM_Revenue_and_Customs.txt",
+      "chars": 16124,
+      "words": 2718,
+      "lines": 117,
+      "tokens": 3486,
+      "tokens_per_1k_chars": 216.2
+    },
+    {
+      "filename": "6009066_2025__Mr_O_Trokhymchuk_v_La_Tartine_London_Ltd.txt",
+      "chars": 17285,
+      "words": 3023,
+      "lines": 136,
+      "tokens": 3742,
+      "tokens_per_1k_chars": 216.49
+    },
+    {
+      "filename": "6009082_2025__Mr_V_Ramaswamy_v_Ernst_Young_Global_Ltd_and_Ernst_Young_LLP.txt",
+      "chars": 15409,
+      "words": 2691,
+      "lines": 84,
+      "tokens": 3183,
+      "tokens_per_1k_chars": 206.57
+    },
+    {
+      "filename": "6009226_2024__R_Ghiotto_v_Hawkwell_House_Hotel_Ltd.txt",
+      "chars": 62406,
+      "words": 10386,
+      "lines": 374,
+      "tokens": 13080,
+      "tokens_per_1k_chars": 209.6
+    },
+    {
+      "filename": "6009382_2024__Mr_M_Ageli_v_Sabtina_Ltd.txt",
+      "chars": 44687,
+      "words": 7560,
+      "lines": 381,
+      "tokens": 9621,
+      "tokens_per_1k_chars": 215.3
+    },
+    {
+      "filename": "6009717_2025__S_William_v_Quality_Life_UK_Care_Services_Ltd.txt",
+      "chars": 66395,
+      "words": 11046,
+      "lines": 448,
+      "tokens": 13862,
+      "tokens_per_1k_chars": 208.78
+    },
+    {
+      "filename": "6010040_2024__A_Wixcey_v_Vanguard_Learning_Trust.txt",
+      "chars": 13712,
+      "words": 2270,
+      "lines": 96,
+      "tokens": 2739,
+      "tokens_per_1k_chars": 199.75
+    },
+    {
+      "filename": "6010058_2024__Mrs_M_Berticsova_v_Infinite_Intermediate_Care_Ltd.txt",
+      "chars": 16348,
+      "words": 2875,
+      "lines": 82,
+      "tokens": 3462,
+      "tokens_per_1k_chars": 211.77
+    },
+    {
+      "filename": "6010070_2025__Mr_N_Coulam_v_The_Chief_Constable_of_Avon_and_Somerset_Constabulary.txt",
+      "chars": 13948,
+      "words": 2353,
+      "lines": 63,
+      "tokens": 3032,
+      "tokens_per_1k_chars": 217.38
+    },
+    {
+      "filename": "6011117_2025__Mr_R_J_Kumar_v_NCG.txt",
+      "chars": 4162,
+      "words": 716,
+      "lines": 53,
+      "tokens": 880,
+      "tokens_per_1k_chars": 211.44
+    },
+    {
+      "filename": "6011201_2024__L_Bland_v_Vine_FX_Ltd.txt",
+      "chars": 12388,
+      "words": 2121,
+      "lines": 88,
+      "tokens": 2591,
+      "tokens_per_1k_chars": 209.15
+    },
+    {
+      "filename": "6011292_2024__Ms_V_Solloway_v_HSBC_Group_Management_Services_Ltd_and_Others.txt",
+      "chars": 59522,
+      "words": 10315,
+      "lines": 377,
+      "tokens": 12986,
+      "tokens_per_1k_chars": 218.17
+    },
+    {
+      "filename": "6012163_2024__Ms_L_Simanaviciene_v_Providing_Care_Ltd_and_Moving_Up_Care_Ltd.txt",
+      "chars": 23600,
+      "words": 4033,
+      "lines": 124,
+      "tokens": 4823,
+      "tokens_per_1k_chars": 204.36
+    },
+    {
+      "filename": "6012236_2025__Mr_M_Box_v_Hembury_Fort_House_and_Ms_AO_Taylor.txt",
+      "chars": 10857,
+      "words": 1826,
+      "lines": 63,
+      "tokens": 2407,
+      "tokens_per_1k_chars": 221.7
+    },
+    {
+      "filename": "6012544_2024__Mr_G_Quinlan_v_Millbrook_Healthcare_Ltd.txt",
+      "chars": 39664,
+      "words": 6627,
+      "lines": 41,
+      "tokens": 7847,
+      "tokens_per_1k_chars": 197.84
+    },
+    {
+      "filename": "6012642_2024__Mr_M_Orr_v_Marks_and_Spencer_plc.txt",
+      "chars": 66862,
+      "words": 11236,
+      "lines": 515,
+      "tokens": 14478,
+      "tokens_per_1k_chars": 216.54
+    },
+    {
+      "filename": "6013329_2024__T_J_Brown_v_Oxford_Summer_Courses_Ltd.txt",
+      "chars": 9118,
+      "words": 1586,
+      "lines": 57,
+      "tokens": 2073,
+      "tokens_per_1k_chars": 227.35
+    },
+    {
+      "filename": "6013654_2024__Ms_M_Ramage_v_Perduco_Law_Ltd_and_Lawyer_UP_Group_UK_LLP.txt",
+      "chars": 20006,
+      "words": 3331,
+      "lines": 141,
+      "tokens": 4128,
+      "tokens_per_1k_chars": 206.34
+    },
+    {
+      "filename": "6014760_2024__Mrs_O_Mulholland_v_London_Technology_Club_Ltd_and_K_Sidorov.txt",
+      "chars": 42083,
+      "words": 7151,
+      "lines": 193,
+      "tokens": 8896,
+      "tokens_per_1k_chars": 211.39
+    },
+    {
+      "filename": "6016204_2024__Mr_N_Ferris_v_City_of_York_Council.txt",
+      "chars": 46355,
+      "words": 7904,
+      "lines": 356,
+      "tokens": 9599,
+      "tokens_per_1k_chars": 207.08
+    },
+    {
+      "filename": "6016444_2024__Mrs_D_Old_v_Davies_Group_Ltd.txt",
+      "chars": 8864,
+      "words": 1514,
+      "lines": 55,
+      "tokens": 1759,
+      "tokens_per_1k_chars": 198.44
+    },
+    {
+      "filename": "6016447_2024__Mrs_M_Muti_v_Ocean_Fish_Retail_Ltd.txt",
+      "chars": 47347,
+      "words": 8082,
+      "lines": 359,
+      "tokens": 10249,
+      "tokens_per_1k_chars": 216.47
+    },
+    {
+      "filename": "6016850_2024__Mrs_A_Dickson_Lewis_v_Milton_Keynes_City_Council.txt",
+      "chars": 93976,
+      "words": 15481,
+      "lines": 684,
+      "tokens": 19548,
+      "tokens_per_1k_chars": 208.01
+    },
+    {
+      "filename": "6017399_2025__T_Duskun_v_Haf\u0131zlar_G\u0131da_London_Ltd.txt",
+      "chars": 19185,
+      "words": 3381,
+      "lines": 100,
+      "tokens": 3890,
+      "tokens_per_1k_chars": 202.76
+    },
+    {
+      "filename": "6017991_2024__Ms_L_Waller_v_Swann_Engineering_Group_Ltd.txt",
+      "chars": 80820,
+      "words": 13886,
+      "lines": 393,
+      "tokens": 17117,
+      "tokens_per_1k_chars": 211.79
+    },
+    {
+      "filename": "6018167_2025__Mr_J_Greengrass_v_ONQOR_Ltd.txt",
+      "chars": 12786,
+      "words": 2220,
+      "lines": 129,
+      "tokens": 2859,
+      "tokens_per_1k_chars": 223.6
+    },
+    {
+      "filename": "6018181_2024__Mr_M_Hehir_v_Metroline_Ltd.txt",
+      "chars": 38051,
+      "words": 6394,
+      "lines": 199,
+      "tokens": 7897,
+      "tokens_per_1k_chars": 207.54
+    },
+    {
+      "filename": "6018505_2024__Mr_P_Stevens_v_Well_Known_Brands_Ltd.txt",
+      "chars": 29768,
+      "words": 5008,
+      "lines": 309,
+      "tokens": 6395,
+      "tokens_per_1k_chars": 214.83
+    },
+    {
+      "filename": "6018751_2024__Mr_S_Asher_v_1PhysioUK_Ltd.txt",
+      "chars": 77051,
+      "words": 13234,
+      "lines": 626,
+      "tokens": 17301,
+      "tokens_per_1k_chars": 224.54
+    },
+    {
+      "filename": "6019039_2024__Mr_A_Aden_v_St_Georges_University_Hospitals_NHS_Foundation_Trust.txt",
+      "chars": 91330,
+      "words": 15332,
+      "lines": 303,
+      "tokens": 19060,
+      "tokens_per_1k_chars": 208.69
+    },
+    {
+      "filename": "6019201_2024__Mr_S_Ahmed_v_London_Chamber_of_Commerce_and_Industry.txt",
+      "chars": 38926,
+      "words": 6413,
+      "lines": 205,
+      "tokens": 7750,
+      "tokens_per_1k_chars": 199.1
+    },
+    {
+      "filename": "6019238_2024__Mrs_L_Paisley_v_Blue_Tiger_Coffee_Ltd.txt",
+      "chars": 92921,
+      "words": 15870,
+      "lines": 709,
+      "tokens": 19968,
+      "tokens_per_1k_chars": 214.89
+    },
+    {
+      "filename": "6019387_2025__Ms_S_Guyan_v_eXPD8_Ltd.txt",
+      "chars": 2842,
+      "words": 479,
+      "lines": 48,
+      "tokens": 734,
+      "tokens_per_1k_chars": 258.27
+    },
+    {
+      "filename": "6019763_2025__Miss_A_Hunter_v_Ethos_Academy_Trust.txt",
+      "chars": 3607,
+      "words": 621,
+      "lines": 57,
+      "tokens": 786,
+      "tokens_per_1k_chars": 217.91
+    },
+    {
+      "filename": "6019968_2025__Mr_P_Shuttleworth_v_Cabinet_Office_and_Civil_Service_Commission.txt",
+      "chars": 68691,
+      "words": 11754,
+      "lines": 510,
+      "tokens": 15330,
+      "tokens_per_1k_chars": 223.17
+    },
+    {
+      "filename": "6020212_2025__Mr_B_Gohler_v_Barclays_Bank_plc.txt",
+      "chars": 29829,
+      "words": 5114,
+      "lines": 182,
+      "tokens": 6419,
+      "tokens_per_1k_chars": 215.19
+    },
+    {
+      "filename": "6020421_2024__L_Mejer_v_Windowflowers_Ltd.txt",
+      "chars": 5218,
+      "words": 897,
+      "lines": 38,
+      "tokens": 1105,
+      "tokens_per_1k_chars": 211.77
+    },
+    {
+      "filename": "6020737_2024__Ms_T_Fairclough_v_St_Helens_Metropolitan_Borough_Council.txt",
+      "chars": 19640,
+      "words": 3250,
+      "lines": 112,
+      "tokens": 4035,
+      "tokens_per_1k_chars": 205.45
+    },
+    {
+      "filename": "6020803_2024__Mr_D_Nwankwo_v_T_Murton.txt",
+      "chars": 3307,
+      "words": 572,
+      "lines": 17,
+      "tokens": 719,
+      "tokens_per_1k_chars": 217.42
+    },
+    {
+      "filename": "6021232_2025__Mrs_T_Banfield_v_City_of_Bradford_Metropolitan_District_Council.txt",
+      "chars": 95579,
+      "words": 16083,
+      "lines": 414,
+      "tokens": 19968,
+      "tokens_per_1k_chars": 208.92
+    },
+    {
+      "filename": "6022090_2024__P_Pasatas_v_Grecian_Artisan_Wine_Co_Ltd.txt",
+      "chars": 18404,
+      "words": 3084,
+      "lines": 194,
+      "tokens": 3991,
+      "tokens_per_1k_chars": 216.86
+    },
+    {
+      "filename": "6022729_2024__H_Miah_v_Morgan_Stanley_UK_Ltd_and_Others.txt",
+      "chars": 20815,
+      "words": 3468,
+      "lines": 141,
+      "tokens": 4120,
+      "tokens_per_1k_chars": 197.93
+    },
+    {
+      "filename": "6023602_2025__Mr_L_Abdimohamed_v_Avantao_Technologies_Ltd.txt",
+      "chars": 4276,
+      "words": 694,
+      "lines": 39,
+      "tokens": 901,
+      "tokens_per_1k_chars": 210.71
+    },
+    {
+      "filename": "6025831_2025__Ms_K_Carlsen_v_Architecture_North.txt",
+      "chars": 27009,
+      "words": 4564,
+      "lines": 180,
+      "tokens": 5612,
+      "tokens_per_1k_chars": 207.78
+    },
+    {
+      "filename": "6027426_2025__J_Anderton_v_Our_Taap_UK_Ltd.txt",
+      "chars": 41009,
+      "words": 6805,
+      "lines": 206,
+      "tokens": 8738,
+      "tokens_per_1k_chars": 213.08
+    },
+    {
+      "filename": "6027540_2025__Mr_C_Mighton_v_St_Mungo_Community_Housing_Association.txt",
+      "chars": 16254,
+      "words": 2829,
+      "lines": 104,
+      "tokens": 3587,
+      "tokens_per_1k_chars": 220.68
+    },
+    {
+      "filename": "6027626_2025__Mr_S_Nertey_v_Angel_Approved_Ltd.txt",
+      "chars": 4359,
+      "words": 755,
+      "lines": 36,
+      "tokens": 900,
+      "tokens_per_1k_chars": 206.47
+    },
+    {
+      "filename": "6034488_2025__Mr_P_Jones_v_St_Antonys_College_in_the_University_of_Oxford.txt",
+      "chars": 16058,
+      "words": 2710,
+      "lines": 117,
+      "tokens": 3397,
+      "tokens_per_1k_chars": 211.55
+    },
+    {
+      "filename": "6038570_2025__Mrs_M_Cole_v_MM_Flowers_Ltd.txt",
+      "chars": 12697,
+      "words": 2111,
+      "lines": 125,
+      "tokens": 2661,
+      "tokens_per_1k_chars": 209.58
+    },
+    {
+      "filename": "6039320_2025__P_Sullivan_v_Capita_plc.txt",
+      "chars": 27605,
+      "words": 4744,
+      "lines": 193,
+      "tokens": 5911,
+      "tokens_per_1k_chars": 214.13
+    },
+    {
+      "filename": "8000254_2025__Ms_M_Clark_v_I_C_T_S_UK_Ltd.txt",
+      "chars": 83421,
+      "words": 14066,
+      "lines": 482,
+      "tokens": 17227,
+      "tokens_per_1k_chars": 206.51
+    },
+    {
+      "filename": "8000259_2025__Dr_A_Nassar_v_National_Waiting_Times_Centre_Board.txt",
+      "chars": 8064,
+      "words": 1402,
+      "lines": 57,
+      "tokens": 1703,
+      "tokens_per_1k_chars": 211.19
+    },
+    {
+      "filename": "8000543_2025__Mr_R_P_Gill_v_Group_Employment_Services_Ltd.txt",
+      "chars": 23148,
+      "words": 3966,
+      "lines": 170,
+      "tokens": 4925,
+      "tokens_per_1k_chars": 212.76
+    },
+    {
+      "filename": "8000592_2025__Mrs_G_McDonald_Allan_v_Student_Loans_Company_Ltd.txt",
+      "chars": 30095,
+      "words": 5076,
+      "lines": 165,
+      "tokens": 6102,
+      "tokens_per_1k_chars": 202.76
+    },
+    {
+      "filename": "8000628_2025__Ms_K_Taylor_v_Grampian_Health_Board_and_P_Reid.txt",
+      "chars": 21531,
+      "words": 3645,
+      "lines": 110,
+      "tokens": 4259,
+      "tokens_per_1k_chars": 197.81
+    },
+    {
+      "filename": "8000677_2024__X_v_University_of_Manchester_and_Universities_Superannuation_Scheme_Ltd.txt",
+      "chars": 26354,
+      "words": 4369,
+      "lines": 107,
+      "tokens": 5235,
+      "tokens_per_1k_chars": 198.64
+    },
+    {
+      "filename": "8000679_2025__Ms_L_Borrini_v_The_National_Trust_for_Scotland.txt",
+      "chars": 43037,
+      "words": 7290,
+      "lines": 464,
+      "tokens": 9228,
+      "tokens_per_1k_chars": 214.42
+    },
+    {
+      "filename": "8000695_2025__Dr_J_Koechlin_v_Global_Voices_Ltd.txt",
+      "chars": 48606,
+      "words": 8204,
+      "lines": 291,
+      "tokens": 10165,
+      "tokens_per_1k_chars": 209.13
+    },
+    {
+      "filename": "8000708_2025__Ms_F_Z_Ouchrif_v_Aspire_Housing_and_Personal_Development.txt",
+      "chars": 89393,
+      "words": 15219,
+      "lines": 494,
+      "tokens": 18500,
+      "tokens_per_1k_chars": 206.95
+    },
+    {
+      "filename": "8000737_2025__Miss_M_Shields_v_Commissioners_for_HM_Revenue_and_Customs.txt",
+      "chars": 40104,
+      "words": 6792,
+      "lines": 241,
+      "tokens": 8184,
+      "tokens_per_1k_chars": 204.07
+    },
+    {
+      "filename": "8000820_2025__Mr_A_Onojah_v_3D_Leisure_Ltd.txt",
+      "chars": 20473,
+      "words": 3531,
+      "lines": 134,
+      "tokens": 4350,
+      "tokens_per_1k_chars": 212.47
+    },
+    {
+      "filename": "8000875_2025__Ms_A_L_McVey_v_Sky_UK_Ltd.txt",
+      "chars": 90451,
+      "words": 14915,
+      "lines": 713,
+      "tokens": 19043,
+      "tokens_per_1k_chars": 210.53
+    },
+    {
+      "filename": "8000892_2025__Mr_A_Harbhajanka_v_Shell_UK_Ltd.txt",
+      "chars": 80328,
+      "words": 13300,
+      "lines": 485,
+      "tokens": 16703,
+      "tokens_per_1k_chars": 207.93
+    },
+    {
+      "filename": "8000921_2024__Mr_D_Sookur_v_Highland_Coaches_Ltd_and_N_M_Maran.txt",
+      "chars": 90725,
+      "words": 15700,
+      "lines": 833,
+      "tokens": 19966,
+      "tokens_per_1k_chars": 220.07
+    },
+    {
+      "filename": "8000945_2024__Mrs_N_Puri_v_Scottish_Police_Authority.txt",
+      "chars": 92657,
+      "words": 15796,
+      "lines": 734,
+      "tokens": 19962,
+      "tokens_per_1k_chars": 215.44
+    },
+    {
+      "filename": "8001010_2025__Mr_D_Morgan_v_Royal_Mail_Group_Ltd.txt",
+      "chars": 17023,
+      "words": 2900,
+      "lines": 154,
+      "tokens": 3581,
+      "tokens_per_1k_chars": 210.36
+    },
+    {
+      "filename": "8001082_2025__A_Zaloga_v_Excellerate_Services_UK_Ltd.txt",
+      "chars": 8117,
+      "words": 1416,
+      "lines": 54,
+      "tokens": 1672,
+      "tokens_per_1k_chars": 205.99
+    },
+    {
+      "filename": "8001092_2025__Mr_O_Nnamuchi_v_UNISON_Scotland.txt",
+      "chars": 43304,
+      "words": 7123,
+      "lines": 344,
+      "tokens": 9239,
+      "tokens_per_1k_chars": 213.35
+    },
+    {
+      "filename": "8001100_2024__Ms_C_Campbell_v_Lothian_Health_Board.txt",
+      "chars": 93697,
+      "words": 15801,
+      "lines": 439,
+      "tokens": 19948,
+      "tokens_per_1k_chars": 212.9
+    },
+    {
+      "filename": "8001155_2025__Ms_M_Mackinnon_v_Voneus_Broadband_Ltd.txt",
+      "chars": 19852,
+      "words": 3123,
+      "lines": 150,
+      "tokens": 3934,
+      "tokens_per_1k_chars": 198.17
+    },
+    {
+      "filename": "8001167_2025__Miss_U_Polec_v_Pars_Foods_Ltd.txt",
+      "chars": 6247,
+      "words": 1027,
+      "lines": 22,
+      "tokens": 1253,
+      "tokens_per_1k_chars": 200.58
+    },
+    {
+      "filename": "8001233_2025__Ms_F_Grundy_v_The_Ramsay_Arms_Ltd.txt",
+      "chars": 11916,
+      "words": 1989,
+      "lines": 104,
+      "tokens": 2646,
+      "tokens_per_1k_chars": 222.05
+    },
+    {
+      "filename": "8001235_2025__Ms_L_Anderson_v_Fueltone_Ltd_In_Liquidation.txt",
+      "chars": 18170,
+      "words": 3128,
+      "lines": 157,
+      "tokens": 3984,
+      "tokens_per_1k_chars": 219.26
+    },
+    {
+      "filename": "8001246_2024__Mr_A_Chandio_v_Grampian_Health_Board.txt",
+      "chars": 54054,
+      "words": 8796,
+      "lines": 514,
+      "tokens": 11595,
+      "tokens_per_1k_chars": 214.51
+    },
+    {
+      "filename": "8001257_2025__Mr_G_Mitchell_v_The_Fountain_Bar_Ltd.txt",
+      "chars": 11268,
+      "words": 1962,
+      "lines": 84,
+      "tokens": 2507,
+      "tokens_per_1k_chars": 222.49
+    },
+    {
+      "filename": "8001308_2025__Mr_K_Khokhar_and_Ms_L_Miller_v_British_Telecommunications_plc.txt",
+      "chars": 76758,
+      "words": 13138,
+      "lines": 368,
+      "tokens": 15727,
+      "tokens_per_1k_chars": 204.89
+    },
+    {
+      "filename": "8001355_2025__Mrs_J_Wallace_v_Whisky_Merchants_Trading_Ltd_in_Administration.txt",
+      "chars": 4642,
+      "words": 748,
+      "lines": 28,
+      "tokens": 996,
+      "tokens_per_1k_chars": 214.56
+    },
+    {
+      "filename": "8001356_2025__Ms_L_A_Murning_v_Only_Scranz_Ltd.txt",
+      "chars": 15216,
+      "words": 2551,
+      "lines": 120,
+      "tokens": 3253,
+      "tokens_per_1k_chars": 213.79
+    },
+    {
+      "filename": "8001363_2025__Mr_L_Black_v_Caledonian_Automatic_Transmissions_Ltd.txt",
+      "chars": 34191,
+      "words": 5814,
+      "lines": 250,
+      "tokens": 7313,
+      "tokens_per_1k_chars": 213.89
+    },
+    {
+      "filename": "8001393_2025__Mr_A_Jokiel_v_STEF_Langdons_Ltd.txt",
+      "chars": 25035,
+      "words": 4259,
+      "lines": 185,
+      "tokens": 5437,
+      "tokens_per_1k_chars": 217.18
+    },
+    {
+      "filename": "8001509_2025__Mr_J_Caird_v_British_Telecommunications_plc.txt",
+      "chars": 43110,
+      "words": 7106,
+      "lines": 262,
+      "tokens": 8799,
+      "tokens_per_1k_chars": 204.11
+    },
+    {
+      "filename": "8001603_2025__Mr_M_Peat_v_Valley_Group_Ltd.txt",
+      "chars": 27714,
+      "words": 4722,
+      "lines": 200,
+      "tokens": 5726,
+      "tokens_per_1k_chars": 206.61
+    },
+    {
+      "filename": "8001651_2025__Mrs_S_Whyte_v_AGI_Global_Logistics_GLA_Ltd.txt",
+      "chars": 25750,
+      "words": 4433,
+      "lines": 170,
+      "tokens": 5634,
+      "tokens_per_1k_chars": 218.8
+    },
+    {
+      "filename": "8001652_2024__Mr_R_Scott_v_Tillicoultry_Quarries_Ltd.txt",
+      "chars": 82073,
+      "words": 13791,
+      "lines": 441,
+      "tokens": 17608,
+      "tokens_per_1k_chars": 214.54
+    },
+    {
+      "filename": "8001687_2025__Mr_C_Kane_v_City_of_Edinburgh_Council.txt",
+      "chars": 26948,
+      "words": 4517,
+      "lines": 151,
+      "tokens": 5664,
+      "tokens_per_1k_chars": 210.18
+    },
+    {
+      "filename": "8001755_2024__Ms_L_Maynard_v_M_Group_Services_Ltd.txt",
+      "chars": 89133,
+      "words": 14957,
+      "lines": 481,
+      "tokens": 19069,
+      "tokens_per_1k_chars": 213.94
+    },
+    {
+      "filename": "8001897_2025__Mr_P_Jessup_v_Huseyin_Kulhas_Ta_Caf\u00e9_Edinburgh.txt",
+      "chars": 12133,
+      "words": 2061,
+      "lines": 86,
+      "tokens": 2665,
+      "tokens_per_1k_chars": 219.65
+    },
+    {
+      "filename": "8001918_2024__Mrs_P_Sutherland_v_G_L_Enterprises_and_Food_Creations_Bathgate_Ltd.txt",
+      "chars": 43920,
+      "words": 7710,
+      "lines": 327,
+      "tokens": 9580,
+      "tokens_per_1k_chars": 218.12
+    },
+    {
+      "filename": "8002000_2024__Miss_Y_Makarova_v_Intervision_Gaming_UK_Ltd_Ta_The_Razz.txt",
+      "chars": 21147,
+      "words": 3732,
+      "lines": 129,
+      "tokens": 4541,
+      "tokens_per_1k_chars": 214.73
+    },
+    {
+      "filename": "8002014_2025__Mr_C_Vernon_v_Kelvin_Controls_Engineers_Ltd.txt",
+      "chars": 23056,
+      "words": 3845,
+      "lines": 166,
+      "tokens": 4665,
+      "tokens_per_1k_chars": 202.33
+    },
+    {
+      "filename": "8002160_2024__Mr_D_McCue_v_Coldside_Medical_Practice.txt",
+      "chars": 54426,
+      "words": 9081,
+      "lines": 370,
+      "tokens": 11161,
+      "tokens_per_1k_chars": 205.07
+    },
+    {
+      "filename": "8002168_2024__Mr_J_Nevin_and_Others_v_INEOS_Infrastructure_Grangemouth_Ltd.txt",
+      "chars": 94244,
+      "words": 16440,
+      "lines": 811,
+      "tokens": 19982,
+      "tokens_per_1k_chars": 212.02
+    },
+    {
+      "filename": "8002332_2025__Mr_F_Allan_v_Central_Taxis_North_East_Ltd.txt",
+      "chars": 11829,
+      "words": 2092,
+      "lines": 100,
+      "tokens": 2529,
+      "tokens_per_1k_chars": 213.8
+    },
+    {
+      "filename": "8002952_2025__Mr_J_McCall_v_Glasgow_Prestwick_Airport_Ltd.txt",
+      "chars": 39933,
+      "words": 6895,
+      "lines": 241,
+      "tokens": 8409,
+      "tokens_per_1k_chars": 210.58
+    }
+  ]
+}
