@@ -8,6 +8,7 @@ import re
 import json
 
 import pdfplumber
+from transformers import AutoTokenizer
 
 
 # indicate the start of actual judgment content (must be mostly uppercase)
@@ -413,7 +414,15 @@ def score_document_quality(text: str) -> dict:
     }
 
 
-def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose: bool = True) -> None:
+def convert_pdf(
+    pdf_path: Path,
+    out_path: Path,
+    overwrite: bool = False,
+    verbose: bool = True,
+    tokenizer=None,
+    min_tokens: int = 750,
+    dropped_dir=None,
+) -> None:
     if out_path.exists() and not overwrite:
         if verbose:
             print(f"  [skip] {out_path.name} already exists")
@@ -467,30 +476,31 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
         
         # 8. Quality scoring
         quality = score_document_quality(cleaned)
-        
-        # Count words (not characters)
+
+        # tokenise for length filtering
         word_count = len(cleaned.split())
-        
-        # Filter: reject if word_count < 500 OR no paragraph numbering
-        if word_count < 500:
-            if out_path.exists() and overwrite:
-                try:
-                    out_path.unlink()
-                except Exception as e:
-                    print(
-                        f"  [warn] could not remove existing output for short doc {out_path.name}: {e}",
-                        file=sys.stderr,
-                    )
+        if tokenizer is not None:
+            token_count = len(tokenizer.encode(cleaned, add_special_tokens=False))
+        else:
+            # fallback: rough estimate (~0.75 tokens per word)
+            token_count = int(word_count * 0.75)
+
+        # filter: reject if below minimum token count
+        if token_count < min_tokens:
+            if dropped_dir is not None:
+                _write_dropped(dropped_dir, pdf_path.stem, cleaned, f"short_{token_count}tok")
             print(
-                f"  [skip] {pdf_path.name} too short ({word_count} words < 500)",
+                f"  [drop] {pdf_path.name} too short ({token_count} tokens < {min_tokens})",
                 file=sys.stderr,
             )
             return
-        
-        # Quality filter: must have paragraph numbering
+
+        # quality filter: must have paragraph numbering
         if not quality['keep']:
+            if dropped_dir is not None:
+                _write_dropped(dropped_dir, pdf_path.stem, cleaned, "no_para_numbering")
             print(
-                f"  [skip] {pdf_path.name} no paragraph numbering (quality score: {quality['score']})",
+                f"  [drop] {pdf_path.name} no paragraph numbering (score={quality['score']})",
                 file=sys.stderr,
             )
             return
@@ -515,6 +525,7 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
                     "final_safety_trim_pattern": final_pattern,
                     "final_safety_trim_cutoff": final_cutoff,
                     "word_count": word_count,
+                    "token_count": token_count,
                     "has_paragraph_numbering": quality["has_paragraph_numbering"],
                     "quality_score": quality["score"],
                 },
@@ -525,11 +536,17 @@ def convert_pdf(pdf_path: Path, out_path: Path, overwrite: bool = False, verbose
             f.write(cleaned)
 
         if verbose:
-            quality_info = f"score={quality['score']}"
-            print(f"  [ok] wrote {out_path.name} ({word_count} words, {quality_info})")
+            print(f"  [ok] {out_path.name} ({token_count} tok, {word_count} words, score={quality['score']})")
 
     except Exception as e:
         print(f"  [error] failed on {pdf_path.name}: {e}", file=sys.stderr)
+
+
+def _write_dropped(dropped_dir: Path, stem: str, text: str, reason: str) -> None:
+    """write a rejected file into the dropped directory with reason prefix."""
+    dropped_dir.mkdir(parents=True, exist_ok=True)
+    fname = f"{reason}__{stem}.txt"
+    (dropped_dir / fname).write_text(text, encoding="utf-8")
 
 
 def main():
@@ -543,6 +560,17 @@ def main():
         "--out-dir",
         default="../data/domain_corpus/raw_txt",
         help="directory to write cleaned .txt files",
+    )
+    parser.add_argument(
+        "--dropped-dir",
+        default="../data/domain_corpus/raw_txt_dropped",
+        help="directory for rejected files (tagged with rejection reason)",
+    )
+    parser.add_argument(
+        "--min-tokens",
+        type=int,
+        default=750,
+        help="minimum token count to keep a document (default: 750)",
     )
     parser.add_argument(
         "--max-files",
@@ -564,6 +592,7 @@ def main():
 
     pdf_dir = Path(args.pdf_dir)
     out_dir = Path(args.out_dir)
+    dropped_dir = Path(args.dropped_dir)
 
     if not pdf_dir.exists():
         print(f"[fatal] pdf-dir {pdf_dir} does not exist", file=sys.stderr)
@@ -575,10 +604,23 @@ def main():
 
     print(f"[info] found {len(pdf_paths)} pdf files under {pdf_dir}")
 
+    # load tokenizer once for token-based length filtering
+    print("[info] loading LLaMA-3 tokenizer for length filtering...")
+    tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B-Instruct")
+    print(f"[info] tokenizer ready (vocab {len(tokenizer):,})")
+
     for i, pdf_path in enumerate(pdf_paths, start=1):
         out_path = out_dir / (pdf_path.stem + ".txt")
         print(f"[{i}/{len(pdf_paths)}] {pdf_path.name}")
-        convert_pdf(pdf_path, out_path, overwrite=args.overwrite, verbose=args.verbose)
+        convert_pdf(
+            pdf_path,
+            out_path,
+            overwrite=args.overwrite,
+            verbose=args.verbose,
+            tokenizer=tokenizer,
+            min_tokens=args.min_tokens,
+            dropped_dir=dropped_dir,
+        )
 
 
 if __name__ == "__main__":
