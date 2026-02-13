@@ -523,3 +523,152 @@ once pilot stats are finalised:
 - spot-check a small stratified sample of kept vs dropped decisions
 - consider switching minimum-length filter from **words → tokens**
 - freeze preprocessing scripts and corpus snapshot before training
+
+---
+
+## 13/02/2026
+
+### layer a: pilot tokenisation and corpus sizing
+
+- switched minimum-length filter in `tribunal-pdf_to_txt.py` from **word count (≥500)** to **LLaMA-3 token count (≥750)**
+  - aligns quality filtering with the actual training budget unit
+  - tokenizer loaded once at startup and passed through to `convert_pdf()`
+- added `--dropped-dir` flag to `tribunal-pdf_to_txt.py`
+  - rejected files written to `data/domain_corpus/raw_txt_dropped/` with reason-prefixed filenames (e.g. `short_158tok__case_name.txt`)
+  - enables spot-checking of borderline rejections without re-running the pipeline
+- created `preprocess/tokenise_pilot.py`
+  - tokenises post-reflow `.txt` files using LLaMA-3 tokenizer
+  - computes summary statistics (mean, median, std, quartiles, IQR)
+  - detects outliers via IQR method
+  - outputs budget estimate based on median tokens/decision and target corpus size
+  - writes `pilot_token_stats.json` and `pilot_token_stats.csv`
+
+### initial pilot (150 PDFs)
+
+- ran pipeline end-to-end on 150 existing PDFs
+- survival rate: 40/150 (26.7%), all rejections were short-token docs
+- zero `no_para_numbering` rejections — paragraph numbering filter is not the bottleneck
+- cleaning stage trigger rates stable and sensible:
+  - chop front matter: 100%
+  - final safety trim: 92%
+  - header/footer artifact removal: mean 33 lines/doc
+- pilot token stats (40 files):
+  - median: 7,789 | mean: 11,073 | std: 11,369
+  - min: 734 | max: 56,444
+  - 3 high outliers (36k–56k tokens)
+
+### scaled run (930 PDFs)
+
+- scraped 930 tribunal PDFs and ran full pipeline
+- survival rate: 271/930 (29.1%) — consistent with pilot
+- all 678 rejections were `short_*tok` (0 paragraph-numbering drops)
+- drop boundary clean: highest dropped file 720 tokens, lowest kept 690
+
+#### post-reflow token distribution (271 files, uncapped)
+
+| metric | value |
+|---|---|
+| median | 6,925 |
+| mean | 11,460 |
+| std | 12,743 |
+| Q1 | 3,567 |
+| Q3 | 15,546 |
+| IQR | 11,980 |
+| min | 690 |
+| max | 102,020 |
+| total | 3,105,775 |
+
+- 17 high outliers detected (>33k tokens each)
+- right-skewed distribution: mean >> median, consistent with pilot
+
+#### top-document concentration
+
+| group | tokens | % of total |
+|---|---|---|
+| top 5 | ~358k | ~11.5% |
+| top 10 | ~540k | ~17.4% |
+| all 17 outliers | ~783k | ~25.2% |
+| bottom 50% (136 files) | ~600k | ~19% |
+
+5 mega-decisions hold more tokens than the entire bottom half of the corpus.
+
+#### pipeline health at scale
+
+| stage | trigger rate |
+|---|---|
+| chop front matter | 98% |
+| strip trailing admin | 24% |
+| truncate admin tail | 8% |
+| final safety trim | 70% |
+| header/footer removal | mean 28 lines, max 252 |
+| quality score | mean 56, median 53 |
+| reflow compression | 0.32 (consistent with pilot 0.33) |
+
+- `tokens_per_1k_chars` stable at ~210 across all files — extraction quality is uniform
+
+### per-document token cap decision
+
+- with 17 outliers holding 25% of total tokens from 6% of documents, uncapped training would allow a handful of mega-decisions to disproportionately dominate gradient updates
+- decided to cap at **20,000 tokens per document**, truncating at the nearest preceding paragraph boundary (`\n\n`)
+- simple front-truncation (keep start, cut tail) is appropriate because:
+  - front matter has already been chopped — text starts at JUDGMENT/REASONS heading
+  - legal reasoning builds forward; later paragraphs reference earlier ones, not vice versa
+  - only 17/271 documents affected — not enough to introduce meaningful front-bias
+  - for DAPT, the model learns domain vocabulary and syntax patterns, not argument structure
+- rejected alternatives:
+  - multi-span window concatenation: creates synthetic discontinuities within training samples
+  - start/middle/end segment selection: introduces dangling cross-references and adds complexity for negligible benefit on 6% of documents
+- implemented `--max-tokens` flag in `reflow_tribunal_text.py`
+  - truncation applied after reflow to preserve paragraph structure
+  - snaps to last `\n\n` before token limit (falls back to last `\n` if paragraph break would lose >50%)
+  - logs `truncated`, `original_tokens`, `kept_tokens` per file in reflow JSONL
+
+### pre-cap metrics preserved
+
+- uncapped metrics saved to `logs/pre-cap/` for dissertation justification:
+  - `pilot_token_stats.json`, `pilot_token_stats.csv`
+  - `pdf_to_txt_metrics.jsonl`, `reflow_metrics.jsonl`
+- post-cap metrics (to be generated) serve as the actual corpus specification
+
+### post-cap distribution (271 files, max 20k tokens)
+
+- re-ran `reflow_tribunal_text.py --max-tokens 20000` on all 271 files, then re-tokenised
+- post-cap metrics saved to `logs/post-cap/`
+
+| metric | pre-cap | post-cap | change |
+|---|---|---|---|
+| median | 6,925 | 6,925 | — |
+| mean | 11,460 | 9,215 | −19.6% |
+| std | 12,743 | 6,738 | −47.1% |
+| max | 102,020 | 19,997 | −80.4% |
+| total | 3,105,775 | 2,497,335 | −19.6% |
+| outliers | 17 | 0 | eliminated |
+
+- cap only affected 17 documents; median and quartiles unchanged
+- distribution now well-behaved: mean ≈ median, no extreme concentration
+
+### corpus selection
+
+- 2.5M tokens would dilute Layer B weighting (~200k tokens) and reduce sensitivity for the LoRA vs QLoRA comparison
+- created `preprocess/select_corpus.py`:
+  - deterministic shuffle (seed=42) of all 271 post-cap Layer A files
+  - greedy selection to fill 1.8M total token budget (5k tolerance)
+  - backfill pass for skipped docs if under budget
+- ran selection: **170 Layer A docs selected** from 271 candidates
+
+#### final corpus composition
+
+| layer | files | tokens | % of total |
+|---|---|---|---|
+| layer A (tribunal decisions) | 170 | 1,602,190 | 88.9% |
+| layer B (ACAS/codes/doctrine/govuk) | 60 | 200,237 | 11.1% |
+| **total** | **230** | **1,802,427** | — |
+
+- overshoot vs 1.8M target: +2,427 tokens (+0.13%)
+- manifest written to `data/domain_corpus/corpus_manifest.json`
+
+### next steps
+
+- begin training pipeline: tokenise `corpus_final/` into HuggingFace dataset format
+- run first LoRA vs QLoRA comparison experiment
+- write full methdology section
