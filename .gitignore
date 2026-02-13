@@ -3,6 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Domain corpus pipeline artefacts
+data/domain_corpus/pipeline_artefacts/
+data/domain_corpus/layer_b_processed/
+data/domain_corpus/layer_b_raw/
+data/domain_corpus/layer_b_token_stats.*
+data/domain_corpus/layer_b_token_summary.txt
+data/domain_corpus/processed/
+logs/pdf_to_txt_metrics.jsonl
+logs/reflow_metrics.jsonl
+
 # C extensions
 *.so
 
