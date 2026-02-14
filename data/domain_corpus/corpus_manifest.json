@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-02-13T16:27:56.078728+00:00",
-  "git_commit": "a600472",
+  "timestamp": "2026-02-14T17:29:47.243250+00:00",
+  "git_commit": "d2c7370",
   "seed": 42,
   "target_tokens": 1800000,
   "tolerance": 5000,
   "layer_a": {
     "files": 170,
     "tokens": 1602190,
-    "source_dir": "/home/gabes/git/llama-peft-project/data/domain_corpus/raw_txt_reflow",
+    "source_dir": "data/domain_corpus/pipeline_artefacts/raw_txt_reflow",
     "selected": [
       {
         "filename": "1300257_2025__Mr_D_Spencer_v_DPD_Group_UK_Ltd.txt",
@@ -694,7 +694,249 @@
   "layer_b": {
     "files": 60,
     "tokens": 200237,
-    "source_dir": "/home/gabes/git/llama-peft-project/data/domain_corpus/layer_b_processed"
+    "source_dir": "data/domain_corpus/pipeline_artefacts/layer_b_processed",
+    "selected": [
+      {
+        "filename": "acas_guides__age-discrimination.txt",
+        "tokens": 3531
+      },
+      {
+        "filename": "acas_guides__bullying-at-work.txt",
+        "tokens": 1367
+      },
+      {
+        "filename": "acas_guides__changing-your-employees-contracts.txt",
+        "tokens": 8407
+      },
+      {
+        "filename": "acas_guides__deductions-from-pay-and-wages.txt",
+        "tokens": 1623
+      },
+      {
+        "filename": "acas_guides__disability-discrimination.txt",
+        "tokens": 3095
+      },
+      {
+        "filename": "acas_guides__disciplinary-procedure.txt",
+        "tokens": 3327
+      },
+      {
+        "filename": "acas_guides__discrimination-at-work.txt",
+        "tokens": 5404
+      },
+      {
+        "filename": "acas_guides__dismissals.txt",
+        "tokens": 3038
+      },
+      {
+        "filename": "acas_guides__employment-contracts-and-the-law.txt",
+        "tokens": 2771
+      },
+      {
+        "filename": "acas_guides__equality-diversity-and-inclusion.txt",
+        "tokens": 2480
+      },
+      {
+        "filename": "acas_guides__fit-notes-when-off-sick.txt",
+        "tokens": 1392
+      },
+      {
+        "filename": "acas_guides__formal-grievance-procedure.txt",
+        "tokens": 3407
+      },
+      {
+        "filename": "acas_guides__maternity-leave-and-pay.txt",
+        "tokens": 5816
+      },
+      {
+        "filename": "acas_guides__mediation-at-work.txt",
+        "tokens": 1563
+      },
+      {
+        "filename": "acas_guides__paternity-leave-and-pay.txt",
+        "tokens": 6713
+      },
+      {
+        "filename": "acas_guides__pay-for-working-extra-hours.txt",
+        "tokens": 345
+      },
+      {
+        "filename": "acas_guides__performance-management.txt",
+        "tokens": 1981
+      },
+      {
+        "filename": "acas_guides__pregnancy-and-maternity-discrimination.txt",
+        "tokens": 3020
+      },
+      {
+        "filename": "acas_guides__race-discrimination.txt",
+        "tokens": 3145
+      },
+      {
+        "filename": "acas_guides__reasonable-adjustments-at-work.txt",
+        "tokens": 6004
+      },
+      {
+        "filename": "acas_guides__sex-discrimination.txt",
+        "tokens": 2295
+      },
+      {
+        "filename": "acas_guides__shared-parental-leave-and-pay.txt",
+        "tokens": 4315
+      },
+      {
+        "filename": "acas_guides__sick-leave.txt",
+        "tokens": 1029
+      },
+      {
+        "filename": "acas_guides__statutory-flexible-working-requests.txt",
+        "tokens": 7064
+      },
+      {
+        "filename": "acas_guides__tupe.txt",
+        "tokens": 6894
+      },
+      {
+        "filename": "acas_guides__your-rights-during-redundancy.txt",
+        "tokens": 5415
+      },
+      {
+        "filename": "codes__code-of-practice-on-disciplinary-and-grievance-procedures.txt",
+        "tokens": 3691
+      },
+      {
+        "filename": "codes__code-of-practice-on-requests-for-flexible-working.txt",
+        "tokens": 3040
+      },
+      {
+        "filename": "codes__code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.txt",
+        "tokens": 10484
+      },
+      {
+        "filename": "codes__settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.txt",
+        "tokens": 2949
+      },
+      {
+        "filename": "doctrine__equalitylaw.txt",
+        "tokens": 4173
+      },
+      {
+        "filename": "doctrine__flexibleworking.txt",
+        "tokens": 2854
+      },
+      {
+        "filename": "doctrine__keyemploymentrights.txt",
+        "tokens": 25998
+      },
+      {
+        "filename": "doctrine__redundancy.txt",
+        "tokens": 247
+      },
+      {
+        "filename": "doctrine__unfairdismissal.txt",
+        "tokens": 3342
+      },
+      {
+        "filename": "doctrine__zerohourcontracts.txt",
+        "tokens": 6467
+      },
+      {
+        "filename": "govuk__001_gov_employmentstatus.txt",
+        "tokens": 2442
+      },
+      {
+        "filename": "govuk__002_gov_employmentcontractsandconditions.txt",
+        "tokens": 1274
+      },
+      {
+        "filename": "govuk__003_gov_agencyworkersyourrights.txt",
+        "tokens": 1869
+      },
+      {
+        "filename": "govuk__004_gov_employmentstatusguidance.txt",
+        "tokens": 9124
+      },
+      {
+        "filename": "govuk__005_gov_nationalminimumwage.txt",
+        "tokens": 1707
+      },
+      {
+        "filename": "govuk__006_gov_understandingyourpay.txt",
+        "tokens": 1093
+      },
+      {
+        "filename": "govuk__007_gov_paye.txt",
+        "tokens": 1159
+      },
+      {
+        "filename": "govuk__008_gov_weeklyworkinghours.txt",
+        "tokens": 938
+      },
+      {
+        "filename": "govuk__009_gov_restbreaks.txt",
+        "tokens": 1187
+      },
+      {
+        "filename": "govuk__010_gov_overtimerights.txt",
+        "tokens": 414
+      },
+      {
+        "filename": "govuk__011_gov_holidayentitlement.txt",
+        "tokens": 2852
+      },
+      {
+        "filename": "govuk__012_gov_ssp.txt",
+        "tokens": 774
+      },
+      {
+        "filename": "govuk__015_gov_neonatalcare.txt",
+        "tokens": 1595
+      },
+      {
+        "filename": "govuk__016_gov_sharedparentalleave.txt",
+        "tokens": 3287
+      },
+      {
+        "filename": "govuk__017_gov_unpaidparentalleave.txt",
+        "tokens": 712
+      },
+      {
+        "filename": "govuk__018_gov_flexibleworking.txt",
+        "tokens": 1401
+      },
+      {
+        "filename": "govuk__019_gov_redundancy.txt",
+        "tokens": 2428
+      },
+      {
+        "filename": "govuk__020_gov_dismissal.txt",
+        "tokens": 1146
+      },
+      {
+        "filename": "govuk__021_gov_tupe.txt",
+        "tokens": 2313
+      },
+      {
+        "filename": "govuk__022_gov_whistleblowing.txt",
+        "tokens": 540
+      },
+      {
+        "filename": "govuk__023_gov_discrimination.txt",
+        "tokens": 670
+      },
+      {
+        "filename": "govuk__024_gov_disciplinaryprocedures.txt",
+        "tokens": 1077
+      },
+      {
+        "filename": "govuk__025_gov_timeoff.txt",
+        "tokens": 767
+      },
+      {
+        "filename": "govuk__026_gov_grievances.txt",
+        "tokens": 782
+      }
+    ]
   },
   "total_tokens": 1802427
 }
