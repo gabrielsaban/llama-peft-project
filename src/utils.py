@@ -1,3 +1,5 @@
+# reserved for shared training utilities
+
 import torch
 
 def print_gpu_info():
