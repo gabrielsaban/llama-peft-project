@@ -1,0 +1,34 @@
+experiment_name: "llama3_3b_qlora_domain_calibration"
+
+model:
+  base_model: "meta-llama/Llama-3.2-3B"
+  dtype: "bfloat16"
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]
+
+data:
+  type: "domain_corpus_lm"
+  corpus_dir: "data/domain_corpus/corpus_final"
+  split_json: "data/splits/intrinsic_splits.json"
+  max_seq_length: 1024
+
+training:
+  output_dir: "outputs/llama3_3b_qlora_domain_calibration"
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 8
+  max_steps: 75
+  learning_rate: 2e-4
+  warmup_ratio: 0.05
+  weight_decay: 0.01
+  logging_steps: 10
+  save_steps: 25
+  eval_steps: 25
+  seed: 42
+
+hardware:
+  use_4bit: true
+  gradient_checkpointing: false
