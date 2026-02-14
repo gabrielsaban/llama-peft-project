@@ -1,5 +1,2195 @@
 {
-  "train": [],
-  "validation": [],
-  "test": []
+  "seed": 42,
+  "val_ratio": 0.15,
+  "stratification": [
+    "layer",
+    "token_quartile"
+  ],
+  "quartile_definition": "token-rank bins (equal-count buckets within each layer)",
+  "manifest": "data/domain_corpus/corpus_manifest.json",
+  "counts": {
+    "layer_a": {
+      "train": 144,
+      "val": 26,
+      "total": 170
+    },
+    "layer_b": {
+      "train": 51,
+      "val": 9,
+      "total": 60
+    }
+  },
+  "counts_by_quartile": {
+    "layer_a": {
+      "1": {
+        "train": 36,
+        "val": 7,
+        "total": 43
+      },
+      "2": {
+        "train": 36,
+        "val": 6,
+        "total": 42
+      },
+      "3": {
+        "train": 36,
+        "val": 7,
+        "total": 43
+      },
+      "4": {
+        "train": 36,
+        "val": 6,
+        "total": 42
+      }
+    },
+    "layer_b": {
+      "1": {
+        "train": 12,
+        "val": 3,
+        "total": 15
+      },
+      "2": {
+        "train": 13,
+        "val": 2,
+        "total": 15
+      },
+      "3": {
+        "train": 13,
+        "val": 2,
+        "total": 15
+      },
+      "4": {
+        "train": 13,
+        "val": 2,
+        "total": 15
+      }
+    }
+  },
+  "tokens_by_split": {
+    "layer_a": {
+      "train": 1362559,
+      "val": 239631,
+      "total": 1602190
+    },
+    "layer_b": {
+      "train": 177970,
+      "val": 22267,
+      "total": 200237
+    },
+    "overall": {
+      "train": 1540529,
+      "val": 261898,
+      "total": 1802427
+    }
+  },
+  "allocation_debug": {
+    "layer_a": {
+      "group_sizes": [
+        43,
+        42,
+        43,
+        42
+      ],
+      "target_val": 26,
+      "val_allocs": [
+        7,
+        6,
+        7,
+        6
+      ]
+    },
+    "layer_b": {
+      "group_sizes": [
+        15,
+        15,
+        15,
+        15
+      ],
+      "target_val": 9,
+      "val_allocs": [
+        3,
+        2,
+        2,
+        2
+      ]
+    }
+  },
+  "splits": {
+    "train": [
+      {
+        "layer": "layer_a",
+        "filename": "3303977_2024__Mrs_H_S_Parhar_v_Welwyn_Hatfield_Borough_Council.txt",
+        "relpath": "layer_a/3303977_2024__Mrs_H_S_Parhar_v_Welwyn_Hatfield_Borough_Council.txt",
+        "tokens": 2357,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3300702_2025__Mr_W_Maseke_v_Telefonica_UK_Ltd_and_O2.txt",
+        "relpath": "layer_a/3300702_2025__Mr_W_Maseke_v_Telefonica_UK_Ltd_and_O2.txt",
+        "tokens": 832,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001233_2025__Ms_F_Grundy_v_The_Ramsay_Arms_Ltd.txt",
+        "relpath": "layer_a/8001233_2025__Ms_F_Grundy_v_The_Ramsay_Arms_Ltd.txt",
+        "tokens": 2646,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4101308_2025__Mrs_P_Fascia_v_Gordon_MacNeil_Solicitor.txt",
+        "relpath": "layer_a/4101308_2025__Mrs_P_Fascia_v_Gordon_MacNeil_Solicitor.txt",
+        "tokens": 1922,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200221_2025__S_Allpress_and_others_v_Coco_Lighting_Ltd_in_voluntary_liquidation.txt",
+        "relpath": "layer_a/3200221_2025__S_Allpress_and_others_v_Coco_Lighting_Ltd_in_voluntary_liquidation.txt",
+        "tokens": 1108,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200372_2024__Mr_T_Constable_v_C_R_Swift_Landscaping_Ltd.txt",
+        "relpath": "layer_a/3200372_2024__Mr_T_Constable_v_C_R_Swift_Landscaping_Ltd.txt",
+        "tokens": 2462,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2600936_2023__Mr_J_Mastromarino_v_Capita_Business_Services_Ltd.txt",
+        "relpath": "layer_a/2600936_2023__Mr_J_Mastromarino_v_Capita_Business_Services_Ltd.txt",
+        "tokens": 1861,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3201836_2023__Miss_K_Wing_So_v_Tech_Nordic_Advocates_and_Ms_J_Carlsson.txt",
+        "relpath": "layer_a/3201836_2023__Miss_K_Wing_So_v_Tech_Nordic_Advocates_and_Ms_J_Carlsson.txt",
+        "tokens": 1237,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4101153_2025__Ms_A_Reynolds_and_Others_v_Hotelfone_Ltd_in_Liquidation_co_Begbies_Traynor_Ltd_a.txt",
+        "relpath": "layer_a/4101153_2025__Ms_A_Reynolds_and_Others_v_Hotelfone_Ltd_in_Liquidation_co_Begbies_Traynor_Ltd_a.txt",
+        "tokens": 2290,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001897_2025__Mr_P_Jessup_v_Huseyin_Kulhas_Ta_Caf\u00e9_Edinburgh.txt",
+        "relpath": "layer_a/8001897_2025__Mr_P_Jessup_v_Huseyin_Kulhas_Ta_Caf\u00e9_Edinburgh.txt",
+        "tokens": 2665,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6002757_2024__Mr_S_Radu_v_London_Borough_of_Hounslow_and_others.txt",
+        "relpath": "layer_a/6002757_2024__Mr_S_Radu_v_London_Borough_of_Hounslow_and_others.txt",
+        "tokens": 2750,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6011201_2024__L_Bland_v_Vine_FX_Ltd.txt",
+        "relpath": "layer_a/6011201_2024__L_Bland_v_Vine_FX_Ltd.txt",
+        "tokens": 2591,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001167_2025__Miss_U_Polec_v_Pars_Foods_Ltd.txt",
+        "relpath": "layer_a/8001167_2025__Miss_U_Polec_v_Pars_Foods_Ltd.txt",
+        "tokens": 1253,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2303937_2024__J_Harper_v_Gatwick_Airport_Ltd.txt",
+        "relpath": "layer_a/2303937_2024__J_Harper_v_Gatwick_Airport_Ltd.txt",
+        "tokens": 1945,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1601337_2024__J_Whitehouse_v_WM_Morrison_Supermarkets_Ltd.txt",
+        "relpath": "layer_a/1601337_2024__J_Whitehouse_v_WM_Morrison_Supermarkets_Ltd.txt",
+        "tokens": 1760,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6002768_2023__Mrs_A_F_D_S_Couto_v_Dorset_HealthCare_University_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/6002768_2023__Mrs_A_F_D_S_Couto_v_Dorset_HealthCare_University_NHS_Foundation_Trust.txt",
+        "tokens": 2455,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6010070_2025__Mr_N_Coulam_v_The_Chief_Constable_of_Avon_and_Somerset_Constabulary.txt",
+        "relpath": "layer_a/6010070_2025__Mr_N_Coulam_v_The_Chief_Constable_of_Avon_and_Somerset_Constabulary.txt",
+        "tokens": 3032,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001257_2025__Mr_G_Mitchell_v_The_Fountain_Bar_Ltd.txt",
+        "relpath": "layer_a/8001257_2025__Mr_G_Mitchell_v_The_Fountain_Bar_Ltd.txt",
+        "tokens": 2507,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000259_2025__Dr_A_Nassar_v_National_Waiting_Times_Centre_Board.txt",
+        "relpath": "layer_a/8000259_2025__Dr_A_Nassar_v_National_Waiting_Times_Centre_Board.txt",
+        "tokens": 1703,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3202201_2024__Mr_M_C_Acero_v_Crystalcare_Cleaning_Services_Ltd.txt",
+        "relpath": "layer_a/3202201_2024__Mr_M_C_Acero_v_Crystalcare_Cleaning_Services_Ltd.txt",
+        "tokens": 1523,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3308751_2024__B_Russell_v_Cavalry_Claims_Services_Ltd.txt",
+        "relpath": "layer_a/3308751_2024__B_Russell_v_Cavalry_Claims_Services_Ltd.txt",
+        "tokens": 3145,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6038570_2025__Mrs_M_Cole_v_MM_Flowers_Ltd.txt",
+        "relpath": "layer_a/6038570_2025__Mrs_M_Cole_v_MM_Flowers_Ltd.txt",
+        "tokens": 2661,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8002332_2025__Mr_F_Allan_v_Central_Taxis_North_East_Ltd.txt",
+        "relpath": "layer_a/8002332_2025__Mr_F_Allan_v_Central_Taxis_North_East_Ltd.txt",
+        "tokens": 2529,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3311175_2024__Miss_A_Gray_v_Coronet_Flowers_Ltd.txt",
+        "relpath": "layer_a/3311175_2024__Miss_A_Gray_v_Coronet_Flowers_Ltd.txt",
+        "tokens": 690,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2306525_2020__Mrs_L_Oyebisi_v_Hyde_Housing_Association_Ltd.txt",
+        "relpath": "layer_a/2306525_2020__Mrs_L_Oyebisi_v_Hyde_Housing_Association_Ltd.txt",
+        "tokens": 771,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6012236_2025__Mr_M_Box_v_Hembury_Fort_House_and_Ms_AO_Taylor.txt",
+        "relpath": "layer_a/6012236_2025__Mr_M_Box_v_Hembury_Fort_House_and_Ms_AO_Taylor.txt",
+        "tokens": 2407,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2200608_2024__Mr_C_Wise_v_HM_Revenue_and_Customs.txt",
+        "relpath": "layer_a/2200608_2024__Mr_C_Wise_v_HM_Revenue_and_Customs.txt",
+        "tokens": 881,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6005922_2024__Mr_S_Pinto_v_The_Stepstone_Group_UK_Ltd.txt",
+        "relpath": "layer_a/6005922_2024__Mr_S_Pinto_v_The_Stepstone_Group_UK_Ltd.txt",
+        "tokens": 2655,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6027626_2025__Mr_S_Nertey_v_Angel_Approved_Ltd.txt",
+        "relpath": "layer_a/6027626_2025__Mr_S_Nertey_v_Angel_Approved_Ltd.txt",
+        "tokens": 900,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001355_2025__Mrs_J_Wallace_v_Whisky_Merchants_Trading_Ltd_in_Administration.txt",
+        "relpath": "layer_a/8001355_2025__Mrs_J_Wallace_v_Whisky_Merchants_Trading_Ltd_in_Administration.txt",
+        "tokens": 996,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200381_2024__A_Mahima_and_Others_v_U_M_Shafiq_Ta_Cupp_Bubble_Tea.txt",
+        "relpath": "layer_a/3200381_2024__A_Mahima_and_Others_v_U_M_Shafiq_Ta_Cupp_Bubble_Tea.txt",
+        "tokens": 1315,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1311864_2024__Mr_Y_Alem_v_Uber_Britannia_Ltd.txt",
+        "relpath": "layer_a/1311864_2024__Mr_Y_Alem_v_Uber_Britannia_Ltd.txt",
+        "tokens": 1323,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001082_2025__A_Zaloga_v_Excellerate_Services_UK_Ltd.txt",
+        "relpath": "layer_a/8001082_2025__A_Zaloga_v_Excellerate_Services_UK_Ltd.txt",
+        "tokens": 1672,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6019387_2025__Ms_S_Guyan_v_eXPD8_Ltd.txt",
+        "relpath": "layer_a/6019387_2025__Ms_S_Guyan_v_eXPD8_Ltd.txt",
+        "tokens": 734,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6023602_2025__Mr_L_Abdimohamed_v_Avantao_Technologies_Ltd.txt",
+        "relpath": "layer_a/6023602_2025__Mr_L_Abdimohamed_v_Avantao_Technologies_Ltd.txt",
+        "tokens": 901,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3303624_2024__Mr_R_Avram_v_Smartsec_Solutions_Ltd_and_Karter_Estates_Ltd.txt",
+        "relpath": "layer_a/3303624_2024__Mr_R_Avram_v_Smartsec_Solutions_Ltd_and_Karter_Estates_Ltd.txt",
+        "tokens": 3097,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3305589_2024__R_Giles_v_Cranswick_plc_and_others.txt",
+        "relpath": "layer_a/3305589_2024__R_Giles_v_Cranswick_plc_and_others.txt",
+        "tokens": 3712,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1400002_2023__M_Flint_v_Albany_Apartments_Ltd.txt",
+        "relpath": "layer_a/1400002_2023__M_Flint_v_Albany_Apartments_Ltd.txt",
+        "tokens": 6244,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2217983_2024__Mr_M_Cruz_v_Ladbrokes_Betting_and_Gaming_Ltd.txt",
+        "relpath": "layer_a/2217983_2024__Mr_M_Cruz_v_Ladbrokes_Betting_and_Gaming_Ltd.txt",
+        "tokens": 5410,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4101433_2025__Mr_B_G_Torriero_v_Harleys_Franchise_Ltd.txt",
+        "relpath": "layer_a/4101433_2025__Mr_B_G_Torriero_v_Harleys_Franchise_Ltd.txt",
+        "tokens": 5441,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6012163_2024__Ms_L_Simanaviciene_v_Providing_Care_Ltd_and_Moving_Up_Care_Ltd.txt",
+        "relpath": "layer_a/6012163_2024__Ms_L_Simanaviciene_v_Providing_Care_Ltd_and_Moving_Up_Care_Ltd.txt",
+        "tokens": 4823,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6025831_2025__Ms_K_Carlsen_v_Architecture_North.txt",
+        "relpath": "layer_a/6025831_2025__Ms_K_Carlsen_v_Architecture_North.txt",
+        "tokens": 5612,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6017399_2025__T_Duskun_v_Haf\u0131zlar_G\u0131da_London_Ltd.txt",
+        "relpath": "layer_a/6017399_2025__T_Duskun_v_Haf\u0131zlar_G\u0131da_London_Ltd.txt",
+        "tokens": 3890,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2217766_2024__Mr_D_Estephane_v_Barking_Havering_and_Redbridge_University_Hospitals_NHS_Trust.txt",
+        "relpath": "layer_a/2217766_2024__Mr_D_Estephane_v_Barking_Havering_and_Redbridge_University_Hospitals_NHS_Trust.txt",
+        "tokens": 4138,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001010_2025__Mr_D_Morgan_v_Royal_Mail_Group_Ltd.txt",
+        "relpath": "layer_a/8001010_2025__Mr_D_Morgan_v_Royal_Mail_Group_Ltd.txt",
+        "tokens": 3581,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6022090_2024__P_Pasatas_v_Grecian_Artisan_Wine_Co_Ltd.txt",
+        "relpath": "layer_a/6022090_2024__P_Pasatas_v_Grecian_Artisan_Wine_Co_Ltd.txt",
+        "tokens": 3991,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6008646_2025__Mr_M_S_Bhogal_v_HM_Revenue_and_Customs.txt",
+        "relpath": "layer_a/6008646_2025__Mr_M_S_Bhogal_v_HM_Revenue_and_Customs.txt",
+        "tokens": 3486,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6039320_2025__P_Sullivan_v_Capita_plc.txt",
+        "relpath": "layer_a/6039320_2025__P_Sullivan_v_Capita_plc.txt",
+        "tokens": 5911,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4106855_2024__J_Ogundolani_v_Viewpoint_Housing_Association_Ltd.txt",
+        "relpath": "layer_a/4106855_2024__J_Ogundolani_v_Viewpoint_Housing_Association_Ltd.txt",
+        "tokens": 4367,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3307764_2024__Mr_M_Moloney_v_Cantifix_Ltd.txt",
+        "relpath": "layer_a/3307764_2024__Mr_M_Moloney_v_Cantifix_Ltd.txt",
+        "tokens": 3857,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001603_2025__Mr_M_Peat_v_Valley_Group_Ltd.txt",
+        "relpath": "layer_a/8001603_2025__Mr_M_Peat_v_Valley_Group_Ltd.txt",
+        "tokens": 5726,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6034488_2025__Mr_P_Jones_v_St_Antonys_College_in_the_University_of_Oxford.txt",
+        "relpath": "layer_a/6034488_2025__Mr_P_Jones_v_St_Antonys_College_in_the_University_of_Oxford.txt",
+        "tokens": 3397,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1300257_2025__Mr_D_Spencer_v_DPD_Group_UK_Ltd.txt",
+        "relpath": "layer_a/1300257_2025__Mr_D_Spencer_v_DPD_Group_UK_Ltd.txt",
+        "tokens": 6098,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6018505_2024__Mr_P_Stevens_v_Well_Known_Brands_Ltd.txt",
+        "relpath": "layer_a/6018505_2024__Mr_P_Stevens_v_Well_Known_Brands_Ltd.txt",
+        "tokens": 6395,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1305709_2024__Miss_B_Allatt_v_Midlands_Partnership_University_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/1305709_2024__Miss_B_Allatt_v_Midlands_Partnership_University_NHS_Foundation_Trust.txt",
+        "tokens": 3670,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200500_2025__Mr_S_Manners_v_Manchett_Group_Ltd.txt",
+        "relpath": "layer_a/3200500_2025__Mr_S_Manners_v_Manchett_Group_Ltd.txt",
+        "tokens": 5513,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4106680_2024__Mr_D_Buchan_v_S_W_Enviro_Ltd.txt",
+        "relpath": "layer_a/4106680_2024__Mr_D_Buchan_v_S_W_Enviro_Ltd.txt",
+        "tokens": 3910,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000677_2024__X_v_University_of_Manchester_and_Universities_Superannuation_Scheme_Ltd.txt",
+        "relpath": "layer_a/8000677_2024__X_v_University_of_Manchester_and_Universities_Superannuation_Scheme_Ltd.txt",
+        "tokens": 5235,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2201912_2022__Ms_M_Barcker_v_Moorfields_Eye_Hospital_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/2201912_2022__Ms_M_Barcker_v_Moorfields_Eye_Hospital_NHS_Foundation_Trust.txt",
+        "tokens": 4246,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000628_2025__Ms_K_Taylor_v_Grampian_Health_Board_and_P_Reid.txt",
+        "relpath": "layer_a/8000628_2025__Ms_K_Taylor_v_Grampian_Health_Board_and_P_Reid.txt",
+        "tokens": 4259,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2202088_2022__CD_v_Vigilant_Security_Scotland_Ltd_Ta_Croma_Vigilant.txt",
+        "relpath": "layer_a/2202088_2022__CD_v_Vigilant_Security_Scotland_Ltd_Ta_Croma_Vigilant.txt",
+        "tokens": 4932,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6006801_2024__Mr_B_Lowe_v_Openreach_Ltd.txt",
+        "relpath": "layer_a/6006801_2024__Mr_B_Lowe_v_Openreach_Ltd.txt",
+        "tokens": 4238,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3300711_2023__Mr_A_Sochon_and_others_v_The_Felixstowe_Dock_and_Railway_Company.txt",
+        "relpath": "layer_a/3300711_2023__Mr_A_Sochon_and_others_v_The_Felixstowe_Dock_and_Railway_Company.txt",
+        "tokens": 3642,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2306450_2023__Mx_U_Miah_v_Synnovis_Analytics_LLP.txt",
+        "relpath": "layer_a/2306450_2023__Mx_U_Miah_v_Synnovis_Analytics_LLP.txt",
+        "tokens": 4652,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6007179_2025__Mr_F_Scattino_v_Griffin_Catering_Services_Ltd_and_Fuller_Smith_and_Turner_plc.txt",
+        "relpath": "layer_a/6007179_2025__Mr_F_Scattino_v_Griffin_Catering_Services_Ltd_and_Fuller_Smith_and_Turner_plc.txt",
+        "tokens": 3711,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001687_2025__Mr_C_Kane_v_City_of_Edinburgh_Council.txt",
+        "relpath": "layer_a/8001687_2025__Mr_C_Kane_v_City_of_Edinburgh_Council.txt",
+        "tokens": 5664,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001393_2025__Mr_A_Jokiel_v_STEF_Langdons_Ltd.txt",
+        "relpath": "layer_a/8001393_2025__Mr_A_Jokiel_v_STEF_Langdons_Ltd.txt",
+        "tokens": 5437,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6010058_2024__Mrs_M_Berticsova_v_Infinite_Intermediate_Care_Ltd.txt",
+        "relpath": "layer_a/6010058_2024__Mrs_M_Berticsova_v_Infinite_Intermediate_Care_Ltd.txt",
+        "tokens": 3462,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1308775_2023__Ms_C_Stone_v_Crest_Nicholson_Operations_Ltd.txt",
+        "relpath": "layer_a/1308775_2023__Ms_C_Stone_v_Crest_Nicholson_Operations_Ltd.txt",
+        "tokens": 4123,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000592_2025__Mrs_G_McDonald_Allan_v_Student_Loans_Company_Ltd.txt",
+        "relpath": "layer_a/8000592_2025__Mrs_G_McDonald_Allan_v_Student_Loans_Company_Ltd.txt",
+        "tokens": 6102,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3303005_2024__Miss_S_Tadevossian_v_Chief_Constable_of_Surrey_Police.txt",
+        "relpath": "layer_a/3303005_2024__Miss_S_Tadevossian_v_Chief_Constable_of_Surrey_Police.txt",
+        "tokens": 6689,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6007280_2025__Ms_A_Cooke_v_Somerset_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/6007280_2025__Ms_A_Cooke_v_Somerset_NHS_Foundation_Trust.txt",
+        "tokens": 4366,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8002952_2025__Mr_J_McCall_v_Glasgow_Prestwick_Airport_Ltd.txt",
+        "relpath": "layer_a/8002952_2025__Mr_J_McCall_v_Glasgow_Prestwick_Airport_Ltd.txt",
+        "tokens": 8409,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200542_2024__Mrs_A_Bearman_v_Shaw_Trust_Ltd_The.txt",
+        "relpath": "layer_a/3200542_2024__Mrs_A_Bearman_v_Shaw_Trust_Ltd_The.txt",
+        "tokens": 14228,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000892_2025__Mr_A_Harbhajanka_v_Shell_UK_Ltd.txt",
+        "relpath": "layer_a/8000892_2025__Mr_A_Harbhajanka_v_Shell_UK_Ltd.txt",
+        "tokens": 16703,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1303343_2024__Miss_S_Hunton_v_Uttoxeter_Veterinary_Practice_Ltd.txt",
+        "relpath": "layer_a/1303343_2024__Miss_S_Hunton_v_Uttoxeter_Veterinary_Practice_Ltd.txt",
+        "tokens": 9149,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000695_2025__Dr_J_Koechlin_v_Global_Voices_Ltd.txt",
+        "relpath": "layer_a/8000695_2025__Dr_J_Koechlin_v_Global_Voices_Ltd.txt",
+        "tokens": 10165,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6009382_2024__Mr_M_Ageli_v_Sabtina_Ltd.txt",
+        "relpath": "layer_a/6009382_2024__Mr_M_Ageli_v_Sabtina_Ltd.txt",
+        "tokens": 9621,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6003069_2024__Mrs_F_Atif_v_Luisa_Spagnoli_UK_Ltd.txt",
+        "relpath": "layer_a/6003069_2024__Mrs_F_Atif_v_Luisa_Spagnoli_UK_Ltd.txt",
+        "tokens": 16215,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001092_2025__Mr_O_Nnamuchi_v_UNISON_Scotland.txt",
+        "relpath": "layer_a/8001092_2025__Mr_O_Nnamuchi_v_UNISON_Scotland.txt",
+        "tokens": 9239,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6007948_2024__Mr_J_Che_v_Plymouth_Hope.txt",
+        "relpath": "layer_a/6007948_2024__Mr_J_Che_v_Plymouth_Hope.txt",
+        "tokens": 8840,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4103512_2023__Mr_B_McTague_and_Others_v_The_Scottish_Ministers.txt",
+        "relpath": "layer_a/4103512_2023__Mr_B_McTague_and_Others_v_The_Scottish_Ministers.txt",
+        "tokens": 13109,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3310946_2023__Mrs_S_Dye_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt",
+        "relpath": "layer_a/3310946_2023__Mrs_S_Dye_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt",
+        "tokens": 14009,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6018181_2024__Mr_M_Hehir_v_Metroline_Ltd.txt",
+        "relpath": "layer_a/6018181_2024__Mr_M_Hehir_v_Metroline_Ltd.txt",
+        "tokens": 7897,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4102789_2025__Ms_K_L_Coleman_v_Thermoelectric_Conversion_Systems_Ltd.txt",
+        "relpath": "layer_a/4102789_2025__Ms_K_L_Coleman_v_Thermoelectric_Conversion_Systems_Ltd.txt",
+        "tokens": 14569,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3303382_2024__Mr_M_J_Ashwood_v_DHL_Services_Ltd.txt",
+        "relpath": "layer_a/3303382_2024__Mr_M_J_Ashwood_v_DHL_Services_Ltd.txt",
+        "tokens": 12425,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001918_2024__Mrs_P_Sutherland_v_G_L_Enterprises_and_Food_Creations_Bathgate_Ltd.txt",
+        "relpath": "layer_a/8001918_2024__Mrs_P_Sutherland_v_G_L_Enterprises_and_Food_Creations_Bathgate_Ltd.txt",
+        "tokens": 9580,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6003865_2024__R_Screen_v_Matt_Screen_Pet_Services_Ltd_Ta_Waggy_Walks.txt",
+        "relpath": "layer_a/6003865_2024__R_Screen_v_Matt_Screen_Pet_Services_Ltd_Ta_Waggy_Walks.txt",
+        "tokens": 9969,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6012642_2024__Mr_M_Orr_v_Marks_and_Spencer_plc.txt",
+        "relpath": "layer_a/6012642_2024__Mr_M_Orr_v_Marks_and_Spencer_plc.txt",
+        "tokens": 14478,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2302233_2020__Ms_R_Owens_v_Network_Rail_Ltd.txt",
+        "relpath": "layer_a/2302233_2020__Ms_R_Owens_v_Network_Rail_Ltd.txt",
+        "tokens": 13593,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3204197_2022__Ms_J_Boswell_v_Beacon_Multi_Academy_Trust_Ltd.txt",
+        "relpath": "layer_a/3204197_2022__Ms_J_Boswell_v_Beacon_Multi_Academy_Trust_Ltd.txt",
+        "tokens": 17012,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001246_2024__Mr_A_Chandio_v_Grampian_Health_Board.txt",
+        "relpath": "layer_a/8001246_2024__Mr_A_Chandio_v_Grampian_Health_Board.txt",
+        "tokens": 11595,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2200732_2024__Mr_S_Hasan_and_Others_v_University_of_West_London.txt",
+        "relpath": "layer_a/2200732_2024__Mr_S_Hasan_and_Others_v_University_of_West_London.txt",
+        "tokens": 10381,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001509_2025__Mr_J_Caird_v_British_Telecommunications_plc.txt",
+        "relpath": "layer_a/8001509_2025__Mr_J_Caird_v_British_Telecommunications_plc.txt",
+        "tokens": 8799,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3311810_2024__Mr_J_La_v_Community_Ambulance_Service_Ltd.txt",
+        "relpath": "layer_a/3311810_2024__Mr_J_La_v_Community_Ambulance_Service_Ltd.txt",
+        "tokens": 14547,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6004789_2024__Ms_K_Rowbottom_v_Syriana_One_Ltd_and_Mr_K_Al_Sabbah.txt",
+        "relpath": "layer_a/6004789_2024__Ms_K_Rowbottom_v_Syriana_One_Ltd_and_Mr_K_Al_Sabbah.txt",
+        "tokens": 8981,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6011292_2024__Ms_V_Solloway_v_HSBC_Group_Management_Services_Ltd_and_Others.txt",
+        "relpath": "layer_a/6011292_2024__Ms_V_Solloway_v_HSBC_Group_Management_Services_Ltd_and_Others.txt",
+        "tokens": 12986,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6007949_2024__Mr_R_A_Velasquez_v_Mr_R_S_O_Rosas_and_Chakana_London_Ltd.txt",
+        "relpath": "layer_a/6007949_2024__Mr_R_A_Velasquez_v_Mr_R_S_O_Rosas_and_Chakana_London_Ltd.txt",
+        "tokens": 15205,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2411365_2023__W_Lock_v_Sopra_Steria_Ltd.txt",
+        "relpath": "layer_a/2411365_2023__W_Lock_v_Sopra_Steria_Ltd.txt",
+        "tokens": 7198,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6019968_2025__Mr_P_Shuttleworth_v_Cabinet_Office_and_Civil_Service_Commission.txt",
+        "relpath": "layer_a/6019968_2025__Mr_P_Shuttleworth_v_Cabinet_Office_and_Civil_Service_Commission.txt",
+        "tokens": 15330,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001363_2025__Mr_L_Black_v_Caledonian_Automatic_Transmissions_Ltd.txt",
+        "relpath": "layer_a/8001363_2025__Mr_L_Black_v_Caledonian_Automatic_Transmissions_Ltd.txt",
+        "tokens": 7313,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8002160_2024__Mr_D_McCue_v_Coldside_Medical_Practice.txt",
+        "relpath": "layer_a/8002160_2024__Mr_D_McCue_v_Coldside_Medical_Practice.txt",
+        "tokens": 11161,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200973_2022__Mr_M_J_Uddin_Formerly_Known_as_M_Ali_v_Supersafe_Security_Ltd_and_Security_Smart.txt",
+        "relpath": "layer_a/3200973_2022__Mr_M_J_Uddin_Formerly_Known_as_M_Ali_v_Supersafe_Security_Ltd_and_Security_Smart.txt",
+        "tokens": 9816,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2202003_2024__Miss_C_Royer_v_Marks_and_Spencer_plc.txt",
+        "relpath": "layer_a/2202003_2024__Miss_C_Royer_v_Marks_and_Spencer_plc.txt",
+        "tokens": 14917,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6016447_2024__Mrs_M_Muti_v_Ocean_Fish_Retail_Ltd.txt",
+        "relpath": "layer_a/6016447_2024__Mrs_M_Muti_v_Ocean_Fish_Retail_Ltd.txt",
+        "tokens": 10249,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2307121_2023__Mr_M_Ravichandran_v_Nexus_Foods_Ltd.txt",
+        "relpath": "layer_a/2307121_2023__Mr_M_Ravichandran_v_Nexus_Foods_Ltd.txt",
+        "tokens": 12980,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6009717_2025__S_William_v_Quality_Life_UK_Care_Services_Ltd.txt",
+        "relpath": "layer_a/6009717_2025__S_William_v_Quality_Life_UK_Care_Services_Ltd.txt",
+        "tokens": 13862,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000679_2025__Ms_L_Borrini_v_The_National_Trust_for_Scotland.txt",
+        "relpath": "layer_a/8000679_2025__Ms_L_Borrini_v_The_National_Trust_for_Scotland.txt",
+        "tokens": 9228,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1307891_2023__Dr_M_Weaver_v_Black_Country_Healthcare_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/1307891_2023__Dr_M_Weaver_v_Black_Country_Healthcare_NHS_Foundation_Trust.txt",
+        "tokens": 19914,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2501192_2024__Ms_B_Hutchinson_and_Others_v_County_Durham_and_Darlington_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/2501192_2024__Ms_B_Hutchinson_and_Others_v_County_Durham_and_Darlington_NHS_Foundation_Trust.txt",
+        "tokens": 19988,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1406290_2023__Ms_A_Akhtaru_v_The_Winchester_Diocesan_Board_of_Finance.txt",
+        "relpath": "layer_a/1406290_2023__Ms_A_Akhtaru_v_The_Winchester_Diocesan_Board_of_Finance.txt",
+        "tokens": 19553,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2300285_2022__Mr_Z_v_Medway_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/2300285_2022__Mr_Z_v_Medway_NHS_Foundation_Trust.txt",
+        "tokens": 19988,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000254_2025__Ms_M_Clark_v_I_C_T_S_UK_Ltd.txt",
+        "relpath": "layer_a/8000254_2025__Ms_M_Clark_v_I_C_T_S_UK_Ltd.txt",
+        "tokens": 17227,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001100_2024__Ms_C_Campbell_v_Lothian_Health_Board.txt",
+        "relpath": "layer_a/8001100_2024__Ms_C_Campbell_v_Lothian_Health_Board.txt",
+        "tokens": 19948,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6018751_2024__Mr_S_Asher_v_1PhysioUK_Ltd.txt",
+        "relpath": "layer_a/6018751_2024__Mr_S_Asher_v_1PhysioUK_Ltd.txt",
+        "tokens": 17301,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3308216_2023__Mr_P_Langton_v_Buckinghamshire_Fire_and_Rescue_Service.txt",
+        "relpath": "layer_a/3308216_2023__Mr_P_Langton_v_Buckinghamshire_Fire_and_Rescue_Service.txt",
+        "tokens": 19670,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2218131_2024__Ms_M_Campbell_v_Department_for_Education.txt",
+        "relpath": "layer_a/2218131_2024__Ms_M_Campbell_v_Department_for_Education.txt",
+        "tokens": 19825,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2304390_2023__Ms_N_Fernandez_v_Guys_and_St_Thomas_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/2304390_2023__Ms_N_Fernandez_v_Guys_and_St_Thomas_NHS_Foundation_Trust.txt",
+        "tokens": 19945,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2206741_2021__Mr_A_Zia_Ud_Din_v_HP_Inc_UK_Ltd_and_Computacentre_UK_Ltd.txt",
+        "relpath": "layer_a/2206741_2021__Mr_A_Zia_Ud_Din_v_HP_Inc_UK_Ltd_and_Computacentre_UK_Ltd.txt",
+        "tokens": 19967,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3202544_2021__Mr_L_Stone_v_Regent_Office_Care_Ltd_Ta_Samsic_UK_and_JPC_by_Samsic_and_Others.txt",
+        "relpath": "layer_a/3202544_2021__Mr_L_Stone_v_Regent_Office_Care_Ltd_Ta_Samsic_UK_and_JPC_by_Samsic_and_Others.txt",
+        "tokens": 19799,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3202454_2023__Mr_B_Pejic_v_Storm_Global_Ltd_and_Ryanair_DAC.txt",
+        "relpath": "layer_a/3202454_2023__Mr_B_Pejic_v_Storm_Global_Ltd_and_Ryanair_DAC.txt",
+        "tokens": 18854,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4107494_2023__Ms_H_Rennie_v_Greater_Glasgow_Health_Board.txt",
+        "relpath": "layer_a/4107494_2023__Ms_H_Rennie_v_Greater_Glasgow_Health_Board.txt",
+        "tokens": 19691,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2223308_2024__Miss_L_Medcraft_v_Chanel_Ltd.txt",
+        "relpath": "layer_a/2223308_2024__Miss_L_Medcraft_v_Chanel_Ltd.txt",
+        "tokens": 19993,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3203214_2021__Miss_K_Arnold_v_Select_Enterprises_South_East_Ltd_and_Mrs_B_Kalsi.txt",
+        "relpath": "layer_a/3203214_2021__Miss_K_Arnold_v_Select_Enterprises_South_East_Ltd_and_Mrs_B_Kalsi.txt",
+        "tokens": 19957,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3314998_2022__Mrs_R_Forward_v_Guildowns_Group_Practice.txt",
+        "relpath": "layer_a/3314998_2022__Mrs_R_Forward_v_Guildowns_Group_Practice.txt",
+        "tokens": 19990,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3310748_2021__Mr_J_Mezgebe_v_Christs_College_Finchley.txt",
+        "relpath": "layer_a/3310748_2021__Mr_J_Mezgebe_v_Christs_College_Finchley.txt",
+        "tokens": 19867,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3309451_2023__Mr_N_Middleton_v_The_Hawk_and_Owl_Trust_Ltd_and_Mr_A_Blumfield.txt",
+        "relpath": "layer_a/3309451_2023__Mr_N_Middleton_v_The_Hawk_and_Owl_Trust_Ltd_and_Mr_A_Blumfield.txt",
+        "tokens": 19260,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3312419_2023__Dr_B_Fulda_v_The_Chancellor_Masters_and_Scholars_of_the_University_of_Cambridge.txt",
+        "relpath": "layer_a/3312419_2023__Dr_B_Fulda_v_The_Chancellor_Masters_and_Scholars_of_the_University_of_Cambridge.txt",
+        "tokens": 19982,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3310860_2022__Miss_M_Manjula_v_Immigration_and_Nationality_Services_Ltd_and_IANS_Solicitors_Lt.txt",
+        "relpath": "layer_a/3310860_2022__Miss_M_Manjula_v_Immigration_and_Nationality_Services_Ltd_and_IANS_Solicitors_Lt.txt",
+        "tokens": 19848,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000921_2024__Mr_D_Sookur_v_Highland_Coaches_Ltd_and_N_M_Maran.txt",
+        "relpath": "layer_a/8000921_2024__Mr_D_Sookur_v_Highland_Coaches_Ltd_and_N_M_Maran.txt",
+        "tokens": 19966,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001652_2024__Mr_R_Scott_v_Tillicoultry_Quarries_Ltd.txt",
+        "relpath": "layer_a/8001652_2024__Mr_R_Scott_v_Tillicoultry_Quarries_Ltd.txt",
+        "tokens": 17608,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2202954_2022__Ms_A_Sohail_and_Ms_A_Khalid_v_Lloyds_Bank_plc.txt",
+        "relpath": "layer_a/2202954_2022__Ms_A_Sohail_and_Ms_A_Khalid_v_Lloyds_Bank_plc.txt",
+        "tokens": 19914,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200538_2023__Mr_A_Lancaster_and_Others_v_Mitie_Group_plc.txt",
+        "relpath": "layer_a/3200538_2023__Mr_A_Lancaster_and_Others_v_Mitie_Group_plc.txt",
+        "tokens": 19896,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6017991_2024__Ms_L_Waller_v_Swann_Engineering_Group_Ltd.txt",
+        "relpath": "layer_a/6017991_2024__Ms_L_Waller_v_Swann_Engineering_Group_Ltd.txt",
+        "tokens": 17117,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3307564_2023__Mr_D_Gallop_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt",
+        "relpath": "layer_a/3307564_2023__Mr_D_Gallop_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt",
+        "tokens": 19838,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2402393_2024__Mr_M_Armstrong_v_The_Secretary_of_State_for_Justice.txt",
+        "relpath": "layer_a/2402393_2024__Mr_M_Armstrong_v_The_Secretary_of_State_for_Justice.txt",
+        "tokens": 19979,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200207_2022__Ms_L_Thomas_v_London_Borough_of_Redbridge.txt",
+        "relpath": "layer_a/3200207_2022__Ms_L_Thomas_v_London_Borough_of_Redbridge.txt",
+        "tokens": 19965,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8002168_2024__Mr_J_Nevin_and_Others_v_INEOS_Infrastructure_Grangemouth_Ltd.txt",
+        "relpath": "layer_a/8002168_2024__Mr_J_Nevin_and_Others_v_INEOS_Infrastructure_Grangemouth_Ltd.txt",
+        "tokens": 19982,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3313165_2023__M_Craigie_v_East_Anglia_Home_Improvements_Ltd.txt",
+        "relpath": "layer_a/3313165_2023__M_Craigie_v_East_Anglia_Home_Improvements_Ltd.txt",
+        "tokens": 19944,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000708_2025__Ms_F_Z_Ouchrif_v_Aspire_Housing_and_Personal_Development.txt",
+        "relpath": "layer_a/8000708_2025__Ms_F_Z_Ouchrif_v_Aspire_Housing_and_Personal_Development.txt",
+        "tokens": 18500,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2305932_2023__Mrs_S_Stone_v_MA_Business_Ltd.txt",
+        "relpath": "layer_a/2305932_2023__Mrs_S_Stone_v_MA_Business_Ltd.txt",
+        "tokens": 19955,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6016850_2024__Mrs_A_Dickson_Lewis_v_Milton_Keynes_City_Council.txt",
+        "relpath": "layer_a/6016850_2024__Mrs_A_Dickson_Lewis_v_Milton_Keynes_City_Council.txt",
+        "tokens": 19548,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1308610_2023__Ms_M_Black_v_West_Midlands_Ambulance_Service_University_NHS_Foundation_Trust.txt",
+        "relpath": "layer_a/1308610_2023__Ms_M_Black_v_West_Midlands_Ambulance_Service_University_NHS_Foundation_Trust.txt",
+        "tokens": 19473,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000875_2025__Ms_A_L_McVey_v_Sky_UK_Ltd.txt",
+        "relpath": "layer_a/8000875_2025__Ms_A_L_McVey_v_Sky_UK_Ltd.txt",
+        "tokens": 19043,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__007_gov_paye.txt",
+        "relpath": "layer_b/govuk__007_gov_paye.txt",
+        "tokens": 1159,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__024_gov_disciplinaryprocedures.txt",
+        "relpath": "layer_b/govuk__024_gov_disciplinaryprocedures.txt",
+        "tokens": 1077,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__026_gov_grievances.txt",
+        "relpath": "layer_b/govuk__026_gov_grievances.txt",
+        "tokens": 782,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__sick-leave.txt",
+        "relpath": "layer_b/acas_guides__sick-leave.txt",
+        "tokens": 1029,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__008_gov_weeklyworkinghours.txt",
+        "relpath": "layer_b/govuk__008_gov_weeklyworkinghours.txt",
+        "tokens": 938,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__020_gov_dismissal.txt",
+        "relpath": "layer_b/govuk__020_gov_dismissal.txt",
+        "tokens": 1146,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__022_gov_whistleblowing.txt",
+        "relpath": "layer_b/govuk__022_gov_whistleblowing.txt",
+        "tokens": 540,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__023_gov_discrimination.txt",
+        "relpath": "layer_b/govuk__023_gov_discrimination.txt",
+        "tokens": 670,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__017_gov_unpaidparentalleave.txt",
+        "relpath": "layer_b/govuk__017_gov_unpaidparentalleave.txt",
+        "tokens": 712,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__pay-for-working-extra-hours.txt",
+        "relpath": "layer_b/acas_guides__pay-for-working-extra-hours.txt",
+        "tokens": 345,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "doctrine__redundancy.txt",
+        "relpath": "layer_b/doctrine__redundancy.txt",
+        "tokens": 247,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__012_gov_ssp.txt",
+        "relpath": "layer_b/govuk__012_gov_ssp.txt",
+        "tokens": 774,
+        "quartile": 1,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__mediation-at-work.txt",
+        "relpath": "layer_b/acas_guides__mediation-at-work.txt",
+        "tokens": 1563,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__019_gov_redundancy.txt",
+        "relpath": "layer_b/govuk__019_gov_redundancy.txt",
+        "tokens": 2428,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__021_gov_tupe.txt",
+        "relpath": "layer_b/govuk__021_gov_tupe.txt",
+        "tokens": 2313,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__003_gov_agencyworkersyourrights.txt",
+        "relpath": "layer_b/govuk__003_gov_agencyworkersyourrights.txt",
+        "tokens": 1869,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__002_gov_employmentcontractsandconditions.txt",
+        "relpath": "layer_b/govuk__002_gov_employmentcontractsandconditions.txt",
+        "tokens": 1274,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__015_gov_neonatalcare.txt",
+        "relpath": "layer_b/govuk__015_gov_neonatalcare.txt",
+        "tokens": 1595,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__sex-discrimination.txt",
+        "relpath": "layer_b/acas_guides__sex-discrimination.txt",
+        "tokens": 2295,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__018_gov_flexibleworking.txt",
+        "relpath": "layer_b/govuk__018_gov_flexibleworking.txt",
+        "tokens": 1401,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__001_gov_employmentstatus.txt",
+        "relpath": "layer_b/govuk__001_gov_employmentstatus.txt",
+        "tokens": 2442,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__005_gov_nationalminimumwage.txt",
+        "relpath": "layer_b/govuk__005_gov_nationalminimumwage.txt",
+        "tokens": 1707,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__deductions-from-pay-and-wages.txt",
+        "relpath": "layer_b/acas_guides__deductions-from-pay-and-wages.txt",
+        "tokens": 1623,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__performance-management.txt",
+        "relpath": "layer_b/acas_guides__performance-management.txt",
+        "tokens": 1981,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__bullying-at-work.txt",
+        "relpath": "layer_b/acas_guides__bullying-at-work.txt",
+        "tokens": 1367,
+        "quartile": 2,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__011_gov_holidayentitlement.txt",
+        "relpath": "layer_b/govuk__011_gov_holidayentitlement.txt",
+        "tokens": 2852,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__formal-grievance-procedure.txt",
+        "relpath": "layer_b/acas_guides__formal-grievance-procedure.txt",
+        "tokens": 3407,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "doctrine__unfairdismissal.txt",
+        "relpath": "layer_b/doctrine__unfairdismissal.txt",
+        "tokens": 3342,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "codes__settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.txt",
+        "relpath": "layer_b/codes__settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.txt",
+        "tokens": 2949,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__equality-diversity-and-inclusion.txt",
+        "relpath": "layer_b/acas_guides__equality-diversity-and-inclusion.txt",
+        "tokens": 2480,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__pregnancy-and-maternity-discrimination.txt",
+        "relpath": "layer_b/acas_guides__pregnancy-and-maternity-discrimination.txt",
+        "tokens": 3020,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__disciplinary-procedure.txt",
+        "relpath": "layer_b/acas_guides__disciplinary-procedure.txt",
+        "tokens": 3327,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__016_gov_sharedparentalleave.txt",
+        "relpath": "layer_b/govuk__016_gov_sharedparentalleave.txt",
+        "tokens": 3287,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "doctrine__flexibleworking.txt",
+        "relpath": "layer_b/doctrine__flexibleworking.txt",
+        "tokens": 2854,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__employment-contracts-and-the-law.txt",
+        "relpath": "layer_b/acas_guides__employment-contracts-and-the-law.txt",
+        "tokens": 2771,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__age-discrimination.txt",
+        "relpath": "layer_b/acas_guides__age-discrimination.txt",
+        "tokens": 3531,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__disability-discrimination.txt",
+        "relpath": "layer_b/acas_guides__disability-discrimination.txt",
+        "tokens": 3095,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "codes__code-of-practice-on-requests-for-flexible-working.txt",
+        "relpath": "layer_b/codes__code-of-practice-on-requests-for-flexible-working.txt",
+        "tokens": 3040,
+        "quartile": 3,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__tupe.txt",
+        "relpath": "layer_b/acas_guides__tupe.txt",
+        "tokens": 6894,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__paternity-leave-and-pay.txt",
+        "relpath": "layer_b/acas_guides__paternity-leave-and-pay.txt",
+        "tokens": 6713,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "doctrine__zerohourcontracts.txt",
+        "relpath": "layer_b/doctrine__zerohourcontracts.txt",
+        "tokens": 6467,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__shared-parental-leave-and-pay.txt",
+        "relpath": "layer_b/acas_guides__shared-parental-leave-and-pay.txt",
+        "tokens": 4315,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__reasonable-adjustments-at-work.txt",
+        "relpath": "layer_b/acas_guides__reasonable-adjustments-at-work.txt",
+        "tokens": 6004,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__004_gov_employmentstatusguidance.txt",
+        "relpath": "layer_b/govuk__004_gov_employmentstatusguidance.txt",
+        "tokens": 9124,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "codes__code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.txt",
+        "relpath": "layer_b/codes__code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.txt",
+        "tokens": 10484,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__discrimination-at-work.txt",
+        "relpath": "layer_b/acas_guides__discrimination-at-work.txt",
+        "tokens": 5404,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "doctrine__keyemploymentrights.txt",
+        "relpath": "layer_b/doctrine__keyemploymentrights.txt",
+        "tokens": 25998,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__statutory-flexible-working-requests.txt",
+        "relpath": "layer_b/acas_guides__statutory-flexible-working-requests.txt",
+        "tokens": 7064,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__changing-your-employees-contracts.txt",
+        "relpath": "layer_b/acas_guides__changing-your-employees-contracts.txt",
+        "tokens": 8407,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "doctrine__equalitylaw.txt",
+        "relpath": "layer_b/doctrine__equalitylaw.txt",
+        "tokens": 4173,
+        "quartile": 4,
+        "split": "train"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "codes__code-of-practice-on-disciplinary-and-grievance-procedures.txt",
+        "relpath": "layer_b/codes__code-of-practice-on-disciplinary-and-grievance-procedures.txt",
+        "tokens": 3691,
+        "quartile": 4,
+        "split": "train"
+      }
+    ],
+    "val": [
+      {
+        "layer": "layer_a",
+        "filename": "2209915_2023__Mr_A_Bates_and_others_v_Aspen_Phoenix_Newco_Ltd_Ta_Paperchase_in_administration.txt",
+        "relpath": "layer_a/2209915_2023__Mr_A_Bates_and_others_v_Aspen_Phoenix_Newco_Ltd_Ta_Paperchase_in_administration.txt",
+        "tokens": 1035,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6019763_2025__Miss_A_Hunter_v_Ethos_Academy_Trust.txt",
+        "relpath": "layer_a/6019763_2025__Miss_A_Hunter_v_Ethos_Academy_Trust.txt",
+        "tokens": 786,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6020421_2024__L_Mejer_v_Windowflowers_Ltd.txt",
+        "relpath": "layer_a/6020421_2024__L_Mejer_v_Windowflowers_Ltd.txt",
+        "tokens": 1105,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "4103968_2024__Mr_M_Lees_v_BP_Exploration_Operating_Company_Ltd.txt",
+        "relpath": "layer_a/4103968_2024__Mr_M_Lees_v_BP_Exploration_Operating_Company_Ltd.txt",
+        "tokens": 2389,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6018167_2025__Mr_J_Greengrass_v_ONQOR_Ltd.txt",
+        "relpath": "layer_a/6018167_2025__Mr_J_Greengrass_v_ONQOR_Ltd.txt",
+        "tokens": 2859,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1600947_2024__Miss_G_McCarthy_v_Values_in_Care_Ltd_and_Swanton_Care_Community_Ltd.txt",
+        "relpath": "layer_a/1600947_2024__Miss_G_McCarthy_v_Values_in_Care_Ltd_and_Swanton_Care_Community_Ltd.txt",
+        "tokens": 1679,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001356_2025__Ms_L_A_Murning_v_Only_Scranz_Ltd.txt",
+        "relpath": "layer_a/8001356_2025__Ms_L_A_Murning_v_Only_Scranz_Ltd.txt",
+        "tokens": 3253,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6020737_2024__Ms_T_Fairclough_v_St_Helens_Metropolitan_Borough_Council.txt",
+        "relpath": "layer_a/6020737_2024__Ms_T_Fairclough_v_St_Helens_Metropolitan_Borough_Council.txt",
+        "tokens": 4035,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2206663_2020__Mr_W_Davey_v_Harrods_Ltd.txt",
+        "relpath": "layer_a/2206663_2020__Mr_W_Davey_v_Harrods_Ltd.txt",
+        "tokens": 4069,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8001651_2025__Mrs_S_Whyte_v_AGI_Global_Logistics_GLA_Ltd.txt",
+        "relpath": "layer_a/8001651_2025__Mrs_S_Whyte_v_AGI_Global_Logistics_GLA_Ltd.txt",
+        "tokens": 5634,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "8000820_2025__Mr_A_Onojah_v_3D_Leisure_Ltd.txt",
+        "relpath": "layer_a/8000820_2025__Mr_A_Onojah_v_3D_Leisure_Ltd.txt",
+        "tokens": 4350,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2224652_2024__R_Doshi_v_British_United_Provident_Association_Ltd.txt",
+        "relpath": "layer_a/2224652_2024__R_Doshi_v_British_United_Provident_Association_Ltd.txt",
+        "tokens": 3267,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6022729_2024__H_Miah_v_Morgan_Stanley_UK_Ltd_and_Others.txt",
+        "relpath": "layer_a/6022729_2024__H_Miah_v_Morgan_Stanley_UK_Ltd_and_Others.txt",
+        "tokens": 4120,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1809293_2024__Ms_F_Green_v_Imprint_Creative_Print_Solutions_Ltd.txt",
+        "relpath": "layer_a/1809293_2024__Ms_F_Green_v_Imprint_Creative_Print_Solutions_Ltd.txt",
+        "tokens": 13060,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1308533_2023__Mr_A_Plummer_v_Blanc_Aero_Industries_UK_Ltd.txt",
+        "relpath": "layer_a/1308533_2023__Mr_A_Plummer_v_Blanc_Aero_Industries_UK_Ltd.txt",
+        "tokens": 16947,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3307733_2024__Dr_M_Kulczynska_v_AQA_Education.txt",
+        "relpath": "layer_a/3307733_2024__Dr_M_Kulczynska_v_AQA_Education.txt",
+        "tokens": 6909,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6004854_2024__Dr_M_Abdulwhhab_v_The_Princess_Alexandra_Hospital_NHS_Trust.txt",
+        "relpath": "layer_a/6004854_2024__Dr_M_Abdulwhhab_v_The_Princess_Alexandra_Hospital_NHS_Trust.txt",
+        "tokens": 16175,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2200225_2024__Mr_A_M_Said_v_The_Department_of_Health_and_Social_Care.txt",
+        "relpath": "layer_a/2200225_2024__Mr_A_M_Said_v_The_Department_of_Health_and_Social_Care.txt",
+        "tokens": 10898,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1304425_2024__Mrs_K_Mann_v_Citizen_Housing_Group_Ltd.txt",
+        "relpath": "layer_a/1304425_2024__Mrs_K_Mann_v_Citizen_Housing_Group_Ltd.txt",
+        "tokens": 11507,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3200022_2021__Ms_J_Healey_v_London_Borough_of_Tower_Hamlets_and_Adecco_UK_Ltd.txt",
+        "relpath": "layer_a/3200022_2021__Ms_J_Healey_v_London_Borough_of_Tower_Hamlets_and_Adecco_UK_Ltd.txt",
+        "tokens": 6925,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3313088_2023__Mr_G_Severi_v_Bridewell_Consulting_Ltd.txt",
+        "relpath": "layer_a/3313088_2023__Mr_G_Severi_v_Bridewell_Consulting_Ltd.txt",
+        "tokens": 19997,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3324824_2019__Miss_H_Ballerino_v_The_Racecourse_Association_Ltd.txt",
+        "relpath": "layer_a/3324824_2019__Miss_H_Ballerino_v_The_Racecourse_Association_Ltd.txt",
+        "tokens": 19980,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "3300596_2024__Mr_M_Coltofean_and_Others_v_Royal_Harwich_Yacht_Club.txt",
+        "relpath": "layer_a/3300596_2024__Mr_M_Coltofean_and_Others_v_Royal_Harwich_Yacht_Club.txt",
+        "tokens": 19852,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "6019238_2024__Mrs_L_Paisley_v_Blue_Tiger_Coffee_Ltd.txt",
+        "relpath": "layer_a/6019238_2024__Mrs_L_Paisley_v_Blue_Tiger_Coffee_Ltd.txt",
+        "tokens": 19968,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "1401702_2024__Mrs_W_Donnelly_v_The_Guildhall_Poole_Ltd.txt",
+        "relpath": "layer_a/1401702_2024__Mrs_W_Donnelly_v_The_Guildhall_Poole_Ltd.txt",
+        "tokens": 18978,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_a",
+        "filename": "2601354_2023__Dr_M_Benaris_v_Leicestershire_Partnership_NHS_Trust.txt",
+        "relpath": "layer_a/2601354_2023__Dr_M_Benaris_v_Leicestershire_Partnership_NHS_Trust.txt",
+        "tokens": 19854,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__006_gov_understandingyourpay.txt",
+        "relpath": "layer_b/govuk__006_gov_understandingyourpay.txt",
+        "tokens": 1093,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__010_gov_overtimerights.txt",
+        "relpath": "layer_b/govuk__010_gov_overtimerights.txt",
+        "tokens": 414,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__025_gov_timeoff.txt",
+        "relpath": "layer_b/govuk__025_gov_timeoff.txt",
+        "tokens": 767,
+        "quartile": 1,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "govuk__009_gov_restbreaks.txt",
+        "relpath": "layer_b/govuk__009_gov_restbreaks.txt",
+        "tokens": 1187,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__fit-notes-when-off-sick.txt",
+        "relpath": "layer_b/acas_guides__fit-notes-when-off-sick.txt",
+        "tokens": 1392,
+        "quartile": 2,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__race-discrimination.txt",
+        "relpath": "layer_b/acas_guides__race-discrimination.txt",
+        "tokens": 3145,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__dismissals.txt",
+        "relpath": "layer_b/acas_guides__dismissals.txt",
+        "tokens": 3038,
+        "quartile": 3,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__your-rights-during-redundancy.txt",
+        "relpath": "layer_b/acas_guides__your-rights-during-redundancy.txt",
+        "tokens": 5415,
+        "quartile": 4,
+        "split": "val"
+      },
+      {
+        "layer": "layer_b",
+        "filename": "acas_guides__maternity-leave-and-pay.txt",
+        "relpath": "layer_b/acas_guides__maternity-leave-and-pay.txt",
+        "tokens": 5816,
+        "quartile": 4,
+        "split": "val"
+      }
+    ]
+  },
+  "by_relpath": {
+    "layer_a/3303977_2024__Mrs_H_S_Parhar_v_Welwyn_Hatfield_Borough_Council.txt": "train",
+    "layer_a/3300702_2025__Mr_W_Maseke_v_Telefonica_UK_Ltd_and_O2.txt": "train",
+    "layer_a/8001233_2025__Ms_F_Grundy_v_The_Ramsay_Arms_Ltd.txt": "train",
+    "layer_a/4101308_2025__Mrs_P_Fascia_v_Gordon_MacNeil_Solicitor.txt": "train",
+    "layer_a/3200221_2025__S_Allpress_and_others_v_Coco_Lighting_Ltd_in_voluntary_liquidation.txt": "train",
+    "layer_a/3200372_2024__Mr_T_Constable_v_C_R_Swift_Landscaping_Ltd.txt": "train",
+    "layer_a/2600936_2023__Mr_J_Mastromarino_v_Capita_Business_Services_Ltd.txt": "train",
+    "layer_a/3201836_2023__Miss_K_Wing_So_v_Tech_Nordic_Advocates_and_Ms_J_Carlsson.txt": "train",
+    "layer_a/4101153_2025__Ms_A_Reynolds_and_Others_v_Hotelfone_Ltd_in_Liquidation_co_Begbies_Traynor_Ltd_a.txt": "train",
+    "layer_a/8001897_2025__Mr_P_Jessup_v_Huseyin_Kulhas_Ta_Caf\u00e9_Edinburgh.txt": "train",
+    "layer_a/6002757_2024__Mr_S_Radu_v_London_Borough_of_Hounslow_and_others.txt": "train",
+    "layer_a/6011201_2024__L_Bland_v_Vine_FX_Ltd.txt": "train",
+    "layer_a/8001167_2025__Miss_U_Polec_v_Pars_Foods_Ltd.txt": "train",
+    "layer_a/2303937_2024__J_Harper_v_Gatwick_Airport_Ltd.txt": "train",
+    "layer_a/1601337_2024__J_Whitehouse_v_WM_Morrison_Supermarkets_Ltd.txt": "train",
+    "layer_a/6002768_2023__Mrs_A_F_D_S_Couto_v_Dorset_HealthCare_University_NHS_Foundation_Trust.txt": "train",
+    "layer_a/6010070_2025__Mr_N_Coulam_v_The_Chief_Constable_of_Avon_and_Somerset_Constabulary.txt": "train",
+    "layer_a/8001257_2025__Mr_G_Mitchell_v_The_Fountain_Bar_Ltd.txt": "train",
+    "layer_a/8000259_2025__Dr_A_Nassar_v_National_Waiting_Times_Centre_Board.txt": "train",
+    "layer_a/3202201_2024__Mr_M_C_Acero_v_Crystalcare_Cleaning_Services_Ltd.txt": "train",
+    "layer_a/3308751_2024__B_Russell_v_Cavalry_Claims_Services_Ltd.txt": "train",
+    "layer_a/6038570_2025__Mrs_M_Cole_v_MM_Flowers_Ltd.txt": "train",
+    "layer_a/8002332_2025__Mr_F_Allan_v_Central_Taxis_North_East_Ltd.txt": "train",
+    "layer_a/3311175_2024__Miss_A_Gray_v_Coronet_Flowers_Ltd.txt": "train",
+    "layer_a/2306525_2020__Mrs_L_Oyebisi_v_Hyde_Housing_Association_Ltd.txt": "train",
+    "layer_a/6012236_2025__Mr_M_Box_v_Hembury_Fort_House_and_Ms_AO_Taylor.txt": "train",
+    "layer_a/2200608_2024__Mr_C_Wise_v_HM_Revenue_and_Customs.txt": "train",
+    "layer_a/6005922_2024__Mr_S_Pinto_v_The_Stepstone_Group_UK_Ltd.txt": "train",
+    "layer_a/6027626_2025__Mr_S_Nertey_v_Angel_Approved_Ltd.txt": "train",
+    "layer_a/8001355_2025__Mrs_J_Wallace_v_Whisky_Merchants_Trading_Ltd_in_Administration.txt": "train",
+    "layer_a/3200381_2024__A_Mahima_and_Others_v_U_M_Shafiq_Ta_Cupp_Bubble_Tea.txt": "train",
+    "layer_a/1311864_2024__Mr_Y_Alem_v_Uber_Britannia_Ltd.txt": "train",
+    "layer_a/8001082_2025__A_Zaloga_v_Excellerate_Services_UK_Ltd.txt": "train",
+    "layer_a/6019387_2025__Ms_S_Guyan_v_eXPD8_Ltd.txt": "train",
+    "layer_a/6023602_2025__Mr_L_Abdimohamed_v_Avantao_Technologies_Ltd.txt": "train",
+    "layer_a/3303624_2024__Mr_R_Avram_v_Smartsec_Solutions_Ltd_and_Karter_Estates_Ltd.txt": "train",
+    "layer_a/3305589_2024__R_Giles_v_Cranswick_plc_and_others.txt": "train",
+    "layer_a/1400002_2023__M_Flint_v_Albany_Apartments_Ltd.txt": "train",
+    "layer_a/2217983_2024__Mr_M_Cruz_v_Ladbrokes_Betting_and_Gaming_Ltd.txt": "train",
+    "layer_a/4101433_2025__Mr_B_G_Torriero_v_Harleys_Franchise_Ltd.txt": "train",
+    "layer_a/6012163_2024__Ms_L_Simanaviciene_v_Providing_Care_Ltd_and_Moving_Up_Care_Ltd.txt": "train",
+    "layer_a/6025831_2025__Ms_K_Carlsen_v_Architecture_North.txt": "train",
+    "layer_a/6017399_2025__T_Duskun_v_Haf\u0131zlar_G\u0131da_London_Ltd.txt": "train",
+    "layer_a/2217766_2024__Mr_D_Estephane_v_Barking_Havering_and_Redbridge_University_Hospitals_NHS_Trust.txt": "train",
+    "layer_a/8001010_2025__Mr_D_Morgan_v_Royal_Mail_Group_Ltd.txt": "train",
+    "layer_a/6022090_2024__P_Pasatas_v_Grecian_Artisan_Wine_Co_Ltd.txt": "train",
+    "layer_a/6008646_2025__Mr_M_S_Bhogal_v_HM_Revenue_and_Customs.txt": "train",
+    "layer_a/6039320_2025__P_Sullivan_v_Capita_plc.txt": "train",
+    "layer_a/4106855_2024__J_Ogundolani_v_Viewpoint_Housing_Association_Ltd.txt": "train",
+    "layer_a/3307764_2024__Mr_M_Moloney_v_Cantifix_Ltd.txt": "train",
+    "layer_a/8001603_2025__Mr_M_Peat_v_Valley_Group_Ltd.txt": "train",
+    "layer_a/6034488_2025__Mr_P_Jones_v_St_Antonys_College_in_the_University_of_Oxford.txt": "train",
+    "layer_a/1300257_2025__Mr_D_Spencer_v_DPD_Group_UK_Ltd.txt": "train",
+    "layer_a/6018505_2024__Mr_P_Stevens_v_Well_Known_Brands_Ltd.txt": "train",
+    "layer_a/1305709_2024__Miss_B_Allatt_v_Midlands_Partnership_University_NHS_Foundation_Trust.txt": "train",
+    "layer_a/3200500_2025__Mr_S_Manners_v_Manchett_Group_Ltd.txt": "train",
+    "layer_a/4106680_2024__Mr_D_Buchan_v_S_W_Enviro_Ltd.txt": "train",
+    "layer_a/8000677_2024__X_v_University_of_Manchester_and_Universities_Superannuation_Scheme_Ltd.txt": "train",
+    "layer_a/2201912_2022__Ms_M_Barcker_v_Moorfields_Eye_Hospital_NHS_Foundation_Trust.txt": "train",
+    "layer_a/8000628_2025__Ms_K_Taylor_v_Grampian_Health_Board_and_P_Reid.txt": "train",
+    "layer_a/2202088_2022__CD_v_Vigilant_Security_Scotland_Ltd_Ta_Croma_Vigilant.txt": "train",
+    "layer_a/6006801_2024__Mr_B_Lowe_v_Openreach_Ltd.txt": "train",
+    "layer_a/3300711_2023__Mr_A_Sochon_and_others_v_The_Felixstowe_Dock_and_Railway_Company.txt": "train",
+    "layer_a/2306450_2023__Mx_U_Miah_v_Synnovis_Analytics_LLP.txt": "train",
+    "layer_a/6007179_2025__Mr_F_Scattino_v_Griffin_Catering_Services_Ltd_and_Fuller_Smith_and_Turner_plc.txt": "train",
+    "layer_a/8001687_2025__Mr_C_Kane_v_City_of_Edinburgh_Council.txt": "train",
+    "layer_a/8001393_2025__Mr_A_Jokiel_v_STEF_Langdons_Ltd.txt": "train",
+    "layer_a/6010058_2024__Mrs_M_Berticsova_v_Infinite_Intermediate_Care_Ltd.txt": "train",
+    "layer_a/1308775_2023__Ms_C_Stone_v_Crest_Nicholson_Operations_Ltd.txt": "train",
+    "layer_a/8000592_2025__Mrs_G_McDonald_Allan_v_Student_Loans_Company_Ltd.txt": "train",
+    "layer_a/3303005_2024__Miss_S_Tadevossian_v_Chief_Constable_of_Surrey_Police.txt": "train",
+    "layer_a/6007280_2025__Ms_A_Cooke_v_Somerset_NHS_Foundation_Trust.txt": "train",
+    "layer_a/8002952_2025__Mr_J_McCall_v_Glasgow_Prestwick_Airport_Ltd.txt": "train",
+    "layer_a/3200542_2024__Mrs_A_Bearman_v_Shaw_Trust_Ltd_The.txt": "train",
+    "layer_a/8000892_2025__Mr_A_Harbhajanka_v_Shell_UK_Ltd.txt": "train",
+    "layer_a/1303343_2024__Miss_S_Hunton_v_Uttoxeter_Veterinary_Practice_Ltd.txt": "train",
+    "layer_a/8000695_2025__Dr_J_Koechlin_v_Global_Voices_Ltd.txt": "train",
+    "layer_a/6009382_2024__Mr_M_Ageli_v_Sabtina_Ltd.txt": "train",
+    "layer_a/6003069_2024__Mrs_F_Atif_v_Luisa_Spagnoli_UK_Ltd.txt": "train",
+    "layer_a/8001092_2025__Mr_O_Nnamuchi_v_UNISON_Scotland.txt": "train",
+    "layer_a/6007948_2024__Mr_J_Che_v_Plymouth_Hope.txt": "train",
+    "layer_a/4103512_2023__Mr_B_McTague_and_Others_v_The_Scottish_Ministers.txt": "train",
+    "layer_a/3310946_2023__Mrs_S_Dye_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt": "train",
+    "layer_a/6018181_2024__Mr_M_Hehir_v_Metroline_Ltd.txt": "train",
+    "layer_a/4102789_2025__Ms_K_L_Coleman_v_Thermoelectric_Conversion_Systems_Ltd.txt": "train",
+    "layer_a/3303382_2024__Mr_M_J_Ashwood_v_DHL_Services_Ltd.txt": "train",
+    "layer_a/8001918_2024__Mrs_P_Sutherland_v_G_L_Enterprises_and_Food_Creations_Bathgate_Ltd.txt": "train",
+    "layer_a/6003865_2024__R_Screen_v_Matt_Screen_Pet_Services_Ltd_Ta_Waggy_Walks.txt": "train",
+    "layer_a/6012642_2024__Mr_M_Orr_v_Marks_and_Spencer_plc.txt": "train",
+    "layer_a/2302233_2020__Ms_R_Owens_v_Network_Rail_Ltd.txt": "train",
+    "layer_a/3204197_2022__Ms_J_Boswell_v_Beacon_Multi_Academy_Trust_Ltd.txt": "train",
+    "layer_a/8001246_2024__Mr_A_Chandio_v_Grampian_Health_Board.txt": "train",
+    "layer_a/2200732_2024__Mr_S_Hasan_and_Others_v_University_of_West_London.txt": "train",
+    "layer_a/8001509_2025__Mr_J_Caird_v_British_Telecommunications_plc.txt": "train",
+    "layer_a/3311810_2024__Mr_J_La_v_Community_Ambulance_Service_Ltd.txt": "train",
+    "layer_a/6004789_2024__Ms_K_Rowbottom_v_Syriana_One_Ltd_and_Mr_K_Al_Sabbah.txt": "train",
+    "layer_a/6011292_2024__Ms_V_Solloway_v_HSBC_Group_Management_Services_Ltd_and_Others.txt": "train",
+    "layer_a/6007949_2024__Mr_R_A_Velasquez_v_Mr_R_S_O_Rosas_and_Chakana_London_Ltd.txt": "train",
+    "layer_a/2411365_2023__W_Lock_v_Sopra_Steria_Ltd.txt": "train",
+    "layer_a/6019968_2025__Mr_P_Shuttleworth_v_Cabinet_Office_and_Civil_Service_Commission.txt": "train",
+    "layer_a/8001363_2025__Mr_L_Black_v_Caledonian_Automatic_Transmissions_Ltd.txt": "train",
+    "layer_a/8002160_2024__Mr_D_McCue_v_Coldside_Medical_Practice.txt": "train",
+    "layer_a/3200973_2022__Mr_M_J_Uddin_Formerly_Known_as_M_Ali_v_Supersafe_Security_Ltd_and_Security_Smart.txt": "train",
+    "layer_a/2202003_2024__Miss_C_Royer_v_Marks_and_Spencer_plc.txt": "train",
+    "layer_a/6016447_2024__Mrs_M_Muti_v_Ocean_Fish_Retail_Ltd.txt": "train",
+    "layer_a/2307121_2023__Mr_M_Ravichandran_v_Nexus_Foods_Ltd.txt": "train",
+    "layer_a/6009717_2025__S_William_v_Quality_Life_UK_Care_Services_Ltd.txt": "train",
+    "layer_a/8000679_2025__Ms_L_Borrini_v_The_National_Trust_for_Scotland.txt": "train",
+    "layer_a/1307891_2023__Dr_M_Weaver_v_Black_Country_Healthcare_NHS_Foundation_Trust.txt": "train",
+    "layer_a/2501192_2024__Ms_B_Hutchinson_and_Others_v_County_Durham_and_Darlington_NHS_Foundation_Trust.txt": "train",
+    "layer_a/1406290_2023__Ms_A_Akhtaru_v_The_Winchester_Diocesan_Board_of_Finance.txt": "train",
+    "layer_a/2300285_2022__Mr_Z_v_Medway_NHS_Foundation_Trust.txt": "train",
+    "layer_a/8000254_2025__Ms_M_Clark_v_I_C_T_S_UK_Ltd.txt": "train",
+    "layer_a/8001100_2024__Ms_C_Campbell_v_Lothian_Health_Board.txt": "train",
+    "layer_a/6018751_2024__Mr_S_Asher_v_1PhysioUK_Ltd.txt": "train",
+    "layer_a/3308216_2023__Mr_P_Langton_v_Buckinghamshire_Fire_and_Rescue_Service.txt": "train",
+    "layer_a/2218131_2024__Ms_M_Campbell_v_Department_for_Education.txt": "train",
+    "layer_a/2304390_2023__Ms_N_Fernandez_v_Guys_and_St_Thomas_NHS_Foundation_Trust.txt": "train",
+    "layer_a/2206741_2021__Mr_A_Zia_Ud_Din_v_HP_Inc_UK_Ltd_and_Computacentre_UK_Ltd.txt": "train",
+    "layer_a/3202544_2021__Mr_L_Stone_v_Regent_Office_Care_Ltd_Ta_Samsic_UK_and_JPC_by_Samsic_and_Others.txt": "train",
+    "layer_a/3202454_2023__Mr_B_Pejic_v_Storm_Global_Ltd_and_Ryanair_DAC.txt": "train",
+    "layer_a/4107494_2023__Ms_H_Rennie_v_Greater_Glasgow_Health_Board.txt": "train",
+    "layer_a/2223308_2024__Miss_L_Medcraft_v_Chanel_Ltd.txt": "train",
+    "layer_a/3203214_2021__Miss_K_Arnold_v_Select_Enterprises_South_East_Ltd_and_Mrs_B_Kalsi.txt": "train",
+    "layer_a/3314998_2022__Mrs_R_Forward_v_Guildowns_Group_Practice.txt": "train",
+    "layer_a/3310748_2021__Mr_J_Mezgebe_v_Christs_College_Finchley.txt": "train",
+    "layer_a/3309451_2023__Mr_N_Middleton_v_The_Hawk_and_Owl_Trust_Ltd_and_Mr_A_Blumfield.txt": "train",
+    "layer_a/3312419_2023__Dr_B_Fulda_v_The_Chancellor_Masters_and_Scholars_of_the_University_of_Cambridge.txt": "train",
+    "layer_a/3310860_2022__Miss_M_Manjula_v_Immigration_and_Nationality_Services_Ltd_and_IANS_Solicitors_Lt.txt": "train",
+    "layer_a/8000921_2024__Mr_D_Sookur_v_Highland_Coaches_Ltd_and_N_M_Maran.txt": "train",
+    "layer_a/8001652_2024__Mr_R_Scott_v_Tillicoultry_Quarries_Ltd.txt": "train",
+    "layer_a/2202954_2022__Ms_A_Sohail_and_Ms_A_Khalid_v_Lloyds_Bank_plc.txt": "train",
+    "layer_a/3200538_2023__Mr_A_Lancaster_and_Others_v_Mitie_Group_plc.txt": "train",
+    "layer_a/6017991_2024__Ms_L_Waller_v_Swann_Engineering_Group_Ltd.txt": "train",
+    "layer_a/3307564_2023__Mr_D_Gallop_v_The_Chief_Constable_of_the_Norfolk_Constabulary.txt": "train",
+    "layer_a/2402393_2024__Mr_M_Armstrong_v_The_Secretary_of_State_for_Justice.txt": "train",
+    "layer_a/3200207_2022__Ms_L_Thomas_v_London_Borough_of_Redbridge.txt": "train",
+    "layer_a/8002168_2024__Mr_J_Nevin_and_Others_v_INEOS_Infrastructure_Grangemouth_Ltd.txt": "train",
+    "layer_a/3313165_2023__M_Craigie_v_East_Anglia_Home_Improvements_Ltd.txt": "train",
+    "layer_a/8000708_2025__Ms_F_Z_Ouchrif_v_Aspire_Housing_and_Personal_Development.txt": "train",
+    "layer_a/2305932_2023__Mrs_S_Stone_v_MA_Business_Ltd.txt": "train",
+    "layer_a/6016850_2024__Mrs_A_Dickson_Lewis_v_Milton_Keynes_City_Council.txt": "train",
+    "layer_a/1308610_2023__Ms_M_Black_v_West_Midlands_Ambulance_Service_University_NHS_Foundation_Trust.txt": "train",
+    "layer_a/8000875_2025__Ms_A_L_McVey_v_Sky_UK_Ltd.txt": "train",
+    "layer_b/govuk__007_gov_paye.txt": "train",
+    "layer_b/govuk__024_gov_disciplinaryprocedures.txt": "train",
+    "layer_b/govuk__026_gov_grievances.txt": "train",
+    "layer_b/acas_guides__sick-leave.txt": "train",
+    "layer_b/govuk__008_gov_weeklyworkinghours.txt": "train",
+    "layer_b/govuk__020_gov_dismissal.txt": "train",
+    "layer_b/govuk__022_gov_whistleblowing.txt": "train",
+    "layer_b/govuk__023_gov_discrimination.txt": "train",
+    "layer_b/govuk__017_gov_unpaidparentalleave.txt": "train",
+    "layer_b/acas_guides__pay-for-working-extra-hours.txt": "train",
+    "layer_b/doctrine__redundancy.txt": "train",
+    "layer_b/govuk__012_gov_ssp.txt": "train",
+    "layer_b/acas_guides__mediation-at-work.txt": "train",
+    "layer_b/govuk__019_gov_redundancy.txt": "train",
+    "layer_b/govuk__021_gov_tupe.txt": "train",
+    "layer_b/govuk__003_gov_agencyworkersyourrights.txt": "train",
+    "layer_b/govuk__002_gov_employmentcontractsandconditions.txt": "train",
+    "layer_b/govuk__015_gov_neonatalcare.txt": "train",
+    "layer_b/acas_guides__sex-discrimination.txt": "train",
+    "layer_b/govuk__018_gov_flexibleworking.txt": "train",
+    "layer_b/govuk__001_gov_employmentstatus.txt": "train",
+    "layer_b/govuk__005_gov_nationalminimumwage.txt": "train",
+    "layer_b/acas_guides__deductions-from-pay-and-wages.txt": "train",
+    "layer_b/acas_guides__performance-management.txt": "train",
+    "layer_b/acas_guides__bullying-at-work.txt": "train",
+    "layer_b/govuk__011_gov_holidayentitlement.txt": "train",
+    "layer_b/acas_guides__formal-grievance-procedure.txt": "train",
+    "layer_b/doctrine__unfairdismissal.txt": "train",
+    "layer_b/codes__settlement-agreements-under-section-111a-of-the-employment-rights-act-1996.txt": "train",
+    "layer_b/acas_guides__equality-diversity-and-inclusion.txt": "train",
+    "layer_b/acas_guides__pregnancy-and-maternity-discrimination.txt": "train",
+    "layer_b/acas_guides__disciplinary-procedure.txt": "train",
+    "layer_b/govuk__016_gov_sharedparentalleave.txt": "train",
+    "layer_b/doctrine__flexibleworking.txt": "train",
+    "layer_b/acas_guides__employment-contracts-and-the-law.txt": "train",
+    "layer_b/acas_guides__age-discrimination.txt": "train",
+    "layer_b/acas_guides__disability-discrimination.txt": "train",
+    "layer_b/codes__code-of-practice-on-requests-for-flexible-working.txt": "train",
+    "layer_b/acas_guides__tupe.txt": "train",
+    "layer_b/acas_guides__paternity-leave-and-pay.txt": "train",
+    "layer_b/doctrine__zerohourcontracts.txt": "train",
+    "layer_b/acas_guides__shared-parental-leave-and-pay.txt": "train",
+    "layer_b/acas_guides__reasonable-adjustments-at-work.txt": "train",
+    "layer_b/govuk__004_gov_employmentstatusguidance.txt": "train",
+    "layer_b/codes__code-of-practice-on-time-off-for-trade-union-duties-and-activities-including-guidance-on-time-off-for-union-learning-representatives.txt": "train",
+    "layer_b/acas_guides__discrimination-at-work.txt": "train",
+    "layer_b/doctrine__keyemploymentrights.txt": "train",
+    "layer_b/acas_guides__statutory-flexible-working-requests.txt": "train",
+    "layer_b/acas_guides__changing-your-employees-contracts.txt": "train",
+    "layer_b/doctrine__equalitylaw.txt": "train",
+    "layer_b/codes__code-of-practice-on-disciplinary-and-grievance-procedures.txt": "train",
+    "layer_a/2209915_2023__Mr_A_Bates_and_others_v_Aspen_Phoenix_Newco_Ltd_Ta_Paperchase_in_administration.txt": "val",
+    "layer_a/6019763_2025__Miss_A_Hunter_v_Ethos_Academy_Trust.txt": "val",
+    "layer_a/6020421_2024__L_Mejer_v_Windowflowers_Ltd.txt": "val",
+    "layer_a/4103968_2024__Mr_M_Lees_v_BP_Exploration_Operating_Company_Ltd.txt": "val",
+    "layer_a/6018167_2025__Mr_J_Greengrass_v_ONQOR_Ltd.txt": "val",
+    "layer_a/1600947_2024__Miss_G_McCarthy_v_Values_in_Care_Ltd_and_Swanton_Care_Community_Ltd.txt": "val",
+    "layer_a/8001356_2025__Ms_L_A_Murning_v_Only_Scranz_Ltd.txt": "val",
+    "layer_a/6020737_2024__Ms_T_Fairclough_v_St_Helens_Metropolitan_Borough_Council.txt": "val",
+    "layer_a/2206663_2020__Mr_W_Davey_v_Harrods_Ltd.txt": "val",
+    "layer_a/8001651_2025__Mrs_S_Whyte_v_AGI_Global_Logistics_GLA_Ltd.txt": "val",
+    "layer_a/8000820_2025__Mr_A_Onojah_v_3D_Leisure_Ltd.txt": "val",
+    "layer_a/2224652_2024__R_Doshi_v_British_United_Provident_Association_Ltd.txt": "val",
+    "layer_a/6022729_2024__H_Miah_v_Morgan_Stanley_UK_Ltd_and_Others.txt": "val",
+    "layer_a/1809293_2024__Ms_F_Green_v_Imprint_Creative_Print_Solutions_Ltd.txt": "val",
+    "layer_a/1308533_2023__Mr_A_Plummer_v_Blanc_Aero_Industries_UK_Ltd.txt": "val",
+    "layer_a/3307733_2024__Dr_M_Kulczynska_v_AQA_Education.txt": "val",
+    "layer_a/6004854_2024__Dr_M_Abdulwhhab_v_The_Princess_Alexandra_Hospital_NHS_Trust.txt": "val",
+    "layer_a/2200225_2024__Mr_A_M_Said_v_The_Department_of_Health_and_Social_Care.txt": "val",
+    "layer_a/1304425_2024__Mrs_K_Mann_v_Citizen_Housing_Group_Ltd.txt": "val",
+    "layer_a/3200022_2021__Ms_J_Healey_v_London_Borough_of_Tower_Hamlets_and_Adecco_UK_Ltd.txt": "val",
+    "layer_a/3313088_2023__Mr_G_Severi_v_Bridewell_Consulting_Ltd.txt": "val",
+    "layer_a/3324824_2019__Miss_H_Ballerino_v_The_Racecourse_Association_Ltd.txt": "val",
+    "layer_a/3300596_2024__Mr_M_Coltofean_and_Others_v_Royal_Harwich_Yacht_Club.txt": "val",
+    "layer_a/6019238_2024__Mrs_L_Paisley_v_Blue_Tiger_Coffee_Ltd.txt": "val",
+    "layer_a/1401702_2024__Mrs_W_Donnelly_v_The_Guildhall_Poole_Ltd.txt": "val",
+    "layer_a/2601354_2023__Dr_M_Benaris_v_Leicestershire_Partnership_NHS_Trust.txt": "val",
+    "layer_b/govuk__006_gov_understandingyourpay.txt": "val",
+    "layer_b/govuk__010_gov_overtimerights.txt": "val",
+    "layer_b/govuk__025_gov_timeoff.txt": "val",
+    "layer_b/govuk__009_gov_restbreaks.txt": "val",
+    "layer_b/acas_guides__fit-notes-when-off-sick.txt": "val",
+    "layer_b/acas_guides__race-discrimination.txt": "val",
+    "layer_b/acas_guides__dismissals.txt": "val",
+    "layer_b/acas_guides__your-rights-during-redundancy.txt": "val",
+    "layer_b/acas_guides__maternity-leave-and-pay.txt": "val"
+  }
 }
