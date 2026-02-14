@@ -22,6 +22,15 @@ def get_git_hash() -> str:
         return "unknown"
 
 
+def as_repo_relative(path: Path, repo_root: Path) -> str:
+    """Return a portable path relative to repo root when possible."""
+    resolved = path.resolve()
+    try:
+        return str(resolved.relative_to(repo_root))
+    except ValueError:
+        return str(path)
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="select documents into a fixed-token-budget training corpus"
@@ -170,6 +179,7 @@ def main():
     output_dir = Path(args.output_dir)
     reflow_dir = Path(args.reflow_dir).resolve()
     layer_b_dir = Path(args.layer_b_dir).resolve()
+    repo_root = Path(__file__).resolve().parents[1]
 
     # clear and recreate
     if output_dir.exists():
@@ -211,7 +221,7 @@ def main():
         "layer_a": {
             "files": len(selected),
             "tokens": cumulative,
-            "source_dir": str(reflow_dir),
+            "source_dir": as_repo_relative(reflow_dir, repo_root),
             "selected": sorted(
                 [{"filename": d["filename"], "tokens": d["tokens"]} for d in selected],
                 key=lambda x: x["filename"],
@@ -220,7 +230,11 @@ def main():
         "layer_b": {
             "files": len(layer_b_files),
             "tokens": layer_b_tokens,
-            "source_dir": str(layer_b_dir),
+            "source_dir": as_repo_relative(layer_b_dir, repo_root),
+            "selected": sorted(
+                [{"filename": d["filename"], "tokens": d["tokens"]} for d in layer_b_files],
+                key=lambda x: x["filename"],
+            ),
         },
         "total_tokens": total_with_lb,
     }
