@@ -1,8 +1,10 @@
 # src/train_lora.py
 
 import argparse
+import math
 import yaml
 from pathlib import Path
+from typing import Optional
 
 import torch
 from transformers import (
@@ -17,8 +19,9 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 
 from .data_module import (
     LMDataConfig,
-    load_tokenizer,
+    get_domain_corpus_lm_datasets,
     get_eurlex_text_lm_datasets,
+    load_tokenizer,
 )
 
 
@@ -90,6 +93,68 @@ def apply_lora(model, lora_cfg_dict: dict):
     return model
 
 
+class StratifiedEvalTrainer(Trainer):
+    def __init__(
+        self,
+        *args,
+        eval_dataset_layer_a=None,
+        eval_dataset_layer_b=None,
+        **kwargs,
+    ):
+        super().__init__(*args, **kwargs)
+        self.eval_dataset_layer_a = eval_dataset_layer_a
+        self.eval_dataset_layer_b = eval_dataset_layer_b
+
+    @staticmethod
+    def _add_perplexity(metrics: dict, prefix: str) -> None:
+        key = f"{prefix}_loss"
+        if key in metrics:
+            loss = float(metrics[key])
+            if not math.isfinite(loss):
+                metrics[f"{prefix}_perplexity"] = float("nan")
+                return
+            try:
+                metrics[f"{prefix}_perplexity"] = math.exp(loss)
+            except OverflowError:
+                metrics[f"{prefix}_perplexity"] = float("inf")
+
+    def evaluate(
+        self,
+        eval_dataset=None,
+        ignore_keys=None,
+        metric_key_prefix: str = "eval",
+    ):
+        metrics = Trainer.evaluate(
+            self,
+            eval_dataset=eval_dataset,
+            ignore_keys=ignore_keys,
+            metric_key_prefix=metric_key_prefix,
+        )
+        self._add_perplexity(metrics, metric_key_prefix)
+
+        if self.eval_dataset_layer_a is not None:
+            metrics_a = Trainer.evaluate(
+                self,
+                eval_dataset=self.eval_dataset_layer_a,
+                ignore_keys=ignore_keys,
+                metric_key_prefix=f"{metric_key_prefix}_layer_a",
+            )
+            self._add_perplexity(metrics_a, f"{metric_key_prefix}_layer_a")
+            metrics.update(metrics_a)
+
+        if self.eval_dataset_layer_b is not None:
+            metrics_b = Trainer.evaluate(
+                self,
+                eval_dataset=self.eval_dataset_layer_b,
+                ignore_keys=ignore_keys,
+                metric_key_prefix=f"{metric_key_prefix}_layer_b",
+            )
+            self._add_perplexity(metrics_b, f"{metric_key_prefix}_layer_b")
+            metrics.update(metrics_b)
+
+        return metrics
+
+
 def get_datasets_and_collator(
     data_cfg: dict,
     model_name: str,
@@ -100,17 +165,25 @@ def get_datasets_and_collator(
         max_seq_length=data_cfg["max_seq_length"],
         train_subset=data_cfg.get("train_subset"),
         val_subset=data_cfg.get("val_subset"),
+        corpus_dir=data_cfg.get("corpus_dir"),
+        split_json=data_cfg.get("split_json"),
         seed=seed,
     )
 
     tokenizer = load_tokenizer(model_name)
+    val_a_ds: Optional[torch.utils.data.Dataset] = None
+    val_b_ds: Optional[torch.utils.data.Dataset] = None
 
     if data_cfg["type"] == "eurlex_text_lm":
         train_ds, val_ds, collator = get_eurlex_text_lm_datasets(tokenizer, lm_cfg)
+    elif data_cfg["type"] == "domain_corpus_lm":
+        train_ds, val_ds, val_a_ds, val_b_ds, collator = get_domain_corpus_lm_datasets(
+            tokenizer, lm_cfg
+        )
     else:
         raise ValueError(f"unknown data.type: {data_cfg['type']}")
 
-    return tokenizer, train_ds, val_ds, collator
+    return tokenizer, train_ds, val_ds, val_a_ds, val_b_ds, collator
 
 
 def main():
@@ -130,7 +203,7 @@ def main():
     use_4bit = hw_cfg.get("use_4bit", False)
 
     # data
-    tokenizer, train_ds, val_ds, collator = get_datasets_and_collator(
+    tokenizer, train_ds, val_ds, val_a_ds, val_b_ds, collator = get_datasets_and_collator(
         data_cfg,
         base_model_name,
         seed=train_cfg["seed"],
@@ -157,6 +230,7 @@ def main():
     lr = float(train_cfg["learning_rate"])
     warmup_ratio = float(train_cfg["warmup_ratio"])
     weight_decay = float(train_cfg["weight_decay"])
+    max_steps = train_cfg.get("max_steps")
 
     training_args = TrainingArguments(
         output_dir=str(output_dir),
@@ -164,7 +238,8 @@ def main():
         per_device_train_batch_size=int(train_cfg["per_device_train_batch_size"]),
         per_device_eval_batch_size=int(train_cfg["per_device_eval_batch_size"]),
         gradient_accumulation_steps=int(train_cfg["gradient_accumulation_steps"]),
-        num_train_epochs=float(train_cfg["num_train_epochs"]),
+        num_train_epochs=float(train_cfg.get("num_train_epochs", 1.0)),
+        max_steps=int(max_steps) if max_steps is not None else -1,
         learning_rate=lr,
         warmup_ratio=warmup_ratio,
         weight_decay=weight_decay,
@@ -180,11 +255,13 @@ def main():
     )
 
 
-    trainer = Trainer(
+    trainer = StratifiedEvalTrainer(
         model=model,
         args=training_args,
         train_dataset=train_ds,
         eval_dataset=val_ds,
+        eval_dataset_layer_a=val_a_ds,
+        eval_dataset_layer_b=val_b_ds,
         data_collator=collator,
     )
 
