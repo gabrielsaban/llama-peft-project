@@ -419,7 +419,7 @@ once pilot stats are finalised:
 
 ---
 
-## 30/01/2026-01/02/2026
+## 30/01/2026 - 01/02/2026
 
 ### milestone: data → tokenisation pipeline completed (layer a + layer b)
 
@@ -672,3 +672,104 @@ once pilot stats are finalised:
 - begin training pipeline: tokenise `corpus_final/` into HuggingFace dataset format
 - run first LoRA vs QLoRA comparison experiment
 - write full methdology section
+
+---
+
+## 14/02/2026
+
+### protocol freeze direction + calibration setup
+
+- moved experimental control from epoch-driven runs to **fixed-budget step-driven runs**:
+  - `max_steps` is now first-class in training config and wired into `TrainingArguments`
+  - objective is strict comparability across LoRA/QLoRA under identical optimisation-step/token budgets
+- confirmed model choice for dissertation runs as **base LLaMA** (not instruct) for DAPT/perplexity evaluation:
+  - avoids instruction-tuning alignment confounds when measuring domain adaptation dynamics
+- consolidated and reviewed assumptions in `logs/protocol_v1.md` as the formal pre-calibration protocol:
+  - fixed context length (`seq_len=1024`) and fixed split seed (`42`)
+  - fixed LoRA target modules (`q_proj/k_proj/v_proj/o_proj`), baseline adapter capacity (`r=16, alpha=32`)
+  - fixed optimiser/scheduler family (AdamW + cosine, warmup ratio 0.05, clip 1.0)
+  - fixed comparative design principle: hold optimisation/data budget constant across LoRA vs QLoRA
+  - fixed evaluation intent: report overall val ppl plus stratified layer A / layer B val ppl
+
+### corpus manifest + split reproducibility hardening
+
+- updated `preprocess/select_corpus.py` to emit a fully specified manifest:
+  - added `layer_b.selected` per-file `{filename, tokens}` entries (previous blocker for stratified splitting)
+  - made `source_dir` values portable repo-relative paths (removed machine-specific absolute paths)
+- rebuilt `data/domain_corpus/corpus_manifest.json` and verified internal consistency of file and token totals
+
+- refactored `src/create_intrinsic_splits.py` to match protocol:
+  - stratified train/val by **layer (A/B) + token-length quartile within layer**
+  - outputs `data/splits/intrinsic_splits.json` with:
+    - `splits.{train,val}` rows
+    - `by_relpath` mapping (`layer_a/...`, `layer_b/...`) for loader-safe identifiers
+    - counts + token totals by split (layer-wise and overall)
+    - quartile definition + allocation debug metadata
+- rationale captured: quartile stratification stabilises held-out perplexity estimates and reduces short-doc skew in validation
+
+### data module refactor for domain DAPT
+
+- refactored `src/data_module.py` from eur-lex-only path to domain-corpus path:
+  - consumes `corpus_final/` + split JSON assignments
+  - deterministic row ordering via `relpath` sort for reproducibility
+  - robust split-label handling (`val` / `validation`)
+  - UTF-8 decoding with replacement fallback for brittle source files
+- replaced map-batch-dependent grouping with deterministic python-level token concat+chunk
+  - avoids hidden batch-boundary token loss
+  - chunks to fixed `seq_len=1024`
+- returns:
+  - `lm_train`
+  - `lm_val_all`
+  - `lm_val_layer_a`
+  - `lm_val_layer_b`
+- `val_subset` semantics corrected to subset at row level first, then derive layer-specific val sets
+
+### trainer/eval wiring for stratified perplexity
+
+- updated `src/train_lora.py` to support `domain_corpus_lm` end-to-end
+- added stratified evaluation trainer path:
+  - logs overall val loss/perplexity
+  - logs layer A val loss/perplexity
+  - logs layer B val loss/perplexity
+  - perplexity guarded against non-finite losses
+- removed duplicate eval logging in custom trainer path
+- QLoRA path validated in code:
+  - `hardware.use_4bit: true` → 4-bit NF4 + bf16 compute + double quant + `prepare_model_for_kbit_training`
+
+### calibration configs + launch scripts prepared
+
+- added calibration configs:
+  - `configs/llama3_3b_lora_domain_calibration.yaml`
+  - `configs/llama3_3b_qlora_domain_calibration.yaml`
+- both target:
+  - domain corpus split
+  - seq_len 1024
+  - LoRA r=16, alpha=32, dropout=0.05
+  - fixed-step short calibration regime
+- added executable launch scripts:
+  - `scripts/run_3070ti_lora_calibration.sh`
+  - `scripts/run_3070ti_qlora_calibration.sh`
+
+### checkpoint/evaluation policy (intended)
+
+- checkpoint rule for main runs remains:
+  - keep best checkpoint by **overall val perplexity** + final checkpoint
+  - downstream transfer evaluation will use best-by-overall-val-ppl checkpoint
+- calibration purpose clarified:
+  - validates plumbing/stability and feasible batch/step settings
+  - does **not** serve as post-hoc tuning to maximise perplexity
+
+### immediate next checks
+
+- verify base-model HF access/auth on run machine before launch
+- run baseline eval before first training step and capture in experiments log
+- run 3B LoRA + QLoRA calibration on 3070 Ti
+- after calibration, freeze protocol v2 run constants (max_steps, effective batch, eval cadence, lr fallback rule)
+
+### known gaps (not yet implemented)
+
+- checkpoint selection policy is defined in protocol v1, but trainer is not yet configured to enforce:
+  - `metric_for_best_model=eval_perplexity`
+  - `load_best_model_at_end=True`
+- protocol metrics `peak_vram` and `step_time` are not yet logged in training loop outputs
+- baseline pre-training evaluation (unadapted model on held-out validation) is not yet automated in run flow
