@@ -71,7 +71,10 @@ def _load_domain_split_rows(split_json_path: Path) -> tuple[list[dict], list[dic
         and ("val" in split_obj["splits"] or "validation" in split_obj["splits"])
     ):
         train_rows = split_obj["splits"]["train"]
-        val_rows = split_obj["splits"].get("val", split_obj["splits"]["validation"])
+        if "val" in split_obj["splits"]:
+            val_rows = split_obj["splits"]["val"]
+        else:
+            val_rows = split_obj["splits"]["validation"]
         return train_rows, val_rows
 
     # Backward compatibility with legacy mapping-only files.
