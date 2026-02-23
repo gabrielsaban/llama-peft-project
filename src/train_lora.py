@@ -1,16 +1,19 @@
 # src/train_lora.py
 
 import argparse
+import json
 import math
+import time
 import yaml
 from pathlib import Path
-from typing import Optional
+from typing import Any, Optional
 
 import torch
 from transformers import (
     AutoModelForCausalLM,
     BitsAndBytesConfig,
     Trainer,
+    TrainerCallback,
     TrainingArguments,
     set_seed,
 )
@@ -93,6 +96,66 @@ def apply_lora(model, lora_cfg_dict: dict):
     return model
 
 
+def _json_safe_metrics(metrics: dict[str, Any]) -> dict[str, Any]:
+    safe: dict[str, Any] = {}
+    for key, value in metrics.items():
+        if isinstance(value, bool):
+            safe[key] = value
+        elif isinstance(value, int):
+            safe[key] = value
+        elif isinstance(value, float):
+            safe[key] = value if math.isfinite(value) else None
+        elif isinstance(value, str):
+            safe[key] = value
+        else:
+            safe[key] = str(value)
+    return safe
+
+
+def _write_json_artifact(path: Path, payload: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, sort_keys=True)
+        f.write("\n")
+
+
+class TrainStepTimeTracker:
+    def __init__(self) -> None:
+        self._step_start_t: Optional[float] = None
+        self._interval_step_durations_s: list[float] = []
+
+    def reset(self) -> None:
+        self._step_start_t = None
+        self._interval_step_durations_s.clear()
+
+    def on_step_begin(self) -> None:
+        self._step_start_t = time.perf_counter()
+
+    def on_step_end(self) -> None:
+        if self._step_start_t is None:
+            return
+        self._interval_step_durations_s.append(time.perf_counter() - self._step_start_t)
+        self._step_start_t = None
+
+    def consume_mean_interval_step_time_s(self) -> float:
+        if not self._interval_step_durations_s:
+            return float("nan")
+        mean_s = sum(self._interval_step_durations_s) / len(self._interval_step_durations_s)
+        self._interval_step_durations_s.clear()
+        return mean_s
+
+
+class TrainStepTimeCallback(TrainerCallback):
+    def __init__(self, tracker: TrainStepTimeTracker) -> None:
+        self.tracker = tracker
+
+    def on_step_begin(self, args, state, control, **kwargs):
+        self.tracker.on_step_begin()
+
+    def on_step_end(self, args, state, control, **kwargs):
+        self.tracker.on_step_end()
+
+
 class StratifiedEvalTrainer(Trainer):
     def __init__(
         self,
@@ -104,6 +167,36 @@ class StratifiedEvalTrainer(Trainer):
         super().__init__(*args, **kwargs)
         self.eval_dataset_layer_a = eval_dataset_layer_a
         self.eval_dataset_layer_b = eval_dataset_layer_b
+        self._train_step_time_tracker = TrainStepTimeTracker()
+        self.add_callback(TrainStepTimeCallback(self._train_step_time_tracker))
+
+    def reset_protocol_trackers(self) -> None:
+        self._train_step_time_tracker.reset()
+        if torch.cuda.is_available():
+            for device_idx in range(torch.cuda.device_count()):
+                torch.cuda.reset_peak_memory_stats(device_idx)
+
+    @staticmethod
+    def _peak_vram_metrics(metric_key_prefix: str) -> dict[str, float]:
+        if not torch.cuda.is_available():
+            return {}
+
+        peak_allocated = 0
+        peak_reserved = 0
+        for device_idx in range(torch.cuda.device_count()):
+            peak_allocated = max(peak_allocated, torch.cuda.max_memory_allocated(device_idx))
+            peak_reserved = max(peak_reserved, torch.cuda.max_memory_reserved(device_idx))
+
+        gb = 1024**3
+        return {
+            f"{metric_key_prefix}_peak_vram_allocated_gb": peak_allocated / gb,
+            f"{metric_key_prefix}_peak_vram_reserved_gb": peak_reserved / gb,
+        }
+
+    def _interval_step_time_metrics(self, metric_key_prefix: str) -> dict[str, float]:
+        return {
+            f"{metric_key_prefix}_mean_train_step_time_s": self._train_step_time_tracker.consume_mean_interval_step_time_s()
+        }
 
     @staticmethod
     def _add_perplexity(metrics: dict, prefix: str) -> None:
@@ -152,6 +245,11 @@ class StratifiedEvalTrainer(Trainer):
             self._add_perplexity(metrics_b, f"{metric_key_prefix}_layer_b")
             metrics.update(metrics_b)
 
+        metrics.update(self._interval_step_time_metrics(metric_key_prefix))
+        metrics.update(self._peak_vram_metrics(metric_key_prefix))
+        # Trainer.evaluate logs each sub-eval separately; emit a combined log with
+        # derived metrics so they are persisted in trainer_state log history.
+        self.log(metrics)
         return metrics
 
 
@@ -231,6 +329,13 @@ def main():
     warmup_ratio = float(train_cfg["warmup_ratio"])
     weight_decay = float(train_cfg["weight_decay"])
     max_steps = train_cfg.get("max_steps")
+    save_steps = int(train_cfg["save_steps"])
+    eval_steps = int(train_cfg["eval_steps"])
+    if save_steps % eval_steps != 0:
+        raise ValueError(
+            "Protocol checkpointing requires save_steps to be a multiple of eval_steps "
+            f"(got save_steps={save_steps}, eval_steps={eval_steps})."
+        )
 
     training_args = TrainingArguments(
         output_dir=str(output_dir),
@@ -244,9 +349,13 @@ def main():
         warmup_ratio=warmup_ratio,
         weight_decay=weight_decay,
         logging_steps=int(train_cfg["logging_steps"]),
-        save_steps=int(train_cfg["save_steps"]),
+        save_strategy="steps",
+        save_steps=save_steps,
         evaluation_strategy="steps",
-        eval_steps=int(train_cfg["eval_steps"]),
+        eval_steps=eval_steps,
+        load_best_model_at_end=True,
+        metric_for_best_model="eval_perplexity",
+        greater_is_better=False,
         save_total_limit=2,
         bf16=(dtype == torch.bfloat16),
         fp16=(dtype == torch.float16),
@@ -265,7 +374,36 @@ def main():
         data_collator=collator,
     )
 
-    trainer.train()
+    # Baseline (pre-training) eval artifact for protocol zero-shot reference.
+    baseline_metrics = trainer.evaluate(metric_key_prefix="baseline")
+    _write_json_artifact(
+        output_dir / "baseline_eval_metrics.json",
+        {
+            "experiment_name": exp_name,
+            "global_step": int(trainer.state.global_step),
+            "metrics": _json_safe_metrics(baseline_metrics),
+        },
+    )
+
+    # Reset interval timers + CUDA peak memory so run metrics reflect training/eval run only.
+    trainer.reset_protocol_trackers()
+    train_result = trainer.train()
+
+    _write_json_artifact(
+        output_dir / "training_summary.json",
+        {
+            "experiment_name": exp_name,
+            "global_step": int(trainer.state.global_step),
+            "best_model_checkpoint": trainer.state.best_model_checkpoint,
+            "best_metric": (
+                float(trainer.state.best_metric)
+                if trainer.state.best_metric is not None
+                else None
+            ),
+            "metric_for_best_model": training_args.metric_for_best_model,
+            "train_metrics": _json_safe_metrics(getattr(train_result, "metrics", {})),
+        },
+    )
 
     # final save
     trainer.save_model(str(output_dir / "final_adapter"))
