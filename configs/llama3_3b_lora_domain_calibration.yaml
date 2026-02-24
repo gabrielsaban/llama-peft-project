@@ -16,7 +16,7 @@ data:
   max_seq_length: 1024
 
 training:
-  output_dir: "outputs/llama3_3b_lora_domain_calibration"
+  output_dir: "outputs/llama3_3b_lora_domain_calibration_gc"
   per_device_train_batch_size: 1
   per_device_eval_batch_size: 1
   gradient_accumulation_steps: 8
@@ -31,7 +31,7 @@ training:
 
 hardware:
   use_4bit: false
-  gradient_checkpointing: false
+  gradient_checkpointing: true
   attn_implementation: "sdpa"
   flash_sdp: true
   mem_efficient_sdp: false
