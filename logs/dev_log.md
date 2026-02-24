@@ -773,3 +773,99 @@ once pilot stats are finalised:
   - `load_best_model_at_end=True`
 - protocol metrics `peak_vram` and `step_time` are not yet logged in training loop outputs
 - baseline pre-training evaluation (unadapted model on held-out validation) is not yet automated in run flow
+
+---
+
+## 23/02/2026
+
+## changes made
+- added protocol artifact helpers:
+  - `_json_safe_metrics(...)` to make trainer metrics JSON-safe (handles non-finite values)
+  - `_write_json_artifact(...)` to persist structured run outputs under `output_dir`
+- added explicit train step timing instrumentation:
+  - `TrainStepTimeTracker`
+  - `TrainStepTimeCallback(TrainerCallback)`
+  - wired callback into `StratifiedEvalTrainer`
+- extended `StratifiedEvalTrainer` with protocol metrics and tracker control:
+  - `reset_protocol_trackers()` resets step-time tracker and CUDA peak memory stats before training
+  - `_peak_vram_metrics(...)` computes peak allocated/reserved VRAM (GB)
+  - `_interval_step_time_metrics(...)` emits mean train step time over the preceding interval
+  - `evaluate(...)` now appends interval step-time + peak-VRAM metrics and emits a combined `self.log(metrics)` record so metrics persist in `trainer_state.json`
+- enforced checkpoint/eval schedule compatibility:
+  - validates `save_steps % eval_steps == 0` and raises if misconfigured
+- enabled best-checkpoint enforcement in `TrainingArguments`:
+  - `load_best_model_at_end=True`
+  - `metric_for_best_model="eval_perplexity"`
+  - `greater_is_better=False`
+  - explicit `save_strategy="steps"` to match protocol cadence
+- automated pre-training baseline evaluation:
+  - runs `trainer.evaluate(metric_key_prefix="baseline")` before any training step
+  - writes `baseline_eval_metrics.json` artifact (zero-shot reference on held-out validation)
+- added run-summary artifact after training:
+  - writes `training_summary.json` with `global_step`, `best_model_checkpoint`, `best_metric`, selected best-metric key, and train metrics
+
+### why these changes were made
+- close the gap between protocol v1 intent and trainer behaviour:
+  - protocol required explicit baseline measurement, checkpoint selection by validation perplexity, and protocol metrics (VRAM + step time)
+- make comparative LoRA vs QLoRA runs analysis-grade:
+  - without structured artifacts and enforced best-checkpoint logic, downstream comparisons would rely on manual terminal capture and be more error-prone
+- improve auditability / reproducibility:
+  - key run facts are now persisted in JSON artifacts rather than only transient console logs
+
+---
+
+## 24/02/2026
+
+### changes made
+- added attention implementation plumbing from config into model load path:
+  - `load_base_model(..., attn_implementation=...)`
+  - builds `common_kwargs` and passes `attn_implementation` through `AutoModelForCausalLM.from_pretrained(...)` when provided
+- added explicit SDPA backend configuration helper:
+  - `_configure_sdp_backends(hw_cfg)` toggles `flash_sdp`, `mem_efficient_sdp`, and `math_sdp`
+  - prints the effective backend states after configuration
+- added CUDA memory snapshot helpers and artifact writers:
+  - `_cuda_memory_snapshot()`
+  - `_log_cuda_memory_snapshot(tag, output_dir)`
+  - `_write_text_artifact(...)` for text diagnostics
+- added memory snapshots around the baseline-eval → train transition:
+  - snapshot after baseline eval (`post_baseline_eval_preclear`)
+  - `gc.collect()` + `torch.cuda.empty_cache()` before training
+  - snapshot immediately before train (`pre_train`)
+- wrapped `trainer.train()` in `torch.cuda.OutOfMemoryError` handling:
+  - writes an OOM memory snapshot (`oom_exception`)
+  - attempts to capture `torch.cuda.memory_summary(...)` into an artifact file for post-mortem debugging
+- changed cache behaviour during training:
+  - now forces `model.config.use_cache = False` unconditionally (when config exists), not only inside gradient-checkpointing branch
+  - gradient checkpointing enable remains conditional, but cache disabling is decoupled from it
+- added `gc` import to support pre-train cleanup
+- added startup logging of requested attention implementation (`[info] attn_implementation requested: ...`)
+
+### why these changes were made
+- improve reproducibility / observability of attention runtime path:
+  - protocol assumes flash attention “on where available”, but previously the run path did not make backend selection explicit or log what actually got enabled
+- reduce memory spikes and make OOM failures diagnosable:
+  - baseline eval can leave allocator state/caches populated before training starts
+  - explicit pre-train cleanup and snapshots make it easier to separate model-fit issues from allocator residue
+  - OOM capture artifacts preserve actionable diagnostics instead of only a terminal traceback
+- reduce avoidable training memory overhead:
+  - `use_cache` is useful for generation, but not for training; forcing it off is a targeted memory optimisation and aligns with the observed VRAM pressure during local calibration
+- support protocol-oriented runtime evidence collection:
+  - these changes move the trainer closer to logging the hardware/runtime facts needed for defensible LoRA vs QLoRA comparisons, especially around memory behaviour and attention backend assumptions
+
+### remaining gaps after these changes (still relevant)
+- protocol metrics are now emitted in run artifacts (`trainer_state.json`, `training_summary.json`, CUDA snapshot JSONs), but final experiment reporting still requires manual extraction; a single consolidated protocol summary artifact would reduce analysis error.
+- this work was validated in the `/tmp/...` run copy; the workspace copy diverged during debugging (accidental empty `src/train_lora.py`), so source sync/cleanup is still needed before treating workspace diffs as authoritative.
+
+### local 4070 runs: interpretation update (scope and significance)
+- after exp-003/004/005, local 4070 runs are now treated primarily as:
+  - proof-of-function for the end-to-end training pipeline
+  - validation of protocol instrumentation/artifacts (baseline eval, best-checkpoint enforcement, step-time/VRAM metrics, OOM diagnostics)
+  - feasibility-boundary checks (e.g., lora@1024 no-gc fails; lora@1024+gc works; qlora@1024 works)
+- they are **not** treated as strong evidence for freezing final protocol constants for L40s runs
+  - local hardware constraints force interventions and tradeoffs that do not transfer cleanly to the target environment
+  - short local calibrations are suitable for debugging and directional signals, but weak for hardware-to-hardware extrapolation
+- decision for protocol progression:
+  - use local runs to de-risk workflow and identify sensible pilot settings
+  - finalise protocol-v2 constants from short, matched L40s pilot runs (then execute the main matrix on L40s)
+- practical value retained:
+  - local runs still inform rough ordering of memory/time tradeoffs and expose failure modes early, which reduces wasted cluster iterations
