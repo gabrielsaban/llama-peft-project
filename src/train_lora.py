@@ -414,7 +414,17 @@ def main():
 
     # gradient checkpointing, if requested
     if hw_cfg.get("gradient_checkpointing", False):
-        model.gradient_checkpointing_enable()
+        gc_kwargs = {"use_reentrant": bool(hw_cfg.get("gc_use_reentrant", False))}
+        try:
+            model.gradient_checkpointing_enable(gradient_checkpointing_kwargs=gc_kwargs)
+        except TypeError:
+            # Older transformers versions may not accept gradient_checkpointing_kwargs.
+            model.gradient_checkpointing_enable()
+        if hasattr(model, "enable_input_require_grads"):
+            model.enable_input_require_grads()
+            print("[info] enabled input grads for LoRA + gradient checkpointing")
+        else:
+            print("[warn] model has no enable_input_require_grads(); GC may fail with frozen base")
 
     output_dir = Path(train_cfg["output_dir"])
     output_dir.mkdir(parents=True, exist_ok=True)
