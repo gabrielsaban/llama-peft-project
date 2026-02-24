@@ -1,0 +1,27 @@
+{
+  "experiment_name": "llama3_3b_lora_domain_calibration",
+  "global_step": 0,
+  "metrics": {
+    "baseline_layer_a_loss": 2.2526159286499023,
+    "baseline_layer_a_model_preparation_time": 0.0068,
+    "baseline_layer_a_perplexity": 9.512587567361257,
+    "baseline_layer_a_runtime": 35.3783,
+    "baseline_layer_a_samples_per_second": 6.614,
+    "baseline_layer_a_steps_per_second": 6.614,
+    "baseline_layer_b_loss": 1.7588820457458496,
+    "baseline_layer_b_model_preparation_time": 0.0068,
+    "baseline_layer_b_perplexity": 5.805942986192581,
+    "baseline_layer_b_runtime": 3.1717,
+    "baseline_layer_b_samples_per_second": 6.621,
+    "baseline_layer_b_steps_per_second": 6.621,
+    "baseline_loss": 2.2124392986297607,
+    "baseline_mean_train_step_time_s": null,
+    "baseline_model_preparation_time": 0.0068,
+    "baseline_peak_vram_allocated_gb": 7.273447036743164,
+    "baseline_peak_vram_reserved_gb": 7.40625,
+    "baseline_perplexity": 9.137979489678585,
+    "baseline_runtime": 38.9777,
+    "baseline_samples_per_second": 6.542,
+    "baseline_steps_per_second": 6.542
+  }
+}
