@@ -108,8 +108,8 @@ dependencies:
       - soupsieve==2.8
       - sympy==1.14.0
       - tokenizers==0.20.3
-      - torch==2.3.1+cu121
-      - torchvision==0.18.1+cu121
+      - torch==2.3.1
+      - torchvision==0.18.1
       - tqdm==4.67.1
       - transformers==4.46.2
       - triton==2.3.1
