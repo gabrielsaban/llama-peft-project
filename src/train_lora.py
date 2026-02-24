@@ -1,6 +1,7 @@
 # src/train_lora.py
 
 import argparse
+import gc
 import json
 import math
 import time
@@ -59,7 +60,12 @@ def load_base_model(
     model_name: str,
     dtype: torch.dtype,
     use_4bit: bool,
+    attn_implementation: Optional[str] = None,
 ):
+    common_kwargs: dict[str, Any] = {"device_map": "auto"}
+    if attn_implementation:
+        common_kwargs["attn_implementation"] = attn_implementation
+
     if use_4bit:
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
@@ -70,14 +76,14 @@ def load_base_model(
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
             quantization_config=bnb_config,
-            device_map="auto",
+            **common_kwargs,
         )
         model = prepare_model_for_kbit_training(model)
     else:
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
             torch_dtype=dtype,
-            device_map="auto",
+            **common_kwargs,
         )
     return model
 
@@ -117,6 +123,86 @@ def _write_json_artifact(path: Path, payload: dict[str, Any]) -> None:
     with path.open("w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, sort_keys=True)
         f.write("\n")
+
+
+def _write_text_artifact(path: Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        f.write(text)
+        if text and not text.endswith("\n"):
+            f.write("\n")
+
+
+def _cuda_memory_snapshot() -> dict[str, Any]:
+    snapshot: dict[str, Any] = {"cuda_available": torch.cuda.is_available()}
+    if not torch.cuda.is_available():
+        return snapshot
+
+    device_idx = torch.cuda.current_device()
+    props = torch.cuda.get_device_properties(device_idx)
+    free_bytes, total_bytes = torch.cuda.mem_get_info(device_idx)
+
+    snapshot.update(
+        {
+            "device_index": int(device_idx),
+            "device_name": torch.cuda.get_device_name(device_idx),
+            "total_bytes": int(total_bytes),
+            "free_bytes": int(free_bytes),
+            "used_bytes_driver_view": int(total_bytes - free_bytes),
+            "allocated_bytes": int(torch.cuda.memory_allocated(device_idx)),
+            "reserved_bytes": int(torch.cuda.memory_reserved(device_idx)),
+            "max_allocated_bytes": int(torch.cuda.max_memory_allocated(device_idx)),
+            "max_reserved_bytes": int(torch.cuda.max_memory_reserved(device_idx)),
+            "device_total_memory_bytes": int(props.total_memory),
+        }
+    )
+    return snapshot
+
+
+def _log_cuda_memory_snapshot(tag: str, output_dir: Path) -> None:
+    snapshot = _cuda_memory_snapshot()
+    snapshot["tag"] = tag
+    print(f"[cuda-mem] {json.dumps(snapshot, sort_keys=True)}")
+    _write_json_artifact(output_dir / f"cuda_memory_{tag}.json", snapshot)
+
+
+def _configure_sdp_backends(hw_cfg: dict[str, Any]) -> None:
+    if not torch.cuda.is_available():
+        print("[info] CUDA not available; skipping explicit SDPA backend configuration")
+        return
+
+    # Make backend selection explicit for reproducibility/debugging.
+    flash_sdp = bool(hw_cfg.get("flash_sdp", True))
+    mem_efficient_sdp = bool(hw_cfg.get("mem_efficient_sdp", False))
+    math_sdp = bool(hw_cfg.get("math_sdp", False))
+
+    cuda_backends = getattr(torch.backends, "cuda", None)
+    if cuda_backends is None:
+        print("[warn] torch.backends.cuda unavailable; cannot configure SDPA backends")
+        return
+
+    if hasattr(cuda_backends, "enable_flash_sdp"):
+        cuda_backends.enable_flash_sdp(flash_sdp)
+    if hasattr(cuda_backends, "enable_mem_efficient_sdp"):
+        cuda_backends.enable_mem_efficient_sdp(mem_efficient_sdp)
+    if hasattr(cuda_backends, "enable_math_sdp"):
+        cuda_backends.enable_math_sdp(math_sdp)
+
+    flash_state = (
+        cuda_backends.flash_sdp_enabled() if hasattr(cuda_backends, "flash_sdp_enabled") else None
+    )
+    mem_state = (
+        cuda_backends.mem_efficient_sdp_enabled()
+        if hasattr(cuda_backends, "mem_efficient_sdp_enabled")
+        else None
+    )
+    math_state = (
+        cuda_backends.math_sdp_enabled() if hasattr(cuda_backends, "math_sdp_enabled") else None
+    )
+    print(
+        "[info] SDPA backends configured: "
+        f"flash={flash_state}, mem_efficient={mem_state}, math={math_state}"
+    )
 
 
 class TrainStepTimeTracker:
@@ -299,6 +385,11 @@ def main():
     base_model_name = model_cfg["base_model"]
     dtype = get_torch_dtype(model_cfg["dtype"])
     use_4bit = hw_cfg.get("use_4bit", False)
+    attn_implementation = hw_cfg.get("attn_implementation")
+
+    _configure_sdp_backends(hw_cfg)
+    if attn_implementation:
+        print(f"[info] attn_implementation requested: {attn_implementation}")
 
     # data
     tokenizer, train_ds, val_ds, val_a_ds, val_b_ds, collator = get_datasets_and_collator(
@@ -312,14 +403,18 @@ def main():
         model_name=base_model_name,
         dtype=dtype,
         use_4bit=use_4bit,
+        attn_implementation=attn_implementation,
     )
     model = apply_lora(model, model_cfg["lora"])
+
+    # KV cache is useful for generation, not training; disable to reduce memory spikes.
+    if hasattr(model, "config"):
+        model.config.use_cache = False
+        print("[info] forced model.config.use_cache=False for training")
 
     # gradient checkpointing, if requested
     if hw_cfg.get("gradient_checkpointing", False):
         model.gradient_checkpointing_enable()
-        if hasattr(model, "config"):
-            model.config.use_cache = False
 
     output_dir = Path(train_cfg["output_dir"])
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -384,10 +479,28 @@ def main():
             "metrics": _json_safe_metrics(baseline_metrics),
         },
     )
+    _log_cuda_memory_snapshot("post_baseline_eval_preclear", output_dir)
+
+    # Baseline eval can leave allocator cache populated; clear unused blocks before training.
+    gc.collect()
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+    _log_cuda_memory_snapshot("pre_train", output_dir)
 
     # Reset interval timers + CUDA peak memory so run metrics reflect training/eval run only.
     trainer.reset_protocol_trackers()
-    train_result = trainer.train()
+    try:
+        train_result = trainer.train()
+    except torch.cuda.OutOfMemoryError:
+        _log_cuda_memory_snapshot("oom_exception", output_dir)
+        if torch.cuda.is_available():
+            try:
+                oom_mem_summary = torch.cuda.memory_summary(abbreviated=True)
+                print("[cuda-mem-summary][oom]\n" + oom_mem_summary)
+                _write_text_artifact(output_dir / "cuda_memory_oom_summary.txt", oom_mem_summary)
+            except Exception as mem_summary_err:
+                print(f"[warn] failed to capture cuda memory_summary after OOM: {mem_summary_err}")
+        raise
 
     _write_json_artifact(
         output_dir / "training_summary.json",
