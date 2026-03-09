@@ -1,11 +1,18 @@
 # src/train_lora.py
 
 import argparse
+import csv
 import gc
+import importlib.metadata as importlib_metadata
 import json
 import math
+import os
+import socket
+import subprocess
+import sys
 import time
 import yaml
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 
@@ -36,6 +43,11 @@ def parse_args():
         type=str,
         required=True,
         help="path to yaml config file",
+    )
+    parser.add_argument(
+        "--baseline-only",
+        action="store_true",
+        help="run held-out baseline evaluation and exit without training",
     )
     return parser.parse_args()
 
@@ -131,6 +143,274 @@ def _write_text_artifact(path: Path, text: str) -> None:
         f.write(text)
         if text and not text.endswith("\n"):
             f.write("\n")
+
+
+def _write_yaml_artifact(path: Path, payload: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        yaml.safe_dump(payload, f, sort_keys=False)
+
+
+def _iso_utc_now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def _get_pkg_version(name: str) -> Optional[str]:
+    try:
+        return importlib_metadata.version(name)
+    except importlib_metadata.PackageNotFoundError:
+        return None
+
+
+def _git_rev_parse_short_head() -> Optional[str]:
+    try:
+        out = subprocess.check_output(
+            ["git", "rev-parse", "--short", "HEAD"],
+            text=True,
+            stderr=subprocess.DEVNULL,
+        )
+        return out.strip() or None
+    except Exception:
+        return None
+
+
+def _git_is_dirty() -> Optional[bool]:
+    try:
+        proc = subprocess.run(
+            ["git", "status", "--porcelain"],
+            text=True,
+            capture_output=True,
+            check=False,
+        )
+        if proc.returncode != 0:
+            return None
+        return bool(proc.stdout.strip())
+    except Exception:
+        return None
+
+
+def _build_environment_snapshot() -> dict[str, Any]:
+    snapshot: dict[str, Any] = {
+        "python_version": sys.version.replace("\n", " "),
+        "python_executable": sys.executable,
+        "hostname": socket.gethostname(),
+        "cwd": os.getcwd(),
+        "command": " ".join(sys.argv),
+        "git_commit": _git_rev_parse_short_head(),
+        "git_dirty": _git_is_dirty(),
+        "torch_version": _get_pkg_version("torch"),
+        "transformers_version": _get_pkg_version("transformers"),
+        "peft_version": _get_pkg_version("peft"),
+        "datasets_version": _get_pkg_version("datasets"),
+        "bitsandbytes_version": _get_pkg_version("bitsandbytes"),
+        "cuda_available": torch.cuda.is_available(),
+        "torch_cuda_version": getattr(torch.version, "cuda", None),
+    }
+
+    if torch.cuda.is_available():
+        device_idx = torch.cuda.current_device()
+        props = torch.cuda.get_device_properties(device_idx)
+        snapshot.update(
+            {
+                "cuda_device_index": int(device_idx),
+                "cuda_device_name": torch.cuda.get_device_name(device_idx),
+                "cuda_total_memory_bytes": int(props.total_memory),
+            }
+        )
+    return snapshot
+
+
+def _extract_doc_counts_from_split_json(path: Optional[str]) -> dict[str, Any]:
+    if not path:
+        return {}
+
+    split_path = Path(path)
+    if not split_path.exists():
+        return {}
+
+    try:
+        with split_path.open("r", encoding="utf-8") as f:
+            obj = json.load(f)
+    except Exception:
+        return {}
+
+    out: dict[str, Any] = {}
+    out["split_seed"] = obj.get("seed")
+    out["stratification"] = obj.get("stratification")
+    out["val_ratio"] = obj.get("val_ratio")
+    out["tokens_by_split"] = obj.get("tokens_by_split")
+
+    counts = obj.get("counts")
+    if isinstance(counts, dict):
+        out["counts"] = counts
+
+    return out
+
+
+def _build_dataset_summary(
+    data_cfg: dict[str, Any],
+    train_ds,
+    val_ds,
+    val_a_ds,
+    val_b_ds,
+) -> dict[str, Any]:
+    split_meta = _extract_doc_counts_from_split_json(data_cfg.get("split_json"))
+    counts = split_meta.get("counts", {})
+    return {
+        "data_type": data_cfg.get("type"),
+        "corpus_dir": data_cfg.get("corpus_dir"),
+        "split_json": data_cfg.get("split_json"),
+        "max_seq_length": data_cfg.get("max_seq_length"),
+        "train_chunks_total": len(train_ds) if train_ds is not None else None,
+        "val_chunks_total": len(val_ds) if val_ds is not None else None,
+        "val_chunks_layer_a": len(val_a_ds) if val_a_ds is not None else None,
+        "val_chunks_layer_b": len(val_b_ds) if val_b_ds is not None else None,
+        "train_docs_total": (
+            (counts.get("layer_a", {}).get("train", 0) + counts.get("layer_b", {}).get("train", 0))
+            if counts
+            else None
+        ),
+        "val_docs_total": (
+            (counts.get("layer_a", {}).get("val", 0) + counts.get("layer_b", {}).get("val", 0))
+            if counts
+            else None
+        ),
+        "val_docs_layer_a": counts.get("layer_a", {}).get("val") if counts else None,
+        "val_docs_layer_b": counts.get("layer_b", {}).get("val") if counts else None,
+        "split_seed": split_meta.get("split_seed"),
+        "stratification": split_meta.get("stratification"),
+        "val_ratio": split_meta.get("val_ratio"),
+        "tokens_by_split": split_meta.get("tokens_by_split"),
+    }
+
+
+def _build_budget_summary(
+    train_cfg: dict[str, Any],
+    data_cfg: dict[str, Any],
+    max_steps_completed: int,
+) -> dict[str, Any]:
+    per_device_train_batch_size = int(train_cfg["per_device_train_batch_size"])
+    gradient_accumulation_steps = int(train_cfg["gradient_accumulation_steps"])
+    effective_batch_size_sequences = per_device_train_batch_size * gradient_accumulation_steps
+    max_seq_length = int(data_cfg["max_seq_length"])
+    tokens_per_optimizer_step = effective_batch_size_sequences * max_seq_length
+    max_steps_planned = int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None
+    planned_tokens_processed = (
+        max_steps_planned * tokens_per_optimizer_step if max_steps_planned is not None else None
+    )
+    realized_tokens_processed = max_steps_completed * tokens_per_optimizer_step
+    return {
+        "max_steps_planned": max_steps_planned,
+        "max_steps_completed": max_steps_completed,
+        "per_device_train_batch_size": per_device_train_batch_size,
+        "gradient_accumulation_steps": gradient_accumulation_steps,
+        "effective_batch_size_sequences": effective_batch_size_sequences,
+        "max_seq_length": max_seq_length,
+        "tokens_per_optimizer_step": tokens_per_optimizer_step,
+        "planned_tokens_processed": planned_tokens_processed,
+        "realized_tokens_processed": realized_tokens_processed,
+        "eval_steps": int(train_cfg["eval_steps"]),
+        "save_steps": int(train_cfg["save_steps"]),
+        "seed": int(train_cfg["seed"]),
+    }
+
+
+def _event_type_from_history_item(item: dict[str, Any]) -> str:
+    keys = set(item.keys())
+    if any(k.startswith("baseline_") for k in keys):
+        return "baseline_eval"
+    if any(k.startswith("eval_") for k in keys):
+        return "eval"
+    if "loss" in keys or "grad_norm" in keys:
+        return "train_log"
+    return "system"
+
+
+def _write_metrics_history_jsonl(path: Path, log_history: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        for item in log_history:
+            row = {
+                "step": item.get("step"),
+                "epoch": item.get("epoch"),
+                "event_type": _event_type_from_history_item(item),
+                "timestamp_utc": _iso_utc_now(),
+                "metrics": _json_safe_metrics(item),
+            }
+            f.write(json.dumps(row, sort_keys=True) + "\n")
+
+
+def _extract_eval_rows(
+    run_id: str,
+    baseline_metrics: dict[str, Any],
+    log_history: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    rows.append(
+        {
+            "run_id": run_id,
+            "step": 0,
+            "phase": "baseline",
+            "eval_loss": baseline_metrics.get("baseline_loss"),
+            "eval_perplexity": baseline_metrics.get("baseline_perplexity"),
+            "eval_layer_a_loss": baseline_metrics.get("baseline_layer_a_loss"),
+            "eval_layer_a_perplexity": baseline_metrics.get("baseline_layer_a_perplexity"),
+            "eval_layer_b_loss": baseline_metrics.get("baseline_layer_b_loss"),
+            "eval_layer_b_perplexity": baseline_metrics.get("baseline_layer_b_perplexity"),
+            "train_step_time_mean_s_window": baseline_metrics.get("baseline_mean_train_step_time_s"),
+            "eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+            "eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        }
+    )
+    for item in log_history:
+        if "eval_perplexity" not in item:
+            continue
+        rows.append(
+            {
+                "run_id": run_id,
+                "step": item.get("step"),
+                "phase": "eval",
+                "eval_loss": item.get("eval_loss"),
+                "eval_perplexity": item.get("eval_perplexity"),
+                "eval_layer_a_loss": item.get("eval_layer_a_loss"),
+                "eval_layer_a_perplexity": item.get("eval_layer_a_perplexity"),
+                "eval_layer_b_loss": item.get("eval_layer_b_loss"),
+                "eval_layer_b_perplexity": item.get("eval_layer_b_perplexity"),
+                "train_step_time_mean_s_window": item.get("eval_mean_train_step_time_s"),
+                "eval_peak_vram_allocated_gb": item.get("eval_peak_vram_allocated_gb"),
+                "eval_peak_vram_reserved_gb": item.get("eval_peak_vram_reserved_gb"),
+            }
+        )
+    return rows
+
+
+def _write_eval_summary_csv(path: Path, rows: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fieldnames = [
+        "run_id",
+        "step",
+        "phase",
+        "eval_loss",
+        "eval_perplexity",
+        "eval_layer_a_loss",
+        "eval_layer_a_perplexity",
+        "eval_layer_b_loss",
+        "eval_layer_b_perplexity",
+        "train_step_time_mean_s_window",
+        "eval_peak_vram_allocated_gb",
+        "eval_peak_vram_reserved_gb",
+    ]
+    with path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def _best_eval_row_from_eval_rows(rows: list[dict[str, Any]]) -> Optional[dict[str, Any]]:
+    eval_rows = [r for r in rows if r.get("phase") == "eval" and r.get("eval_perplexity") is not None]
+    if not eval_rows:
+        return None
+    return min(eval_rows, key=lambda r: float(r["eval_perplexity"]))
 
 
 def _cuda_memory_snapshot() -> dict[str, Any]:
@@ -373,6 +653,7 @@ def get_datasets_and_collator(
 def main():
     args = parse_args()
     cfg = load_config(args.config)
+    run_start_ts = _iso_utc_now()
 
     exp_name = cfg["experiment_name"]
     model_cfg = cfg["model"]
@@ -405,29 +686,44 @@ def main():
         use_4bit=use_4bit,
         attn_implementation=attn_implementation,
     )
-    model = apply_lora(model, model_cfg["lora"])
+    if args.baseline_only:
+        print("[info] baseline-only mode enabled: evaluating unadapted base model")
 
     # KV cache is useful for generation, not training; disable to reduce memory spikes.
     if hasattr(model, "config"):
         model.config.use_cache = False
         print("[info] forced model.config.use_cache=False for training")
 
-    # gradient checkpointing, if requested
-    if hw_cfg.get("gradient_checkpointing", False):
-        gc_kwargs = {"use_reentrant": bool(hw_cfg.get("gc_use_reentrant", False))}
-        try:
-            model.gradient_checkpointing_enable(gradient_checkpointing_kwargs=gc_kwargs)
-        except TypeError:
-            # Older transformers versions may not accept gradient_checkpointing_kwargs.
-            model.gradient_checkpointing_enable()
-        if hasattr(model, "enable_input_require_grads"):
-            model.enable_input_require_grads()
-            print("[info] enabled input grads for LoRA + gradient checkpointing")
-        else:
-            print("[warn] model has no enable_input_require_grads(); GC may fail with frozen base")
-
     output_dir = Path(train_cfg["output_dir"])
     output_dir.mkdir(parents=True, exist_ok=True)
+    reports_dir = output_dir / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    run_id = f"{exp_name}__{int(time.time())}"
+
+    _write_yaml_artifact(reports_dir / "resolved_config.yaml", cfg)
+    _write_json_artifact(reports_dir / "environment.json", _build_environment_snapshot())
+    _write_json_artifact(
+        reports_dir / "run_manifest.json",
+        {
+            "run_id": run_id,
+            "experiment_name": exp_name,
+            "status": "running",
+            "baseline_only": bool(args.baseline_only),
+            "start_time_utc": run_start_ts,
+            "paths": {
+                "output_dir": str(output_dir),
+                "reports_dir": str(reports_dir),
+                "config_path": str(args.config),
+                "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+                "training_summary": str(output_dir / "training_summary.json"),
+                "final_adapter_dir": str(output_dir / "final_adapter"),
+            },
+        },
+    )
+    _write_json_artifact(
+        reports_dir / "dataset_summary.json",
+        _build_dataset_summary(data_cfg, train_ds, val_ds, val_a_ds, val_b_ds),
+    )
 
     # training args
     lr = float(train_cfg["learning_rate"])
@@ -469,7 +765,7 @@ def main():
     )
 
 
-    trainer = StratifiedEvalTrainer(
+    baseline_trainer = StratifiedEvalTrainer(
         model=model,
         args=training_args,
         train_dataset=train_ds,
@@ -480,16 +776,114 @@ def main():
     )
 
     # Baseline (pre-training) eval artifact for protocol zero-shot reference.
-    baseline_metrics = trainer.evaluate(metric_key_prefix="baseline")
+    baseline_metrics = baseline_trainer.evaluate(metric_key_prefix="baseline")
     _write_json_artifact(
         output_dir / "baseline_eval_metrics.json",
         {
             "experiment_name": exp_name,
-            "global_step": int(trainer.state.global_step),
+            "global_step": int(baseline_trainer.state.global_step),
+            "run_id": run_id,
+            "baseline_only": bool(args.baseline_only),
             "metrics": _json_safe_metrics(baseline_metrics),
         },
     )
     _log_cuda_memory_snapshot("post_baseline_eval_preclear", output_dir)
+
+    if args.baseline_only:
+        eval_rows = _extract_eval_rows(run_id, baseline_metrics, baseline_trainer.state.log_history)
+        _write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
+        _write_metrics_history_jsonl(reports_dir / "metrics_history.jsonl", baseline_trainer.state.log_history)
+        _write_json_artifact(
+            reports_dir / "budget_summary.json",
+            _build_budget_summary(train_cfg, data_cfg, max_steps_completed=0),
+        )
+        _write_json_artifact(
+            output_dir / "baseline_only_summary.json",
+            {
+                "experiment_name": exp_name,
+                "run_id": run_id,
+                "global_step": int(baseline_trainer.state.global_step),
+                "mode": "baseline_only",
+                "metrics": _json_safe_metrics(baseline_metrics),
+            },
+        )
+        _write_json_artifact(
+            reports_dir / "final_metrics.json",
+            {
+                "run_id": run_id,
+                "mode": "baseline_only",
+                "baseline": {
+                    "perplexity_all": baseline_metrics.get("baseline_perplexity"),
+                    "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
+                    "perplexity_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+                },
+            },
+        )
+        _write_json_artifact(
+            reports_dir / "comparison_row.json",
+            {
+                "run_id": run_id,
+                "experiment_name": exp_name,
+                "mode": "baseline_only",
+                "base_model": base_model_name,
+                "use_4bit": bool(use_4bit),
+                "seed": int(train_cfg["seed"]),
+                "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
+                "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
+                "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+                "status": "completed",
+            },
+        )
+        run_end_ts = _iso_utc_now()
+        _write_json_artifact(
+            reports_dir / "run_manifest.json",
+            {
+                "run_id": run_id,
+                "experiment_name": exp_name,
+                "status": "completed",
+                "baseline_only": True,
+                "start_time_utc": run_start_ts,
+                "end_time_utc": run_end_ts,
+                "paths": {
+                    "output_dir": str(output_dir),
+                    "reports_dir": str(reports_dir),
+                    "config_path": str(args.config),
+                    "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+                    "baseline_only_summary": str(output_dir / "baseline_only_summary.json"),
+                    "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
+                    "comparison_row": str(reports_dir / "comparison_row.json"),
+                },
+            },
+        )
+        print("[info] baseline-only run complete; skipped training and adapter save")
+        return
+
+    # Attach trainable adapters only after baseline has been measured on the base model.
+    model = apply_lora(model, model_cfg["lora"])
+
+    # gradient checkpointing, if requested
+    if hw_cfg.get("gradient_checkpointing", False):
+        gc_kwargs = {"use_reentrant": bool(hw_cfg.get("gc_use_reentrant", False))}
+        try:
+            model.gradient_checkpointing_enable(gradient_checkpointing_kwargs=gc_kwargs)
+        except TypeError:
+            # Older transformers versions may not accept gradient_checkpointing_kwargs.
+            model.gradient_checkpointing_enable()
+        if hasattr(model, "enable_input_require_grads"):
+            model.enable_input_require_grads()
+            print("[info] enabled input grads for LoRA + gradient checkpointing")
+        else:
+            print("[warn] model has no enable_input_require_grads(); GC may fail with frozen base")
+
+    trainer = StratifiedEvalTrainer(
+        model=model,
+        args=training_args,
+        train_dataset=train_ds,
+        eval_dataset=val_ds,
+        eval_dataset_layer_a=val_a_ds,
+        eval_dataset_layer_b=val_b_ds,
+        data_collator=collator,
+    )
 
     # Baseline eval can leave allocator cache populated; clear unused blocks before training.
     gc.collect()
@@ -510,12 +904,32 @@ def main():
                 _write_text_artifact(output_dir / "cuda_memory_oom_summary.txt", oom_mem_summary)
             except Exception as mem_summary_err:
                 print(f"[warn] failed to capture cuda memory_summary after OOM: {mem_summary_err}")
+        _write_json_artifact(
+            reports_dir / "run_manifest.json",
+            {
+                "run_id": run_id,
+                "experiment_name": exp_name,
+                "status": "oom",
+                "baseline_only": False,
+                "start_time_utc": run_start_ts,
+                "end_time_utc": _iso_utc_now(),
+                "paths": {
+                    "output_dir": str(output_dir),
+                    "reports_dir": str(reports_dir),
+                    "config_path": str(args.config),
+                    "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+                    "oom_snapshot": str(output_dir / "cuda_memory_oom_exception.json"),
+                    "oom_summary": str(output_dir / "cuda_memory_oom_summary.txt"),
+                },
+            },
+        )
         raise
 
     _write_json_artifact(
         output_dir / "training_summary.json",
         {
             "experiment_name": exp_name,
+            "run_id": run_id,
             "global_step": int(trainer.state.global_step),
             "best_model_checkpoint": trainer.state.best_model_checkpoint,
             "best_metric": (
@@ -531,6 +945,101 @@ def main():
     # final save
     trainer.save_model(str(output_dir / "final_adapter"))
     tokenizer.save_pretrained(str(output_dir / "final_adapter"))
+
+    eval_rows = _extract_eval_rows(run_id, baseline_metrics, trainer.state.log_history)
+    _write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
+    _write_metrics_history_jsonl(reports_dir / "metrics_history.jsonl", trainer.state.log_history)
+    max_steps_completed = int(trainer.state.global_step)
+    _write_json_artifact(
+        reports_dir / "budget_summary.json",
+        _build_budget_summary(train_cfg, data_cfg, max_steps_completed=max_steps_completed),
+    )
+
+    best_eval_row = _best_eval_row_from_eval_rows(eval_rows)
+    final_eval_row = eval_rows[-1] if eval_rows else None
+    _write_json_artifact(
+        reports_dir / "final_metrics.json",
+        {
+            "run_id": run_id,
+            "baseline": {
+                "perplexity_all": baseline_metrics.get("baseline_perplexity"),
+                "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
+                "perplexity_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+            },
+            "best_eval": best_eval_row,
+            "final_eval": final_eval_row,
+            "deltas_from_baseline": (
+                {
+                    "delta_ppl_all": (
+                        (best_eval_row.get("eval_perplexity") - baseline_metrics.get("baseline_perplexity"))
+                        if best_eval_row and baseline_metrics.get("baseline_perplexity") is not None
+                        else None
+                    ),
+                    "delta_ppl_layer_a": (
+                        (best_eval_row.get("eval_layer_a_perplexity") - baseline_metrics.get("baseline_layer_a_perplexity"))
+                        if best_eval_row and baseline_metrics.get("baseline_layer_a_perplexity") is not None
+                        else None
+                    ),
+                    "delta_ppl_layer_b": (
+                        (best_eval_row.get("eval_layer_b_perplexity") - baseline_metrics.get("baseline_layer_b_perplexity"))
+                        if best_eval_row and baseline_metrics.get("baseline_layer_b_perplexity") is not None
+                        else None
+                    ),
+                }
+                if best_eval_row
+                else None
+            ),
+        },
+    )
+
+    _write_json_artifact(
+        reports_dir / "comparison_row.json",
+        {
+            "run_id": run_id,
+            "experiment_name": exp_name,
+            "base_model": base_model_name,
+            "use_4bit": bool(use_4bit),
+            "gradient_checkpointing": bool(hw_cfg.get("gradient_checkpointing", False)),
+            "seed": int(train_cfg["seed"]),
+            "max_steps": (
+                int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None
+            ),
+            "effective_batch_size_sequences": int(train_cfg["per_device_train_batch_size"])
+            * int(train_cfg["gradient_accumulation_steps"]),
+            "max_seq_length": int(data_cfg["max_seq_length"]),
+            "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
+            "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
+            "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+            "best_ppl_all": best_eval_row.get("eval_perplexity") if best_eval_row else None,
+            "best_ppl_layer_a": best_eval_row.get("eval_layer_a_perplexity") if best_eval_row else None,
+            "best_ppl_layer_b": best_eval_row.get("eval_layer_b_perplexity") if best_eval_row else None,
+            "train_runtime_s": getattr(train_result, "metrics", {}).get("train_runtime"),
+            "train_steps_per_second": getattr(train_result, "metrics", {}).get("train_steps_per_second"),
+            "status": "completed",
+        },
+    )
+
+    _write_json_artifact(
+        reports_dir / "run_manifest.json",
+        {
+            "run_id": run_id,
+            "experiment_name": exp_name,
+            "status": "completed",
+            "baseline_only": False,
+            "start_time_utc": run_start_ts,
+            "end_time_utc": _iso_utc_now(),
+            "paths": {
+                "output_dir": str(output_dir),
+                "reports_dir": str(reports_dir),
+                "config_path": str(args.config),
+                "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+                "training_summary": str(output_dir / "training_summary.json"),
+                "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
+                "comparison_row": str(reports_dir / "comparison_row.json"),
+                "final_adapter_dir": str(output_dir / "final_adapter"),
+            },
+        },
+    )
 
 
 if __name__ == "__main__":
