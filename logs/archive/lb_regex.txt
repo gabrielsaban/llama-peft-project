@@ -1,0 +1,38 @@
+layer b to clean:
+
+acas guides:
+    initial logo
+    page number indicators
+    'training' sections removed
+    'understanding more' headings following sections removed
+    'contact the acas helpline' headings following sections removed
+    'get more advice..' headings following sections removed
+    'related content' followed by hyperlinks
+    any paragraph that has 'read our', 'read the', 'find out', 'use our' removed
+    annoying edge cases like 'This is a complex area of law. Before making any decisions find out more about:' and 'Find out more about:' is followed by noisy bullet points with hyperlinks
+    annoying edge cases like 'Many ways to prevent discrimination apply equally to all 'protected characteristics'. You can find out more in our advice on ...'
+    annoying edge cases like 'If you need more general discrimination advice, you can read discrimination and the Equality Act 2010. This includes advice on
+    employer responsibilities and on other protected characteristic'
+
+codes:
+    ^ same as guides
+    date
+    still some edge cases. paragraphs with real info but also a sentence saying 'see advice', or 'More comprehensive advice and guidance on dealing with disciplinary and grievance situations is contained in ..'
+    contents section
+    date
+    foreword (?)
+
+doctrine
+    cut out all pages before 'introduction' headings (but not all have introduction, so maybe all pages deleted up to and including Contents)
+    graphs/tables and sources. a lot of them are filled with these
+    in-line and bottom of page citations/references (unsure if wanted)
+    delete paragraphs with 'For more information', however
+    some useful paragraphs have it inside like 'Unlike in other employment law cases, in discrimination claims brought under the Equality Act 2010, legal aid is still available from the government. For more information including how to apply, see the ..'
+    and e.g. 'these time limits are paused during the early conciliation process – for more details see the Library’s constituency casework article ..'
+    section numbering
+    headers/footers outside of section headings incl. page numbering
+    full sections detailing advice/contact/links/times like 'The Advisory, Conciliation and Arbitration Service' and 'Equality and Human Rights Commission and the Equality Advisory Support Service' paras... annoying. i keep finding more like this in the employment advice doctrine for example. idk the solution
+    final boilerplate page
+
+
+govuk
