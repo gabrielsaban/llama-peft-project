@@ -1,7 +1,12 @@
-experiment_name: "llama3_3b_qlora_domain_calibration"
+experiment_name: "llama3_8b_qlora_l40_protocol_v2_phase1_r16_seed42"
+
+experiment:
+  variant: "qlora"
+  protocol_version: "protocol_v2"
+  logging_schema_version: "logging_v2"
 
 model:
-  base_model: "meta-llama/Llama-3.2-3B"
+  base_model: "meta-llama/Llama-3-8B"
   dtype: "bfloat16"
   lora:
     r: 16
@@ -16,17 +21,17 @@ data:
   max_seq_length: 1024
 
 training:
-  output_dir: "outputs/llama3_3b_qlora_domain_calibration"
-  per_device_train_batch_size: 1
+  output_dir: "outputs/experiments/protocol_v2/llama3_8b_qlora_l40_protocol_v2_phase1_r16_seed42"
+  per_device_train_batch_size: 2
   per_device_eval_batch_size: 1
-  gradient_accumulation_steps: 8
-  max_steps: 75
+  gradient_accumulation_steps: 4
+  max_steps: 750
   learning_rate: 2e-4
   warmup_ratio: 0.05
   weight_decay: 0.01
   logging_steps: 10
-  save_steps: 25
-  eval_steps: 25
+  save_steps: 50
+  eval_steps: 50
   seed: 42
 
 hardware:
