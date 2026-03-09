@@ -1,50 +1,54 @@
 # src/train_lora.py
 
+from __future__ import annotations
+
 import argparse
-import csv
 import gc
-import importlib.metadata as importlib_metadata
+import hashlib
 import json
 import math
-import os
-import socket
-import statistics
-import subprocess
-import sys
 import time
-import yaml
-from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 
 import torch
+import yaml
+from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from transformers import (
     AutoModelForCausalLM,
     BitsAndBytesConfig,
     Trainer,
-    TrainerCallback,
     TrainingArguments,
     set_seed,
 )
 
-from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
-
+from .artifacts import (
+    json_safe_metrics,
+    write_eval_summary_csv,
+    write_json_artifact,
+    write_jsonl_rows,
+    write_text_artifact,
+    write_yaml_artifact,
+)
+from .callbacks_metrics import (
+    TrainStepTimeCallback,
+    TrainStepTimeTracker,
+    build_timing_summary,
+    collect_finite,
+)
+from .callbacks_stability import build_stability_artifacts
 from .data_module import (
     LMDataConfig,
     get_domain_corpus_lm_datasets,
     get_eurlex_text_lm_datasets,
     load_tokenizer,
 )
+from .provenance import build_environment_snapshot, iso_utc_now
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--config",
-        type=str,
-        required=True,
-        help="path to yaml config file",
-    )
+    parser.add_argument("--config", type=str, required=True, help="path to yaml config file")
     parser.add_argument(
         "--baseline-only",
         action="store_true",
@@ -54,17 +58,17 @@ def parse_args():
 
 
 def load_config(path: str) -> dict:
-    with open(path, "r") as f:
-        cfg = yaml.safe_load(f)
-    return cfg
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
 
 
 def get_torch_dtype(dtype_str: str):
-    if dtype_str.lower() in ["bfloat16", "bf16"]:
+    dtype_norm = dtype_str.lower()
+    if dtype_norm in {"bfloat16", "bf16"}:
         return torch.bfloat16
-    if dtype_str.lower() in ["float16", "fp16"]:
+    if dtype_norm in {"float16", "fp16"}:
         return torch.float16
-    if dtype_str.lower() in ["float32", "fp32"]:
+    if dtype_norm in {"float32", "fp32"}:
         return torch.float32
     raise ValueError(f"unsupported dtype: {dtype_str}")
 
@@ -115,503 +119,6 @@ def apply_lora(model, lora_cfg_dict: dict):
     return model
 
 
-def _json_safe_metrics(metrics: dict[str, Any]) -> dict[str, Any]:
-    safe: dict[str, Any] = {}
-    for key, value in metrics.items():
-        if isinstance(value, bool):
-            safe[key] = value
-        elif isinstance(value, int):
-            safe[key] = value
-        elif isinstance(value, float):
-            safe[key] = value if math.isfinite(value) else None
-        elif isinstance(value, str):
-            safe[key] = value
-        else:
-            safe[key] = str(value)
-    return safe
-
-
-def _write_json_artifact(path: Path, payload: dict[str, Any]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, sort_keys=True)
-        f.write("\n")
-
-
-def _write_text_artifact(path: Path, text: str) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
-        f.write(text)
-        if text and not text.endswith("\n"):
-            f.write("\n")
-
-
-def _write_yaml_artifact(path: Path, payload: dict[str, Any]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
-        yaml.safe_dump(payload, f, sort_keys=False)
-
-
-def _iso_utc_now() -> str:
-    return datetime.now(timezone.utc).isoformat()
-
-
-def _get_pkg_version(name: str) -> Optional[str]:
-    try:
-        return importlib_metadata.version(name)
-    except importlib_metadata.PackageNotFoundError:
-        return None
-
-
-def _git_rev_parse_short_head() -> Optional[str]:
-    try:
-        out = subprocess.check_output(
-            ["git", "rev-parse", "--short", "HEAD"],
-            text=True,
-            stderr=subprocess.DEVNULL,
-        )
-        return out.strip() or None
-    except Exception:
-        return None
-
-
-def _git_is_dirty() -> Optional[bool]:
-    try:
-        proc = subprocess.run(
-            ["git", "status", "--porcelain"],
-            text=True,
-            capture_output=True,
-            check=False,
-        )
-        if proc.returncode != 0:
-            return None
-        return bool(proc.stdout.strip())
-    except Exception:
-        return None
-
-
-def _build_environment_snapshot() -> dict[str, Any]:
-    snapshot: dict[str, Any] = {
-        "python_version": sys.version.replace("\n", " "),
-        "python_executable": sys.executable,
-        "hostname": socket.gethostname(),
-        "cwd": os.getcwd(),
-        "command": " ".join(sys.argv),
-        "git_commit": _git_rev_parse_short_head(),
-        "git_dirty": _git_is_dirty(),
-        "torch_version": _get_pkg_version("torch"),
-        "transformers_version": _get_pkg_version("transformers"),
-        "peft_version": _get_pkg_version("peft"),
-        "datasets_version": _get_pkg_version("datasets"),
-        "bitsandbytes_version": _get_pkg_version("bitsandbytes"),
-        "cuda_available": torch.cuda.is_available(),
-        "torch_cuda_version": getattr(torch.version, "cuda", None),
-    }
-
-    if torch.cuda.is_available():
-        device_idx = torch.cuda.current_device()
-        props = torch.cuda.get_device_properties(device_idx)
-        snapshot.update(
-            {
-                "cuda_device_index": int(device_idx),
-                "cuda_device_name": torch.cuda.get_device_name(device_idx),
-                "cuda_total_memory_bytes": int(props.total_memory),
-            }
-        )
-    return snapshot
-
-
-def _extract_doc_counts_from_split_json(path: Optional[str]) -> dict[str, Any]:
-    if not path:
-        return {}
-
-    split_path = Path(path)
-    if not split_path.exists():
-        return {}
-
-    try:
-        with split_path.open("r", encoding="utf-8") as f:
-            obj = json.load(f)
-    except Exception:
-        return {}
-
-    out: dict[str, Any] = {}
-    out["split_seed"] = obj.get("seed")
-    out["stratification"] = obj.get("stratification")
-    out["val_ratio"] = obj.get("val_ratio")
-    out["tokens_by_split"] = obj.get("tokens_by_split")
-
-    counts = obj.get("counts")
-    if isinstance(counts, dict):
-        out["counts"] = counts
-
-    return out
-
-
-def _build_dataset_summary(
-    data_cfg: dict[str, Any],
-    train_ds,
-    val_ds,
-    val_a_ds,
-    val_b_ds,
-) -> dict[str, Any]:
-    split_meta = _extract_doc_counts_from_split_json(data_cfg.get("split_json"))
-    counts = split_meta.get("counts", {})
-    return {
-        "data_type": data_cfg.get("type"),
-        "corpus_dir": data_cfg.get("corpus_dir"),
-        "split_json": data_cfg.get("split_json"),
-        "max_seq_length": data_cfg.get("max_seq_length"),
-        "train_chunks_total": len(train_ds) if train_ds is not None else None,
-        "val_chunks_total": len(val_ds) if val_ds is not None else None,
-        "val_chunks_layer_a": len(val_a_ds) if val_a_ds is not None else None,
-        "val_chunks_layer_b": len(val_b_ds) if val_b_ds is not None else None,
-        "train_docs_total": (
-            (counts.get("layer_a", {}).get("train", 0) + counts.get("layer_b", {}).get("train", 0))
-            if counts
-            else None
-        ),
-        "val_docs_total": (
-            (counts.get("layer_a", {}).get("val", 0) + counts.get("layer_b", {}).get("val", 0))
-            if counts
-            else None
-        ),
-        "val_docs_layer_a": counts.get("layer_a", {}).get("val") if counts else None,
-        "val_docs_layer_b": counts.get("layer_b", {}).get("val") if counts else None,
-        "split_seed": split_meta.get("split_seed"),
-        "stratification": split_meta.get("stratification"),
-        "val_ratio": split_meta.get("val_ratio"),
-        "tokens_by_split": split_meta.get("tokens_by_split"),
-    }
-
-
-def _build_budget_summary(
-    train_cfg: dict[str, Any],
-    data_cfg: dict[str, Any],
-    max_steps_completed: int,
-) -> dict[str, Any]:
-    per_device_train_batch_size = int(train_cfg["per_device_train_batch_size"])
-    gradient_accumulation_steps = int(train_cfg["gradient_accumulation_steps"])
-    effective_batch_size_sequences = per_device_train_batch_size * gradient_accumulation_steps
-    max_seq_length = int(data_cfg["max_seq_length"])
-    tokens_per_optimizer_step = effective_batch_size_sequences * max_seq_length
-    max_steps_planned = int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None
-    planned_tokens_processed = (
-        max_steps_planned * tokens_per_optimizer_step if max_steps_planned is not None else None
-    )
-    realized_tokens_processed = max_steps_completed * tokens_per_optimizer_step
-    return {
-        "max_steps_planned": max_steps_planned,
-        "max_steps_completed": max_steps_completed,
-        "per_device_train_batch_size": per_device_train_batch_size,
-        "gradient_accumulation_steps": gradient_accumulation_steps,
-        "effective_batch_size_sequences": effective_batch_size_sequences,
-        "max_seq_length": max_seq_length,
-        "tokens_per_optimizer_step": tokens_per_optimizer_step,
-        "planned_tokens_processed": planned_tokens_processed,
-        "realized_tokens_processed": realized_tokens_processed,
-        "eval_steps": int(train_cfg["eval_steps"]),
-        "save_steps": int(train_cfg["save_steps"]),
-        "seed": int(train_cfg["seed"]),
-    }
-
-
-def _event_type_from_history_item(item: dict[str, Any]) -> str:
-    keys = set(item.keys())
-    if any(k.startswith("baseline_") for k in keys):
-        return "baseline_eval"
-    if any(k.startswith("eval_") for k in keys):
-        return "eval"
-    if "loss" in keys or "grad_norm" in keys:
-        return "train_log"
-    return "system"
-
-
-def _write_metrics_history_jsonl(path: Path, log_history: list[dict[str, Any]]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
-        for item in log_history:
-            row = {
-                "step": item.get("step"),
-                "epoch": item.get("epoch"),
-                "event_type": _event_type_from_history_item(item),
-                "timestamp_utc": _iso_utc_now(),
-                "metrics": _json_safe_metrics(item),
-            }
-            f.write(json.dumps(row, sort_keys=True) + "\n")
-
-
-def _extract_eval_rows(
-    run_id: str,
-    baseline_metrics: dict[str, Any],
-    log_history: list[dict[str, Any]],
-) -> list[dict[str, Any]]:
-    rows: list[dict[str, Any]] = []
-    rows.append(
-        {
-            "run_id": run_id,
-            "step": 0,
-            "phase": "baseline",
-            "eval_loss": baseline_metrics.get("baseline_loss"),
-            "eval_perplexity": baseline_metrics.get("baseline_perplexity"),
-            "eval_layer_a_loss": baseline_metrics.get("baseline_layer_a_loss"),
-            "eval_layer_a_perplexity": baseline_metrics.get("baseline_layer_a_perplexity"),
-            "eval_layer_b_loss": baseline_metrics.get("baseline_layer_b_loss"),
-            "eval_layer_b_perplexity": baseline_metrics.get("baseline_layer_b_perplexity"),
-            "train_step_time_mean_s_window": baseline_metrics.get("baseline_mean_train_step_time_s"),
-            "eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
-            "eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
-        }
-    )
-    for item in log_history:
-        if "eval_perplexity" not in item:
-            continue
-        rows.append(
-            {
-                "run_id": run_id,
-                "step": item.get("step"),
-                "phase": "eval",
-                "eval_loss": item.get("eval_loss"),
-                "eval_perplexity": item.get("eval_perplexity"),
-                "eval_layer_a_loss": item.get("eval_layer_a_loss"),
-                "eval_layer_a_perplexity": item.get("eval_layer_a_perplexity"),
-                "eval_layer_b_loss": item.get("eval_layer_b_loss"),
-                "eval_layer_b_perplexity": item.get("eval_layer_b_perplexity"),
-                "train_step_time_mean_s_window": item.get("eval_mean_train_step_time_s"),
-                "eval_peak_vram_allocated_gb": item.get("eval_peak_vram_allocated_gb"),
-                "eval_peak_vram_reserved_gb": item.get("eval_peak_vram_reserved_gb"),
-            }
-        )
-    return rows
-
-
-def _write_eval_summary_csv(path: Path, rows: list[dict[str, Any]]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = [
-        "run_id",
-        "step",
-        "phase",
-        "eval_loss",
-        "eval_perplexity",
-        "eval_layer_a_loss",
-        "eval_layer_a_perplexity",
-        "eval_layer_b_loss",
-        "eval_layer_b_perplexity",
-        "train_step_time_mean_s_window",
-        "eval_peak_vram_allocated_gb",
-        "eval_peak_vram_reserved_gb",
-    ]
-    with path.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def _best_eval_row_from_eval_rows(rows: list[dict[str, Any]]) -> Optional[dict[str, Any]]:
-    eval_rows = [r for r in rows if r.get("phase") == "eval" and r.get("eval_perplexity") is not None]
-    if not eval_rows:
-        return None
-    return min(eval_rows, key=lambda r: float(r["eval_perplexity"]))
-
-
-def _collect_finite(values: list[Any]) -> list[float]:
-    out: list[float] = []
-    for value in values:
-        if value is None:
-            continue
-        try:
-            f = float(value)
-        except (TypeError, ValueError):
-            continue
-        if math.isfinite(f):
-            out.append(f)
-    return out
-
-
-def _percentile(values: list[float], q: float) -> Optional[float]:
-    if not values:
-        return None
-    if q <= 0:
-        return values[0]
-    if q >= 1:
-        return values[-1]
-    xs = sorted(values)
-    pos = q * (len(xs) - 1)
-    lo = int(math.floor(pos))
-    hi = int(math.ceil(pos))
-    if lo == hi:
-        return xs[lo]
-    frac = pos - lo
-    return xs[lo] * (1 - frac) + xs[hi] * frac
-
-
-def _build_timing_summary(
-    train_metrics: dict[str, Any],
-    eval_rows: list[dict[str, Any]],
-    baseline_only: bool,
-) -> dict[str, Any]:
-    step_times = _collect_finite([r.get("train_step_time_mean_s_window") for r in eval_rows if r.get("phase") == "eval"])
-    step_times_sorted = sorted(step_times)
-    return {
-        "mode": "baseline_only" if baseline_only else "train_and_eval",
-        "train_runtime_s": train_metrics.get("train_runtime"),
-        "train_steps_per_second": train_metrics.get("train_steps_per_second"),
-        "optimizer_step_time_mean_s": (statistics.fmean(step_times_sorted) if step_times_sorted else None),
-        "optimizer_step_time_p50_s": _percentile(step_times_sorted, 0.5),
-        "optimizer_step_time_p95_s": _percentile(step_times_sorted, 0.95),
-        "optimizer_step_time_std_s": (
-            statistics.pstdev(step_times_sorted) if len(step_times_sorted) > 1 else 0.0 if step_times_sorted else None
-        ),
-        "num_step_time_samples": len(step_times_sorted),
-        "timing_window_definition": "windowed mean optimizer step time emitted at each eval interval",
-    }
-
-
-def _build_memory_summary(
-    baseline_metrics: dict[str, Any],
-    eval_rows: list[dict[str, Any]],
-    run_peak_snapshot: Optional[dict[str, Any]],
-) -> dict[str, Any]:
-    eval_peak_alloc = _collect_finite([r.get("eval_peak_vram_allocated_gb") for r in eval_rows if r.get("phase") == "eval"])
-    eval_peak_resv = _collect_finite([r.get("eval_peak_vram_reserved_gb") for r in eval_rows if r.get("phase") == "eval"])
-
-    run_peak_alloc_gb = None
-    run_peak_resv_gb = None
-    if run_peak_snapshot and run_peak_snapshot.get("cuda_available"):
-        gb = 1024**3
-        max_alloc_bytes = run_peak_snapshot.get("max_allocated_bytes")
-        max_resv_bytes = run_peak_snapshot.get("max_reserved_bytes")
-        if isinstance(max_alloc_bytes, int):
-            run_peak_alloc_gb = max_alloc_bytes / gb
-        if isinstance(max_resv_bytes, int):
-            run_peak_resv_gb = max_resv_bytes / gb
-
-    return {
-        "baseline_eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
-        "baseline_eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
-        "train_peak_vram_allocated_gb": None,
-        "train_peak_vram_reserved_gb": None,
-        "max_eval_peak_vram_allocated_gb": max(eval_peak_alloc) if eval_peak_alloc else None,
-        "max_eval_peak_vram_reserved_gb": max(eval_peak_resv) if eval_peak_resv else None,
-        "run_peak_vram_allocated_gb": run_peak_alloc_gb,
-        "run_peak_vram_reserved_gb": run_peak_resv_gb,
-        "memory_measurement_notes": (
-            "train-only peak not isolated yet; run_peak uses CUDA max stats snapshot after run."
-        ),
-    }
-
-
-def _build_stability_artifacts(log_history: list[dict[str, Any]]) -> tuple[dict[str, Any], list[dict[str, Any]]]:
-    events: list[dict[str, Any]] = []
-    loss_entries: list[tuple[int, float]] = []
-    nan_loss_events = 0
-    inf_loss_events = 0
-    nonfinite_grad_events = 0
-    divergence_events = 0
-
-    for item in log_history:
-        step = int(item.get("step", -1))
-        if "loss" in item:
-            try:
-                loss = float(item["loss"])
-            except (TypeError, ValueError):
-                loss = float("nan")
-            if math.isnan(loss):
-                nan_loss_events += 1
-                divergence_events += 1
-                events.append(
-                    {
-                        "step": step,
-                        "event_type": "nan_loss",
-                        "severity": "error",
-                        "value": None,
-                        "threshold": "finite",
-                        "message": "Observed NaN train loss.",
-                        "timestamp_utc": _iso_utc_now(),
-                    }
-                )
-            elif math.isinf(loss):
-                inf_loss_events += 1
-                divergence_events += 1
-                events.append(
-                    {
-                        "step": step,
-                        "event_type": "inf_loss",
-                        "severity": "error",
-                        "value": None,
-                        "threshold": "finite",
-                        "message": "Observed Inf train loss.",
-                        "timestamp_utc": _iso_utc_now(),
-                    }
-                )
-            else:
-                loss_entries.append((step, loss))
-
-        if "grad_norm" in item:
-            try:
-                grad_norm = float(item["grad_norm"])
-            except (TypeError, ValueError):
-                grad_norm = float("nan")
-            if not math.isfinite(grad_norm):
-                nonfinite_grad_events += 1
-                divergence_events += 1
-                events.append(
-                    {
-                        "step": step,
-                        "event_type": "nonfinite_grad_norm",
-                        "severity": "error",
-                        "value": None,
-                        "threshold": "finite",
-                        "message": "Observed non-finite grad_norm.",
-                        "timestamp_utc": _iso_utc_now(),
-                    }
-                )
-
-    loss_spike_events = 0
-    spike_ratio_threshold = 1.5
-    for idx in range(1, len(loss_entries)):
-        prev_step, prev_loss = loss_entries[idx - 1]
-        curr_step, curr_loss = loss_entries[idx]
-        if prev_loss > 0 and curr_loss > prev_loss * spike_ratio_threshold:
-            loss_spike_events += 1
-            events.append(
-                {
-                    "step": curr_step,
-                    "event_type": "loss_spike",
-                    "severity": "warn",
-                    "value": curr_loss,
-                    "threshold": f">{spike_ratio_threshold}x previous loss",
-                    "message": f"Loss spiked from {prev_loss:.6f} at step {prev_step} to {curr_loss:.6f}.",
-                    "timestamp_utc": _iso_utc_now(),
-                }
-            )
-
-    summary = {
-        "num_loss_spike_events": loss_spike_events,
-        "num_divergence_events": divergence_events,
-        "num_nan_loss_events": nan_loss_events,
-        "num_inf_loss_events": inf_loss_events,
-        "num_nonfinite_grad_norm_events": nonfinite_grad_events,
-        "num_oom_events": 0,
-        "optimizer_reset_count": 0,
-        "terminated_early": False,
-        "termination_reason": "completed",
-        "last_completed_step": max((int(item.get("step", 0)) for item in log_history), default=0),
-        "stability_rule_config": {
-            "loss_spike_rule": f"curr_loss > {spike_ratio_threshold} * prev_loss",
-            "finite_checks": ["loss", "grad_norm"],
-        },
-    }
-    return summary, events
-
-
-def _write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
-        for row in rows:
-            f.write(json.dumps(_json_safe_metrics(row), sort_keys=True) + "\n")
-
-
 def _cuda_memory_snapshot() -> dict[str, Any]:
     snapshot: dict[str, Any] = {"cuda_available": torch.cuda.is_available()}
     if not torch.cuda.is_available():
@@ -638,11 +145,12 @@ def _cuda_memory_snapshot() -> dict[str, Any]:
     return snapshot
 
 
-def _log_cuda_memory_snapshot(tag: str, output_dir: Path) -> None:
+def _log_cuda_memory_snapshot(tag: str, output_dir: Path) -> dict[str, Any]:
     snapshot = _cuda_memory_snapshot()
     snapshot["tag"] = tag
     print(f"[cuda-mem] {json.dumps(snapshot, sort_keys=True)}")
-    _write_json_artifact(output_dir / f"cuda_memory_{tag}.json", snapshot)
+    write_json_artifact(output_dir / f"cuda_memory_{tag}.json", snapshot)
+    return snapshot
 
 
 def _configure_sdp_backends(hw_cfg: dict[str, Any]) -> None:
@@ -650,7 +158,6 @@ def _configure_sdp_backends(hw_cfg: dict[str, Any]) -> None:
         print("[info] CUDA not available; skipping explicit SDPA backend configuration")
         return
 
-    # Make backend selection explicit for reproducibility/debugging.
     flash_sdp = bool(hw_cfg.get("flash_sdp", True))
     mem_efficient_sdp = bool(hw_cfg.get("mem_efficient_sdp", False))
     math_sdp = bool(hw_cfg.get("math_sdp", False))
@@ -682,43 +189,6 @@ def _configure_sdp_backends(hw_cfg: dict[str, Any]) -> None:
         "[info] SDPA backends configured: "
         f"flash={flash_state}, mem_efficient={mem_state}, math={math_state}"
     )
-
-
-class TrainStepTimeTracker:
-    def __init__(self) -> None:
-        self._step_start_t: Optional[float] = None
-        self._interval_step_durations_s: list[float] = []
-
-    def reset(self) -> None:
-        self._step_start_t = None
-        self._interval_step_durations_s.clear()
-
-    def on_step_begin(self) -> None:
-        self._step_start_t = time.perf_counter()
-
-    def on_step_end(self) -> None:
-        if self._step_start_t is None:
-            return
-        self._interval_step_durations_s.append(time.perf_counter() - self._step_start_t)
-        self._step_start_t = None
-
-    def consume_mean_interval_step_time_s(self) -> float:
-        if not self._interval_step_durations_s:
-            return float("nan")
-        mean_s = sum(self._interval_step_durations_s) / len(self._interval_step_durations_s)
-        self._interval_step_durations_s.clear()
-        return mean_s
-
-
-class TrainStepTimeCallback(TrainerCallback):
-    def __init__(self, tracker: TrainStepTimeTracker) -> None:
-        self.tracker = tracker
-
-    def on_step_begin(self, args, state, control, **kwargs):
-        self.tracker.on_step_begin()
-
-    def on_step_end(self, args, state, control, **kwargs):
-        self.tracker.on_step_end()
 
 
 class StratifiedEvalTrainer(Trainer):
@@ -758,30 +228,34 @@ class StratifiedEvalTrainer(Trainer):
             f"{metric_key_prefix}_peak_vram_reserved_gb": peak_reserved / gb,
         }
 
-    def _interval_step_time_metrics(self, metric_key_prefix: str) -> dict[str, float]:
+    def _interval_step_time_metrics(self, metric_key_prefix: str) -> dict[str, Any]:
+        stats = self._train_step_time_tracker.consume_interval_stats()
         return {
-            f"{metric_key_prefix}_mean_train_step_time_s": self._train_step_time_tracker.consume_mean_interval_step_time_s()
+            f"{metric_key_prefix}_mean_train_step_time_s": stats["mean_s"],
+            f"{metric_key_prefix}_p50_train_step_time_s": stats["p50_s"],
+            f"{metric_key_prefix}_p95_train_step_time_s": stats["p95_s"],
+            f"{metric_key_prefix}_std_train_step_time_s": stats["std_s"],
+            f"{metric_key_prefix}_num_train_step_time_samples": stats["num_samples"],
         }
 
-    @staticmethod
-    def _add_perplexity(metrics: dict, prefix: str) -> None:
-        key = f"{prefix}_loss"
-        if key in metrics:
-            loss = float(metrics[key])
-            if not math.isfinite(loss):
-                metrics[f"{prefix}_perplexity"] = float("nan")
-                return
-            try:
-                metrics[f"{prefix}_perplexity"] = math.exp(loss)
-            except OverflowError:
-                metrics[f"{prefix}_perplexity"] = float("inf")
+    def train_peak_vram_metrics(self) -> dict[str, Optional[float]]:
+        return self._train_step_time_tracker.train_peak_vram_gb()
 
-    def evaluate(
-        self,
-        eval_dataset=None,
-        ignore_keys=None,
-        metric_key_prefix: str = "eval",
-    ):
+    @staticmethod
+    def _add_perplexity(metrics: dict[str, Any], prefix: str) -> None:
+        key = f"{prefix}_loss"
+        if key not in metrics:
+            return
+        loss = float(metrics[key])
+        if not math.isfinite(loss):
+            metrics[f"{prefix}_perplexity"] = float("nan")
+            return
+        try:
+            metrics[f"{prefix}_perplexity"] = math.exp(loss)
+        except OverflowError:
+            metrics[f"{prefix}_perplexity"] = float("inf")
+
+    def evaluate(self, eval_dataset=None, ignore_keys=None, metric_key_prefix: str = "eval"):
         metrics = Trainer.evaluate(
             self,
             eval_dataset=eval_dataset,
@@ -812,14 +286,12 @@ class StratifiedEvalTrainer(Trainer):
 
         metrics.update(self._interval_step_time_metrics(metric_key_prefix))
         metrics.update(self._peak_vram_metrics(metric_key_prefix))
-        # Trainer.evaluate logs each sub-eval separately; emit a combined log with
-        # derived metrics so they are persisted in trainer_state log history.
         self.log(metrics)
         return metrics
 
 
 def get_datasets_and_collator(
-    data_cfg: dict,
+    data_cfg: dict[str, Any],
     model_name: str,
     seed: int,
 ):
@@ -849,36 +321,291 @@ def get_datasets_and_collator(
     return tokenizer, train_ds, val_ds, val_a_ds, val_b_ds, collator
 
 
+def _extract_doc_counts_from_split_json(path: Optional[str]) -> dict[str, Any]:
+    if not path:
+        return {}
+
+    split_path = Path(path)
+    if not split_path.exists():
+        return {}
+
+    try:
+        with split_path.open("r", encoding="utf-8") as f:
+            obj = json.load(f)
+    except Exception:
+        return {}
+
+    out: dict[str, Any] = {}
+    out["split_seed"] = obj.get("seed")
+    out["stratification"] = obj.get("stratification")
+    out["val_ratio"] = obj.get("val_ratio")
+    out["tokens_by_split"] = obj.get("tokens_by_split")
+    counts = obj.get("counts")
+    if isinstance(counts, dict):
+        out["counts"] = counts
+    return out
+
+
+def _build_dataset_summary(data_cfg: dict[str, Any], train_ds, val_ds, val_a_ds, val_b_ds) -> dict[str, Any]:
+    split_meta = _extract_doc_counts_from_split_json(data_cfg.get("split_json"))
+    counts = split_meta.get("counts", {})
+    return {
+        "data_type": data_cfg.get("type"),
+        "corpus_dir": data_cfg.get("corpus_dir"),
+        "split_json": data_cfg.get("split_json"),
+        "max_seq_length": data_cfg.get("max_seq_length"),
+        "train_chunks_total": len(train_ds) if train_ds is not None else None,
+        "val_chunks_total": len(val_ds) if val_ds is not None else None,
+        "val_chunks_layer_a": len(val_a_ds) if val_a_ds is not None else None,
+        "val_chunks_layer_b": len(val_b_ds) if val_b_ds is not None else None,
+        "train_docs_total": (
+            (counts.get("layer_a", {}).get("train", 0) + counts.get("layer_b", {}).get("train", 0))
+            if counts
+            else None
+        ),
+        "val_docs_total": (
+            (counts.get("layer_a", {}).get("val", 0) + counts.get("layer_b", {}).get("val", 0))
+            if counts
+            else None
+        ),
+        "val_docs_layer_a": counts.get("layer_a", {}).get("val") if counts else None,
+        "val_docs_layer_b": counts.get("layer_b", {}).get("val") if counts else None,
+        "split_seed": split_meta.get("split_seed"),
+        "stratification": split_meta.get("stratification"),
+        "val_ratio": split_meta.get("val_ratio"),
+        "tokens_by_split": split_meta.get("tokens_by_split"),
+    }
+
+
+def _build_budget_summary(train_cfg: dict[str, Any], data_cfg: dict[str, Any], max_steps_completed: int) -> dict[str, Any]:
+    per_device_train_batch_size = int(train_cfg["per_device_train_batch_size"])
+    gradient_accumulation_steps = int(train_cfg["gradient_accumulation_steps"])
+    effective_batch_size_sequences = per_device_train_batch_size * gradient_accumulation_steps
+    max_seq_length = int(data_cfg["max_seq_length"])
+    tokens_per_optimizer_step = effective_batch_size_sequences * max_seq_length
+    max_steps_planned = int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None
+    planned_tokens_processed = (
+        max_steps_planned * tokens_per_optimizer_step if max_steps_planned is not None else None
+    )
+    realized_tokens_processed = max_steps_completed * tokens_per_optimizer_step
+
+    budget_basis = {
+        "max_steps_planned": max_steps_planned,
+        "per_device_train_batch_size": per_device_train_batch_size,
+        "gradient_accumulation_steps": gradient_accumulation_steps,
+        "max_seq_length": max_seq_length,
+        "eval_steps": int(train_cfg["eval_steps"]),
+        "save_steps": int(train_cfg["save_steps"]),
+    }
+    budget_match_key = hashlib.sha256(
+        json.dumps(budget_basis, sort_keys=True).encode("utf-8")
+    ).hexdigest()[:16]
+
+    return {
+        "max_steps_planned": max_steps_planned,
+        "max_steps_completed": max_steps_completed,
+        "per_device_train_batch_size": per_device_train_batch_size,
+        "gradient_accumulation_steps": gradient_accumulation_steps,
+        "effective_batch_size_sequences": effective_batch_size_sequences,
+        "max_seq_length": max_seq_length,
+        "tokens_per_optimizer_step": tokens_per_optimizer_step,
+        "planned_tokens_processed": planned_tokens_processed,
+        "realized_tokens_processed": realized_tokens_processed,
+        "eval_steps": int(train_cfg["eval_steps"]),
+        "save_steps": int(train_cfg["save_steps"]),
+        "seed": int(train_cfg["seed"]),
+        "budget_match_key": budget_match_key,
+        "budget_basis": budget_basis,
+    }
+
+
+def _event_type_from_history_item(item: dict[str, Any]) -> str:
+    keys = set(item.keys())
+    if any(k.startswith("baseline_") for k in keys):
+        return "baseline_eval"
+    if any(k.startswith("eval_") for k in keys):
+        return "eval"
+    if "loss" in keys or "grad_norm" in keys:
+        return "train_log"
+    return "system"
+
+
+def _build_metrics_history_rows(log_history: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for item in log_history:
+        rows.append(
+            {
+                "step": item.get("step"),
+                "epoch": item.get("epoch"),
+                "event_type": _event_type_from_history_item(item),
+                "timestamp_utc": iso_utc_now(),
+                "metrics": json_safe_metrics(item),
+            }
+        )
+    return rows
+
+
+def _extract_eval_rows(run_id: str, baseline_metrics: dict[str, Any], log_history: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = [
+        {
+            "run_id": run_id,
+            "step": 0,
+            "phase": "baseline",
+            "eval_loss": baseline_metrics.get("baseline_loss"),
+            "eval_perplexity": baseline_metrics.get("baseline_perplexity"),
+            "eval_layer_a_loss": baseline_metrics.get("baseline_layer_a_loss"),
+            "eval_layer_a_perplexity": baseline_metrics.get("baseline_layer_a_perplexity"),
+            "eval_layer_b_loss": baseline_metrics.get("baseline_layer_b_loss"),
+            "eval_layer_b_perplexity": baseline_metrics.get("baseline_layer_b_perplexity"),
+            "train_step_time_mean_s_window": baseline_metrics.get("baseline_mean_train_step_time_s"),
+            "train_step_time_p50_s_window": None,
+            "train_step_time_p95_s_window": None,
+            "train_step_time_std_s_window": None,
+            "train_step_time_num_samples_window": None,
+            "eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+            "eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        }
+    ]
+
+    for item in log_history:
+        if "eval_perplexity" not in item:
+            continue
+        rows.append(
+            {
+                "run_id": run_id,
+                "step": item.get("step"),
+                "phase": "eval",
+                "eval_loss": item.get("eval_loss"),
+                "eval_perplexity": item.get("eval_perplexity"),
+                "eval_layer_a_loss": item.get("eval_layer_a_loss"),
+                "eval_layer_a_perplexity": item.get("eval_layer_a_perplexity"),
+                "eval_layer_b_loss": item.get("eval_layer_b_loss"),
+                "eval_layer_b_perplexity": item.get("eval_layer_b_perplexity"),
+                "train_step_time_mean_s_window": item.get("eval_mean_train_step_time_s"),
+                "train_step_time_p50_s_window": item.get("eval_p50_train_step_time_s"),
+                "train_step_time_p95_s_window": item.get("eval_p95_train_step_time_s"),
+                "train_step_time_std_s_window": item.get("eval_std_train_step_time_s"),
+                "train_step_time_num_samples_window": item.get("eval_num_train_step_time_samples"),
+                "eval_peak_vram_allocated_gb": item.get("eval_peak_vram_allocated_gb"),
+                "eval_peak_vram_reserved_gb": item.get("eval_peak_vram_reserved_gb"),
+            }
+        )
+    return rows
+
+
+def _best_eval_row_from_eval_rows(rows: list[dict[str, Any]]) -> Optional[dict[str, Any]]:
+    eval_rows = [r for r in rows if r.get("phase") == "eval" and r.get("eval_perplexity") is not None]
+    if not eval_rows:
+        return None
+    return min(eval_rows, key=lambda r: float(r["eval_perplexity"]))
+
+
+def _build_memory_summary(
+    baseline_metrics: dict[str, Any],
+    eval_rows: list[dict[str, Any]],
+    run_peak_snapshot: Optional[dict[str, Any]],
+    train_peak_metrics: Optional[dict[str, Optional[float]]],
+) -> dict[str, Any]:
+    eval_peak_alloc = collect_finite(
+        [r.get("eval_peak_vram_allocated_gb") for r in eval_rows if r.get("phase") == "eval"]
+    )
+    eval_peak_resv = collect_finite(
+        [r.get("eval_peak_vram_reserved_gb") for r in eval_rows if r.get("phase") == "eval"]
+    )
+
+    run_peak_alloc_gb = None
+    run_peak_resv_gb = None
+    if run_peak_snapshot and run_peak_snapshot.get("cuda_available"):
+        gb = 1024**3
+        max_alloc_bytes = run_peak_snapshot.get("max_allocated_bytes")
+        max_resv_bytes = run_peak_snapshot.get("max_reserved_bytes")
+        if isinstance(max_alloc_bytes, int):
+            run_peak_alloc_gb = max_alloc_bytes / gb
+        if isinstance(max_resv_bytes, int):
+            run_peak_resv_gb = max_resv_bytes / gb
+
+    train_peak_alloc = None
+    train_peak_resv = None
+    if train_peak_metrics:
+        train_peak_alloc = train_peak_metrics.get("train_peak_vram_allocated_gb")
+        train_peak_resv = train_peak_metrics.get("train_peak_vram_reserved_gb")
+
+    return {
+        "baseline_eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+        "baseline_eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        "train_peak_vram_allocated_gb": train_peak_alloc,
+        "train_peak_vram_reserved_gb": train_peak_resv,
+        "max_eval_peak_vram_allocated_gb": max(eval_peak_alloc) if eval_peak_alloc else None,
+        "max_eval_peak_vram_reserved_gb": max(eval_peak_resv) if eval_peak_resv else None,
+        "run_peak_vram_allocated_gb": run_peak_alloc_gb,
+        "run_peak_vram_reserved_gb": run_peak_resv_gb,
+        "memory_measurement_notes": (
+            "train_peak tracked from per-step allocator snapshots; eval peaks from eval logs."
+        ),
+    }
+
+
+def _build_run_manifest(
+    run_id: str,
+    exp_name: str,
+    status: str,
+    baseline_only: bool,
+    variant: str,
+    protocol_version: str,
+    logging_schema_version: str,
+    start_time_utc: str,
+    end_time_utc: str,
+    duration_s: float,
+    paths: dict[str, str],
+) -> dict[str, Any]:
+    return {
+        "run_id": run_id,
+        "experiment_name": exp_name,
+        "variant": variant,
+        "status": status,
+        "baseline_only": baseline_only,
+        "protocol_version": protocol_version,
+        "logging_schema_version": logging_schema_version,
+        "start_time_utc": start_time_utc,
+        "end_time_utc": end_time_utc,
+        "duration_s": duration_s,
+        "paths": paths,
+    }
+
+
 def main():
     args = parse_args()
     cfg = load_config(args.config)
-    run_start_ts = _iso_utc_now()
+    run_start_ts = iso_utc_now()
+    run_start_wall = time.time()
 
     exp_name = cfg["experiment_name"]
     model_cfg = cfg["model"]
     data_cfg = cfg["data"]
     train_cfg = cfg["training"]
     hw_cfg = cfg["hardware"]
+    exp_meta = cfg.get("experiment", {}) if isinstance(cfg.get("experiment"), dict) else {}
 
-    set_seed(train_cfg["seed"])
+    set_seed(int(train_cfg["seed"]))
 
     base_model_name = model_cfg["base_model"]
     dtype = get_torch_dtype(model_cfg["dtype"])
-    use_4bit = hw_cfg.get("use_4bit", False)
+    use_4bit = bool(hw_cfg.get("use_4bit", False))
     attn_implementation = hw_cfg.get("attn_implementation")
+    variant = exp_meta.get("variant") or ("qlora" if use_4bit else "lora")
+    protocol_version = exp_meta.get("protocol_version", "protocol_v1")
+    logging_schema_version = exp_meta.get("logging_schema_version", "logging_v1")
 
     _configure_sdp_backends(hw_cfg)
     if attn_implementation:
         print(f"[info] attn_implementation requested: {attn_implementation}")
 
-    # data
     tokenizer, train_ds, val_ds, val_a_ds, val_b_ds, collator = get_datasets_and_collator(
         data_cfg,
         base_model_name,
-        seed=train_cfg["seed"],
+        seed=int(train_cfg["seed"]),
     )
 
-    # model
     model = load_base_model(
         model_name=base_model_name,
         dtype=dtype,
@@ -888,7 +615,6 @@ def main():
     if args.baseline_only:
         print("[info] baseline-only mode enabled: evaluating unadapted base model")
 
-    # KV cache is useful for generation, not training; disable to reduce memory spikes.
     if hasattr(model, "config"):
         model.config.use_cache = False
         print("[info] forced model.config.use_cache=False for training")
@@ -899,33 +625,39 @@ def main():
     reports_dir.mkdir(parents=True, exist_ok=True)
     run_id = f"{exp_name}__{int(time.time())}"
 
-    _write_yaml_artifact(reports_dir / "resolved_config.yaml", cfg)
-    _write_json_artifact(reports_dir / "environment.json", _build_environment_snapshot())
-    _write_json_artifact(
-        reports_dir / "run_manifest.json",
-        {
-            "run_id": run_id,
-            "experiment_name": exp_name,
-            "status": "running",
-            "baseline_only": bool(args.baseline_only),
-            "start_time_utc": run_start_ts,
-            "paths": {
-                "output_dir": str(output_dir),
-                "reports_dir": str(reports_dir),
-                "config_path": str(args.config),
-                "run_log": str(output_dir / "raw" / "run.log"),
-                "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
-                "training_summary": str(output_dir / "training_summary.json"),
-                "final_adapter_dir": str(output_dir / "final_adapter"),
-            },
-        },
-    )
-    _write_json_artifact(
+    paths_common = {
+        "output_dir": str(output_dir),
+        "reports_dir": str(reports_dir),
+        "config_path": str(args.config),
+        "run_log": str(output_dir / "raw" / "run.log"),
+        "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+        "training_summary": str(output_dir / "training_summary.json"),
+        "final_adapter_dir": str(output_dir / "final_adapter"),
+    }
+
+    write_yaml_artifact(reports_dir / "resolved_config.yaml", cfg)
+    write_json_artifact(reports_dir / "environment.json", build_environment_snapshot())
+    write_json_artifact(
         reports_dir / "dataset_summary.json",
         _build_dataset_summary(data_cfg, train_ds, val_ds, val_a_ds, val_b_ds),
     )
+    write_json_artifact(
+        reports_dir / "run_manifest.json",
+        _build_run_manifest(
+            run_id=run_id,
+            exp_name=exp_name,
+            status="running",
+            baseline_only=bool(args.baseline_only),
+            variant=variant,
+            protocol_version=protocol_version,
+            logging_schema_version=logging_schema_version,
+            start_time_utc=run_start_ts,
+            end_time_utc=run_start_ts,
+            duration_s=0.0,
+            paths=paths_common,
+        ),
+    )
 
-    # training args
     lr = float(train_cfg["learning_rate"])
     warmup_ratio = float(train_cfg["warmup_ratio"])
     weight_decay = float(train_cfg["weight_decay"])
@@ -964,7 +696,6 @@ def main():
         log_level="info",
     )
 
-
     baseline_trainer = StratifiedEvalTrainer(
         model=model,
         args=training_args,
@@ -975,59 +706,66 @@ def main():
         data_collator=collator,
     )
 
-    # Baseline (pre-training) eval artifact for protocol zero-shot reference.
     baseline_metrics = baseline_trainer.evaluate(metric_key_prefix="baseline")
-    _write_json_artifact(
+    write_json_artifact(
         output_dir / "baseline_eval_metrics.json",
         {
             "experiment_name": exp_name,
-            "global_step": int(baseline_trainer.state.global_step),
             "run_id": run_id,
+            "variant": variant,
+            "global_step": int(baseline_trainer.state.global_step),
             "baseline_only": bool(args.baseline_only),
-            "metrics": _json_safe_metrics(baseline_metrics),
+            "metrics": json_safe_metrics(baseline_metrics),
         },
     )
-    _log_cuda_memory_snapshot("post_baseline_eval_preclear", output_dir)
-    baseline_run_peak_snapshot = _cuda_memory_snapshot()
+    baseline_run_peak_snapshot = _log_cuda_memory_snapshot("post_baseline_eval_preclear", output_dir)
 
     if args.baseline_only:
         eval_rows = _extract_eval_rows(run_id, baseline_metrics, baseline_trainer.state.log_history)
-        _write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
-        _write_metrics_history_jsonl(reports_dir / "metrics_history.jsonl", baseline_trainer.state.log_history)
-        _write_json_artifact(
+        write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
+        write_jsonl_rows(
+            reports_dir / "metrics_history.jsonl",
+            _build_metrics_history_rows(baseline_trainer.state.log_history),
+        )
+        write_json_artifact(
             reports_dir / "budget_summary.json",
             _build_budget_summary(train_cfg, data_cfg, max_steps_completed=0),
         )
-        _write_json_artifact(
+        write_json_artifact(
             reports_dir / "timing_summary.json",
-            _build_timing_summary(train_metrics={}, eval_rows=eval_rows, baseline_only=True),
+            build_timing_summary(train_metrics={}, eval_rows=eval_rows, baseline_only=True),
         )
-        _write_json_artifact(
+        write_json_artifact(
             reports_dir / "memory_summary.json",
             _build_memory_summary(
                 baseline_metrics=baseline_metrics,
                 eval_rows=eval_rows,
                 run_peak_snapshot=baseline_run_peak_snapshot,
+                train_peak_metrics=None,
             ),
         )
-        stability_summary, stability_events = _build_stability_artifacts(baseline_trainer.state.log_history)
-        _write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
-        _write_jsonl(reports_dir / "stability_events.jsonl", stability_events)
-        _write_json_artifact(
+        stability_summary, stability_events = build_stability_artifacts(baseline_trainer.state.log_history)
+        write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
+        write_jsonl_rows(reports_dir / "stability_events.jsonl", stability_events)
+
+        write_json_artifact(
             output_dir / "baseline_only_summary.json",
             {
                 "experiment_name": exp_name,
                 "run_id": run_id,
+                "variant": variant,
                 "global_step": int(baseline_trainer.state.global_step),
                 "mode": "baseline_only",
-                "metrics": _json_safe_metrics(baseline_metrics),
+                "metrics": json_safe_metrics(baseline_metrics),
             },
         )
-        _write_json_artifact(
+        write_json_artifact(
             reports_dir / "final_metrics.json",
             {
                 "run_id": run_id,
+                "variant": variant,
                 "mode": "baseline_only",
+                "selection_metric": "eval_perplexity",
                 "baseline": {
                     "perplexity_all": baseline_metrics.get("baseline_perplexity"),
                     "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
@@ -1035,11 +773,12 @@ def main():
                 },
             },
         )
-        _write_json_artifact(
+        write_json_artifact(
             reports_dir / "comparison_row.json",
             {
                 "run_id": run_id,
                 "experiment_name": exp_name,
+                "variant": variant,
                 "mode": "baseline_only",
                 "base_model": base_model_name,
                 "use_4bit": bool(use_4bit),
@@ -1056,41 +795,39 @@ def main():
                 "status": "completed",
             },
         )
-        run_end_ts = _iso_utc_now()
-        _write_json_artifact(
+
+        run_end_ts = iso_utc_now()
+        write_json_artifact(
             reports_dir / "run_manifest.json",
-            {
-                "run_id": run_id,
-                "experiment_name": exp_name,
-                "status": "completed",
-                "baseline_only": True,
-                "start_time_utc": run_start_ts,
-                "end_time_utc": run_end_ts,
-                "paths": {
-                    "output_dir": str(output_dir),
-                    "reports_dir": str(reports_dir),
-                    "config_path": str(args.config),
-                    "run_log": str(output_dir / "raw" / "run.log"),
-                    "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+            _build_run_manifest(
+                run_id=run_id,
+                exp_name=exp_name,
+                status="completed",
+                baseline_only=True,
+                variant=variant,
+                protocol_version=protocol_version,
+                logging_schema_version=logging_schema_version,
+                start_time_utc=run_start_ts,
+                end_time_utc=run_end_ts,
+                duration_s=time.time() - run_start_wall,
+                paths={
+                    **paths_common,
                     "baseline_only_summary": str(output_dir / "baseline_only_summary.json"),
                     "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
                     "comparison_row": str(reports_dir / "comparison_row.json"),
                 },
-            },
+            ),
         )
         print("[info] baseline-only run complete; skipped training and adapter save")
         return
 
-    # Attach trainable adapters only after baseline has been measured on the base model.
     model = apply_lora(model, model_cfg["lora"])
 
-    # gradient checkpointing, if requested
-    if hw_cfg.get("gradient_checkpointing", False):
+    if bool(hw_cfg.get("gradient_checkpointing", False)):
         gc_kwargs = {"use_reentrant": bool(hw_cfg.get("gc_use_reentrant", False))}
         try:
             model.gradient_checkpointing_enable(gradient_checkpointing_kwargs=gc_kwargs)
         except TypeError:
-            # Older transformers versions may not accept gradient_checkpointing_kwargs.
             model.gradient_checkpointing_enable()
         if hasattr(model, "enable_input_require_grads"):
             model.enable_input_require_grads()
@@ -1108,13 +845,11 @@ def main():
         data_collator=collator,
     )
 
-    # Baseline eval can leave allocator cache populated; clear unused blocks before training.
     gc.collect()
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
     _log_cuda_memory_snapshot("pre_train", output_dir)
 
-    # Reset interval timers + CUDA peak memory so run metrics reflect training/eval run only.
     trainer.reset_protocol_trackers()
     try:
         train_result = trainer.train()
@@ -1124,88 +859,96 @@ def main():
             try:
                 oom_mem_summary = torch.cuda.memory_summary(abbreviated=True)
                 print("[cuda-mem-summary][oom]\n" + oom_mem_summary)
-                _write_text_artifact(output_dir / "cuda_memory_oom_summary.txt", oom_mem_summary)
+                write_text_artifact(output_dir / "cuda_memory_oom_summary.txt", oom_mem_summary)
             except Exception as mem_summary_err:
                 print(f"[warn] failed to capture cuda memory_summary after OOM: {mem_summary_err}")
-        _write_json_artifact(
+
+        stability_summary, stability_events = build_stability_artifacts(trainer.state.log_history)
+        stability_summary["num_oom_events"] = 1
+        stability_summary["terminated_early"] = True
+        stability_summary["termination_reason"] = "oom"
+        write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
+        write_jsonl_rows(reports_dir / "stability_events.jsonl", stability_events)
+
+        write_json_artifact(
             reports_dir / "run_manifest.json",
-            {
-                "run_id": run_id,
-                "experiment_name": exp_name,
-                "status": "oom",
-                "baseline_only": False,
-                "start_time_utc": run_start_ts,
-                "end_time_utc": _iso_utc_now(),
-                "paths": {
-                    "output_dir": str(output_dir),
-                    "reports_dir": str(reports_dir),
-                    "config_path": str(args.config),
-                    "run_log": str(output_dir / "raw" / "run.log"),
-                    "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
+            _build_run_manifest(
+                run_id=run_id,
+                exp_name=exp_name,
+                status="oom",
+                baseline_only=False,
+                variant=variant,
+                protocol_version=protocol_version,
+                logging_schema_version=logging_schema_version,
+                start_time_utc=run_start_ts,
+                end_time_utc=iso_utc_now(),
+                duration_s=time.time() - run_start_wall,
+                paths={
+                    **paths_common,
                     "oom_snapshot": str(output_dir / "cuda_memory_oom_exception.json"),
                     "oom_summary": str(output_dir / "cuda_memory_oom_summary.txt"),
                 },
-            },
+            ),
         )
         raise
 
-    _write_json_artifact(
+    write_json_artifact(
         output_dir / "training_summary.json",
         {
             "experiment_name": exp_name,
             "run_id": run_id,
+            "variant": variant,
             "global_step": int(trainer.state.global_step),
             "best_model_checkpoint": trainer.state.best_model_checkpoint,
             "best_metric": (
-                float(trainer.state.best_metric)
-                if trainer.state.best_metric is not None
-                else None
+                float(trainer.state.best_metric) if trainer.state.best_metric is not None else None
             ),
             "metric_for_best_model": training_args.metric_for_best_model,
-            "train_metrics": _json_safe_metrics(getattr(train_result, "metrics", {})),
+            "train_metrics": json_safe_metrics(getattr(train_result, "metrics", {})),
         },
     )
 
-    # final save
     trainer.save_model(str(output_dir / "final_adapter"))
     tokenizer.save_pretrained(str(output_dir / "final_adapter"))
-    _log_cuda_memory_snapshot("post_train", output_dir)
-    post_train_peak_snapshot = _cuda_memory_snapshot()
+    post_train_peak_snapshot = _log_cuda_memory_snapshot("post_train", output_dir)
 
     eval_rows = _extract_eval_rows(run_id, baseline_metrics, trainer.state.log_history)
-    _write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
-    _write_metrics_history_jsonl(reports_dir / "metrics_history.jsonl", trainer.state.log_history)
+    write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
+    write_jsonl_rows(reports_dir / "metrics_history.jsonl", _build_metrics_history_rows(trainer.state.log_history))
     max_steps_completed = int(trainer.state.global_step)
-    _write_json_artifact(
+    write_json_artifact(
         reports_dir / "budget_summary.json",
         _build_budget_summary(train_cfg, data_cfg, max_steps_completed=max_steps_completed),
     )
-    _write_json_artifact(
+    write_json_artifact(
         reports_dir / "timing_summary.json",
-        _build_timing_summary(
+        build_timing_summary(
             train_metrics=getattr(train_result, "metrics", {}),
             eval_rows=eval_rows,
             baseline_only=False,
         ),
     )
-    _write_json_artifact(
+    write_json_artifact(
         reports_dir / "memory_summary.json",
         _build_memory_summary(
             baseline_metrics=baseline_metrics,
             eval_rows=eval_rows,
             run_peak_snapshot=post_train_peak_snapshot,
+            train_peak_metrics=trainer.train_peak_vram_metrics(),
         ),
     )
-    stability_summary, stability_events = _build_stability_artifacts(trainer.state.log_history)
-    _write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
-    _write_jsonl(reports_dir / "stability_events.jsonl", stability_events)
+    stability_summary, stability_events = build_stability_artifacts(trainer.state.log_history)
+    write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
+    write_jsonl_rows(reports_dir / "stability_events.jsonl", stability_events)
 
     best_eval_row = _best_eval_row_from_eval_rows(eval_rows)
     final_eval_row = eval_rows[-1] if eval_rows else None
-    _write_json_artifact(
+    write_json_artifact(
         reports_dir / "final_metrics.json",
         {
             "run_id": run_id,
+            "variant": variant,
+            "selection_metric": "eval_perplexity",
             "baseline": {
                 "perplexity_all": baseline_metrics.get("baseline_perplexity"),
                 "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
@@ -1216,20 +959,22 @@ def main():
             "deltas_from_baseline": (
                 {
                     "delta_ppl_all": (
-                        (best_eval_row.get("eval_perplexity") - baseline_metrics.get("baseline_perplexity"))
-                        if best_eval_row and baseline_metrics.get("baseline_perplexity") is not None
-                        else None
-                    ),
+                        best_eval_row.get("eval_perplexity") - baseline_metrics.get("baseline_perplexity")
+                    )
+                    if best_eval_row and baseline_metrics.get("baseline_perplexity") is not None
+                    else None,
                     "delta_ppl_layer_a": (
-                        (best_eval_row.get("eval_layer_a_perplexity") - baseline_metrics.get("baseline_layer_a_perplexity"))
-                        if best_eval_row and baseline_metrics.get("baseline_layer_a_perplexity") is not None
-                        else None
-                    ),
+                        best_eval_row.get("eval_layer_a_perplexity")
+                        - baseline_metrics.get("baseline_layer_a_perplexity")
+                    )
+                    if best_eval_row and baseline_metrics.get("baseline_layer_a_perplexity") is not None
+                    else None,
                     "delta_ppl_layer_b": (
-                        (best_eval_row.get("eval_layer_b_perplexity") - baseline_metrics.get("baseline_layer_b_perplexity"))
-                        if best_eval_row and baseline_metrics.get("baseline_layer_b_perplexity") is not None
-                        else None
-                    ),
+                        best_eval_row.get("eval_layer_b_perplexity")
+                        - baseline_metrics.get("baseline_layer_b_perplexity")
+                    )
+                    if best_eval_row and baseline_metrics.get("baseline_layer_b_perplexity") is not None
+                    else None,
                 }
                 if best_eval_row
                 else None
@@ -1237,18 +982,17 @@ def main():
         },
     )
 
-    _write_json_artifact(
+    write_json_artifact(
         reports_dir / "comparison_row.json",
         {
             "run_id": run_id,
             "experiment_name": exp_name,
+            "variant": variant,
             "base_model": base_model_name,
             "use_4bit": bool(use_4bit),
             "gradient_checkpointing": bool(hw_cfg.get("gradient_checkpointing", False)),
             "seed": int(train_cfg["seed"]),
-            "max_steps": (
-                int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None
-            ),
+            "max_steps": int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None,
             "effective_batch_size_sequences": int(train_cfg["per_device_train_batch_size"])
             * int(train_cfg["gradient_accumulation_steps"]),
             "max_seq_length": int(data_cfg["max_seq_length"]),
@@ -1270,27 +1014,25 @@ def main():
         },
     )
 
-    _write_json_artifact(
+    write_json_artifact(
         reports_dir / "run_manifest.json",
-        {
-            "run_id": run_id,
-            "experiment_name": exp_name,
-            "status": "completed",
-            "baseline_only": False,
-            "start_time_utc": run_start_ts,
-            "end_time_utc": _iso_utc_now(),
-            "paths": {
-                "output_dir": str(output_dir),
-                "reports_dir": str(reports_dir),
-                "config_path": str(args.config),
-                "run_log": str(output_dir / "raw" / "run.log"),
-                "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
-                "training_summary": str(output_dir / "training_summary.json"),
+        _build_run_manifest(
+            run_id=run_id,
+            exp_name=exp_name,
+            status="completed",
+            baseline_only=False,
+            variant=variant,
+            protocol_version=protocol_version,
+            logging_schema_version=logging_schema_version,
+            start_time_utc=run_start_ts,
+            end_time_utc=iso_utc_now(),
+            duration_s=time.time() - run_start_wall,
+            paths={
+                **paths_common,
                 "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
                 "comparison_row": str(reports_dir / "comparison_row.json"),
-                "final_adapter_dir": str(output_dir / "final_adapter"),
             },
-        },
+        ),
     )
 
 
