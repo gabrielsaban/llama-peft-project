@@ -8,6 +8,7 @@ import json
 import math
 import os
 import socket
+import statistics
 import subprocess
 import sys
 import time
@@ -413,6 +414,204 @@ def _best_eval_row_from_eval_rows(rows: list[dict[str, Any]]) -> Optional[dict[s
     return min(eval_rows, key=lambda r: float(r["eval_perplexity"]))
 
 
+def _collect_finite(values: list[Any]) -> list[float]:
+    out: list[float] = []
+    for value in values:
+        if value is None:
+            continue
+        try:
+            f = float(value)
+        except (TypeError, ValueError):
+            continue
+        if math.isfinite(f):
+            out.append(f)
+    return out
+
+
+def _percentile(values: list[float], q: float) -> Optional[float]:
+    if not values:
+        return None
+    if q <= 0:
+        return values[0]
+    if q >= 1:
+        return values[-1]
+    xs = sorted(values)
+    pos = q * (len(xs) - 1)
+    lo = int(math.floor(pos))
+    hi = int(math.ceil(pos))
+    if lo == hi:
+        return xs[lo]
+    frac = pos - lo
+    return xs[lo] * (1 - frac) + xs[hi] * frac
+
+
+def _build_timing_summary(
+    train_metrics: dict[str, Any],
+    eval_rows: list[dict[str, Any]],
+    baseline_only: bool,
+) -> dict[str, Any]:
+    step_times = _collect_finite([r.get("train_step_time_mean_s_window") for r in eval_rows if r.get("phase") == "eval"])
+    step_times_sorted = sorted(step_times)
+    return {
+        "mode": "baseline_only" if baseline_only else "train_and_eval",
+        "train_runtime_s": train_metrics.get("train_runtime"),
+        "train_steps_per_second": train_metrics.get("train_steps_per_second"),
+        "optimizer_step_time_mean_s": (statistics.fmean(step_times_sorted) if step_times_sorted else None),
+        "optimizer_step_time_p50_s": _percentile(step_times_sorted, 0.5),
+        "optimizer_step_time_p95_s": _percentile(step_times_sorted, 0.95),
+        "optimizer_step_time_std_s": (
+            statistics.pstdev(step_times_sorted) if len(step_times_sorted) > 1 else 0.0 if step_times_sorted else None
+        ),
+        "num_step_time_samples": len(step_times_sorted),
+        "timing_window_definition": "windowed mean optimizer step time emitted at each eval interval",
+    }
+
+
+def _build_memory_summary(
+    baseline_metrics: dict[str, Any],
+    eval_rows: list[dict[str, Any]],
+    run_peak_snapshot: Optional[dict[str, Any]],
+) -> dict[str, Any]:
+    eval_peak_alloc = _collect_finite([r.get("eval_peak_vram_allocated_gb") for r in eval_rows if r.get("phase") == "eval"])
+    eval_peak_resv = _collect_finite([r.get("eval_peak_vram_reserved_gb") for r in eval_rows if r.get("phase") == "eval"])
+
+    run_peak_alloc_gb = None
+    run_peak_resv_gb = None
+    if run_peak_snapshot and run_peak_snapshot.get("cuda_available"):
+        gb = 1024**3
+        max_alloc_bytes = run_peak_snapshot.get("max_allocated_bytes")
+        max_resv_bytes = run_peak_snapshot.get("max_reserved_bytes")
+        if isinstance(max_alloc_bytes, int):
+            run_peak_alloc_gb = max_alloc_bytes / gb
+        if isinstance(max_resv_bytes, int):
+            run_peak_resv_gb = max_resv_bytes / gb
+
+    return {
+        "baseline_eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+        "baseline_eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        "train_peak_vram_allocated_gb": None,
+        "train_peak_vram_reserved_gb": None,
+        "max_eval_peak_vram_allocated_gb": max(eval_peak_alloc) if eval_peak_alloc else None,
+        "max_eval_peak_vram_reserved_gb": max(eval_peak_resv) if eval_peak_resv else None,
+        "run_peak_vram_allocated_gb": run_peak_alloc_gb,
+        "run_peak_vram_reserved_gb": run_peak_resv_gb,
+        "memory_measurement_notes": (
+            "train-only peak not isolated yet; run_peak uses CUDA max stats snapshot after run."
+        ),
+    }
+
+
+def _build_stability_artifacts(log_history: list[dict[str, Any]]) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    events: list[dict[str, Any]] = []
+    loss_entries: list[tuple[int, float]] = []
+    nan_loss_events = 0
+    inf_loss_events = 0
+    nonfinite_grad_events = 0
+    divergence_events = 0
+
+    for item in log_history:
+        step = int(item.get("step", -1))
+        if "loss" in item:
+            try:
+                loss = float(item["loss"])
+            except (TypeError, ValueError):
+                loss = float("nan")
+            if math.isnan(loss):
+                nan_loss_events += 1
+                divergence_events += 1
+                events.append(
+                    {
+                        "step": step,
+                        "event_type": "nan_loss",
+                        "severity": "error",
+                        "value": None,
+                        "threshold": "finite",
+                        "message": "Observed NaN train loss.",
+                        "timestamp_utc": _iso_utc_now(),
+                    }
+                )
+            elif math.isinf(loss):
+                inf_loss_events += 1
+                divergence_events += 1
+                events.append(
+                    {
+                        "step": step,
+                        "event_type": "inf_loss",
+                        "severity": "error",
+                        "value": None,
+                        "threshold": "finite",
+                        "message": "Observed Inf train loss.",
+                        "timestamp_utc": _iso_utc_now(),
+                    }
+                )
+            else:
+                loss_entries.append((step, loss))
+
+        if "grad_norm" in item:
+            try:
+                grad_norm = float(item["grad_norm"])
+            except (TypeError, ValueError):
+                grad_norm = float("nan")
+            if not math.isfinite(grad_norm):
+                nonfinite_grad_events += 1
+                divergence_events += 1
+                events.append(
+                    {
+                        "step": step,
+                        "event_type": "nonfinite_grad_norm",
+                        "severity": "error",
+                        "value": None,
+                        "threshold": "finite",
+                        "message": "Observed non-finite grad_norm.",
+                        "timestamp_utc": _iso_utc_now(),
+                    }
+                )
+
+    loss_spike_events = 0
+    spike_ratio_threshold = 1.5
+    for idx in range(1, len(loss_entries)):
+        prev_step, prev_loss = loss_entries[idx - 1]
+        curr_step, curr_loss = loss_entries[idx]
+        if prev_loss > 0 and curr_loss > prev_loss * spike_ratio_threshold:
+            loss_spike_events += 1
+            events.append(
+                {
+                    "step": curr_step,
+                    "event_type": "loss_spike",
+                    "severity": "warn",
+                    "value": curr_loss,
+                    "threshold": f">{spike_ratio_threshold}x previous loss",
+                    "message": f"Loss spiked from {prev_loss:.6f} at step {prev_step} to {curr_loss:.6f}.",
+                    "timestamp_utc": _iso_utc_now(),
+                }
+            )
+
+    summary = {
+        "num_loss_spike_events": loss_spike_events,
+        "num_divergence_events": divergence_events,
+        "num_nan_loss_events": nan_loss_events,
+        "num_inf_loss_events": inf_loss_events,
+        "num_nonfinite_grad_norm_events": nonfinite_grad_events,
+        "num_oom_events": 0,
+        "optimizer_reset_count": 0,
+        "terminated_early": False,
+        "termination_reason": "completed",
+        "last_completed_step": max((int(item.get("step", 0)) for item in log_history), default=0),
+        "stability_rule_config": {
+            "loss_spike_rule": f"curr_loss > {spike_ratio_threshold} * prev_loss",
+            "finite_checks": ["loss", "grad_norm"],
+        },
+    }
+    return summary, events
+
+
+def _write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        for row in rows:
+            f.write(json.dumps(_json_safe_metrics(row), sort_keys=True) + "\n")
+
+
 def _cuda_memory_snapshot() -> dict[str, Any]:
     snapshot: dict[str, Any] = {"cuda_available": torch.cuda.is_available()}
     if not torch.cuda.is_available():
@@ -714,6 +913,7 @@ def main():
                 "output_dir": str(output_dir),
                 "reports_dir": str(reports_dir),
                 "config_path": str(args.config),
+                "run_log": str(output_dir / "raw" / "run.log"),
                 "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
                 "training_summary": str(output_dir / "training_summary.json"),
                 "final_adapter_dir": str(output_dir / "final_adapter"),
@@ -788,6 +988,7 @@ def main():
         },
     )
     _log_cuda_memory_snapshot("post_baseline_eval_preclear", output_dir)
+    baseline_run_peak_snapshot = _cuda_memory_snapshot()
 
     if args.baseline_only:
         eval_rows = _extract_eval_rows(run_id, baseline_metrics, baseline_trainer.state.log_history)
@@ -797,6 +998,21 @@ def main():
             reports_dir / "budget_summary.json",
             _build_budget_summary(train_cfg, data_cfg, max_steps_completed=0),
         )
+        _write_json_artifact(
+            reports_dir / "timing_summary.json",
+            _build_timing_summary(train_metrics={}, eval_rows=eval_rows, baseline_only=True),
+        )
+        _write_json_artifact(
+            reports_dir / "memory_summary.json",
+            _build_memory_summary(
+                baseline_metrics=baseline_metrics,
+                eval_rows=eval_rows,
+                run_peak_snapshot=baseline_run_peak_snapshot,
+            ),
+        )
+        stability_summary, stability_events = _build_stability_artifacts(baseline_trainer.state.log_history)
+        _write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
+        _write_jsonl(reports_dir / "stability_events.jsonl", stability_events)
         _write_json_artifact(
             output_dir / "baseline_only_summary.json",
             {
@@ -831,6 +1047,12 @@ def main():
                 "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
                 "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
                 "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+                "num_loss_spike_events": stability_summary.get("num_loss_spike_events"),
+                "num_nonfinite_events": (
+                    stability_summary.get("num_nan_loss_events", 0)
+                    + stability_summary.get("num_inf_loss_events", 0)
+                    + stability_summary.get("num_nonfinite_grad_norm_events", 0)
+                ),
                 "status": "completed",
             },
         )
@@ -848,6 +1070,7 @@ def main():
                     "output_dir": str(output_dir),
                     "reports_dir": str(reports_dir),
                     "config_path": str(args.config),
+                    "run_log": str(output_dir / "raw" / "run.log"),
                     "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
                     "baseline_only_summary": str(output_dir / "baseline_only_summary.json"),
                     "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
@@ -917,6 +1140,7 @@ def main():
                     "output_dir": str(output_dir),
                     "reports_dir": str(reports_dir),
                     "config_path": str(args.config),
+                    "run_log": str(output_dir / "raw" / "run.log"),
                     "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
                     "oom_snapshot": str(output_dir / "cuda_memory_oom_exception.json"),
                     "oom_summary": str(output_dir / "cuda_memory_oom_summary.txt"),
@@ -945,6 +1169,8 @@ def main():
     # final save
     trainer.save_model(str(output_dir / "final_adapter"))
     tokenizer.save_pretrained(str(output_dir / "final_adapter"))
+    _log_cuda_memory_snapshot("post_train", output_dir)
+    post_train_peak_snapshot = _cuda_memory_snapshot()
 
     eval_rows = _extract_eval_rows(run_id, baseline_metrics, trainer.state.log_history)
     _write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
@@ -954,6 +1180,25 @@ def main():
         reports_dir / "budget_summary.json",
         _build_budget_summary(train_cfg, data_cfg, max_steps_completed=max_steps_completed),
     )
+    _write_json_artifact(
+        reports_dir / "timing_summary.json",
+        _build_timing_summary(
+            train_metrics=getattr(train_result, "metrics", {}),
+            eval_rows=eval_rows,
+            baseline_only=False,
+        ),
+    )
+    _write_json_artifact(
+        reports_dir / "memory_summary.json",
+        _build_memory_summary(
+            baseline_metrics=baseline_metrics,
+            eval_rows=eval_rows,
+            run_peak_snapshot=post_train_peak_snapshot,
+        ),
+    )
+    stability_summary, stability_events = _build_stability_artifacts(trainer.state.log_history)
+    _write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
+    _write_jsonl(reports_dir / "stability_events.jsonl", stability_events)
 
     best_eval_row = _best_eval_row_from_eval_rows(eval_rows)
     final_eval_row = eval_rows[-1] if eval_rows else None
@@ -1015,6 +1260,12 @@ def main():
             "best_ppl_layer_b": best_eval_row.get("eval_layer_b_perplexity") if best_eval_row else None,
             "train_runtime_s": getattr(train_result, "metrics", {}).get("train_runtime"),
             "train_steps_per_second": getattr(train_result, "metrics", {}).get("train_steps_per_second"),
+            "num_loss_spike_events": stability_summary.get("num_loss_spike_events"),
+            "num_nonfinite_events": (
+                stability_summary.get("num_nan_loss_events", 0)
+                + stability_summary.get("num_inf_loss_events", 0)
+                + stability_summary.get("num_nonfinite_grad_norm_events", 0)
+            ),
             "status": "completed",
         },
     )
@@ -1032,6 +1283,7 @@ def main():
                 "output_dir": str(output_dir),
                 "reports_dir": str(reports_dir),
                 "config_path": str(args.config),
+                "run_log": str(output_dir / "raw" / "run.log"),
                 "baseline_eval_metrics": str(output_dir / "baseline_eval_metrics.json"),
                 "training_summary": str(output_dir / "training_summary.json"),
                 "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
