@@ -1,0 +1,34 @@
+experiment_name: "llama3_1b_lora_eurlex_debug"
+
+model:
+  base_model: "meta-llama/Llama-3.2-1B-Instruct"
+  dtype: "bfloat16"
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]  # can refine later
+
+data:
+  type: "eurlex_text_lm"   # for now: pure LM objective on eur-lex text
+  max_seq_length: 1024
+  train_subset: 10000      # small for first run
+  val_subset: 1000
+
+training:
+  output_dir: "../outputs/llama3_1b_lora_eurlex_debug"
+  per_device_train_batch_size: 2
+  per_device_eval_batch_size: 2
+  gradient_accumulation_steps: 4
+  num_train_epochs: 1
+  learning_rate: 2e-4
+  warmup_ratio: 0.03
+  weight_decay: 0.0
+  logging_steps: 50
+  save_steps: 500
+  eval_steps: 500
+  seed: 42
+
+hardware:
+  use_4bit: false
+  gradient_checkpointing: false
