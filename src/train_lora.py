@@ -45,6 +45,8 @@ from .data_module import (
 )
 from .provenance import build_environment_snapshot, iso_utc_now
 
+_RUN_CONTEXT: dict[str, Any] = {}
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
@@ -226,6 +228,8 @@ class StratifiedEvalTrainer(Trainer):
         return {
             f"{metric_key_prefix}_peak_vram_allocated_gb": peak_allocated / gb,
             f"{metric_key_prefix}_peak_vram_reserved_gb": peak_reserved / gb,
+            f"{metric_key_prefix}_peak_vram_allocated_gb_since_last_reset": peak_allocated / gb,
+            f"{metric_key_prefix}_peak_vram_reserved_gb_since_last_reset": peak_reserved / gb,
         }
 
     def _interval_step_time_metrics(self, metric_key_prefix: str) -> dict[str, Any]:
@@ -464,6 +468,14 @@ def _extract_eval_rows(run_id: str, baseline_metrics: dict[str, Any], log_histor
             "train_step_time_num_samples_window": None,
             "eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
             "eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+            "eval_peak_vram_allocated_gb_since_last_reset": baseline_metrics.get(
+                "baseline_peak_vram_allocated_gb_since_last_reset",
+                baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+            ),
+            "eval_peak_vram_reserved_gb_since_last_reset": baseline_metrics.get(
+                "baseline_peak_vram_reserved_gb_since_last_reset",
+                baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+            ),
         }
     ]
 
@@ -488,6 +500,14 @@ def _extract_eval_rows(run_id: str, baseline_metrics: dict[str, Any], log_histor
                 "train_step_time_num_samples_window": item.get("eval_num_train_step_time_samples"),
                 "eval_peak_vram_allocated_gb": item.get("eval_peak_vram_allocated_gb"),
                 "eval_peak_vram_reserved_gb": item.get("eval_peak_vram_reserved_gb"),
+                "eval_peak_vram_allocated_gb_since_last_reset": item.get(
+                    "eval_peak_vram_allocated_gb_since_last_reset",
+                    item.get("eval_peak_vram_allocated_gb"),
+                ),
+                "eval_peak_vram_reserved_gb_since_last_reset": item.get(
+                    "eval_peak_vram_reserved_gb_since_last_reset",
+                    item.get("eval_peak_vram_reserved_gb"),
+                ),
             }
         )
     return rows
@@ -507,10 +527,18 @@ def _build_memory_summary(
     train_peak_metrics: Optional[dict[str, Optional[float]]],
 ) -> dict[str, Any]:
     eval_peak_alloc = collect_finite(
-        [r.get("eval_peak_vram_allocated_gb") for r in eval_rows if r.get("phase") == "eval"]
+        [
+            r.get("eval_peak_vram_allocated_gb_since_last_reset", r.get("eval_peak_vram_allocated_gb"))
+            for r in eval_rows
+            if r.get("phase") == "eval"
+        ]
     )
     eval_peak_resv = collect_finite(
-        [r.get("eval_peak_vram_reserved_gb") for r in eval_rows if r.get("phase") == "eval"]
+        [
+            r.get("eval_peak_vram_reserved_gb_since_last_reset", r.get("eval_peak_vram_reserved_gb"))
+            for r in eval_rows
+            if r.get("phase") == "eval"
+        ]
     )
 
     run_peak_alloc_gb = None
@@ -533,14 +561,22 @@ def _build_memory_summary(
     return {
         "baseline_eval_peak_vram_allocated_gb": baseline_metrics.get("baseline_peak_vram_allocated_gb"),
         "baseline_eval_peak_vram_reserved_gb": baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        "baseline_eval_peak_vram_allocated_gb_since_last_reset": baseline_metrics.get(
+            "baseline_peak_vram_allocated_gb_since_last_reset",
+            baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+        ),
+        "baseline_eval_peak_vram_reserved_gb_since_last_reset": baseline_metrics.get(
+            "baseline_peak_vram_reserved_gb_since_last_reset",
+            baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        ),
         "train_peak_vram_allocated_gb": train_peak_alloc,
         "train_peak_vram_reserved_gb": train_peak_resv,
-        "max_eval_peak_vram_allocated_gb": max(eval_peak_alloc) if eval_peak_alloc else None,
-        "max_eval_peak_vram_reserved_gb": max(eval_peak_resv) if eval_peak_resv else None,
+        "max_eval_peak_vram_allocated_gb_since_last_reset": max(eval_peak_alloc) if eval_peak_alloc else None,
+        "max_eval_peak_vram_reserved_gb_since_last_reset": max(eval_peak_resv) if eval_peak_resv else None,
         "run_peak_vram_allocated_gb": run_peak_alloc_gb,
         "run_peak_vram_reserved_gb": run_peak_resv_gb,
         "memory_measurement_notes": (
-            "train_peak tracked from per-step allocator snapshots; eval peaks from eval logs."
+            "train_peak tracked from per-step allocator snapshots; eval peaks are since-last-reset metrics."
         ),
     }
 
@@ -573,11 +609,80 @@ def _build_run_manifest(
     }
 
 
+def _write_failed_manifest_from_context(exc: Exception) -> None:
+    ctx = _RUN_CONTEXT
+    if not ctx:
+        return
+    if ctx.get("status") in {"completed", "oom"}:
+        return
+    reports_dir = ctx.get("reports_dir")
+    run_id = ctx.get("run_id")
+    exp_name = ctx.get("exp_name")
+    if not reports_dir or not run_id or not exp_name:
+        return
+
+    duration_s = max(0.0, time.time() - float(ctx.get("run_start_wall", time.time())))
+    termination_reason = f"failed:{type(exc).__name__}"
+    try:
+        write_json_artifact(
+            Path(reports_dir) / "run_manifest.json",
+            _build_run_manifest(
+                run_id=run_id,
+                exp_name=exp_name,
+                status="failed",
+                baseline_only=bool(ctx.get("baseline_only", False)),
+                variant=str(ctx.get("variant", "unknown")),
+                protocol_version=str(ctx.get("protocol_version", "protocol_v1")),
+                logging_schema_version=str(ctx.get("logging_schema_version", "logging_v1")),
+                start_time_utc=str(ctx.get("start_time_utc", iso_utc_now())),
+                end_time_utc=iso_utc_now(),
+                duration_s=duration_s,
+                paths=dict(ctx.get("paths_common", {})),
+            ),
+        )
+        write_json_artifact(
+            Path(reports_dir) / "stability_summary.json",
+            {
+                "num_nan_loss_events": 0,
+                "num_inf_loss_events": 0,
+                "num_nonfinite_grad_norm_events": 0,
+                "num_oom_events": 0,
+                "optimizer_reset_count": 0,
+                "terminated_early": True,
+                "termination_reason": termination_reason,
+                "last_completed_step": 0,
+                "max_grad_norm": None,
+                "min_grad_norm": None,
+                "stability_rule_config": {
+                    "finite_checks": ["loss", "grad_norm"],
+                    "event_scope": [
+                        "nan_loss",
+                        "inf_loss",
+                        "nonfinite_grad_norm",
+                        "oom",
+                        "early_termination",
+                    ],
+                },
+            },
+        )
+    except Exception as manifest_err:
+        print(f"[warn] failed to write failed run manifest: {manifest_err}")
+
+
 def main():
     args = parse_args()
     cfg = load_config(args.config)
     run_start_ts = iso_utc_now()
     run_start_wall = time.time()
+    _RUN_CONTEXT.clear()
+    _RUN_CONTEXT.update(
+        {
+            "status": "starting",
+            "start_time_utc": run_start_ts,
+            "run_start_wall": run_start_wall,
+            "baseline_only": bool(args.baseline_only),
+        }
+    )
 
     exp_name = cfg["experiment_name"]
     model_cfg = cfg["model"]
@@ -634,6 +739,18 @@ def main():
         "training_summary": str(output_dir / "training_summary.json"),
         "final_adapter_dir": str(output_dir / "final_adapter"),
     }
+    _RUN_CONTEXT.update(
+        {
+            "status": "running",
+            "run_id": run_id,
+            "exp_name": exp_name,
+            "variant": variant,
+            "protocol_version": protocol_version,
+            "logging_schema_version": logging_schema_version,
+            "reports_dir": str(reports_dir),
+            "paths_common": paths_common,
+        }
+    )
 
     write_yaml_artifact(reports_dir / "resolved_config.yaml", cfg)
     write_json_artifact(reports_dir / "environment.json", build_environment_snapshot())
@@ -786,7 +903,6 @@ def main():
                 "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
                 "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
                 "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
-                "num_loss_spike_events": stability_summary.get("num_loss_spike_events"),
                 "num_nonfinite_events": (
                     stability_summary.get("num_nan_loss_events", 0)
                     + stability_summary.get("num_inf_loss_events", 0)
@@ -818,6 +934,7 @@ def main():
                 },
             ),
         )
+        _RUN_CONTEXT["status"] = "completed"
         print("[info] baseline-only run complete; skipped training and adapter save")
         return
 
@@ -890,6 +1007,7 @@ def main():
                 },
             ),
         )
+        _RUN_CONTEXT["status"] = "oom"
         raise
 
     write_json_artifact(
@@ -1004,7 +1122,6 @@ def main():
             "best_ppl_layer_b": best_eval_row.get("eval_layer_b_perplexity") if best_eval_row else None,
             "train_runtime_s": getattr(train_result, "metrics", {}).get("train_runtime"),
             "train_steps_per_second": getattr(train_result, "metrics", {}).get("train_steps_per_second"),
-            "num_loss_spike_events": stability_summary.get("num_loss_spike_events"),
             "num_nonfinite_events": (
                 stability_summary.get("num_nan_loss_events", 0)
                 + stability_summary.get("num_inf_loss_events", 0)
@@ -1034,7 +1151,14 @@ def main():
             },
         ),
     )
+    _RUN_CONTEXT["status"] = "completed"
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except torch.cuda.OutOfMemoryError:
+        raise
+    except Exception as err:
+        _write_failed_manifest_from_context(err)
+        raise
