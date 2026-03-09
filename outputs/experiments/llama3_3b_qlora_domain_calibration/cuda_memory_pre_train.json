@@ -1,0 +1,14 @@
+{
+  "allocated_bytes": 3090869760,
+  "cuda_available": true,
+  "device_index": 0,
+  "device_name": "NVIDIA GeForce RTX 4070",
+  "device_total_memory_bytes": 12442730496,
+  "free_bytes": 8660779008,
+  "max_allocated_bytes": 4434658304,
+  "max_reserved_bytes": 5217714176,
+  "reserved_bytes": 3095396352,
+  "tag": "pre_train",
+  "total_bytes": 12442730496,
+  "used_bytes_driver_view": 3781951488
+}

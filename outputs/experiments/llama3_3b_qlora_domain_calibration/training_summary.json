@@ -1,0 +1,15 @@
+{
+  "best_metric": 8.834579464109739,
+  "best_model_checkpoint": "/tmp/sc23gs/llama-peft/outputs/llama3_3b_qlora_domain_calibration/checkpoint-75",
+  "experiment_name": "llama3_3b_qlora_domain_calibration",
+  "global_step": 75,
+  "metric_for_best_model": "eval_perplexity",
+  "train_metrics": {
+    "epoch": 0.39893617021276595,
+    "total_flos": 1.04248532533248e+16,
+    "train_loss": 2.138427365620931,
+    "train_runtime": 882.6005,
+    "train_samples_per_second": 0.68,
+    "train_steps_per_second": 0.085
+  }
+}
