@@ -854,7 +854,6 @@ once pilot stats are finalised:
 
 ### remaining gaps after these changes (still relevant)
 - protocol metrics are now emitted in run artifacts (`trainer_state.json`, `training_summary.json`, CUDA snapshot JSONs), but final experiment reporting still requires manual extraction; a single consolidated protocol summary artifact would reduce analysis error.
-- this work was validated in the `/tmp/...` run copy; the workspace copy diverged during debugging (accidental empty `src/train_lora.py`), so source sync/cleanup is still needed before treating workspace diffs as authoritative.
 
 ### local 4070 runs: interpretation update (scope and significance)
 - after exp-003/004/005, local 4070 runs are now treated primarily as:
@@ -869,3 +868,140 @@ once pilot stats are finalised:
   - finalise protocol-v2 constants from short, matched L40s pilot runs (then execute the main matrix on L40s)
 - practical value retained:
   - local runs still inform rough ordering of memory/time tradeoffs and expose failure modes early, which reduces wasted cluster iterations
+
+## 29/02/2026 - 10/03/2026
+
+### focus of this cycle
+
+- transitioned from ad-hoc calibration outputs to a dissertation-oriented reporting pipeline
+- converted the protocol/logging notes into an implementation plan, then into concrete code + script changes
+- prepared the run surface for L40 execution using protocol-v2 defaults while preserving local smoke-test paths
+
+### logging plan evolution (v1 -> v2)
+
+- authored `logs/logging_plan_v1.md` as the initial target schema and implementation map
+- reviewed risk/benefit of each planned metric and failure mode, then narrowed scope in `logs/logging_plan_v2.md`
+- final v2 decisions:
+  - objective stability events only (`nan_loss`, `inf_loss`, `nonfinite_grad_norm`, `oom`, `early_termination`)
+  - timing as summary statistics only (mean, p50, p95, std, count), no per-step raw dumps
+  - explicit VRAM semantics (`train_peak_*` and `*_since_last_reset`) with caveat that eval peaks are not yet strict eval-only isolation
+  - keep postprocessing integrated in trainer flow for now (lower break risk)
+
+### training/reporting orchestration changes
+
+- expanded `src/train_lora.py` into a protocol-aware orchestrator for baseline, training, and artifact lifecycle
+- added baseline-first evaluation semantics and `--baseline-only` mode
+- added run-manifest lifecycle with explicit statuses:
+  - `running`
+  - `completed`
+  - `oom`
+  - `failed`
+- added non-OOM top-level exception path to ensure failed runs still emit manifest + stability summary before raising
+- enforced save/eval schedule guard (`save_steps` multiple of `eval_steps`) for checkpointing consistency
+- preserved best-checkpoint selection by overall eval perplexity and emitted final comparison-ready row
+
+### module split and codebase structure
+
+- extracted reporting/utilities from `train_lora.py` into dedicated modules:
+  - `src/artifacts.py` for JSON/YAML/JSONL/CSV writes and metric sanitization
+  - `src/provenance.py` for environment snapshot and UTC timestamp helpers
+  - `src/callbacks_metrics.py` for step-time collection + train peak VRAM tracking helpers
+  - `src/callbacks_stability.py` for objective stability event extraction and summaries
+- moved aggregator logic from script-level path into `src/compare_runs.py` as canonical entrypoint
+
+### implemented artifact contract
+
+- standardized per-run analysis outputs under `training.output_dir/reports/`:
+  - `run_manifest.json`
+  - `resolved_config.yaml`
+  - `environment.json`
+  - `dataset_summary.json`
+  - `budget_summary.json` (includes `budget_match_key`)
+  - `metrics_history.jsonl`
+  - `eval_summary.csv`
+  - `final_metrics.json`
+  - `memory_summary.json`
+  - `timing_summary.json`
+  - `stability_summary.json`
+  - `stability_events.jsonl`
+  - `comparison_row.json`
+- retained launcher logs in `training.output_dir/raw/run.log`
+- retained HF trainer artifacts/checkpoints in place for compatibility and recovery
+
+### memory, timing, and stability instrumentation decisions
+
+- memory:
+  - baseline, train, and run-level memory summaries emitted with explicit naming
+  - current policy intentionally avoids claiming strict eval-only peak isolation
+- timing:
+  - windowed timing stats logged at eval points and summarized in `timing_summary.json`
+- stability:
+  - removed heuristic loss-spike/divergence counters from primary schema
+  - kept objective, defensible finite-check event accounting
+  - included gradient norm extrema in stability summary for curve interpretation support
+
+### protocol and experiment documentation updates
+
+- drafted `logs/protocol_v2.md` as the early L40 protocol:
+  - base target: `meta-llama/Llama-3-8B`
+  - fixed data/split/seq-len assumptions
+  - matched LoRA vs QLoRA phase-1 comparison
+  - phase-2 QLoRA rank sweep
+  - baseline-before-training requirement
+  - explicit acceptance criteria for moving to frozen v3 constants
+- aligned logging decisions in `logging_plan_v2.md` with what is actually implemented in code (not aspirational-only)
+
+### config and launcher reorganisation
+
+- archived old calibration launchers/configs for traceability:
+  - old scripts moved under `scripts/legacy/`
+  - old configs moved under `configs/legacy/`
+- added new L40 protocol-v2 configs:
+  - `configs/llama3_8b_lora_l40_protocol_v2_phase1_r16_seed42.yaml`
+  - `configs/llama3_8b_qlora_l40_protocol_v2_phase1_r16_seed42.yaml`
+  - `configs/llama3_8b_qlora_l40_protocol_v2_phase2_r32_seed42.yaml`
+  - `configs/llama3_8b_qlora_l40_protocol_v2_phase2_r64_seed42.yaml`
+- added new active L40 launchers:
+  - `scripts/l40/run_l40_config.sh` (single config baseline/train execution)
+  - `scripts/l40/run_protocol_v2.sh` (baseline / phase1 / phase2 / all matrix modes)
+  - `scripts/l40/README.md` with usage and output conventions
+- updated `scripts/run_baseline_eval.sh` to default to protocol-v2 phase-1 baseline matrix and aggregate once at end
+
+### directory-level changes for provenance hygiene
+
+- shifted non-current material into archive paths rather than deleting provenance:
+  - `scripts/legacy/`
+  - `configs/legacy/`
+  - `logs/archive/`
+- kept all active run outputs repo-local (`outputs/...`), avoiding `/tmp` output redirection for experiment artifacts
+
+### current status at end of cycle
+
+- pipeline is now queue-ready for matched LoRA vs QLoRA runs with automatic structured reporting
+- baseline-only runs are first-class and reproducible from scripts
+- aggregation path is standardized (`python3 -m src.compare_runs`)
+- main outstanding refinement remains strict eval-only VRAM isolation (optional, low-risk follow-up before full campaign)
+
+### next planned scripts (cluster readiness)
+
+- add `scripts/cluster/bootstrap_env.sh`
+  - create/update conda env idempotently
+  - install deps from project files
+  - run minimal import checks (`torch`, `transformers`, `peft`, `bitsandbytes`)
+- add `scripts/cluster/preflight.sh`
+  - validate CUDA visibility (`nvidia-smi`), writable output dirs, config existence
+  - validate HF auth is available (`HF_TOKEN` or existing login)
+  - fail fast before queue time is consumed
+- add `scripts/cluster/run_job.sh`
+  - activate env
+  - set cache/env paths for cluster execution
+  - run selected launcher (`scripts/l40/run_protocol_v2.sh ...`) with consistent runtime setup
+
+### next validation sequence
+
+- run a small local smoke test first (baseline-only + short train for LoRA and QLoRA) to verify artifact contract and script integration
+- then submit one early cluster feasibility run on L40 with protocol-v2 phase-1 defaults to confirm:
+  - 8B fit under chosen memory policy
+  - stable baseline->train flow
+  - expected reporting outputs in `reports/` and `raw/run.log`
+- only after this feasibility pass, lock any remaining budget constants for full queued matrix runs
