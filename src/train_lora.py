@@ -338,6 +338,7 @@ def _manual_eval_single_dataset(
     collator,
     batch_size: int,
     metric_key_prefix: str,
+    autocast_dtype: Optional[torch.dtype],
 ) -> dict[str, Any]:
     if dataset is None:
         return {}
@@ -369,7 +370,15 @@ def _manual_eval_single_dataset(
                     k: (v.to(eval_device) if torch.is_tensor(v) else v)
                     for k, v in batch.items()
                 }
-            outputs = model(**batch)
+            use_cuda_autocast = (
+                eval_device is not None
+                and autocast_dtype in {torch.bfloat16, torch.float16}
+            )
+            if use_cuda_autocast:
+                with torch.autocast(device_type="cuda", dtype=autocast_dtype):
+                    outputs = model(**batch)
+            else:
+                outputs = model(**batch)
             loss = float(outputs.loss.detach().float().item())
             batch_samples = int(batch["input_ids"].shape[0]) if "input_ids" in batch else 1
             total_loss_weighted += loss * batch_samples
@@ -409,6 +418,7 @@ def _run_manual_stratified_baseline_eval(
     val_b_ds,
     collator,
     per_device_eval_batch_size: int,
+    autocast_dtype: Optional[torch.dtype],
 ) -> dict[str, Any]:
     metrics = _manual_eval_single_dataset(
         model=model,
@@ -416,6 +426,7 @@ def _run_manual_stratified_baseline_eval(
         collator=collator,
         batch_size=per_device_eval_batch_size,
         metric_key_prefix="baseline",
+        autocast_dtype=autocast_dtype,
     )
     if val_a_ds is not None:
         metrics.update(
@@ -425,6 +436,7 @@ def _run_manual_stratified_baseline_eval(
                 collator=collator,
                 batch_size=per_device_eval_batch_size,
                 metric_key_prefix="baseline_layer_a",
+                autocast_dtype=autocast_dtype,
             )
         )
     if val_b_ds is not None:
@@ -435,6 +447,7 @@ def _run_manual_stratified_baseline_eval(
                 collator=collator,
                 batch_size=per_device_eval_batch_size,
                 metric_key_prefix="baseline_layer_b",
+                autocast_dtype=autocast_dtype,
             )
         )
     return metrics
@@ -1006,6 +1019,7 @@ def main():
             val_b_ds=val_b_ds,
             collator=collator,
             per_device_eval_batch_size=int(train_cfg["per_device_eval_batch_size"]),
+            autocast_dtype=dtype,
         )
         baseline_log_history = [{"step": 0, "epoch": 0.0, **baseline_metrics}]
     else:
