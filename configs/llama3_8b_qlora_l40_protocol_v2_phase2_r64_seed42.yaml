@@ -6,7 +6,7 @@ experiment:
   logging_schema_version: "logging_v2"
 
 model:
-  base_model: "meta-llama/Llama-3-8B"
+  base_model: "meta-llama/Meta-Llama-3-8B"
   dtype: "bfloat16"
   lora:
     r: 64
