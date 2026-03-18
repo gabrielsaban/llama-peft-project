@@ -232,6 +232,50 @@ class StratifiedEvalTrainer(Trainer):
             f"{metric_key_prefix}_peak_vram_reserved_gb_since_last_reset": peak_reserved / gb,
         }
 
+    @staticmethod
+    def _sync_cuda() -> None:
+        if torch.cuda.is_available():
+            torch.cuda.synchronize()
+
+    @staticmethod
+    def _reset_cuda_peak_stats() -> None:
+        if not torch.cuda.is_available():
+            return
+        for device_idx in range(torch.cuda.device_count()):
+            torch.cuda.reset_peak_memory_stats(device_idx)
+
+    def _evaluate_with_isolated_eval_vram(
+        self,
+        *,
+        eval_dataset,
+        ignore_keys,
+        metric_key_prefix: str,
+    ) -> dict[str, Any]:
+        # Reset allocator peak counters immediately before each eval pass.
+        # This makes the resulting peak values strict eval-only measurements.
+        self._sync_cuda()
+        self._reset_cuda_peak_stats()
+
+        metrics = Trainer.evaluate(
+            self,
+            eval_dataset=eval_dataset,
+            ignore_keys=ignore_keys,
+            metric_key_prefix=metric_key_prefix,
+        )
+        self._add_perplexity(metrics, metric_key_prefix)
+
+        self._sync_cuda()
+        peak_metrics = self._peak_vram_metrics(metric_key_prefix)
+        metrics.update(peak_metrics)
+        if peak_metrics:
+            metrics[f"{metric_key_prefix}_peak_vram_allocated_gb_eval_only"] = peak_metrics[
+                f"{metric_key_prefix}_peak_vram_allocated_gb"
+            ]
+            metrics[f"{metric_key_prefix}_peak_vram_reserved_gb_eval_only"] = peak_metrics[
+                f"{metric_key_prefix}_peak_vram_reserved_gb"
+            ]
+        return metrics
+
     def _interval_step_time_metrics(self, metric_key_prefix: str) -> dict[str, Any]:
         stats = self._train_step_time_tracker.consume_interval_stats()
         return {
@@ -260,36 +304,29 @@ class StratifiedEvalTrainer(Trainer):
             metrics[f"{prefix}_perplexity"] = float("inf")
 
     def evaluate(self, eval_dataset=None, ignore_keys=None, metric_key_prefix: str = "eval"):
-        metrics = Trainer.evaluate(
-            self,
+        metrics = self._evaluate_with_isolated_eval_vram(
             eval_dataset=eval_dataset,
             ignore_keys=ignore_keys,
             metric_key_prefix=metric_key_prefix,
         )
-        self._add_perplexity(metrics, metric_key_prefix)
 
         if self.eval_dataset_layer_a is not None:
-            metrics_a = Trainer.evaluate(
-                self,
+            metrics_a = self._evaluate_with_isolated_eval_vram(
                 eval_dataset=self.eval_dataset_layer_a,
                 ignore_keys=ignore_keys,
                 metric_key_prefix=f"{metric_key_prefix}_layer_a",
             )
-            self._add_perplexity(metrics_a, f"{metric_key_prefix}_layer_a")
             metrics.update(metrics_a)
 
         if self.eval_dataset_layer_b is not None:
-            metrics_b = Trainer.evaluate(
-                self,
+            metrics_b = self._evaluate_with_isolated_eval_vram(
                 eval_dataset=self.eval_dataset_layer_b,
                 ignore_keys=ignore_keys,
                 metric_key_prefix=f"{metric_key_prefix}_layer_b",
             )
-            self._add_perplexity(metrics_b, f"{metric_key_prefix}_layer_b")
             metrics.update(metrics_b)
 
         metrics.update(self._interval_step_time_metrics(metric_key_prefix))
-        metrics.update(self._peak_vram_metrics(metric_key_prefix))
         self.log(metrics)
         return metrics
 
@@ -476,6 +513,14 @@ def _extract_eval_rows(run_id: str, baseline_metrics: dict[str, Any], log_histor
                 "baseline_peak_vram_reserved_gb_since_last_reset",
                 baseline_metrics.get("baseline_peak_vram_reserved_gb"),
             ),
+            "eval_peak_vram_allocated_gb_eval_only": baseline_metrics.get(
+                "baseline_peak_vram_allocated_gb_eval_only",
+                baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+            ),
+            "eval_peak_vram_reserved_gb_eval_only": baseline_metrics.get(
+                "baseline_peak_vram_reserved_gb_eval_only",
+                baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+            ),
         }
     ]
 
@@ -508,6 +553,14 @@ def _extract_eval_rows(run_id: str, baseline_metrics: dict[str, Any], log_histor
                     "eval_peak_vram_reserved_gb_since_last_reset",
                     item.get("eval_peak_vram_reserved_gb"),
                 ),
+                "eval_peak_vram_allocated_gb_eval_only": item.get(
+                    "eval_peak_vram_allocated_gb_eval_only",
+                    item.get("eval_peak_vram_allocated_gb"),
+                ),
+                "eval_peak_vram_reserved_gb_eval_only": item.get(
+                    "eval_peak_vram_reserved_gb_eval_only",
+                    item.get("eval_peak_vram_reserved_gb"),
+                ),
             }
         )
     return rows
@@ -528,14 +581,20 @@ def _build_memory_summary(
 ) -> dict[str, Any]:
     eval_peak_alloc = collect_finite(
         [
-            r.get("eval_peak_vram_allocated_gb_since_last_reset", r.get("eval_peak_vram_allocated_gb"))
+            r.get(
+                "eval_peak_vram_allocated_gb_eval_only",
+                r.get("eval_peak_vram_allocated_gb_since_last_reset", r.get("eval_peak_vram_allocated_gb")),
+            )
             for r in eval_rows
             if r.get("phase") == "eval"
         ]
     )
     eval_peak_resv = collect_finite(
         [
-            r.get("eval_peak_vram_reserved_gb_since_last_reset", r.get("eval_peak_vram_reserved_gb"))
+            r.get(
+                "eval_peak_vram_reserved_gb_eval_only",
+                r.get("eval_peak_vram_reserved_gb_since_last_reset", r.get("eval_peak_vram_reserved_gb")),
+            )
             for r in eval_rows
             if r.get("phase") == "eval"
         ]
@@ -569,14 +628,25 @@ def _build_memory_summary(
             "baseline_peak_vram_reserved_gb_since_last_reset",
             baseline_metrics.get("baseline_peak_vram_reserved_gb"),
         ),
+        "baseline_eval_peak_vram_allocated_gb_eval_only": baseline_metrics.get(
+            "baseline_peak_vram_allocated_gb_eval_only",
+            baseline_metrics.get("baseline_peak_vram_allocated_gb"),
+        ),
+        "baseline_eval_peak_vram_reserved_gb_eval_only": baseline_metrics.get(
+            "baseline_peak_vram_reserved_gb_eval_only",
+            baseline_metrics.get("baseline_peak_vram_reserved_gb"),
+        ),
         "train_peak_vram_allocated_gb": train_peak_alloc,
         "train_peak_vram_reserved_gb": train_peak_resv,
         "max_eval_peak_vram_allocated_gb_since_last_reset": max(eval_peak_alloc) if eval_peak_alloc else None,
         "max_eval_peak_vram_reserved_gb_since_last_reset": max(eval_peak_resv) if eval_peak_resv else None,
+        "max_eval_peak_vram_allocated_gb_eval_only": max(eval_peak_alloc) if eval_peak_alloc else None,
+        "max_eval_peak_vram_reserved_gb_eval_only": max(eval_peak_resv) if eval_peak_resv else None,
         "run_peak_vram_allocated_gb": run_peak_alloc_gb,
         "run_peak_vram_reserved_gb": run_peak_resv_gb,
         "memory_measurement_notes": (
-            "train_peak tracked from per-step allocator snapshots; eval peaks are since-last-reset metrics."
+            "train_peak tracked from per-step allocator snapshots; eval peaks use strict eval-only "
+            "CUDA peak resets (since-last-reset aliases retained for backward compatibility)."
         ),
     }
 

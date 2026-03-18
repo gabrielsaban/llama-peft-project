@@ -74,6 +74,8 @@ def write_eval_summary_csv(path: Path, rows: list[dict[str, Any]]) -> None:
         "eval_peak_vram_reserved_gb",
         "eval_peak_vram_allocated_gb_since_last_reset",
         "eval_peak_vram_reserved_gb_since_last_reset",
+        "eval_peak_vram_allocated_gb_eval_only",
+        "eval_peak_vram_reserved_gb_eval_only",
     ]
     with path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
