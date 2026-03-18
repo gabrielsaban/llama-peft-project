@@ -14,6 +14,7 @@ from typing import Any, Optional
 import torch
 import yaml
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
+from torch.utils.data import DataLoader
 from transformers import (
     AutoModelForCausalLM,
     BitsAndBytesConfig,
@@ -329,6 +330,114 @@ class StratifiedEvalTrainer(Trainer):
         metrics.update(self._interval_step_time_metrics(metric_key_prefix))
         self.log(metrics)
         return metrics
+
+
+def _manual_eval_single_dataset(
+    model,
+    dataset,
+    collator,
+    batch_size: int,
+    metric_key_prefix: str,
+) -> dict[str, Any]:
+    if dataset is None:
+        return {}
+
+    StratifiedEvalTrainer._sync_cuda()
+    StratifiedEvalTrainer._reset_cuda_peak_stats()
+
+    was_training = bool(model.training)
+    model.eval()
+
+    dataloader = DataLoader(
+        dataset,
+        batch_size=batch_size,
+        shuffle=False,
+        collate_fn=collator,
+    )
+
+    eval_device = torch.device("cuda", torch.cuda.current_device()) if torch.cuda.is_available() else None
+    total_loss_weighted = 0.0
+    total_samples = 0
+    total_steps = 0
+    t0 = time.perf_counter()
+
+    with torch.no_grad():
+        for batch in dataloader:
+            total_steps += 1
+            if eval_device is not None:
+                batch = {
+                    k: (v.to(eval_device) if torch.is_tensor(v) else v)
+                    for k, v in batch.items()
+                }
+            outputs = model(**batch)
+            loss = float(outputs.loss.detach().float().item())
+            batch_samples = int(batch["input_ids"].shape[0]) if "input_ids" in batch else 1
+            total_loss_weighted += loss * batch_samples
+            total_samples += batch_samples
+
+    runtime = max(1e-12, time.perf_counter() - t0)
+    mean_loss = (total_loss_weighted / total_samples) if total_samples > 0 else float("nan")
+    metrics: dict[str, Any] = {
+        f"{metric_key_prefix}_loss": mean_loss,
+        f"{metric_key_prefix}_runtime": runtime,
+        f"{metric_key_prefix}_samples_per_second": (total_samples / runtime) if total_samples > 0 else 0.0,
+        f"{metric_key_prefix}_steps_per_second": (total_steps / runtime) if total_steps > 0 else 0.0,
+    }
+    StratifiedEvalTrainer._add_perplexity(metrics, metric_key_prefix)
+
+    StratifiedEvalTrainer._sync_cuda()
+    peak_metrics = StratifiedEvalTrainer._peak_vram_metrics(metric_key_prefix)
+    metrics.update(peak_metrics)
+    if peak_metrics:
+        metrics[f"{metric_key_prefix}_peak_vram_allocated_gb_eval_only"] = peak_metrics[
+            f"{metric_key_prefix}_peak_vram_allocated_gb"
+        ]
+        metrics[f"{metric_key_prefix}_peak_vram_reserved_gb_eval_only"] = peak_metrics[
+            f"{metric_key_prefix}_peak_vram_reserved_gb"
+        ]
+
+    if was_training:
+        model.train()
+
+    return metrics
+
+
+def _run_manual_stratified_baseline_eval(
+    model,
+    val_ds,
+    val_a_ds,
+    val_b_ds,
+    collator,
+    per_device_eval_batch_size: int,
+) -> dict[str, Any]:
+    metrics = _manual_eval_single_dataset(
+        model=model,
+        dataset=val_ds,
+        collator=collator,
+        batch_size=per_device_eval_batch_size,
+        metric_key_prefix="baseline",
+    )
+    if val_a_ds is not None:
+        metrics.update(
+            _manual_eval_single_dataset(
+                model=model,
+                dataset=val_a_ds,
+                collator=collator,
+                batch_size=per_device_eval_batch_size,
+                metric_key_prefix="baseline_layer_a",
+            )
+        )
+    if val_b_ds is not None:
+        metrics.update(
+            _manual_eval_single_dataset(
+                model=model,
+                dataset=val_b_ds,
+                collator=collator,
+                batch_size=per_device_eval_batch_size,
+                metric_key_prefix="baseline_layer_b",
+            )
+        )
+    return metrics
 
 
 def get_datasets_and_collator(
@@ -883,24 +992,43 @@ def main():
         log_level="info",
     )
 
-    baseline_trainer = StratifiedEvalTrainer(
-        model=model,
-        args=training_args,
-        train_dataset=train_ds,
-        eval_dataset=val_ds,
-        eval_dataset_layer_a=val_a_ds,
-        eval_dataset_layer_b=val_b_ds,
-        data_collator=collator,
-    )
+    baseline_log_history: list[dict[str, Any]]
+    baseline_global_step = 0
+    if use_4bit:
+        print(
+            "[info] running manual baseline eval for quantized base model "
+            "(Trainer requires PEFT adapters for quantized models)"
+        )
+        baseline_metrics = _run_manual_stratified_baseline_eval(
+            model=model,
+            val_ds=val_ds,
+            val_a_ds=val_a_ds,
+            val_b_ds=val_b_ds,
+            collator=collator,
+            per_device_eval_batch_size=int(train_cfg["per_device_eval_batch_size"]),
+        )
+        baseline_log_history = [{"step": 0, "epoch": 0.0, **baseline_metrics}]
+    else:
+        baseline_trainer = StratifiedEvalTrainer(
+            model=model,
+            args=training_args,
+            train_dataset=train_ds,
+            eval_dataset=val_ds,
+            eval_dataset_layer_a=val_a_ds,
+            eval_dataset_layer_b=val_b_ds,
+            data_collator=collator,
+        )
+        baseline_metrics = baseline_trainer.evaluate(metric_key_prefix="baseline")
+        baseline_log_history = list(baseline_trainer.state.log_history)
+        baseline_global_step = int(baseline_trainer.state.global_step)
 
-    baseline_metrics = baseline_trainer.evaluate(metric_key_prefix="baseline")
     write_json_artifact(
         output_dir / "baseline_eval_metrics.json",
         {
             "experiment_name": exp_name,
             "run_id": run_id,
             "variant": variant,
-            "global_step": int(baseline_trainer.state.global_step),
+            "global_step": baseline_global_step,
             "baseline_only": bool(args.baseline_only),
             "metrics": json_safe_metrics(baseline_metrics),
         },
@@ -908,11 +1036,11 @@ def main():
     baseline_run_peak_snapshot = _log_cuda_memory_snapshot("post_baseline_eval_preclear", output_dir)
 
     if args.baseline_only:
-        eval_rows = _extract_eval_rows(run_id, baseline_metrics, baseline_trainer.state.log_history)
+        eval_rows = _extract_eval_rows(run_id, baseline_metrics, baseline_log_history)
         write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
         write_jsonl_rows(
             reports_dir / "metrics_history.jsonl",
-            _build_metrics_history_rows(baseline_trainer.state.log_history),
+            _build_metrics_history_rows(baseline_log_history),
         )
         write_json_artifact(
             reports_dir / "budget_summary.json",
@@ -931,7 +1059,7 @@ def main():
                 train_peak_metrics=None,
             ),
         )
-        stability_summary, stability_events = build_stability_artifacts(baseline_trainer.state.log_history)
+        stability_summary, stability_events = build_stability_artifacts(baseline_log_history)
         write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
         write_jsonl_rows(reports_dir / "stability_events.jsonl", stability_events)
 
@@ -941,7 +1069,7 @@ def main():
                 "experiment_name": exp_name,
                 "run_id": run_id,
                 "variant": variant,
-                "global_step": int(baseline_trainer.state.global_step),
+                "global_step": baseline_global_step,
                 "mode": "baseline_only",
                 "metrics": json_safe_metrics(baseline_metrics),
             },
