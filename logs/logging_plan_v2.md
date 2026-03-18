@@ -102,15 +102,15 @@ justification:
 justification:
 - captures useful efficiency signal with low storage and low overhead.
 
-### memory (current)
+### memory
 
 - explicit semantics adopted:
   - `train_peak_vram_*`: sampled during training steps
-  - `*_peak_vram_*_since_last_reset`: cumulative peaks since CUDA reset boundary
-- no claim that current eval peaks are strict eval-only.
+  - strict eval-only peaks via CUDA peak reset immediately before each eval pass
+  - `*_peak_vram_*_since_last_reset` retained as backward-compatible aliases
 
 justification:
-- low-risk, transparent semantics now; stricter isolation can be added later.
+- low-risk implementation with explicit semantics and backward compatibility.
 
 ---
 
@@ -163,8 +163,7 @@ justification:
   - perplexity
   - step-time summaries
   - objective stability events
-  - memory with explicit `since_last_reset` caveat
-- strict eval-only VRAM isolation is still a refinement item.
+  - memory with strict eval-only peak isolation + backward-compatible aliases
 - postprocess remains integrated in `train_lora.py`, so architecture is improved but not fully decoupled.
 
 ---
@@ -172,7 +171,6 @@ justification:
 ## next plans (short)
 
 1. make active launcher(s) repo-output-only (no `/tmp` output override).
-2. optionally add strict eval-only peak VRAM fields with isolated resets around each eval sub-pass.
+2. keep strict eval-only VRAM fields stable in downstream analysis scripts (no schema drift).
 3. keep stability scope objective unless protocol explicitly defines spike/divergence thresholds.
 4. run one baseline-only smoke run and one short train smoke run to validate final artifact semantics before queueing full experiments.
-
