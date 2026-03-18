@@ -61,7 +61,7 @@ CONDA_BASE="$(conda info --base)"
 source "${CONDA_BASE}/etc/profile.d/conda.sh"
 
 ENV_EXISTS="$(
-  conda env list --json | python3 - "${ENV_NAME}" <<'PY'
+  conda env list --json | python3 -c '
 import json
 import os
 import sys
@@ -71,7 +71,7 @@ data = json.load(sys.stdin)
 suffix = os.sep + target
 exists = any(p.endswith(suffix) for p in data.get("envs", []))
 print("1" if exists else "0")
-PY
+' "${ENV_NAME}"
 )"
 
 if [[ "${ENV_EXISTS}" == "1" ]]; then
