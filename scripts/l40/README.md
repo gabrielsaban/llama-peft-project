@@ -48,6 +48,14 @@ Everything in order:
 scripts/l40/run_protocol_v2.sh all
 ```
 
+## Smoke run
+
+Short L40 smoke config:
+
+```bash
+scripts/l40/run_l40_config.sh configs/llama3_8b_lora_l40_protocol_v2_smoke_seed42.yaml
+```
+
 ## Output behavior
 
 - All run outputs are repo-local under each config `training.output_dir`.
