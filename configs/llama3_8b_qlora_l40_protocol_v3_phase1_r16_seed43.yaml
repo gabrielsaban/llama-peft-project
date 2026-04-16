@@ -1,0 +1,43 @@
+experiment_name: "llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed43"
+
+experiment:
+  variant: "qlora"
+  protocol_version: "protocol_v3"
+  logging_schema_version: "logging_v2"
+
+model:
+  base_model: "meta-llama/Meta-Llama-3-8B"
+  dtype: "bfloat16"
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]
+
+data:
+  type: "domain_corpus_lm"
+  corpus_dir: "data/domain_corpus/corpus_final"
+  split_json: "data/splits/intrinsic_splits.json"
+  max_seq_length: 1024
+
+training:
+  output_dir: "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed43"
+  per_device_train_batch_size: 2
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 4
+  max_steps: 350
+  learning_rate: 2e-4
+  warmup_ratio: 0.05
+  weight_decay: 0.01
+  logging_steps: 10
+  save_steps: 50
+  eval_steps: 50
+  seed: 43
+
+hardware:
+  use_4bit: true
+  gradient_checkpointing: false
+  attn_implementation: "sdpa"
+  flash_sdp: true
+  mem_efficient_sdp: false
+  math_sdp: false

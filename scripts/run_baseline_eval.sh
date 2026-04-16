@@ -6,8 +6,8 @@ cd "${ROOT_DIR}"
 
 RUNNER="${ROOT_DIR}/scripts/l40/run_l40_config.sh"
 DEFAULT_CONFIGS=(
-  "configs/llama3_8b_lora_l40_protocol_v2_phase1_r16_seed42.yaml"
-  "configs/llama3_8b_qlora_l40_protocol_v2_phase1_r16_seed42.yaml"
+  "configs/llama3_8b_lora_l40_protocol_v3_phase1_r16_seed42.yaml"
+  "configs/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed42.yaml"
 )
 
 usage() {
@@ -15,7 +15,7 @@ usage() {
 usage: scripts/run_baseline_eval.sh [config.yaml ...] [--no-aggregate]
 
 defaults:
-  if no config is supplied, runs baseline-only for both protocol-v2 phase1 configs.
+  if no config is supplied, runs baseline-only for both protocol-v3 phase1 seed42 configs.
 
 options:
   --no-aggregate  skip final src.compare_runs aggregation
