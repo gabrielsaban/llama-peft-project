@@ -1005,3 +1005,94 @@ once pilot stats are finalised:
   - stable baseline->train flow
   - expected reporting outputs in `reports/` and `raw/run.log`
 - only after this feasibility pass, lock any remaining budget constants for full queued matrix runs
+
+---
+
+## 18/03/2026
+
+### focus of this cycle
+
+- executed the first target-hardware smoke sequence on the l40s cluster using the new protocol-v2 smoke configs
+- followed the smoke validation immediately with the first matched 8b `LoRA` vs `QLoRA` phase-1 runs
+- used the resulting artifacts to validate both the runtime path and the comparison-reporting surface on the actual dissertation hardware
+
+### smoke-sequence outcomes on l40s
+
+- lora smoke, first attempt:
+  - failed before training because the old repo id `meta-llama/Llama-3-8B` returned a Hugging Face `404`
+  - this exposed a stale model identifier in the cluster-facing path even though auth/preflight were otherwise fine
+- lora smoke, retry:
+  - completed successfully to `global_step=60`
+  - best checkpoint selected at `checkpoint-60` with overall ppl `7.49702369870933`
+- qlora smoke, first attempt:
+  - failed because `Trainer` rejected baseline evaluation on a purely quantized base model
+- qlora smoke, second attempt:
+  - progressed past the earlier failure but manual quantized baseline eval hit `RuntimeError: No available kernel`
+  - stderr also showed SDPA backend warnings about the attention kernel path / dtype compatibility
+- qlora smoke, third attempt:
+  - completed successfully to `global_step=60`
+  - best checkpoint selected at `checkpoint-60` with overall ppl `7.735624442560863`
+
+### successful smoke-run signals worth retaining
+
+- lora smoke:
+  - baseline ppl `7.96124154702041` -> best/final ppl `7.49702369870933`
+  - train runtime `286.9355s`
+  - final interval mean train step time `1.9831009615212678 s`
+  - final eval peak VRAM `30.8867 / 31.2266 GB` (allocated / reserved)
+  - no objective stability events
+- qlora smoke:
+  - baseline ppl `8.316989216966332` -> best/final ppl `7.735624442560863`
+  - train runtime `708.1932s`
+  - final interval mean train step time `4.9800805320031944 s`
+  - final eval peak VRAM `8.7093 / 14.2168 GB` (allocated / reserved)
+  - no objective stability events
+
+### first matched 8b phase-1 runs on target hardware
+
+- executed:
+  - `configs/llama3_8b_lora_l40_protocol_v2_phase1_r16_seed42.yaml`
+  - `configs/llama3_8b_qlora_l40_protocol_v2_phase1_r16_seed42.yaml`
+- both runs completed successfully to `global_step=750`
+- both selected `checkpoint-350` as best by overall validation perplexity
+- no `nan`, `inf`, `nonfinite_grad_norm`, or `oom` events were recorded in either run
+
+### early matched phase-1 comparison signals
+
+- lora phase-1:
+  - baseline overall ppl `7.96124154702041`
+  - best overall ppl `7.273406827525719`
+  - final overall ppl `7.556342419382136`
+  - train runtime `2338.8683s`
+  - final interval mean train step time `1.9952422510832548 s`
+  - eval peak VRAM `16.3823 / 31.2266 GB`
+- qlora phase-1:
+  - baseline overall ppl `8.316989216966332`
+  - best overall ppl `7.407259106615078`
+  - final overall ppl `7.6764739765545285`
+  - train runtime `5814.2578s`
+  - final interval mean train step time `5.006487159579993 s`
+  - eval peak VRAM `8.7093 / 14.2168 GB`
+
+### reporting / orchestration validation
+
+- `src.compare_runs` aggregation was exercised successfully across the completed smoke + phase-1 runs
+- aggregate outputs confirmed four completed comparison rows:
+  - `llama3_8b_lora_l40_protocol_v2_smoke_seed42`
+  - `llama3_8b_qlora_l40_protocol_v2_smoke_seed42`
+  - `llama3_8b_lora_l40_protocol_v2_phase1_r16_seed42`
+  - `llama3_8b_qlora_l40_protocol_v2_phase1_r16_seed42`
+- this is useful because it validates the intended dissertation-facing path:
+  - per-run reports
+  - comparison-row normalization
+  - multi-run aggregation without manual extraction
+
+### interpretation at this point
+
+- the target-hardware pipeline is now validated end-to-end for both bf16 `LoRA` and 4-bit `QLoRA`
+- the qlora path required two smoke-debug iterations on l40s before it became stable, so those failures should be retained as real development evidence rather than forgotten retries
+- early matched target-hardware behaviour is now visible and consistent with expectation:
+  - `LoRA` achieved lower held-out perplexity in the first matched `r=16` run
+  - `QLoRA` delivered a much lower memory footprint
+  - `QLoRA` was materially slower in wall-clock and step-time terms
+- this is the first point where freezing a final `protocol_v3` becomes realistic without further large pipeline changes
