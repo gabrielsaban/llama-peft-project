@@ -695,6 +695,13 @@ def _best_eval_row_from_eval_rows(rows: list[dict[str, Any]]) -> Optional[dict[s
     return min(eval_rows, key=lambda r: float(r["eval_perplexity"]))
 
 
+def _final_eval_row_from_eval_rows(rows: list[dict[str, Any]]) -> Optional[dict[str, Any]]:
+    eval_rows = [r for r in rows if r.get("phase") == "eval"]
+    if not eval_rows:
+        return None
+    return eval_rows[-1]
+
+
 def _build_memory_summary(
     baseline_metrics: dict[str, Any],
     eval_rows: list[dict[str, Any]],
@@ -771,6 +778,180 @@ def _build_memory_summary(
             "CUDA peak resets (since-last-reset aliases retained for backward compatibility)."
         ),
     }
+
+
+def _safe_delta(value: Any, baseline: Any) -> Optional[float]:
+    if value is None or baseline is None:
+        return None
+    try:
+        delta = float(value) - float(baseline)
+    except (TypeError, ValueError):
+        return None
+    return delta if math.isfinite(delta) else None
+
+
+def _build_deltas_from_baseline(
+    eval_row: Optional[dict[str, Any]],
+    baseline_metrics: dict[str, Any],
+) -> Optional[dict[str, Optional[float]]]:
+    if not eval_row:
+        return None
+    return {
+        "delta_ppl_all": _safe_delta(
+            eval_row.get("eval_perplexity"),
+            baseline_metrics.get("baseline_perplexity"),
+        ),
+        "delta_ppl_layer_a": _safe_delta(
+            eval_row.get("eval_layer_a_perplexity"),
+            baseline_metrics.get("baseline_layer_a_perplexity"),
+        ),
+        "delta_ppl_layer_b": _safe_delta(
+            eval_row.get("eval_layer_b_perplexity"),
+            baseline_metrics.get("baseline_layer_b_perplexity"),
+        ),
+    }
+
+
+def _build_final_metrics_payload(
+    run_id: str,
+    variant: str,
+    baseline_metrics: dict[str, Any],
+    best_eval_row: Optional[dict[str, Any]],
+    final_eval_row: Optional[dict[str, Any]],
+    mode: str = "train_and_eval",
+) -> dict[str, Any]:
+    best_deltas = _build_deltas_from_baseline(best_eval_row, baseline_metrics)
+    final_deltas = _build_deltas_from_baseline(final_eval_row, baseline_metrics)
+    deltas_payload: dict[str, Any] = {
+        "best_eval": best_deltas,
+        "final_eval": final_deltas,
+    }
+    if best_deltas is not None:
+        deltas_payload.update(best_deltas)
+
+    payload = {
+        "run_id": run_id,
+        "variant": variant,
+        "mode": mode,
+        "selection_metric": "eval_perplexity",
+        "baseline": {
+            "perplexity_all": baseline_metrics.get("baseline_perplexity"),
+            "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
+            "perplexity_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+        },
+        "best_eval": best_eval_row,
+        "final_eval": final_eval_row,
+        "deltas_from_baseline": deltas_payload,
+    }
+    if mode == "baseline_only":
+        payload.pop("best_eval")
+        payload.pop("final_eval")
+        payload["deltas_from_baseline"] = None
+    return payload
+
+
+def _build_comparison_row(
+    *,
+    run_id: str,
+    exp_name: str,
+    variant: str,
+    mode: str,
+    status: str,
+    base_model_name: str,
+    use_4bit: bool,
+    protocol_version: str,
+    logging_schema_version: str,
+    train_cfg: dict[str, Any],
+    data_cfg: dict[str, Any],
+    hw_cfg: dict[str, Any],
+    lora_cfg: dict[str, Any],
+    baseline_metrics: dict[str, Any],
+    best_eval_row: Optional[dict[str, Any]],
+    final_eval_row: Optional[dict[str, Any]],
+    timing_summary: dict[str, Any],
+    memory_summary: dict[str, Any],
+    stability_summary: dict[str, Any],
+) -> dict[str, Any]:
+    best_deltas = _build_deltas_from_baseline(best_eval_row, baseline_metrics)
+    final_deltas = _build_deltas_from_baseline(final_eval_row, baseline_metrics)
+    num_nonfinite_events = (
+        int(stability_summary.get("num_nan_loss_events", 0) or 0)
+        + int(stability_summary.get("num_inf_loss_events", 0) or 0)
+        + int(stability_summary.get("num_nonfinite_grad_norm_events", 0) or 0)
+    )
+    row = {
+        "run_id": run_id,
+        "experiment_name": exp_name,
+        "variant": variant,
+        "mode": mode,
+        "protocol_version": protocol_version,
+        "logging_schema_version": logging_schema_version,
+        "base_model": base_model_name,
+        "use_4bit": bool(use_4bit),
+        "gradient_checkpointing": bool(hw_cfg.get("gradient_checkpointing", False)),
+        "seed": int(train_cfg["seed"]),
+        "rank": int(lora_cfg["r"]) if lora_cfg.get("r") is not None else None,
+        "alpha": int(lora_cfg["alpha"]) if lora_cfg.get("alpha") is not None else None,
+        "lora_dropout": float(lora_cfg["dropout"]) if lora_cfg.get("dropout") is not None else None,
+        "per_device_train_batch_size": int(train_cfg["per_device_train_batch_size"]),
+        "per_device_eval_batch_size": int(train_cfg["per_device_eval_batch_size"]),
+        "gradient_accumulation_steps": int(train_cfg["gradient_accumulation_steps"]),
+        "effective_batch_size_sequences": int(train_cfg["per_device_train_batch_size"])
+        * int(train_cfg["gradient_accumulation_steps"]),
+        "max_steps": int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None,
+        "max_seq_length": int(data_cfg["max_seq_length"]),
+        "learning_rate": float(train_cfg["learning_rate"]),
+        "warmup_ratio": float(train_cfg["warmup_ratio"]),
+        "weight_decay": float(train_cfg["weight_decay"]),
+        "logging_steps": int(train_cfg["logging_steps"]),
+        "eval_steps": int(train_cfg["eval_steps"]),
+        "save_steps": int(train_cfg["save_steps"]),
+        "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
+        "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
+        "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
+        "best_step": best_eval_row.get("step") if best_eval_row else None,
+        "best_ppl_all": best_eval_row.get("eval_perplexity") if best_eval_row else None,
+        "best_ppl_layer_a": best_eval_row.get("eval_layer_a_perplexity") if best_eval_row else None,
+        "best_ppl_layer_b": best_eval_row.get("eval_layer_b_perplexity") if best_eval_row else None,
+        "final_step": final_eval_row.get("step") if final_eval_row else None,
+        "final_ppl_all": final_eval_row.get("eval_perplexity") if final_eval_row else None,
+        "final_ppl_layer_a": final_eval_row.get("eval_layer_a_perplexity") if final_eval_row else None,
+        "final_ppl_layer_b": final_eval_row.get("eval_layer_b_perplexity") if final_eval_row else None,
+        "delta_best_ppl_all": best_deltas.get("delta_ppl_all") if best_deltas else None,
+        "delta_best_ppl_layer_a": best_deltas.get("delta_ppl_layer_a") if best_deltas else None,
+        "delta_best_ppl_layer_b": best_deltas.get("delta_ppl_layer_b") if best_deltas else None,
+        "delta_final_ppl_all": final_deltas.get("delta_ppl_all") if final_deltas else None,
+        "delta_final_ppl_layer_a": final_deltas.get("delta_ppl_layer_a") if final_deltas else None,
+        "delta_final_ppl_layer_b": final_deltas.get("delta_ppl_layer_b") if final_deltas else None,
+        "baseline_eval_peak_vram_allocated_gb": memory_summary.get("baseline_eval_peak_vram_allocated_gb"),
+        "baseline_eval_peak_vram_reserved_gb": memory_summary.get("baseline_eval_peak_vram_reserved_gb"),
+        "train_peak_vram_allocated_gb": memory_summary.get("train_peak_vram_allocated_gb"),
+        "train_peak_vram_reserved_gb": memory_summary.get("train_peak_vram_reserved_gb"),
+        "max_eval_peak_vram_allocated_gb": memory_summary.get("max_eval_peak_vram_allocated_gb_eval_only"),
+        "max_eval_peak_vram_reserved_gb": memory_summary.get("max_eval_peak_vram_reserved_gb_eval_only"),
+        "run_peak_vram_allocated_gb": memory_summary.get("run_peak_vram_allocated_gb"),
+        "run_peak_vram_reserved_gb": memory_summary.get("run_peak_vram_reserved_gb"),
+        "train_runtime_s": timing_summary.get("train_runtime_s"),
+        "train_steps_per_second": timing_summary.get("train_steps_per_second"),
+        "step_time_mean_s": timing_summary.get("optimizer_step_time_mean_s"),
+        "step_time_p50_s": timing_summary.get("optimizer_step_time_p50_s"),
+        "step_time_p95_s": timing_summary.get("optimizer_step_time_p95_s"),
+        "step_time_std_s": timing_summary.get("optimizer_step_time_std_s"),
+        "step_time_sample_count": timing_summary.get("num_step_time_samples"),
+        "num_nan_loss_events": stability_summary.get("num_nan_loss_events", 0),
+        "num_inf_loss_events": stability_summary.get("num_inf_loss_events", 0),
+        "num_nonfinite_grad_norm_events": stability_summary.get("num_nonfinite_grad_norm_events", 0),
+        "num_nonfinite_events": num_nonfinite_events,
+        "num_oom_events": stability_summary.get("num_oom_events", 0),
+        "optimizer_reset_count": stability_summary.get("optimizer_reset_count", 0),
+        "terminated_early": stability_summary.get("terminated_early", False),
+        "termination_reason": stability_summary.get("termination_reason"),
+        "last_completed_step": stability_summary.get("last_completed_step"),
+        "max_grad_norm": stability_summary.get("max_grad_norm"),
+        "min_grad_norm": stability_summary.get("min_grad_norm"),
+        "status": status,
+    }
+    return json_safe_metrics(row)
 
 
 def _build_run_manifest(
@@ -1060,18 +1241,20 @@ def main():
             reports_dir / "budget_summary.json",
             _build_budget_summary(train_cfg, data_cfg, max_steps_completed=0),
         )
+        timing_summary = build_timing_summary(train_metrics={}, eval_rows=eval_rows, baseline_only=True)
         write_json_artifact(
             reports_dir / "timing_summary.json",
-            build_timing_summary(train_metrics={}, eval_rows=eval_rows, baseline_only=True),
+            timing_summary,
+        )
+        memory_summary = _build_memory_summary(
+            baseline_metrics=baseline_metrics,
+            eval_rows=eval_rows,
+            run_peak_snapshot=baseline_run_peak_snapshot,
+            train_peak_metrics=None,
         )
         write_json_artifact(
             reports_dir / "memory_summary.json",
-            _build_memory_summary(
-                baseline_metrics=baseline_metrics,
-                eval_rows=eval_rows,
-                run_peak_snapshot=baseline_run_peak_snapshot,
-                train_peak_metrics=None,
-            ),
+            memory_summary,
         )
         stability_summary, stability_events = build_stability_artifacts(baseline_log_history)
         write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
@@ -1090,38 +1273,38 @@ def main():
         )
         write_json_artifact(
             reports_dir / "final_metrics.json",
-            {
-                "run_id": run_id,
-                "variant": variant,
-                "mode": "baseline_only",
-                "selection_metric": "eval_perplexity",
-                "baseline": {
-                    "perplexity_all": baseline_metrics.get("baseline_perplexity"),
-                    "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
-                    "perplexity_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
-                },
-            },
+            _build_final_metrics_payload(
+                run_id=run_id,
+                variant=variant,
+                baseline_metrics=baseline_metrics,
+                best_eval_row=None,
+                final_eval_row=None,
+                mode="baseline_only",
+            ),
         )
         write_json_artifact(
             reports_dir / "comparison_row.json",
-            {
-                "run_id": run_id,
-                "experiment_name": exp_name,
-                "variant": variant,
-                "mode": "baseline_only",
-                "base_model": base_model_name,
-                "use_4bit": bool(use_4bit),
-                "seed": int(train_cfg["seed"]),
-                "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
-                "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
-                "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
-                "num_nonfinite_events": (
-                    stability_summary.get("num_nan_loss_events", 0)
-                    + stability_summary.get("num_inf_loss_events", 0)
-                    + stability_summary.get("num_nonfinite_grad_norm_events", 0)
-                ),
-                "status": "completed",
-            },
+            _build_comparison_row(
+                run_id=run_id,
+                exp_name=exp_name,
+                variant=variant,
+                mode="baseline_only",
+                status="completed",
+                base_model_name=base_model_name,
+                use_4bit=use_4bit,
+                protocol_version=protocol_version,
+                logging_schema_version=logging_schema_version,
+                train_cfg=train_cfg,
+                data_cfg=data_cfg,
+                hw_cfg=hw_cfg,
+                lora_cfg=model_cfg["lora"],
+                baseline_metrics=baseline_metrics,
+                best_eval_row=None,
+                final_eval_row=None,
+                timing_summary=timing_summary,
+                memory_summary=memory_summary,
+                stability_summary=stability_summary,
+            ),
         )
 
         run_end_ts = iso_utc_now()
@@ -1183,7 +1366,7 @@ def main():
     try:
         train_result = trainer.train()
     except torch.cuda.OutOfMemoryError:
-        _log_cuda_memory_snapshot("oom_exception", output_dir)
+        oom_snapshot = _log_cuda_memory_snapshot("oom_exception", output_dir)
         if torch.cuda.is_available():
             try:
                 oom_mem_summary = torch.cuda.memory_summary(abbreviated=True)
@@ -1192,12 +1375,68 @@ def main():
             except Exception as mem_summary_err:
                 print(f"[warn] failed to capture cuda memory_summary after OOM: {mem_summary_err}")
 
+        eval_rows = _extract_eval_rows(run_id, baseline_metrics, trainer.state.log_history)
+        write_eval_summary_csv(reports_dir / "eval_summary.csv", eval_rows)
+        write_jsonl_rows(
+            reports_dir / "metrics_history.jsonl",
+            _build_metrics_history_rows(trainer.state.log_history),
+        )
+        write_json_artifact(
+            reports_dir / "budget_summary.json",
+            _build_budget_summary(train_cfg, data_cfg, max_steps_completed=int(trainer.state.global_step)),
+        )
+
         stability_summary, stability_events = build_stability_artifacts(trainer.state.log_history)
         stability_summary["num_oom_events"] = 1
         stability_summary["terminated_early"] = True
         stability_summary["termination_reason"] = "oom"
+        timing_summary = build_timing_summary(train_metrics={}, eval_rows=eval_rows, baseline_only=False)
+        memory_summary = _build_memory_summary(
+            baseline_metrics=baseline_metrics,
+            eval_rows=eval_rows,
+            run_peak_snapshot=oom_snapshot,
+            train_peak_metrics=trainer.train_peak_vram_metrics(),
+        )
+        write_json_artifact(reports_dir / "timing_summary.json", timing_summary)
+        write_json_artifact(reports_dir / "memory_summary.json", memory_summary)
         write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
         write_jsonl_rows(reports_dir / "stability_events.jsonl", stability_events)
+        best_eval_row = _best_eval_row_from_eval_rows(eval_rows)
+        final_eval_row = _final_eval_row_from_eval_rows(eval_rows)
+        write_json_artifact(
+            reports_dir / "final_metrics.json",
+            _build_final_metrics_payload(
+                run_id=run_id,
+                variant=variant,
+                baseline_metrics=baseline_metrics,
+                best_eval_row=best_eval_row,
+                final_eval_row=final_eval_row,
+            ),
+        )
+        write_json_artifact(
+            reports_dir / "comparison_row.json",
+            _build_comparison_row(
+                run_id=run_id,
+                exp_name=exp_name,
+                variant=variant,
+                mode="train_and_eval",
+                status="oom",
+                base_model_name=base_model_name,
+                use_4bit=use_4bit,
+                protocol_version=protocol_version,
+                logging_schema_version=logging_schema_version,
+                train_cfg=train_cfg,
+                data_cfg=data_cfg,
+                hw_cfg=hw_cfg,
+                lora_cfg=model_cfg["lora"],
+                baseline_metrics=baseline_metrics,
+                best_eval_row=best_eval_row,
+                final_eval_row=final_eval_row,
+                timing_summary=timing_summary,
+                memory_summary=memory_summary,
+                stability_summary=stability_summary,
+            ),
+        )
 
         write_json_artifact(
             reports_dir / "run_manifest.json",
@@ -1214,6 +1453,8 @@ def main():
                 duration_s=time.time() - run_start_wall,
                 paths={
                     **paths_common,
+                    "eval_summary_csv": str(reports_dir / "eval_summary.csv"),
+                    "comparison_row": str(reports_dir / "comparison_row.json"),
                     "oom_snapshot": str(output_dir / "cuda_memory_oom_exception.json"),
                     "oom_summary": str(output_dir / "cuda_memory_oom_summary.txt"),
                 },
@@ -1250,97 +1491,65 @@ def main():
         reports_dir / "budget_summary.json",
         _build_budget_summary(train_cfg, data_cfg, max_steps_completed=max_steps_completed),
     )
+    timing_summary = build_timing_summary(
+        train_metrics=getattr(train_result, "metrics", {}),
+        eval_rows=eval_rows,
+        baseline_only=False,
+    )
     write_json_artifact(
         reports_dir / "timing_summary.json",
-        build_timing_summary(
-            train_metrics=getattr(train_result, "metrics", {}),
-            eval_rows=eval_rows,
-            baseline_only=False,
-        ),
+        timing_summary,
+    )
+    memory_summary = _build_memory_summary(
+        baseline_metrics=baseline_metrics,
+        eval_rows=eval_rows,
+        run_peak_snapshot=post_train_peak_snapshot,
+        train_peak_metrics=trainer.train_peak_vram_metrics(),
     )
     write_json_artifact(
         reports_dir / "memory_summary.json",
-        _build_memory_summary(
-            baseline_metrics=baseline_metrics,
-            eval_rows=eval_rows,
-            run_peak_snapshot=post_train_peak_snapshot,
-            train_peak_metrics=trainer.train_peak_vram_metrics(),
-        ),
+        memory_summary,
     )
     stability_summary, stability_events = build_stability_artifacts(trainer.state.log_history)
     write_json_artifact(reports_dir / "stability_summary.json", stability_summary)
     write_jsonl_rows(reports_dir / "stability_events.jsonl", stability_events)
 
     best_eval_row = _best_eval_row_from_eval_rows(eval_rows)
-    final_eval_row = eval_rows[-1] if eval_rows else None
+    final_eval_row = _final_eval_row_from_eval_rows(eval_rows)
     write_json_artifact(
         reports_dir / "final_metrics.json",
-        {
-            "run_id": run_id,
-            "variant": variant,
-            "selection_metric": "eval_perplexity",
-            "baseline": {
-                "perplexity_all": baseline_metrics.get("baseline_perplexity"),
-                "perplexity_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
-                "perplexity_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
-            },
-            "best_eval": best_eval_row,
-            "final_eval": final_eval_row,
-            "deltas_from_baseline": (
-                {
-                    "delta_ppl_all": (
-                        best_eval_row.get("eval_perplexity") - baseline_metrics.get("baseline_perplexity")
-                    )
-                    if best_eval_row and baseline_metrics.get("baseline_perplexity") is not None
-                    else None,
-                    "delta_ppl_layer_a": (
-                        best_eval_row.get("eval_layer_a_perplexity")
-                        - baseline_metrics.get("baseline_layer_a_perplexity")
-                    )
-                    if best_eval_row and baseline_metrics.get("baseline_layer_a_perplexity") is not None
-                    else None,
-                    "delta_ppl_layer_b": (
-                        best_eval_row.get("eval_layer_b_perplexity")
-                        - baseline_metrics.get("baseline_layer_b_perplexity")
-                    )
-                    if best_eval_row and baseline_metrics.get("baseline_layer_b_perplexity") is not None
-                    else None,
-                }
-                if best_eval_row
-                else None
-            ),
-        },
+        _build_final_metrics_payload(
+            run_id=run_id,
+            variant=variant,
+            baseline_metrics=baseline_metrics,
+            best_eval_row=best_eval_row,
+            final_eval_row=final_eval_row,
+        ),
     )
 
     write_json_artifact(
         reports_dir / "comparison_row.json",
-        {
-            "run_id": run_id,
-            "experiment_name": exp_name,
-            "variant": variant,
-            "base_model": base_model_name,
-            "use_4bit": bool(use_4bit),
-            "gradient_checkpointing": bool(hw_cfg.get("gradient_checkpointing", False)),
-            "seed": int(train_cfg["seed"]),
-            "max_steps": int(train_cfg["max_steps"]) if train_cfg.get("max_steps") is not None else None,
-            "effective_batch_size_sequences": int(train_cfg["per_device_train_batch_size"])
-            * int(train_cfg["gradient_accumulation_steps"]),
-            "max_seq_length": int(data_cfg["max_seq_length"]),
-            "baseline_ppl_all": baseline_metrics.get("baseline_perplexity"),
-            "baseline_ppl_layer_a": baseline_metrics.get("baseline_layer_a_perplexity"),
-            "baseline_ppl_layer_b": baseline_metrics.get("baseline_layer_b_perplexity"),
-            "best_ppl_all": best_eval_row.get("eval_perplexity") if best_eval_row else None,
-            "best_ppl_layer_a": best_eval_row.get("eval_layer_a_perplexity") if best_eval_row else None,
-            "best_ppl_layer_b": best_eval_row.get("eval_layer_b_perplexity") if best_eval_row else None,
-            "train_runtime_s": getattr(train_result, "metrics", {}).get("train_runtime"),
-            "train_steps_per_second": getattr(train_result, "metrics", {}).get("train_steps_per_second"),
-            "num_nonfinite_events": (
-                stability_summary.get("num_nan_loss_events", 0)
-                + stability_summary.get("num_inf_loss_events", 0)
-                + stability_summary.get("num_nonfinite_grad_norm_events", 0)
-            ),
-            "status": "completed",
-        },
+        _build_comparison_row(
+            run_id=run_id,
+            exp_name=exp_name,
+            variant=variant,
+            mode="train_and_eval",
+            status="completed",
+            base_model_name=base_model_name,
+            use_4bit=use_4bit,
+            protocol_version=protocol_version,
+            logging_schema_version=logging_schema_version,
+            train_cfg=train_cfg,
+            data_cfg=data_cfg,
+            hw_cfg=hw_cfg,
+            lora_cfg=model_cfg["lora"],
+            baseline_metrics=baseline_metrics,
+            best_eval_row=best_eval_row,
+            final_eval_row=final_eval_row,
+            timing_summary=timing_summary,
+            memory_summary=memory_summary,
+            stability_summary=stability_summary,
+        ),
     )
 
     write_json_artifact(
