@@ -39,6 +39,11 @@ fi
 PROJECT_ROOT="${PROJECT_ROOT:-${SCRATCH:-${HOME}}/repos/llama-peft-project}"
 cd "${PROJECT_ROOT}"
 
+SLURM_LOG_DIR="${PROJECT_ROOT}/outputs/slurm_logs"
+mkdir -p "${SLURM_LOG_DIR}"
+exec >>"${SLURM_LOG_DIR}/protocol_v3-${SLURM_JOB_ID:-manual}.out" \
+     2>>"${SLURM_LOG_DIR}/protocol_v3-${SLURM_JOB_ID:-manual}.err"
+
 if [[ $# -eq 0 ]]; then
   set -- --matrix phase1
 elif [[ "$1" == "baseline" || "$1" == "phase1" || "$1" == "phase2" || "$1" == "all" ]]; then

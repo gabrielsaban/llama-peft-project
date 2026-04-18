@@ -86,7 +86,9 @@ echo "[info] cwd: ${ROOT_DIR}"
 echo "[info] python: $(command -v python3)"
 echo "[info] python_version: $(python3 --version 2>&1)"
 
-CMD=(python3 -m src.train_lora --config "${CONFIG}")
+export PYTHONUNBUFFERED=1
+
+CMD=(python3 -u -m src.train_lora --config "${CONFIG}")
 if [[ "${RUN_MODE}" == "baseline_only" ]]; then
   CMD+=(--baseline-only)
 fi

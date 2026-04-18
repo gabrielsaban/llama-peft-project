@@ -1096,3 +1096,82 @@ once pilot stats are finalised:
   - `QLoRA` delivered a much lower memory footprint
   - `QLoRA` was materially slower in wall-clock and step-time terms
 - this is the first point where freezing a final `protocol_v3` becomes realistic without further large pipeline changes
+
+---
+
+## 18/04/2026
+
+### focus of this cycle
+
+- audited the first `protocol_v3` cluster campaign after partial completion on L40S
+- separated completed scientific runs from launcher / infrastructure failures before touching the frozen recipe
+- implemented the smallest launch-path fixes needed to finish the remaining queue safely
+
+### completed runs confirmed at this point
+
+- `phase1` LoRA `r=16`:
+  - `seed42`
+  - `seed43`
+  - `seed44`
+- `phase1` QLoRA `r=16`:
+  - `seed43`
+  - `seed44`
+- `phase2` QLoRA `r=32`:
+  - `seed42`
+
+### partial scientific signals retained
+
+- LoRA `phase1 r16` completed cleanly across all three seeds with near-identical final held-out ppl:
+  - `7.2665`
+  - `7.2695`
+  - `7.2651`
+- completed QLoRA `phase1 r16` seeds were also closely matched:
+  - `7.4133`
+  - `7.4130`
+- early rank-sweep signal from `QLoRA r32 seed42` suggested a modest quality recovery versus `QLoRA r16`:
+  - `7.3833` overall ppl at step `350`
+
+### failure analysis
+
+- the original `phase1` matrix batch did **not** fail because of the training recipe:
+  - all three LoRA runs completed
+  - the batch then aborted on wrapper stdout writes with:
+    - `tee: 'standard output': Read-only file system`
+    - `echo: write error: Read-only file system`
+- later stuck jobs showed a different pattern:
+  - no `reports/run_manifest.json`
+  - no checkpoints
+  - no progress beyond the initial launcher lines
+  - very low CPU / RSS on Slurm accounting
+- this placed the stall **before** normal artifact creation, most likely in tokenizer / model startup rather than during optimisation
+
+### cache / concurrency diagnosis
+
+- inspected the shared Hugging Face cache path under `~/.cache/llama-peft/hf`
+- found multiple live lock files under:
+  - `transformers/.locks/models--meta-llama--Meta-Llama-3-8B/...`
+- combined with the startup-only hang pattern, this strongly suggested concurrent jobs were contending on a shared cache / lock namespace
+
+### launch-path fixes applied
+
+- updated `scripts/cluster/run_job.sh` so default HF cache locations become **per-Slurm-job** rather than globally shared:
+  - `HF_HOME=~/.cache/llama-peft/hf/$SLURM_JOB_ID`
+- updated `scripts/l40/run_l40_config.sh` to run Python unbuffered:
+  - `python3 -u -m src.train_lora ...`
+  - this improves live visibility into early startup and reduces ambiguity when a run stalls
+- updated `jobs/protocol_v3.sbatch` to redirect wrapper stdout / stderr into repo-local scratch-backed files under:
+  - `outputs/slurm_logs/`
+  - this is intended to reduce dependence on the default Slurm stdout sink after the earlier read-only stdout failure
+
+### protocol integrity note
+
+- no scientific constants were changed
+- no training config files were changed
+- no seeds, budgets, model settings, data settings, or adapter settings were changed
+- these adjustments are recorded as **launcher / infrastructure fixes only**, which is permitted under the `protocol_v3` freeze because the affected runs failed for non-recipe reasons
+
+### immediate next action
+
+- cancel only the clearly hung jobs
+- rerun only the missing configs under the patched launcher path
+- preserve all already-completed runs as valid final-campaign evidence

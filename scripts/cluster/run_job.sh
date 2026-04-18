@@ -101,11 +101,17 @@ if [[ -n "${HF_TOKEN:-}" ]] && command -v huggingface-cli >/dev/null 2>&1; then
 fi
 
 # Keep HF caches out of tracked repo paths while leaving experiment outputs in-repo.
-export HF_HOME="${HF_HOME:-${HOME}/.cache/llama-peft/hf}"
+# Default to per-Slurm-job cache isolation so concurrent jobs do not contend on shared
+# Hugging Face lock files during tokenizer/model startup.
+JOB_CACHE_NAMESPACE="${SLURM_JOB_ID:-shared}"
+export HF_HOME="${HF_HOME:-${HOME}/.cache/llama-peft/hf/${JOB_CACHE_NAMESPACE}}"
 export HUGGINGFACE_HUB_CACHE="${HUGGINGFACE_HUB_CACHE:-${HF_HOME}/hub}"
 export TRANSFORMERS_CACHE="${TRANSFORMERS_CACHE:-${HF_HOME}/transformers}"
 export HF_XET_CACHE="${HF_XET_CACHE:-${HF_HOME}/xet}"
 mkdir -p "${HUGGINGFACE_HUB_CACHE}" "${TRANSFORMERS_CACHE}" "${HF_XET_CACHE}"
+
+echo "[info] hf_home: ${HF_HOME}"
+echo "[info] hf_hub_cache: ${HUGGINGFACE_HUB_CACHE}"
 
 PREFLIGHT="${ROOT_DIR}/scripts/cluster/preflight.sh"
 RUN_SINGLE="${ROOT_DIR}/scripts/l40/run_l40_config.sh"
