@@ -179,7 +179,7 @@ def _is_finite_number(value: Any) -> bool:
 def _numeric_summary(values: list[float]) -> dict[str, float | int]:
     return {
         "mean": statistics.fmean(values),
-        "std": statistics.pstdev(values) if len(values) > 1 else 0.0,
+        "std": statistics.stdev(values) if len(values) > 1 else 0.0,
         "min": min(values),
         "max": max(values),
         "n": len(values),
