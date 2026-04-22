@@ -1,0 +1,70 @@
+{
+  "baseline": {
+    "perplexity_all": 8.316989216966332,
+    "perplexity_layer_a": 8.646641110051549,
+    "perplexity_layer_b": 5.311128582088765
+  },
+  "best_eval": {
+    "eval_layer_a_loss": 2.040689468383789,
+    "eval_layer_a_perplexity": 7.695913459123449,
+    "eval_layer_b_loss": 1.5335371494293213,
+    "eval_layer_b_perplexity": 4.634540927893142,
+    "eval_loss": 1.9992256164550781,
+    "eval_peak_vram_allocated_gb": 8.887051582336426,
+    "eval_peak_vram_allocated_gb_eval_only": 8.887051582336426,
+    "eval_peak_vram_allocated_gb_since_last_reset": 8.887051582336426,
+    "eval_peak_vram_reserved_gb": 14.470703125,
+    "eval_peak_vram_reserved_gb_eval_only": 14.470703125,
+    "eval_peak_vram_reserved_gb_since_last_reset": 14.470703125,
+    "eval_perplexity": 7.383336350400535,
+    "phase": "eval",
+    "run_id": "llama3_8b_qlora_l40_protocol_v3_phase2_r32_seed42__1776439568",
+    "step": 350,
+    "train_step_time_mean_s_window": 4.924836075007915,
+    "train_step_time_num_samples_window": 50,
+    "train_step_time_p50_s_window": 4.924792633973993,
+    "train_step_time_p95_s_window": 4.925985610974021,
+    "train_step_time_std_s_window": 0.0006945243397069215
+  },
+  "deltas_from_baseline": {
+    "best_eval": {
+      "delta_ppl_all": -0.9336528665657973,
+      "delta_ppl_layer_a": -0.9507276509281004,
+      "delta_ppl_layer_b": -0.6765876541956226
+    },
+    "delta_ppl_all": -0.9336528665657973,
+    "delta_ppl_layer_a": -0.9507276509281004,
+    "delta_ppl_layer_b": -0.6765876541956226,
+    "final_eval": {
+      "delta_ppl_all": -0.9336528665657973,
+      "delta_ppl_layer_a": -0.9507276509281004,
+      "delta_ppl_layer_b": -0.6765876541956226
+    }
+  },
+  "final_eval": {
+    "eval_layer_a_loss": 2.040689468383789,
+    "eval_layer_a_perplexity": 7.695913459123449,
+    "eval_layer_b_loss": 1.5335371494293213,
+    "eval_layer_b_perplexity": 4.634540927893142,
+    "eval_loss": 1.9992256164550781,
+    "eval_peak_vram_allocated_gb": 8.887051582336426,
+    "eval_peak_vram_allocated_gb_eval_only": 8.887051582336426,
+    "eval_peak_vram_allocated_gb_since_last_reset": 8.887051582336426,
+    "eval_peak_vram_reserved_gb": 14.470703125,
+    "eval_peak_vram_reserved_gb_eval_only": 14.470703125,
+    "eval_peak_vram_reserved_gb_since_last_reset": 14.470703125,
+    "eval_perplexity": 7.383336350400535,
+    "phase": "eval",
+    "run_id": "llama3_8b_qlora_l40_protocol_v3_phase2_r32_seed42__1776439568",
+    "step": 350,
+    "train_step_time_mean_s_window": 4.924836075007915,
+    "train_step_time_num_samples_window": 50,
+    "train_step_time_p50_s_window": 4.924792633973993,
+    "train_step_time_p95_s_window": 4.925985610974021,
+    "train_step_time_std_s_window": 0.0006945243397069215
+  },
+  "mode": "train_and_eval",
+  "run_id": "llama3_8b_qlora_l40_protocol_v3_phase2_r32_seed42__1776439568",
+  "selection_metric": "eval_perplexity",
+  "variant": "qlora"
+}

@@ -1,0 +1,14 @@
+{
+  "allocated_bytes": 8476296704,
+  "cuda_available": true,
+  "device_index": 0,
+  "device_name": "NVIDIA L40S",
+  "device_total_memory_bytes": 47697362944,
+  "free_bytes": 31062360064,
+  "max_allocated_bytes": 9924080128,
+  "max_reserved_bytes": 16085155840,
+  "reserved_bytes": 16085155840,
+  "tag": "post_train",
+  "total_bytes": 47697362944,
+  "used_bytes_driver_view": 16635002880
+}

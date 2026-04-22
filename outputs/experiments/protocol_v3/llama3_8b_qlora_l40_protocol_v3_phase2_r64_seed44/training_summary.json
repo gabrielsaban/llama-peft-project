@@ -1,0 +1,17 @@
+{
+  "best_metric": 7.384257937820027,
+  "best_model_checkpoint": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase2_r64_seed44/checkpoint-350",
+  "experiment_name": "llama3_8b_qlora_l40_protocol_v3_phase2_r64_seed44",
+  "global_step": 350,
+  "metric_for_best_model": "eval_perplexity",
+  "run_id": "llama3_8b_qlora_l40_protocol_v3_phase2_r64_seed44__1776870643",
+  "train_metrics": {
+    "epoch": 1.8617021276595744,
+    "total_flos": 1.300467409747968e+17,
+    "train_loss": 1.8867668751307896,
+    "train_runtime": 2713.1371,
+    "train_samples_per_second": 1.032,
+    "train_steps_per_second": 0.129
+  },
+  "variant": "qlora"
+}

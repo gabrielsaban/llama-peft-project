@@ -1,0 +1,23 @@
+{
+  "budget_basis": {
+    "eval_steps": 50,
+    "gradient_accumulation_steps": 4,
+    "max_seq_length": 1024,
+    "max_steps_planned": 350,
+    "per_device_train_batch_size": 2,
+    "save_steps": 50
+  },
+  "budget_match_key": "bdabb8a6acea8990",
+  "effective_batch_size_sequences": 8,
+  "eval_steps": 50,
+  "gradient_accumulation_steps": 4,
+  "max_seq_length": 1024,
+  "max_steps_completed": 350,
+  "max_steps_planned": 350,
+  "per_device_train_batch_size": 2,
+  "planned_tokens_processed": 2867200,
+  "realized_tokens_processed": 2867200,
+  "save_steps": 50,
+  "seed": 43,
+  "tokens_per_optimizer_step": 8192
+}

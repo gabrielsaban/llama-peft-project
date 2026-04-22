@@ -1,0 +1,19 @@
+{
+  "bitsandbytes_version": "0.44.1",
+  "command": "/mnt/scratch/sc23gs/repos/llama-peft-project/src/train_lora.py --config configs/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed42.yaml",
+  "cuda_available": true,
+  "cuda_device_index": 0,
+  "cuda_device_name": "NVIDIA L40S",
+  "cuda_total_memory_bytes": 47697362944,
+  "cwd": "/mnt/scratch/sc23gs/repos/llama-peft-project",
+  "datasets_version": "3.0.1",
+  "git_commit": "9774eff",
+  "git_dirty": true,
+  "hostname": "gpu027.aire.lee.alces.network",
+  "peft_version": "0.13.2",
+  "python_executable": "/users/sc23gs/.conda/envs/llama-peft/bin/python3",
+  "python_version": "3.11.14 (main, Oct 21 2025, 18:31:21) [GCC 11.2.0]",
+  "torch_cuda_version": "12.1",
+  "torch_version": "2.3.1",
+  "transformers_version": "4.46.2"
+}

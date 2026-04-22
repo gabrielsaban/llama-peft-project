@@ -1,0 +1,17 @@
+{
+  "baseline_eval_peak_vram_allocated_gb": 8.768091201782227,
+  "baseline_eval_peak_vram_allocated_gb_eval_only": 8.768091201782227,
+  "baseline_eval_peak_vram_allocated_gb_since_last_reset": 8.768091201782227,
+  "baseline_eval_peak_vram_reserved_gb": 9.31640625,
+  "baseline_eval_peak_vram_reserved_gb_eval_only": 9.31640625,
+  "baseline_eval_peak_vram_reserved_gb_since_last_reset": 9.31640625,
+  "max_eval_peak_vram_allocated_gb_eval_only": 9.242520332336426,
+  "max_eval_peak_vram_allocated_gb_since_last_reset": 9.242520332336426,
+  "max_eval_peak_vram_reserved_gb_eval_only": 14.98046875,
+  "max_eval_peak_vram_reserved_gb_since_last_reset": 14.98046875,
+  "memory_measurement_notes": "train_peak tracked from per-step allocator snapshots; eval peaks use strict eval-only CUDA peak resets (since-last-reset aliases retained for backward compatibility).",
+  "run_peak_vram_allocated_gb": 9.242519855499268,
+  "run_peak_vram_reserved_gb": 14.98046875,
+  "train_peak_vram_allocated_gb": 7.894351482391357,
+  "train_peak_vram_reserved_gb": 14.98046875
+}

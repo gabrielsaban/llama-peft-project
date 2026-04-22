@@ -1,0 +1,25 @@
+{
+  "last_completed_step": 350,
+  "max_grad_norm": 0.4894864559173584,
+  "min_grad_norm": 0.25194603204727173,
+  "num_inf_loss_events": 0,
+  "num_nan_loss_events": 0,
+  "num_nonfinite_grad_norm_events": 0,
+  "num_oom_events": 0,
+  "optimizer_reset_count": 0,
+  "stability_rule_config": {
+    "event_scope": [
+      "nan_loss",
+      "inf_loss",
+      "nonfinite_grad_norm",
+      "oom",
+      "early_termination"
+    ],
+    "finite_checks": [
+      "loss",
+      "grad_norm"
+    ]
+  },
+  "terminated_early": false,
+  "termination_reason": "completed"
+}

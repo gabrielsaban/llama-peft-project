@@ -1,0 +1,11 @@
+{
+  "mode": "train_and_eval",
+  "num_step_time_samples": 7,
+  "optimizer_step_time_mean_s": 1.9882623734019165,
+  "optimizer_step_time_p50_s": 1.9834724271809683,
+  "optimizer_step_time_p95_s": 2.0016947646993213,
+  "optimizer_step_time_std_s": 0.008330747362921245,
+  "timing_window_definition": "windowed mean optimizer step time emitted at each eval interval",
+  "train_runtime_s": 1085.6701,
+  "train_steps_per_second": 0.322
+}

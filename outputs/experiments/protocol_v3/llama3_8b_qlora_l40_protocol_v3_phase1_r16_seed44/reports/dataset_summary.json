@@ -1,0 +1,37 @@
+{
+  "corpus_dir": "data/domain_corpus/corpus_final",
+  "data_type": "domain_corpus_lm",
+  "max_seq_length": 1024,
+  "split_json": "data/splits/intrinsic_splits.json",
+  "split_seed": 42,
+  "stratification": [
+    "layer",
+    "token_quartile"
+  ],
+  "tokens_by_split": {
+    "layer_a": {
+      "total": 1602190,
+      "train": 1362559,
+      "val": 239631
+    },
+    "layer_b": {
+      "total": 200237,
+      "train": 177970,
+      "val": 22267
+    },
+    "overall": {
+      "total": 1802427,
+      "train": 1540529,
+      "val": 261898
+    }
+  },
+  "train_chunks_total": 1504,
+  "train_docs_total": 195,
+  "val_chunks_layer_a": 234,
+  "val_chunks_layer_b": 21,
+  "val_chunks_total": 255,
+  "val_docs_layer_a": 26,
+  "val_docs_layer_b": 9,
+  "val_docs_total": 35,
+  "val_ratio": 0.15
+}

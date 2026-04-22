@@ -1,0 +1,23 @@
+{
+  "baseline_only": false,
+  "duration_s": 2958.215658903122,
+  "end_time_utc": "2026-04-17T17:58:00.979561+00:00",
+  "experiment_name": "llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44",
+  "logging_schema_version": "logging_v2",
+  "paths": {
+    "baseline_eval_metrics": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/baseline_eval_metrics.json",
+    "comparison_row": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/reports/comparison_row.json",
+    "config_path": "configs/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44.yaml",
+    "eval_summary_csv": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/reports/eval_summary.csv",
+    "final_adapter_dir": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/final_adapter",
+    "output_dir": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44",
+    "reports_dir": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/reports",
+    "run_log": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/raw/run.log",
+    "training_summary": "outputs/experiments/protocol_v3/llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44/training_summary.json"
+  },
+  "protocol_version": "protocol_v3",
+  "run_id": "llama3_8b_qlora_l40_protocol_v3_phase1_r16_seed44__1776445865",
+  "start_time_utc": "2026-04-17T17:08:42.763905+00:00",
+  "status": "completed",
+  "variant": "qlora"
+}

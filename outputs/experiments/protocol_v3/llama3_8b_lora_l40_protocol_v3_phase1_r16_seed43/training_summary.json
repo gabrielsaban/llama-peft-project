@@ -1,0 +1,17 @@
+{
+  "best_metric": 7.269486182795859,
+  "best_model_checkpoint": "outputs/experiments/protocol_v3/llama3_8b_lora_l40_protocol_v3_phase1_r16_seed43/checkpoint-350",
+  "experiment_name": "llama3_8b_lora_l40_protocol_v3_phase1_r16_seed43",
+  "global_step": 350,
+  "metric_for_best_model": "eval_perplexity",
+  "run_id": "llama3_8b_lora_l40_protocol_v3_phase1_r16_seed43__1776439424",
+  "train_metrics": {
+    "epoch": 1.8617021276595744,
+    "total_flos": 1.29343225331712e+17,
+    "train_loss": 1.9164565876552038,
+    "train_runtime": 1088.8724,
+    "train_samples_per_second": 2.571,
+    "train_steps_per_second": 0.321
+  },
+  "variant": "lora"
+}
