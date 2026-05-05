@@ -100,5 +100,5 @@ echo
 
 if [[ "${DO_AGGREGATE}" -eq 1 ]]; then
   echo "[info] aggregating comparison rows"
-  python3 -m src.compare_runs --root outputs --out-dir outputs/reports_index
+  python3 -m src.compare_runs --root outputs --out-dir outputs/reports_index/protocol_v3
 fi
