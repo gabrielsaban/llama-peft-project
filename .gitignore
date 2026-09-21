@@ -25,6 +25,12 @@ REPORT_COMPLETION_CHANGE_ORDER.md
 outputs/reports_index/*.csv
 outputs/reports_index/*.json
 
+# Generated model artefacts are stored outside git. The compact evidence layer
+# under each run's reports/ directory remains tracked.
+outputs/**/adapter_model.safetensors
+outputs/**/tokenizer.json
+outputs/**/training_args.bin
+
 # C extensions
 *.so
 

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this research artefact, please cite the dissertation below.
+title: Reproducibility artefact for Quantisation Effects in Parameter-Efficient Domain Adaptation
+type: software
+authors:
+  - family-names: Saban
+    given-names: Gabriel
+    alias: gabrielsaban
+version: 1.0.0
+date-released: 2026-05-06
+repository-code: https://github.com/gabrielsaban/llama-peft-project
+url: https://github.com/gabrielsaban/llama-peft-project
+license: MIT
+keywords:
+  - LoRA
+  - QLoRA
+  - parameter-efficient fine-tuning
+  - domain-adaptive continued pretraining
+  - quantisation
+  - legal NLP
+  - Llama 3
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Saban
+      given-names: Gabriel
+  title: Quantisation Effects in Parameter-Efficient Domain Adaptation - A Matched LoRA/QLoRA Study on UK Employment-Law Text
+  year: 2026
+  institution:
+    name: University of Leeds
+  url: https://github.com/gabrielsaban/llama-peft-project

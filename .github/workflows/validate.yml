@@ -1,0 +1,26 @@
+name: validate research artefact
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Compile Python sources
+        run: python -m compileall -q src preprocess scripts
+      - name: Inspect frozen protocol
+        run: bash scripts/reproduce_protocol_v3.sh inspect
+      - name: Validate final evidence
+        run: python scripts/validate_protocol_v3_artifact.py
